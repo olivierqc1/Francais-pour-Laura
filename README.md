@@ -43,3 +43,4 @@ Tout le contenu est dans les fichiers JSON de `/data/`. Chaque objet suit le mê
 - Typographie: Cormorant Garamond (titres) + Outfit (texte)
 - Couleurs: rouge érable (#c8451a) + or (#c9993a) sur fond noir chaud
 - Mobile-first avec nav mobile fixe
+ 

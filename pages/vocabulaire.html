@@ -1,1 +1,161 @@
-aha
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulario — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" class="active" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+    </div>
+    <div class="lang-toggle">
+      <button data-lang="es">ES</button>
+      <button data-lang="ca">CA</button>
+    </div>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html" class="active"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">📚 <span data-es="Módulo 1" data-ca="Mòdul 1">Módulo 1</span></div>
+    <h1 data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</h1>
+    <p data-es="Haz clic en la tarjeta para ver la traducción. Navega por los temas para descubrir la cultura québécoise." data-ca="Fes clic a la targeta per veure la traducció. Navega pels temes per descobrir la cultura québécoise.">Haz clic en la tarjeta para ver la traducción. Navega por los temas para descubrir la cultura québécoise.</p>
+  </div>
+
+  <div class="tabs" id="cat-tabs"></div>
+
+  <div class="card fade-up delay-1">
+    <div class="score-bar">
+      <span class="score-pill" id="card-counter">1 / 1</span>
+      <div class="progress-line"><div class="progress-line-fill" id="progress-fill" style="width:10%"></div></div>
+    </div>
+
+    <div class="flashcard-scene" onclick="flipCard()">
+      <div class="flashcard-inner" id="flashcard">
+        <div class="flashcard-face flashcard-front">
+          <div class="flashcard-emoji" id="card-emoji">🍁</div>
+          <div class="flashcard-word" id="card-word">—</div>
+          <div class="flashcard-hint" data-es="Haz clic para ver la traducción" data-ca="Fes clic per veure la traducció">Haz clic para ver la traducción</div>
+        </div>
+        <div class="flashcard-face flashcard-back">
+          <div class="flashcard-translation" id="card-trans">—</div>
+          <div class="flashcard-example" id="card-ex">—</div>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:center;justify-content:center;gap:0.75rem;flex-wrap:wrap;">
+      <button class="btn btn-ghost" onclick="prevCard()">← <span data-es="Anterior" data-ca="Anterior">Anterior</span></button>
+      <button class="btn btn-primary" onclick="nextCard()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <div id="word-list-section">
+    <div class="section-label" data-es="LISTA COMPLETA" data-ca="LLISTA COMPLETA">LISTA COMPLETA</div>
+    <div class="section-title" id="list-title"></div>
+    <div class="card" id="word-list"></div>
+  </div>
+</div>
+</div>
+
+<script src="../js/lang.js"></script>
+<script>
+let data = null, catIdx = 0, cardIdx = 0, flipped = false;
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+
+async function load() {
+  const r = await fetch('../data/vocabulaire.json');
+  data = await r.json();
+  renderTabs();
+  renderCard();
+  renderWordList();
+}
+
+function renderTabs() {
+  const el = document.getElementById('cat-tabs');
+  el.innerHTML = '';
+  data.categories.forEach((cat, i) => {
+    const b = document.createElement('button');
+    b.className = 'tab' + (i === catIdx ? ' active' : '');
+    b.textContent = cat.emoji + ' ' + cat.nom[lang()];
+    b.onclick = () => { catIdx = i; cardIdx = 0; flipped = false; renderTabs(); renderCard(); renderWordList(); };
+    el.appendChild(b);
+  });
+}
+
+function renderCard() {
+  const cat = data.categories[catIdx];
+  const mot = cat.mots[cardIdx];
+  document.getElementById('card-emoji').textContent = mot.emoji;
+  document.getElementById('card-word').textContent = mot.fr;
+  document.getElementById('card-trans').textContent = mot[lang()];
+  document.getElementById('card-ex').textContent = '📌 ' + mot['exemple_' + lang()];
+  document.getElementById('card-counter').textContent = (cardIdx + 1) + ' / ' + cat.mots.length;
+  document.getElementById('progress-fill').style.width = ((cardIdx + 1) / cat.mots.length * 100) + '%';
+  const fc = document.getElementById('flashcard');
+  fc.classList.remove('flipped');
+  flipped = false;
+  // refresh lang on hint
+  document.querySelector('.flashcard-hint').textContent = lang() === 'es' ? 'Haz clic para ver la traducción' : 'Fes clic per veure la traducció';
+}
+
+function flipCard() {
+  flipped = !flipped;
+  document.getElementById('flashcard').classList.toggle('flipped', flipped);
+}
+function nextCard() {
+  const len = data.categories[catIdx].mots.length;
+  cardIdx = (cardIdx + 1) % len;
+  renderCard();
+}
+function prevCard() {
+  const len = data.categories[catIdx].mots.length;
+  cardIdx = (cardIdx - 1 + len) % len;
+  renderCard();
+}
+
+function renderWordList() {
+  const cat = data.categories[catIdx];
+  document.getElementById('list-title').textContent = cat.emoji + ' ' + cat.nom[lang()];
+  const l = lang();
+  const html = cat.mots.map(m => `
+    <div style="display:grid;grid-template-columns:2rem 1.2fr 1.6fr;gap:0.75rem;align-items:start;padding:0.75rem 0;border-bottom:1px solid var(--border);">
+      <span style="font-size:1.4rem">${m.emoji}</span>
+      <div>
+        <div style="font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream)">${m.fr}</div>
+        <div style="font-size:0.82rem;color:var(--text-dim);margin-top:0.1rem">${m[l]}</div>
+      </div>
+      <div style="font-size:0.82rem;color:var(--text-dim);font-style:italic;line-height:1.5">${m['exemple_'+l]}</div>
+    </div>`).join('');
+  document.getElementById('word-list').innerHTML = html;
+}
+
+// Re-render on lang change
+const origApplyLang = window.applyLang;
+document.addEventListener('DOMContentLoaded', () => {
+  load();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => { renderTabs(); renderCard(); renderWordList(); }, 0));
+  });
+});
+</script>
+</body>
+</html>
+

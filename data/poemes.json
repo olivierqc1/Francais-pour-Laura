@@ -1,1 +1,189 @@
-sj
+{
+  "poemes": [
+    {
+      "id": "vaisseau_or",
+      "titre": "Le Vaisseau d'Or",
+      "auteur": "Émile Nelligan",
+      "annee": "1899",
+      "pays": "Québec 🍁",
+      "bio": {
+        "es": "Émile Nelligan (1879-1941) es el poeta más importante de Quebec. Escribió toda su obra antes de los 20 años, antes de ser internado en un hospital psiquiátrico donde pasó el resto de su vida. Su poesía, marcada por el romanticismo y el simbolismo, refleja una belleza melancólica única. Es considerado el padre de la poesía quebequense moderna.",
+        "ca": "Émile Nelligan (1879-1941) és el poeta més important del Quebec. Va escriure tota la seva obra abans dels 20 anys, abans de ser internat en un hospital psiquiàtric on va passar la resta de la seva vida. La seva poesia, marcada pel romanticisme i el simbolisme, reflecteix una bellesa melancòlica única. És considerat el pare de la poesia quebequesa moderna."
+      },
+      "texte": [
+        "Ce fut un grand Vaisseau taillé dans l'or massif :ses mâts touchaient l'azur, sur des mers inconnues ;la Cyprine d'amour, cheveux épars, chairs nues,s'étalait à sa proue, au soleil excessif.",
+        "Mais il vint une nuit frapper le grand écueil dans ce Océan trompeur où chantait la Sirène,et le naufrage horrible inclina sa carèneaux profondeurs du Gouffre, immuable cercueil.",
+        "Ce fut un Vaisseau d'Or, dont les flancs diaphanes révélaient des trésors que les marins profanes,dégoût, Haine et Névrose, entre eux ont disputés.",
+        "Que reste-t-il de lui dans la tempête brève ?Qu'est devenu mon cœur, navire désert ?Hélas ! Il a sombré dans l'abîme du Rêve !"
+      ],
+      "mots_cles": [
+        { "mot": "vaisseau", "es": "buque / navío (barco grande)", "ca": "vaixell (gran)" },
+        { "mot": "taillé dans l'or massif", "es": "tallado en oro macizo", "ca": "tallat en or massís" },
+        { "mot": "les mâts", "es": "los mástiles", "ca": "els pals (del vaixell)" },
+        { "mot": "l'azur", "es": "el azul del cielo / el firmamento", "ca": "l'atzur / el cel blau" },
+        { "mot": "le naufrage", "es": "el naufragio", "ca": "el naufragi" },
+        { "mot": "la carène", "es": "la quilla / el casco del barco", "ca": "la carena del vaixell" },
+        { "mot": "diaphanes", "es": "diáfanos / traslúcidos / transparentes", "ca": "diàfans / translúcids" },
+        { "mot": "a sombré", "es": "se hundió (pasado compuesto)", "ca": "s'ha enfonsat (passat compost)" },
+        { "mot": "l'abîme", "es": "el abismo", "ca": "l'abisme" }
+      ],
+      "analyse": {
+        "es": "Este soneto (14 versos en 4 estrofas) es una metáfora de la vida de Nelligan mismo. El 'Vaisseau d'Or' (buque de oro) representa su alma de poeta joven, llena de sueños y belleza. El 'gran escollo' es la locura que lo llevó al hospital. Los 'marineros profanos' — el Asco, el Odio y la Neurosis — son las fuerzas que destruyeron su mente. La última pregunta '¿Qué pasó con mi corazón?' es desgarradora: el poeta ya siente que se está perdiendo a sí mismo.",
+        "ca": "Aquest sonet (14 versos en 4 estrofes) és una metàfora de la vida del mateix Nelligan. El 'Vaisseau d'Or' (vaixell d'or) representa la seva ànima de poeta jove, plena de somnis i bellesa. El 'gran escull' és la bogeria que el va portar a l'hospital. Els 'mariners profans' — el Fàstic, l'Odi i la Neurosi — són les forces que van destruir la seva ment. La darrera pregunta 'Què ha passat amb el meu cor?' és desgarradora: el poeta ja sent que s'està perdent a si mateix."
+      },
+      "questions": [
+        {
+          "q": { "es": "¿Qué simboliza el 'Vaisseau d'Or' según tu comprensión?", "ca": "Què simbolitza el 'Vaisseau d'Or' segons la teva comprensió?" },
+          "piste": { "es": "Piensa en lo que representa para el propio poeta...", "ca": "Pensa en el que representa per al poeta mateix..." }
+        },
+        {
+          "q": { "es": "¿Cuáles son los tres 'marineros profanos' mencionados?", "ca": "Quins són els tres 'mariners profans' esmentats?" },
+          "piste": { "es": "Son tres emociones negativas en el tercer párrafo.", "ca": "Són tres emocions negatives al tercer paràgraf." }
+        },
+        {
+          "q": { "es": "¿En qué tiempo verbal está 'a sombré'? Explica por qué.", "ca": "En quin temps verbal és 'a sombré'? Explica per què." },
+          "piste": { "es": "Passé composé: avoir/être + participe passé. Acción completada.", "ca": "Passat compost: avoir/être + participe passé. Acció completada." }
+        }
+      ]
+    },
+    {
+      "id": "gens_du_pays",
+      "titre": "Gens du pays",
+      "auteur": "Gilles Vigneault",
+      "annee": "1975",
+      "pays": "Québec 🍁",
+      "bio": {
+        "es": "Gilles Vigneault (nacido en 1928 en Natashquan, Quebec) es el más grande cantautor y poeta quebequense. Sus canciones son el alma de Quebec: hablan de la nieve, del invierno, del río San Lorenzo y del amor por la tierra. 'Gens du pays' (1975) es considerada prácticamente el himno nacional no oficial de Quebec. Vigneault escribe en un francés que mezcla la lengua clásica con expresiones populares quebequenses.",
+        "ca": "Gilles Vigneault (nascut el 1928 a Natashquan, Quebec) és el cantautor i poeta quebequès més gran. Les seves cançons són l'ànima del Quebec: parlen de la neu, de l'hivern, del riu Sant Llorenç i de l'amor per la terra. 'Gens du pays' (1975) és considerada pràcticament l'himne nacional no oficial del Quebec. Vigneault escriu en un francès que barreja la llengua clàssica amb expressions populars quebequeses."
+      },
+      "texte": [
+        "Gens du pays, c'est votre tour\nDe vous laisser parler d'amour",
+        "Mon cher Olivier, recevez\nCe que la terre et le ciel peuvent\nDonner de beau et de vivant\nBon fête, bonne fête, Olivier\nLe temps qu'on prend pour dire : je t'aime\nC'est le seul qui reste au bout du compte\nLe temps qu'on prend pour dire : je t'aime\nCe temps-là ne se perd jamais",
+        "Gens du pays, c'est votre tour\nDe vous laisser parler d'amour",
+        "De Saint-Laurent jusqu'en Gaspésie\nEn passant par le Nord-du-Québec\nOn a beau voir la neige et la pluie\nOn aime encore notre coin de terre\nComme on aime un ami très cher"
+      ],
+      "note": {
+        "es": "Nota cultural: 'Gens du pays' se canta en Quebec en lugar de 'Bonne Fête' (el equivalente de 'Cumpleaños Feliz'). Es una tradición profundamente quebequense. La canción también fue el himno del Mouvement souverainiste (independentismo quebequense) en los años 70-80.",
+        "ca": "Nota cultural: 'Gens du pays' es canta al Quebec en lloc de 'Bonne Fête' (l'equivalent de 'Feliç aniversari'). És una tradició profundament quebequesa. La cançó també va ser l'himne del Mouvement souverainiste (independentisme quebequès) als anys 70-80."
+      },
+      "mots_cles": [
+        { "mot": "gens du pays", "es": "gente del país / compatriotas", "ca": "gent del país / compatriotes" },
+        { "mot": "se laisser parler d'amour", "es": "dejarse hablar de amor / permitirse hablar de amor", "ca": "deixar-se parlar d'amor" },
+        { "mot": "au bout du compte", "es": "al final de cuentas / a fin de cuentas", "ca": "al capdavall / al final de tot" },
+        { "mot": "on a beau", "es": "aunque / por más que (estructura: on a beau + infinitif = aunque hagamos algo)", "ca": "tot i que / per molt que (estructura: on a beau + infinitif)" },
+        { "mot": "notre coin de terre", "es": "nuestro rincón de tierra / nuestro lugar en el mundo", "ca": "el nostre racó de terra / el nostre lloc al món" }
+      ],
+      "analyse": {
+        "es": "Esta canción es un himno de amor colectivo al pueblo quebequense. El estribillo 'Gens du pays, c'est votre tour / De vous laisser parler d'amour' invita a toda la gente de Quebec a expresar su amor — a su tierra, a su cultura, a los demás. La frase 'Le temps qu'on prend pour dire : je t'aime / Ce temps-là ne se perd jamais' es una de las más bellas de la literatura quebequense: el tiempo dedicado al amor nunca es tiempo perdido.",
+        "ca": "Aquesta cançó és un himne d'amor col·lectiu al poble quebequès. El tornada 'Gens du pays, c'est votre tour / De vous laisser parler d'amour' convida tota la gent del Quebec a expressar el seu amor — a la seva terra, a la seva cultura, als altres. La frase 'Le temps qu'on prend pour dire : je t'aime / Ce temps-là ne se perd jamais' és una de les més belles de la literatura quebequesa: el temps dedicat a l'amor mai no és temps perdut."
+      },
+      "questions": [
+        {
+          "q": { "es": "¿En qué situaciones se canta esta canción en Quebec?", "ca": "En quines situacions es canta aquesta cançó al Quebec?" },
+          "piste": { "es": "Lee la nota cultural...", "ca": "Llegeix la nota cultural..." }
+        },
+        {
+          "q": { "es": "¿Cuál es el mensaje principal de la estrofa 'Le temps qu'on prend...'?", "ca": "Quin és el missatge principal de l'estrofa 'Le temps qu'on prend...'?" },
+          "piste": { "es": "¿Qué dice sobre el tiempo y el amor?", "ca": "Què diu sobre el temps i l'amor?" }
+        },
+        {
+          "q": { "es": "Traduce 'On a beau voir la neige et la pluie, on aime encore notre coin de terre'", "ca": "Tradueix 'On a beau voir la neige et la pluie, on aime encore notre coin de terre'" },
+          "piste": { "es": "'On a beau + infinitif' = aunque... / por más que...", "ca": "'On a beau + infinitif' = tot i que... / per molt que..." }
+        }
+      ]
+    },
+    {
+      "id": "mon_pays",
+      "titre": "Mon pays",
+      "auteur": "Gilles Vigneault",
+      "annee": "1964",
+      "pays": "Québec 🍁",
+      "bio": {
+        "es": "Escrita en 1964, 'Mon pays' es quizás la canción más conocida de Vigneault. Nació de su amor profundo por Natashquan, el pequeño pueblo del norte de Quebec donde creció, un lugar de inviernos interminables y horizontes infinitos. La canción se convirtió en símbolo del nationalisme québécois y de la Révolution tranquille, el despertar cultural y político de Quebec en los años 60.",
+        "ca": "Escrita el 1964, 'Mon pays' és potser la cançó més coneguda de Vigneault. Va néixer del seu amor profund per Natashquan, el petit poble del nord del Quebec on va créixer, un lloc d'hiverns interminables i horitzons infinits. La cançó es va convertir en símbol del nationalisme québécois i de la Révolution tranquille, el despertar cultural i polític del Quebec als anys 60."
+      },
+      "texte": [
+        "Mon pays ce n'est pas un pays, c'est l'hiver\nMon jardin ce n'est pas un jardin, c'est la plaine\nMon chemin ce n'est pas un chemin, c'est la neige\nMon pays ce n'est pas un pays, c'est l'hiver",
+        "Dans la blanche cérémonie\nOù la neige au vent se marie\nDans ce pays de poudrerie\nMon père a fait bâtir maison\nEt je m'en vais être fidèle\nÀ sa manière à son modèle\nLa chambre d'un froid sans pareil\nM'était demeure et maison belle",
+        "Mon pays ce n'est pas un pays, c'est l'hiver\nMon refrain ce n'est pas un refrain, c'est rafale\nMa maison ce n'est pas ma maison, c'est froidure\nMon pays ce n'est pas un pays, c'est l'hiver",
+        "De mon grand pays solitaire\nJe crie avant que de me taire\nÀ tous les hommes de la terre\nMa maison c'est votre maison\nEntre mes quatre murs de glace\nJe mets mon temps et mon espace\nÀ préparer le feu, la place\nPour les humains de l'horizon"
+      ],
+      "mots_cles": [
+        { "mot": "la plaine", "es": "la llanura / la planicie", "ca": "la plana / la planura" },
+        { "mot": "la poudrerie", "es": "la nieve que levanta el viento / ventisca de nieve", "ca": "la neu que aixeca el vent / ventada de neu" },
+        { "mot": "faire bâtir", "es": "hacer construir / mandar construir", "ca": "fer construir / manar construir" },
+        { "mot": "la rafale", "es": "la ráfaga de viento / ventarrón", "ca": "la ratxa de vent / ventada" },
+        { "mot": "la froidure", "es": "el frío intenso (término poético / arcaico)", "ca": "el fred intens (terme poètic / arcaic)" },
+        { "mot": "avant que de me taire", "es": "antes de callarme (construcción literaria arcaica)", "ca": "abans de callar-me (construcció literària arcaica)" },
+        { "mot": "les humains de l'horizon", "es": "los seres humanos que vienen del horizonte / la humanidad entera", "ca": "els éssers humans que vénen de l'horitzó / la humanitat sencera" }
+      ],
+      "analyse": {
+        "es": "Vigneault convierte el invierno quebequense en identidad colectiva. La estructura repetitiva 'Mon pays ce n'est pas un pays, c'est...' es una paradoja poderosa: Quebec no es un país como los demás, es primero una experiencia física — el frío, la nieve, el viento. Pero al final, el poeta abre su 'casa de hielo' a toda la humanidad ('Ma maison c'est votre maison'): el aislamiento del invierno no cierra, sino que invita. Es una metáfora política también: Quebec busca su lugar entre las naciones.",
+        "ca": "Vigneault converteix l'hivern quebequès en identitat col·lectiva. L'estructura repetitiva 'Mon pays ce n'est pas un pays, c'est...' és una paradoxa poderosa: el Quebec no és un país com els altres, és primer una experiència física — el fred, la neu, el vent. Però al final, el poeta obre la seva 'casa de gel' a tota la humanitat ('Ma maison c'est votre maison'): l'aïllament de l'hivern no tanca, sinó que convida. És també una metàfora política: el Quebec cerca el seu lloc entre les nacions."
+      },
+      "questions": [
+        {
+          "q": { "es": "¿Qué elemento natural domina completamente esta canción?", "ca": "Quin element natural domina completament aquesta cançó?" },
+          "piste": { "es": "Está en el primer verso...", "ca": "És al primer vers..." }
+        },
+        {
+          "q": { "es": "¿Qué significa la paradoja 'Mon pays ce n'est pas un pays, c'est l'hiver'?", "ca": "Què significa la paradoxa 'Mon pays ce n'est pas un pays, c'est l'hiver'?" },
+          "piste": { "es": "¿Qué dice Vigneault sobre la identidad de Quebec?", "ca": "Què diu Vigneault sobre la identitat del Quebec?" }
+        },
+        {
+          "q": { "es": "Al final, ¿qué ofrece el poeta a 'les humains de l'horizon'?", "ca": "Al final, què ofereix el poeta als 'humains de l'horizon'?" },
+          "piste": { "es": "Lee la última estrofa...", "ca": "Llegeix la darrera estrofa..." }
+        }
+      ]
+    },
+    {
+      "id": "charogne",
+      "titre": "Une Charogne",
+      "auteur": "Charles Baudelaire",
+      "annee": "1857",
+      "pays": "France 🇫🇷",
+      "bio": {
+        "es": "Charles Baudelaire (1821-1867) es uno de los poetas más influyentes de la literatura francesa. Su obra maestra, 'Les Fleurs du Mal' (1857), revolucionó la poesía al encontrar belleza en lo sórdido, en la muerte, en el pecado. Baudelaire es el precursor del simbolismo, movimiento que influyó directamente en Nelligan y en toda la poesía moderna. Vivió una vida tormentosa en París, entre la miseria y la genialidad.",
+        "ca": "Charles Baudelaire (1821-1867) és un dels poetes més influents de la literatura francesa. La seva obra mestra, 'Les Fleurs du Mal' (1857), va revolucionar la poesia en trobar bellesa en allò sòrdid, en la mort, en el pecat. Baudelaire és el precursor del simbolisme, moviment que va influir directament en Nelligan i en tota la poesia moderna. Va viure una vida tempestuosa a París, entre la misèria i la genialitat."
+      },
+      "texte": [
+        "Rappelez-vous l'objet que nous vîmes, mon âme,\nCe beau matin d'été si doux :\nAu détour d'un sentier une charogne infâme\nSur un lit semé de cailloux,",
+        "Les jambes en l'air, comme une femme lubrique,\nBrûlant et suant les poisons,\nOuvrait d'une façon nonchalante et cynique\nSon ventre plein d'exhalaisons.",
+        "Et le ciel regardait la carcasse superbe\nComme une fleur s'épanouir.\nLa puanteur était si forte, que sur l'herbe\nVous crûtes vous évanouir.",
+        "— Et pourtant vous serez semblable à cette ordure,\nÀ cette horrible infection,\nÉtoile de mes yeux, soleil de ma nature,\nVous, mon ange et ma passion !"
+      ],
+      "note": {
+        "es": "⚠️ Nota: Este poema es intencionalmente chocante. Baudelaire describe una carroña (animal muerto y putrefacto) con un vocabulario de extrema belleza poética. El contraste es su arma: al final, recuerda a su amada que ella también se pudrirá. Es un poema sobre la vanidad de la belleza y la inevitabilidad de la muerte — un tema clásico llamado 'Memento mori'. El poema fue censurado en su época.",
+        "ca": "⚠️ Nota: Aquest poema és intencionadament impactant. Baudelaire descriu una carronya (animal mort i putrefacte) amb un vocabulari d'extrema bellesa poètica. El contrast és la seva arma: al final, recorda a la seva estimada que ella també es putrefarà. És un poema sobre la vanitat de la bellesa i la inevitabilitat de la mort — un tema clàssic anomenat 'Memento mori'. El poema va ser censurat en la seva època."
+      },
+      "mots_cles": [
+        { "mot": "une charogne", "es": "una carroña / un animal muerto y putrefacto", "ca": "una carronya / un animal mort i putrefacte" },
+        { "mot": "infâme", "es": "infame / horrible / repugnante", "ca": "infame / horrible / repugnant" },
+        { "mot": "nonchalante", "es": "despreocupada / indiferente / sin cuidado", "ca": "despreocupada / indiferent" },
+        { "mot": "la puanteur", "es": "el hedor / el mal olor intenso", "ca": "la pudor / la mala olor intensa" },
+        { "mot": "s'épanouir", "es": "florecer / abrirse (como una flor)", "ca": "florir / obrir-se (com una flor)" },
+        { "mot": "vous crûtes vous évanouir", "es": "creíste desmayarte (passé simple de 'croire')", "ca": "vas creure que et desmaiaríes (passé simple de 'croire')" },
+        { "mot": "semblable à", "es": "similar a / parecido a", "ca": "similar a / semblant a" },
+        { "mot": "Étoile de mes yeux", "es": "Estrella de mis ojos (metáfora de amor)", "ca": "Estrella dels meus ulls (metàfora d'amor)" }
+      ],
+      "analyse": {
+        "es": "Baudelaire habla a su amada ('mon âme', 'mon ange et ma passion') mientras le muestra una carroña. El poema mezcla lo sublime (lenguaje de amor romántico) y lo repugnante (la putrefacción). La provocación final — 'serás como esta basura' — no es crueldad, sino un recuerdo filosófico: la belleza física es pasajera, y solo el arte (el poema mismo) sobrevive. Es una de las más audaces declaraciones de amor en la literatura francesa.",
+        "ca": "Baudelaire parla a la seva estimada ('mon âme', 'mon ange et ma passion') mentre li mostra una carronya. El poema barreja allò sublim (llenguatge d'amor romàntic) i allò repugnant (la putrefacció). La provocació final — 'seràs com aquesta escombraria' — no és crueltat, sinó un record filosòfic: la bellesa física és passatgera, i només l'art (el poema mateix) sobreviu. És una de les declaracions d'amor més audaces de la literatura francesa."
+      },
+      "questions": [
+        {
+          "q": { "es": "¿Qué encuentran los dos amantes en el camino?", "ca": "Què troben els dos amants pel camí?" },
+          "piste": { "es": "Está en el tercer verso del primer párrafo...", "ca": "És al tercer vers del primer paràgraf..." }
+        },
+        {
+          "q": { "es": "¿Cuál es el mensaje filosófico del último párrafo?", "ca": "Quin és el missatge filosòfic del darrer paràgraf?" },
+          "piste": { "es": "¿Qué le dice Baudelaire sobre el futuro de su amada?", "ca": "Què diu Baudelaire sobre el futur de la seva estimada?" }
+        },
+        {
+          "q": { "es": "¿Cómo describe el cielo mirando la carroña? ¿Por qué es paradójico?", "ca": "Com descriu el cel mirant la carronya? Per què és paradoxal?" },
+          "piste": { "es": "Lee el tercer párrafo. Hay una comparación con una flor...", "ca": "Llegeix el tercer paràgraf. Hi ha una comparació amb una flor..." }
+        }
+      ]
+    }
+  ]
+}

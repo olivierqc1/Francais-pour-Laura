@@ -1,1 +1,48 @@
-a
+{
+  "categories": [
+    {
+      "id": "quebec_nature",
+      "nom": { "es": "La naturaleza de Quebec", "ca": "La natura del Quebec" },
+      "emoji": "🍁",
+      "mots": [
+        { "fr": "l'érable", "emoji": "🍁", "es": "el arce (árbol símbolo de Canadá)", "ca": "l'auró (arbre símbol del Canadà)", "exemple": "Le sirop d'érable est la fierté du Québec.", "exemple_es": "El jarabe de arce es el orgullo de Quebec.", "exemple_ca": "El xarop d'auró és l'orgull del Quebec." },
+        { "fr": "la neige", "emoji": "❄️", "es": "la nieve", "ca": "la neu", "exemple": "Au Québec, il neige souvent de novembre à avril.", "exemple_es": "En Quebec, suele nevar de noviembre a abril.", "exemple_ca": "Al Quebec, sol nevar de novembre a abril." },
+        { "fr": "le fleuve", "emoji": "🌊", "es": "el río grande (desemboca en el mar)", "ca": "el riu gran (desemboca al mar)", "exemple": "Le Saint-Laurent est le plus grand fleuve du Québec.", "exemple_es": "El San Lorenzo es el río más grande de Quebec.", "exemple_ca": "El Sant Llorenç és el riu més gran del Quebec." },
+        { "fr": "la forêt", "emoji": "🌲", "es": "el bosque", "ca": "el bosc", "exemple": "La forêt boréale couvre la moitié du Québec.", "exemple_es": "El bosque boreal cubre la mitad de Quebec.", "exemple_ca": "El bosc boreal cobreix la meitat del Quebec." },
+        { "fr": "le lac", "emoji": "🏞️", "es": "el lago", "ca": "el llac", "exemple": "Le Québec possède plus d'un million de lacs.", "exemple_es": "Quebec tiene más de un millón de lagos.", "exemple_ca": "El Quebec té més d'un milió de llacs." },
+        { "fr": "l'hiver", "emoji": "🥶", "es": "el invierno", "ca": "l'hivern", "exemple": "L'hiver québécois est long et rigoureux.", "exemple_es": "El invierno quebequense es largo y riguroso.", "exemple_ca": "L'hivern quebequès és llarg i rigorós." },
+        { "fr": "la cabane à sucre", "emoji": "🏚️", "es": "la cabaña del azúcar (tradición primaveral)", "ca": "la cabana del sucre (tradició primaveral)", "exemple": "La cabane à sucre est une tradition au printemps.", "exemple_es": "La cabaña del azúcar es una tradición en primavera.", "exemple_ca": "La cabana del sucre és una tradició a la primavera." },
+        { "fr": "le chevreuil", "emoji": "🦌", "es": "el ciervo / el venado", "ca": "el cérvol", "exemple": "On voit souvent des chevreuils dans les forêts québécoises.", "exemple_es": "Se ven a menudo venados en los bosques quebequenses.", "exemple_ca": "Es veuen sovint cérvols als boscos quebequesos." }
+      ]
+    },
+    {
+      "id": "culture_quebec",
+      "nom": { "es": "Cultura quebequense", "ca": "Cultura quebequesa" },
+      "emoji": "🎶",
+      "mots": [
+        { "fr": "le hockey", "emoji": "🏒", "es": "el hockey sobre hielo", "ca": "l'hoquei sobre gel", "exemple": "Le hockey est la passion nationale des Québécois.", "exemple_es": "El hockey es la pasión nacional de los quebequenses.", "exemple_ca": "L'hoquei és la passió nacional dels quebequesos." },
+        { "fr": "la poutine", "emoji": "🍟", "es": "la poutine (papas fritas con salsa y queso)", "ca": "la poutine (patates fregides amb salsa i formatge)", "exemple": "La poutine est le plat emblématique du Québec.", "exemple_es": "La poutine es el plato emblemático de Quebec.", "exemple_ca": "La poutine és el plat emblemàtic del Quebec." },
+        { "fr": "le carnaval", "emoji": "🎭", "es": "el carnaval", "ca": "el carnaval", "exemple": "Le Carnaval de Québec a lieu chaque hiver.", "exemple_es": "El Carnaval de Quebec tiene lugar cada invierno.", "exemple_ca": "El Carnaval de Quebec té lloc cada hivern." },
+        { "fr": "le sirop d'érable", "emoji": "🍯", "es": "el jarabe / sirope de arce", "ca": "el xarop d'auró", "exemple": "On mange du sirop d'érable sur les crêpes.", "exemple_es": "Comemos jarabe de arce en los crêpes.", "exemple_ca": "Mengem xarop d'auró en els crêpes." },
+        { "fr": "la tourtière", "emoji": "🥧", "es": "la tourtière (pastel de carne tradicional navideño)", "ca": "la tourtière (pastís de carn tradicional nadalenc)", "exemple": "Ma grand-mère fait une tourtière à Noël.", "exemple_es": "Mi abuela hace una tourtière en Navidad.", "exemple_ca": "La meva àvia fa una tourtière per Nadal." },
+        { "fr": "le dépanneur", "emoji": "🏪", "es": "la tienda de conveniencia (palabra solo quebequense)", "ca": "la botiga de conveniència (mot només quebequès)", "exemple": "Je vais au dépanneur acheter du lait.", "exemple_es": "Voy al dépanneur a comprar leche.", "exemple_ca": "Vaig al dépanneur a comprar llet." },
+        { "fr": "le festival", "emoji": "🎪", "es": "el festival", "ca": "el festival", "exemple": "Le Festival de Jazz de Montréal est célèbre dans le monde entier.", "exemple_es": "El Festival de Jazz de Montreal es famoso en todo el mundo.", "exemple_ca": "El Festival de Jazz de Mont-real és famós a tot el món." },
+        { "fr": "le patrimoine", "emoji": "🏛️", "es": "el patrimonio", "ca": "el patrimoni", "exemple": "Le Vieux-Québec est inscrit au patrimoine mondial de l'UNESCO.", "exemple_es": "La Ciudad Vieja de Quebec está inscrita en el patrimonio mundial de la UNESCO.", "exemple_ca": "La Vella Ciutat de Quebec està inscrita al patrimoni mundial de la UNESCO." }
+      ]
+    },
+    {
+      "id": "expressions_quebecoises",
+      "nom": { "es": "Expresiones quebequenses", "ca": "Expressions quebequeses" },
+      "emoji": "💬",
+      "mots": [
+        { "fr": "Allô !", "emoji": "👋", "es": "¡Hola! (en Quebec, 'allô' es saludo — ¡no significa 'adiós'!)", "ca": "Hola! (al Quebec, 'allô' és salutació, no comiat)", "exemple": "Allô ! Comment ça va ?", "exemple_es": "¡Hola! ¿Cómo estás?", "exemple_ca": "Hola! Com estàs?" },
+        { "fr": "C'est le boutte !", "emoji": "🤩", "es": "¡Es genial! / ¡Es lo máximo! (expresión muy quebequense)", "ca": "És genial! / És el millor! (expressió molt quebequesa)", "exemple": "Ce film, c'est vraiment le boutte !", "exemple_es": "¡Esta película es realmente genial!", "exemple_ca": "Aquesta pel·lícula és realment genial!" },
+        { "fr": "Pantoute !", "emoji": "🙅", "es": "¡Para nada! / ¡De ninguna manera! (= pas du tout en français standard)", "ca": "Per res! / De cap manera! (= pas du tout en francès estàndard)", "exemple": "— Tu aimes le froid ? — Pantoute !", "exemple_es": "— ¿Te gusta el frío? — ¡Para nada!", "exemple_ca": "— T'agrada el fred? — Per res!" },
+        { "fr": "Avoir du fun", "emoji": "😄", "es": "Divertirse / Pasarlo bien (anglicismo muy usado en Quebec)", "ca": "Divertir-se / Passar-ho bé (anglicisme molt usat al Quebec)", "exemple": "On a eu vraiment du fun à ce party !", "exemple_es": "¡Lo pasamos muy bien en esa fiesta!", "exemple_ca": "Ho vam passar molt bé en aquella festa!" },
+        { "fr": "Mon char", "emoji": "🚗", "es": "Mi coche (en québécois, 'char' = voiture)", "ca": "El meu cotxe (en quebequès, 'char' = voiture)", "exemple": "Mon char est stationné dans la rue.", "exemple_es": "Mi coche está aparcado en la calle.", "exemple_ca": "El meu cotxe és aparcat al carrer." },
+        { "fr": "Tiguidou !", "emoji": "✅", "es": "¡Perfecto! / ¡De acuerdo! / ¡Trato hecho!", "ca": "Perfecte! / D'acord! / Tracte fet!", "exemple": "On se retrouve à midi ? — Tiguidou !", "exemple_es": "¿Nos encontramos al mediodía? — ¡Perfecto!", "exemple_ca": "Ens trobem al migdia? — Perfecte!" }
+      ]
+    }
+  ]
+}
+

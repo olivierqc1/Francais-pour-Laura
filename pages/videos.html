@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vidéos — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.video-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: border-color 0.2s, transform 0.2s;
+}
+.video-card:hover {
+  border-color: rgba(200,69,26,0.4);
+  transform: translateY(-2px);
+}
+.video-thumb {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background: var(--bg3);
+  cursor: pointer;
+  overflow: hidden;
+}
+.video-thumb img {
+  position: absolute;
+  inset: 0; width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.video-card:hover .video-thumb img { transform: scale(1.03); }
+.video-thumb .play-btn {
+  position: absolute;
+  inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.3);
+  transition: background 0.2s;
+}
+.video-thumb:hover .play-btn { background: rgba(0,0,0,0.15); }
+.play-icon {
+  width: 52px; height: 52px;
+  background: rgba(200,69,26,0.9);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  backdrop-filter: blur(4px);
+  transition: transform 0.2s, background 0.2s;
+}
+.video-thumb:hover .play-icon {
+  transform: scale(1.1);
+  background: var(--maple);
+}
+.play-icon svg { width: 20px; height: 20px; fill: white; margin-left: 3px; }
+.video-embed {
+  position: absolute;
+  inset: 0; width: 100%; height: 100%;
+  display: none;
+}
+.video-embed iframe { width: 100%; height: 100%; border: none; }
+.video-body { padding: 1rem; }
+.video-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.05rem; font-weight: 600;
+  color: var(--cream); margin-bottom: 0.3rem; line-height: 1.3;
+}
+.video-meta {
+  display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.5rem;
+}
+.video-desc { font-size: 0.82rem; color: var(--text-dim); line-height: 1.5; }
+.video-link {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  font-size: 0.78rem; color: var(--maple-light);
+  text-decoration: none; margin-top: 0.5rem;
+  transition: color 0.2s;
+}
+.video-link:hover { color: var(--gold-light); }
+
+.cat-section { margin-bottom: 2.5rem; }
+.cat-header {
+  display: flex; align-items: center; gap: 0.75rem;
+  margin-bottom: 1.2rem; padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+.cat-icon { font-size: 1.6rem; }
+.cat-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5rem; font-weight: 600; color: var(--cream);
+}
+.cat-desc { font-size: 0.83rem; color: var(--text-dim); margin-top: 0.1rem; }
+
+.niveau-badge {
+  padding: 0.15rem 0.55rem; border-radius: 4px;
+  font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em;
+}
+.n-a1 { background: rgba(122,170,128,0.2); color: var(--sage); border: 1px solid rgba(122,170,128,0.3); }
+.n-a2 { background: rgba(201,153,58,0.15); color: var(--gold-light); border: 1px solid rgba(201,153,58,0.3); }
+.n-b1 { background: rgba(200,69,26,0.15); color: var(--maple-light); border: 1px solid rgba(200,69,26,0.3); }
+.n-all { background: rgba(96,152,184,0.15); color: var(--sky); border: 1px solid rgba(96,152,184,0.3); }
+
+.tip-box {
+  background: rgba(96,152,184,0.07);
+  border: 1px solid rgba(96,152,184,0.2);
+  border-radius: 10px; padding: 1rem 1.2rem;
+  margin-bottom: 2rem; font-size: 0.87rem;
+  color: var(--cream-dim); line-height: 1.7;
+}
+.tip-box strong { color: var(--sky); }
+</style>
+</head>
+<body>
+
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" class="active" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span>Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span>Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span>Gram.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span>Poemas</span></a>
+  <a href="videos.html" class="active"><span class="icon">🎬</span><span>Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <div class="page-header fade-up">
+    <div class="page-header-label">🎬 <span data-es="Módulo 5" data-ca="Mòdul 5">Módulo 5</span></div>
+    <h1 data-es="Vídeos" data-ca="Vídeos">Vídeos</h1>
+    <p data-es="Canciones, poesía recitada, clases de gramática y cine québécois. La mejor manera de escuchar el francés real." data-ca="Cançons, poesia recitada, classes de gramàtica i cinema québécois. La millor manera d'escoltar el francès real.">Canciones, poesía recitada, clases de gramática y cine québécois.</p>
+  </div>
+
+  <div class="tip-box fade-up">
+    <strong data-es="💡 Consejo" data-ca="💡 Consell">💡 Consejo</strong><br>
+    <span data-es="Activa los subtítulos en francés en YouTube (CC → Français) — es mucho más útil que los subtítulos en español. Al principio escucha sin leer el texto del poema, luego compara." data-ca="Activa els subtítols en francès a YouTube (CC → Français) — és molt més útil que els subtítols en castellà. Al principi escolta sense llegir el text del poema, després compara.">Activa los subtítulos en francés en YouTube (CC → Français). Al principio escucha sin leer el texto del poema, luego compara.</span>
+  </div>
+
+  <!-- ═══ 1. VIGNEAULT ═══ -->
+  <div class="cat-section fade-up">
+    <div class="cat-header">
+      <span class="cat-icon">🍁</span>
+      <div>
+        <div class="cat-title">Gilles Vigneault</div>
+        <div class="cat-desc" data-es="El alma musical de Quebec — escucha los poemas que leíste" data-ca="L'ànima musical del Quebec — escolta els poemes que vas llegir">El alma musical de Quebec — escucha los poemas que leíste</div>
+      </div>
+    </div>
+    <div class="video-grid">
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'xHOHiKhZ9bc')">
+          <img src="https://img.youtube.com/vi/xHOHiKhZ9bc/hqdefault.jpg" alt="Gens du pays">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-xHOHiKhZ9bc" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-all" data-es="Todos los niveles" data-ca="Tots els nivells">Todos los niveles</span>
+            <span class="tag tag-maple" style="font-size:0.72rem">🍁 Québec</span>
+          </div>
+          <div class="video-title">Gens du pays — Live</div>
+          <div class="video-desc" data-es="El himno no oficial de Quebec. Escúchalo mientras lees el texto en la página de Poemas. Fíjate en la pronunciación québécoise: las vocales son más abiertas que en Francia." data-ca="L'himne no oficial del Quebec. Escolta'l mentre llegeixes el text a la pàgina de Poemes. Fixa't en la pronunciació québécoise: les vocals són més obertes que a França.">El himno no oficial de Quebec. Escúchalo mientras lees el texto en la página de Poemas.</div>
+          <a href="https://www.youtube.com/watch?v=xHOHiKhZ9bc" target="_blank" class="video-link">↗ <span data-es="Ver en YouTube" data-ca="Veure a YouTube">Ver en YouTube</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'WpXXBETR6GA')">
+          <img src="https://img.youtube.com/vi/WpXXBETR6GA/hqdefault.jpg" alt="Mon pays">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-WpXXBETR6GA" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-all">Todos los niveles</span>
+            <span class="tag tag-maple" style="font-size:0.72rem">🍁 Québec</span>
+          </div>
+          <div class="video-title">Mon pays — Live Olympia 1966</div>
+          <div class="video-desc" data-es="La versión histórica en el Olympia de París. Vigneault tiene 37 años. Escucha cómo canta 'Mon pays ce n'est pas un pays, c'est l'hiver' — esa frase que aprendiste." data-ca="La versió històrica a l'Olympia de París. Vigneault té 37 anys. Escolta com canta 'Mon pays ce n'est pas un pays, c'est l'hiver' — aquella frase que vas aprendre.">La versión histórica en el Olympia de París, 1966. Vigneault tiene 37 años.</div>
+          <a href="https://www.youtube.com/watch?v=WpXXBETR6GA" target="_blank" class="video-link">↗ <span data-es="Ver en YouTube" data-ca="Veure a YouTube">Ver en YouTube</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'JvobsONKFoU')">
+          <img src="https://img.youtube.com/vi/JvobsONKFoU/hqdefault.jpg" alt="Vigneault entrevue">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-JvobsONKFoU" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-b1">B1+</span>
+            <span class="tag tag-maple" style="font-size:0.72rem">🍁 Québec</span>
+          </div>
+          <div class="video-title">Vigneault parle de "Mon pays"</div>
+          <div class="video-desc" data-es="Entrevista donde Vigneault explica el origen de la canción. Acento québécois auténtico — escucha bien las vocales nasales y la entonación diferente." data-ca="Entrevista on Vigneault explica l'origen de la cançó. Accent québécois autèntic — escolta bé les vocals nasals i l'entonació diferent.">Vigneault explica el origen de la canción. Acento québécois auténtico.</div>
+          <a href="https://www.youtube.com/watch?v=JvobsONKFoU" target="_blank" class="video-link">↗ <span data-es="Ver en YouTube" data-ca="Veure a YouTube">Ver en YouTube</span></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ═══ 2. NELLIGAN & POÉSIE ═══ -->
+  <div class="cat-section fade-up delay-1">
+    <div class="cat-header">
+      <span class="cat-icon">🖋️</span>
+      <div>
+        <div class="cat-title">Nelligan & Poésie récitée</div>
+        <div class="cat-desc" data-es="Escuchar poesía es la mejor manera de interiorizar el ritmo del francés" data-ca="Escoltar poesia és la millor manera d'interioritzar el ritme del francès">Escuchar poesía es la mejor manera de interiorizar el ritmo del francés</div>
+      </div>
+    </div>
+    <div class="video-grid">
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'Y-JWqBGlYrw')">
+          <img src="https://img.youtube.com/vi/Y-JWqBGlYrw/hqdefault.jpg" alt="Le Vaisseau d'Or">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-Y-JWqBGlYrw" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-a2">A2+</span>
+            <span class="tag tag-maple" style="font-size:0.72rem">🍁 Québec</span>
+          </div>
+          <div class="video-title">Le Vaisseau d'Or — récitation</div>
+          <div class="video-desc" data-es="El poema de Nelligan recitado con música. Sigue el texto que tienes en la página de Poemas. ¿Reconoces 'Il a sombré dans l'abîme du Rêve'?" data-ca="El poema de Nelligan recitat amb música. Segueix el text que tens a la pàgina de Poemes. Reconèixes 'Il a sombré dans l'abîme du Rêve'?">El poema de Nelligan recitado con música. Sigue el texto con la página de Poemas.</div>
+          <a href="https://www.youtube.com/watch?v=Y-JWqBGlYrw" target="_blank" class="video-link">↗ <span data-es="Ver en YouTube" data-ca="Veure a YouTube">Ver en YouTube</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, '6n3pFFPSlW4')">
+          <img src="https://img.youtube.com/vi/6n3pFFPSlW4/hqdefault.jpg" alt="Baudelaire Une Charogne">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-6n3pFFPSlW4" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-b1">B1+</span>
+            <span class="tag tag-sky" style="font-size:0.72rem">🇫🇷 France</span>
+          </div>
+          <div class="video-title">Une Charogne — Baudelaire récité</div>
+          <div class="video-desc" data-es="Pronunciación parisina perfecta — compárala con el acento québécois de Vigneault. Las dos son 'français' pero suenan muy diferente." data-ca="Pronunciació parisina perfecta — compara-la amb l'accent québécois de Vigneault. Tots dos són 'français' però sonen molt diferent.">Pronunciación parisina clásica. Compara con el acento de Vigneault.</div>
+          <a href="https://www.youtube.com/watch?v=6n3pFFPSlW4" target="_blank" class="video-link">↗ <span data-es="Ver en YouTube" data-ca="Veure a YouTube">Ver en YouTube</span></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ═══ 3. APPRENDRE LE FRANÇAIS ═══ -->
+  <div class="cat-section fade-up delay-2">
+    <div class="cat-header">
+      <span class="cat-icon">📖</span>
+      <div>
+        <div class="cat-title" data-es="Aprender francés — Canales pedagógicos" data-ca="Aprendre francès — Canals pedagògics">Aprender francés — Canales pedagógicos</div>
+        <div class="cat-desc" data-es="Los mejores canales de YouTube para A1–B1, con contexto cultural" data-ca="Els millors canals de YouTube per a A1–B1, amb context cultural">Los mejores canales para A1–B1</div>
+      </div>
+    </div>
+    <div class="video-grid">
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'y47PNLbV3Y0')">
+          <img src="https://img.youtube.com/vi/y47PNLbV3Y0/hqdefault.jpg" alt="Français avec Pierre">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-y47PNLbV3Y0" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-a1">A1</span>
+          </div>
+          <div class="video-title">Français avec Pierre — Les bases</div>
+          <div class="video-desc" data-es="El canal más popular para aprender francés desde cero. Pierre explica muy claro, con humor. Empieza aquí si quieres reforzar los fundamentos." data-ca="El canal més popular per aprendre francès des de zero. Pierre explica molt clar, amb humor. Comença aquí si vols reforçar els fonaments.">El canal más popular para aprender francés. Pierre explica muy claro, con humor.</div>
+          <a href="https://www.youtube.com/@francaisavecpierre" target="_blank" class="video-link">↗ <span data-es="Ver canal" data-ca="Veure canal">Ver canal</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'oFaFiODXXCg')">
+          <img src="https://img.youtube.com/vi/oFaFiODXXCg/hqdefault.jpg" alt="InnerFrench">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-oFaFiODXXCg" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-a2">A2–B1</span>
+          </div>
+          <div class="video-title">InnerFrench — Francés natural</div>
+          <div class="video-desc" data-es="Hugo habla francés lento y claro sobre temas interesantes (historia, cultura, sociedad). Ideal para A2 en adelante. Sin traducciones — inmersión total." data-ca="Hugo parla francès lent i clar sobre temes interessants (història, cultura, societat). Ideal per a A2 en endavant. Sense traduccions — immersió total.">Hugo habla francés lento y claro. Ideal para A2. Sin traducciones — inmersión total.</div>
+          <a href="https://www.youtube.com/@innerfrench" target="_blank" class="video-link">↗ <span data-es="Ver canal" data-ca="Veure canal">Ver canal</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'kwL9QZQQ7cU')">
+          <img src="https://img.youtube.com/vi/kwL9QZQQ7cU/hqdefault.jpg" alt="Français Authentique">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-kwL9QZQQ7cU" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-a2">A2–B1</span>
+          </div>
+          <div class="video-title">Français Authentique — Méthode</div>
+          <div class="video-desc" data-es="Johan explica su método para aprender francés de manera natural. Muy práctico para entender cómo organizar tu aprendizaje." data-ca="Johan explica el seu mètode per aprendre francès de manera natural. Molt pràctic per entendre com organitzar el teu aprenentatge.">Johan explica cómo aprender francés de manera natural y organizada.</div>
+          <a href="https://www.youtube.com/@FrancaisAuthentique" target="_blank" class="video-link">↗ <span data-es="Ver canal" data-ca="Veure canal">Ver canal</span></a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb" onclick="loadVideo(this, 'V_0BE1ZQVGY')">
+          <img src="https://img.youtube.com/vi/V_0BE1ZQVGY/hqdefault.jpg" alt="Accent québécois">
+          <div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
+          <div class="video-embed"><iframe id="yt-V_0BE1ZQVGY" allowfullscreen allow="autoplay"></iframe></div>
+        </div>
+        <div class="video-body">
+          <div class="video-meta">
+            <span class="niveau-badge n-a2">A2+</span>
+            <span class="tag tag-maple" style="font-size:0.72rem">🍁 Accent QC</span>
+          </div>
+          <div class="video-title">Comprendre l'accent québécois</div>
+          <div class="video-desc" data-es="¿Por qué el francés de Quebec suena tan diferente? Esta video explica los principales rasgos: el 'tu' pronunciado 'tsu', las vocales abiertas, las expresiones propias." data-ca="Per què el francès del Quebec sona tan diferent? Aquest vídeo explica els trets principals: el 'tu' pronunciat 'tsu', les vocals obertes, les expressions pròpies.">¿Por qué el francés de Quebec suena diferente? Rasgos principales del acento.</div>
+          <a href="https://www.youtube.com/watch?v=V_0BE1ZQVGY" target="_blank" class="video-link">↗ <span data-es="Ver

@@ -1,1 +1,244 @@
-aha
+{
+  "intro": {
+    "es": "Los tiempos verbales del francés vs. el español",
+    "ca": "Els temps verbals del francès vs. l'espanyol",
+    "explication_temps": [
+      {
+        "temps_fr": "Présent",
+        "equiv_es": "Presente de indicativo",
+        "equiv_ca": "Present d'indicatiu",
+        "usage": {
+          "es": "Igual que en español: acción que ocurre ahora o habitualmente.",
+          "ca": "Igual que en castellà: acció que ocorre ara o habitualment."
+        },
+        "exemple_fr": "Je mange de la poutine chaque vendredi.",
+        "exemple_es": "Como poutine cada viernes.",
+        "exemple_ca": "Menjo poutine cada divendres."
+      },
+      {
+        "temps_fr": "Passé composé",
+        "equiv_es": "Pretérito indefinido / perfecto compuesto (¡ATENCIÓN!)",
+        "equiv_ca": "Pretèrit indefinit / perfet compost (ATENCIÓ!)",
+        "usage": {
+          "es": "⚠️ DIFERENCIA CLAVE: En francés, el passé composé se usa para TODAS las acciones pasadas terminadas — equivale tanto al pretérito indefinido ('fui') como al pretérito perfecto ('he ido'). Se forma con avoir o être + participe passé.",
+          "ca": "⚠️ DIFERÈNCIA CLAU: En francès, el passé composé s'usa per a TOTES les accions passades acabades — equival tant al pretèrit indefinit ('vaig anar') com al perfet ('he anat'). Es forma amb avoir o être + participe passé."
+        },
+        "exemple_fr": "J'ai visité Montréal l'été passé. (= Visité Montreal el verano pasado.)",
+        "exemple_es": "Visité Montreal el verano pasado. / He visitado Montreal.",
+        "exemple_ca": "Vaig visitar Mont-real l'estiu passat. / He visitat Mont-real.",
+        "piege": {
+          "es": "⚠️ Con verbos de movimiento (partir, aller, venir, arriver, naître, mourir...) se usa ÊTRE y no AVOIR: 'Je suis allé(e)' = Fui / 'Elle est née' = Nació",
+          "ca": "⚠️ Amb verbs de moviment (partir, aller, venir, arriver, naître, mourir...) s'usa ÊTRE i no AVOIR: 'Je suis allé(e)' = Vaig anar / 'Elle est née' = Va néixer"
+        }
+      },
+      {
+        "temps_fr": "Imparfait",
+        "equiv_es": "Pretérito imperfecto de indicativo",
+        "equiv_ca": "Pretèrit imperfet d'indicatiu",
+        "usage": {
+          "es": "Igual que en español: descripción en el pasado, acción habitual en el pasado, contexto de una historia. 'Quand j'étais enfant...' = 'Cuando era niño/a...'",
+          "ca": "Igual que en castellà: descripció en el passat, acció habitual en el passat, context d'una història. 'Quand j'étais enfant...' = 'Quan era petit/a...'"
+        },
+        "exemple_fr": "Quand j'habitais à Québec, il neigeait tous les jours.",
+        "exemple_es": "Cuando vivía en Quebec, nevaba todos los días.",
+        "exemple_ca": "Quan vivia al Quebec, nevava cada dia."
+      },
+      {
+        "temps_fr": "Futur proche (aller + infinitif)",
+        "equiv_es": "Futuro próximo (ir + a + infinitivo)",
+        "equiv_ca": "Futur pròxim (anar + a + infinitiu)",
+        "usage": {
+          "es": "¡IDÉNTICO al español! 'Je vais manger' = 'Voy a comer'. Se usa para acciones que van a pasar pronto.",
+          "ca": "IDÈNTIC al castellà! 'Je vais manger' = 'Vaig a menjar'. S'usa per a accions que passaran aviat."
+        },
+        "exemple_fr": "Je vais visiter le Vieux-Québec ce weekend.",
+        "exemple_es": "Voy a visitar la Ciudad Vieja de Quebec este fin de semana.",
+        "exemple_ca": "Vaig a visitar la Vella Ciutat de Quebec aquest cap de setmana."
+      },
+      {
+        "temps_fr": "Futur simple",
+        "equiv_es": "Futuro simple de indicativo",
+        "equiv_ca": "Futur simple d'indicatiu",
+        "usage": {
+          "es": "Igual que el futuro español pero se forma diferente: raíz del infinitivo + terminaciones (-ai, -as, -a, -ons, -ez, -ont). 'Je mangerai' = 'Comeré'.",
+          "ca": "Igual que el futur castellà però es forma diferent: arrel de l'infinitiu + terminacions (-ai, -as, -a, -ons, -ez, -ont). 'Je mangerai' = 'Menjaré'."
+        },
+        "exemple_fr": "Un jour, je visiterai toutes les provinces du Canada.",
+        "exemple_es": "Un día, visitaré todas las provincias de Canadá.",
+        "exemple_ca": "Un dia, visitaré totes les províncies del Canadà."
+      }
+    ]
+  },
+  "exercices": [
+    {
+      "id": "present_etre_avoir",
+      "titre": { "es": "Presente: être y avoir", "ca": "Present: être i avoir" },
+      "niveau": "A1",
+      "contexte": {
+        "es": "être (ser/estar) y avoir (tener) son los verbos más importantes en francés. ¡Son irregulares, hay que memorizarlos!",
+        "ca": "être (ser/estar) i avoir (tenir) són els verbs més importants en francès. Són irregulars, cal memoritzar-los!"
+      },
+      "questions": [
+        {
+          "phrase": "Montréal ___ la plus grande ville du Québec.",
+          "verbe": "être",
+          "reponse": "est",
+          "options": ["est", "es", "êtes", "sont"],
+          "explication": { "es": "'Elle/Il est' = Es/Está. Montreal (il/elle) → est.", "ca": "'Elle/Il est' = És/Està. Montréal (il/elle) → est." }
+        },
+        {
+          "phrase": "Nous ___ de la chance de vivre au Québec.",
+          "verbe": "avoir",
+          "reponse": "avons",
+          "options": ["avons", "ont", "avez", "ai"],
+          "explication": { "es": "'Nous avons' = Tenemos. Nous → avons.", "ca": "'Nous avons' = Tenim. Nous → avons." }
+        },
+        {
+          "phrase": "Les Québécois ___ très accueillants.",
+          "verbe": "être",
+          "reponse": "sont",
+          "options": ["sont", "est", "sommes", "suis"],
+          "explication": { "es": "'Ils/Elles sont' = Son/Están. Les Québécois (ils) → sont.", "ca": "'Ils/Elles sont' = Són/Estan. Les Québécois (ils) → sont." }
+        },
+        {
+          "phrase": "Tu ___ un beau pays, le Québec !",
+          "verbe": "avoir",
+          "reponse": "as",
+          "options": ["as", "ai", "a", "avons"],
+          "explication": { "es": "'Tu as' = Tienes. Tu → as.", "ca": "'Tu as' = Tens. Tu → as." }
+        },
+        {
+          "phrase": "Je ___ étudiant(e) de français.",
+          "verbe": "être",
+          "reponse": "suis",
+          "options": ["suis", "est", "sommes", "es"],
+          "explication": { "es": "'Je suis' = Soy / Estoy. Je → suis.", "ca": "'Je suis' = Sóc / Estic. Je → suis." }
+        }
+      ]
+    },
+    {
+      "id": "passe_compose",
+      "titre": { "es": "Passé composé: acciones pasadas", "ca": "Passé composé: accions passades" },
+      "niveau": "A2",
+      "contexte": {
+        "es": "El passé composé equivale al pretérito indefinido O al pretérito perfecto en español. Se forma con: avoir/être + participe passé. Ejemplos contextualizados con Quebec:",
+        "ca": "El passé composé equival al pretèrit indefinit O al perfet en català. Es forma amb: avoir/être + participe passé. Exemples contextualitzats amb el Quebec:"
+      },
+      "questions": [
+        {
+          "phrase": "L'année dernière, j'___ visité le Carnaval de Québec.",
+          "verbe": "avoir (j')",
+          "reponse": "ai",
+          "options": ["ai", "suis", "avons", "est"],
+          "explication": { "es": "J'ai visité = Visité (indefinido). Visitar → visité → avec AVOIR. J' + ai + visité.", "ca": "J'ai visité = Vaig visitar. Visitar → vaig visitar → amb AVOIR. J' + ai + visité." }
+        },
+        {
+          "phrase": "Gilles Vigneault ___ né à Natashquan en 1928.",
+          "verbe": "être (il)",
+          "reponse": "est",
+          "options": ["est", "a", "avait", "était"],
+          "explication": { "es": "Naître → ÊTRE (verbo de estado). Il est né = Nació. ¡Naître usa ÊTRE, no AVOIR!", "ca": "Naître → ÊTRE (verb d'estat). Il est né = Va néixer. Naître usa ÊTRE, no AVOIR!" }
+        },
+        {
+          "phrase": "Nous ___ mangé de la poutine au Festival.",
+          "verbe": "avoir (nous)",
+          "reponse": "avons",
+          "options": ["avons", "sommes", "ont", "avez"],
+          "explication": { "es": "Manger → AVOIR. Nous + avons + mangé = Comimos / Hemos comido.", "ca": "Manger → AVOIR. Nous + avons + mangé = Vam menjar / Hem menjat." }
+        },
+        {
+          "phrase": "Elle ___ partie de Montréal en train.",
+          "verbe": "être (elle)",
+          "reponse": "est",
+          "options": ["est", "a", "était", "avait"],
+          "explication": { "es": "Partir → ÊTRE (movimiento). Elle est partie = Ella se fue. Avec ÊTRE, el participio s'acorde: parti → partie (femenino).", "ca": "Partir → ÊTRE (moviment). Elle est partie = Ella va marxar. Amb ÊTRE, el participi concorda: parti → partie (femení)." }
+        },
+        {
+          "phrase": "Les deux poètes ___ écrit de magnifiques poèmes.",
+          "verbe": "avoir (ils)",
+          "reponse": "ont",
+          "options": ["ont", "sont", "avons", "a"],
+          "explication": { "es": "Écrire → AVOIR. Ils + ont + écrit = Escribieron / Han escrito.", "ca": "Écrire → AVOIR. Ils + ont + écrit = Van escriure / Han escrit." }
+        }
+      ]
+    },
+    {
+      "id": "imparfait",
+      "titre": { "es": "Imparfait: descripciones y hábitos pasados", "ca": "Imparfait: descripcions i hàbits passats" },
+      "niveau": "A2",
+      "contexte": {
+        "es": "El imparfait = imperfecto español. Se usa para describir el pasado o hablar de hábitos antiguos. Se forma con la raíz de 'nous' en présent + terminaciones: -ais, -ais, -ait, -ions, -iez, -aient.",
+        "ca": "L'imparfait = imperfet castellà. S'usa per descriure el passat o parlar d'hàbits antics. Es forma amb l'arrel de 'nous' en présent + terminacions: -ais, -ais, -ait, -ions, -iez, -aient."
+      },
+      "questions": [
+        {
+          "phrase": "Quand Nelligan ___ jeune, il écrivait des poèmes magnifiques.",
+          "verbe": "être (il)",
+          "reponse": "était",
+          "options": ["était", "est", "a été", "sera"],
+          "explication": { "es": "Descripción en el pasado → imparfait. Il était jeune = Cuando era joven.", "ca": "Descripció en el passat → imparfait. Il était jeune = Quan era jove." }
+        },
+        {
+          "phrase": "Avant, les Québécois ___ souvent à la cabane à sucre au printemps.",
+          "verbe": "aller (ils)",
+          "reponse": "allaient",
+          "options": ["allaient", "sont allés", "iront", "vont"],
+          "explication": { "es": "Hábito pasado ('avant') → imparfait. Ils allaient = Iban (habitualmente).", "ca": "Hàbit passat ('avant') → imparfait. Ils allaient = Anaven (habitualment)." }
+        },
+        {
+          "phrase": "Vigneault ___ dans un petit village du nord quand il a composé 'Mon pays'.",
+          "verbe": "habiter (il)",
+          "reponse": "habitait",
+          "options": ["habitait", "a habité", "habitera", "habite"],
+          "explication": { "es": "Contexto/descripción de fondo → imparfait. Il habitait = Vivía (cuando ocurrió algo).", "ca": "Context/descripció de fons → imparfait. Il habitait = Vivia (quan va passar alguna cosa)." }
+        },
+        {
+          "phrase": "Le fleuve Saint-Laurent ___ magnifique en hiver.",
+          "verbe": "être (il)",
+          "reponse": "était",
+          "options": ["était", "est", "sera", "a été"],
+          "explication": { "es": "Descripción de una escena pasada → imparfait. Il était magnifique = Era magnífico.", "ca": "Descripció d'una escena passada → imparfait. Il était magnifique = Era magnífic." }
+        }
+      ]
+    },
+    {
+      "id": "futur",
+      "titre": { "es": "Futur proche vs. futur simple", "ca": "Futur pròxim vs. futur simple" },
+      "niveau": "A2",
+      "contexte": {
+        "es": "Futur proche = ir a + infinitivo (acción inminente). Futur simple = futuro de indicativo (acción más lejana o formal).",
+        "ca": "Futur pròxim = anar a + infinitiu (acció imminent). Futur simple = futur d'indicatiu (acció més llunyana o formal)."
+      },
+      "questions": [
+        {
+          "phrase": "Ce soir, nous ___ manger de la tourtière en famille.",
+          "verbe": "futur proche (nous)",
+          "reponse": "allons",
+          "options": ["allons", "irons", "sommes allés", "avons"],
+          "explication": { "es": "Acción inminente ('ce soir') → futur proche. Nous allons manger = Vamos a comer esta noche.", "ca": "Acció imminent ('ce soir') → futur pròxim. Nous allons manger = Anem a menjar aquest vespre." }
+        },
+        {
+          "phrase": "Un jour, le Québec ___ peut-être un pays indépendant.",
+          "verbe": "être (il) — futur simple",
+          "reponse": "sera",
+          "options": ["sera", "va être", "est", "était"],
+          "explication": { "es": "Acción futura lejana o hipotética ('un jour') → futur simple. Il sera = Será.", "ca": "Acció futura llunyana o hipotètica ('un jour') → futur simple. Il sera = Serà." }
+        },
+        {
+          "phrase": "Attention, tu ___ tomber si tu cours sur la glace !",
+          "verbe": "futur proche (tu)",
+          "reponse": "vas",
+          "options": ["vas", "iras", "es allé", "allais"],
+          "explication": { "es": "Advertencia inmediata → futur proche. Tu vas tomber = Vas a caerte.", "ca": "Advertència immediata → futur pròxim. Tu vas tomber = Aniràs a caure." }
+        },
+        {
+          "phrase": "Les aurores boréales ___ encore visibles ce soir dans le nord du Québec.",
+          "verbe": "être (elles) — futur simple",
+          "reponse": "seront",
+          "options": ["seront", "vont être", "sont", "étaient"],
+          "explication": { "es": "Predicción futura (como boletín meteorológico) → futur simple. Elles seront = Serán visibles.", "ca": "Predicció futura (com un butlletí meteorològic) → futur simple. Elles seront = Seran visibles." }
+        }
+      ]
+    }
+  ]
+}

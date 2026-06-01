@@ -1,1 +1,135 @@
-a
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Français pour Laura</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+.hero {
+  min-height: calc(100vh - 56px);
+  display: flex; flex-direction: column; justify-content: center;
+  padding: 3rem 1.25rem;
+  max-width: 860px; margin: 0 auto;
+  position: relative;
+}
+.hero-eyebrow {
+  font-size: 0.78rem; letter-spacing: 0.15em; text-transform: uppercase;
+  color: var(--maple); font-weight: 600; margin-bottom: 1rem;
+}
+.hero-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(3rem, 8vw, 5.5rem);
+  font-weight: 300; color: var(--cream); line-height: 1.0;
+  margin-bottom: 1.5rem;
+}
+.hero-title strong { font-weight: 700; color: var(--maple-light); }
+.hero-title em { font-style: italic; color: var(--gold-light); }
+.hero-sub {
+  font-size: 1.05rem; color: var(--text-dim);
+  max-width: 520px; line-height: 1.7; margin-bottom: 2.5rem;
+}
+.hero-modules {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.75rem; margin-bottom: 2.5rem;
+}
+.hero-module {
+  background: var(--bg2); border: 1px solid var(--border);
+  border-radius: 12px; padding: 1.25rem;
+  text-decoration: none; color: var(--text);
+  transition: all 0.22s; display: block;
+}
+.hero-module:hover {
+  border-color: var(--maple); background: var(--bg3);
+  transform: translateY(-2px);
+}
+.hero-module-icon { font-size: 1.8rem; margin-bottom: 0.6rem; display: block; }
+.hero-module-title { font-family: 'Cormorant Garamond', serif; font-size: 1.15rem; font-weight: 600; color: var(--cream); margin-bottom: 0.2rem; }
+.hero-module-desc { font-size: 0.8rem; color: var(--text-dim); line-height: 1.5; }
+
+.hero-quote {
+  border-left: 2px solid rgba(200,69,26,0.5);
+  padding: 0.8rem 1.2rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic; font-size: 1.1rem;
+  color: var(--cream-dim); line-height: 1.7;
+  max-width: 500px;
+}
+.hero-quote cite { display: block; font-style: normal; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--maple); margin-top: 0.5rem; font-family: 'Outfit', sans-serif; }
+
+.hero-bg-maple {
+  position: fixed; top: 0; right: 0;
+  font-size: 28rem; opacity: 0.018;
+  pointer-events: none; user-select: none;
+  line-height: 1; z-index: -1;
+}
+</style>
+</head>
+<body>
+
+<div class="hero-bg-maple">🍁</div>
+
+<nav class="topbar">
+  <a href="index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="pages/vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="pages/conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="pages/grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="pages/poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+    </div>
+    <div class="lang-toggle">
+      <button data-lang="es">ES</button>
+      <button data-lang="ca">CA</button>
+    </div>
+  </div>
+</nav>
+
+<div class="nav-mobile">
+  <a href="pages/vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="pages/conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="pages/grammaire.html"><span class="icon">📐</span><span data-es="Gramática" data-ca="Gramàtica">Gram.</span></a>
+  <a href="pages/poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="hero fade-up">
+  <div class="hero-eyebrow">🍁 Aprendizaje del francés</div>
+  <h1 class="hero-title">
+    <data-es-html style="display:contents">Bonjour,<br><strong>Laura</strong> !</data-es-html>
+  </h1>
+  <p class="hero-sub" data-es="Bienvenida a tu espacio para aprender francés — con poesía, gramática y cultura del Quebec. Esta plataforma está hecha especialmente para ti." data-ca="Benvinguda al teu espai per aprendre francès — amb poesia, gramàtica i cultura del Quebec. Aquesta plataforma és feta especialment per a tu.">Bienvenida a tu espacio para aprender francés — con poesía, gramática y cultura del Quebec. Esta plataforma está hecha especialmente para ti.</p>
+
+  <div class="hero-modules">
+    <a href="pages/vocabulaire.html" class="hero-module delay-1 fade-up">
+      <span class="hero-module-icon">📚</span>
+      <div class="hero-module-title" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</div>
+      <div class="hero-module-desc" data-es="Flashcards temáticas: naturaleza, cultura, expresiones quebequenses." data-ca="Flashcards temàtiques: natura, cultura, expressions quebequeses.">Flashcards temáticas: naturaleza, cultura, expresiones quebequenses.</div>
+    </a>
+    <a href="pages/conjugaison.html" class="hero-module delay-2 fade-up">
+      <span class="hero-module-icon">✏️</span>
+      <div class="hero-module-title" data-es="Conjugación" data-ca="Conjugació">Conjugación</div>
+      <div class="hero-module-desc" data-es="Presente, passé composé, imparfait, futur. Con comparaciones español-francés." data-ca="Present, passé composé, imparfait, futur. Amb comparacions castellà-francès.">Presente, passé composé, imparfait, futur. Con comparaciones español-francés.</div>
+    </a>
+    <a href="pages/grammaire.html" class="hero-module delay-3 fade-up">
+      <span class="hero-module-icon">📐</span>
+      <div class="hero-module-title" data-es="Gramática" data-ca="Gramàtica">Gramática</div>
+      <div class="hero-module-desc" data-es="Artículos, negación, adjetivos — con ejemplos sobre Quebec." data-ca="Articles, negació, adjectius — amb exemples sobre el Quebec.">Artículos, negación, adjetivos — con ejemplos sobre Quebec.</div>
+    </a>
+    <a href="pages/poemes.html" class="hero-module delay-3 fade-up">
+      <span class="hero-module-icon">📜</span>
+      <div class="hero-module-title" data-es="Poemas" data-ca="Poemes">Poemas</div>
+      <div class="hero-module-desc" data-es="Nelligan, Vigneault, Baudelaire. Análisis, vocabulario, preguntas." data-ca="Nelligan, Vigneault, Baudelaire. Anàlisi, vocabulari, preguntes.">Nelligan, Vigneault, Baudelaire. Análisis, vocabulario, preguntas.</div>
+    </a>
+  </div>
+
+  <div class="hero-quote">
+    <span data-es='"Le temps qu'on prend pour dire : je t'aime / Ce temps-là ne se perd jamais"' data-ca='"Le temps qu'on prend pour dire : je t'aime / Ce temps-là ne se perd jamais"'>"Le temps qu'on prend pour dire : je t'aime / Ce temps-là ne se perd jamais"</span>
+    <cite>— Gilles Vigneault, <em>Gens du pays</em></cite>
+  </div>
+</div>
+</div>
+
+<script src="js/lang.js"></script>
+</body>
+</html>

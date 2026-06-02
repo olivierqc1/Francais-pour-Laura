@@ -1,0 +1,14 @@
+{
+  "categories": [
+    { "id": "nature", "fichier": "data/vocabulaire/nature.json", "nom": { "es": "Naturaleza de Quebec", "ca": "Natura del Quebec" }, "emoji": "🍁" },
+    { "id": "culture", "fichier": "data/vocabulaire/culture.json", "nom": { "es": "Cultura quebequense", "ca": "Cultura quebequesa" }, "emoji": "🎶" },
+    { "id": "expressions", "fichier": "data/vocabulaire/expressions.json", "nom": { "es": "Expresiones quebequenses", "ca": "Expressions quebequeses" }, "emoji": "💬" },
+    { "id": "maison", "fichier": "data/vocabulaire/maison.json", "nom": { "es": "La casa", "ca": "La casa" }, "emoji": "🏠" },
+    { "id": "nourriture", "fichier": "data/vocabulaire/nourriture.json", "nom": { "es": "Comida y bebida", "ca": "Menjar i beguda" }, "emoji": "🍽️" },
+    { "id": "ville", "fichier": "data/vocabulaire/ville.json", "nom": { "es": "La ciudad", "ca": "La ciutat" }, "emoji": "🏙️" },
+    { "id": "corps", "fichier": "data/vocabulaire/corps.json", "nom": { "es": "El cuerpo y la salud", "ca": "El cos i la salut" }, "emoji": "🧍" },
+    { "id": "temps", "fichier": "data/vocabulaire/temps.json", "nom": { "es": "Tiempo y clima", "ca": "Temps i clima" }, "emoji": "📅" },
+    { "id": "famille", "fichier": "data/vocabulaire/famille.json", "nom": { "es": "Familia y personas", "ca": "Família i persones" }, "emoji": "👨‍👩‍👧" },
+    { "id": "verbes", "fichier": "data/vocabulaire/verbes.json", "nom": { "es": "Verbos útiles", "ca": "Verbs útils" }, "emoji": "⚡" }
+  ]
+}

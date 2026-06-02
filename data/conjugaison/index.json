@@ -1,13 +1,17 @@
 {
   "intro": {
-    "es": "El francés organiza los verbos en 3 grupos según el infinitivo: -ER (1.er grupo, fácil y regular), -IR tipo finir (2.º grupo) y -RE/irregulares (3.er grupo). Elige un TIEMPO en el menú de arriba: verás cómo se conjuga cada grupo, con tabla y audio. Usa el filtro de nivel para ver qué es prioritario para tu nivel.",
-    "ca": "El francès organitza els verbs en 3 grups segons l'infinitiu: -ER (1r grup, fàcil i regular), -IR tipus finir (2n grup) i -RE/irregulars (3r grup). Tria un TEMPS al menú de dalt: veuràs com es conjuga cada grup, amb taula i àudio. Fes servir el filtre de nivell per veure què és prioritari."
+    "es": "El francés organiza los verbos en 3 grupos según el infinitivo: -ER (1.er grupo, fácil y regular), -IR tipo finir (2.º grupo) y -RE/irregulares (3.er grupo). Elige un TIEMPO en el menú de arriba: verás cómo se conjuga cada grupo, con tabla y audio. Usa el filtro de nivel para ver qué es prioritario para tu nivel. En 'Practicar' escribes tú la respuesta (los acentos no son obligatorios).",
+    "ca": "El francès organitza els verbs en 3 grups segons l'infinitiu: -ER (1r grup), -IR tipus finir (2n grup) i -RE/irregulars (3r grup). Tria un TEMPS al menú de dalt: veuràs com es conjuga cada grup, amb taula i àudio. Fes servir el filtre de nivell. A 'Practicar' escrius tu la resposta (els accents no són obligatoris)."
   },
   "temps": [
     { "id": "present", "fichier": "data/conjugaison/present.json", "nom": { "es": "Presente", "ca": "Present" }, "niveau": "A1" },
+    { "id": "futur_proche", "fichier": "data/conjugaison/futur_proche.json", "nom": { "es": "Futur proche (ir a + inf.)", "ca": "Futur proche (anar a + inf.)" }, "niveau": "A1" },
     { "id": "passe_compose", "fichier": "data/conjugaison/passe_compose.json", "nom": { "es": "Passé composé (pasado)", "ca": "Passé composé (passat)" }, "niveau": "A2" },
     { "id": "imparfait", "fichier": "data/conjugaison/imparfait.json", "nom": { "es": "Imparfait (imperfecto)", "ca": "Imparfait (imperfet)" }, "niveau": "A2" },
-    { "id": "futur", "fichier": "data/conjugaison/futur.json", "nom": { "es": "Futur simple (futuro)", "ca": "Futur simple (futur)" }, "niveau": "B1" }
+    { "id": "futur", "fichier": "data/conjugaison/futur.json", "nom": { "es": "Futur simple (futuro)", "ca": "Futur simple (futur)" }, "niveau": "B1" },
+    { "id": "plus_que_parfait", "fichier": "data/conjugaison/plus_que_parfait.json", "nom": { "es": "Plus-que-parfait", "ca": "Plus-que-parfait" }, "niveau": "B1" },
+    { "id": "conditionnel", "fichier": "data/conjugaison/conditionnel.json", "nom": { "es": "Conditionnel (condicional)", "ca": "Conditionnel (condicional)" }, "niveau": "B1" },
+    { "id": "subjonctif", "fichier": "data/conjugaison/subjonctif.json", "nom": { "es": "Subjonctif présent", "ca": "Subjonctif présent" }, "niveau": "B1" }
   ],
   "niveaux": [
     { "id": "all", "nom": { "es": "Todos los niveles", "ca": "Tots els nivells" } },

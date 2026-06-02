@@ -5,6 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Gramática — Français pour Laura</title>
 <link rel="stylesheet" href="../css/style.css">
+<style>
+.select-nav {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--cream);
+  font-family: 'Outfit', sans-serif;
+  font-size: 1rem; font-weight: 500;
+  margin-bottom: 1.5rem;
+}
+.select-nav:focus { outline: none; border-color: var(--gold); }
+.select-label { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); font-weight: 600; margin-bottom: 0.4rem; display: block; }
+</style>
 </head>
 <body>
 <nav class="topbar">
@@ -35,10 +50,12 @@
   <div class="page-header fade-up">
     <div class="page-header-label">📐 <span data-es="Módulo 3" data-ca="Mòdul 3">Módulo 3</span></div>
     <h1 data-es="Gramática" data-ca="Gramàtica">Gramática</h1>
-    <p data-es="Artículos, negación, adjetivos — con ejemplos del Quebec y comparaciones con el español." data-ca="Articles, negació, adjectius — amb exemples del Quebec i comparacions amb el castellà.">Artículos, negación, adjetivos — con ejemplos del Quebec y comparaciones con el español.</p>
+    <p data-es="Artículos, negación, adjetivos, pronombres — con ejemplos del Quebec y comparaciones con el español." data-ca="Articles, negació, adjectius, pronoms — amb exemples del Quebec i comparacions amb el castellà.">Artículos, negación, adjetivos, pronombres — con ejemplos del Quebec.</p>
   </div>
 
-  <div class="tabs" id="mod-tabs"></div>
+  <label class="select-label" id="select-label" data-es="ELIGE UN TEMA" data-ca="TRIA UN TEMA">ELIGE UN TEMA</label>
+  <select class="select-nav" id="mod-select" onchange="startMod(this.value)"></select>
+
   <div id="mod-explication"></div>
   <hr class="divider">
   <div class="section-label" id="ex-label"></div>
@@ -52,7 +69,7 @@
     <div class="feedback-box" id="q-feedback"></div>
     <div style="margin-top:1rem">
       <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()">
-        <span data-es="Siguiente" data-ca="Següent">Siguiente</span> →
+        <span data-es="Siguiente" data-ca="Següent">Siguiente</span> &rarr;
       </button>
     </div>
   </div>
@@ -68,30 +85,32 @@ const lang = () => localStorage.getItem('laura_lang') || 'es';
 async function load() {
   const r = await fetch('../data/grammaire.json');
   data = await r.json();
-  renderTabs(); startMod(0);
+  renderSelect();
+  startMod(0);
 }
 
-function renderTabs() {
+function renderSelect() {
   const l = lang();
-  const el = document.getElementById('mod-tabs'); el.innerHTML = '';
+  const sel = document.getElementById('mod-select');
+  sel.innerHTML = '';
   data.modules.forEach((m, i) => {
-    const b = document.createElement('button');
-    b.className = 'tab' + (i === modIdx ? ' active' : '');
-    b.textContent = m.titre[l];
-    b.onclick = () => startMod(i);
-    el.appendChild(b);
+    const o = document.createElement('option');
+    o.value = i;
+    o.textContent = m.titre[l];
+    if (i === modIdx) o.selected = true;
+    sel.appendChild(o);
   });
+  document.getElementById('select-label').textContent = l === 'es' ? 'ELIGE UN TEMA' : 'TRIA UN TEMA';
 }
 
 function startMod(i) {
-  modIdx = i; qIdx = 0; score = 0; answered = false;
+  modIdx = Number(i); qIdx = 0; score = 0; answered = false;
   document.getElementById('completion-area').style.display = 'none';
   document.getElementById('quiz-area').style.display = 'block';
-  renderTabs();
-  const m = data.modules[i];
+  document.getElementById('mod-select').value = modIdx;
+  const m = data.modules[modIdx];
   const l = lang();
-  document.getElementById('mod-explication').innerHTML = `
-    <div class="info-box">${m.explication[l]}</div>`;
+  document.getElementById('mod-explication').innerHTML = '<div class="info-box">' + m.explication[l] + '</div>';
   document.getElementById('ex-label').textContent = l === 'es' ? 'EJERCICIOS' : 'EXERCICIS';
   renderQuestion();
 }
@@ -112,7 +131,7 @@ function renderQuestion() {
   document.getElementById('btn-next').style.display = 'none';
   const opts = [...q.options].sort(() => Math.random() - 0.5);
   document.getElementById('q-options').innerHTML = opts.map(o =>
-    `<button class="option" onclick="checkAns('${o.replace(/'/g,"\\'")}', this)">${o}</button>`
+    '<button class="option" onclick="checkAns(\'' + o.replace(/'/g,"\\'") + '\', this)">' + o + '</button>'
   ).join('');
 }
 
@@ -130,11 +149,11 @@ function checkAns(sel, btn) {
   btn.classList.add(correct ? 'correct' : 'wrong');
   const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box show ' + (correct ? 'correct' : 'wrong');
-  fb.innerHTML = (correct ? '✅ ' : '❌ ')
+  fb.innerHTML = (correct ? '\u2705 ' : '\u274C ')
     + (correct
-      ? (l === 'es' ? '¡Correcto!' : 'Correcte!')
-      : (l === 'es' ? `Correcto: <strong>${q.reponse}</strong>` : `Correcte: <strong>${q.reponse}</strong>`))
-    + `<div class="explication">${q.explication[l]}</div>`;
+      ? (l === 'es' ? '\u00A1Correcto!' : 'Correcte!')
+      : (l === 'es' ? 'Correcto: <strong>' + q.reponse + '</strong>' : 'Correcte: <strong>' + q.reponse + '</strong>'))
+    + '<div class="explication">' + q.explication[l] + '</div>';
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx + 1;
   document.getElementById('btn-next').style.display = 'inline-flex';
@@ -148,21 +167,19 @@ function showCompletion() {
   const total = data.modules[modIdx].exercices.length;
   document.getElementById('quiz-area').style.display = 'none';
   document.getElementById('completion-area').style.display = 'block';
-  document.getElementById('completion-area').innerHTML = `
-    <div class="card completion">
-      <div class="completion-icon">🌟</div>
-      <h2>${l === 'es' ? '¡Excelente, Laura!' : 'Excel·lent, Laura!'}</h2>
-      <p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">${score} / ${total}</p>
-      <button class="btn btn-primary" style="margin-top:1.5rem" onclick="startMod(${modIdx})">
-        🔄 ${l === 'es' ? 'Repetir' : 'Repetir'}
-      </button>
-    </div>`;
+  document.getElementById('completion-area').innerHTML =
+    '<div class="card completion">' +
+      '<div class="completion-icon">\uD83C\uDF1F</div>' +
+      '<h2>' + (l === 'es' ? '\u00A1Excelente, Laura!' : 'Excel\u00B7lent, Laura!') + '</h2>' +
+      '<p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">' + score + ' / ' + total + '</p>' +
+      '<button class="btn btn-primary" style="margin-top:1.5rem" onclick="startMod(' + modIdx + ')">\uD83D\uDD04 ' + (l === 'es' ? 'Repetir' : 'Repetir') + '</button>' +
+    '</div>';
 }
 
 document.addEventListener('DOMContentLoaded', () => {
   load();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(() => { renderTabs(); }, 0));
+    b.addEventListener('click', () => setTimeout(() => { renderSelect(); startMod(modIdx); }, 0));
   });
 });
 </script>

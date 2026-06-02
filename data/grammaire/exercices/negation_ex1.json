@@ -1,0 +1,14 @@
+{
+  "id": "negation_ex1",
+  "module": "negation",
+  "titre": { "es": "Ejercicio 1 — La négation avec le Québec", "ca": "Exercici 1 — La négation amb el Quebec" },
+  "niveau": "A1",
+  "exercices": [
+    { "phrase": "Je ___ parle ___ anglais à la maison.", "reponse": "ne / pas", "options": ["ne / pas", "pas / ne", "n' / jamais", "non / pas"], "explication": { "es": "Negación simple → ne...pas. 'parle' empieza por consonante → ne (sin élision). Je ne parle pas = No hablo. Estructura: SUJET + ne + VERBE + pas.", "ca": "Negació simple → ne...pas. 'parle' comença per consonant → ne (sense elisió). Je ne parle pas = No parlo." } },
+    { "phrase": "Au Québec, il ___ fait ___ aussi chaud qu'en Espagne.", "reponse": "ne / jamais", "options": ["ne / jamais", "ne / pas", "n' / plus", "ne / rien"], "explication": { "es": "Nunca hace tanto calor → ne...jamais. Il ne fait jamais aussi chaud = Nunca hace tanto calor. 'fait' empieza por consonante → ne.", "ca": "Mai fa tant de calor → ne...jamais. Il ne fait jamais aussi chaud = Mai fa tant de calor." } },
+    { "phrase": "Nelligan ___ écrit ___ de poèmes après ses 20 ans.", "reponse": "n' / plus", "options": ["n' / plus", "ne / pas", "n' / jamais", "ne / rien"], "explication": { "es": "Ya no escribe más (fue internado) → ne...plus. 'écrit' empieza por vocal → élision: n'. Il n'écrit plus = Ya no escribe.", "ca": "Ja no escriu més (va ser internat) → ne...plus. 'écrit' comença per vocal → elisió: n'." } },
+    { "phrase": "Je ___ comprends ___ quand les Québécois parlent très vite.", "reponse": "ne / rien", "options": ["ne / rien", "ne / pas", "n' / personne", "ne / jamais"], "explication": { "es": "No entiendo nada → ne...rien. Je ne comprends rien = No entiendo nada. 'comprends' empieza por consonante → ne.", "ca": "No entenc res → ne...rien. Je ne comprends rien = No entenc res." } },
+    { "phrase": "___ aime le froid, mais on aime quand même le Québec !", "reponse": "On n'", "options": ["On n'", "On ne", "Nous ne", "On pas"], "explication": { "es": "On + n' + aime (vocal) → élision: n'. La frase completa: 'On n'aime pas le froid, mais on aime le Québec !' El 'ne' hace élision ante la vocal de 'aime'.", "ca": "On + n' + aime (vocal) → elisió: n'. La frase completa: 'On n'aime pas le froid, mais on aime le Québec !'" } },
+    { "phrase": "Je ___ connais ___ à Montréal — c'est ma première visite.", "reponse": "ne / personne", "options": ["ne / personne", "ne / rien", "n' / plus", "ne / jamais"], "explication": { "es": "No conozco a nadie → ne...personne. Je ne connais personne = No conozco a nadie. 'connais' empieza por consonante → ne.", "ca": "No conec ningú → ne...personne. Je ne connais personne = No conec ningú." } }
+  ]
+}

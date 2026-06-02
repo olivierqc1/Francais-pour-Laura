@@ -1,0 +1,10 @@
+{
+  "id": "vigneault",
+  "titre": { "es": "Gilles Vigneault", "ca": "Gilles Vigneault" },
+  "description": { "es": "El alma musical de Quebec — escucha los poemas que leíste", "ca": "L'ànima musical del Quebec — escolta els poemes que vas llegir" },
+  "videos": [
+    { "id": "xHOHiKhZ9bc", "titre": "Gens du pays — Live", "niveau": "all", "desc": { "es": "El himno no oficial de Quebec. Escúchalo mientras lees el texto en Poemas. Fíjate en la pronunciación québécoise: las vocales son más abiertas que en Francia.", "ca": "L'himne no oficial del Quebec. Escolta'l mentre llegeixes el text a Poemes." } },
+    { "id": "WpXXBETR6GA", "titre": "Mon pays — Live Olympia 1966", "niveau": "all", "desc": { "es": "La versión histórica en el Olympia de París. Vigneault tiene 37 años. Escucha 'Mon pays ce n'est pas un pays, c'est l'hiver'.", "ca": "La versió històrica a l'Olympia de París. Vigneault té 37 anys." } },
+    { "id": "JvobsONKFoU", "titre": "Vigneault parle de Mon pays", "niveau": "b1", "desc": { "es": "Entrevista donde Vigneault explica el origen de la canción. Acento québécois auténtico.", "ca": "Entrevista on Vigneault explica l'origen de la cançó. Accent québécois autèntic." } }
+  ]
+}

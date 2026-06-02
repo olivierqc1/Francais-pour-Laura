@@ -1,0 +1,7 @@
+{
+  "modules": [
+    { "id": "regles_a1", "fichier": "data/prononciation/regles_a1.json", "titre": { "es": "Sons de base A1", "ca": "Sons bàsics A1" }, "niveau": "A1", "icone": "🔤" },
+    { "id": "regles_a2", "fichier": "data/prononciation/regles_a2.json", "titre": { "es": "Sons avancés A2", "ca": "Sons avançats A2" }, "niveau": "A2", "icone": "🎵" },
+    { "id": "ecoute", "fichier": "data/prononciation/ecoute.json", "titre": { "es": "Ejercicios de escucha", "ca": "Exercicis d'escolta" }, "niveau": "A1+", "icone": "👂" }
+  ]
+}

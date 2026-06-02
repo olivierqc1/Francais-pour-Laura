@@ -1,0 +1,118 @@
+{
+  "id": "nature",
+  "nom": {
+    "es": "Naturaleza de Quebec",
+    "ca": "Natura del Quebec"
+  },
+  "emoji": "🍁",
+  "mots": [
+    {
+      "fr": "l'érable",
+      "emoji": "🍁",
+      "es": "el arce",
+      "ca": "l'auró",
+      "exemple": "Le sirop d'érable est la fierté du Québec.",
+      "exemple_es": "El jarabe de arce es el orgullo de Quebec.",
+      "exemple_ca": "El xarop d'auró és l'orgull del Quebec."
+    },
+    {
+      "fr": "la neige",
+      "emoji": "❄️",
+      "es": "la nieve",
+      "ca": "la neu",
+      "exemple": "Il neige de novembre à avril au Québec.",
+      "exemple_es": "Nieva de noviembre a abril en Quebec.",
+      "exemple_ca": "Neva de novembre a abril al Quebec."
+    },
+    {
+      "fr": "le fleuve",
+      "emoji": "🌊",
+      "es": "el río grande",
+      "ca": "el riu gran",
+      "exemple": "Le Saint-Laurent est le plus grand fleuve du Québec.",
+      "exemple_es": "El San Lorenzo es el río más grande de Quebec.",
+      "exemple_ca": "El Sant Llorenç és el riu més gran del Quebec."
+    },
+    {
+      "fr": "la forêt",
+      "emoji": "🌲",
+      "es": "el bosque",
+      "ca": "el bosc",
+      "exemple": "La forêt boréale couvre la moitié du Québec.",
+      "exemple_es": "El bosque boreal cubre la mitad de Quebec.",
+      "exemple_ca": "El bosc boreal cobreix la meitat del Quebec."
+    },
+    {
+      "fr": "le lac",
+      "emoji": "🏞️",
+      "es": "el lago",
+      "ca": "el llac",
+      "exemple": "Le Québec possède plus d'un million de lacs.",
+      "exemple_es": "Quebec tiene más de un millón de lagos.",
+      "exemple_ca": "El Quebec té més d'un milió de llacs."
+    },
+    {
+      "fr": "l'hiver",
+      "emoji": "🥶",
+      "es": "el invierno",
+      "ca": "l'hivern",
+      "exemple": "L'hiver québécois est long et rigoureux.",
+      "exemple_es": "El invierno quebequense es largo y riguroso.",
+      "exemple_ca": "L'hivern quebequès és llarg i rigorós."
+    },
+    {
+      "fr": "le chevreuil",
+      "emoji": "🦌",
+      "es": "el venado",
+      "ca": "el cérvol",
+      "exemple": "On voit souvent des chevreuils dans les forêts.",
+      "exemple_es": "Se ven a menudo venados en los bosques.",
+      "exemple_ca": "Es veuen sovint cérvols als boscos."
+    },
+    {
+      "fr": "l'ours",
+      "emoji": "🐻",
+      "es": "el oso",
+      "ca": "l'ós",
+      "exemple": "L'ours noir vit dans les forêts du Québec.",
+      "exemple_es": "El oso negro vive en los bosques de Quebec.",
+      "exemple_ca": "L'ós negre viu als boscos del Quebec."
+    },
+    {
+      "fr": "la montagne",
+      "emoji": "⛰️",
+      "es": "la montaña",
+      "ca": "la muntanya",
+      "exemple": "On fait de la randonnée dans les montagnes.",
+      "exemple_es": "Hacemos senderismo en las montañas.",
+      "exemple_ca": "Fem excursionisme a les muntanyes."
+    },
+    {
+      "fr": "la rivière",
+      "emoji": "🏞️",
+      "es": "el río pequeño",
+      "ca": "el riu petit",
+      "exemple": "La rivière gèle complètement en hiver.",
+      "exemple_es": "El río se congela del todo en invierno.",
+      "exemple_ca": "El riu es congela del tot a l'hivern."
+    },
+    {
+      "fr": "le ciel",
+      "emoji": "🌌",
+      "es": "el cielo",
+      "ca": "el cel",
+      "exemple": "Le ciel du Nord montre des aurores boréales.",
+      "exemple_es": "El cielo del Norte muestra auroras boreales.",
+      "exemple_ca": "El cel del Nord mostra aurores boreals."
+    },
+    {
+      "fr": "la feuille",
+      "emoji": "🍂",
+      "es": "la hoja",
+      "ca": "la fulla",
+      "exemple": "En automne, les feuilles deviennent rouges.",
+      "exemple_es": "En otoño, las hojas se vuelven rojas.",
+      "exemple_ca": "A la tardor, les fulles es tornen vermelles."
+    }
+  ]
+}

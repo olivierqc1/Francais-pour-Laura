@@ -1,0 +1,299 @@
+{
+  "id": "imparfait",
+  "nom": {
+    "es": "Imparfait",
+    "ca": "Imparfait"
+  },
+  "regle": {
+    "es": "El imparfait = imperfecto español ('hablaba', 'comía'). Se usa para describir el pasado, hablar de hábitos antiguos, o poner el decorado de una historia.\n\n👉 Cómo formarlo (¡fácil, casi sin excepciones!): toma la forma de NOUS en presente, quita -ons, y añade: -ais, -ais, -ait, -ions, -iez, -aient.\n\nEjemplo: nous parlons → radical 'parl-' → je parlais, tu parlais, il parlait...\n\n⚠️ Único irregular importante: ÊTRE → radical 'ét-' (j'étais, tu étais...).",
+    "ca": "L'imparfait = imperfet ('parlava', 'menjava'). S'usa per descriure el passat, parlar d'hàbits antics, o posar el decorat d'una història.\n\n👉 Com formar-lo (fàcil, gairebé sense excepcions!): pren la forma de NOUS en present, treu -ons, i afegeix: -ais, -ais, -ait, -ions, -iez, -aient.\n\nExemple: nous parlons → arrel 'parl-' → je parlais...\n\n⚠️ Únic irregular important: ÊTRE → arrel 'ét-' (j'étais...)."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Modelo regular (todos los grupos)",
+        "ca": "Model regular (tots els grups)"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler (-ER)",
+          "trad": {
+            "es": "hablar",
+            "ca": "parlar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "parlais",
+              "tts": "je parlais",
+              "es": "yo hablaba",
+              "ca": "jo parlava"
+            },
+            {
+              "pronom": "tu",
+              "forme": "parlais",
+              "tts": "tu parlais",
+              "es": "tú hablabas",
+              "ca": "tu parlaves"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "parlait",
+              "tts": "il parlait",
+              "es": "él hablaba",
+              "ca": "ell parlava"
+            },
+            {
+              "pronom": "nous",
+              "forme": "parlions",
+              "tts": "nous parlions",
+              "es": "nosotros hablábamos",
+              "ca": "nosaltres parlàvem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "parliez",
+              "tts": "vous parliez",
+              "es": "vosotros hablabais",
+              "ca": "vosaltres parlàveu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "parlaient",
+              "tts": "ils parlaient",
+              "es": "ellos hablaban",
+              "ca": "ells parlaven"
+            }
+          ]
+        },
+        {
+          "infinitif": "finir (-IR)",
+          "trad": {
+            "es": "terminar",
+            "ca": "acabar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "finissais",
+              "tts": "je finissais",
+              "es": "yo terminaba",
+              "ca": "jo acabava"
+            },
+            {
+              "pronom": "tu",
+              "forme": "finissais",
+              "tts": "tu finissais",
+              "es": "tú terminabas",
+              "ca": "tu acabaves"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "finissait",
+              "tts": "il finissait",
+              "es": "él terminaba",
+              "ca": "ell acabava"
+            },
+            {
+              "pronom": "nous",
+              "forme": "finissions",
+              "tts": "nous finissions",
+              "es": "nosotros terminábamos",
+              "ca": "nosaltres acabàvem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "finissiez",
+              "tts": "vous finissiez",
+              "es": "vosotros terminabais",
+              "ca": "vosaltres acabàveu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "finissaient",
+              "tts": "ils finissaient",
+              "es": "ellos terminaban",
+              "ca": "ells acabaven"
+            }
+          ]
+        },
+        {
+          "infinitif": "prendre (-RE)",
+          "trad": {
+            "es": "tomar",
+            "ca": "prendre"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "prenais",
+              "tts": "je prenais",
+              "es": "yo tomaba",
+              "ca": "jo prenia"
+            },
+            {
+              "pronom": "tu",
+              "forme": "prenais",
+              "tts": "tu prenais",
+              "es": "tú tomabas",
+              "ca": "tu prenies"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "prenait",
+              "tts": "il prenait",
+              "es": "él tomaba",
+              "ca": "ell prenia"
+            },
+            {
+              "pronom": "nous",
+              "forme": "prenions",
+              "tts": "nous prenions",
+              "es": "nosotros tomábamos",
+              "ca": "nosaltres preníem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "preniez",
+              "tts": "vous preniez",
+              "es": "vosotros tomabais",
+              "ca": "vosaltres preníeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "prenaient",
+              "tts": "ils prenaient",
+              "es": "ellos tomaban",
+              "ca": "ells prenien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "⚠️ Irregular: être",
+        "ca": "⚠️ Irregular: être"
+      },
+      "verbes": [
+        {
+          "infinitif": "être",
+          "trad": {
+            "es": "ser / estar",
+            "ca": "ser / estar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "étais",
+              "tts": "j'étais",
+              "es": "yo era/estaba",
+              "ca": "jo era/estava"
+            },
+            {
+              "pronom": "tu",
+              "forme": "étais",
+              "tts": "tu étais",
+              "es": "tú eras/estabas",
+              "ca": "tu eres/estaves"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "était",
+              "tts": "il était",
+              "es": "él era/estaba",
+              "ca": "ell era/estava"
+            },
+            {
+              "pronom": "nous",
+              "forme": "étions",
+              "tts": "nous étions",
+              "es": "nosotros éramos",
+              "ca": "nosaltres érem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "étiez",
+              "tts": "vous étiez",
+              "es": "vosotros erais",
+              "ca": "vosaltres éreu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "étaient",
+              "tts": "ils étaient",
+              "es": "ellos eran",
+              "ca": "ells eren"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Quand j'___ enfant, il neigeait beaucoup. (être)",
+      "reponse": "étais",
+      "niveau": "A2",
+      "options": [
+        "étais",
+        "suis",
+        "ai été",
+        "serai"
+      ],
+      "explication": {
+        "es": "être → étais. Descripción del pasado.",
+        "ca": "être → étais. Descripció del passat."
+      }
+    },
+    {
+      "phrase": "Avant, les Québécois ___ souvent à la cabane à sucre. (aller)",
+      "reponse": "allaient",
+      "niveau": "A2",
+      "options": [
+        "allaient",
+        "sont allés",
+        "iront",
+        "vont"
+      ],
+      "explication": {
+        "es": "Hábito pasado → imparfait. ils allaient.",
+        "ca": "Hàbit passat → imparfait. ils allaient."
+      }
+    },
+    {
+      "phrase": "Le fleuve ___ magnifique en hiver. (être)",
+      "reponse": "était",
+      "niveau": "A2",
+      "options": [
+        "était",
+        "est",
+        "sera",
+        "a été"
+      ],
+      "explication": {
+        "es": "Descripción → était.",
+        "ca": "Descripció → était."
+      }
+    },
+    {
+      "phrase": "Nous ___ français à la maison. (parler)",
+      "reponse": "parlions",
+      "niveau": "A2",
+      "options": [
+        "parlions",
+        "parlons",
+        "parlerons",
+        "parlâmes"
+      ],
+      "explication": {
+        "es": "nous → -ions. parlions.",
+        "ca": "nous → -ions. parlions."
+      }
+    }
+  ]
+}

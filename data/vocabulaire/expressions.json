@@ -1,0 +1,100 @@
+{
+  "id": "expressions",
+  "nom": {
+    "es": "Expresiones quebequenses",
+    "ca": "Expressions quebequeses"
+  },
+  "emoji": "💬",
+  "mots": [
+    {
+      "fr": "Allô !",
+      "emoji": "👋",
+      "es": "¡Hola! (saludo)",
+      "ca": "Hola! (salutació)",
+      "exemple": "Allô ! Comment ça va ?",
+      "exemple_es": "¡Hola! ¿Cómo estás?",
+      "exemple_ca": "Hola! Com estàs?"
+    },
+    {
+      "fr": "C'est le boutte !",
+      "emoji": "🤩",
+      "es": "¡Es genial!",
+      "ca": "És genial!",
+      "exemple": "Ce film, c'est vraiment le boutte !",
+      "exemple_es": "¡Esta película es genial!",
+      "exemple_ca": "Aquesta pel·lícula és genial!"
+    },
+    {
+      "fr": "Pantoute !",
+      "emoji": "🙅",
+      "es": "¡Para nada!",
+      "ca": "Per res!",
+      "exemple": "— Tu aimes le froid ? — Pantoute !",
+      "exemple_es": "— ¿Te gusta el frío? — ¡Para nada!",
+      "exemple_ca": "— T'agrada el fred? — Per res!"
+    },
+    {
+      "fr": "Avoir du fun",
+      "emoji": "😄",
+      "es": "divertirse",
+      "ca": "divertir-se",
+      "exemple": "On a eu du fun à ce party !",
+      "exemple_es": "¡Lo pasamos bien en esa fiesta!",
+      "exemple_ca": "Ho vam passar bé en aquella festa!"
+    },
+    {
+      "fr": "Mon char",
+      "emoji": "🚗",
+      "es": "mi coche",
+      "ca": "el meu cotxe",
+      "exemple": "Mon char est stationné dans la rue.",
+      "exemple_es": "Mi coche está aparcado en la calle.",
+      "exemple_ca": "El meu cotxe és aparcat al carrer."
+    },
+    {
+      "fr": "Tiguidou !",
+      "emoji": "✅",
+      "es": "¡Perfecto! / ¡Trato hecho!",
+      "ca": "Perfecte! / Tracte fet!",
+      "exemple": "On se voit à midi ? — Tiguidou !",
+      "exemple_es": "¿Nos vemos al mediodía? — ¡Perfecto!",
+      "exemple_ca": "Ens veiem al migdia? — Perfecte!"
+    },
+    {
+      "fr": "C'est plate",
+      "emoji": "😒",
+      "es": "es aburrido",
+      "ca": "és avorrit",
+      "exemple": "Il pleut, c'est plate.",
+      "exemple_es": "Llueve, es aburrido.",
+      "exemple_ca": "Plou, és avorrit."
+    },
+    {
+      "fr": "Magasiner",
+      "emoji": "🛍️",
+      "es": "ir de compras",
+      "ca": "anar de compres",
+      "exemple": "On va magasiner cet après-midi.",
+      "exemple_es": "Vamos de compras esta tarde.",
+      "exemple_ca": "Anem de compres aquesta tarda."
+    },
+    {
+      "fr": "Présentement",
+      "emoji": "⏱️",
+      "es": "ahora mismo",
+      "ca": "ara mateix",
+      "exemple": "Je suis présentement au travail.",
+      "exemple_es": "Ahora mismo estoy en el trabajo.",
+      "exemple_ca": "Ara mateix sóc a la feina."
+    },
+    {
+      "fr": "Bienvenue !",
+      "emoji": "🙏",
+      "es": "¡De nada! (en Quebec)",
+      "ca": "De res! (al Quebec)",
+      "exemple": "— Merci ! — Bienvenue !",
+      "exemple_es": "— ¡Gracias! — ¡De nada!",
+      "exemple_ca": "— Gràcies! — De res!"
+    }
+  ]
+}

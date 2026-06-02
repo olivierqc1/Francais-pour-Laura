@@ -1,0 +1,118 @@
+{
+  "id": "verbes",
+  "nom": {
+    "es": "Verbos útiles",
+    "ca": "Verbs útils"
+  },
+  "emoji": "⚡",
+  "mots": [
+    {
+      "fr": "être",
+      "emoji": "🟰",
+      "es": "ser / estar",
+      "ca": "ser / estar",
+      "exemple": "Je suis content d'apprendre le français.",
+      "exemple_es": "Estoy contento de aprender francés.",
+      "exemple_ca": "Estic content d'aprendre francès."
+    },
+    {
+      "fr": "avoir",
+      "emoji": "🤲",
+      "es": "tener",
+      "ca": "tenir",
+      "exemple": "J'ai deux langues maternelles.",
+      "exemple_es": "Tengo dos lenguas maternas.",
+      "exemple_ca": "Tinc dues llengües maternes."
+    },
+    {
+      "fr": "aller",
+      "emoji": "➡️",
+      "es": "ir",
+      "ca": "anar",
+      "exemple": "Je vais au Québec cet été.",
+      "exemple_es": "Voy a Quebec este verano.",
+      "exemple_ca": "Vaig al Quebec aquest estiu."
+    },
+    {
+      "fr": "faire",
+      "emoji": "🛠️",
+      "es": "hacer",
+      "ca": "fer",
+      "exemple": "Qu'est-ce que tu fais ce soir ?",
+      "exemple_es": "¿Qué haces esta noche?",
+      "exemple_ca": "Què fas aquest vespre?"
+    },
+    {
+      "fr": "manger",
+      "emoji": "🍴",
+      "es": "comer",
+      "ca": "menjar",
+      "exemple": "On mange de la poutine le vendredi.",
+      "exemple_es": "Comemos poutine los viernes.",
+      "exemple_ca": "Mengem poutine els divendres."
+    },
+    {
+      "fr": "parler",
+      "emoji": "💬",
+      "es": "hablar",
+      "ca": "parlar",
+      "exemple": "Je parle français et espagnol.",
+      "exemple_es": "Hablo francés y español.",
+      "exemple_ca": "Parlo francès i castellà."
+    },
+    {
+      "fr": "aimer",
+      "emoji": "❤️",
+      "es": "amar / gustar",
+      "ca": "estimar / agradar",
+      "exemple": "J'aime la musique de Vigneault.",
+      "exemple_es": "Me gusta la música de Vigneault.",
+      "exemple_ca": "M'agrada la música de Vigneault."
+    },
+    {
+      "fr": "vouloir",
+      "emoji": "🙋",
+      "es": "querer",
+      "ca": "voler",
+      "exemple": "Je veux apprendre le français.",
+      "exemple_es": "Quiero aprender francés.",
+      "exemple_ca": "Vull aprendre francès."
+    },
+    {
+      "fr": "pouvoir",
+      "emoji": "💪",
+      "es": "poder",
+      "ca": "poder",
+      "exemple": "Tu peux répéter, s'il te plaît ?",
+      "exemple_es": "¿Puedes repetir, por favor?",
+      "exemple_ca": "Pots repetir, si us plau?"
+    },
+    {
+      "fr": "prendre",
+      "emoji": "✊",
+      "es": "tomar / coger",
+      "ca": "prendre / agafar",
+      "exemple": "Je prends le métro chaque matin.",
+      "exemple_es": "Tomo el metro cada mañana.",
+      "exemple_ca": "Agafo el metro cada matí."
+    },
+    {
+      "fr": "venir",
+      "emoji": "🔜",
+      "es": "venir",
+      "ca": "venir",
+      "exemple": "Tu viens au festival avec nous ?",
+      "exemple_es": "¿Vienes al festival con nosotros?",
+      "exemple_ca": "Véns al festival amb nosaltres?"
+    },
+    {
+      "fr": "voir",
+      "emoji": "👁️",
+      "es": "ver",
+      "ca": "veure",
+      "exemple": "On voit le fleuve depuis la fenêtre.",
+      "exemple_es": "Se ve el río desde la ventana.",
+      "exemple_ca": "Es veu el riu des de la finestra."
+    }
+  ]
+}

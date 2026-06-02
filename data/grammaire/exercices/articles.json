@@ -1,0 +1,36 @@
+{
+  "id": "articles",
+  "titre": { "es": "Les articles — le, la, les, un, une, des, du, de la", "ca": "Els articles — le, la, les, un, une, des, du, de la" },
+  "niveau": "A1",
+  "explication": {
+    "es": "En francés hay 3 tipos de artículos. Los dos primeros los conoces del español — el tercero (partitivo) NO existe en español y es el más importante aprender.\n\n📌 1. ARTÍCULOS DEFINIDOS (el / la / los / las)\n• le → masculino singular: le fleuve (el río), le hockey (el hockey)\n• la → femenino singular: la neige (la nieve), la forêt (el bosque)\n• l' → ante vocal o h muda: l'hiver (el invierno), l'érable (el arce)\n• les → plural: les Québécois (los quebequenses)\n→ Se usan cuando el objeto ya es conocido o cuando se generaliza sobre toda una categoría.\n\n📌 2. ARTÍCULOS INDEFINIDOS (un / una / unos / unas)\n• un → masculino: un lac (un lago), un festival (un festival)\n• une → femenino: une chanson (una canción), une tourtière\n• des → plural: des lacs (unos lagos)\n→ Se usan cuando se presenta algo por primera vez o cuando no es específico.\n\n📌 3. ARTÍCULOS PARTITIVOS — no existen en español\n→ Se usan para hablar de una cantidad indeterminada de algo no contable.\n• du = de + le → masculino: manger du sirop d'érable\n• de la → femenino: boire de la bière\n• de l' → ante vocal: boire de l'eau\n\n💡 Résumé facile — los 3 tipos con el mismo ejemplo:\n→ Je mange LA poutine. = Como LA poutine (esa poutine específica que conozco)\n→ Je mange UNE poutine. = Como UNA poutine (una en concreto que acabo de pedir)\n→ Je mange DE LA poutine. = Como poutine (una cantidad, el plato en general)\n\n⚠️ Después de una negación, du/de la/des → DE:\n→ Je mange de la poutine. ✅\n→ Je ne mange PAS DE poutine. ✅ (no: pas de la poutine)",
+    "ca": "En francès hi ha 3 tipus d'articles. Els dos primers els coneixes del castellà — el tercer (partitiu) NO existeix en castellà i és el més important aprendre.\n\n📌 1. ARTICLES DEFINITS (el / la / els / les)\n• le → masculí singular: le fleuve (el riu), le hockey (l'hoquei)\n• la → femení singular: la neige (la neu), la forêt (el bosc)\n• l' → davant vocal o h muda: l'hiver (l'hivern), l'érable (l'auró)\n• les → plural: les Québécois (els quebequesos)\n→ S'usen quan l'objecte ja és conegut o quan es generalitza sobre tota una categoria.\n\n📌 2. ARTICLES INDEFINITS (un / una / uns / unes)\n• un → masculí: un lac (un llac), un festival (un festival)\n• une → femení: une chanson (una cançó), une tourtière\n• des → plural: des lacs (uns llacs)\n→ S'usen quan es presenta alguna cosa per primera vegada o quan no és específic.\n\n📌 3. ARTICLES PARTITIUS — no existeixen en castellà\n→ S'usen per parlar d'una quantitat indeterminada d'alguna cosa no comptable.\n• du = de + le → masculí: manger du sirop d'érable\n• de la → femení: boire de la bière\n• de l' → davant vocal: boire de l'eau\n\n💡 Résumé fàcil — els 3 tipus amb el mateix exemple:\n→ Je mange LA poutine. = Menjo LA poutine (aquella poutine específica)\n→ Je mange UNE poutine. = Menjo UNA poutine (una en concret)\n→ Je mange DE LA poutine. = Menjo poutine (quantitat indeterminada)\n\n⚠️ Després d'una negació, du/de la/des → DE:\n→ Je mange de la poutine. ✅\n→ Je ne mange PAS DE poutine. ✅"
+  },
+  "exemples_contraste": [
+    {
+      "fr": "Je mange du sirop d'érable.",
+      "es": "Como jarabe de arce. (partitif — cantidad indeterminada)",
+      "ca": "Menjo xarop d'auró. (partitiu — quantitat indeterminada)"
+    },
+    {
+      "fr": "Le sirop d'érable est délicieux.",
+      "es": "EL jarabe de arce está delicioso. (défini — el jarabe en general)",
+      "ca": "EL xarop d'auró és deliciós. (definit — el xarop en general)"
+    },
+    {
+      "fr": "J'ai acheté un sirop d'érable au marché.",
+      "es": "Compré UN jarabe de arce en el mercado. (indéfini — uno específico)",
+      "ca": "Vaig comprar UN xarop d'auró al mercat. (indefinit — un d'específic)"
+    },
+    {
+      "fr": "Je ne mange pas de poutine. (négation → pas de)",
+      "es": "No como poutine. (negación: du/de la/des → de)",
+      "ca": "No menjo poutine. (negació: du/de la/des → de)"
+    }
+  ],
+  "audio_exemples": [
+    { "fr": "Le fleuve Saint-Laurent est magnifique.", "es": "El río San Lorenzo es magnífico.", "ca": "El riu Sant Llorenç és magnífic." },
+    { "fr": "Je bois du café le matin.", "es": "Bebo café por la mañana.", "ca": "Bec cafè al matí." },
+    { "fr": "Il y a des lacs partout au Québec.", "es": "Hay lagos por todas partes en Quebec.", "ca": "Hi ha llacs per tot el Quebec." }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "adjectifs_ex1",
+  "module": "adjectifs",
+  "titre": { "es": "Ejercicio 1 — Genre et adjectifs au Québec", "ca": "Exercici 1 — Gènere i adjectius al Quebec" },
+  "niveau": "A1",
+  "exercices": [
+    { "phrase": "La langue française est très ___ (beau).", "reponse": "belle", "options": ["belle", "beau", "beaux", "belles"], "explication": { "es": "'langue' es femenino singular → beau → belle (irregular). Pronunciación: 'bel'. La langue est belle.", "ca": "'langue' és femení singular → beau → belle (irregular). Pronunciació: 'bel'." } },
+    { "phrase": "Les hivers québécois sont très ___ (long).", "reponse": "longs", "options": ["longs", "long", "longue", "longues"], "explication": { "es": "'hivers' es masculino plural → long + s = longs. La 's' es muda. Les hivers sont longs = los inviernos son largos.", "ca": "'hivers' és masculí plural → long + s = longs. La 's' és muda." } },
+    { "phrase": "C'est une ___ ville, mais très animée. (vieux)", "reponse": "vieille", "options": ["vieille", "vieux", "vieil", "vieilles"], "explication": { "es": "'ville' es femenino singular → vieux → vieille (irregular). Une vieille ville = una ciudad vieja. VA ANTES del nombre porque 'vieux' es adjetivo corto.", "ca": "'ville' és femení singular → vieux → vieille (irregular). Une vieille ville = una ciutat vella. VA ABANS del nom." } },
+    { "phrase": "Le Québec est une ___ province canadienne. (grand)", "reponse": "grande", "options": ["grande", "grand", "grands", "grandes"], "explication": { "es": "'province' es femenino singular → grand + e = grande. 'Grande' va AVANT le nom: 'une grande province'. Gran en posición prenominal.", "ca": "'province' és femení singular → grand + e = grande. 'Grande' va AVANT el nom: 'une grande province'." } },
+    { "phrase": "Vigneault a une voix ___ et chaleureuse. (beau)", "reponse": "belle", "options": ["belle", "beau", "beaux", "bel"], "explication": { "es": "'voix' es femenino singular → beau → belle. La voix belle... pero aquí como adjetivo atributo: 'a une voix belle' → 'une belle voix' (mejor antes del nombre).", "ca": "'voix' és femení singular → beau → belle." } },
+    { "phrase": "Les forêts québécoises sont vraiment ___. (magnifique)", "reponse": "magnifiques", "options": ["magnifiques", "magnifique", "magnifiquement", "magnifiqué"], "explication": { "es": "'forêts' es femenino plural → magnifique + s = magnifiques. Ojo: 'magnifique' ya tiene -e final, no añadimos otra -e para el femenino — solo la -s del plural.", "ca": "'forêts' és femení plural → magnifique + s = magnifiques. Compte: 'magnifique' ja té -e final, no n'afegim una altra per al femení — només la -s del plural." } }
+  ]
+}

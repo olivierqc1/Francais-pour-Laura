@@ -1,0 +1,42 @@
+{
+  "id": "groupe2",
+  "groupe": { "es": "2.º grupo — verbos en -IR (tipo finir)", "ca": "2n grup — verbs en -IR (tipus finir)" },
+  "regle": {
+    "es": "El 2.º grupo son verbos en -IR que añaden -ISS- en el plural. Son regulares pero menos numerosos que los -ER.\n\n📌 Cómo reconocerlos: en 'nous' aparece -ISS-: nous finissons, nous choisissons. Si no aparece -iss-, el verbo es del 3.er grupo (irregular).\n\n📌 Terminaciones:\n• je → -is\n• tu → -is\n• il/elle/on → -it\n• nous → -issons\n• vous → -issez\n• ils/elles → -issent\n\n💡 Verbos típicos: finir (terminar), choisir (elegir), réussir (lograr), grandir (crecer).",
+    "ca": "El 2n grup són verbs en -IR que afegeixen -ISS- al plural. Són regulars però menys nombrosos que els -ER.\n\n📌 Com reconèixer-los: en 'nous' apareix -ISS-: nous finissons, nous choisissons. Si no apareix -iss-, el verb és del 3r grup (irregular).\n\n📌 Terminacions:\n• je → -is\n• tu → -is\n• il/elle/on → -it\n• nous → -issons\n• vous → -issez\n• ils/elles → -issent\n\n💡 Verbs típics: finir (acabar), choisir (triar), réussir (aconseguir), grandir (créixer)."
+  },
+  "verbes": [
+    {
+      "infinitif": "finir",
+      "trad": { "es": "terminar / acabar", "ca": "acabar" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "finis", "tts": "je finis", "es": "yo termino", "ca": "jo acabo" },
+        { "pronom": "tu", "forme": "finis", "tts": "tu finis", "es": "tú terminas", "ca": "tu acabes" },
+        { "pronom": "il / elle / on", "forme": "finit", "tts": "il finit", "es": "él termina", "ca": "ell acaba" },
+        { "pronom": "nous", "forme": "finissons", "tts": "nous finissons", "es": "nosotros terminamos", "ca": "nosaltres acabem" },
+        { "pronom": "vous", "forme": "finissez", "tts": "vous finissez", "es": "vosotros termináis", "ca": "vosaltres acabeu" },
+        { "pronom": "ils / elles", "forme": "finissent", "tts": "ils finissent", "es": "ellos terminan", "ca": "ells acaben" }
+      ]
+    },
+    {
+      "infinitif": "choisir",
+      "trad": { "es": "elegir / escoger", "ca": "triar / escollir" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "choisis", "tts": "je choisis", "es": "yo elijo", "ca": "jo trio" },
+        { "pronom": "tu", "forme": "choisis", "tts": "tu choisis", "es": "tú eliges", "ca": "tu tries" },
+        { "pronom": "il / elle / on", "forme": "choisit", "tts": "il choisit", "es": "él elige", "ca": "ell tria" },
+        { "pronom": "nous", "forme": "choisissons", "tts": "nous choisissons", "es": "nosotros elegimos", "ca": "nosaltres triem" },
+        { "pronom": "vous", "forme": "choisissez", "tts": "vous choisissez", "es": "vosotros elegís", "ca": "vosaltres trieu" },
+        { "pronom": "ils / elles", "forme": "choisissent", "tts": "ils choisissent", "es": "ellos eligen", "ca": "ells trien" }
+      ]
+    }
+  ],
+  "exercices": [
+    { "phrase": "Je ___ mon cours de français à 18h. (finir)", "reponse": "finis", "options": ["finis", "finit", "finissons", "finissent"], "explication": { "es": "je → -is. Je finis = Termino.", "ca": "je → -is. Je finis = Acabo." } },
+    { "phrase": "Nous ___ toujours par une chanson. (finir)", "reponse": "finissons", "options": ["finissons", "finis", "finit", "finissez"], "explication": { "es": "nous → -issons (con -iss-). Marca del 2.º grupo.", "ca": "nous → -issons (amb -iss-). Marca del 2n grup." } },
+    { "phrase": "Tu ___ un poème de Vigneault. (choisir)", "reponse": "choisis", "options": ["choisis", "choisit", "choisissez", "choisissent"], "explication": { "es": "tu → -is. Tu choisis = Eliges.", "ca": "tu → -is. Tu choisis = Tries." } },
+    { "phrase": "Les enfants ___ vite au Québec. (grandir)", "reponse": "grandissent", "options": ["grandissent", "grandit", "grandis", "grandissons"], "explication": { "es": "ils → -issent. Grandir sigue el modelo de finir.", "ca": "ils → -issent. Grandir segueix el model de finir." } },
+    { "phrase": "Vous ___ la bonne réponse. (choisir)", "reponse": "choisissez", "options": ["choisissez", "choisis", "choisit", "choisissent"], "explication": { "es": "vous → -issez. Vous choisissez = Elegís.", "ca": "vous → -issez. Vous choisissez = Trieu." } },
+    { "phrase": "Elle ___ son travail à temps. (finir)", "reponse": "finit", "options": ["finit", "finis", "finissent", "finissez"], "explication": { "es": "elle → -it. Elle finit = Ella termina.", "ca": "elle → -it. Elle finit = Ella acaba." } }
+  ]
+}

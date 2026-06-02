@@ -1,0 +1,403 @@
+{
+  "id": "futur",
+  "nom": {
+    "es": "Futur simple",
+    "ca": "Futur simple"
+  },
+  "regle": {
+    "es": "El futur simple = futuro español ('hablaré', 'comeré'). Se usa para acciones futuras, predicciones o promesas.\n\n👉 Cómo formarlo: parte del INFINITIVO completo + las terminaciones: -ai, -as, -a, -ons, -ez, -ont.\n• -ER y -IR: infinitivo entero + terminación → parler+ai = je parlerai, finir+ai = je finirai\n• -RE: quita la -e final → prendre → prendr+ai = je prendrai\n\n⚠️ Algunos radicales irregulares (hay que memorizar): être → ser- (je serai), avoir → aur- (j'aurai), aller → ir- (j'irai), faire → fer- (je ferai).\n\n💡 Ojo: las terminaciones son casi las del verbo avoir en presente (ai, as, a, [av]ons, [av]ez, ont).",
+    "ca": "El futur simple = futur ('parlaré', 'menjaré'). S'usa per a accions futures, prediccions o promeses.\n\n👉 Com formar-lo: parteix de l'INFINITIU complet + les terminacions: -ai, -as, -a, -ons, -ez, -ont.\n• -ER i -IR: infinitiu sencer + terminació → parler+ai = je parlerai\n• -RE: treu la -e final → prendre → prendr+ai\n\n⚠️ Alguns radicals irregulars (cal memoritzar): être → ser-, avoir → aur-, aller → ir-, faire → fer-.\n\n💡 Compte: les terminacions són gairebé les del verb avoir en present."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Modelo regular (-ER, -IR, -RE)",
+        "ca": "Model regular (-ER, -IR, -RE)"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler (-ER)",
+          "trad": {
+            "es": "hablar",
+            "ca": "parlar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "parlerai",
+              "tts": "je parlerai",
+              "es": "yo hablaré",
+              "ca": "jo parlaré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "parleras",
+              "tts": "tu parleras",
+              "es": "tú hablarás",
+              "ca": "tu parlaràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "parlera",
+              "tts": "il parlera",
+              "es": "él hablará",
+              "ca": "ell parlarà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "parlerons",
+              "tts": "nous parlerons",
+              "es": "nosotros hablaremos",
+              "ca": "nosaltres parlarem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "parlerez",
+              "tts": "vous parlerez",
+              "es": "vosotros hablaréis",
+              "ca": "vosaltres parlareu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "parleront",
+              "tts": "ils parleront",
+              "es": "ellos hablarán",
+              "ca": "ells parlaran"
+            }
+          ]
+        },
+        {
+          "infinitif": "finir (-IR)",
+          "trad": {
+            "es": "terminar",
+            "ca": "acabar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "finirai",
+              "tts": "je finirai",
+              "es": "yo terminaré",
+              "ca": "jo acabaré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "finiras",
+              "tts": "tu finiras",
+              "es": "tú terminarás",
+              "ca": "tu acabaràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "finira",
+              "tts": "il finira",
+              "es": "él terminará",
+              "ca": "ell acabarà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "finirons",
+              "tts": "nous finirons",
+              "es": "nosotros terminaremos",
+              "ca": "nosaltres acabarem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "finirez",
+              "tts": "vous finirez",
+              "es": "vosotros terminaréis",
+              "ca": "vosaltres acabareu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "finiront",
+              "tts": "ils finiront",
+              "es": "ellos terminarán",
+              "ca": "ells acabaran"
+            }
+          ]
+        },
+        {
+          "infinitif": "prendre (-RE)",
+          "trad": {
+            "es": "tomar",
+            "ca": "prendre"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "prendrai",
+              "tts": "je prendrai",
+              "es": "yo tomaré",
+              "ca": "jo prendré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "prendras",
+              "tts": "tu prendras",
+              "es": "tú tomarás",
+              "ca": "tu prendràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "prendra",
+              "tts": "il prendra",
+              "es": "él tomará",
+              "ca": "ell prendrà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "prendrons",
+              "tts": "nous prendrons",
+              "es": "nosotros tomaremos",
+              "ca": "nosaltres prendrem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "prendrez",
+              "tts": "vous prendrez",
+              "es": "vosotros tomaréis",
+              "ca": "vosaltres prendreu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "prendront",
+              "tts": "ils prendront",
+              "es": "ellos tomarán",
+              "ca": "ells prendran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "⚠️ Radicales irregulares (frecuentes)",
+        "ca": "⚠️ Radicals irregulars (freqüents)"
+      },
+      "verbes": [
+        {
+          "infinitif": "être → ser-",
+          "trad": {
+            "es": "ser / estar",
+            "ca": "ser / estar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "serai",
+              "tts": "je serai",
+              "es": "yo seré",
+              "ca": "jo seré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "seras",
+              "tts": "tu seras",
+              "es": "tú serás",
+              "ca": "tu seràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "sera",
+              "tts": "il sera",
+              "es": "él será",
+              "ca": "ell serà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "serons",
+              "tts": "nous serons",
+              "es": "nosotros seremos",
+              "ca": "nosaltres serem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "serez",
+              "tts": "vous serez",
+              "es": "vosotros seréis",
+              "ca": "vosaltres sereu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "seront",
+              "tts": "ils seront",
+              "es": "ellos serán",
+              "ca": "ells seran"
+            }
+          ]
+        },
+        {
+          "infinitif": "avoir → aur-",
+          "trad": {
+            "es": "tener",
+            "ca": "tenir"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "aurai",
+              "tts": "j'aurai",
+              "es": "yo tendré",
+              "ca": "jo tindré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "auras",
+              "tts": "tu auras",
+              "es": "tú tendrás",
+              "ca": "tu tindràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "aura",
+              "tts": "il aura",
+              "es": "él tendrá",
+              "ca": "ell tindrà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "aurons",
+              "tts": "nous aurons",
+              "es": "nosotros tendremos",
+              "ca": "nosaltres tindrem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "aurez",
+              "tts": "vous aurez",
+              "es": "vosotros tendréis",
+              "ca": "vosaltres tindreu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "auront",
+              "tts": "ils auront",
+              "es": "ellos tendrán",
+              "ca": "ells tindran"
+            }
+          ]
+        },
+        {
+          "infinitif": "aller → ir-",
+          "trad": {
+            "es": "ir",
+            "ca": "anar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "irai",
+              "tts": "j'irai",
+              "es": "yo iré",
+              "ca": "jo aniré"
+            },
+            {
+              "pronom": "tu",
+              "forme": "iras",
+              "tts": "tu iras",
+              "es": "tú irás",
+              "ca": "tu aniràs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "ira",
+              "tts": "il ira",
+              "es": "él irá",
+              "ca": "ell anirà"
+            },
+            {
+              "pronom": "nous",
+              "forme": "irons",
+              "tts": "nous irons",
+              "es": "nosotros iremos",
+              "ca": "nosaltres anirem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "irez",
+              "tts": "vous irez",
+              "es": "vosotros iréis",
+              "ca": "vosaltres anireu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "iront",
+              "tts": "ils iront",
+              "es": "ellos irán",
+              "ca": "ells aniran"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Un jour, je ___ toutes les provinces du Canada. (visiter)",
+      "reponse": "visiterai",
+      "niveau": "B1",
+      "options": [
+        "visiterai",
+        "visite",
+        "visitais",
+        "ai visité"
+      ],
+      "explication": {
+        "es": "futur: infinitivo + ai → visiterai.",
+        "ca": "futur: infinitiu + ai → visiteré."
+      }
+    },
+    {
+      "phrase": "Demain, il ___ beau au Québec. (faire → radical fer-)",
+      "reponse": "fera",
+      "niveau": "B1",
+      "options": [
+        "fera",
+        "fait",
+        "faisait",
+        "a fait"
+      ],
+      "explication": {
+        "es": "faire → radical irregular fer- → il fera.",
+        "ca": "faire → radical irregular fer- → il fera."
+      }
+    },
+    {
+      "phrase": "Nous ___ au festival l'été prochain. (aller → ir-)",
+      "reponse": "irons",
+      "niveau": "B1",
+      "options": [
+        "irons",
+        "allons",
+        "allions",
+        "sommes allés"
+      ],
+      "explication": {
+        "es": "aller → ir- → nous irons.",
+        "ca": "aller → ir- → nous irons."
+      }
+    },
+    {
+      "phrase": "Tu ___ heureux à Barcelone. (être → ser-)",
+      "reponse": "seras",
+      "niveau": "B1",
+      "options": [
+        "seras",
+        "es",
+        "étais",
+        "as été"
+      ],
+      "explication": {
+        "es": "être → ser- → tu seras.",
+        "ca": "être → ser- → tu seras."
+      }
+    }
+  ]
+}

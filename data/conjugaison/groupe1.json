@@ -1,0 +1,56 @@
+{
+  "id": "groupe1",
+  "groupe": { "es": "1.er grupo — verbos terminados en -ER", "ca": "1r grup — verbs acabats en -ER" },
+  "regle": {
+    "es": "El 1.er grupo (verbos en -ER) es el más grande y el más FÁCIL: el 90% de los verbos franceses están aquí y son todos regulares.\n\n📌 Cómo conjugar: quita la terminación -ER del infinitivo → te queda el RADICAL (parl-, aim-, chant-). Luego añade:\n• je → -e\n• tu → -es\n• il/elle/on → -e\n• nous → -ons\n• vous → -ez\n• ils/elles → -ent\n\n⚠️ MUY IMPORTANTE: las terminaciones -e, -es, -ent NO se pronuncian. Por eso 'je parle', 'tu parles' e 'ils parlent' suenan IGUAL [paʁl]. Solo cambian al escribir.\n\n💡 La única excepción del grupo es 'aller' (ir) — ese es irregular, está en el 3.er grupo.",
+    "ca": "El 1r grup (verbs en -ER) és el més gran i el més FÀCIL: el 90% dels verbs francesos hi són i són tots regulars.\n\n📌 Com conjugar: treu la terminació -ER de l'infinitiu → et queda el RADICAL (parl-, aim-, chant-). Després afegeix:\n• je → -e\n• tu → -es\n• il/elle/on → -e\n• nous → -ons\n• vous → -ez\n• ils/elles → -ent\n\n⚠️ MOLT IMPORTANT: les terminacions -e, -es, -ent NO es pronuncien. Per això 'je parle', 'tu parles' i 'ils parlent' sonen IGUAL [paʁl]. Només canvien en escriure.\n\n💡 L'única excepció del grup és 'aller' (anar) — aquest és irregular, és al 3r grup."
+  },
+  "verbes": [
+    {
+      "infinitif": "parler",
+      "trad": { "es": "hablar", "ca": "parlar" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "parle", "tts": "je parle", "es": "yo hablo", "ca": "jo parlo" },
+        { "pronom": "tu", "forme": "parles", "tts": "tu parles", "es": "tú hablas", "ca": "tu parles" },
+        { "pronom": "il / elle / on", "forme": "parle", "tts": "il parle", "es": "él habla", "ca": "ell parla" },
+        { "pronom": "nous", "forme": "parlons", "tts": "nous parlons", "es": "nosotros hablamos", "ca": "nosaltres parlem" },
+        { "pronom": "vous", "forme": "parlez", "tts": "vous parlez", "es": "vosotros habláis", "ca": "vosaltres parleu" },
+        { "pronom": "ils / elles", "forme": "parlent", "tts": "ils parlent", "es": "ellos hablan", "ca": "ells parlen" }
+      ]
+    },
+    {
+      "infinitif": "aimer",
+      "trad": { "es": "amar / gustar", "ca": "estimar / agradar" },
+      "conjugaison": [
+        { "pronom": "j'", "forme": "aime", "tts": "j'aime", "es": "yo amo / me gusta", "ca": "jo estimo / m'agrada" },
+        { "pronom": "tu", "forme": "aimes", "tts": "tu aimes", "es": "tú amas", "ca": "tu estimes" },
+        { "pronom": "il / elle / on", "forme": "aime", "tts": "il aime", "es": "él ama", "ca": "ell estima" },
+        { "pronom": "nous", "forme": "aimons", "tts": "nous aimons", "es": "nosotros amamos", "ca": "nosaltres estimem" },
+        { "pronom": "vous", "forme": "aimez", "tts": "vous aimez", "es": "vosotros amáis", "ca": "vosaltres estimeu" },
+        { "pronom": "ils / elles", "forme": "aiment", "tts": "ils aiment", "es": "ellos aman", "ca": "ells estimen" }
+      ]
+    },
+    {
+      "infinitif": "habiter",
+      "trad": { "es": "vivir / habitar", "ca": "viure / habitar" },
+      "conjugaison": [
+        { "pronom": "j'", "forme": "habite", "tts": "j'habite", "es": "yo vivo", "ca": "jo visc" },
+        { "pronom": "tu", "forme": "habites", "tts": "tu habites", "es": "tú vives", "ca": "tu vius" },
+        { "pronom": "il / elle / on", "forme": "habite", "tts": "il habite", "es": "él vive", "ca": "ell viu" },
+        { "pronom": "nous", "forme": "habitons", "tts": "nous habitons", "es": "nosotros vivimos", "ca": "nosaltres vivim" },
+        { "pronom": "vous", "forme": "habitez", "tts": "vous habitez", "es": "vosotros vivís", "ca": "vosaltres viviu" },
+        { "pronom": "ils / elles", "forme": "habitent", "tts": "ils habitent", "es": "ellos viven", "ca": "ells viuen" }
+      ]
+    }
+  ],
+  "exercices": [
+    { "phrase": "Je ___ français avec Laura. (parler)", "reponse": "parle", "options": ["parle", "parles", "parlent", "parlons"], "explication": { "es": "je + radical 'parl' + -e = parle. La -e no se pronuncia.", "ca": "je + radical 'parl' + -e = parle. La -e no es pronuncia." } },
+    { "phrase": "Nous ___ à Barcelone. (habiter)", "reponse": "habitons", "options": ["habitons", "habite", "habitez", "habitent"], "explication": { "es": "nous → -ons. Nous habitons = Vivimos.", "ca": "nous → -ons. Nous habitons = Vivim." } },
+    { "phrase": "Tu ___ la musique québécoise ? (aimer)", "reponse": "aimes", "options": ["aimes", "aime", "aimez", "aiment"], "explication": { "es": "tu → -es. Tu aimes = Te gusta / Amas. Suena igual que 'j'aime'.", "ca": "tu → -es. Tu aimes = T'agrada / Estimes." } },
+    { "phrase": "Les Québécois ___ beaucoup le hockey. (aimer)", "reponse": "aiment", "options": ["aiment", "aime", "aimes", "aimons"], "explication": { "es": "ils → -ent. La terminación -ent es muda: 'aiment' suena [ɛm].", "ca": "ils → -ent. La terminació -ent és muda: 'aiment' sona [ɛm]." } },
+    { "phrase": "Vous ___ espagnol et catalan. (parler)", "reponse": "parlez", "options": ["parlez", "parle", "parlent", "parlons"], "explication": { "es": "vous → -ez. Vous parlez = Habláis.", "ca": "vous → -ez. Vous parlez = Parleu." } },
+    { "phrase": "Elle ___ à Montréal depuis 2020. (habiter)", "reponse": "habite", "options": ["habite", "habites", "habitent", "habitez"], "explication": { "es": "elle → -e. Elle habite = Ella vive.", "ca": "elle → -e. Elle habite = Ella viu." } },
+    { "phrase": "On ___ le sirop d'érable sur les crêpes. (aimer)", "reponse": "aime", "options": ["aime", "aimes", "aiment", "aimons"], "explication": { "es": "'on' lleva la forma de il/elle → aime.", "ca": "'on' porta la forma de il/elle → aime." } },
+    { "phrase": "Ils ___ français à l'école. (parler)", "reponse": "parlent", "options": ["parlent", "parle", "parles", "parlez"], "explication": { "es": "ils → -ent (mudo). Ils parlent = Ellos hablan.", "ca": "ils → -ent (mut). Ils parlent = Ells parlen." } }
+  ]
+}

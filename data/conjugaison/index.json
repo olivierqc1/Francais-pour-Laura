@@ -1,0 +1,12 @@
+{
+  "intro_temps": {
+    "es": "El francés organiza sus verbos en 3 grupos según la terminación del infinitivo. Elige un grupo en el menú de arriba para ver la tabla y practicar.",
+    "ca": "El francès organitza els verbs en 3 grups segons la terminació de l'infinitiu. Tria un grup al menú de dalt per veure la taula i practicar."
+  },
+  "modules": [
+    { "id": "etre_avoir", "fichier": "data/conjugaison/etre_avoir.json", "titre": { "es": "⭐ Esenciales: être y avoir", "ca": "⭐ Essencials: être i avoir" }, "niveau": "A1" },
+    { "id": "groupe1", "fichier": "data/conjugaison/groupe1.json", "titre": { "es": "1.er grupo: verbos en -ER", "ca": "1r grup: verbs en -ER" }, "niveau": "A1" },
+    { "id": "groupe2", "fichier": "data/conjugaison/groupe2.json", "titre": { "es": "2.º grupo: verbos en -IR (finir)", "ca": "2n grup: verbs en -IR (finir)" }, "niveau": "A2" },
+    { "id": "groupe3", "fichier": "data/conjugaison/groupe3.json", "titre": { "es": "3.er grupo: -RE e irregulares", "ca": "3r grup: -RE i irregulars" }, "niveau": "A2" }
+  ]
+}

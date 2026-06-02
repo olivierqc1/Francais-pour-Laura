@@ -1,0 +1,14 @@
+{
+  "id": "cinema",
+  "titre": { "es": "Cine & Series québécoises", "ca": "Cinema & Sèries québécoises" },
+  "description": { "es": "La mejor manera de escuchar el francés real de Quebec", "ca": "La millor manera d'escoltar el francès real del Quebec" },
+  "info": { "es": "La mayoría están en Netflix (subtítulos FR disponibles), Mubi, o YouTube. Para series, Tou.tv es la plataforma de Radio-Canada.", "ca": "La majoria estan a Netflix (subtítols FR disponibles), Mubi, o YouTube. Per a sèries, Tou.tv és la plataforma de Radio-Canada." },
+  "videos": [
+    { "id": "OABx6Ar8sCQ", "titre": "C.R.A.Z.Y. (2005) — Bande-annonce", "niveau": "b1", "type": "film", "desc": { "es": "Una de las mejores películas québécoises. Familia en Montreal años 60–80. Banda sonora increíble.", "ca": "Una de les millors pel·lícules québécoises. Família a Mont-real anys 60–80." } },
+    { "id": "4n5kO61HRLU", "titre": "Les Invasions barbares (2003)", "niveau": "b1", "type": "film", "desc": { "es": "Oscar Mejor Película Extranjera 2004. Diálogos magníficos sobre la vida y la muerte en Montreal.", "ca": "Oscar Millor Pel·lícula Estrangera 2004. Diàlegs magnífics sobre la vida i la mort a Mont-real." } },
+    { "id": "z5hFH6KVoNw", "titre": "Mommy — Xavier Dolan (2014)", "niveau": "b1", "type": "film", "desc": { "es": "Premio Cannes. Acento québécois muy marcado — el francés de la calle. Dolan tiene 24 años.", "ca": "Premi Cannes. Accent québécois molt marcat — el francès del carrer. Dolan té 24 anys." } },
+    { "id": "mFGqZuI0Dkw", "titre": "District 31 — Série policière", "niveau": "b1", "type": "serie", "desc": { "es": "La serie más vista de la TV québécoise. Policías en Montreal, acento auténtico. 700 episodios.", "ca": "La sèrie més vista de la TV québécoise. Policies a Mont-real. 700 episodis." } },
+    { "id": "sOlqhU5aTaA", "titre": "Série Noire — Comédie noire", "niveau": "b1", "type": "serie", "desc": { "es": "Comedia negra québécoise. Humor muy local, lenguaje informal y colorido.", "ca": "Comèdia negra québécoise. Humor molt local, llenguatge informal i acolorit." } },
+    { "id": "LoLnIID7Ceg", "titre": "L'histoire du Québec en 10 minutes", "niveau": "a2", "type": "culture", "desc": { "es": "De la Nouvelle-France a hoy. Esencial para entender por qué Quebec es tan diferente.", "ca": "De la Nouvelle-France a avui. Essencial per entendre per què el Quebec és tan diferent." } }
+  ]
+}

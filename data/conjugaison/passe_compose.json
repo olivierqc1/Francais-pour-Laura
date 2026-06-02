@@ -1,0 +1,381 @@
+{
+  "id": "passe_compose",
+  "nom": {
+    "es": "Passé composé",
+    "ca": "Passé composé"
+  },
+  "regle": {
+    "es": "El passé composé es el pasado más usado. Equivale al pretérito indefinido O al perfecto español ('comí' / 'he comido'). Se forma en 2 piezas:\n\n👉 AUXILIAR (avoir o être) en presente + PARTICIPE PASSÉ del verbo.\n\n📌 Participio según el grupo:\n• -ER → -é : parler → parlé, manger → mangé\n• -IR (finir) → -i : finir → fini, choisir → choisi\n• -RE/irregulares → variados: prendre → pris, faire → fait, voir → vu\n\n⚠️ ¿avoir o être? La mayoría usa AVOIR. Pero los verbos de movimiento/estado usan ÊTRE (aller, venir, partir, naître, mourir, rester, tomber...). Con être, el participio concuerda: 'elle est allée'.",
+    "ca": "El passé composé és el passat més usat. Equival al pretèrit indefinit O al perfet ('vaig menjar' / 'he menjat'). Es forma en 2 peces:\n\n👉 AUXILIAR (avoir o être) en present + PARTICIPE PASSÉ del verb.\n\n📌 Participi segons el grup:\n• -ER → -é : parler → parlé\n• -IR (finir) → -i : finir → fini\n• -RE/irregulars → variats: prendre → pris, faire → fait, voir → vu\n\n⚠️ avoir o être? La majoria fa servir AVOIR. Però els verbs de moviment/estat fan servir ÊTRE (aller, venir, partir, naître, mourir, rester, tomber...). Amb être, el participi concorda: 'elle est allée'."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Con AVOIR (la mayoría)",
+        "ca": "Amb AVOIR (la majoria)"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler → parlé",
+          "trad": {
+            "es": "hablar → hablado",
+            "ca": "parlar → parlat"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "ai parlé",
+              "tts": "j'ai parlé",
+              "es": "yo hablé / he hablado",
+              "ca": "jo vaig parlar / he parlat"
+            },
+            {
+              "pronom": "tu",
+              "forme": "as parlé",
+              "tts": "tu as parlé",
+              "es": "tú hablaste",
+              "ca": "tu vas parlar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "a parlé",
+              "tts": "il a parlé",
+              "es": "él habló",
+              "ca": "ell va parlar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "avons parlé",
+              "tts": "nous avons parlé",
+              "es": "nosotros hablamos",
+              "ca": "nosaltres vam parlar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "avez parlé",
+              "tts": "vous avez parlé",
+              "es": "vosotros hablasteis",
+              "ca": "vosaltres vau parlar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "ont parlé",
+              "tts": "ils ont parlé",
+              "es": "ellos hablaron",
+              "ca": "ells van parlar"
+            }
+          ]
+        },
+        {
+          "infinitif": "finir → fini",
+          "trad": {
+            "es": "terminar → terminado",
+            "ca": "acabar → acabat"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "ai fini",
+              "tts": "j'ai fini",
+              "es": "yo terminé",
+              "ca": "jo vaig acabar"
+            },
+            {
+              "pronom": "tu",
+              "forme": "as fini",
+              "tts": "tu as fini",
+              "es": "tú terminaste",
+              "ca": "tu vas acabar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "a fini",
+              "tts": "il a fini",
+              "es": "él terminó",
+              "ca": "ell va acabar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "avons fini",
+              "tts": "nous avons fini",
+              "es": "nosotros terminamos",
+              "ca": "nosaltres vam acabar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "avez fini",
+              "tts": "vous avez fini",
+              "es": "vosotros terminasteis",
+              "ca": "vosaltres vau acabar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "ont fini",
+              "tts": "ils ont fini",
+              "es": "ellos terminaron",
+              "ca": "ells van acabar"
+            }
+          ]
+        },
+        {
+          "infinitif": "prendre → pris",
+          "trad": {
+            "es": "tomar → tomado",
+            "ca": "prendre → pres"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "ai pris",
+              "tts": "j'ai pris",
+              "es": "yo tomé",
+              "ca": "jo vaig prendre"
+            },
+            {
+              "pronom": "tu",
+              "forme": "as pris",
+              "tts": "tu as pris",
+              "es": "tú tomaste",
+              "ca": "tu vas prendre"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "a pris",
+              "tts": "il a pris",
+              "es": "él tomó",
+              "ca": "ell va prendre"
+            },
+            {
+              "pronom": "nous",
+              "forme": "avons pris",
+              "tts": "nous avons pris",
+              "es": "nosotros tomamos",
+              "ca": "nosaltres vam prendre"
+            },
+            {
+              "pronom": "vous",
+              "forme": "avez pris",
+              "tts": "vous avez pris",
+              "es": "vosotros tomasteis",
+              "ca": "vosaltres vau prendre"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "ont pris",
+              "tts": "ils ont pris",
+              "es": "ellos tomaron",
+              "ca": "ells van prendre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "Con ÊTRE (movimiento) — el participio concuerda",
+        "ca": "Amb ÊTRE (moviment) — el participi concorda"
+      },
+      "verbes": [
+        {
+          "infinitif": "aller → allé(e)",
+          "trad": {
+            "es": "ir → ido",
+            "ca": "anar → anat"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "suis allé(e)",
+              "tts": "je suis allé",
+              "es": "yo fui",
+              "ca": "jo vaig anar"
+            },
+            {
+              "pronom": "tu",
+              "forme": "es allé(e)",
+              "tts": "tu es allé",
+              "es": "tú fuiste",
+              "ca": "tu vas anar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "est allé(e)",
+              "tts": "il est allé",
+              "es": "él/ella fue",
+              "ca": "ell/ella va anar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "sommes allé(e)s",
+              "tts": "nous sommes allés",
+              "es": "nosotros fuimos",
+              "ca": "nosaltres vam anar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "êtes allé(e)s",
+              "tts": "vous êtes allés",
+              "es": "vosotros fuisteis",
+              "ca": "vosaltres vau anar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "sont allé(e)s",
+              "tts": "ils sont allés",
+              "es": "ellos fueron",
+              "ca": "ells van anar"
+            }
+          ]
+        },
+        {
+          "infinitif": "partir → parti(e)",
+          "trad": {
+            "es": "salir → salido",
+            "ca": "marxar → marxat"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "suis parti(e)",
+              "tts": "je suis parti",
+              "es": "yo salí",
+              "ca": "jo vaig marxar"
+            },
+            {
+              "pronom": "tu",
+              "forme": "es parti(e)",
+              "tts": "tu es parti",
+              "es": "tú saliste",
+              "ca": "tu vas marxar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "est parti(e)",
+              "tts": "elle est partie",
+              "es": "ella salió",
+              "ca": "ella va marxar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "sommes parti(e)s",
+              "tts": "nous sommes partis",
+              "es": "nosotros salimos",
+              "ca": "nosaltres vam marxar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "êtes parti(e)s",
+              "tts": "vous êtes partis",
+              "es": "vosotros salisteis",
+              "ca": "vosaltres vau marxar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "sont parti(e)s",
+              "tts": "ils sont partis",
+              "es": "ellos salieron",
+              "ca": "ells van marxar"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Hier, j'___ visité le Vieux-Québec. (visiter)",
+      "reponse": "ai",
+      "niveau": "A2",
+      "options": [
+        "ai",
+        "suis",
+        "as",
+        "est"
+      ],
+      "explication": {
+        "es": "visiter → AVOIR. J'ai visité = visité.",
+        "ca": "visiter → AVOIR. J'ai visité = vaig visitar."
+      }
+    },
+    {
+      "phrase": "Elle ___ allée à Montréal en train. (aller)",
+      "reponse": "est",
+      "niveau": "A2",
+      "options": [
+        "est",
+        "a",
+        "était",
+        "avait"
+      ],
+      "explication": {
+        "es": "aller → ÊTRE (movimiento). Elle est allée.",
+        "ca": "aller → ÊTRE (moviment). Elle est allée."
+      }
+    },
+    {
+      "phrase": "Nous ___ mangé de la poutine. (manger)",
+      "reponse": "avons",
+      "niveau": "A2",
+      "options": [
+        "avons",
+        "sommes",
+        "ont",
+        "avez"
+      ],
+      "explication": {
+        "es": "manger → AVOIR. Nous avons mangé.",
+        "ca": "manger → AVOIR. Nous avons mangé."
+      }
+    },
+    {
+      "phrase": "Les poètes ont ___ de beaux poèmes. (écrire → participe)",
+      "reponse": "écrit",
+      "niveau": "B1",
+      "options": [
+        "écrit",
+        "écrivé",
+        "écris",
+        "écriré"
+      ],
+      "explication": {
+        "es": "écrire → participio irregular 'écrit'.",
+        "ca": "écrire → participi irregular 'écrit'."
+      }
+    },
+    {
+      "phrase": "Tu ___ pris le métro ce matin ? (prendre)",
+      "reponse": "as",
+      "niveau": "A2",
+      "options": [
+        "as",
+        "es",
+        "a",
+        "avons"
+      ],
+      "explication": {
+        "es": "prendre → AVOIR. Tu as pris.",
+        "ca": "prendre → AVOIR. Tu as pris."
+      }
+    },
+    {
+      "phrase": "Vigneault ___ né en 1928. (naître)",
+      "reponse": "est",
+      "niveau": "B1",
+      "options": [
+        "est",
+        "a",
+        "était",
+        "avait"
+      ],
+      "explication": {
+        "es": "naître → ÊTRE. Il est né = nació.",
+        "ca": "naître → ÊTRE. Il est né = va néixer."
+      }
+    }
+  ]
+}

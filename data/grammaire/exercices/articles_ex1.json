@@ -1,1 +1,14 @@
-aha
+{
+  "id": "articles_ex1",
+  "module": "articles",
+  "titre": { "es": "Ejercicio 1 — Los artículos en contexto québécois", "ca": "Exercici 1 — Els articles en context québécois" },
+  "niveau": "A1",
+  "exercices": [
+    { "phrase": "___ hiver québécois est long et froid.", "reponse": "L'", "options": ["L'", "Le", "La", "Un"], "explication": { "es": "'hiver' es masculino y empieza por vocal → élision: L'hiver. Definido porque hablamos del invierno québécois en general.", "ca": "'hiver' és masculí i comença per vocal → elisió: L'hiver. Definit perquè parlem de l'hivern québécois en general." } },
+    { "phrase": "Je mange ___ poutine au restaurant.", "reponse": "de la", "options": ["de la", "la", "une", "du"], "explication": { "es": "Poutine = femenino + cantidad indeterminada → partitif 'de la'. Es la diferencia clave con el español: en FR dices 'de la' donde en ES simplemente dices 'poutine' sin artículo.", "ca": "Poutine = femení + quantitat indeterminada → partitiu 'de la'. La diferència clau amb el castellà: en FR dius 'de la' on en castellà simplement dius 'poutine' sense article." } },
+    { "phrase": "Vigneault est ___ grand chanteur québécois.", "reponse": "un", "options": ["un", "le", "du", "une"], "explication": { "es": "Artículo indefinido masculino → 'un'. Si dijéramos 'le grand chanteur québécois' implicaría que es EL único. 'Un grand chanteur' = uno de los grandes.", "ca": "Article indefinit masculí → 'un'. Si diguéssim 'le grand chanteur québécois' implicaria que és L'únic. 'Un grand chanteur' = un dels grans." } },
+    { "phrase": "Au Québec, on boit ___ sirop d'érable sur les crêpes.", "reponse": "du", "options": ["du", "le", "un", "de la"], "explication": { "es": "Sirop = masculino + cantidad indeterminada → partitif 'du' (= de + le). On boit du sirop = bebemos jarabe. Truco: si en español dices 'bebo café / bebo jarabe' sin artículo, en FR usas du/de la.", "ca": "Sirop = masculí + quantitat indeterminada → partitiu 'du' (= de + le). Truc: si en castellà dius 'bec cafè / bec xarop' sense article, en FR uses du/de la." } },
+    { "phrase": "___ Québécois sont très accueillants.", "reponse": "Les", "options": ["Les", "Des", "Le", "Du"], "explication": { "es": "Generalización sobre todo un grupo → definido plural 'Les'. En francés, cuando generalizas sobre una categoría entera usas el artículo definido. En español a veces se omite ('Los québécois son...' o 'Los quebequenses son...').", "ca": "Generalització sobre tot un grup → definit plural 'Les'. En francès, quan generalitzes sobre una categoria sencera uses l'article definit." } },
+    { "phrase": "Je ne bois pas ___ café le soir.", "reponse": "de", "options": ["de", "du", "le", "un"], "explication": { "es": "Negación + partitif → 'de'. Regla: du/de la/des → DE después de negación. Je bois DU café → Je ne bois PAS DE café.", "ca": "Negació + partitiu → 'de'. Regla: du/de la/des → DE després de negació. Je bois DU café → Je ne bois PAS DE café." } }
+  ]
+}

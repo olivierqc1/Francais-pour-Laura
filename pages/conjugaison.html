@@ -14,7 +14,9 @@
       <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
       <a href="conjugaison.html" class="active" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
       <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
     </div>
     <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
   </div>
@@ -23,7 +25,9 @@
   <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
   <a href="conjugaison.html" class="active"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
 </div>
 
 <div class="page-wrap">
@@ -114,7 +118,6 @@ function startSet(i) {
   document.getElementById('quiz-area').style.display = 'block';
   document.getElementById('ex-title').textContent = data.exercices[i].titre[lang()];
   renderExTabs();
-  // show context
   const ex = data.exercices[setIdx];
   const l = lang();
   const ctx = ex.contexte ? `<div class="info-box" style="margin-bottom:1rem">${ex.contexte[l]}</div>` : '';
@@ -131,13 +134,11 @@ function renderQuestion() {
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx;
   document.getElementById('q-progress').style.width = (qIdx / ex.questions.length * 100) + '%';
-  // Render prompt with blank
   const phrase = q.phrase.replace(/_+/, '<span class="blank">___</span>');
   document.getElementById('q-prompt').innerHTML = phrase;
   const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box'; fb.innerHTML = '';
   document.getElementById('btn-next').style.display = 'none';
-  // Options shuffled
   const opts = [...q.options].sort(() => Math.random() - 0.5);
   document.getElementById('q-options').innerHTML = opts.map(o =>
     `<button class="option" onclick="checkAns('${o.replace(/'/g,"\\'")}', this)">${o}</button>`

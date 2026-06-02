@@ -1,0 +1,20 @@
+{
+  "id": "adjectifs",
+  "titre": { "es": "Le Genre & les adjectifs", "ca": "El Gènere & els adjectius" },
+  "niveau": "A1",
+  "explication": {
+    "es": "Como en español, todos los nombres en francés tienen género y los adjetivos concuerdan. Pero hay una diferencia importante: la POSICIÓN.\n\n📌 REGLA GENERAL — acuerdo de género y número:\n• Masc. sing. → forma base: grand, petit, froid, beau\n• Fem. sing. → se añade -e: grande, petite, froide, belle\n• Masc. pl. → se añade -s: grands, petits, froids, beaux\n• Fem. pl. → se añade -es: grandes, petites, froides, belles\n\n📌 POSICIÓN — diferencia con el español:\nEn español casi todos los adjetivos van DESPUÉS del nombre.\nEn francés también — PERO los adjetivos cortos y comunes van ANTES:\n\n→ VAN ANTES (AVANT le nom):\npetit/petite, grand/grande, beau/belle, bon/bonne, mauvais/mauvaise, jeune, vieux/vieille, nouveau/nouvelle, long/longue, gros/grosse\n\n→ VAN DESPUÉS (APRÈS le nom):\ntodos los adjetivos de color, nacionalidad, religión, forma, y la mayoría de adjetivos descriptivos largos.\n\n✅ Ejemplos:\n→ Un grand lac québécois (grand AVANT, québécois APRÈS)\n→ Une belle chanson française (belle AVANT, française APRÈS)\n→ Un hiver froid (froid APRÈS — descriptivo)\n\n📝 Irregulares importantes:\n• beau → belle (masc → fem): un beau lac / une belle forêt\n• vieux → vieille: un vieux quartier / une vieille ville\n• nouveau → nouvelle: un nouveau festival / une nouvelle chanson\n• blanc → blanche: le fleuve blanc / la neige blanche\n• long → longue: un long hiver / une longue route\n• gros → grosse: un gros ours / une grosse tempête",
+    "ca": "Com en castellà, tots els noms en francès tenen gènere i els adjectius concorden. Però hi ha una diferència important: la POSICIÓ.\n\n📌 REGLA GENERAL — acord de gènere i nombre:\n• Masc. sing. → forma base: grand, petit, froid, beau\n• Fem. sing. → s'afegeix -e: grande, petite, froide, belle\n• Masc. pl. → s'afegeix -s: grands, petits, froids, beaux\n• Fem. pl. → s'afegeix -es: grandes, petites, froides, belles\n\n📌 POSICIÓ — diferència amb el castellà:\nEn castellà gairebé tots els adjectius van DESPRÉS del nom.\nEn francès també — PERÒ els adjectius curts i comuns van ABANS:\n\n→ VAN ABANS (AVANT le nom):\npetit/petite, grand/grande, beau/belle, bon/bonne, mauvais/mauvaise, jeune, vieux/vieille, nouveau/nouvelle, long/longue, gros/grosse\n\n→ VAN DESPRÉS (APRÈS le nom):\ntots els adjectius de color, nacionalitat, religió, forma, i la majoria d'adjectius descriptius llargs.\n\n✅ Exemples:\n→ Un grand lac québécois (grand AVANT, québécois APRÈS)\n→ Une belle chanson française (belle AVANT, française APRÈS)\n→ Un hiver froid (froid APRÈS — descriptiu)\n\n📝 Irregulars importants:\n• beau → belle: un beau lac / une belle forêt\n• vieux → vieille: un vieux quartier / une vieille ville\n• nouveau → nouvelle: un nouveau festival / une nouvelle chanson\n• blanc → blanche: le fleuve blanc / la neige blanche\n• long → longue: un long hiver / une longue route\n• gros → grosse: un gros ours / une grosse tempête"
+  },
+  "exemples_contraste": [
+    { "fr": "Un grand lac. (grand AVANT — adjectif court)", "es": "Un lago grande.", "ca": "Un llac gran." },
+    { "fr": "Un lac magnifique. (magnifique APRÈS — adjectif long)", "es": "Un lago magnífico.", "ca": "Un llac magnífic." },
+    { "fr": "Une belle chanson québécoise.", "es": "Una bella canción quebequense. (belle AVANT, québécoise APRÈS)", "ca": "Una bella cançó quebequesa. (belle AVANT, québécoise APRÈS)" },
+    { "fr": "La neige blanche couvre les grandes forêts.", "es": "La nieve blanca cubre los grandes bosques.", "ca": "La neu blanca cobreix els grans boscos." }
+  ],
+  "audio_exemples": [
+    { "fr": "Le Québec est un grand pays froid.", "es": "Quebec es un país grande y frío.", "ca": "El Quebec és un país gran i fred." },
+    { "fr": "Vigneault a une belle voix.", "es": "Vigneault tiene una voz bonita.", "ca": "Vigneault té una veu bonica." },
+    { "fr": "C'est une vieille ville magnifique.", "es": "Es una ciudad vieja y magnífica.", "ca": "És una ciutat vella i magnífica." }
+  ]
+}

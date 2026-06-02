@@ -1,0 +1,167 @@
+{
+  "id": "futur_proche",
+  "nom": {
+    "es": "Futur proche",
+    "ca": "Futur proche"
+  },
+  "regle": {
+    "es": "El futur proche es el futuro más fácil y el más usado al hablar. ¡Es IDÉNTICO al español 'ir a + infinitivo'!\n\n👉 Fórmula: verbo ALLER en presente + INFINITIVO.\n→ Je vais manger = Voy a comer\n→ Tu vas partir = Vas a salir\n→ On va gagner = Vamos a ganar\n\nSe usa para acciones próximas o planes. Mucho más común en el oral que el futur simple.",
+    "ca": "El futur proche és el futur més fàcil i el més usat parlant. És IDÈNTIC al 'anar a + infinitiu'!\n\n👉 Fórmula: verb ALLER en present + INFINITIU.\n→ Je vais manger = Vaig a menjar\n→ Tu vas partir = Vas a marxar\n\nS'usa per a accions properes o plans. Molt més comú a l'oral que el futur simple."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "aller (presente) + infinitivo",
+        "ca": "aller (present) + infinitiu"
+      },
+      "verbes": [
+        {
+          "infinitif": "aller + manger",
+          "trad": {
+            "es": "ir a comer",
+            "ca": "anar a menjar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "vais manger",
+              "tts": "je vais manger",
+              "es": "voy a comer",
+              "ca": "vaig a menjar"
+            },
+            {
+              "pronom": "tu",
+              "forme": "vas manger",
+              "tts": "tu vas manger",
+              "es": "vas a comer",
+              "ca": "vas a menjar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "va manger",
+              "tts": "il va manger",
+              "es": "va a comer",
+              "ca": "va a menjar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "allons manger",
+              "tts": "nous allons manger",
+              "es": "vamos a comer",
+              "ca": "anem a menjar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "allez manger",
+              "tts": "vous allez manger",
+              "es": "vais a comer",
+              "ca": "aneu a menjar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "vont manger",
+              "tts": "ils vont manger",
+              "es": "van a comer",
+              "ca": "van a menjar"
+            }
+          ]
+        },
+        {
+          "infinitif": "aller + partir",
+          "trad": {
+            "es": "ir a salir",
+            "ca": "anar a marxar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "vais partir",
+              "tts": "je vais partir",
+              "es": "voy a salir",
+              "ca": "vaig a marxar"
+            },
+            {
+              "pronom": "tu",
+              "forme": "vas partir",
+              "tts": "tu vas partir",
+              "es": "vas a salir",
+              "ca": "vas a marxar"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "va partir",
+              "tts": "il va partir",
+              "es": "va a salir",
+              "ca": "va a marxar"
+            },
+            {
+              "pronom": "nous",
+              "forme": "allons partir",
+              "tts": "nous allons partir",
+              "es": "vamos a salir",
+              "ca": "anem a marxar"
+            },
+            {
+              "pronom": "vous",
+              "forme": "allez partir",
+              "tts": "vous allez partir",
+              "es": "vais a salir",
+              "ca": "aneu a marxar"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "vont partir",
+              "tts": "ils vont partir",
+              "es": "van a salir",
+              "ca": "van a marxar"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Ce soir, je ___ manger de la tourtière. (aller)",
+      "reponse": "vais",
+      "niveau": "A1",
+      "options": [],
+      "explication": {
+        "es": "je → vais. Je vais manger = Voy a comer.",
+        "ca": "je → vais. Je vais manger = Vaig a menjar."
+      }
+    },
+    {
+      "phrase": "Nous ___ visiter le Vieux-Québec demain. (aller)",
+      "reponse": "allons",
+      "niveau": "A1",
+      "options": [],
+      "explication": {
+        "es": "nous → allons. Nous allons visiter.",
+        "ca": "nous → allons. Nous allons visiter."
+      }
+    },
+    {
+      "phrase": "Attention, tu ___ tomber sur la glace ! (aller)",
+      "reponse": "vas",
+      "niveau": "A1",
+      "options": [],
+      "explication": {
+        "es": "tu → vas. Tu vas tomber = Vas a caerte.",
+        "ca": "tu → vas. Tu vas tomber = Vas a caure."
+      }
+    },
+    {
+      "phrase": "Ils ___ gagner le match de hockey. (aller)",
+      "reponse": "vont",
+      "niveau": "A1",
+      "options": [],
+      "explication": {
+        "es": "ils → vont. Ils vont gagner = Van a ganar.",
+        "ca": "ils → vont. Ils vont gagner = Van a guanyar."
+      }
+    }
+  ]
+}

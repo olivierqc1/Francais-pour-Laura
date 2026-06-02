@@ -1,0 +1,100 @@
+{
+  "id": "ville",
+  "nom": {
+    "es": "La ciudad",
+    "ca": "La ciutat"
+  },
+  "emoji": "🏙️",
+  "mots": [
+    {
+      "fr": "la rue",
+      "emoji": "🛣️",
+      "es": "la calle",
+      "ca": "el carrer",
+      "exemple": "Ma rue est calme le soir.",
+      "exemple_es": "Mi calle es tranquila por la noche.",
+      "exemple_ca": "El meu carrer és tranquil al vespre."
+    },
+    {
+      "fr": "le magasin",
+      "emoji": "🏬",
+      "es": "la tienda",
+      "ca": "la botiga",
+      "exemple": "Le magasin ferme à 21 heures.",
+      "exemple_es": "La tienda cierra a las 21h.",
+      "exemple_ca": "La botiga tanca a les 21h."
+    },
+    {
+      "fr": "le métro",
+      "emoji": "🚇",
+      "es": "el metro",
+      "ca": "el metro",
+      "exemple": "Je prends le métro pour aller au centre.",
+      "exemple_es": "Tomo el metro para ir al centro.",
+      "exemple_ca": "Agafo el metro per anar al centre."
+    },
+    {
+      "fr": "l'autobus",
+      "emoji": "🚌",
+      "es": "el autobús",
+      "ca": "l'autobús",
+      "exemple": "L'autobus passe toutes les dix minutes.",
+      "exemple_es": "El autobús pasa cada diez minutos.",
+      "exemple_ca": "L'autobús passa cada deu minuts."
+    },
+    {
+      "fr": "l'école",
+      "emoji": "🏫",
+      "es": "la escuela",
+      "ca": "l'escola",
+      "exemple": "Les enfants vont à l'école en français.",
+      "exemple_es": "Los niños van a la escuela en francés.",
+      "exemple_ca": "Els nens van a l'escola en francès."
+    },
+    {
+      "fr": "l'hôpital",
+      "emoji": "🏥",
+      "es": "el hospital",
+      "ca": "l'hospital",
+      "exemple": "L'hôpital est près de la station.",
+      "exemple_es": "El hospital está cerca de la estación.",
+      "exemple_ca": "L'hospital és a prop de l'estació."
+    },
+    {
+      "fr": "la banque",
+      "emoji": "🏦",
+      "es": "el banco",
+      "ca": "el banc",
+      "exemple": "Je vais à la banque cet après-midi.",
+      "exemple_es": "Voy al banco esta tarde.",
+      "exemple_ca": "Vaig al banc aquesta tarda."
+    },
+    {
+      "fr": "le parc",
+      "emoji": "🌳",
+      "es": "el parque",
+      "ca": "el parc",
+      "exemple": "On se promène au parc le dimanche.",
+      "exemple_es": "Paseamos por el parque los domingos.",
+      "exemple_ca": "Passegem pel parc els diumenges."
+    },
+    {
+      "fr": "l'église",
+      "emoji": "⛪",
+      "es": "la iglesia",
+      "ca": "l'església",
+      "exemple": "L'église du village est très ancienne.",
+      "exemple_es": "La iglesia del pueblo es muy antigua.",
+      "exemple_ca": "L'església del poble és molt antiga."
+    },
+    {
+      "fr": "le pont",
+      "emoji": "🌉",
+      "es": "el puente",
+      "ca": "el pont",
+      "exemple": "Le pont traverse le fleuve Saint-Laurent.",
+      "exemple_es": "El puente cruza el río San Lorenzo.",
+      "exemple_ca": "El pont travessa el riu Sant Llorenç."
+    }
+  ]
+}

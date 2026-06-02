@@ -1,0 +1,44 @@
+{
+  "id": "etre_avoir",
+  "groupe": { "es": "Esenciales — los 2 verbos más importantes", "ca": "Essencials — els 2 verbs més importants" },
+  "regle": {
+    "es": "être (ser/estar) y avoir (tener) son los dos verbos más importantes del francés. Son IRREGULARES — hay que memorizarlos de memoria. Los necesitas para todo: para describir (je suis), para la edad (j'ai 30 ans), y para formar el passé composé (j'ai mangé, je suis allé).\n\n⚠️ OJO: en francés 'avoir' (tener) se usa para la edad y el hambre:\n→ J'ai 30 ans. = Tengo 30 años.\n→ J'ai faim. = Tengo hambre.",
+    "ca": "être (ser/estar) i avoir (tenir) són els dos verbs més importants del francès. Són IRREGULARS — cal memoritzar-los. Els necessites per a tot: per descriure (je suis), per a l'edat (j'ai 30 ans), i per formar el passé composé (j'ai mangé, je suis allé).\n\n⚠️ COMPTE: en francès 'avoir' (tenir) s'usa per a l'edat i la gana:\n→ J'ai 30 ans. = Tinc 30 anys.\n→ J'ai faim. = Tinc gana."
+  },
+  "verbes": [
+    {
+      "infinitif": "être",
+      "trad": { "es": "ser / estar", "ca": "ser / estar" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "suis", "tts": "je suis", "es": "yo soy / estoy", "ca": "jo sóc / estic" },
+        { "pronom": "tu", "forme": "es", "tts": "tu es", "es": "tú eres / estás", "ca": "tu ets / estàs" },
+        { "pronom": "il / elle / on", "forme": "est", "tts": "il est", "es": "él es / está", "ca": "ell és / està" },
+        { "pronom": "nous", "forme": "sommes", "tts": "nous sommes", "es": "nosotros somos / estamos", "ca": "nosaltres som / estem" },
+        { "pronom": "vous", "forme": "êtes", "tts": "vous êtes", "es": "vosotros sois / estáis", "ca": "vosaltres sou / esteu" },
+        { "pronom": "ils / elles", "forme": "sont", "tts": "ils sont", "es": "ellos son / están", "ca": "ells són / estan" }
+      ]
+    },
+    {
+      "infinitif": "avoir",
+      "trad": { "es": "tener / haber", "ca": "tenir / haver" },
+      "conjugaison": [
+        { "pronom": "j'", "forme": "ai", "tts": "j'ai", "es": "yo tengo", "ca": "jo tinc" },
+        { "pronom": "tu", "forme": "as", "tts": "tu as", "es": "tú tienes", "ca": "tu tens" },
+        { "pronom": "il / elle / on", "forme": "a", "tts": "il a", "es": "él tiene", "ca": "ell té" },
+        { "pronom": "nous", "forme": "avons", "tts": "nous avons", "es": "nosotros tenemos", "ca": "nosaltres tenim" },
+        { "pronom": "vous", "forme": "avez", "tts": "vous avez", "es": "vosotros tenéis", "ca": "vosaltres teniu" },
+        { "pronom": "ils / elles", "forme": "ont", "tts": "ils ont", "es": "ellos tienen", "ca": "ells tenen" }
+      ]
+    }
+  ],
+  "exercices": [
+    { "phrase": "Je ___ étudiante de français. (être)", "reponse": "suis", "options": ["suis", "es", "est", "sont"], "explication": { "es": "Je → suis. 'Je suis' = Soy / Estoy.", "ca": "Je → suis. 'Je suis' = Sóc / Estic." } },
+    { "phrase": "Tu ___ un beau pays, le Québec ! (avoir)", "reponse": "as", "options": ["as", "ai", "a", "avons"], "explication": { "es": "Tu → as. 'Tu as' = Tienes.", "ca": "Tu → as. 'Tu as' = Tens." } },
+    { "phrase": "Montréal ___ la plus grande ville du Québec. (être)", "reponse": "est", "options": ["est", "es", "êtes", "sont"], "explication": { "es": "Il/Elle → est. Montréal (elle) → est.", "ca": "Il/Elle → est. Montréal (elle) → est." } },
+    { "phrase": "Nous ___ de la chance de vivre ici. (avoir)", "reponse": "avons", "options": ["avons", "ont", "avez", "ai"], "explication": { "es": "Nous → avons. 'Nous avons' = Tenemos.", "ca": "Nous → avons. 'Nous avons' = Tenim." } },
+    { "phrase": "Les Québécois ___ très accueillants. (être)", "reponse": "sont", "options": ["sont", "est", "sommes", "suis"], "explication": { "es": "Ils → sont. 'Ils sont' = Son / Están.", "ca": "Ils → sont. 'Ils sont' = Són / Estan." } },
+    { "phrase": "Vous ___ raison, il fait froid ! (avoir)", "reponse": "avez", "options": ["avez", "avons", "ont", "as"], "explication": { "es": "Vous → avez. 'Avoir raison' = tener razón.", "ca": "Vous → avez. 'Avoir raison' = tenir raó." } },
+    { "phrase": "J'___ trente ans. (avoir)", "reponse": "ai", "options": ["ai", "as", "suis", "a"], "explication": { "es": "La edad se dice con AVOIR en francés: J'ai 30 ans = Tengo 30 años.", "ca": "L'edat es diu amb AVOIR en francès: J'ai 30 ans = Tinc 30 anys." } },
+    { "phrase": "On ___ contents d'apprendre le français. (être)", "reponse": "est", "options": ["est", "sont", "sommes", "es"], "explication": { "es": "'On' siempre lleva la forma de il/elle → est. 'On est contents' = Estamos contentos.", "ca": "'On' sempre porta la forma de il/elle → est. 'On est contents' = Estem contents." } }
+  ]
+}

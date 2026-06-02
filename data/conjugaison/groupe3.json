@@ -1,0 +1,68 @@
+{
+  "id": "groupe3",
+  "groupe": { "es": "3.er grupo — verbos en -RE e irregulares", "ca": "3r grup — verbs en -RE i irregulars" },
+  "regle": {
+    "es": "El 3.er grupo es el grupo de los IRREGULARES: verbos en -RE (prendre, attendre), algunos en -IR que NO llevan -iss- (partir, venir), los en -OIR (voir, vouloir), y los muy irregulares aller y faire. Hay que aprenderlos de memoria uno por uno, pero son los más usados.\n\n📌 Aquí tienes los 4 más importantes para empezar: prendre, partir, aller y faire.\n\n⚠️ aller (ir) parece un verbo en -ER pero es TOTALMENTE irregular: je vais, tu vas, il va...\n⚠️ faire → 'vous faites' (no 'faisez') y 'ils font' (no 'faisent'). ¡Cuidado!",
+    "ca": "El 3r grup és el grup dels IRREGULARS: verbs en -RE (prendre, attendre), alguns en -IR que NO porten -iss- (partir, venir), els en -OIR (voir, vouloir), i els molt irregulars aller i faire. Cal aprendre'ls de memòria un per un, però són els més usats.\n\n📌 Aquí tens els 4 més importants per començar: prendre, partir, aller i faire.\n\n⚠️ aller (anar) sembla un verb en -ER però és TOTALMENT irregular: je vais, tu vas, il va...\n⚠️ faire → 'vous faites' (no 'faisez') i 'ils font' (no 'faisent'). Compte!"
+  },
+  "verbes": [
+    {
+      "infinitif": "prendre",
+      "trad": { "es": "tomar / coger", "ca": "prendre / agafar" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "prends", "tts": "je prends", "es": "yo tomo", "ca": "jo prenc" },
+        { "pronom": "tu", "forme": "prends", "tts": "tu prends", "es": "tú tomas", "ca": "tu prens" },
+        { "pronom": "il / elle / on", "forme": "prend", "tts": "il prend", "es": "él toma", "ca": "ell pren" },
+        { "pronom": "nous", "forme": "prenons", "tts": "nous prenons", "es": "nosotros tomamos", "ca": "nosaltres prenem" },
+        { "pronom": "vous", "forme": "prenez", "tts": "vous prenez", "es": "vosotros tomáis", "ca": "vosaltres preneu" },
+        { "pronom": "ils / elles", "forme": "prennent", "tts": "ils prennent", "es": "ellos toman", "ca": "ells prenen" }
+      ]
+    },
+    {
+      "infinitif": "partir",
+      "trad": { "es": "salir / irse", "ca": "marxar / sortir" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "pars", "tts": "je pars", "es": "yo salgo", "ca": "jo marxo" },
+        { "pronom": "tu", "forme": "pars", "tts": "tu pars", "es": "tú sales", "ca": "tu marxes" },
+        { "pronom": "il / elle / on", "forme": "part", "tts": "il part", "es": "él sale", "ca": "ell marxa" },
+        { "pronom": "nous", "forme": "partons", "tts": "nous partons", "es": "nosotros salimos", "ca": "nosaltres marxem" },
+        { "pronom": "vous", "forme": "partez", "tts": "vous partez", "es": "vosotros salís", "ca": "vosaltres marxeu" },
+        { "pronom": "ils / elles", "forme": "partent", "tts": "ils partent", "es": "ellos salen", "ca": "ells marxen" }
+      ]
+    },
+    {
+      "infinitif": "aller",
+      "trad": { "es": "ir", "ca": "anar" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "vais", "tts": "je vais", "es": "yo voy", "ca": "jo vaig" },
+        { "pronom": "tu", "forme": "vas", "tts": "tu vas", "es": "tú vas", "ca": "tu vas" },
+        { "pronom": "il / elle / on", "forme": "va", "tts": "il va", "es": "él va", "ca": "ell va" },
+        { "pronom": "nous", "forme": "allons", "tts": "nous allons", "es": "nosotros vamos", "ca": "nosaltres anem" },
+        { "pronom": "vous", "forme": "allez", "tts": "vous allez", "es": "vosotros vais", "ca": "vosaltres aneu" },
+        { "pronom": "ils / elles", "forme": "vont", "tts": "ils vont", "es": "ellos van", "ca": "ells van" }
+      ]
+    },
+    {
+      "infinitif": "faire",
+      "trad": { "es": "hacer", "ca": "fer" },
+      "conjugaison": [
+        { "pronom": "je", "forme": "fais", "tts": "je fais", "es": "yo hago", "ca": "jo faig" },
+        { "pronom": "tu", "forme": "fais", "tts": "tu fais", "es": "tú haces", "ca": "tu fas" },
+        { "pronom": "il / elle / on", "forme": "fait", "tts": "il fait", "es": "él hace", "ca": "ell fa" },
+        { "pronom": "nous", "forme": "faisons", "tts": "nous faisons", "es": "nosotros hacemos", "ca": "nosaltres fem" },
+        { "pronom": "vous", "forme": "faites", "tts": "vous faites", "es": "vosotros hacéis", "ca": "vosaltres feu" },
+        { "pronom": "ils / elles", "forme": "font", "tts": "ils font", "es": "ellos hacen", "ca": "ells fan" }
+      ]
+    }
+  ],
+  "exercices": [
+    { "phrase": "Je ___ le métro pour aller au centre. (prendre)", "reponse": "prends", "options": ["prends", "prend", "prenons", "prennent"], "explication": { "es": "je → prends. Prendre le métro = coger el metro.", "ca": "je → prends. Prendre le métro = agafar el metro." } },
+    { "phrase": "Nous ___ au Festival de Jazz ce soir. (aller)", "reponse": "allons", "options": ["allons", "vais", "allez", "vont"], "explication": { "es": "nous → allons. Aller es irregular: vais, vas, va, allons, allez, vont.", "ca": "nous → allons. Aller és irregular: vais, vas, va, allons, allez, vont." } },
+    { "phrase": "Il ___ froid au Québec en hiver. (faire)", "reponse": "fait", "options": ["fait", "fais", "font", "faites"], "explication": { "es": "Para el tiempo se usa 'il fait' : il fait froid = hace frío.", "ca": "Per al temps s'usa 'il fait': il fait froid = fa fred." } },
+    { "phrase": "Le train ___ à 8 heures. (partir)", "reponse": "part", "options": ["part", "pars", "partons", "partent"], "explication": { "es": "il/elle → part. Le train part = El tren sale.", "ca": "il/elle → part. Le train part = El tren marxa." } },
+    { "phrase": "Vous ___ vos valises pour le Québec. (faire)", "reponse": "faites", "options": ["faites", "faisez", "font", "fais"], "explication": { "es": "⚠️ vous faites (irregular, NO 'faisez'). Faire les valises = hacer las maletas.", "ca": "⚠️ vous faites (irregular, NO 'faisez'). Faire les valises = fer les maletes." } },
+    { "phrase": "Ils ___ leurs amis à la maison. (prendre→prennent / NO). Choisis: ils ___ au cinéma. (aller)", "reponse": "vont", "options": ["vont", "allons", "va", "allez"], "explication": { "es": "ils → vont. Ils vont = Ellos van.", "ca": "ils → vont. Ils vont = Ells van." } },
+    { "phrase": "Tu ___ un café le matin ? (prendre)", "reponse": "prends", "options": ["prends", "prend", "prenez", "prennent"], "explication": { "es": "tu → prends. Igual que 'je prends'.", "ca": "tu → prends. Igual que 'je prends'." } },
+    { "phrase": "On ___ une belle journée aujourd'hui. (avoir→a / NO). Choisis: il ___ beau. (faire)", "reponse": "fait", "options": ["fait", "fais", "font", "faites"], "explication": { "es": "Il fait beau = Hace buen tiempo. 'il' impersonal + fait.", "ca": "Il fait beau = Fa bon temps. 'il' impersonal + fait." } }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "regles_a2",
+  "titre": { "es": "Sons avancés — A2", "ca": "Sons avançats — A2" },
+  "regles": [
+    {
+      "id": "liaison",
+      "titre": { "es": "La liaison — unir palabras", "ca": "La liaison — unir paraules" },
+      "description": {
+        "es": "La liaison ocurre cuando la consonante final de una palabra (normalmente muda) se une con la vocal inicial de la siguiente palabra.\n\n✅ LIAISON OBLIGATOIRE:\n→ article + nom: les_enfants [lezɑ̃fɑ̃], un_ami [œ̃nami]\n→ adjectif + nom: un grand_arbre [œ̃ gʁɑ̃taʁbʁ]\n→ pronom + verbe: nous_avons [nuzavɔ̃], vous_êtes [vuzɛt]\n→ c'est_ici, c'est_elle\n\n❌ LIAISON INTERDITE:\n→ après 'et': et_il (NO liaison)\n→ devant h aspiré: les haricots (NO liaison)\n→ après un nom singulier: un chat_et un chien (NO)",
+        "ca": "La liaison ocorre quan la consonant final d'una paraula (normalment muda) s'uneix amb la vocal inicial de la paraula següent.\n\n✅ LIAISON OBLIGATÒRIA:\n→ article + nom: les_enfants [lezɑ̃fɑ̃], un_ami [œ̃nami]\n→ adjectif + nom: un grand_arbre\n→ pronom + verbe: nous_avons [nuzavɔ̃]\n\n❌ LIAISON PROHIBIDA:\n→ après 'et': et_il (NO)\n→ devant h aspiré: les haricots (NO)"
+      },
+      "exemples": [
+        { "mot": "les enfants", "phonetique": "[lezɑ̃fɑ̃]", "tts": "les enfants", "es": "los niños (liaison S→Z)", "ca": "els infants (liaison S→Z)" },
+        { "mot": "nous avons", "phonetique": "[nuzavɔ̃]", "tts": "nous avons", "es": "tenemos (liaison S→Z)", "ca": "tenim (liaison S→Z)" },
+        { "mot": "un grand arbre", "phonetique": "[œ̃ gʁɑ̃taʁbʁ]", "tts": "un grand arbre", "es": "un árbol grande (liaison D→T)", "ca": "un arbre gran (liaison D→T)" },
+        { "mot": "c'est ici", "phonetique": "[sɛtisi]", "tts": "c'est ici", "es": "está aquí (liaison T)", "ca": "és aquí (liaison T)" }
+      ]
+    },
+    {
+      "id": "accent_quebecois",
+      "titre": { "es": "Acento québécois — las diferencias clave", "ca": "Accent québécois — les diferències clau" },
+      "description": {
+        "es": "El francés québécois suena diferente al francés de Francia. Estas son las diferencias principales:\n\n1️⃣ TI et DI: en québécois, T ante I/U suena 'TS', D ante I/U suena 'DZ'\n→ 'tu' → [tsy] (tsu) — no [ty]\n→ 'petite' → [petsit] (petsit)\n→ 'dire' → [dziʁ] (dzir)\n→ 'bonjour' → [bɔ̃dʒuʁ] (en certains dialectes)\n\n2️⃣ Vocales más abiertas y 'diphtongues':\n→ 'là' → [lɑ:] (más largo y abierto)\n→ 'fête' → [fɛit] (diphtongue)\n→ 'père' → [pɛiʁ] (diphtongue)\n\n3️⃣ El 'ne' de negación cae siempre:\n→ 'Je sais pas' = 'Je ne sais pas'\n→ 'C'est pas vrai' = 'Ce n'est pas vrai'\n\n4️⃣ Vocabulaire différent:\n→ 'char' (voiture), 'dépanneur' (épicerie), 'magasiner' (faire du shopping), 'présentement' (maintenant)",
+        "ca": "El francès québécois sona diferent al francès de França. Aquestes són les diferències principals:\n\n1️⃣ TI et DI: en québécois, T davant I/U sona 'TS', D davant I/U sona 'DZ'\n→ 'tu' → [tsy] (tsu)\n→ 'petite' → [petsit]\n→ 'dire' → [dziʁ]\n\n2️⃣ Vocals més obertes i diftongs:\n→ 'là' → [lɑ:] (més llarg i obert)\n→ 'fête' → [fɛit] (diftong)\n\n3️⃣ El 'ne' de negació cau sempre en oral:\n→ 'Je sais pas' = 'Je ne sais pas'\n\n4️⃣ Vocabulari diferent:\n→ 'char' (cotxe), 'dépanneur' (botiga), 'magasiner' (anar de compres)"
+      },
+      "exemples": [
+        { "mot": "tu (québécois)", "phonetique": "[tsy]", "tts": "tu viens", "es": "tú (suena 'tsu' en Quebec)", "ca": "tu (sona 'tsu' al Quebec)" },
+        { "mot": "petite (québécois)", "phonetique": "[petsit]", "tts": "une petite chanson", "es": "pequeña (suena 'pe-tsit')", "ca": "petita (sona 'pe-tsit')" },
+        { "mot": "c'est pas vrai", "phonetique": "[se pa vʁɛ]", "tts": "c'est pas vrai", "es": "no es verdad (sin ne, oral québécois)", "ca": "no és veritat (sense ne, oral québécois)" }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Conjugación — Français pour Laura</title>
 <link rel="stylesheet" href="../css/style.css">
+<style>
+.select-nav { width:100%; padding:0.8rem 1rem; background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--cream); font-family:'Outfit',sans-serif; font-size:1rem; font-weight:500; margin-bottom:1rem; }
+.select-nav:focus { outline:none; border-color:var(--gold); }
+.select-label { font-size:0.75rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--gold); font-weight:600; margin-bottom:0.4rem; display:block; }
+.verb-card { background:var(--bg2); border:1px solid var(--border); border-radius:12px; padding:1.25rem; margin-bottom:1rem; }
+.verb-head { display:flex; align-items:baseline; gap:0.6rem; flex-wrap:wrap; margin-bottom:0.9rem; padding-bottom:0.7rem; border-bottom:1px solid var(--border); }
+.verb-inf { font-family:'Cormorant Garamond',serif; font-size:1.7rem; font-weight:700; color:var(--maple-light); }
+.verb-trad { font-size:0.85rem; color:var(--text-dim); font-style:italic; }
+.conj-row { display:grid; grid-template-columns:2.4rem 6.5rem 1fr; gap:0.5rem; align-items:center; padding:0.5rem 0; border-bottom:1px solid var(--border); }
+.conj-row:last-child { border-bottom:none; }
+.conj-pron { color:var(--text-dim); font-size:0.9rem; }
+.conj-forme { font-family:'Cormorant Garamond',serif; font-size:1.2rem; font-weight:600; color:var(--cream); }
+.conj-play { width:2rem; height:2rem; border-radius:50%; border:1px solid var(--border); background:var(--bg3); color:var(--gold-light); cursor:pointer; font-size:0.9rem; display:flex; align-items:center; justify-content:center; transition:all 0.18s; justify-self:end; }
+.conj-play:hover { background:var(--maple); color:white; border-color:var(--maple); }
+.conj-trad { font-size:0.78rem; color:var(--text-dim); grid-column:2 / 4; margin-top:-0.3rem; }
+.practice-toggle { display:flex; gap:0.5rem; margin:1.5rem 0 1rem; }
+.practice-toggle .btn { flex:1; justify-content:center; }
+</style>
 </head>
 <body>
 <nav class="topbar">
@@ -35,137 +53,168 @@
   <div class="page-header fade-up">
     <div class="page-header-label">✏️ <span data-es="Módulo 2" data-ca="Mòdul 2">Módulo 2</span></div>
     <h1 data-es="Conjugación" data-ca="Conjugació">Conjugación</h1>
-    <p data-es="Los tiempos verbales del francés explicados desde el español. Con ejemplos del Quebec." data-ca="Els temps verbals del francès explicats des del castellà. Amb exemples del Quebec.">Los tiempos verbales del francés explicados desde el español. Con ejemplos del Quebec.</p>
+    <p data-es="Los verbos franceses por grupos (-ER, -IR, -RE). Elige un grupo, mira la tabla y practica." data-ca="Els verbs francesos per grups (-ER, -IR, -RE). Tria un grup, mira la taula i practica.">Los verbos franceses por grupos. Elige un grupo, mira la tabla y practica.</p>
   </div>
 
-  <!-- TENSES REFERENCE -->
-  <div id="tenses-ref"></div>
+  <label class="select-label" id="select-label" data-es="ELIGE UN TIPO DE VERBO" data-ca="TRIA UN TIPUS DE VERB">ELIGE UN TIPO DE VERBO</label>
+  <select class="select-nav" id="mod-select" onchange="loadModule(this.value)"></select>
 
-  <hr class="divider">
+  <div id="regle-zone"></div>
 
-  <!-- EXERCISES -->
-  <div class="section-label" data-es="EJERCICIOS" data-ca="EXERCICIS">EJERCICIOS</div>
-  <div class="section-title" id="ex-title"></div>
-  <div class="tabs" id="ex-tabs"></div>
-
-  <div class="card fade-up" id="quiz-area">
-    <div class="score-bar">
-      <span class="score-pill">⭐ <span id="score">0</span> / <span id="total">0</span></span>
-      <div class="progress-line"><div class="progress-line-fill" id="q-progress" style="width:0%"></div></div>
-    </div>
-    <div class="quiz-prompt" id="q-prompt"></div>
-    <div class="options-grid" id="q-options"></div>
-    <div class="feedback-box" id="q-feedback"></div>
-    <div style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap;" id="q-actions">
-      <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()">
-        <span data-es="Siguiente pregunta" data-ca="Pregunta següent">Siguiente pregunta</span> →
-      </button>
-    </div>
+  <div class="practice-toggle">
+    <button class="btn btn-gold" id="btn-tables" onclick="showTables()">📋 <span data-es="Tablas" data-ca="Taules">Tablas</span></button>
+    <button class="btn btn-ghost" id="btn-practice" onclick="showPractice()">🎯 <span data-es="Practicar" data-ca="Practicar">Practicar</span></button>
   </div>
 
-  <div id="completion-area" style="display:none"></div>
+  <div id="tables-zone"></div>
+
+  <div id="practice-zone" style="display:none">
+    <div class="card fade-up" id="quiz-area">
+      <div class="score-bar">
+        <span class="score-pill">⭐ <span id="score">0</span> / <span id="total">0</span></span>
+        <div class="progress-line"><div class="progress-line-fill" id="q-progress" style="width:0%"></div></div>
+      </div>
+      <div class="quiz-prompt" id="q-prompt"></div>
+      <div class="options-grid" id="q-options"></div>
+      <div class="feedback-box" id="q-feedback"></div>
+      <div style="margin-top:1rem">
+        <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()">
+          <span data-es="Siguiente" data-ca="Següent">Siguiente</span> &rarr;
+        </button>
+      </div>
+    </div>
+    <div id="completion-area" style="display:none"></div>
+  </div>
 </div>
 </div>
 
 <script src="../js/lang.js"></script>
 <script>
-let data = null, setIdx = 0, qIdx = 0, score = 0, answered = false;
+let index = null, current = null, qIdx = 0, score = 0, answered = false, voicesCache = [];
 const lang = () => localStorage.getItem('laura_lang') || 'es';
 
-async function load() {
-  const r = await fetch('../data/conjugaison.json');
-  data = await r.json();
-  renderTensesRef();
-  renderExTabs();
-  startSet(0);
+function loadVoices() { voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function say(text) {
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'fr-CA';
+  const v = voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
+  if (v) u.voice = v;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+function esc(s) { return (s || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'"); }
+
+async function init() {
+  const r = await fetch('../data/conjugaison/index.json');
+  index = await r.json();
+  buildSelect();
+  loadModule(0);
 }
 
-function renderTensesRef() {
+function buildSelect() {
   const l = lang();
-  const html = data.intro.explication_temps.map(t => `
-    <div class="card fade-up" style="margin-bottom:0.75rem;">
-      <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:0.75rem;flex-wrap:wrap;">
-        <span class="tag tag-maple">${t.temps_fr}</span>
-        <span style="color:var(--text-dim);font-size:0.82rem;">≈ ${t['equiv_'+l]}</span>
-      </div>
-      <div class="info-box" style="margin-bottom:0.6rem;">${t.usage[l]}</div>
-      <div style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--cream);margin-bottom:0.3rem;">🇫🇷 <em>${t.exemple_fr}</em></div>
-      <div style="font-size:0.83rem;color:var(--text-dim);">🇪🇸 ${t['exemple_'+l]}</div>
-      ${t.piege ? `<div class="warning-box" style="margin-top:0.75rem;margin-bottom:0;">${t.piege[l]}</div>` : ''}
-    </div>`).join('');
-  document.getElementById('tenses-ref').innerHTML = `
-    <div class="section-label" data-es="GUÍA DE TIEMPOS VERBALES" data-ca="GUIA DE TEMPS VERBALS">${l === 'es' ? 'GUÍA DE TIEMPOS VERBALES' : 'GUIA DE TEMPS VERBALS'}</div>
-    <div class="section-title" style="margin-bottom:1rem">${l === 'es' ? 'Francés vs. Español' : 'Francès vs. Castellà'}</div>
-    ${html}`;
-}
-
-function renderExTabs() {
-  const l = lang();
-  const el = document.getElementById('ex-tabs');
-  el.innerHTML = '';
-  data.exercices.forEach((ex, i) => {
-    const b = document.createElement('button');
-    b.className = 'tab' + (i === setIdx ? ' active' : '');
-    b.textContent = ex.titre[l];
-    b.onclick = () => startSet(i);
-    el.appendChild(b);
+  const sel = document.getElementById('mod-select');
+  sel.innerHTML = '';
+  index.modules.forEach((m, i) => {
+    const o = document.createElement('option');
+    o.value = i; o.textContent = m.titre[l];
+    sel.appendChild(o);
   });
+  document.getElementById('select-label').textContent = l === 'es' ? 'ELIGE UN TIPO DE VERBO' : 'TRIA UN TIPUS DE VERB';
 }
 
-function startSet(i) {
-  setIdx = i; qIdx = 0; score = 0; answered = false;
-  document.getElementById('completion-area').style.display = 'none';
-  document.getElementById('quiz-area').style.display = 'block';
-  document.getElementById('ex-title').textContent = data.exercices[i].titre[lang()];
-  renderExTabs();
-  const ex = data.exercices[setIdx];
+async function loadModule(i) {
+  const m = index.modules[Number(i)];
+  const r = await fetch('../' + m.fichier);
+  current = await r.json();
+  document.getElementById('mod-select').value = i;
+  qIdx = 0; score = 0; answered = false;
+  renderRegle();
+  showTables();
+}
+
+function renderRegle() {
   const l = lang();
-  const ctx = ex.contexte ? `<div class="info-box" style="margin-bottom:1rem">${ex.contexte[l]}</div>` : '';
-  document.getElementById('quiz-area').insertAdjacentHTML('afterbegin', ctx);
+  document.getElementById('regle-zone').innerHTML =
+    '<div class="section-label">' + current.groupe[l] + '</div>' +
+    '<div class="info-box">' + current.regle[l] + '</div>';
+}
+
+function showTables() {
+  document.getElementById('btn-tables').className = 'btn btn-gold';
+  document.getElementById('btn-practice').className = 'btn btn-ghost';
+  document.getElementById('practice-zone').style.display = 'none';
+  const tz = document.getElementById('tables-zone');
+  tz.style.display = 'block';
+  const l = lang();
+  tz.innerHTML = current.verbes.map(v => {
+    const rows = v.conjugaison.map(c =>
+      '<div class="conj-row">' +
+        '<span class="conj-pron">' + c.pronom + '</span>' +
+        '<span class="conj-forme">' + c.forme + '</span>' +
+        '<button class="conj-play" onclick="say(\'' + esc(c.tts) + '\')">🔊</button>' +
+        '<span class="conj-trad">' + (c[l] || '') + '</span>' +
+      '</div>').join('');
+    return '<div class="verb-card fade-up">' +
+      '<div class="verb-head">' +
+        '<span class="verb-inf">' + v.infinitif + '</span>' +
+        '<span class="verb-trad">' + v.trad[l] + '</span>' +
+        '<button class="conj-play" style="justify-self:start" onclick="say(\'' + esc(v.infinitif) + '\')">🔊</button>' +
+      '</div>' + rows + '</div>';
+  }).join('');
+}
+
+function showPractice() {
+  document.getElementById('btn-practice').className = 'btn btn-gold';
+  document.getElementById('btn-tables').className = 'btn btn-ghost';
+  document.getElementById('tables-zone').style.display = 'none';
+  document.getElementById('practice-zone').style.display = 'block';
+  document.getElementById('quiz-area').style.display = 'block';
+  document.getElementById('completion-area').style.display = 'none';
+  qIdx = 0; score = 0; answered = false;
   renderQuestion();
 }
 
 function renderQuestion() {
-  const ex = data.exercices[setIdx];
   const l = lang();
   answered = false;
-  if (qIdx >= ex.questions.length) { showCompletion(); return; }
-  const q = ex.questions[qIdx];
+  if (qIdx >= current.exercices.length) { showCompletion(); return; }
+  const q = current.exercices[qIdx];
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx;
-  document.getElementById('q-progress').style.width = (qIdx / ex.questions.length * 100) + '%';
-  const phrase = q.phrase.replace(/_+/, '<span class="blank">___</span>');
-  document.getElementById('q-prompt').innerHTML = phrase;
+  document.getElementById('q-progress').style.width = (qIdx / current.exercices.length * 100) + '%';
+  document.getElementById('q-prompt').innerHTML = q.phrase.replace(/_+/, '<span class="blank">___</span>');
   const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box'; fb.innerHTML = '';
   document.getElementById('btn-next').style.display = 'none';
   const opts = [...q.options].sort(() => Math.random() - 0.5);
   document.getElementById('q-options').innerHTML = opts.map(o =>
-    `<button class="option" onclick="checkAns('${o.replace(/'/g,"\\'")}', this)">${o}</button>`
+    '<button class="option" onclick="checkAns(\'' + o.replace(/'/g,"\\'") + '\', this)">' + o + '</button>'
   ).join('');
 }
 
 function checkAns(sel, btn) {
   if (answered) return;
   answered = true;
-  const q = data.exercices[setIdx].questions[qIdx];
+  const q = current.exercices[qIdx];
   const l = lang();
-  document.querySelectorAll('.option').forEach(b => {
-    b.disabled = true;
-    if (b.textContent === q.reponse) b.classList.add('correct');
-  });
-  const fb = document.getElementById('q-feedback');
+  document.querySelectorAll('.option').forEach(b => { b.disabled = true; if (b.textContent === q.reponse) b.classList.add('correct'); });
   const correct = sel === q.reponse;
-  if (correct) { score++; btn.classList.add('correct'); }
-  else btn.classList.add('wrong');
+  if (correct) score++;
+  btn.classList.add(correct ? 'correct' : 'wrong');
+  const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box show ' + (correct ? 'correct' : 'wrong');
-  fb.innerHTML = (correct ? '✅ ' : '❌ ') + (correct
-    ? (l === 'es' ? '¡Correcto!' : 'Correcte!')
-    : (l === 'es' ? `La respuesta correcta es: <strong>${q.reponse}</strong>` : `La resposta correcta és: <strong>${q.reponse}</strong>`))
-    + `<div class="explication">${q.explication[l]}</div>`;
+  fb.innerHTML = (correct ? '\u2705 ' : '\u274C ')
+    + (correct ? (l === 'es' ? '\u00A1Correcto!' : 'Correcte!')
+               : (l === 'es' ? 'Correcto: <strong>' + q.reponse + '</strong>' : 'Correcte: <strong>' + q.reponse + '</strong>'))
+    + '<div class="explication">' + q.explication[l] + '</div>';
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx + 1;
   document.getElementById('btn-next').style.display = 'inline-flex';
+  if (q.reponse) say(q.reponse);
   qIdx++;
 }
 
@@ -173,27 +222,30 @@ function nextQ() { renderQuestion(); }
 
 function showCompletion() {
   const l = lang();
-  const total = data.exercices[setIdx].questions.length;
+  const total = current.exercices.length;
   document.getElementById('quiz-area').style.display = 'none';
   document.getElementById('completion-area').style.display = 'block';
-  document.getElementById('completion-area').innerHTML = `
-    <div class="card completion">
-      <div class="completion-icon">🎉</div>
-      <h2>${l === 'es' ? '¡Bravo, Laura!' : 'Bravo, Laura!'}</h2>
-      <p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">${score} / ${total}</p>
-      <p style="margin-top:0.5rem">${l === 'es' ? 'Has completado este ejercicio.' : 'Has completat aquest exercici.'}</p>
-      <button class="btn btn-primary" style="margin-top:1.5rem" onclick="startSet(${setIdx})">
-        ${l === 'es' ? '🔄 Repetir' : '🔄 Repetir'}
-      </button>
-    </div>`;
+  document.getElementById('completion-area').innerHTML =
+    '<div class="card completion">' +
+      '<div class="completion-icon">\uD83C\uDF89</div>' +
+      '<h2>' + (l === 'es' ? '\u00A1Bravo, Laura!' : 'Bravo, Laura!') + '</h2>' +
+      '<p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">' + score + ' / ' + total + '</p>' +
+      '<button class="btn btn-primary" style="margin-top:1.5rem" onclick="showPractice()">\uD83D\uDD04 ' + (l === 'es' ? 'Repetir' : 'Repetir') + '</button>' +
+    '</div>';
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  load();
+  init();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(() => { renderTensesRef(); renderExTabs(); }, 0));
+    b.addEventListener('click', () => setTimeout(() => {
+      buildSelect();
+      document.getElementById('mod-select').value = index.modules.findIndex(m => m.id === current.id);
+      renderRegle();
+      if (document.getElementById('practice-zone').style.display !== 'none') showPractice(); else showTables();
+    }, 0));
   });
 });
 </script>
 </body>
 </html>
+

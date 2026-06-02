@@ -1,0 +1,100 @@
+{
+  "id": "temps",
+  "nom": {
+    "es": "Tiempo y clima",
+    "ca": "Temps i clima"
+  },
+  "emoji": "📅",
+  "mots": [
+    {
+      "fr": "aujourd'hui",
+      "emoji": "📆",
+      "es": "hoy",
+      "ca": "avui",
+      "exemple": "Aujourd'hui, il fait beau.",
+      "exemple_es": "Hoy hace buen tiempo.",
+      "exemple_ca": "Avui fa bon temps."
+    },
+    {
+      "fr": "demain",
+      "emoji": "➡️",
+      "es": "mañana",
+      "ca": "demà",
+      "exemple": "Demain, je commence un nouveau cours.",
+      "exemple_es": "Mañana empiezo un curso nuevo.",
+      "exemple_ca": "Demà començo un curs nou."
+    },
+    {
+      "fr": "hier",
+      "emoji": "⬅️",
+      "es": "ayer",
+      "ca": "ahir",
+      "exemple": "Hier, il a neigé toute la journée.",
+      "exemple_es": "Ayer nevó todo el día.",
+      "exemple_ca": "Ahir va nevar tot el dia."
+    },
+    {
+      "fr": "le matin",
+      "emoji": "🌅",
+      "es": "la mañana",
+      "ca": "el matí",
+      "exemple": "Le matin, je cours dans le parc.",
+      "exemple_es": "Por la mañana, corro en el parque.",
+      "exemple_ca": "Al matí, corro al parc."
+    },
+    {
+      "fr": "le soir",
+      "emoji": "🌆",
+      "es": "la tarde-noche",
+      "ca": "el vespre",
+      "exemple": "Le soir, on regarde un film.",
+      "exemple_es": "Por la noche, vemos una película.",
+      "exemple_ca": "Al vespre, mirem una pel·lícula."
+    },
+    {
+      "fr": "la semaine",
+      "emoji": "🗓️",
+      "es": "la semana",
+      "ca": "la setmana",
+      "exemple": "Cette semaine, j'ai beaucoup de travail.",
+      "exemple_es": "Esta semana tengo mucho trabajo.",
+      "exemple_ca": "Aquesta setmana tinc molta feina."
+    },
+    {
+      "fr": "il fait froid",
+      "emoji": "🥶",
+      "es": "hace frío",
+      "ca": "fa fred",
+      "exemple": "Au Québec, il fait froid en janvier.",
+      "exemple_es": "En Quebec hace frío en enero.",
+      "exemple_ca": "Al Quebec fa fred al gener."
+    },
+    {
+      "fr": "il fait chaud",
+      "emoji": "🥵",
+      "es": "hace calor",
+      "ca": "fa calor",
+      "exemple": "À Barcelone, il fait chaud en été.",
+      "exemple_es": "En Barcelona hace calor en verano.",
+      "exemple_ca": "A Barcelona fa calor a l'estiu."
+    },
+    {
+      "fr": "il pleut",
+      "emoji": "🌧️",
+      "es": "llueve",
+      "ca": "plou",
+      "exemple": "Il pleut, prends ton parapluie.",
+      "exemple_es": "Llueve, coge el paraguas.",
+      "exemple_ca": "Plou, agafa el paraigua."
+    },
+    {
+      "fr": "le soleil",
+      "emoji": "☀️",
+      "es": "el sol",
+      "ca": "el sol",
+      "exemple": "Il y a du soleil aujourd'hui.",
+      "exemple_es": "Hoy hay sol.",
+      "exemple_ca": "Avui fa sol."
+    }
+  ]
+}

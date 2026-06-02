@@ -1,0 +1,279 @@
+{
+  "id": "conditionnel",
+  "nom": {
+    "es": "Conditionnel présent",
+    "ca": "Conditionnel present"
+  },
+  "regle": {
+    "es": "El conditionnel = condicional español ('hablaría', 'comería'). Se usa para la cortesía (je voudrais = querría), los deseos, y las hipótesis ('si tuviera tiempo, iría').\n\n👉 Fórmula súper fácil: mismo radical que el FUTUR SIMPLE + las terminaciones del IMPARFAIT (-ais, -ais, -ait, -ions, -iez, -aient).\n→ parler: futur 'parler-' + ais = je parlerais\n→ être: radical 'ser-' → je serais\n→ avoir: radical 'aur-' → j'aurais\n→ aller: radical 'ir-' → j'irais\n\n💡 Muy útil: 'Je voudrais un café' (Querría un café) es mucho más educado que 'Je veux'.",
+    "ca": "El conditionnel = condicional ('parlaria', 'menjaria'). S'usa per a la cortesia (je voudrais = voldria), els desitjos, i les hipòtesis.\n\n👉 Fórmula fàcil: mateix radical que el FUTUR SIMPLE + les terminacions de l'IMPARFAIT (-ais, -ais, -ait, -ions, -iez, -aient).\n→ parler → je parlerais\n→ être → je serais · avoir → j'aurais · aller → j'irais\n\n💡 Molt útil: 'Je voudrais un café' és molt més educat que 'Je veux'."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Modelo regular",
+        "ca": "Model regular"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler",
+          "trad": {
+            "es": "hablar",
+            "ca": "parlar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "parlerais",
+              "tts": "je parlerais",
+              "es": "yo hablaría",
+              "ca": "jo parlaria"
+            },
+            {
+              "pronom": "tu",
+              "forme": "parlerais",
+              "tts": "tu parlerais",
+              "es": "hablarías",
+              "ca": "parlaries"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "parlerait",
+              "tts": "il parlerait",
+              "es": "hablaría",
+              "ca": "parlaria"
+            },
+            {
+              "pronom": "nous",
+              "forme": "parlerions",
+              "tts": "nous parlerions",
+              "es": "hablaríamos",
+              "ca": "parlaríem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "parleriez",
+              "tts": "vous parleriez",
+              "es": "hablaríais",
+              "ca": "parlaríeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "parleraient",
+              "tts": "ils parleraient",
+              "es": "hablarían",
+              "ca": "parlarien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "⚠️ Útiles e irregulares",
+        "ca": "⚠️ Útils i irregulars"
+      },
+      "verbes": [
+        {
+          "infinitif": "vouloir → voudr-",
+          "trad": {
+            "es": "querer",
+            "ca": "voler"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "voudrais",
+              "tts": "je voudrais",
+              "es": "querría",
+              "ca": "voldria"
+            },
+            {
+              "pronom": "tu",
+              "forme": "voudrais",
+              "tts": "tu voudrais",
+              "es": "querrías",
+              "ca": "voldries"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "voudrait",
+              "tts": "il voudrait",
+              "es": "querría",
+              "ca": "voldria"
+            },
+            {
+              "pronom": "nous",
+              "forme": "voudrions",
+              "tts": "nous voudrions",
+              "es": "querríamos",
+              "ca": "voldríem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "voudriez",
+              "tts": "vous voudriez",
+              "es": "querríais",
+              "ca": "voldríeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "voudraient",
+              "tts": "ils voudraient",
+              "es": "querrían",
+              "ca": "voldrien"
+            }
+          ]
+        },
+        {
+          "infinitif": "être → ser-",
+          "trad": {
+            "es": "ser / estar",
+            "ca": "ser / estar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "serais",
+              "tts": "je serais",
+              "es": "sería/estaría",
+              "ca": "seria/estaria"
+            },
+            {
+              "pronom": "tu",
+              "forme": "serais",
+              "tts": "tu serais",
+              "es": "serías",
+              "ca": "series"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "serait",
+              "tts": "il serait",
+              "es": "sería",
+              "ca": "seria"
+            },
+            {
+              "pronom": "nous",
+              "forme": "serions",
+              "tts": "nous serions",
+              "es": "seríamos",
+              "ca": "seríem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "seriez",
+              "tts": "vous seriez",
+              "es": "seríais",
+              "ca": "seríeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "seraient",
+              "tts": "ils seraient",
+              "es": "serían",
+              "ca": "serien"
+            }
+          ]
+        },
+        {
+          "infinitif": "avoir → aur-",
+          "trad": {
+            "es": "tener",
+            "ca": "tenir"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "aurais",
+              "tts": "j'aurais",
+              "es": "tendría",
+              "ca": "tindria"
+            },
+            {
+              "pronom": "tu",
+              "forme": "aurais",
+              "tts": "tu aurais",
+              "es": "tendrías",
+              "ca": "tindries"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "aurait",
+              "tts": "il aurait",
+              "es": "tendría",
+              "ca": "tindria"
+            },
+            {
+              "pronom": "nous",
+              "forme": "aurions",
+              "tts": "nous aurions",
+              "es": "tendríamos",
+              "ca": "tindríem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "auriez",
+              "tts": "vous auriez",
+              "es": "tendríais",
+              "ca": "tindríeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "auraient",
+              "tts": "ils auraient",
+              "es": "tendrían",
+              "ca": "tindrien"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Je ___ un café, s'il vous plaît. (vouloir — cortesía)",
+      "reponse": "voudrais",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "Cortesía → je voudrais = querría. Más educado que 'je veux'.",
+        "ca": "Cortesia → je voudrais = voldria."
+      }
+    },
+    {
+      "phrase": "Si j'avais le temps, j'___ au Québec. (aller → ir-)",
+      "reponse": "irais",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "Hipótesis → conditionnel. aller → ir- → j'irais.",
+        "ca": "Hipòtesi → conditionnel. aller → ir- → j'irais."
+      }
+    },
+    {
+      "phrase": "Ce ___ magnifique de voir les aurores. (être → ser-)",
+      "reponse": "serait",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "être → ser- + ait → serait = sería.",
+        "ca": "être → ser- + ait → serait = seria."
+      }
+    },
+    {
+      "phrase": "Nous ___ visiter Montréal un jour. (aimer)",
+      "reponse": "aimerions",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "Deseo → conditionnel. aimer → aimerions = nos gustaría.",
+        "ca": "Desig → conditionnel. aimer → aimerions = ens agradaria."
+      }
+    }
+  ]
+}

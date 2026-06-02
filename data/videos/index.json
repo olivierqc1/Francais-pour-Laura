@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": "vigneault", "fichier": "data/videos/vigneault.json", "titre": { "es": "Gilles Vigneault", "ca": "Gilles Vigneault" }, "icone": "🍁" },
+    { "id": "poesie", "fichier": "data/videos/poesie.json", "titre": { "es": "Poésie récitée", "ca": "Poesia recitada" }, "icone": "🖋️" },
+    { "id": "pedagogique", "fichier": "data/videos/pedagogique.json", "titre": { "es": "Aprender francés", "ca": "Aprendre francès" }, "icone": "📖" },
+    { "id": "cinema", "fichier": "data/videos/cinema.json", "titre": { "es": "Cine & Series québécoises", "ca": "Cinema & Sèries québécoises" }, "icone": "🎬" }
+  ]
+}

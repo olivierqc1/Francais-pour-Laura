@@ -1,0 +1,66 @@
+{
+  "id": "ecoute",
+  "titre": { "es": "Ejercicios de escucha", "ca": "Exercicis d'escolta" },
+  "intro": {
+    "es": "Escucha la frase, luego escribe lo que oíste. Después verifica. Empieza con A1 — frases cortas y simples sobre Quebec.",
+    "ca": "Escolta la frase, després escriu el que has sentit. Després verifica. Comença amb A1 — frases curtes i simples sobre el Quebec."
+  },
+  "exercices": [
+    {
+      "id": "e1", "niveau": "A1",
+      "tts": "Bonjour, je m'appelle Laura.",
+      "texte": "Bonjour, je m'appelle Laura.",
+      "es": "Hola, me llamo Laura.", "ca": "Hola, em dic Laura.",
+      "note": { "es": "Escucha la -e muda de 'je' y 'appelle'. La liaison entre 'm' y 'appelle'.", "ca": "Escolta la -e muda de 'je' i 'appelle'." }
+    },
+    {
+      "id": "e2", "niveau": "A1",
+      "tts": "Il fait très froid au Québec en hiver.",
+      "texte": "Il fait très froid au Québec en hiver.",
+      "es": "Hace mucho frío en Quebec en invierno.", "ca": "Fa molt fred al Quebec a l'hivern.",
+      "note": { "es": "Escucha el sonido nasal EN de 'en' y el 'froid' con R gutural.", "ca": "Escolta el so nasal EN de 'en' i el 'froid' amb R gutural." }
+    },
+    {
+      "id": "e3", "niveau": "A1",
+      "tts": "On mange de la poutine et on boit du sirop d'érable.",
+      "texte": "On mange de la poutine et on boit du sirop d'érable.",
+      "es": "Comemos poutine y bebemos jarabe de arce.", "ca": "Mengem poutine i bevem xarop d'auró.",
+      "note": { "es": "Dos 'ON' nasales. 'et' no hace liaison con 'on'. Escucha la diferencia.", "ca": "Dos 'ON' nasals. 'et' no fa liaison amb 'on'." }
+    },
+    {
+      "id": "e4", "niveau": "A1",
+      "tts": "Gens du pays, c'est votre tour de vous laisser parler d'amour.",
+      "texte": "Gens du pays, c'est votre tour de vous laisser parler d'amour.",
+      "es": "Gente del país, es vuestro turno de dejaros hablar de amor.", "ca": "Gent del país, és el vostre torn de deixar-vos parlar d'amor.",
+      "note": { "es": "Primer verso de 'Gens du pays'. Escucha la R de 'parler' y 'd'amour'.", "ca": "Primer vers de 'Gens du pays'. Escolta la R de 'parler' i 'd'amour'." }
+    },
+    {
+      "id": "e5", "niveau": "A2",
+      "tts": "Mon pays ce n'est pas un pays, c'est l'hiver.",
+      "texte": "Mon pays ce n'est pas un pays, c'est l'hiver.",
+      "es": "Mi país no es un país, es el invierno.", "ca": "El meu país no és un país, és l'hivern.",
+      "note": { "es": "Primer verso de 'Mon pays'. Escucha el ON nasal de 'mon', la negación 'n'est pas', la liaison de 'c'est l'hiver'.", "ca": "Primer vers de 'Mon pays'. Escolta el ON nasal de 'mon', la negació 'n'est pas'." }
+    },
+    {
+      "id": "e6", "niveau": "A2",
+      "tts": "Le temps qu'on prend pour dire je t'aime, ce temps-là ne se perd jamais.",
+      "texte": "Le temps qu'on prend pour dire je t'aime, ce temps-là ne se perd jamais.",
+      "es": "El tiempo que tomamos para decir te quiero, ese tiempo nunca se pierde.", "ca": "El temps que prenem per dir t'estimo, aquell temps mai es perd.",
+      "note": { "es": "Frase de 'Gens du pays'. Escucha el AN nasal de 'temps', la R gutural de 'prendre' y 'perd'.", "ca": "Frase de 'Gens du pays'. Escolta el AN nasal de 'temps', la R gutural." }
+    },
+    {
+      "id": "e7", "niveau": "A2",
+      "tts": "Je ne comprends pas, pouvez-vous répéter s'il vous plaît ?",
+      "texte": "Je ne comprends pas, pouvez-vous répéter s'il vous plaît ?",
+      "es": "No entiendo, ¿puede repetir por favor?", "ca": "No entenc, podeu repetir si us plau?",
+      "note": { "es": "Frase de supervivencia esencial. Escucha el AN nasal de 'comprends'.", "ca": "Frase de supervivència essencial. Escolta el AN nasal de 'comprends'." }
+    },
+    {
+      "id": "e8", "niveau": "A2",
+      "tts": "Ce fut un grand vaisseau taillé dans l'or massif.",
+      "texte": "Ce fut un grand vaisseau taillé dans l'or massif.",
+      "es": "Fue un gran navío tallado en oro macizo.", "ca": "Va ser un gran vaixell tallat en or massís.",
+      "note": { "es": "Primer verso de 'Le Vaisseau d'Or' de Nelligan. Escucha el AN nasal de 'grand' y 'dans'.", "ca": "Primer vers del 'Vaisseau d'Or' de Nelligan. Escolta el AN nasal de 'grand' i 'dans'." }
+    }
+  ]
+}

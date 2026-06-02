@@ -1,0 +1,11 @@
+{
+  "id": "pedagogique",
+  "titre": { "es": "Aprender francés", "ca": "Aprendre francès" },
+  "description": { "es": "Los mejores canales de YouTube para A1–B1", "ca": "Els millors canals de YouTube per a A1–B1" },
+  "videos": [
+    { "id": "y47PNLbV3Y0", "titre": "Français avec Pierre — Les bases", "niveau": "a1", "desc": { "es": "El canal más popular para aprender francés. Pierre explica muy claro, con humor. Empieza aquí.", "ca": "El canal més popular per aprendre francès. Pierre explica molt clar, amb humor." } },
+    { "id": "oFaFiODXXCg", "titre": "InnerFrench — Francés natural", "niveau": "a2", "desc": { "es": "Hugo habla francés lento y claro sobre temas interesantes. Ideal para A2. Sin traducciones.", "ca": "Hugo parla francès lent i clar. Ideal per a A2. Sense traduccions." } },
+    { "id": "V_0BE1ZQVGY", "titre": "Comprendre l'accent québécois", "niveau": "a2", "desc": { "es": "¿Por qué el francés de Quebec suena diferente? El 'tu' pronunciado 'tsu', las vocales abiertas...", "ca": "Per què el francès del Quebec sona diferent? El 'tu' pronunciat 'tsu', les vocals obertes..." } },
+    { "id": "kwL9QZQQ7cU", "titre": "Français Authentique — Méthode", "niveau": "a2", "desc": { "es": "Johan explica cómo aprender francés de manera natural y organizada.", "ca": "Johan explica com aprendre francès de manera natural i organitzada." } }
+  ]
+}

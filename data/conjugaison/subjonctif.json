@@ -1,0 +1,227 @@
+{
+  "id": "subjonctif",
+  "nom": {
+    "es": "Subjonctif présent",
+    "ca": "Subjonctif present"
+  },
+  "regle": {
+    "es": "El subjonctif existe igual que en español, pero se usa un poco diferente. Aparece sobre todo después de 'il faut que', 'je veux que', 'bien que', 'pour que', 'avant que'.\n→ Il faut que je parte. (Es necesario que me vaya.)\n→ Je veux que tu sois content. (Quiero que estés contento.)\n\n👉 Formación regular: toma el radical de ILS en presente (ils parl-ent) + terminaciones: -e, -es, -e, -ions, -iez, -ent.\n\n⚠️ Los 2 más irregulares e importantes: être (que je sois...) y avoir (que j'aie...). Memorízalos.",
+    "ca": "El subjonctif existeix igual que en castellà, però s'usa una mica diferent. Apareix sobretot després de 'il faut que', 'je veux que', 'bien que', 'pour que', 'avant que'.\n→ Il faut que je parte.\n→ Je veux que tu sois content.\n\n👉 Formació regular: pren el radical d'ILS en present (ils parl-ent) + terminacions: -e, -es, -e, -ions, -iez, -ent.\n\n⚠️ Els 2 més irregulars i importants: être (que je sois...) i avoir (que j'aie...)."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Modelo regular (que + ...)",
+        "ca": "Model regular (que + ...)"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler",
+          "trad": {
+            "es": "hablar",
+            "ca": "parlar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "que je",
+              "forme": "parle",
+              "tts": "que je parle",
+              "es": "que yo hable",
+              "ca": "que jo parli"
+            },
+            {
+              "pronom": "que tu",
+              "forme": "parles",
+              "tts": "que tu parles",
+              "es": "que hables",
+              "ca": "que parlis"
+            },
+            {
+              "pronom": "qu'il/elle",
+              "forme": "parle",
+              "tts": "qu'il parle",
+              "es": "que hable",
+              "ca": "que parli"
+            },
+            {
+              "pronom": "que nous",
+              "forme": "parlions",
+              "tts": "que nous parlions",
+              "es": "que hablemos",
+              "ca": "que parlem"
+            },
+            {
+              "pronom": "que vous",
+              "forme": "parliez",
+              "tts": "que vous parliez",
+              "es": "que habléis",
+              "ca": "que parleu"
+            },
+            {
+              "pronom": "qu'ils/elles",
+              "forme": "parlent",
+              "tts": "qu'ils parlent",
+              "es": "que hablen",
+              "ca": "que parlin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "⚠️ Esenciales: être / avoir",
+        "ca": "⚠️ Essencials: être / avoir"
+      },
+      "verbes": [
+        {
+          "infinitif": "être",
+          "trad": {
+            "es": "ser / estar",
+            "ca": "ser / estar"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "que je",
+              "forme": "sois",
+              "tts": "que je sois",
+              "es": "que yo sea",
+              "ca": "que jo sigui"
+            },
+            {
+              "pronom": "que tu",
+              "forme": "sois",
+              "tts": "que tu sois",
+              "es": "que seas",
+              "ca": "que siguis"
+            },
+            {
+              "pronom": "qu'il/elle",
+              "forme": "soit",
+              "tts": "qu'il soit",
+              "es": "que sea",
+              "ca": "que sigui"
+            },
+            {
+              "pronom": "que nous",
+              "forme": "soyons",
+              "tts": "que nous soyons",
+              "es": "que seamos",
+              "ca": "que siguem"
+            },
+            {
+              "pronom": "que vous",
+              "forme": "soyez",
+              "tts": "que vous soyez",
+              "es": "que seáis",
+              "ca": "que sigueu"
+            },
+            {
+              "pronom": "qu'ils/elles",
+              "forme": "soient",
+              "tts": "qu'ils soient",
+              "es": "que sean",
+              "ca": "que siguin"
+            }
+          ]
+        },
+        {
+          "infinitif": "avoir",
+          "trad": {
+            "es": "tener",
+            "ca": "tenir"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "que j'",
+              "forme": "aie",
+              "tts": "que j'aie",
+              "es": "que yo tenga",
+              "ca": "que jo tingui"
+            },
+            {
+              "pronom": "que tu",
+              "forme": "aies",
+              "tts": "que tu aies",
+              "es": "que tengas",
+              "ca": "que tinguis"
+            },
+            {
+              "pronom": "qu'il/elle",
+              "forme": "ait",
+              "tts": "qu'il ait",
+              "es": "que tenga",
+              "ca": "que tingui"
+            },
+            {
+              "pronom": "que nous",
+              "forme": "ayons",
+              "tts": "que nous ayons",
+              "es": "que tengamos",
+              "ca": "que tinguem"
+            },
+            {
+              "pronom": "que vous",
+              "forme": "ayez",
+              "tts": "que vous ayez",
+              "es": "que tengáis",
+              "ca": "que tingueu"
+            },
+            {
+              "pronom": "qu'ils/elles",
+              "forme": "aient",
+              "tts": "qu'ils aient",
+              "es": "que tengan",
+              "ca": "que tinguin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Il faut que je ___ tôt demain. (partir → que je parte)",
+      "reponse": "parte",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "Después de 'il faut que' → subjonctif. partir → que je parte.",
+        "ca": "Després de 'il faut que' → subjonctif. partir → que je parte."
+      }
+    },
+    {
+      "phrase": "Je veux que tu ___ content. (être)",
+      "reponse": "sois",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "être subjonctif → que tu sois.",
+        "ca": "être subjonctif → que tu sois."
+      }
+    },
+    {
+      "phrase": "Il faut que nous ___ du courage. (avoir)",
+      "reponse": "ayons",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "avoir subjonctif → que nous ayons.",
+        "ca": "avoir subjonctif → que nous ayons."
+      }
+    },
+    {
+      "phrase": "Bien qu'il ___ froid, on sort. (faire → qu'il fasse)",
+      "reponse": "fasse",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "faire subjonctif irregular → qu'il fasse.",
+        "ca": "faire subjonctif irregular → qu'il fasse."
+      }
+    }
+  ]
+}

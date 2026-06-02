@@ -1,0 +1,165 @@
+{
+  "id": "plus_que_parfait",
+  "nom": {
+    "es": "Plus-que-parfait",
+    "ca": "Plus-que-parfait"
+  },
+  "regle": {
+    "es": "El plus-que-parfait = pluscuamperfecto español ('había hablado'). Expresa una acción del pasado ANTERIOR a otra acción pasada.\n→ Quand je suis arrivé, ils avaient déjà mangé. (Cuando llegué, ya habían comido.)\n\n👉 Fórmula: auxiliar (avoir o être) en IMPARFAIT + participe passé.\n• avoir → j'avais + participe : j'avais parlé, j'avais fini\n• être → j'étais + participe (movimiento) : j'étais allé(e)\n\nMismo reparto avoir/être que el passé composé.",
+    "ca": "El plus-que-parfait = plusquamperfet ('havia parlat'). Expressa una acció del passat ANTERIOR a una altra acció passada.\n→ Quand je suis arrivé, ils avaient déjà mangé.\n\n👉 Fórmula: auxiliar (avoir o être) en IMPARFAIT + participe passé.\n• avoir → j'avais + participi\n• être → j'étais + participi (moviment)\n\nMateix repartiment avoir/être que el passé composé."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "Con AVOIR",
+        "ca": "Amb AVOIR"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler → avais parlé",
+          "trad": {
+            "es": "haber hablado",
+            "ca": "haver parlat"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "avais parlé",
+              "tts": "j'avais parlé",
+              "es": "yo había hablado",
+              "ca": "jo havia parlat"
+            },
+            {
+              "pronom": "tu",
+              "forme": "avais parlé",
+              "tts": "tu avais parlé",
+              "es": "tú habías hablado",
+              "ca": "tu havies parlat"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "avait parlé",
+              "tts": "il avait parlé",
+              "es": "él había hablado",
+              "ca": "ell havia parlat"
+            },
+            {
+              "pronom": "nous",
+              "forme": "avions parlé",
+              "tts": "nous avions parlé",
+              "es": "habíamos hablado",
+              "ca": "havíem parlat"
+            },
+            {
+              "pronom": "vous",
+              "forme": "aviez parlé",
+              "tts": "vous aviez parlé",
+              "es": "habíais hablado",
+              "ca": "havíeu parlat"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "avaient parlé",
+              "tts": "ils avaient parlé",
+              "es": "habían hablado",
+              "ca": "havien parlat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "Con ÊTRE (movimiento)",
+        "ca": "Amb ÊTRE (moviment)"
+      },
+      "verbes": [
+        {
+          "infinitif": "aller → étais allé(e)",
+          "trad": {
+            "es": "haber ido",
+            "ca": "haver anat"
+          },
+          "niveau": "B1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "étais allé(e)",
+              "tts": "j'étais allé",
+              "es": "yo había ido",
+              "ca": "jo havia anat"
+            },
+            {
+              "pronom": "tu",
+              "forme": "étais allé(e)",
+              "tts": "tu étais allé",
+              "es": "habías ido",
+              "ca": "havies anat"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "était allé(e)",
+              "tts": "elle était allée",
+              "es": "había ido",
+              "ca": "havia anat"
+            },
+            {
+              "pronom": "nous",
+              "forme": "étions allé(e)s",
+              "tts": "nous étions allés",
+              "es": "habíamos ido",
+              "ca": "havíem anat"
+            },
+            {
+              "pronom": "vous",
+              "forme": "étiez allé(e)s",
+              "tts": "vous étiez allés",
+              "es": "habíais ido",
+              "ca": "havíeu anat"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "étaient allé(e)s",
+              "tts": "ils étaient allés",
+              "es": "habían ido",
+              "ca": "havien anat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Quand je suis arrivé, ils ___ déjà mangé. (avoir)",
+      "reponse": "avaient",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "avoir en imparfait → avaient. Acción anterior a otra pasada.",
+        "ca": "avoir en imparfait → avaient. Acció anterior a una altra passada."
+      }
+    },
+    {
+      "phrase": "Elle ___ déjà partie quand j'ai téléphoné. (être)",
+      "reponse": "était",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "partir → ÊTRE en imparfait → était partie.",
+        "ca": "partir → ÊTRE en imparfait → était partie."
+      }
+    },
+    {
+      "phrase": "Nous ___ fini avant le souper. (avoir)",
+      "reponse": "avions",
+      "niveau": "B1",
+      "options": [],
+      "explication": {
+        "es": "avoir imparfait → avions. Nous avions fini.",
+        "ca": "avoir imparfait → avions. Nous avions fini."
+      }
+    }
+  ]
+}

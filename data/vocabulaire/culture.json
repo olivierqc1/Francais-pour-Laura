@@ -1,0 +1,100 @@
+{
+  "id": "culture",
+  "nom": {
+    "es": "Cultura quebequense",
+    "ca": "Cultura quebequesa"
+  },
+  "emoji": "🎶",
+  "mots": [
+    {
+      "fr": "le hockey",
+      "emoji": "🏒",
+      "es": "el hockey sobre hielo",
+      "ca": "l'hoquei sobre gel",
+      "exemple": "Le hockey est la passion nationale des Québécois.",
+      "exemple_es": "El hockey es la pasión nacional de los quebequenses.",
+      "exemple_ca": "L'hoquei és la passió nacional dels quebequesos."
+    },
+    {
+      "fr": "la poutine",
+      "emoji": "🍟",
+      "es": "la poutine",
+      "ca": "la poutine",
+      "exemple": "La poutine est le plat emblématique du Québec.",
+      "exemple_es": "La poutine es el plato emblemático de Quebec.",
+      "exemple_ca": "La poutine és el plat emblemàtic del Quebec."
+    },
+    {
+      "fr": "le carnaval",
+      "emoji": "🎭",
+      "es": "el carnaval",
+      "ca": "el carnaval",
+      "exemple": "Le Carnaval de Québec a lieu chaque hiver.",
+      "exemple_es": "El Carnaval de Quebec tiene lugar cada invierno.",
+      "exemple_ca": "El Carnaval de Quebec té lloc cada hivern."
+    },
+    {
+      "fr": "le sirop d'érable",
+      "emoji": "🍯",
+      "es": "el jarabe de arce",
+      "ca": "el xarop d'auró",
+      "exemple": "On mange du sirop d'érable sur les crêpes.",
+      "exemple_es": "Comemos jarabe de arce en los crêpes.",
+      "exemple_ca": "Mengem xarop d'auró als crêpes."
+    },
+    {
+      "fr": "la tourtière",
+      "emoji": "🥧",
+      "es": "el pastel de carne",
+      "ca": "el pastís de carn",
+      "exemple": "Ma grand-mère fait une tourtière à Noël.",
+      "exemple_es": "Mi abuela hace una tourtière en Navidad.",
+      "exemple_ca": "La meva àvia fa una tourtière per Nadal."
+    },
+    {
+      "fr": "le dépanneur",
+      "emoji": "🏪",
+      "es": "la tienda de barrio",
+      "ca": "la botiga de barri",
+      "exemple": "Je vais au dépanneur acheter du lait.",
+      "exemple_es": "Voy al dépanneur a comprar leche.",
+      "exemple_ca": "Vaig al dépanneur a comprar llet."
+    },
+    {
+      "fr": "le festival",
+      "emoji": "🎪",
+      "es": "el festival",
+      "ca": "el festival",
+      "exemple": "Le Festival de Jazz de Montréal est célèbre.",
+      "exemple_es": "El Festival de Jazz de Montreal es famoso.",
+      "exemple_ca": "El Festival de Jazz de Mont-real és famós."
+    },
+    {
+      "fr": "la chanson",
+      "emoji": "🎵",
+      "es": "la canción",
+      "ca": "la cançó",
+      "exemple": "Vigneault a écrit des chansons magnifiques.",
+      "exemple_es": "Vigneault escribió canciones magníficas.",
+      "exemple_ca": "Vigneault va escriure cançons magnífiques."
+    },
+    {
+      "fr": "la cabane à sucre",
+      "emoji": "🏚️",
+      "es": "la cabaña del azúcar",
+      "ca": "la cabana del sucre",
+      "exemple": "Au printemps, on va à la cabane à sucre.",
+      "exemple_es": "En primavera, vamos a la cabaña del azúcar.",
+      "exemple_ca": "A la primavera, anem a la cabana del sucre."
+    },
+    {
+      "fr": "le patrimoine",
+      "emoji": "🏛️",
+      "es": "el patrimonio",
+      "ca": "el patrimoni",
+      "exemple": "Le Vieux-Québec est au patrimoine de l'UNESCO.",
+      "exemple_es": "El Viejo Quebec está en el patrimonio de la UNESCO.",
+      "exemple_ca": "El Vell Quebec és al patrimoni de la UNESCO."
+    }
+  ]
+}

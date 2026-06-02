@@ -1,0 +1,20 @@
+{
+  "id": "negation",
+  "titre": { "es": "La Négation — ne...pas, ne...jamais, ne...plus, ne...rien", "ca": "La Négation — ne...pas, ne...jamais, ne...plus, ne...rien" },
+  "niveau": "A1",
+  "explication": {
+    "es": "En francés, la negación es DOBLE — dos palabras rodean el verbo. Es diferente al español donde basta un solo 'no'.\n\n📌 Las formas principales:\n• ne...pas = no (negación simple)\n  → Je ne parle pas anglais. (No hablo inglés.)\n• ne...jamais = nunca / jamás\n  → Il ne neige jamais en juillet à Montréal. (Nunca nieva en julio.)\n• ne...plus = ya no\n  → Nelligan n'écrit plus. (Nelligan ya no escribe.)\n• ne...rien = nada\n  → Je ne comprends rien. (No entiendo nada.)\n• ne...personne = nadie\n  → Je ne connais personne à Québec. (No conozco a nadie.)\n• ne...que = solo / solamente\n  → Il ne parle qu'en français. (Solo habla en francés.)\n\n⚠️ ÉLISION — ne → n' ante vocal:\n→ Je n'aime pas le froid. (No me gusta el frío.)\n→ Il n'a pas de voiture. (No tiene coche.)\n→ On n'habite pas à Montréal. (No vivimos en Montreal.)\n\n⚠️ ARTÍCULO después de negación:\nDu, de la, des → DE después de negación:\n→ Je mange de la poutine. → Je ne mange PAS DE poutine.\n→ Il a des amis. → Il n'a PAS D'amis.\n\n💡 QUÉBÉCOIS FAMILIER — el 'ne' desaparece en oral:\n→ 'Je mange pas' = 'Je ne mange pas' (informal, oral)\n→ 'T'as pas vu ça?' = 'Tu n'as pas vu ça?'\nNormal escucharlo en canciones y series — pero en escrito siempre se conserva el ne.",
+    "ca": "En francès, la negació és DOBLE — dues paraules envolten el verb. És diferent del castellà on n'hi ha prou amb un sol 'no'.\n\n📌 Les formes principals:\n• ne...pas = no (negació simple)\n  → Je ne parle pas anglais. (No parlo anglès.)\n• ne...jamais = mai / mai més\n  → Il ne neige jamais en juillet à Montréal. (Mai neva al juliol.)\n• ne...plus = ja no\n  → Nelligan n'écrit plus. (Nelligan ja no escriu.)\n• ne...rien = res\n  → Je ne comprends rien. (No entenc res.)\n• ne...personne = ningú\n  → Je ne connais personne à Québec. (No conec ningú al Quebec.)\n• ne...que = només / solament\n  → Il ne parle qu'en français. (Només parla en francès.)\n\n⚠️ ELISIÓ — ne → n' davant vocal:\n→ Je n'aime pas le froid.\n→ Il n'a pas de voiture.\n→ On n'habite pas à Montréal.\n\n⚠️ ARTICLE després de negació:\nDu, de la, des → DE després de negació:\n→ Je mange de la poutine. → Je ne mange PAS DE poutine.\n→ Il a des amis. → Il n'a PAS D'amis.\n\n💡 QUÉBÉCOIS FAMILIAR — el 'ne' desapareix en oral:\n→ 'Je mange pas' = 'Je ne mange pas'\n→ 'T'as pas vu ça?' = 'Tu n'as pas vu ça?'\nNormal sentir-ho en cançons i sèries — però per escrit sempre es conserva el ne."
+  },
+  "exemples_contraste": [
+    { "fr": "Je mange de la poutine. → Je ne mange pas de poutine.", "es": "Como poutine. → No como poutine. (ne...pas)", "ca": "Menjo poutine. → No menjo poutine. (ne...pas)" },
+    { "fr": "Il écrit des poèmes. → Il n'écrit plus de poèmes.", "es": "Escribe poemas. → Ya no escribe poemas. (ne...plus)", "ca": "Escriu poemes. → Ja no escriu poemes. (ne...plus)" },
+    { "fr": "Il neige en janvier. → Il ne neige jamais en juillet.", "es": "Nieva en enero. → Nunca nieva en julio. (ne...jamais)", "ca": "Neva al gener. → Mai neva al juliol. (ne...jamais)" },
+    { "fr": "Je comprends tout. → Je ne comprends rien.", "es": "Entiendo todo. → No entiendo nada. (ne...rien)", "ca": "Ho entenc tot. → No entenc res. (ne...rien)" }
+  ],
+  "audio_exemples": [
+    { "fr": "Je ne parle pas très bien français.", "es": "No hablo muy bien el francés.", "ca": "No parlo molt bé el francès." },
+    { "fr": "Il ne neige jamais en juillet au Québec.", "es": "Nunca nieva en julio en Quebec.", "ca": "Mai neva al juliol al Quebec." },
+    { "fr": "On n'a plus de sirop d'érable.", "es": "Ya no tenemos jarabe de arce.", "ca": "Ja no tenim xarop d'auró." }
+  ]
+}

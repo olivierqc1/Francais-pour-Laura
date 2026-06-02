@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi cuenta — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.auth-input { width:100%; background:var(--bg3); border:1px solid var(--border); border-radius:8px; padding:0.7rem 1rem; color:var(--cream); font-family:'Outfit',sans-serif; font-size:0.95rem; margin-bottom:0.7rem; }
+.auth-input:focus { outline:none; border-color:var(--gold); }
+.stat-grid { display:grid; grid-template-columns:1fr 1fr 1fr; gap:0.6rem; margin:1rem 0; }
+.stat-box { background:var(--bg3); border:1px solid var(--border); border-radius:10px; padding:0.9rem 0.5rem; text-align:center; }
+.stat-num { font-family:'Cormorant Garamond',serif; font-size:1.8rem; font-weight:700; color:var(--gold-light); }
+.stat-lbl { font-size:0.68rem; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.05em; margin-top:0.2rem; }
+.goal-wrap { margin:1rem 0; }
+.goal-bar { height:14px; background:var(--bg3); border-radius:7px; overflow:hidden; border:1px solid var(--border); }
+.goal-fill { height:100%; background:linear-gradient(90deg,var(--maple),var(--gold)); border-radius:7px; transition:width 0.5s; }
+.sec-row { display:flex; align-items:center; gap:0.6rem; margin-bottom:0.7rem; }
+.sec-ico { font-size:1.2rem; width:1.6rem; text-align:center; }
+.sec-bar { flex:1; height:8px; background:var(--bg3); border-radius:4px; overflow:hidden; }
+.sec-fill { height:100%; background:var(--sage); border-radius:4px; }
+.sec-val { font-size:0.78rem; color:var(--text-dim); min-width:3.5rem; text-align:right; }
+.badge-grid { display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.6rem; }
+.badge { padding:0.45rem 0.8rem; border-radius:999px; font-size:0.8rem; font-weight:600; border:1px solid var(--border); background:var(--bg3); color:var(--text-dim); }
+.badge.on { background:rgba(201,153,58,0.18); color:var(--gold-light); border-color:rgba(201,153,58,0.4); }
+.muted { color:var(--text-dim); font-size:0.86rem; line-height:1.6; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+      <a href="compte.html" class="active" data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="compte.html" class="active"><span class="icon">⭐</span><span data-es="Yo" data-ca="Jo">Yo</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">⭐ <span data-es="Mi progreso" data-ca="El meu progrés">Mi progreso</span></div>
+    <h1 data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</h1>
+    <p id="subtitle" class="muted"></p>
+  </div>
+
+  <!-- ZONE NON CONNECTÉ -->
+  <div id="auth-zone" style="display:none">
+    <div class="card fade-up">
+      <div class="section-title" id="auth-title"></div>
+      <p class="muted" id="auth-help" style="margin-bottom:1rem"></p>
+      <input class="auth-input" id="email" type="email" placeholder="email" autocomplete="email">
+      <input class="auth-input" id="password" type="password" placeholder="contraseña / contrasenya" autocomplete="current-password">
+      <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:0.3rem">
+        <button class="btn btn-primary" id="btn-login" onclick="doLogin()"></button>
+        <button class="btn btn-ghost" id="btn-signup" onclick="doSignup()"></button>
+      </div>
+      <div id="auth-msg" class="muted" style="margin-top:0.8rem"></div>
+    </div>
+  </div>
+
+  <!-- ZONE CONNECTÉ -->
+  <div id="dash-zone" style="display:none">
+    <div class="card fade-up">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:0.5rem">
+        <div class="section-title" id="hello"></div>
+        <button class="btn btn-ghost" onclick="doLogout()" id="btn-logout"></button>
+      </div>
+      <div class="stat-grid">
+        <div class="stat-box"><div class="stat-num" id="s-points">0</div><div class="stat-lbl" id="l-points">Puntos</div></div>
+        <div class="stat-box"><div class="stat-num" id="s-streak">0</div><div class="stat-lbl" id="l-streak">Racha</div></div>
+        <div class="stat-box"><div class="stat-num" id="s-today">0</div><div class="stat-lbl" id="l-today">Hoy</div></div>
+      </div>
+      <div class="goal-wrap">
+        <div style="display:flex;justify-content:space-between;font-size:0.82rem;color:var(--text-dim);margin-bottom:0.3rem">
+          <span id="goal-label"></span><span id="goal-frac"></span>
+        </div>
+        <div class="goal-bar"><div class="goal-fill" id="goal-fill" style="width:0%"></div></div>
+      </div>
+    </div>
+
+    <div class="card fade-up">
+      <div class="section-label" id="sec-label"></div>
+      <div id="sections"></div>
+    </div>
+
+    <div class="card fade-up">
+      <div class="section-label" id="badge-label"></div>
+      <div class="badge-grid" id="badges"></div>
+    </div>
+  </div>
+
+  <!-- CONFIG MANQUANTE -->
+  <div id="noconfig-zone" style="display:none">
+    <div class="warning-box" id="noconfig-msg"></div>
+  </div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/lang.js"></script>
+<script>
+const lang=()=>localStorage.getItem('laura_lang')||'es';
+const T={
+  es:{ sub:"Conéctate para guardar tu progreso y ganar puntos.", authTitle:"Entrar", authHelp:"Crea una cuenta o entra con tu email.",
+       login:"Entrar", signup:"Crear cuenta", logout:"Salir", hello:"Hola, ",
+       points:"Puntos", streak:"Racha 🔥", today:"Hoy", goal:"Objetivo del día", sec:"PROGRESO POR SECCIÓN", badge:"MEDALLAS",
+       noconfig:"⚙️ El sistema de progreso aún no está configurado. Sigue el archivo SETUP-SUPABASE.md.",
+       offline:"El sitio funciona sin conexión, pero tu progreso no se guarda hasta que entres.",
+       created:"✅ ¡Cuenta creada! Ya puedes entrar.", bad:"❌ Email o contraseña incorrectos.", fill:"Escribe email y contraseña." },
+  ca:{ sub:"Connecta't per desar el teu progrés i guanyar punts.", authTitle:"Entrar", authHelp:"Crea un compte o entra amb el teu email.",
+       login:"Entrar", signup:"Crear compte", logout:"Sortir", hello:"Hola, ",
+       points:"Punts", streak:"Ratxa 🔥", today:"Avui", goal:"Objectiu del dia", sec:"PROGRÉS PER SECCIÓ", badge:"MEDALLES",
+       noconfig:"⚙️ El sistema de progrés encara no està configurat. Segueix el fitxer SETUP-SUPABASE.md.",
+       offline:"El web funciona sense connexió, però el progrés no es desa fins que entris.",
+       created:"✅ Compte creat! Ja pots entrar.", bad:"❌ Email o contrasenya incorrectes.", fill:"Escriu email i contrasenya." }
+};
+const SECTIONS=[
+  {id:"conjugaison",ico:"✏️",es:"Conjugación",ca:"Conjugació"},
+  {id:"grammaire",ico:"📐",es:"Gramática",ca:"Gramàtica"},
+  {id:"vocabulaire",ico:"📚",es:"Vocabulario",ca:"Vocabulari"},
+  {id:"prononciation",ico:"🔊",es:"Pronunciación",ca:"Pronunciació"}
+];
+
+function applyTexts(){
+  const l=lang(), t=T[l];
+  document.getElementById('subtitle').textContent=t.sub;
+  document.getElementById('auth-title').textContent=t.authTitle;
+  document.getElementById('auth-help').textContent=t.authHelp;
+  document.getElementById('btn-login').textContent=t.login;
+  document.getElementById('btn-signup').textContent=t.signup;
+  document.getElementById('btn-logout').textContent=t.logout;
+  document.getElementById('l-points').textContent=t.points;
+  document.getElementById('l-streak').textContent=t.streak;
+  document.getElementById('l-today').textContent=t.today;
+  document.getElementById('goal-label').textContent=t.goal;
+  document.getElementById('sec-label').textContent=t.sec;
+  document.getElementById('badge-label').textContent=t.badge;
+  document.getElementById('noconfig-msg').textContent=t.noconfig;
+}
+
+async function refresh(){
+  applyTexts();
+  if(!window.Progress || !Progress.ready()){
+    document.getElementById('noconfig-zone').style.display='block';
+    document.getElementById('auth-zone').style.display='none';
+    document.getElementById('dash-zone').style.display='none';
+    return;
+  }
+  const user=await Progress.currentUser();
+  if(!user){
+    document.getElementById('auth-zone').style.display='block';
+    document.getElementById('dash-zone').style.display='none';
+    document.getElementById('noconfig-zone').style.display='none';
+    return;
+  }
+  document.getElementById('auth-zone').style.display='none';
+  document.getElementById('noconfig-zone').style.display='none';
+  document.getElementById('dash-zone').style.display='block';
+  const l=lang();
+  document.getElementById('hello').textContent=T[l].hello + (user.email||'').split('@')[0];
+
+  const stats=await Progress.getStats()||{points:0,streak:0,today_count:0,daily_goal:10};
+  document.getElementById('s-points').textContent=stats.points||0;
+  document.getElementById('s-streak').textContent=stats.streak||0;
+  document.getElementById('s-today').textContent=stats.today_count||0;
+  const goal=stats.daily_goal||10, today=stats.today_count||0;
+  document.getElementById('goal-frac').textContent=today+' / '+goal;
+  document.getElementById('goal-fill').style.width=Math.min(100, today/goal*100)+'%';
+
+  // sections
+  const counts=await Progress.getSectionCounts();
+  document.getElementById('sections').innerHTML=SECTIONS.map(s=>{
+    const c=counts[s.id]||{total:0,correct:0};
+    const pct=c.total? Math.round(c.correct/c.total*100):0;
+    return '<div class="sec-row"><span class="sec-ico">'+s.ico+'</span>'+
+      '<span style="min-width:6rem;font-size:0.85rem;color:var(--cream)">'+s[l]+'</span>'+
+      '<div class="sec-bar"><div class="sec-fill" style="width:'+pct+'%"></div></div>'+
+      '<span class="sec-val">'+c.correct+'/'+c.total+'</span></div>';
+  }).join('');
+
+  // badges
+  const pts=stats.points||0, str=stats.streak||0;
+  const badges=[
+    {on: pts>=50,  es:"⭐ 50 puntos", ca:"⭐ 50 punts"},
+    {on: pts>=200, es:"🌟 200 puntos", ca:"🌟 200 punts"},
+    {on: pts>=500, es:"🏆 500 puntos", ca:"🏆 500 punts"},
+    {on: str>=3,   es:"🔥 Racha de 3 días", ca:"🔥 Ratxa de 3 dies"},
+    {on: str>=7,   es:"🔥 Racha de 7 días", ca:"🔥 Ratxa de 7 dies"},
+    {on: str>=30,  es:"🔥 Racha de 30 días", ca:"🔥 Ratxa de 30 dies"}
+  ];
+  document.getElementById('badges').innerHTML=badges.map(b=>'<span class="badge'+(b.on?' on':'')+'">'+(b.on?'':'🔒 ')+b[l]+'</span>').join('');
+}
+
+async function doLogin(){
+  const l=lang(), m=document.getElementById('auth-msg');
+  const e=document.getElementById('email').value.trim(), p=document.getElementById('password').value;
+  if(!e||!p){ m.textContent=T[l].fill; return; }
+  try{ await Progress.signIn(e,p); refresh(); }
+  catch(err){ m.textContent=T[l].bad; }
+}
+async function doSignup(){
+  const l=lang(), m=document.getElementById('auth-msg');
+  const e=document.getElementById('email').value.trim(), p=document.getElementById('password').value;
+  if(!e||!p){ m.textContent=T[l].fill; return; }
+  try{ await Progress.signUp(e,p); m.textContent=T[l].created; }
+  catch(err){ m.textContent='❌ '+(err.message||''); }
+}
+async function doLogout(){ await Progress.signOut(); refresh(); }
+
+document.addEventListener('DOMContentLoaded',()=>{
+  refresh();
+  document.querySelectorAll('.lang-toggle button').forEach(b=>{ b.addEventListener('click',()=>setTimeout(refresh,0)); });
+});
+</script>
+</body>
+</html>

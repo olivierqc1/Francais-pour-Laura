@@ -1,0 +1,13 @@
+{
+  "id": "pronoms_ex1",
+  "module": "pronoms",
+  "titre": { "es": "Ejercicio 1 — Les pronoms en contexte québécois", "ca": "Exercici 1 — Els pronoms en context québécois" },
+  "niveau": "A1",
+  "exercices": [
+    { "phrase": "___ va au Festival de Jazz ce soir. (nosotros — forma oral québécoise)", "reponse": "On", "options": ["On", "Nous", "Ils", "Vous"], "explication": { "es": "En québécois oral, 'on' = nosotros. 'On va' = vamos. Es la forma más natural hablando. 'Nous allons' sería más formal/escrito. Vigneault usa 'on' todo el tiempo.", "ca": "En québécois oral, 'on' = nosaltres. 'On va' = anem. És la forma més natural parlant." } },
+    { "phrase": "___ neige beaucoup en hiver au Québec.", "reponse": "Il", "options": ["Il", "Elle", "On", "Ça"], "explication": { "es": "Il impersonal para fenómenos meteorológicos. Il neige = Nieva. Il pleut = Llueve. Il fait froid = Hace frío. Este 'il' NO se refiere a ninguna persona.", "ca": "Il impersonal per a fenòmens meteorològics. Il neige = Neva. Il pleut = Plou. Il fait froid = Fa fred." } },
+    { "phrase": "___ êtes québécois, monsieur ?", "reponse": "Vous", "options": ["Vous", "Tu", "Ils", "On"], "explication": { "es": "Contexto formal ('monsieur') → vous de politesse. 'Vous êtes' = Usted es. En Quebec se tutea más que en Francia, pero con desconocidos mayores en contexto formal → vous.", "ca": "Context formal ('monsieur') → vous de cortesia. Al Quebec es tuteja més que a França, però amb desconeguts grans en context formal → vous." } },
+    { "phrase": "Vigneault et Nelligan ? ___ sont des géants de la poésie québécoise.", "reponse": "Ils", "options": ["Ils", "Elles", "On", "Vous"], "explication": { "es": "Dos hombres → ils (masculino plural). Regla: si hay al menos una persona masculina en el grupo → ils. Solo si son TODAS mujeres → elles.", "ca": "Dos homes → ils (masculí plural). Regla: si hi ha almenys una persona masculina en el grup → ils. Només si són TOTES dones → elles." } },
+    { "phrase": "Laura et moi, ___ allons apprendre le français ensemble !", "reponse": "on", "options": ["on", "nous", "ils", "vous"], "explication": { "es": "'Laura et moi' = nosotros. En oral québécois → 'on'. On va apprendre = Vamos a aprender. La forma más natural para decir 'nosotros' en québécois hablado.", "ca": "'Laura et moi' = nosaltres. En oral québécois → 'on'. On va apprendre = Anem a aprendre." } }
+  ]
+}

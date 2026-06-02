@@ -14,7 +14,9 @@
       <a href="vocabulaire.html" class="active" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
       <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
       <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
     </div>
     <div class="lang-toggle">
       <button data-lang="es">ES</button>
@@ -26,7 +28,9 @@
   <a href="vocabulaire.html" class="active"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
   <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
 </div>
 
 <div class="page-wrap">
@@ -112,7 +116,6 @@ function renderCard() {
   const fc = document.getElementById('flashcard');
   fc.classList.remove('flipped');
   flipped = false;
-  // refresh lang on hint
   document.querySelector('.flashcard-hint').textContent = lang() === 'es' ? 'Haz clic para ver la traducción' : 'Fes clic per veure la traducció';
 }
 
@@ -147,8 +150,6 @@ function renderWordList() {
   document.getElementById('word-list').innerHTML = html;
 }
 
-// Re-render on lang change
-const origApplyLang = window.applyLang;
 document.addEventListener('DOMContentLoaded', () => {
   load();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
@@ -158,4 +159,3 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 </body>
 </html>
-

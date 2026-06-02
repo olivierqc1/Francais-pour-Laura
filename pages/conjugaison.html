@@ -30,6 +30,9 @@
 .conj-play:hover { background:var(--maple); color:white; }
 .practice-toggle { display:flex; gap:0.5rem; margin:1.5rem 0 1rem; }
 .practice-toggle .btn { flex:1; justify-content:center; }
+.answer-input { width:100%; background:var(--bg3); border:2px solid var(--border); border-radius:10px; padding:0.85rem 1rem; color:var(--cream); font-family:'Cormorant Garamond',serif; font-size:1.35rem; text-align:center; transition:border 0.2s; }
+.answer-input:focus { outline:none; border-color:var(--gold); }
+.answer-input:disabled { opacity:0.85; }
 </style>
 </head>
 <body>
@@ -61,16 +64,16 @@
   <div class="page-header fade-up">
     <div class="page-header-label">✏️ <span data-es="Módulo 2" data-ca="Mòdul 2">Módulo 2</span></div>
     <h1 data-es="Conjugación" data-ca="Conjugació">Conjugación</h1>
-    <p data-es="Elige un tiempo verbal. Verás cómo se conjugan los 3 grupos (-ER, -IR, -RE), con tabla y audio. El filtro de nivel marca lo prioritario." data-ca="Tria un temps verbal. Veuràs com es conjuguen els 3 grups (-ER, -IR, -RE), amb taula i àudio. El filtre de nivell marca el prioritari.">Elige un tiempo verbal. Verás los 3 grupos con tabla y audio.</p>
+    <p data-es="Elige un tiempo. Verás los 3 grupos con tabla y audio. En 'Practicar' escribes la respuesta (los acentos no son obligatorios)." data-ca="Tria un temps. Veuràs els 3 grups amb taula i àudio. A 'Practicar' escrius la resposta (els accents no són obligatoris).">Elige un tiempo. En 'Practicar' escribes la respuesta.</p>
   </div>
 
   <div class="controls">
     <div>
-      <label class="select-label" id="select-label" data-es="ELIGE UN TIEMPO" data-ca="TRIA UN TEMPS">ELIGE UN TIEMPO</label>
+      <label class="select-label" id="select-label">ELIGE UN TIEMPO</label>
       <select class="select-nav" id="temps-select" onchange="loadTemps(this.value)"></select>
     </div>
     <div>
-      <label class="select-label" id="niv-label" data-es="FILTRO POR NIVEL" data-ca="FILTRE PER NIVELL">FILTRO POR NIVEL</label>
+      <label class="select-label" id="niv-label">FILTRO POR NIVEL</label>
       <div class="niv-row" id="niv-row"></div>
     </div>
   </div>
@@ -91,9 +94,10 @@
         <div class="progress-line"><div class="progress-line-fill" id="q-progress" style="width:0%"></div></div>
       </div>
       <div class="quiz-prompt" id="q-prompt"></div>
-      <div class="options-grid" id="q-options"></div>
+      <input class="answer-input" id="answer" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="...">
       <div class="feedback-box" id="q-feedback"></div>
-      <div style="margin-top:1rem">
+      <div style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap">
+        <button class="btn btn-primary" id="btn-check" onclick="checkAns()"><span data-es="Comprobar" data-ca="Comprovar">Comprobar</span></button>
         <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> &rarr;</button>
       </div>
     </div>
@@ -104,129 +108,110 @@
 
 <script src="../js/lang.js"></script>
 <script>
-let index = null, current = null, nivFilter = 'all', qIdx = 0, score = 0, answered = false, qList = [], voicesCache = [];
-const ORDER = { 'A1':1, 'A2':2, 'B1':3 };
-const lang = () => localStorage.getItem('laura_lang') || 'es';
+let index=null, current=null, nivFilter='all', qIdx=0, score=0, answered=false, qList=[], voicesCache=[];
+const ORDER={'A1':1,'A2':2,'B1':3};
+const lang=()=>localStorage.getItem('laura_lang')||'es';
 
-function loadVoices() { voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
-if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
-function say(t) { if(!('speechSynthesis' in window))return; speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t); u.lang='fr-CA'; const v=voicesCache.find(x=>x.lang==='fr-CA')||voicesCache.find(x=>x.lang&&x.lang.startsWith('fr')); if(v)u.voice=v; u.rate=0.9; speechSynthesis.speak(u); }
+function loadVoices(){ voicesCache=window.speechSynthesis?speechSynthesis.getVoices():[]; }
+if('speechSynthesis' in window){ loadVoices(); speechSynthesis.onvoiceschanged=loadVoices; }
+function say(t){ if(!('speechSynthesis' in window))return; speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t); u.lang='fr-CA'; const v=voicesCache.find(x=>x.lang==='fr-CA')||voicesCache.find(x=>x.lang&&x.lang.startsWith('fr')); if(v)u.voice=v; u.rate=0.9; speechSynthesis.speak(u); }
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
-function lvlOk(n) { return nivFilter==='all' || ORDER[n] <= ORDER[nivFilter]; }
+function lvlOk(n){ return nivFilter==='all'||ORDER[n]<=ORDER[nivFilter]; }
+// normalisation: minuscules, sans accents, sans espaces multiples
+function norm(s){ return (s||'').toLowerCase().trim().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/\s+/g,' '); }
 
-async function init() {
-  const r = await fetch('../data/conjugaison/index.json');
-  index = await r.json();
-  buildSelect(); buildNiv();
-  loadTemps(0);
+async function init(){
+  const r=await fetch('../data/conjugaison/index.json'); index=await r.json();
+  buildSelect(); buildNiv(); loadTemps(0);
 }
-
-function buildSelect() {
-  const l = lang(); const sel = document.getElementById('temps-select'); sel.innerHTML='';
-  index.temps.forEach((t,i)=>{ const o=document.createElement('option'); o.value=i;
-    o.textContent = t.nom[l] + '  ·  ' + t.niveau;
-    o.disabled = !lvlOk(t.niveau);
-    sel.appendChild(o); });
-  document.getElementById('select-label').textContent = l==='es'?'ELIGE UN TIEMPO':'TRIA UN TEMPS';
+function buildSelect(){
+  const l=lang(); const sel=document.getElementById('temps-select'); sel.innerHTML='';
+  index.temps.forEach((t,i)=>{ const o=document.createElement('option'); o.value=i; o.textContent=t.nom[l]+'  ·  '+t.niveau; o.disabled=!lvlOk(t.niveau); sel.appendChild(o); });
+  document.getElementById('select-label').textContent=l==='es'?'ELIGE UN TIEMPO':'TRIA UN TEMPS';
 }
-function buildNiv() {
-  const l = lang(); const row = document.getElementById('niv-row'); row.innerHTML='';
-  index.niveaux.forEach(n=>{ const b=document.createElement('button');
-    b.className='niv-chip'+(n.id===nivFilter?' active':''); b.textContent=n.nom[l];
-    b.onclick=()=>{ nivFilter=n.id; buildNiv(); buildSelect(); applyFilterReload(); };
-    row.appendChild(b); });
-  document.getElementById('niv-label').textContent = l==='es'?'FILTRO POR NIVEL':'FILTRE PER NIVELL';
+function buildNiv(){
+  const l=lang(); const row=document.getElementById('niv-row'); row.innerHTML='';
+  index.niveaux.forEach(n=>{ const b=document.createElement('button'); b.className='niv-chip'+(n.id===nivFilter?' active':''); b.textContent=n.nom[l]; b.onclick=()=>{ nivFilter=n.id; buildNiv(); buildSelect(); applyFilterReload(); }; row.appendChild(b); });
+  document.getElementById('niv-label').textContent=l==='es'?'FILTRO POR NIVEL':'FILTRE PER NIVELL';
 }
-
-function applyFilterReload() {
-  // si le temps courant est masqué par le filtre, on saute au premier autorisé
-  const ti = index.temps.findIndex(t=>t.id===current.id);
-  if (!lvlOk(index.temps[ti].niveau)) {
-    const first = index.temps.findIndex(t=>lvlOk(t.niveau));
-    if (first>=0) { loadTemps(first); return; }
-  }
-  renderRegle(); if (document.getElementById('practice-zone').style.display!=='none') showPractice(); else showTables();
+function applyFilterReload(){
+  const ti=index.temps.findIndex(t=>t.id===current.id);
+  if(!lvlOk(index.temps[ti].niveau)){ const first=index.temps.findIndex(t=>lvlOk(t.niveau)); if(first>=0){ loadTemps(first); return; } }
+  renderRegle(); if(document.getElementById('practice-zone').style.display!=='none')showPractice(); else showTables();
 }
-
-async function loadTemps(i) {
-  const t = index.temps[Number(i)];
-  const r = await fetch('../'+t.fichier); current = await r.json();
-  document.getElementById('temps-select').value = i;
-  qIdx=0; score=0; answered=false;
+async function loadTemps(i){
+  const t=index.temps[Number(i)]; const r=await fetch('../'+t.fichier); current=await r.json();
+  document.getElementById('temps-select').value=i; qIdx=0; score=0; answered=false;
   renderRegle(); showTables();
 }
+function renderRegle(){ const l=lang(); document.getElementById('regle-zone').innerHTML='<div class="section-label">'+current.nom[l]+'</div><div class="info-box">'+current.regle[l]+'</div>'; }
 
-function renderRegle() {
-  const l=lang();
-  document.getElementById('regle-zone').innerHTML =
-    '<div class="section-label">'+current.nom[l]+'</div><div class="info-box">'+current.regle[l]+'</div>';
-}
-
-function showTables() {
+function showTables(){
   document.getElementById('btn-tables').className='btn btn-gold';
   document.getElementById('btn-practice').className='btn btn-ghost';
   document.getElementById('practice-zone').style.display='none';
-  const tz=document.getElementById('tables-zone'); tz.style.display='block';
-  const l=lang(); let html='';
+  const tz=document.getElementById('tables-zone'); tz.style.display='block'; const l=lang(); let html='';
   current.groupes.forEach(g=>{
-    const verbs = g.verbes.filter(v=>lvlOk(v.niveau));
-    if(!verbs.length) return;
-    html += '<div class="grp-title">'+g.nom[l]+'</div>';
-    html += verbs.map(v=>{
-      const rows=v.conjugaison.map(c=>
-        '<div class="conj-row"><span class="conj-pron">'+c.pronom+'</span>'+
-        '<span class="conj-forme">'+c.forme+'</span>'+
-        '<button class="conj-play" onclick="say(\''+esc(c.tts)+'\')">🔊</button></div>').join('');
-      return '<div class="verb-card fade-up"><div class="verb-head">'+
-        '<span class="verb-inf">'+v.infinitif+'</span>'+
-        '<span class="verb-trad">'+v.trad[l]+'</span>'+
-        '<span class="lvl-tag lvl-'+v.niveau+'">'+v.niveau+'</span></div>'+rows+'</div>';
+    const verbs=g.verbes.filter(v=>lvlOk(v.niveau)); if(!verbs.length)return;
+    html+='<div class="grp-title">'+g.nom[l]+'</div>';
+    html+=verbs.map(v=>{
+      const rows=v.conjugaison.map(c=>'<div class="conj-row"><span class="conj-pron">'+c.pronom+'</span><span class="conj-forme">'+c.forme+'</span><button class="conj-play" onclick="say(\''+esc(c.tts)+'\')">🔊</button></div>').join('');
+      return '<div class="verb-card fade-up"><div class="verb-head"><span class="verb-inf">'+v.infinitif+'</span><span class="verb-trad">'+v.trad[l]+'</span><span class="lvl-tag lvl-'+v.niveau+'">'+v.niveau+'</span></div>'+rows+'</div>';
     }).join('');
   });
-  tz.innerHTML = html || '<div class="info-box">'+(l==='es'?'No hay verbos para este nivel.':'No hi ha verbs per a aquest nivell.')+'</div>';
+  tz.innerHTML=html||'<div class="info-box">'+(l==='es'?'No hay verbos para este nivel.':'No hi ha verbs per a aquest nivell.')+'</div>';
 }
 
-function showPractice() {
+function showPractice(){
   document.getElementById('btn-practice').className='btn btn-gold';
   document.getElementById('btn-tables').className='btn btn-ghost';
   document.getElementById('tables-zone').style.display='none';
   document.getElementById('practice-zone').style.display='block';
   document.getElementById('quiz-area').style.display='block';
   document.getElementById('completion-area').style.display='none';
-  qList = current.exercices.filter(e=>lvlOk(e.niveau));
-  qIdx=0; score=0; answered=false;
-  renderQuestion();
+  qList=current.exercices.filter(e=>lvlOk(e.niveau));
+  qIdx=0; score=0; answered=false; renderQuestion();
 }
 
-function renderQuestion() {
+function renderQuestion(){
   const l=lang(); answered=false;
-  if(!qList.length){ document.getElementById('quiz-area').innerHTML='<div class="info-box">'+(l==='es'?'No hay ejercicios para este nivel. Cambia el filtro.':'No hi ha exercicis per a aquest nivell.')+'</div>'; return; }
+  const inp=document.getElementById('answer');
+  if(!qList.length){ document.getElementById('quiz-area').innerHTML='<div class="info-box">'+(l==='es'?'No hay ejercicios para este nivel.':'No hi ha exercicis per a aquest nivell.')+'</div>'; return; }
   if(qIdx>=qList.length){ showCompletion(); return; }
   const q=qList[qIdx];
   document.getElementById('score').textContent=score;
   document.getElementById('total').textContent=qIdx;
   document.getElementById('q-progress').style.width=(qIdx/qList.length*100)+'%';
-  document.getElementById('q-prompt').innerHTML=q.phrase.replace(/_+/,'<span class="blank">___</span>');
+  document.getElementById('q-prompt').innerHTML=q.phrase.replace(/_+/,'<span class="blank">______</span>');
+  inp.value=''; inp.disabled=false;
   const fb=document.getElementById('q-feedback'); fb.className='feedback-box'; fb.innerHTML='';
+  document.getElementById('btn-check').style.display='inline-flex';
   document.getElementById('btn-next').style.display='none';
-  const opts=[...q.options].sort(()=>Math.random()-0.5);
-  document.getElementById('q-options').innerHTML=opts.map(o=>'<button class="option" onclick="checkAns(\''+o.replace(/'/g,"\\'")+'\', this)">'+o+'</button>').join('');
+  setTimeout(()=>inp.focus(),50);
 }
 
-function checkAns(sel,btn){
-  if(answered)return; answered=true;
+function checkAns(){
+  if(answered)return;
+  const inp=document.getElementById('answer');
+  const val=inp.value;
+  if(!val.trim())return;
+  answered=true; inp.disabled=true;
   const q=qList[qIdx], l=lang();
-  document.querySelectorAll('.option').forEach(b=>{b.disabled=true; if(b.textContent===q.reponse)b.classList.add('correct');});
-  const correct=sel===q.reponse; if(correct)score++;
-  btn.classList.add(correct?'correct':'wrong');
+  const correct = norm(val)===norm(q.reponse);
+  if(correct)score++;
   const fb=document.getElementById('q-feedback'); fb.className='feedback-box show '+(correct?'correct':'wrong');
-  fb.innerHTML=(correct?'\u2705 ':'\u274C ')+(correct?(l==='es'?'\u00A1Correcto!':'Correcte!'):(l==='es'?'Correcto: <strong>'+q.reponse+'</strong>':'Correcte: <strong>'+q.reponse+'</strong>'))+'<div class="explication">'+q.explication[l]+'</div>';
+  let head;
+  if(correct){ head=(l==='es'?'\u2705 \u00A1Correcto! \u2192 ':'\u2705 Correcte! \u2192 ')+'<strong>'+q.reponse+'</strong>'; }
+  else { head=(l==='es'?'\u274C La respuesta correcta es: ':'\u274C La resposta correcta \u00E9s: ')+'<strong>'+q.reponse+'</strong>'; }
+  fb.innerHTML=head+'<div class="explication">'+q.explication[l]+'</div>';
   document.getElementById('score').textContent=score;
   document.getElementById('total').textContent=qIdx+1;
+  document.getElementById('btn-check').style.display='none';
   document.getElementById('btn-next').style.display='inline-flex';
-  if(q.reponse)say(q.reponse);
+  say(q.reponse);
   qIdx++;
 }
+
 function nextQ(){ renderQuestion(); }
 
 function showCompletion(){
@@ -235,6 +220,11 @@ function showCompletion(){
   document.getElementById('completion-area').style.display='block';
   document.getElementById('completion-area').innerHTML='<div class="card completion"><div class="completion-icon">\uD83C\uDF89</div><h2>'+(l==='es'?'\u00A1Bravo, Laura!':'Bravo, Laura!')+'</h2><p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">'+score+' / '+total+'</p><button class="btn btn-primary" style="margin-top:1.5rem" onclick="showPractice()">\uD83D\uDD04 '+(l==='es'?'Repetir':'Repetir')+'</button></div>';
 }
+
+document.addEventListener('keydown',(e)=>{
+  if(document.getElementById('practice-zone').style.display==='none')return;
+  if(e.key==='Enter'){ if(!answered)checkAns(); else if(document.getElementById('btn-next').style.display!=='none')nextQ(); }
+});
 
 document.addEventListener('DOMContentLoaded',()=>{
   init();

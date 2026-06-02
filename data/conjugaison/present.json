@@ -1,0 +1,605 @@
+{
+  "id": "present",
+  "nom": {
+    "es": "Presente de indicativo",
+    "ca": "Present d'indicatiu"
+  },
+  "regle": {
+    "es": "El presente describe lo que pasa ahora o habitualmente. Cada grupo tiene sus terminaciones:\n\n📌 1.er grupo (-ER): quita -er → radical + e, es, e, ons, ez, ent (las terminaciones -e/-es/-ent son MUDAS).\n📌 2.º grupo (-IR finir): radical + is, is, it, issons, issez, issent (aparece -ISS- en plural).\n📌 3.er grupo (-RE / irregulares): cada uno es diferente, hay que memorizarlos.\n\n💡 être y avoir son los 2 irregulares más importantes — están abajo en la tabla.",
+    "ca": "El present descriu el que passa ara o habitualment. Cada grup té les seves terminacions:\n\n📌 1r grup (-ER): treu -er → radical + e, es, e, ons, ez, ent (les terminacions -e/-es/-ent són MUDES).\n📌 2n grup (-IR finir): radical + is, is, it, issons, issez, issent (apareix -ISS- al plural).\n📌 3r grup (-RE / irregulars): cadascun és diferent, cal memoritzar-los.\n\n💡 être i avoir són els 2 irregulars més importants — són a baix a la taula."
+  },
+  "groupes": [
+    {
+      "nom": {
+        "es": "⭐ Esenciales: être / avoir",
+        "ca": "⭐ Essencials: être / avoir"
+      },
+      "verbes": [
+        {
+          "infinitif": "être",
+          "trad": {
+            "es": "ser / estar",
+            "ca": "ser / estar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "suis",
+              "tts": "je suis",
+              "es": "yo soy/estoy",
+              "ca": "jo sóc/estic"
+            },
+            {
+              "pronom": "tu",
+              "forme": "es",
+              "tts": "tu es",
+              "es": "tú eres/estás",
+              "ca": "tu ets/estàs"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "est",
+              "tts": "il est",
+              "es": "él es/está",
+              "ca": "ell és/està"
+            },
+            {
+              "pronom": "nous",
+              "forme": "sommes",
+              "tts": "nous sommes",
+              "es": "nosotros somos",
+              "ca": "nosaltres som"
+            },
+            {
+              "pronom": "vous",
+              "forme": "êtes",
+              "tts": "vous êtes",
+              "es": "vosotros sois",
+              "ca": "vosaltres sou"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "sont",
+              "tts": "ils sont",
+              "es": "ellos son",
+              "ca": "ells són"
+            }
+          ]
+        },
+        {
+          "infinitif": "avoir",
+          "trad": {
+            "es": "tener / haber",
+            "ca": "tenir / haver"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "ai",
+              "tts": "j'ai",
+              "es": "yo tengo",
+              "ca": "jo tinc"
+            },
+            {
+              "pronom": "tu",
+              "forme": "as",
+              "tts": "tu as",
+              "es": "tú tienes",
+              "ca": "tu tens"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "a",
+              "tts": "il a",
+              "es": "él tiene",
+              "ca": "ell té"
+            },
+            {
+              "pronom": "nous",
+              "forme": "avons",
+              "tts": "nous avons",
+              "es": "nosotros tenemos",
+              "ca": "nosaltres tenim"
+            },
+            {
+              "pronom": "vous",
+              "forme": "avez",
+              "tts": "vous avez",
+              "es": "vosotros tenéis",
+              "ca": "vosaltres teniu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "ont",
+              "tts": "ils ont",
+              "es": "ellos tienen",
+              "ca": "ells tenen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "1.er grupo — verbos en -ER",
+        "ca": "1r grup — verbs en -ER"
+      },
+      "verbes": [
+        {
+          "infinitif": "parler",
+          "trad": {
+            "es": "hablar",
+            "ca": "parlar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "parle",
+              "tts": "je parle",
+              "es": "yo hablo",
+              "ca": "jo parlo"
+            },
+            {
+              "pronom": "tu",
+              "forme": "parles",
+              "tts": "tu parles",
+              "es": "tú hablas",
+              "ca": "tu parles"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "parle",
+              "tts": "il parle",
+              "es": "él habla",
+              "ca": "ell parla"
+            },
+            {
+              "pronom": "nous",
+              "forme": "parlons",
+              "tts": "nous parlons",
+              "es": "nosotros hablamos",
+              "ca": "nosaltres parlem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "parlez",
+              "tts": "vous parlez",
+              "es": "vosotros habláis",
+              "ca": "vosaltres parleu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "parlent",
+              "tts": "ils parlent",
+              "es": "ellos hablan",
+              "ca": "ells parlen"
+            }
+          ]
+        },
+        {
+          "infinitif": "aimer",
+          "trad": {
+            "es": "amar / gustar",
+            "ca": "estimar / agradar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "j'",
+              "forme": "aime",
+              "tts": "j'aime",
+              "es": "yo amo",
+              "ca": "jo estimo"
+            },
+            {
+              "pronom": "tu",
+              "forme": "aimes",
+              "tts": "tu aimes",
+              "es": "tú amas",
+              "ca": "tu estimes"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "aime",
+              "tts": "il aime",
+              "es": "él ama",
+              "ca": "ell estima"
+            },
+            {
+              "pronom": "nous",
+              "forme": "aimons",
+              "tts": "nous aimons",
+              "es": "nosotros amamos",
+              "ca": "nosaltres estimem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "aimez",
+              "tts": "vous aimez",
+              "es": "vosotros amáis",
+              "ca": "vosaltres estimeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "aiment",
+              "tts": "ils aiment",
+              "es": "ellos aman",
+              "ca": "ells estimen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "2.º grupo — verbos en -IR (finir)",
+        "ca": "2n grup — verbs en -IR (finir)"
+      },
+      "verbes": [
+        {
+          "infinitif": "finir",
+          "trad": {
+            "es": "terminar",
+            "ca": "acabar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "finis",
+              "tts": "je finis",
+              "es": "yo termino",
+              "ca": "jo acabo"
+            },
+            {
+              "pronom": "tu",
+              "forme": "finis",
+              "tts": "tu finis",
+              "es": "tú terminas",
+              "ca": "tu acabes"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "finit",
+              "tts": "il finit",
+              "es": "él termina",
+              "ca": "ell acaba"
+            },
+            {
+              "pronom": "nous",
+              "forme": "finissons",
+              "tts": "nous finissons",
+              "es": "nosotros terminamos",
+              "ca": "nosaltres acabem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "finissez",
+              "tts": "vous finissez",
+              "es": "vosotros termináis",
+              "ca": "vosaltres acabeu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "finissent",
+              "tts": "ils finissent",
+              "es": "ellos terminan",
+              "ca": "ells acaben"
+            }
+          ]
+        },
+        {
+          "infinitif": "choisir",
+          "trad": {
+            "es": "elegir",
+            "ca": "triar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "choisis",
+              "tts": "je choisis",
+              "es": "yo elijo",
+              "ca": "jo trio"
+            },
+            {
+              "pronom": "tu",
+              "forme": "choisis",
+              "tts": "tu choisis",
+              "es": "tú eliges",
+              "ca": "tu tries"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "choisit",
+              "tts": "il choisit",
+              "es": "él elige",
+              "ca": "ell tria"
+            },
+            {
+              "pronom": "nous",
+              "forme": "choisissons",
+              "tts": "nous choisissons",
+              "es": "nosotros elegimos",
+              "ca": "nosaltres triem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "choisissez",
+              "tts": "vous choisissez",
+              "es": "vosotros elegís",
+              "ca": "vosaltres trieu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "choisissent",
+              "tts": "ils choisissent",
+              "es": "ellos eligen",
+              "ca": "ells trien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": {
+        "es": "3.er grupo — -RE / irregulares",
+        "ca": "3r grup — -RE / irregulars"
+      },
+      "verbes": [
+        {
+          "infinitif": "prendre",
+          "trad": {
+            "es": "tomar / coger",
+            "ca": "prendre / agafar"
+          },
+          "niveau": "A2",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "prends",
+              "tts": "je prends",
+              "es": "yo tomo",
+              "ca": "jo prenc"
+            },
+            {
+              "pronom": "tu",
+              "forme": "prends",
+              "tts": "tu prends",
+              "es": "tú tomas",
+              "ca": "tu prens"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "prend",
+              "tts": "il prend",
+              "es": "él toma",
+              "ca": "ell pren"
+            },
+            {
+              "pronom": "nous",
+              "forme": "prenons",
+              "tts": "nous prenons",
+              "es": "nosotros tomamos",
+              "ca": "nosaltres prenem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "prenez",
+              "tts": "vous prenez",
+              "es": "vosotros tomáis",
+              "ca": "vosaltres preneu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "prennent",
+              "tts": "ils prennent",
+              "es": "ellos toman",
+              "ca": "ells prenen"
+            }
+          ]
+        },
+        {
+          "infinitif": "aller",
+          "trad": {
+            "es": "ir",
+            "ca": "anar"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "vais",
+              "tts": "je vais",
+              "es": "yo voy",
+              "ca": "jo vaig"
+            },
+            {
+              "pronom": "tu",
+              "forme": "vas",
+              "tts": "tu vas",
+              "es": "tú vas",
+              "ca": "tu vas"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "va",
+              "tts": "il va",
+              "es": "él va",
+              "ca": "ell va"
+            },
+            {
+              "pronom": "nous",
+              "forme": "allons",
+              "tts": "nous allons",
+              "es": "nosotros vamos",
+              "ca": "nosaltres anem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "allez",
+              "tts": "vous allez",
+              "es": "vosotros vais",
+              "ca": "vosaltres aneu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "vont",
+              "tts": "ils vont",
+              "es": "ellos van",
+              "ca": "ells van"
+            }
+          ]
+        },
+        {
+          "infinitif": "faire",
+          "trad": {
+            "es": "hacer",
+            "ca": "fer"
+          },
+          "niveau": "A1",
+          "conjugaison": [
+            {
+              "pronom": "je",
+              "forme": "fais",
+              "tts": "je fais",
+              "es": "yo hago",
+              "ca": "jo faig"
+            },
+            {
+              "pronom": "tu",
+              "forme": "fais",
+              "tts": "tu fais",
+              "es": "tú haces",
+              "ca": "tu fas"
+            },
+            {
+              "pronom": "il/elle/on",
+              "forme": "fait",
+              "tts": "il fait",
+              "es": "él hace",
+              "ca": "ell fa"
+            },
+            {
+              "pronom": "nous",
+              "forme": "faisons",
+              "tts": "nous faisons",
+              "es": "nosotros hacemos",
+              "ca": "nosaltres fem"
+            },
+            {
+              "pronom": "vous",
+              "forme": "faites",
+              "tts": "vous faites",
+              "es": "vosotros hacéis",
+              "ca": "vosaltres feu"
+            },
+            {
+              "pronom": "ils/elles",
+              "forme": "font",
+              "tts": "ils font",
+              "es": "ellos hacen",
+              "ca": "ells fan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "phrase": "Je ___ étudiante de français. (être)",
+      "reponse": "suis",
+      "niveau": "A1",
+      "options": [
+        "suis",
+        "es",
+        "est",
+        "sont"
+      ],
+      "explication": {
+        "es": "je → suis.",
+        "ca": "je → suis."
+      }
+    },
+    {
+      "phrase": "Nous ___ à Barcelone. (habiter)",
+      "reponse": "habitons",
+      "niveau": "A1",
+      "options": [
+        "habitons",
+        "habite",
+        "habitez",
+        "habitent"
+      ],
+      "explication": {
+        "es": "nous → -ons (1.er grupo).",
+        "ca": "nous → -ons (1r grup)."
+      }
+    },
+    {
+      "phrase": "Tu ___ le métro chaque matin. (prendre)",
+      "reponse": "prends",
+      "niveau": "A2",
+      "options": [
+        "prends",
+        "prend",
+        "prenez",
+        "prennent"
+      ],
+      "explication": {
+        "es": "tu → prends (irregular).",
+        "ca": "tu → prends (irregular)."
+      }
+    },
+    {
+      "phrase": "Vous ___ vos valises. (faire)",
+      "reponse": "faites",
+      "niveau": "A2",
+      "options": [
+        "faites",
+        "faisez",
+        "font",
+        "fais"
+      ],
+      "explication": {
+        "es": "⚠️ vous faites (irregular, NO faisez).",
+        "ca": "⚠️ vous faites (irregular, NO faisez)."
+      }
+    },
+    {
+      "phrase": "Les enfants ___ vite. (finir→finissent / NO). Choisis: ils ___ leur travail. (finir)",
+      "reponse": "finissent",
+      "niveau": "A2",
+      "options": [
+        "finissent",
+        "finit",
+        "finis",
+        "finissons"
+      ],
+      "explication": {
+        "es": "ils → -issent (2.º grupo).",
+        "ca": "ils → -issent (2n grup)."
+      }
+    },
+    {
+      "phrase": "On ___ au festival ce soir. (aller)",
+      "reponse": "va",
+      "niveau": "A1",
+      "options": [
+        "va",
+        "vont",
+        "allons",
+        "vais"
+      ],
+      "explication": {
+        "es": "'on' lleva forma de il → va.",
+        "ca": "'on' porta forma de il → va."
+      }
+    }
+  ]
+}

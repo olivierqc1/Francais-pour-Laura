@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pronunciación — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.pron-row {
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.pron-row:last-child { border-bottom: none; }
+.son-btn {
+  width: 2.2rem; height: 2.2rem;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg3);
+  color: var(--gold-light);
+  cursor: pointer;
+  font-size: 1rem;
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.18s;
+  flex-shrink: 0;
+}
+.son-btn:hover { background: var(--maple); color: white; border-color: var(--maple); transform: scale(1.05); }
+.son-btn:active { transform: scale(0.92); }
+.pron-mot {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.15rem; font-weight: 600; color: var(--cream);
+}
+.pron-ipa { font-family: 'Outfit', sans-serif; font-size: 0.82rem; color: var(--sky); margin-left: 0.4rem; font-weight: 400; }
+.pron-trad { font-size: 0.82rem; color: var(--text-dim); margin-top: 0.1rem; line-height: 1.4; }
+.son-label {
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-weight: 600; margin: 1.1rem 0 0.4rem;
+}
+.son-label.nasal { color: var(--sage); }
+.son-label.pas-nasal { color: var(--maple-light); }
+.son-label.neutre { color: var(--gold); }
+.ec-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; margin-top: 0.4rem; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" class="active" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html" class="active"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">🔊 <span data-es="Módulo" data-ca="Mòdul">Módulo</span></div>
+    <h1 data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</h1>
+    <p data-es="Los sonidos del francés que no existen en español. Pulsa 🔊 para escuchar cada ejemplo." data-ca="Els sons del francès que no existeixen en castellà. Prem 🔊 per escoltar cada exemple.">Los sonidos del francés que no existen en español. Pulsa 🔊 para escuchar cada ejemplo.</p>
+  </div>
+
+  <div class="tabs" id="mod-tabs"></div>
+  <div id="content"></div>
+</div>
+</div>
+
+<script src="../js/lang.js"></script>
+<script>
+let modules = [], modData = {}, curIdx = 0, ecouteData = null, voicesCache = [];
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+
+// --- Synthèse vocale (audio) ---
+function loadVoices() { voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) {
+  loadVoices();
+  speechSynthesis.onvoiceschanged = loadVoices;
+}
+function say(text) {
+  if (!('speechSynthesis' in window)) { alert(lang() === 'es' ? 'Tu navegador no soporta audio.' : 'El teu navegador no suporta àudio.'); return; }
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'fr-CA';
+  const v = voicesCache.find(x => x.lang === 'fr-CA')
+         || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
+  if (v) u.voice = v;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+function esc(s) { return (s || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'"); }
+
+// --- Chargement ---
+async function load() {
+  const r = await fetch('../data/prononciation/index.json');
+  const idx = await r.json();
+  modules = idx.modules;
+  await Promise.all(modules.map(async m => {
+    const res = await fetch('../' + m.fichier);
+    modData[m.id] = await res.json();
+  }));
+  renderTabs();
+  renderModule(0);
+}
+
+function renderTabs() {
+  const l = lang();
+  const el = document.getElementById('mod-tabs');
+  el.innerHTML = '';
+  modules.forEach((m, i) => {
+    const b = document.createElement('button');
+    b.className = 'tab' + (i === curIdx ? ' active' : '');
+    b.textContent = (m.icone ? m.icone + ' ' : '') + m.titre[l];
+    b.onclick = () => renderModule(i);
+    el.appendChild(b);
+  });
+}
+
+function renderModule(i) {
+  curIdx = i;
+  renderTabs();
+  const m = modules[i];
+  const d = modData[m.id];
+  const l = lang();
+  let html = '';
+  if (d.intro) html += `<div class="info-box fade-up">${d.intro[l]}</div>`;
+  if (m.id === 'ecoute' || d.exercices) {
+    ecouteData = d;
+    html += renderEcoute(d, l);
+  } else if (d.regles) {
+    html += d.regles.map(r => renderRegle(r, l)).join('');
+  }
+  document.getElementById('content').innerHTML = html;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function exBlock(label, cls, arr, l) {
+  if (!arr || !arr.length) return '';
+  const rows = arr.map(e => `
+    <div class="pron-row">
+      <button class="son-btn" title="${l === 'es' ? 'Escuchar' : 'Escoltar'}" onclick="say('${esc(e.tts || e.mot)}')">🔊</button>
+      <div>
+        <div class="pron-mot">${e.mot}${e.phonetique ? `<span class="pron-ipa">${e.phonetique}</span>` : ''}</div>
+        <div class="pron-trad">${e[l]}</div>
+      </div>
+    </div>`).join('');
+  return `<div class="son-label ${cls}">${label}</div>${rows}`;
+}
+
+function renderRegle(r, l) {
+  const nasal = exBlock(l === 'es' ? '✅ CON sonido nasal' : '✅ AMB so nasal', 'nasal', r.exemples_nasal, l);
+  const pas = exBlock(l === 'es' ? '❌ SIN sonido nasal' : '❌ SENSE so nasal', 'pas-nasal', r.exemples_pas_nasal, l);
+  const plain = exBlock(l === 'es' ? '🔊 EJEMPLOS' : '🔊 EXEMPLES', 'neutre', r.exemples, l);
+  return `
+    <div class="card fade-up">
+      <div class="section-title">${r.titre[l]}</div>
+      <div class="info-box" style="margin-top:0.6rem">${r.description[l]}</div>
+      ${nasal}${pas}${plain}
+    </div>`;
+}
+
+function renderEcoute(d, l) {
+  return d.exercices.map((e, i) => `
+    <div class="card fade-up">
+      <div class="poem-meta" style="margin-bottom:0.6rem">
+        <span class="tag tag-gold">${e.niveau}</span>
+      </div>
+      <div class="ec-actions">
+        <button class="btn btn-primary" onclick="say('${esc(e.tts || e.texte)}')">🔊 ${l === 'es' ? 'Escuchar' : 'Escoltar'}</button>
+        <button class="btn btn-ghost" onclick="reveal(${i})">${l === 'es' ? '👁 Mostrar respuesta' : '👁 Mostrar resposta'}</button>
+      </div>
+      <label class="reading-q-label">${l === 'es' ? 'Escribe lo que oíste:' : 'Escriu el que has sentit:'}</label>
+      <input class="reading-input" type="text" id="ec-${i}" placeholder="...">
+      <div id="rev-${i}" style="margin-top:0.6rem"></div>
+    </div>`).join('');
+}
+
+function reveal(i) {
+  const e = ecouteData.exercices[i];
+  const l = lang();
+  const note = e.note ? `<div class="explication">💡 ${e.note[l]}</div>` : '';
+  document.getElementById('rev-' + i).innerHTML = `
+    <div class="feedback-box show correct">
+      🇫🇷 <strong>${e.texte}</strong>
+      <div class="explication">🇪🇸 ${e[l]}</div>
+      ${note}
+    </div>`;
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  load();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => renderModule(curIdx), 0));
+  });
+});
+</script>
+</body>
+</html>

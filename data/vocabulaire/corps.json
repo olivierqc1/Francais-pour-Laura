@@ -1,100 +1,29 @@
 {
   "id": "corps",
-  "nom": {
-    "es": "El cuerpo y la salud",
-    "ca": "El cos i la salut"
-  },
+  "nom": { "es": "El cuerpo y la salud", "ca": "El cos i la salut" },
   "emoji": "🧍",
   "mots": [
-    {
-      "fr": "la tête",
-      "emoji": "🗣️",
-      "es": "la cabeza",
-      "ca": "el cap",
-      "exemple": "J'ai mal à la tête aujourd'hui.",
-      "exemple_es": "Hoy me duele la cabeza.",
-      "exemple_ca": "Avui em fa mal el cap."
-    },
-    {
-      "fr": "la main",
-      "emoji": "✋",
-      "es": "la mano",
-      "ca": "la mà",
-      "exemple": "Lave-toi les mains avant de manger.",
-      "exemple_es": "Lávate las manos antes de comer.",
-      "exemple_ca": "Renta't les mans abans de menjar."
-    },
-    {
-      "fr": "le pied",
-      "emoji": "🦶",
-      "es": "el pie",
-      "ca": "el peu",
-      "exemple": "J'ai mal aux pieds après la course.",
-      "exemple_es": "Me duelen los pies tras correr.",
-      "exemple_ca": "Em fan mal els peus després de córrer."
-    },
-    {
-      "fr": "les yeux",
-      "emoji": "👀",
-      "es": "los ojos",
-      "ca": "els ulls",
-      "exemple": "Elle a les yeux bleus.",
-      "exemple_es": "Tiene los ojos azules.",
-      "exemple_ca": "Té els ulls blaus."
-    },
-    {
-      "fr": "le cœur",
-      "emoji": "❤️",
-      "es": "el corazón",
-      "ca": "el cor",
-      "exemple": "Le sport est bon pour le cœur.",
-      "exemple_es": "El deporte es bueno para el corazón.",
-      "exemple_ca": "L'esport és bo per al cor."
-    },
-    {
-      "fr": "la jambe",
-      "emoji": "🦵",
-      "es": "la pierna",
-      "ca": "la cama",
-      "exemple": "Le coureur s'est blessé à la jambe.",
-      "exemple_es": "El corredor se lesionó la pierna.",
-      "exemple_ca": "El corredor es va lesionar la cama."
-    },
-    {
-      "fr": "le dos",
-      "emoji": "🔙",
-      "es": "la espalda",
-      "ca": "l'esquena",
-      "exemple": "J'ai mal au dos après le travail.",
-      "exemple_es": "Me duele la espalda tras el trabajo.",
-      "exemple_ca": "Em fa mal l'esquena després de la feina."
-    },
-    {
-      "fr": "malade",
-      "emoji": "🤒",
-      "es": "enfermo/a",
-      "ca": "malalt/a",
-      "exemple": "Je suis malade, je reste à la maison.",
-      "exemple_es": "Estoy enfermo, me quedo en casa.",
-      "exemple_ca": "Estic malalt, em quedo a casa."
-    },
-    {
-      "fr": "le médecin",
-      "emoji": "👨‍⚕️",
-      "es": "el médico",
-      "ca": "el metge",
-      "exemple": "Je vais chez le médecin demain.",
-      "exemple_es": "Voy al médico mañana.",
-      "exemple_ca": "Vaig al metge demà."
-    },
-    {
-      "fr": "fatigué",
-      "emoji": "😴",
-      "es": "cansado/a",
-      "ca": "cansat/da",
-      "exemple": "Après l'ultra, je suis très fatigué.",
-      "exemple_es": "Tras el ultra, estoy muy cansado.",
-      "exemple_ca": "Després de l'ultra, estic molt cansat."
-    }
+    { "fr": "la tête", "emoji": "🗣️", "es": "la cabeza", "ca": "el cap", "exemple": "J'ai mal à la tête aujourd'hui.", "exemple_es": "Hoy me duele la cabeza.", "exemple_ca": "Avui em fa mal el cap." },
+    { "fr": "la main", "emoji": "✋", "es": "la mano", "ca": "la mà", "exemple": "Lave-toi les mains avant de manger.", "exemple_es": "Lávate las manos antes de comer.", "exemple_ca": "Renta't les mans abans de menjar." },
+    { "fr": "le pied", "emoji": "🦶", "es": "el pie", "ca": "el peu", "exemple": "J'ai mal aux pieds après la course.", "exemple_es": "Me duelen los pies tras correr.", "exemple_ca": "Em fan mal els peus després de córrer." },
+    { "fr": "les yeux", "emoji": "👀", "es": "los ojos", "ca": "els ulls", "exemple": "Elle a les yeux bleus.", "exemple_es": "Tiene los ojos azules.", "exemple_ca": "Té els ulls blaus." },
+    { "fr": "le cœur", "emoji": "❤️", "es": "el corazón", "ca": "el cor", "exemple": "Le sport est bon pour le cœur.", "exemple_es": "El deporte es bueno para el corazón.", "exemple_ca": "L'esport és bo per al cor." },
+    { "fr": "la jambe", "emoji": "🦵", "es": "la pierna", "ca": "la cama", "exemple": "Le coureur s'est blessé à la jambe.", "exemple_es": "El corredor se lesionó la pierna.", "exemple_ca": "El corredor es va lesionar la cama." },
+    { "fr": "le dos", "emoji": "🔙", "es": "la espalda", "ca": "l'esquena", "exemple": "J'ai mal au dos après le travail.", "exemple_es": "Me duele la espalda tras el trabajo.", "exemple_ca": "Em fa mal l'esquena després de la feina." },
+    { "fr": "malade", "emoji": "🤒", "es": "enfermo/a", "ca": "malalt/a", "exemple": "Je suis malade, je reste à la maison.", "exemple_es": "Estoy enfermo, me quedo en casa.", "exemple_ca": "Estic malalt, em quedo a casa." },
+    { "fr": "le médecin", "emoji": "👨‍⚕️", "es": "el médico", "ca": "el metge", "exemple": "Je vais chez le médecin demain.", "exemple_es": "Voy al médico mañana.", "exemple_ca": "Vaig al metge demà." },
+    { "fr": "fatigué", "emoji": "😴", "es": "cansado/a", "ca": "cansat/da", "exemple": "Après l'ultra, je suis très fatigué.", "exemple_es": "Tras el ultra, estoy muy cansado.", "exemple_ca": "Després de l'ultra, estic molt cansat." },
+    { "fr": "le bras", "emoji": "💪", "es": "el brazo", "ca": "el braç", "exemple": "Il porte le sac sur son bras.", "exemple_es": "Lleva la bolsa en el brazo.", "exemple_ca": "Porta la bossa al braç." },
+    { "fr": "la bouche", "emoji": "👄", "es": "la boca", "ca": "la boca", "exemple": "Ouvre la bouche, dit le dentiste.", "exemple_es": "Abre la boca, dice el dentista.", "exemple_ca": "Obre la boca, diu el dentista." },
+    { "fr": "le nez", "emoji": "👃", "es": "la nariz", "ca": "el nas", "exemple": "Mon nez est froid en hiver.", "exemple_es": "Mi nariz está fría en invierno.", "exemple_ca": "El meu nas està fred a l'hivern." },
+    { "fr": "l'oreille", "emoji": "👂", "es": "la oreja / el oído", "ca": "l'orella", "exemple": "J'écoute de la musique dans mes oreilles.", "exemple_es": "Escucho música en los oídos.", "exemple_ca": "Escolto música a les orelles." },
+    { "fr": "les cheveux", "emoji": "💇", "es": "el pelo", "ca": "els cabells", "exemple": "Elle a les cheveux longs.", "exemple_es": "Tiene el pelo largo.", "exemple_ca": "Té els cabells llargs." },
+    { "fr": "le ventre", "emoji": "🤰", "es": "la barriga / el vientre", "ca": "la panxa", "exemple": "J'ai mal au ventre.", "exemple_es": "Me duele la barriga.", "exemple_ca": "Em fa mal la panxa." },
+    { "fr": "la dent", "emoji": "🦷", "es": "el diente", "ca": "la dent", "exemple": "Je me brosse les dents le soir.", "exemple_es": "Me cepillo los dientes por la noche.", "exemple_ca": "Em raspallo les dents al vespre." },
+    { "fr": "le doigt", "emoji": "👆", "es": "el dedo", "ca": "el dit", "exemple": "Je me suis coupé le doigt.", "exemple_es": "Me he cortado el dedo.", "exemple_ca": "M'he tallat el dit." },
+    { "fr": "le visage", "emoji": "🙂", "es": "la cara", "ca": "la cara", "exemple": "Le froid me brûle le visage.", "exemple_es": "El frío me quema la cara.", "exemple_ca": "El fred em crema la cara." },
+    { "fr": "avoir faim", "emoji": "🍽️", "es": "tener hambre", "ca": "tenir gana", "exemple": "J'ai faim, on mange ?", "exemple_es": "Tengo hambre, ¿comemos?", "exemple_ca": "Tinc gana, mengem?" },
+    { "fr": "avoir soif", "emoji": "🥤", "es": "tener sed", "ca": "tenir set", "exemple": "Après la course, j'ai soif.", "exemple_es": "Tras correr, tengo sed.", "exemple_ca": "Després de córrer, tinc set." },
+    { "fr": "se reposer", "emoji": "😌", "es": "descansar", "ca": "descansar", "exemple": "Je dois me reposer après l'entraînement.", "exemple_es": "Tengo que descansar tras el entrenamiento.", "exemple_ca": "He de descansar després de l'entrenament." }
   ]
 }

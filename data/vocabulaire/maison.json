@@ -1,100 +1,29 @@
 {
   "id": "maison",
-  "nom": {
-    "es": "La casa",
-    "ca": "La casa"
-  },
+  "nom": { "es": "La casa", "ca": "La casa" },
   "emoji": "🏠",
   "mots": [
-    {
-      "fr": "la maison",
-      "emoji": "🏠",
-      "es": "la casa",
-      "ca": "la casa",
-      "exemple": "Ma maison est près de la Sagrada Família.",
-      "exemple_es": "Mi casa está cerca de la Sagrada Família.",
-      "exemple_ca": "La meva casa és a prop de la Sagrada Família."
-    },
-    {
-      "fr": "la chambre",
-      "emoji": "🛏️",
-      "es": "el dormitorio",
-      "ca": "el dormitori",
-      "exemple": "La chambre est au deuxième étage.",
-      "exemple_es": "El dormitorio está en el segundo piso.",
-      "exemple_ca": "El dormitori és al segon pis."
-    },
-    {
-      "fr": "la cuisine",
-      "emoji": "🍳",
-      "es": "la cocina",
-      "ca": "la cuina",
-      "exemple": "On prépare le souper dans la cuisine.",
-      "exemple_es": "Preparamos la cena en la cocina.",
-      "exemple_ca": "Preparem el sopar a la cuina."
-    },
-    {
-      "fr": "la salle de bain",
-      "emoji": "🛁",
-      "es": "el baño",
-      "ca": "el bany",
-      "exemple": "La salle de bain est petite mais propre.",
-      "exemple_es": "El baño es pequeño pero limpio.",
-      "exemple_ca": "El bany és petit però net."
-    },
-    {
-      "fr": "la porte",
-      "emoji": "🚪",
-      "es": "la puerta",
-      "ca": "la porta",
-      "exemple": "Ferme la porte, il fait froid !",
-      "exemple_es": "¡Cierra la puerta, hace frío!",
-      "exemple_ca": "Tanca la porta, fa fred!"
-    },
-    {
-      "fr": "la fenêtre",
-      "emoji": "🪟",
-      "es": "la ventana",
-      "ca": "la finestra",
-      "exemple": "Par la fenêtre, on voit la neige.",
-      "exemple_es": "Por la ventana, se ve la nieve.",
-      "exemple_ca": "Per la finestra, es veu la neu."
-    },
-    {
-      "fr": "la table",
-      "emoji": "🪑",
-      "es": "la mesa",
-      "ca": "la taula",
-      "exemple": "On mange tous ensemble à table.",
-      "exemple_es": "Comemos todos juntos en la mesa.",
-      "exemple_ca": "Mengem tots junts a taula."
-    },
-    {
-      "fr": "le lit",
-      "emoji": "🛌",
-      "es": "la cama",
-      "ca": "el llit",
-      "exemple": "Le matin, je fais mon lit.",
-      "exemple_es": "Por la mañana, hago la cama.",
-      "exemple_ca": "Al matí, faig el llit."
-    },
-    {
-      "fr": "le salon",
-      "emoji": "🛋️",
-      "es": "el salón",
-      "ca": "la sala",
-      "exemple": "On regarde la télé au salon.",
-      "exemple_es": "Vemos la tele en el salón.",
-      "exemple_ca": "Veiem la tele a la sala."
-    },
-    {
-      "fr": "la clé",
-      "emoji": "🔑",
-      "es": "la llave",
-      "ca": "la clau",
-      "exemple": "J'ai perdu mes clés ce matin.",
-      "exemple_es": "Perdí las llaves esta mañana.",
-      "exemple_ca": "He perdut les claus aquest matí."
-    }
+    { "fr": "la maison", "emoji": "🏠", "es": "la casa", "ca": "la casa", "exemple": "Ma maison est près de la Sagrada Família.", "exemple_es": "Mi casa está cerca de la Sagrada Família.", "exemple_ca": "La meva casa és a prop de la Sagrada Família." },
+    { "fr": "la chambre", "emoji": "🛏️", "es": "el dormitorio", "ca": "el dormitori", "exemple": "La chambre est au deuxième étage.", "exemple_es": "El dormitorio está en el segundo piso.", "exemple_ca": "El dormitori és al segon pis." },
+    { "fr": "la cuisine", "emoji": "🍳", "es": "la cocina", "ca": "la cuina", "exemple": "On prépare le souper dans la cuisine.", "exemple_es": "Preparamos la cena en la cocina.", "exemple_ca": "Preparem el sopar a la cuina." },
+    { "fr": "la salle de bain", "emoji": "🛁", "es": "el baño", "ca": "el bany", "exemple": "La salle de bain est petite mais propre.", "exemple_es": "El baño es pequeño pero limpio.", "exemple_ca": "El bany és petit però net." },
+    { "fr": "la porte", "emoji": "🚪", "es": "la puerta", "ca": "la porta", "exemple": "Ferme la porte, il fait froid !", "exemple_es": "¡Cierra la puerta, hace frío!", "exemple_ca": "Tanca la porta, fa fred!" },
+    { "fr": "la fenêtre", "emoji": "🪟", "es": "la ventana", "ca": "la finestra", "exemple": "Par la fenêtre, on voit la neige.", "exemple_es": "Por la ventana, se ve la nieve.", "exemple_ca": "Per la finestra, es veu la neu." },
+    { "fr": "la table", "emoji": "🪑", "es": "la mesa", "ca": "la taula", "exemple": "On mange tous ensemble à table.", "exemple_es": "Comemos todos juntos en la mesa.", "exemple_ca": "Mengem tots junts a taula." },
+    { "fr": "le lit", "emoji": "🛌", "es": "la cama", "ca": "el llit", "exemple": "Le matin, je fais mon lit.", "exemple_es": "Por la mañana, hago la cama.", "exemple_ca": "Al matí, faig el llit." },
+    { "fr": "le salon", "emoji": "🛋️", "es": "el salón", "ca": "la sala", "exemple": "On regarde la télé au salon.", "exemple_es": "Vemos la tele en el salón.", "exemple_ca": "Veiem la tele a la sala." },
+    { "fr": "la clé", "emoji": "🔑", "es": "la llave", "ca": "la clau", "exemple": "J'ai perdu mes clés ce matin.", "exemple_es": "Perdí las llaves esta mañana.", "exemple_ca": "He perdut les claus aquest matí." },
+    { "fr": "le mur", "emoji": "🧱", "es": "la pared", "ca": "la paret", "exemple": "Il y a une photo sur le mur.", "exemple_es": "Hay una foto en la pared.", "exemple_ca": "Hi ha una foto a la paret." },
+    { "fr": "le toit", "emoji": "🏠", "es": "el tejado", "ca": "la teulada", "exemple": "La neige s'accumule sur le toit.", "exemple_es": "La nieve se acumula en el tejado.", "exemple_ca": "La neu s'acumula a la teulada." },
+    { "fr": "le plancher", "emoji": "🪵", "es": "el suelo", "ca": "el terra", "exemple": "Le plancher est en bois.", "exemple_es": "El suelo es de madera.", "exemple_ca": "El terra és de fusta." },
+    { "fr": "l'escalier", "emoji": "🪜", "es": "la escalera", "ca": "l'escala", "exemple": "Je monte l'escalier en courant.", "exemple_es": "Subo la escalera corriendo.", "exemple_ca": "Pujo l'escala corrent." },
+    { "fr": "le frigo", "emoji": "🧊", "es": "la nevera", "ca": "la nevera", "exemple": "Le lait est dans le frigo.", "exemple_es": "La leche está en la nevera.", "exemple_ca": "La llet és a la nevera." },
+    { "fr": "le four", "emoji": "🔥", "es": "el horno", "ca": "el forn", "exemple": "Le gâteau cuit dans le four.", "exemple_es": "El pastel se cuece en el horno.", "exemple_ca": "El pastís es cou al forn." },
+    { "fr": "la chaise", "emoji": "🪑", "es": "la silla", "ca": "la cadira", "exemple": "Assieds-toi sur la chaise.", "exemple_es": "Siéntate en la silla.", "exemple_ca": "Seu a la cadira." },
+    { "fr": "le sofa", "emoji": "🛋️", "es": "el sofá", "ca": "el sofà", "exemple": "Le chat dort sur le sofa.", "exemple_es": "El gato duerme en el sofá.", "exemple_ca": "El gat dorm al sofà." },
+    { "fr": "la lampe", "emoji": "💡", "es": "la lámpara", "ca": "el llum", "exemple": "Allume la lampe, il fait noir.", "exemple_es": "Enciende la lámpara, está oscuro.", "exemple_ca": "Encén el llum, és fosc." },
+    { "fr": "le miroir", "emoji": "🪞", "es": "el espejo", "ca": "el mirall", "exemple": "Je me regarde dans le miroir.", "exemple_es": "Me miro en el espejo.", "exemple_ca": "Em miro al mirall." },
+    { "fr": "la garde-robe", "emoji": "🚪", "es": "el armario", "ca": "l'armari", "exemple": "Mes manteaux sont dans la garde-robe.", "exemple_es": "Mis abrigos están en el armario.", "exemple_ca": "Els meus abrics són a l'armari." },
+    { "fr": "le balcon", "emoji": "🪴", "es": "el balcón", "ca": "el balcó", "exemple": "On prend un café sur le balcon.", "exemple_es": "Tomamos un café en el balcón.", "exemple_ca": "Prenem un cafè al balcó." }
   ]
 }

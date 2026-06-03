@@ -1,100 +1,28 @@
 {
   "id": "famille",
-  "nom": {
-    "es": "Familia y personas",
-    "ca": "Família i persones"
-  },
+  "nom": { "es": "Familia y personas", "ca": "Família i persones" },
   "emoji": "👨‍👩‍👧",
   "mots": [
-    {
-      "fr": "la mère",
-      "emoji": "👩",
-      "es": "la madre",
-      "ca": "la mare",
-      "exemple": "Ma mère habite au Québec.",
-      "exemple_es": "Mi madre vive en Quebec.",
-      "exemple_ca": "La meva mare viu al Quebec."
-    },
-    {
-      "fr": "le père",
-      "emoji": "👨",
-      "es": "el padre",
-      "ca": "el pare",
-      "exemple": "Mon père aime la pêche.",
-      "exemple_es": "A mi padre le gusta pescar.",
-      "exemple_ca": "Al meu pare li agrada pescar."
-    },
-    {
-      "fr": "le frère",
-      "emoji": "👦",
-      "es": "el hermano",
-      "ca": "el germà",
-      "exemple": "J'ai un frère plus jeune.",
-      "exemple_es": "Tengo un hermano menor.",
-      "exemple_ca": "Tinc un germà més jove."
-    },
-    {
-      "fr": "la sœur",
-      "emoji": "👧",
-      "es": "la hermana",
-      "ca": "la germana",
-      "exemple": "Ma sœur étudie à Montréal.",
-      "exemple_es": "Mi hermana estudia en Montreal.",
-      "exemple_ca": "La meva germana estudia a Mont-real."
-    },
-    {
-      "fr": "l'ami",
-      "emoji": "🧑‍🤝‍🧑",
-      "es": "el amigo",
-      "ca": "l'amic",
-      "exemple": "Mon ami vient souper ce soir.",
-      "exemple_es": "Mi amigo viene a cenar esta noche.",
-      "exemple_ca": "El meu amic ve a sopar aquest vespre."
-    },
-    {
-      "fr": "l'enfant",
-      "emoji": "🧒",
-      "es": "el niño",
-      "ca": "l'infant",
-      "exemple": "Les enfants jouent dans la neige.",
-      "exemple_es": "Los niños juegan en la nieve.",
-      "exemple_ca": "Els infants juguen a la neu."
-    },
-    {
-      "fr": "la femme",
-      "emoji": "👩‍🦰",
-      "es": "la mujer",
-      "ca": "la dona",
-      "exemple": "Cette femme parle quatre langues.",
-      "exemple_es": "Esa mujer habla cuatro idiomas.",
-      "exemple_ca": "Aquesta dona parla quatre llengües."
-    },
-    {
-      "fr": "l'homme",
-      "emoji": "👨‍🦱",
-      "es": "el hombre",
-      "ca": "l'home",
-      "exemple": "L'homme attend l'autobus.",
-      "exemple_es": "El hombre espera el autobús.",
-      "exemple_ca": "L'home espera l'autobús."
-    },
-    {
-      "fr": "le voisin",
-      "emoji": "🏘️",
-      "es": "el vecino",
-      "ca": "el veí",
-      "exemple": "Mon voisin est très gentil.",
-      "exemple_es": "Mi vecino es muy amable.",
-      "exemple_ca": "El meu veí és molt amable."
-    },
-    {
-      "fr": "les gens",
-      "emoji": "👥",
-      "es": "la gente",
-      "ca": "la gent",
-      "exemple": "Les gens du pays sont accueillants.",
-      "exemple_es": "La gente del país es acogedora.",
-      "exemple_ca": "La gent del país és acollidora."
-    }
+    { "fr": "la mère", "emoji": "👩", "es": "la madre", "ca": "la mare", "exemple": "Ma mère habite au Québec.", "exemple_es": "Mi madre vive en Quebec.", "exemple_ca": "La meva mare viu al Quebec." },
+    { "fr": "le père", "emoji": "👨", "es": "el padre", "ca": "el pare", "exemple": "Mon père aime la pêche.", "exemple_es": "A mi padre le gusta pescar.", "exemple_ca": "Al meu pare li agrada pescar." },
+    { "fr": "le frère", "emoji": "👦", "es": "el hermano", "ca": "el germà", "exemple": "J'ai un frère plus jeune.", "exemple_es": "Tengo un hermano menor.", "exemple_ca": "Tinc un germà més jove." },
+    { "fr": "la sœur", "emoji": "👧", "es": "la hermana", "ca": "la germana", "exemple": "Ma sœur étudie à Montréal.", "exemple_es": "Mi hermana estudia en Montreal.", "exemple_ca": "La meva germana estudia a Mont-real." },
+    { "fr": "l'ami", "emoji": "🧑‍🤝‍🧑", "es": "el amigo", "ca": "l'amic", "exemple": "Mon ami vient souper ce soir.", "exemple_es": "Mi amigo viene a cenar esta noche.", "exemple_ca": "El meu amic ve a sopar aquest vespre." },
+    { "fr": "l'enfant", "emoji": "🧒", "es": "el niño", "ca": "l'infant", "exemple": "Les enfants jouent dans la neige.", "exemple_es": "Los niños juegan en la nieve.", "exemple_ca": "Els infants juguen a la neu." },
+    { "fr": "la femme", "emoji": "👩‍🦰", "es": "la mujer", "ca": "la dona", "exemple": "Cette femme parle quatre langues.", "exemple_es": "Esa mujer habla cuatro idiomas.", "exemple_ca": "Aquesta dona parla quatre llengües." },
+    { "fr": "l'homme", "emoji": "👨‍🦱", "es": "el hombre", "ca": "l'home", "exemple": "L'homme attend l'autobus.", "exemple_es": "El hombre espera el autobús.", "exemple_ca": "L'home espera l'autobús." },
+    { "fr": "le voisin", "emoji": "🏘️", "es": "el vecino", "ca": "el veí", "exemple": "Mon voisin est très gentil.", "exemple_es": "Mi vecino es muy amable.", "exemple_ca": "El meu veí és molt amable." },
+    { "fr": "les gens", "emoji": "👥", "es": "la gente", "ca": "la gent", "exemple": "Les gens du pays sont accueillants.", "exemple_es": "La gente del país es acogedora.", "exemple_ca": "La gent del país és acollidora." },
+    { "fr": "la grand-mère", "emoji": "👵", "es": "la abuela", "ca": "l'àvia", "exemple": "Ma grand-mère fait de la tourtière.", "exemple_es": "Mi abuela hace tourtière.", "exemple_ca": "La meva àvia fa tourtière." },
+    { "fr": "le grand-père", "emoji": "👴", "es": "el abuelo", "ca": "l'avi", "exemple": "Mon grand-père raconte des histoires.", "exemple_es": "Mi abuelo cuenta historias.", "exemple_ca": "El meu avi explica històries." },
+    { "fr": "la fille", "emoji": "👧", "es": "la hija / la chica", "ca": "la filla / la noia", "exemple": "Leur fille apprend le français.", "exemple_es": "Su hija aprende francés.", "exemple_ca": "La seva filla aprèn francès." },
+    { "fr": "le fils", "emoji": "👦", "es": "el hijo", "ca": "el fill", "exemple": "Son fils joue au hockey.", "exemple_es": "Su hijo juega al hockey.", "exemple_ca": "El seu fill juga a hoquei." },
+    { "fr": "les parents", "emoji": "👨‍👩‍👧", "es": "los padres", "ca": "els pares", "exemple": "Mes parents vivent à Laval.", "exemple_es": "Mis padres viven en Laval.", "exemple_ca": "Els meus pares viuen a Laval." },
+    { "fr": "le mari", "emoji": "🤵", "es": "el marido", "ca": "el marit", "exemple": "Son mari est québécois.", "exemple_es": "Su marido es quebequense.", "exemple_ca": "El seu marit és quebequès." },
+    { "fr": "la tante", "emoji": "👩", "es": "la tía", "ca": "la tieta", "exemple": "Ma tante habite en Gaspésie.", "exemple_es": "Mi tía vive en la Gaspesia.", "exemple_ca": "La meva tieta viu a la Gaspésie." },
+    { "fr": "l'oncle", "emoji": "👨", "es": "el tío", "ca": "l'oncle", "exemple": "Mon oncle a une cabane à sucre.", "exemple_es": "Mi tío tiene una cabaña del azúcar.", "exemple_ca": "El meu oncle té una cabana del sucre." },
+    { "fr": "le bébé", "emoji": "👶", "es": "el bebé", "ca": "el nadó", "exemple": "Le bébé dort enfin.", "exemple_es": "El bebé por fin duerme.", "exemple_ca": "El nadó per fi dorm." },
+    { "fr": "le collègue", "emoji": "💼", "es": "el compañero de trabajo", "ca": "el company de feina", "exemple": "Mes collègues sont sympathiques.", "exemple_es": "Mis compañeros son simpáticos.", "exemple_ca": "Els meus companys són simpàtics." },
+    { "fr": "le cousin", "emoji": "🧑", "es": "el primo", "ca": "el cosí", "exemple": "Mon cousin vit à Québec.", "exemple_es": "Mi primo vive en Quebec.", "exemple_ca": "El meu cosí viu a Quebec." }
   ]
 }

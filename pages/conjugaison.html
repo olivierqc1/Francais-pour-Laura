@@ -46,6 +46,7 @@
       <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
       <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+      <a href="compte.html" data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</a>
     </div>
     <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
   </div>
@@ -56,7 +57,7 @@
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
   <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
-  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+  <a href="compte.html"><span class="icon">⭐</span><span data-es="Yo" data-ca="Jo">Yo</span></a>
 </div>
 
 <div class="page-wrap">
@@ -106,6 +107,9 @@
 </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let index=null, current=null, nivFilter='all', qIdx=0, score=0, answered=false, qList=[], voicesCache=[];
@@ -199,6 +203,8 @@ function checkAns(){
   const q=qList[qIdx], l=lang();
   const correct = norm(val)===norm(q.reponse);
   if(correct)score++;
+  // Enregistre la progression (section conjugaison + le temps actuel)
+  if(window.Progress) Progress.recordExercise('conjugaison', current.id, correct);
   const fb=document.getElementById('q-feedback'); fb.className='feedback-box show '+(correct?'correct':'wrong');
   let head;
   if(correct){ head=(l==='es'?'\u2705 \u00A1Correcto! \u2192 ':'\u2705 Correcte! \u2192 ')+'<strong>'+q.reponse+'</strong>'; }

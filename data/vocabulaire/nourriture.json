@@ -1,118 +1,31 @@
 {
   "id": "nourriture",
-  "nom": {
-    "es": "Comida y bebida",
-    "ca": "Menjar i beguda"
-  },
+  "nom": { "es": "Comida y bebida", "ca": "Menjar i beguda" },
   "emoji": "🍽️",
   "mots": [
-    {
-      "fr": "le pain",
-      "emoji": "🍞",
-      "es": "el pan",
-      "ca": "el pa",
-      "exemple": "J'achète du pain frais le matin.",
-      "exemple_es": "Compro pan fresco por la mañana.",
-      "exemple_ca": "Compro pa fresc al matí."
-    },
-    {
-      "fr": "le fromage",
-      "emoji": "🧀",
-      "es": "el queso",
-      "ca": "el formatge",
-      "exemple": "Le Québec produit d'excellents fromages.",
-      "exemple_es": "Quebec produce excelentes quesos.",
-      "exemple_ca": "El Quebec produeix formatges excel·lents."
-    },
-    {
-      "fr": "le vin",
-      "emoji": "🍷",
-      "es": "el vino",
-      "ca": "el vi",
-      "exemple": "On boit du vin rouge avec le souper.",
-      "exemple_es": "Bebemos vino tinto con la cena.",
-      "exemple_ca": "Bevem vi negre amb el sopar."
-    },
-    {
-      "fr": "l'eau",
-      "emoji": "💧",
-      "es": "el agua",
-      "ca": "l'aigua",
-      "exemple": "Je bois beaucoup d'eau quand je cours.",
-      "exemple_es": "Bebo mucha agua cuando corro.",
-      "exemple_ca": "Bec molta aigua quan corro."
-    },
-    {
-      "fr": "le café",
-      "emoji": "☕",
-      "es": "el café",
-      "ca": "el cafè",
-      "exemple": "Je prends un café le matin.",
-      "exemple_es": "Tomo un café por la mañana.",
-      "exemple_ca": "Prenc un cafè al matí."
-    },
-    {
-      "fr": "la viande",
-      "emoji": "🥩",
-      "es": "la carne",
-      "ca": "la carn",
-      "exemple": "La tourtière est faite de viande.",
-      "exemple_es": "La tourtière está hecha de carne.",
-      "exemple_ca": "La tourtière està feta de carn."
-    },
-    {
-      "fr": "le poisson",
-      "emoji": "🐟",
-      "es": "el pescado",
-      "ca": "el peix",
-      "exemple": "On mange du poisson le vendredi.",
-      "exemple_es": "Comemos pescado los viernes.",
-      "exemple_ca": "Mengem peix els divendres."
-    },
-    {
-      "fr": "les légumes",
-      "emoji": "🥦",
-      "es": "las verduras",
-      "ca": "les verdures",
-      "exemple": "Il faut manger des légumes chaque jour.",
-      "exemple_es": "Hay que comer verduras cada día.",
-      "exemple_ca": "Cal menjar verdures cada dia."
-    },
-    {
-      "fr": "le fruit",
-      "emoji": "🍎",
-      "es": "la fruta",
-      "ca": "la fruita",
-      "exemple": "La pomme est mon fruit préféré.",
-      "exemple_es": "La manzana es mi fruta favorita.",
-      "exemple_ca": "La poma és la meva fruita preferida."
-    },
-    {
-      "fr": "le déjeuner",
-      "emoji": "🍳",
-      "es": "el desayuno (en Quebec)",
-      "ca": "l'esmorzar (al Quebec)",
-      "exemple": "Au Québec, le déjeuner est le repas du matin.",
-      "exemple_es": "En Quebec, 'déjeuner' es el desayuno.",
-      "exemple_ca": "Al Quebec, 'déjeuner' és l'esmorzar."
-    },
-    {
-      "fr": "le souper",
-      "emoji": "🍽️",
-      "es": "la cena (en Quebec)",
-      "ca": "el sopar (al Quebec)",
-      "exemple": "On soupe vers 18 heures.",
-      "exemple_es": "Cenamos hacia las 18h.",
-      "exemple_ca": "Sopem cap a les 18h."
-    },
-    {
-      "fr": "le sucre",
-      "emoji": "🍬",
-      "es": "el azúcar",
-      "ca": "el sucre",
-      "exemple": "Le sirop d'érable remplace le sucre.",
-      "exemple_es": "El jarabe de arce reemplaza el azúcar.",
-      "exemple_ca": "El xarop d'auró substitueix el sucre."
-    }
+    { "fr": "le pain", "emoji": "🍞", "es": "el pan", "ca": "el pa", "exemple": "J'achète du pain frais le matin.", "exemple_es": "Compro pan fresco por la mañana.", "exemple_ca": "Compro pa fresc al matí." },
+    { "fr": "le fromage", "emoji": "🧀", "es": "el queso", "ca": "el formatge", "exemple": "Le Québec produit d'excellents fromages.", "exemple_es": "Quebec produce excelentes quesos.", "exemple_ca": "El Quebec produeix formatges excel·lents." },
+    { "fr": "le vin", "emoji": "🍷", "es": "el vino", "ca": "el vi", "exemple": "On boit du vin rouge avec le souper.", "exemple_es": "Bebemos vino tinto con la cena.", "exemple_ca": "Bevem vi negre amb el sopar." },
+    { "fr": "l'eau", "emoji": "💧", "es": "el agua", "ca": "l'aigua", "exemple": "Je bois beaucoup d'eau quand je cours.", "exemple_es": "Bebo mucha agua cuando corro.", "exemple_ca": "Bec molta aigua quan corro." },
+    { "fr": "le café", "emoji": "☕", "es": "el café", "ca": "el cafè", "exemple": "Je prends un café le matin.", "exemple_es": "Tomo un café por la mañana.", "exemple_ca": "Prenc un cafè al matí." },
+    { "fr": "la viande", "emoji": "🥩", "es": "la carne", "ca": "la carn", "exemple": "La tourtière est faite de viande.", "exemple_es": "La tourtière está hecha de carne.", "exemple_ca": "La tourtière està feta de carn." },
+    { "fr": "le poisson", "emoji": "🐟", "es": "el pescado", "ca": "el peix", "exemple": "On mange du poisson le vendredi.", "exemple_es": "Comemos pescado los viernes.", "exemple_ca": "Mengem peix els divendres." },
+    { "fr": "les légumes", "emoji": "🥦", "es": "las verduras", "ca": "les verdures", "exemple": "Il faut manger des légumes chaque jour.", "exemple_es": "Hay que comer verduras cada día.", "exemple_ca": "Cal menjar verdures cada dia." },
+    { "fr": "le fruit", "emoji": "🍎", "es": "la fruta", "ca": "la fruita", "exemple": "La pomme est mon fruit préféré.", "exemple_es": "La manzana es mi fruta favorita.", "exemple_ca": "La poma és la meva fruita preferida." },
+    { "fr": "le déjeuner", "emoji": "🍳", "es": "el desayuno (en Quebec)", "ca": "l'esmorzar (al Quebec)", "exemple": "Au Québec, le déjeuner est le repas du matin.", "exemple_es": "En Quebec, 'déjeuner' es el desayuno.", "exemple_ca": "Al Quebec, 'déjeuner' és l'esmorzar." },
+    { "fr": "le souper", "emoji": "🍽️", "es": "la cena (en Quebec)", "ca": "el sopar (al Quebec)", "exemple": "On soupe vers 18 heures.", "exemple_es": "Cenamos hacia las 18h.", "exemple_ca": "Sopem cap a les 18h." },
+    { "fr": "le sucre", "emoji": "🍬", "es": "el azúcar", "ca": "el sucre", "exemple": "Le sirop d'érable remplace le sucre.", "exemple_es": "El jarabe de arce reemplaza el azúcar.", "exemple_ca": "El xarop d'auró substitueix el sucre." },
+    { "fr": "le lait", "emoji": "🥛", "es": "la leche", "ca": "la llet", "exemple": "Je bois un verre de lait.", "exemple_es": "Bebo un vaso de leche.", "exemple_ca": "Bec un got de llet." },
+    { "fr": "le beurre", "emoji": "🧈", "es": "la mantequilla", "ca": "la mantega", "exemple": "Du pain avec du beurre, c'est bon.", "exemple_es": "Pan con mantequilla está bueno.", "exemple_ca": "Pa amb mantega és bo." },
+    { "fr": "l'œuf", "emoji": "🥚", "es": "el huevo", "ca": "l'ou", "exemple": "Je mange deux œufs au déjeuner.", "exemple_es": "Como dos huevos en el desayuno.", "exemple_ca": "Menjo dos ous a l'esmorzar." },
+    { "fr": "le riz", "emoji": "🍚", "es": "el arroz", "ca": "l'arròs", "exemple": "Le riz accompagne le poisson.", "exemple_es": "El arroz acompaña el pescado.", "exemple_ca": "L'arròs acompanya el peix." },
+    { "fr": "la pomme", "emoji": "🍎", "es": "la manzana", "ca": "la poma", "exemple": "Le Québec cultive beaucoup de pommes.", "exemple_es": "Quebec cultiva muchas manzanas.", "exemple_ca": "El Quebec conrea moltes pomes." },
+    { "fr": "la patate", "emoji": "🥔", "es": "la patata", "ca": "la patata", "exemple": "La poutine se fait avec des patates.", "exemple_es": "La poutine se hace con patatas.", "exemple_ca": "La poutine es fa amb patates." },
+    { "fr": "le poulet", "emoji": "🍗", "es": "el pollo", "ca": "el pollastre", "exemple": "On mange du poulet ce soir.", "exemple_es": "Comemos pollo esta noche.", "exemple_ca": "Mengem pollastre aquest vespre." },
+    { "fr": "le gâteau", "emoji": "🍰", "es": "el pastel", "ca": "el pastís", "exemple": "Le gâteau d'anniversaire est au chocolat.", "exemple_es": "El pastel de cumpleaños es de chocolate.", "exemple_ca": "El pastís d'aniversari és de xocolata." },
+    { "fr": "le chocolat", "emoji": "🍫", "es": "el chocolate", "ca": "la xocolata", "exemple": "J'aime le chocolat chaud en hiver.", "exemple_es": "Me gusta el chocolate caliente en invierno.", "exemple_ca": "M'agrada la xocolata calenta a l'hivern." },
+    { "fr": "le thé", "emoji": "🍵", "es": "el té", "ca": "el te", "exemple": "Tu veux un thé ou un café ?", "exemple_es": "¿Quieres un té o un café?", "exemple_ca": "Vols un te o un cafè?" },
+    { "fr": "le jus", "emoji": "🧃", "es": "el zumo", "ca": "el suc", "exemple": "Un jus d'orange, s'il vous plaît.", "exemple_es": "Un zumo de naranja, por favor.", "exemple_ca": "Un suc de taronja, si us plau." },
+    { "fr": "la soupe", "emoji": "🍲", "es": "la sopa", "ca": "la sopa", "exemple": "La soupe aux pois est traditionnelle au Québec.", "exemple_es": "La sopa de guisantes es tradicional en Quebec.", "exemple_ca": "La sopa de pèsols és tradicional al Quebec." }
   ]
 }

@@ -17,6 +17,7 @@
       <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
       <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+      <a href="compte.html" data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</a>
     </div>
     <div class="lang-toggle">
       <button data-lang="es">ES</button>
@@ -30,7 +31,7 @@
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
   <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
-  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+  <a href="compte.html"><span class="icon">⭐</span><span data-es="Yo" data-ca="Jo">Yo</span></a>
 </div>
 
 <div class="page-wrap">
@@ -79,9 +80,13 @@
 </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let data = null, catIdx = 0, cardIdx = 0, flipped = false;
+let seenCards = new Set();
 const lang = () => localStorage.getItem('laura_lang') || 'es';
 
 async function load() {
@@ -122,6 +127,14 @@ function renderCard() {
 function flipCard() {
   flipped = !flipped;
   document.getElementById('flashcard').classList.toggle('flipped', flipped);
+  // Enregistre la carte comme "vue" la première fois qu'on la retourne
+  if (flipped) {
+    const key = catIdx + '-' + cardIdx;
+    if (!seenCards.has(key)) {
+      seenCards.add(key);
+      if (window.Progress) Progress.recordExercise('vocabulaire', data.categories[catIdx].id, true);
+    }
+  }
 }
 function nextCard() {
   const len = data.categories[catIdx].mots.length;

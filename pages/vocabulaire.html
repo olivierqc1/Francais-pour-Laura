@@ -39,7 +39,7 @@
   <div class="page-header fade-up">
     <div class="page-header-label">📚 <span data-es="Módulo 1" data-ca="Mòdul 1">Módulo 1</span></div>
     <h1 data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</h1>
-    <p data-es="Haz clic en la tarjeta para ver la traducción. Navega por los temas para descubrir la cultura québécoise." data-ca="Fes clic a la targeta per veure la traducció. Navega pels temes per descobrir la cultura québécoise.">Haz clic en la tarjeta para ver la traducción. Navega por los temas para descubrir la cultura québécoise.</p>
+    <p data-es="Haz clic en la tarjeta para ver la traducción. Cambia de tema para descubrir más palabras." data-ca="Fes clic a la targeta per veure la traducció. Canvia de tema per descobrir més paraules.">Haz clic en la tarjeta para ver la traducción. Cambia de tema para descubrir más palabras.</p>
   </div>
 
   <div class="tabs" id="cat-tabs"></div>
@@ -85,13 +85,23 @@
 <script src="../js/progress.js"></script>
 <script src="../js/lang.js"></script>
 <script>
-let data = null, catIdx = 0, cardIdx = 0, flipped = false;
+let categories = [], catIdx = 0, cardIdx = 0, flipped = false;
 let seenCards = new Set();
 const lang = () => localStorage.getItem('laura_lang') || 'es';
 
 async function load() {
-  const r = await fetch('../data/vocabulaire.json');
-  data = await r.json();
+  // Charge l'index modulaire (10 thèmes) puis chaque fichier de thème
+  const r = await fetch('../data/vocabulaire/index.json');
+  const idx = await r.json();
+  const themes = await Promise.all(idx.categories.map(async c => {
+    try {
+      const res = await fetch('../' + c.fichier);
+      const d = await res.json();
+      // garantit le nom/emoji depuis l'index si absent du fichier
+      return { id: d.id || c.id, nom: d.nom || c.nom, emoji: d.emoji || c.emoji, mots: d.mots || [] };
+    } catch (e) { return null; }
+  }));
+  categories = themes.filter(t => t && t.mots.length);
   renderTabs();
   renderCard();
   renderWordList();
@@ -100,7 +110,7 @@ async function load() {
 function renderTabs() {
   const el = document.getElementById('cat-tabs');
   el.innerHTML = '';
-  data.categories.forEach((cat, i) => {
+  categories.forEach((cat, i) => {
     const b = document.createElement('button');
     b.className = 'tab' + (i === catIdx ? ' active' : '');
     b.textContent = cat.emoji + ' ' + cat.nom[lang()];
@@ -110,12 +120,12 @@ function renderTabs() {
 }
 
 function renderCard() {
-  const cat = data.categories[catIdx];
+  const cat = categories[catIdx];
   const mot = cat.mots[cardIdx];
-  document.getElementById('card-emoji').textContent = mot.emoji;
+  document.getElementById('card-emoji').textContent = mot.emoji || '🍁';
   document.getElementById('card-word').textContent = mot.fr;
   document.getElementById('card-trans').textContent = mot[lang()];
-  document.getElementById('card-ex').textContent = '📌 ' + mot['exemple_' + lang()];
+  document.getElementById('card-ex').textContent = '📌 ' + (mot['exemple_' + lang()] || mot.exemple || '');
   document.getElementById('card-counter').textContent = (cardIdx + 1) + ' / ' + cat.mots.length;
   document.getElementById('progress-fill').style.width = ((cardIdx + 1) / cat.mots.length * 100) + '%';
   const fc = document.getElementById('flashcard');
@@ -127,38 +137,29 @@ function renderCard() {
 function flipCard() {
   flipped = !flipped;
   document.getElementById('flashcard').classList.toggle('flipped', flipped);
-  // Enregistre la carte comme "vue" la première fois qu'on la retourne
   if (flipped) {
     const key = catIdx + '-' + cardIdx;
     if (!seenCards.has(key)) {
       seenCards.add(key);
-      if (window.Progress) Progress.recordExercise('vocabulaire', data.categories[catIdx].id, true);
+      if (window.Progress) Progress.recordExercise('vocabulaire', categories[catIdx].id, true);
     }
   }
 }
-function nextCard() {
-  const len = data.categories[catIdx].mots.length;
-  cardIdx = (cardIdx + 1) % len;
-  renderCard();
-}
-function prevCard() {
-  const len = data.categories[catIdx].mots.length;
-  cardIdx = (cardIdx - 1 + len) % len;
-  renderCard();
-}
+function nextCard() { const len = categories[catIdx].mots.length; cardIdx = (cardIdx + 1) % len; renderCard(); }
+function prevCard() { const len = categories[catIdx].mots.length; cardIdx = (cardIdx - 1 + len) % len; renderCard(); }
 
 function renderWordList() {
-  const cat = data.categories[catIdx];
+  const cat = categories[catIdx];
   document.getElementById('list-title').textContent = cat.emoji + ' ' + cat.nom[lang()];
   const l = lang();
   const html = cat.mots.map(m => `
     <div style="display:grid;grid-template-columns:2rem 1.2fr 1.6fr;gap:0.75rem;align-items:start;padding:0.75rem 0;border-bottom:1px solid var(--border);">
-      <span style="font-size:1.4rem">${m.emoji}</span>
+      <span style="font-size:1.4rem">${m.emoji||'🍁'}</span>
       <div>
         <div style="font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:600;color:var(--cream)">${m.fr}</div>
         <div style="font-size:0.82rem;color:var(--text-dim);margin-top:0.1rem">${m[l]}</div>
       </div>
-      <div style="font-size:0.82rem;color:var(--text-dim);font-style:italic;line-height:1.5">${m['exemple_'+l]}</div>
+      <div style="font-size:0.82rem;color:var(--text-dim);font-style:italic;line-height:1.5">${m['exemple_'+l]||m.exemple||''}</div>
     </div>`).join('');
   document.getElementById('word-list').innerHTML = html;
 }

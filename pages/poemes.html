@@ -36,6 +36,7 @@
       <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" class="active" data-es="Poemas" data-ca="Poemes">Poemas</a>
       <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+      <a href="compte.html" data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</a>
     </div>
     <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
   </div>
@@ -46,7 +47,7 @@
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
   <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html" class="active"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
-  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+  <a href="compte.html"><span class="icon">⭐</span><span data-es="Yo" data-ca="Jo">Yo</span></a>
 </div>
 
 <div class="page-wrap">
@@ -62,6 +63,9 @@
 </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let data = null, pIdx = 0;
@@ -165,6 +169,7 @@ function renderPoem(i) {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+let answeredPoems = new Set();
 function checkQuestions(btn) {
   const inputs = btn.closest('.card').querySelectorAll('input');
   const l = lang();
@@ -177,6 +182,12 @@ function checkQuestions(btn) {
   document.getElementById('q-result').innerHTML = `<div class="info-box">✅ ${l === 'es' ? '¡Bien hecho! Tus respuestas han sido registradas. Sigue leyendo y practicando.' : 'Ben fet! Les teves respostes han estat registrades. Segueix llegint i practicant.'}</div>`;
   btn.textContent = l === 'es' ? '✅ Verificado' : '✅ Verificat';
   btn.disabled = true;
+  // Enregistre le poème comme complété (une fois par poème)
+  const pid = data.poemes[pIdx].id;
+  if (!answeredPoems.has(pid)) {
+    answeredPoems.add(pid);
+    if (window.Progress) Progress.recordExercise('poemes', pid, true);
+  }
 }
 
 document.addEventListener('DOMContentLoaded', () => {

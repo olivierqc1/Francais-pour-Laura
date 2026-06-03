@@ -37,6 +37,7 @@
       <a href="prononciation.html" class="active" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
       <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+      <a href="compte.html" data-es="Mi cuenta" data-ca="El meu compte">Mi cuenta</a>
     </div>
     <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
   </div>
@@ -47,7 +48,7 @@
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
   <a href="prononciation.html" class="active"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
-  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+  <a href="compte.html"><span class="icon">⭐</span><span data-es="Yo" data-ca="Jo">Yo</span></a>
 </div>
 
 <div class="page-wrap">
@@ -69,6 +70,9 @@
 </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let modules = [], modData = {}, flat = [], cur = 0, voicesCache = [];
@@ -190,6 +194,7 @@ function renderEcoute(d, l) {
   return intro + cards;
 }
 
+let revealedEcoute = new Set();
 function reveal(i) {
   const e = window._ecoute.exercices[i];
   const l = lang();
@@ -197,6 +202,12 @@ function reveal(i) {
   document.getElementById('rev-' + i).innerHTML =
     '<div class="feedback-box show correct">🇫🇷 <strong>' + e.texte + '</strong>' +
     '<div class="explication">🇪🇸 ' + e[l] + '</div>' + note + '</div>';
+  // Enregistre l'écoute comme "vue" (une fois par exercice)
+  const key = (e.id || i);
+  if (!revealedEcoute.has(key)) {
+    revealedEcoute.add(key);
+    if (window.Progress) Progress.recordExercise('prononciation', 'ecoute', true);
+  }
 }
 
 document.addEventListener('DOMContentLoaded', () => {

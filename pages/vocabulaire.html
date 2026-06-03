@@ -92,19 +92,23 @@
 let categories = [], catIdx = 0, cardIdx = 0, flipped = false;
 let seenCards = new Set();
 const lang = () => localStorage.getItem('laura_lang') || 'es';
+const FILES = ['nature','culture','expressions','maison','nourriture','ville','corps','temps','famille','verbes'];
 
 async function load() {
-  // Charge l'index modulaire (10 thèmes) puis chaque fichier de thème
-  const r = await fetch('../data/vocabulaire/index.json');
-  const idx = await r.json();
-  const themes = await Promise.all(idx.categories.map(async c => {
+  const themes = await Promise.all(FILES.map(async f => {
     try {
-      const res = await fetch('../' + c.fichier);
+      const res = await fetch('../data/vocabulaire/' + f + '.json');
+      if (!res.ok) return null;
       const d = await res.json();
-      return { id: d.id || c.id, nom: d.nom || c.nom, emoji: d.emoji || c.emoji, mots: d.mots || [] };
+      return { id: d.id || f, nom: d.nom, emoji: d.emoji || '🍁', mots: d.mots || [] };
     } catch (e) { return null; }
   }));
-  categories = themes.filter(t => t && t.mots.length);
+  categories = themes.filter(t => t && t.mots && t.mots.length);
+  if (!categories.length) {
+    document.getElementById('card-word').textContent = '⚠️ Datos no cargados';
+    document.querySelector('.flashcard-hint').textContent = 'Verifica que los 10 archivos estén en data/vocabulaire/';
+    return;
+  }
   renderTabs();
   renderCard();
   renderWordList();
@@ -124,6 +128,7 @@ function renderTabs() {
 
 function renderCard() {
   const cat = categories[catIdx];
+  if (!cat) return;
   const mot = cat.mots[cardIdx];
   document.getElementById('card-emoji').textContent = mot.emoji || '🍁';
   document.getElementById('card-word').textContent = mot.fr;
@@ -131,8 +136,7 @@ function renderCard() {
   document.getElementById('card-ex').textContent = '📌 ' + (mot['exemple_' + lang()] || mot.exemple || '');
   document.getElementById('card-counter').textContent = (cardIdx + 1) + ' / ' + cat.mots.length;
   document.getElementById('progress-fill').style.width = ((cardIdx + 1) / cat.mots.length * 100) + '%';
-  const fc = document.getElementById('flashcard');
-  fc.classList.remove('flipped');
+  document.getElementById('flashcard').classList.remove('flipped');
   flipped = false;
   document.querySelector('.flashcard-hint').textContent = lang() === 'es' ? 'Haz clic para ver la traducción' : 'Fes clic per veure la traducció';
 }
@@ -148,11 +152,12 @@ function flipCard() {
     }
   }
 }
-function nextCard() { const len = categories[catIdx].mots.length; cardIdx = (cardIdx + 1) % len; renderCard(); }
-function prevCard() { const len = categories[catIdx].mots.length; cardIdx = (cardIdx - 1 + len) % len; renderCard(); }
+function nextCard() { if(!categories[catIdx])return; const len = categories[catIdx].mots.length; cardIdx = (cardIdx + 1) % len; renderCard(); }
+function prevCard() { if(!categories[catIdx])return; const len = categories[catIdx].mots.length; cardIdx = (cardIdx - 1 + len) % len; renderCard(); }
 
 function renderWordList() {
   const cat = categories[catIdx];
+  if (!cat) return;
   document.getElementById('list-title').textContent = cat.emoji + ' ' + cat.nom[lang()];
   const l = lang();
   const html = cat.mots.map(m => `
@@ -170,7 +175,7 @@ function renderWordList() {
 document.addEventListener('DOMContentLoaded', () => {
   load();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(() => { renderTabs(); renderCard(); renderWordList(); }, 0));
+    b.addEventListener('click', () => setTimeout(() => { if(categories.length){renderTabs(); renderCard(); renderWordList();} }, 0));
   });
 });
 </script>

@@ -1,100 +1,29 @@
 {
   "id": "expressions",
-  "nom": {
-    "es": "Expresiones quebequenses",
-    "ca": "Expressions quebequeses"
-  },
+  "nom": { "es": "Expresiones quebequenses", "ca": "Expressions quebequeses" },
   "emoji": "💬",
   "mots": [
-    {
-      "fr": "Allô !",
-      "emoji": "👋",
-      "es": "¡Hola! (saludo)",
-      "ca": "Hola! (salutació)",
-      "exemple": "Allô ! Comment ça va ?",
-      "exemple_es": "¡Hola! ¿Cómo estás?",
-      "exemple_ca": "Hola! Com estàs?"
-    },
-    {
-      "fr": "C'est le boutte !",
-      "emoji": "🤩",
-      "es": "¡Es genial!",
-      "ca": "És genial!",
-      "exemple": "Ce film, c'est vraiment le boutte !",
-      "exemple_es": "¡Esta película es genial!",
-      "exemple_ca": "Aquesta pel·lícula és genial!"
-    },
-    {
-      "fr": "Pantoute !",
-      "emoji": "🙅",
-      "es": "¡Para nada!",
-      "ca": "Per res!",
-      "exemple": "— Tu aimes le froid ? — Pantoute !",
-      "exemple_es": "— ¿Te gusta el frío? — ¡Para nada!",
-      "exemple_ca": "— T'agrada el fred? — Per res!"
-    },
-    {
-      "fr": "Avoir du fun",
-      "emoji": "😄",
-      "es": "divertirse",
-      "ca": "divertir-se",
-      "exemple": "On a eu du fun à ce party !",
-      "exemple_es": "¡Lo pasamos bien en esa fiesta!",
-      "exemple_ca": "Ho vam passar bé en aquella festa!"
-    },
-    {
-      "fr": "Mon char",
-      "emoji": "🚗",
-      "es": "mi coche",
-      "ca": "el meu cotxe",
-      "exemple": "Mon char est stationné dans la rue.",
-      "exemple_es": "Mi coche está aparcado en la calle.",
-      "exemple_ca": "El meu cotxe és aparcat al carrer."
-    },
-    {
-      "fr": "Tiguidou !",
-      "emoji": "✅",
-      "es": "¡Perfecto! / ¡Trato hecho!",
-      "ca": "Perfecte! / Tracte fet!",
-      "exemple": "On se voit à midi ? — Tiguidou !",
-      "exemple_es": "¿Nos vemos al mediodía? — ¡Perfecto!",
-      "exemple_ca": "Ens veiem al migdia? — Perfecte!"
-    },
-    {
-      "fr": "C'est plate",
-      "emoji": "😒",
-      "es": "es aburrido",
-      "ca": "és avorrit",
-      "exemple": "Il pleut, c'est plate.",
-      "exemple_es": "Llueve, es aburrido.",
-      "exemple_ca": "Plou, és avorrit."
-    },
-    {
-      "fr": "Magasiner",
-      "emoji": "🛍️",
-      "es": "ir de compras",
-      "ca": "anar de compres",
-      "exemple": "On va magasiner cet après-midi.",
-      "exemple_es": "Vamos de compras esta tarde.",
-      "exemple_ca": "Anem de compres aquesta tarda."
-    },
-    {
-      "fr": "Présentement",
-      "emoji": "⏱️",
-      "es": "ahora mismo",
-      "ca": "ara mateix",
-      "exemple": "Je suis présentement au travail.",
-      "exemple_es": "Ahora mismo estoy en el trabajo.",
-      "exemple_ca": "Ara mateix sóc a la feina."
-    },
-    {
-      "fr": "Bienvenue !",
-      "emoji": "🙏",
-      "es": "¡De nada! (en Quebec)",
-      "ca": "De res! (al Quebec)",
-      "exemple": "— Merci ! — Bienvenue !",
-      "exemple_es": "— ¡Gracias! — ¡De nada!",
-      "exemple_ca": "— Gràcies! — De res!"
-    }
+    { "fr": "Allô !", "emoji": "👋", "es": "¡Hola! (saludo)", "ca": "Hola! (salutació)", "exemple": "Allô ! Comment ça va ?", "exemple_es": "¡Hola! ¿Cómo estás?", "exemple_ca": "Hola! Com estàs?" },
+    { "fr": "C'est le boutte !", "emoji": "🤩", "es": "¡Es genial!", "ca": "És genial!", "exemple": "Ce film, c'est vraiment le boutte !", "exemple_es": "¡Esta película es genial!", "exemple_ca": "Aquesta pel·lícula és genial!" },
+    { "fr": "Pantoute !", "emoji": "🙅", "es": "¡Para nada!", "ca": "Per res!", "exemple": "— Tu aimes le froid ? — Pantoute !", "exemple_es": "— ¿Te gusta el frío? — ¡Para nada!", "exemple_ca": "— T'agrada el fred? — Per res!" },
+    { "fr": "Avoir du fun", "emoji": "😄", "es": "divertirse", "ca": "divertir-se", "exemple": "On a eu du fun à ce party !", "exemple_es": "¡Lo pasamos bien en esa fiesta!", "exemple_ca": "Ho vam passar bé en aquella festa!" },
+    { "fr": "Mon char", "emoji": "🚗", "es": "mi coche", "ca": "el meu cotxe", "exemple": "Mon char est stationné dans la rue.", "exemple_es": "Mi coche está aparcado en la calle.", "exemple_ca": "El meu cotxe és aparcat al carrer." },
+    { "fr": "Tiguidou !", "emoji": "✅", "es": "¡Perfecto! / ¡Trato hecho!", "ca": "Perfecte! / Tracte fet!", "exemple": "On se voit à midi ? — Tiguidou !", "exemple_es": "¿Nos vemos al mediodía? — ¡Perfecto!", "exemple_ca": "Ens veiem al migdia? — Perfecte!" },
+    { "fr": "C'est plate", "emoji": "😒", "es": "es aburrido", "ca": "és avorrit", "exemple": "Il pleut, c'est plate.", "exemple_es": "Llueve, es aburrido.", "exemple_ca": "Plou, és avorrit." },
+    { "fr": "Magasiner", "emoji": "🛍️", "es": "ir de compras", "ca": "anar de compres", "exemple": "On va magasiner cet après-midi.", "exemple_es": "Vamos de compras esta tarde.", "exemple_ca": "Anem de compres aquesta tarda." },
+    { "fr": "Présentement", "emoji": "⏱️", "es": "ahora mismo", "ca": "ara mateix", "exemple": "Je suis présentement au travail.", "exemple_es": "Ahora mismo estoy en el trabajo.", "exemple_ca": "Ara mateix sóc a la feina." },
+    { "fr": "Bienvenue !", "emoji": "🙏", "es": "¡De nada! (en Quebec)", "ca": "De res! (al Quebec)", "exemple": "— Merci ! — Bienvenue !", "exemple_es": "— ¡Gracias! — ¡De nada!", "exemple_ca": "— Gràcies! — De res!" },
+    { "fr": "C'est correct", "emoji": "👌", "es": "está bien / vale", "ca": "està bé / d'acord", "exemple": "— Désolé du retard ! — C'est correct.", "exemple_es": "— ¡Perdón por el retraso! — Está bien.", "exemple_ca": "— Perdó pel retard! — Està bé." },
+    { "fr": "Ben là !", "emoji": "🙄", "es": "¡venga ya! / ¡vamos!", "ca": "vinga, home! / au va!", "exemple": "Ben là, c'est pas si grave !", "exemple_es": "¡Venga ya, no es tan grave!", "exemple_ca": "Au va, no és tan greu!" },
+    { "fr": "Capoter", "emoji": "🤯", "es": "flipar / volverse loco", "ca": "flipar / tornar-se boig", "exemple": "J'ai capoté en voyant la neige !", "exemple_es": "¡Flipé al ver la nieve!", "exemple_ca": "Vaig flipar en veure la neu!" },
+    { "fr": "Niaiser", "emoji": "😜", "es": "bromear / tomar el pelo", "ca": "fer broma / prendre el pèl", "exemple": "Arrête de me niaiser !", "exemple_es": "¡Deja de tomarme el pelo!", "exemple_ca": "Para de prendre'm el pèl!" },
+    { "fr": "Mon chum", "emoji": "💑", "es": "mi novio / mi colega", "ca": "el meu xicot / el meu amic", "exemple": "Je sors avec mon chum ce soir.", "exemple_es": "Salgo con mi novio esta noche.", "exemple_ca": "Surto amb el meu xicot aquest vespre." },
+    { "fr": "Ma blonde", "emoji": "💑", "es": "mi novia", "ca": "la meva xicota", "exemple": "Ma blonde s'appelle Laura.", "exemple_es": "Mi novia se llama Laura.", "exemple_ca": "La meva xicota es diu Laura." },
+    { "fr": "Frette", "emoji": "🥶", "es": "muy frío (familiar)", "ca": "molt fred (col·loquial)", "exemple": "Y fait frette aujourd'hui !", "exemple_es": "¡Hace mucho frío hoy!", "exemple_ca": "Fa molt fred avui!" },
+    { "fr": "Jaser", "emoji": "💬", "es": "charlar", "ca": "xerrar", "exemple": "On a jasé pendant deux heures.", "exemple_es": "Charlamos durante dos horas.", "exemple_ca": "Vam xerrar durant dues hores." },
+    { "fr": "Pogner", "emoji": "✊", "es": "coger / pillar", "ca": "agafar / enxampar", "exemple": "J'ai pogné l'autobus de justesse.", "exemple_es": "Cogí el autobús por los pelos.", "exemple_ca": "Vaig agafar l'autobús per els pèls." },
+    { "fr": "Écœurant !", "emoji": "🔥", "es": "¡genial! (irónico, muy QC)", "ca": "genial! (irònic, molt QC)", "exemple": "Ce spectacle était écœurant !", "exemple_es": "¡Ese espectáculo fue genial!", "exemple_ca": "Aquell espectacle va ser genial!" },
+    { "fr": "Quétaine", "emoji": "🤡", "es": "hortera / cursi", "ca": "carrincló / hortera", "exemple": "Cette chanson est un peu quétaine.", "exemple_es": "Esta canción es un poco hortera.", "exemple_ca": "Aquesta cançó és una mica carrinclona." },
+    { "fr": "Dispendieux", "emoji": "💸", "es": "caro / costoso", "ca": "car / costós", "exemple": "Ce restaurant est dispendieux.", "exemple_es": "Este restaurante es caro.", "exemple_ca": "Aquest restaurant és car." }
   ]
 }

@@ -223,6 +223,226 @@
           "reponse": "au"
         }
       ]
+    },
+    {
+      "titre": {
+        "es": "La interrogación",
+        "ca": "La interrogació"
+      },
+      "explication": {
+        "es": "Para preguntar: <b>est-ce que</b> (sí/no), o una palabra interrogativa: <b>où</b> (dónde), <b>quand</b> (cuándo), <b>comment</b> (cómo), <b>pourquoi</b> (por qué), <b>qui</b> (quién), <b>combien</b> (cuánto), <b>qu'est-ce que</b> (qué).",
+        "ca": "Per preguntar: <b>est-ce que</b> (sí/no), o una paraula interrogativa: <b>où</b> (on), <b>quand</b> (quan), <b>comment</b> (com), <b>pourquoi</b> (per què), <b>qui</b> (qui), <b>combien</b> (quant), <b>qu'est-ce que</b> (què)."
+      },
+      "exercices": [
+        {
+          "phrase": "___ est-ce que tu habites ? (dónde)",
+          "reponse": "où"
+        },
+        {
+          "phrase": "___ tu t'appelles ? (cómo)",
+          "reponse": "comment"
+        },
+        {
+          "phrase": "___ vas-tu à l'école ? (cuándo)",
+          "reponse": "quand"
+        },
+        {
+          "phrase": "___ est-ce que tu pleures ? (por qué)",
+          "reponse": "pourquoi"
+        },
+        {
+          "phrase": "___ est ton ami ? (quién)",
+          "reponse": "qui"
+        },
+        {
+          "phrase": "___ ça coûte ? (cuánto)",
+          "reponse": "combien"
+        },
+        {
+          "phrase": "Qu'est-___ que tu fais ?",
+          "reponse": "ce"
+        },
+        {
+          "phrase": "___-ce que tu aimes le café ?",
+          "reponse": "est"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "Los adjetivos posesivos",
+        "ca": "Els adjectius possessius"
+      },
+      "explication": {
+        "es": "<b>mi</b>: mon (m) / ma (f) / mes (pl). <b>tu</b>: ton/ta/tes. <b>su</b>: son/sa/ses. <b>nuestro</b>: notre/nos. Ante vocal femenina se usa la forma masculina: <i>mon amie</i>.",
+        "ca": "<b>el meu</b>: mon (m) / ma (f) / mes (pl). <b>el teu</b>: ton/ta/tes. <b>el seu</b>: son/sa/ses. <b>el nostre</b>: notre/nos. Davant de vocal femenina s'usa la forma masculina: <i>mon amie</i>."
+      },
+      "exercices": [
+        {
+          "phrase": "C'est ___ voiture. (mi, fem)",
+          "reponse": "ma"
+        },
+        {
+          "phrase": "___ frère est grand. (mi, masc)",
+          "reponse": "mon"
+        },
+        {
+          "phrase": "___ parents sont gentils. (mis)",
+          "reponse": "mes"
+        },
+        {
+          "phrase": "Où est ___ sac ? (tu, masc)",
+          "reponse": "ton"
+        },
+        {
+          "phrase": "J'aime ___ ville. (tu, fem)",
+          "reponse": "ta"
+        },
+        {
+          "phrase": "C'est ___ maison. (su, fem)",
+          "reponse": "sa"
+        },
+        {
+          "phrase": "___ enfants jouent. (sus)",
+          "reponse": "ses"
+        },
+        {
+          "phrase": "C'est ___ amie. (mi, ante vocal)",
+          "reponse": "mon"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "Los adjetivos demostrativos",
+        "ca": "Els adjectius demostratius"
+      },
+      "explication": {
+        "es": "<b>este/esta/estos</b>: ce (m), cet (m ante vocal), cette (f), ces (pl). Ej: <i>ce livre, cet homme, cette femme, ces enfants</i>.",
+        "ca": "<b>aquest/aquesta/aquests</b>: ce (m), cet (m davant vocal), cette (f), ces (pl). Ex: <i>ce livre, cet homme, cette femme, ces enfants</i>."
+      },
+      "exercices": [
+        {
+          "phrase": "___ livre est intéressant. (este, masc)",
+          "reponse": "ce"
+        },
+        {
+          "phrase": "___ femme est gentille. (esta)",
+          "reponse": "cette"
+        },
+        {
+          "phrase": "___ enfants sont sages. (estos)",
+          "reponse": "ces"
+        },
+        {
+          "phrase": "___ homme est grand. (este, ante vocal)",
+          "reponse": "cet"
+        },
+        {
+          "phrase": "J'aime ___ chanson. (esta)",
+          "reponse": "cette"
+        },
+        {
+          "phrase": "___ arbre est vieux. (este, ante vocal)",
+          "reponse": "cet"
+        },
+        {
+          "phrase": "Regarde ___ étoiles ! (estas)",
+          "reponse": "ces"
+        },
+        {
+          "phrase": "___ café est bon. (este)",
+          "reponse": "ce"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "El comparativo",
+        "ca": "El comparatiu"
+      },
+      "explication": {
+        "es": "<b>plus...que</b> (más que), <b>moins...que</b> (menos que), <b>aussi...que</b> (tan como). Irregular: <i>bon</i> → <b>meilleur</b> (mejor).",
+        "ca": "<b>plus...que</b> (més que), <b>moins...que</b> (menys que), <b>aussi...que</b> (tan com). Irregular: <i>bon</i> → <b>meilleur</b> (millor)."
+      },
+      "exercices": [
+        {
+          "phrase": "Marie est ___ grande que Paul. (más)",
+          "reponse": "plus"
+        },
+        {
+          "phrase": "Il est ___ rapide que moi. (menos)",
+          "reponse": "moins"
+        },
+        {
+          "phrase": "Elle est ___ intelligente que lui. (tan)",
+          "reponse": "aussi"
+        },
+        {
+          "phrase": "Paris est plus grand ___ Lyon.",
+          "reponse": "que"
+        },
+        {
+          "phrase": "Le café est ___ cher que le thé. (más)",
+          "reponse": "plus"
+        },
+        {
+          "phrase": "Ce film est ___ bon que l'autre. (menos)",
+          "reponse": "moins"
+        },
+        {
+          "phrase": "Tu cours aussi vite ___ moi.",
+          "reponse": "que"
+        },
+        {
+          "phrase": "Ce vin est ___ que l'autre. ('mejor', de bon)",
+          "reponse": "meilleur"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "C'est o Il est",
+        "ca": "C'est o Il est"
+      },
+      "explication": {
+        "es": "<b>C'est</b> + artículo/nombre/nombre propio (<i>c'est un médecin, c'est Paul</i>). <b>Il/Elle est</b> + adjetivo o profesión SIN artículo (<i>il est médecin, elle est gentille</i>).",
+        "ca": "<b>C'est</b> + article/nom/nom propi (<i>c'est un médecin, c'est Paul</i>). <b>Il/Elle est</b> + adjectiu o professió SENSE article (<i>il est médecin, elle est gentille</i>)."
+      },
+      "exercices": [
+        {
+          "phrase": "___ un bon livre. (es + artículo)",
+          "reponse": "c'est"
+        },
+        {
+          "phrase": "___ médecin. (él es, profesión)",
+          "reponse": "il est"
+        },
+        {
+          "phrase": "___ ma sœur. (es + posesivo)",
+          "reponse": "c'est"
+        },
+        {
+          "phrase": "___ très gentille. (ella es + adj)",
+          "reponse": "elle est"
+        },
+        {
+          "phrase": "___ difficile. (es + adj, impersonal)",
+          "reponse": "c'est"
+        },
+        {
+          "phrase": "___ étudiant. (él es, profesión)",
+          "reponse": "il est"
+        },
+        {
+          "phrase": "___ Marie. (es + nombre propio)",
+          "reponse": "c'est"
+        },
+        {
+          "phrase": "___ intelligents. (ellos son + adj)",
+          "reponse": "ils sont"
+        }
+      ]
     }
   ]
 }

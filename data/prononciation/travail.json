@@ -1,0 +1,190 @@
+{
+  "id": "travail",
+  "nom": {
+    "es": "Trabajo y escuela",
+    "ca": "Feina i escola"
+  },
+  "emoji": "💼",
+  "mots": [
+    {
+      "fr": "le travail",
+      "emoji": "💼",
+      "es": "el trabajo",
+      "ca": "la feina",
+      "exemple": "J'aime mon travail.",
+      "exemple_es": "Me gusta mi trabajo.",
+      "exemple_ca": "M'agrada la meva feina."
+    },
+    {
+      "fr": "le bureau",
+      "emoji": "🏢",
+      "es": "la oficina",
+      "ca": "l'oficina",
+      "exemple": "Je vais au bureau le matin.",
+      "exemple_es": "Voy a la oficina por la mañana.",
+      "exemple_ca": "Vaig a l'oficina al matí."
+    },
+    {
+      "fr": "l'entreprise",
+      "emoji": "🏭",
+      "es": "la empresa",
+      "ca": "l'empresa",
+      "exemple": "Elle travaille dans une grande entreprise.",
+      "exemple_es": "Trabaja en una gran empresa.",
+      "exemple_ca": "Treballa en una gran empresa."
+    },
+    {
+      "fr": "le patron",
+      "emoji": "👔",
+      "es": "el jefe",
+      "ca": "el cap",
+      "exemple": "Mon patron est sympathique.",
+      "exemple_es": "Mi jefe es simpático.",
+      "exemple_ca": "El meu cap és simpàtic."
+    },
+    {
+      "fr": "le collègue",
+      "emoji": "🤝",
+      "es": "el colega",
+      "ca": "el company",
+      "exemple": "Mes collègues sont gentils.",
+      "exemple_es": "Mis colegas son amables.",
+      "exemple_ca": "Els meus companys són amables."
+    },
+    {
+      "fr": "la réunion",
+      "emoji": "📅",
+      "es": "la reunión",
+      "ca": "la reunió",
+      "exemple": "La réunion commence à neuf heures.",
+      "exemple_es": "La reunión empieza a las nueve.",
+      "exemple_ca": "La reunió comença a les nou."
+    },
+    {
+      "fr": "l'argent",
+      "emoji": "💰",
+      "es": "el dinero",
+      "ca": "els diners",
+      "exemple": "Je gagne de l'argent.",
+      "exemple_es": "Gano dinero.",
+      "exemple_ca": "Guanyo diners."
+    },
+    {
+      "fr": "le salaire",
+      "emoji": "💵",
+      "es": "el salario",
+      "ca": "el sou",
+      "exemple": "Le salaire est versé chaque mois.",
+      "exemple_es": "El salario se paga cada mes.",
+      "exemple_ca": "El sou es paga cada mes."
+    },
+    {
+      "fr": "l'école",
+      "emoji": "🏫",
+      "es": "la escuela",
+      "ca": "l'escola",
+      "exemple": "Les enfants vont à l'école.",
+      "exemple_es": "Los niños van a la escuela.",
+      "exemple_ca": "Els nens van a l'escola."
+    },
+    {
+      "fr": "le cours",
+      "emoji": "📚",
+      "es": "la clase",
+      "ca": "la classe",
+      "exemple": "J'ai un cours de français.",
+      "exemple_es": "Tengo una clase de francés.",
+      "exemple_ca": "Tinc una classe de francès."
+    },
+    {
+      "fr": "le professeur",
+      "emoji": "👩‍🏫",
+      "es": "el profesor",
+      "ca": "el professor",
+      "exemple": "Le professeur explique bien.",
+      "exemple_es": "El profesor explica bien.",
+      "exemple_ca": "El professor explica bé."
+    },
+    {
+      "fr": "l'élève",
+      "emoji": "🧑‍🎓",
+      "es": "el alumno",
+      "ca": "l'alumne",
+      "exemple": "L'élève pose une question.",
+      "exemple_es": "El alumno hace una pregunta.",
+      "exemple_ca": "L'alumne fa una pregunta."
+    },
+    {
+      "fr": "le livre",
+      "emoji": "📖",
+      "es": "el libro",
+      "ca": "el llibre",
+      "exemple": "Je lis un livre intéressant.",
+      "exemple_es": "Leo un libro interesante.",
+      "exemple_ca": "Llegeixo un llibre interessant."
+    },
+    {
+      "fr": "le cahier",
+      "emoji": "📓",
+      "es": "el cuaderno",
+      "ca": "la llibreta",
+      "exemple": "J'écris dans mon cahier.",
+      "exemple_es": "Escribo en mi cuaderno.",
+      "exemple_ca": "Escric a la meva llibreta."
+    },
+    {
+      "fr": "l'examen",
+      "emoji": "📝",
+      "es": "el examen",
+      "ca": "l'examen",
+      "exemple": "L'examen est demain.",
+      "exemple_es": "El examen es mañana.",
+      "exemple_ca": "L'examen és demà."
+    },
+    {
+      "fr": "l'ordinateur",
+      "emoji": "💻",
+      "es": "el ordenador",
+      "ca": "l'ordinador",
+      "exemple": "Je travaille sur l'ordinateur.",
+      "exemple_es": "Trabajo en el ordenador.",
+      "exemple_ca": "Treballo a l'ordinador."
+    },
+    {
+      "fr": "le projet",
+      "emoji": "📊",
+      "es": "el proyecto",
+      "ca": "el projecte",
+      "exemple": "C'est un projet important.",
+      "exemple_es": "Es un proyecto importante.",
+      "exemple_ca": "És un projecte important."
+    },
+    {
+      "fr": "la pause",
+      "emoji": "☕",
+      "es": "la pausa",
+      "ca": "la pausa",
+      "exemple": "On fait une pause café.",
+      "exemple_es": "Hacemos una pausa para el café.",
+      "exemple_ca": "Fem una pausa per al cafè."
+    },
+    {
+      "fr": "travailler",
+      "emoji": "💪",
+      "es": "trabajar",
+      "ca": "treballar",
+      "exemple": "Je travaille du lundi au vendredi.",
+      "exemple_es": "Trabajo de lunes a viernes.",
+      "exemple_ca": "Treballo de dilluns a divendres."
+    },
+    {
+      "fr": "apprendre",
+      "emoji": "🧠",
+      "es": "aprender",
+      "ca": "aprendre",
+      "exemple": "J'apprends le français.",
+      "exemple_es": "Aprendo francés.",
+      "exemple_ca": "Aprenc francès."
+    }
+  ]
+}

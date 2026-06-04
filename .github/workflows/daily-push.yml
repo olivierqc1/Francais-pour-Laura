@@ -1,0 +1,19 @@
+name: Mot du jour pour Laura
+
+on:
+  schedule:
+    # 10:00 UTC = 12h00 Barcelone l'ÉTÉ (CEST). L'hiver (CET) ça tombe à 11h00.
+    # Pour viser midi pile l'hiver, change pour: 0 11 * * *
+    - cron: '0 10 * * *'
+  workflow_dispatch:   # permet de lancer à la main (bouton "Run workflow") pour tester
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Envoyer la notification du jour
+        env:
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_REST_KEY: ${{ secrets.ONESIGNAL_REST_KEY }}
+        run: node .github/scripts/send-push.js

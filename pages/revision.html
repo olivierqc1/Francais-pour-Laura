@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Repasar — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+.rev-input { width:100%; padding:0.9rem 1rem; background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--cream); font-family:'Outfit',sans-serif; font-size:1.1rem; text-align:center; box-sizing:border-box; }
+.rev-input:focus { outline:none; border-color:var(--gold); }
+.rev-empty { text-align:center; padding:2rem 1rem; }
+.rev-empty-emoji { font-size:3.5rem; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">🔁 <span data-es="Repaso" data-ca="Repàs">Repaso</span></div>
+    <h1 data-es="Repasar mis errores" data-ca="Repassar els meus errors">Repasar mis errores</h1>
+    <p data-es="Aquí vuelven las palabras y reglas que fallaste. Aciértalas y desaparecen de la lista." data-ca="Aquí tornen les paraules i regles que vas fallar. Encerta-les i desapareixen de la llista.">Aquí vuelven las palabras y reglas que fallaste. Aciértalas y desaparecen de la lista.</p>
+  </div>
+
+  <div id="rev-zone"></div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/revision.js"></script>
+<script src="../js/lang.js"></script>
+<script>
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+function qnorm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,''); }
+function stripArticle(s){ return (s||'').replace(/^(les |le |la |l'|un |une |des |du |de la |d')/i,''); }
+
+let list = [], idx = 0, score = 0, answered = false, finished = false;
+
+function start() {
+  list = Revision.all().sort(() => Math.random() - 0.5);
+  idx = 0; score = 0; finished = false;
+  if (!list.length) { renderEmpty(); return; }
+  renderCard();
+}
+
+function renderEmpty() {
+  const l = lang();
+  document.getElementById('rev-zone').innerHTML = `
+    <div class="card fade-up rev-empty">
+      <div class="rev-empty-emoji">🎉</div>
+      <h2 style="font-family:'Cormorant Garamond',serif;color:var(--cream);margin:0.5rem 0">${l==='es'?'¡Nada que repasar!':'Res a repassar!'}</h2>
+      <p style="color:var(--text-dim)">${l==='es'?'No tienes errores pendientes. Sigue practicando en Vocabulario y Gramática — lo que falles aparecerá aquí.':'No tens errors pendents. Segueix practicant a Vocabulari i Gramàtica — el que falles apareixerà aquí.'}</p>
+      <a class="btn btn-primary" href="vocabulaire.html" style="margin-top:1rem">${l==='es'?'Ir a practicar':'Anar a practicar'} →</a>
+    </div>`;
+}
+
+function renderCard() {
+  answered = false; finished = false;
+  const it = list[idx], l = lang();
+  const isVocab = it.type === 'vocab';
+  const emoji = isVocab ? (it.emoji || '🍁') : '📐';
+  const prompt = isVocab ? it[l] : it.phrase;
+  const instr = isVocab
+    ? (l==='es'?'Escribe la palabra en francés':'Escriu la paraula en francès')
+    : (l==='es'?'Completa la frase':'Completa la frase');
+  document.getElementById('rev-zone').innerHTML = `
+    <div class="card fade-up">
+      <div class="score-bar">
+        <span class="score-pill">⭐ <span id="rv-score">${score}</span> / ${list.length}</span>
+        <div class="progress-line"><div class="progress-line-fill" id="rv-prog" style="width:${idx/list.length*100}%"></div></div>
+      </div>
+      <div style="text-align:center;margin:0.5rem 0 1rem;">
+        <div style="font-size:2.6rem;line-height:1">${emoji}</div>
+        <div style="font-family:'Cormorant Garamond',serif;font-size:1.5rem;color:var(--cream);margin-top:0.4rem">${prompt}</div>
+        <div style="font-size:0.8rem;color:var(--text-dim);margin-top:0.3rem">${instr}</div>
+      </div>
+      <input type="text" id="rv-input" class="rev-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="..." onkeydown="if(event.key==='Enter')check()">
+      <div style="display:flex;gap:0.5rem;margin-top:0.8rem;">
+        <button class="btn btn-ghost" onclick="hint()" title="Pista" style="flex:0 0 auto">💡</button>
+        <button class="btn btn-primary" id="rv-check" onclick="check()" style="flex:1"><span data-es="Verificar" data-ca="Verificar">Verificar</span></button>
+      </div>
+      <div class="feedback-box" id="rv-feedback"></div>
+      <button class="btn btn-gold" id="rv-next" style="display:none;width:100%;margin-top:0.8rem" onclick="next()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
+    </div>`;
+  document.getElementById('rv-input').focus();
+}
+
+function targetOf(it) { return it.type === 'vocab' ? it.fr : it.reponse; }
+
+function check() {
+  if (answered) return;
+  const it = list[idx], l = lang();
+  const val = document.getElementById('rv-input').value;
+  const ans = qnorm(val);
+  const tgt = targetOf(it);
+  const correct = ans.length > 0 && (ans === qnorm(tgt) || ans === qnorm(stripArticle(tgt)));
+  answered = true;
+  const inp = document.getElementById('rv-input'); inp.disabled = true;
+  const fb = document.getElementById('rv-feedback');
+  if (correct) {
+    score++;
+    inp.style.borderColor = 'var(--sage)';
+    fb.className = 'feedback-box show correct';
+    fb.innerHTML = (l==='es'?'✅ ¡Correcto! ':'✅ Correcte! ') + '<strong>' + tgt + '</strong>';
+    Revision.remove(it);           // maîtrisé → on l'enlève
+    if (window.Progress) Progress.recordExercise('revision', it.type, true);
+  } else {
+    inp.style.borderColor = 'var(--maple)';
+    fb.className = 'feedback-box show wrong';
+    fb.innerHTML = (l==='es'?'❌ Era: ':'❌ Era: ') + '<strong>' + tgt + '</strong>';
+    if (window.Progress) Progress.recordExercise('revision', it.type, false);
+  }
+  document.getElementById('rv-score').textContent = score;
+  document.getElementById('rv-check').style.display = 'none';
+  const nb = document.getElementById('rv-next'); nb.style.display = ''; nb.focus();
+}
+
+function hint() {
+  if (answered) return;
+  const it = list[idx];
+  const bare = stripArticle(targetOf(it));
+  document.getElementById('rv-input').value = bare.charAt(0);
+  document.getElementById('rv-input').focus();
+}
+
+function next() {
+  if (finished) { start(); return; }
+  idx++;
+  if (idx >= list.length) { finish(); return; }
+  renderCard();
+}
+
+function finish() {
+  finished = true;
+  const l = lang();
+  const remaining = Revision.count();
+  const msg = remaining === 0
+    ? (l==='es'?'¡Has repasado todo! Lista vacía. 🏆':'Has repassat tot! Llista buida. 🏆')
+    : (l==='es'?`Te quedan ${remaining} por dominar. ¡Vuelve a intentarlo!`:`Et queden ${remaining} per dominar. Torna-ho a provar!`);
+  document.getElementById('rev-zone').innerHTML = `
+    <div class="card fade-up rev-empty">
+      <div class="rev-empty-emoji">${remaining===0?'🏆':'💪'}</div>
+      <h2 style="font-family:'Cormorant Garamond',serif;color:var(--cream);margin:0.5rem 0">${l==='es'?'Repaso terminado':'Repàs acabat'}</h2>
+      <p style="color:var(--text-dim)">${msg}</p>
+      ${remaining>0?`<button class="btn btn-primary" style="margin-top:1rem" onclick="start()">${l==='es'?'↻ Repasar de nuevo':'↻ Repassar de nou'}</button>`:`<a class="btn btn-primary" href="vocabulaire.html" style="margin-top:1rem">${l==='es'?'Seguir practicando':'Seguir practicant'} →</a>`}
+    </div>`;
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  start();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => { if (!finished && list.length) renderCard(); else if (!list.length) renderEmpty(); }, 0));
+  });
+});
+</script>
+</body>
+</html>

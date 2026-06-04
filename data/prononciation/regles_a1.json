@@ -1,189 +1,617 @@
 {
-  "id": "regles_a1",
-  "titre": { "es": "Sons de base — A1", "ca": "Sons bàsics — A1" },
-  "intro": {
-    "es": "El francés tiene muchos sonidos que no existen en español. Para cada regla: lee la explicación, escucha el ejemplo (🔊), repite.",
-    "ca": "El francès té molts sons que no existeixen en castellà. Per a cada regla: llegeix l'explicació, escolta l'exemple (🔊), repeteix."
-  },
   "regles": [
     {
-      "id": "son_on",
-      "titre": { "es": "ON — vocal nasal", "ca": "ON — vocal nasal" },
+      "titre": {
+        "es": "ON / OM — vocal nasal [ɔ̃]",
+        "ca": "ON / OM — vocal nasal [ɔ̃]"
+      },
       "description": {
-        "es": "El 'ON' francés es una vocal nasal — el aire sale por la nariz. No existe en español. Se escribe ON o OM (ante b/p).\n\n✅ HAY sonido ON cuando:\n→ ON está al final de sílaba o palabra: bon, mon, son\n→ ON va seguido de consonante distinta de N: monde, oncle\n→ OM ante b/p: tomber, ombre, nombre\n\n❌ NO hay sonido nasal (O-N separados) cuando:\n→ ON va seguido de vocal: une bonne idée (bo-ne)\n→ ON va seguido de otra N: donner (do-né), bonne (bo-ne)\n\n💡 Regla fácil: si después de ON hay otra N o una vocal → las dos letras se pronuncian separadas.",
-        "ca": "El 'ON' francès és una vocal nasal — l'aire surt pel nas. No existeix en castellà. S'escriu ON o OM (davant b/p).\n\n✅ HI HA so ON quan:\n→ ON és al final de síl·laba o paraula: bon, mon, son\n→ ON va seguit de consonant diferent de N: monde, oncle\n→ OM davant b/p: tomber, ombre, nombre\n\n❌ NO hi ha so nasal quan:\n→ ON va seguit de vocal: une bonne idée (bo-ne)\n→ ON va seguit d'una altra N: donner (do-né), bonne (bo-ne)\n\n💡 Regla fàcil: si després d'ON hi ha una altra N o una vocal → les dues lletres es pronuncien separades."
+        "es": "El aire sale por la nariz. Se escribe <b>ON</b>, o <b>OM</b> antes de B/P. No existe en español.",
+        "ca": "L'aire surt pel nas. S'escriu <b>ON</b>, o <b>OM</b> abans de B/P. No existeix en castellà."
       },
       "exemples_nasal": [
-        { "mot": "bon", "phonetique": "[bɔ̃]", "tts": "bon", "es": "bueno", "ca": "bo" },
-        { "mot": "mon pays", "phonetique": "[mɔ̃ pei]", "tts": "mon pays", "es": "mi país", "ca": "el meu país" },
-        { "mot": "maison", "phonetique": "[mɛzɔ̃]", "tts": "maison", "es": "casa", "ca": "casa" },
-        { "mot": "on mange", "phonetique": "[ɔ̃ mɑ̃ʒ]", "tts": "on mange", "es": "comemos", "ca": "mengem" }
+        {
+          "mot": "bon",
+          "es": "bueno",
+          "ca": "bo"
+        },
+        {
+          "mot": "mon",
+          "es": "mi",
+          "ca": "el meu"
+        },
+        {
+          "mot": "nom",
+          "es": "nombre",
+          "ca": "nom"
+        },
+        {
+          "mot": "pont",
+          "es": "puente",
+          "ca": "pont"
+        },
+        {
+          "mot": "nombre",
+          "es": "número",
+          "ca": "nombre"
+        },
+        {
+          "mot": "tomber",
+          "es": "caer",
+          "ca": "caure"
+        }
       ],
       "exemples_pas_nasal": [
-        { "mot": "bonne", "phonetique": "[bɔn]", "tts": "bonne", "es": "buena (O-N separados)", "ca": "bona (O-N separats)" },
-        { "mot": "donner", "phonetique": "[dɔne]", "tts": "donner", "es": "dar (do-né)", "ca": "donar (do-né)" },
-        { "mot": "sonner", "phonetique": "[sɔne]", "tts": "sonner", "es": "sonar (so-né)", "ca": "sonar (so-né)" }
+        {
+          "mot": "bonne",
+          "es": "buena (f)",
+          "ca": "bona"
+        },
+        {
+          "mot": "comme",
+          "es": "como",
+          "ca": "com"
+        }
       ]
     },
     {
-      "id": "son_an",
-      "titre": { "es": "AN / EN — vocal nasal abierta", "ca": "AN / EN — vocal nasal oberta" },
+      "titre": {
+        "es": "AN / AM / EN / EM — vocal nasal [ɑ̃]",
+        "ca": "AN / AM / EN / EM — vocal nasal [ɑ̃]"
+      },
       "description": {
-        "es": "Otra vocal nasal, más abierta que ON. Se escribe AN, EN, AM, EM.\n\n✅ HAY sonido nasal cuando:\n→ AN/EN al final de sílaba: dans, enfant, temps, vent\n→ AM/EM ante b/p: chambre, ensemble\n\n❌ NO hay sonido nasal cuando:\n→ Seguido de vocal: une année (a-né)\n→ Seguido de otra N: ennui (a-nwi)",
-        "ca": "Una altra vocal nasal, més oberta que ON. S'escriu AN, EN, AM, EM.\n\n✅ HI HA so nasal quan:\n→ AN/EN al final de síl·laba: dans, enfant, temps, vent\n→ AM/EM davant b/p: chambre, ensemble\n\n❌ NO hi ha so nasal quan:\n→ Seguit de vocal: une année (a-né)\n→ Seguit d'una altra N: ennui (a-nwi)"
+        "es": "Sonido nasal abierto. Se escribe <b>AN, AM, EN, EM</b> (AM/EM antes de B/P). ¡Ojo: EN suena como AN!",
+        "ca": "So nasal obert. S'escriu <b>AN, AM, EN, EM</b> (AM/EM abans de B/P). Compte: EN sona com AN!"
       },
       "exemples_nasal": [
-        { "mot": "dans", "phonetique": "[dɑ̃]", "tts": "dans", "es": "en / dentro de", "ca": "dins de" },
-        { "mot": "enfant", "phonetique": "[ɑ̃fɑ̃]", "tts": "enfant", "es": "niño", "ca": "infant" },
-        { "mot": "le temps", "phonetique": "[lə tɑ̃]", "tts": "le temps", "es": "el tiempo", "ca": "el temps" }
+        {
+          "mot": "grand",
+          "es": "grande",
+          "ca": "gran"
+        },
+        {
+          "mot": "enfant",
+          "es": "niño",
+          "ca": "nen"
+        },
+        {
+          "mot": "temps",
+          "es": "tiempo",
+          "ca": "temps"
+        },
+        {
+          "mot": "chambre",
+          "es": "habitación",
+          "ca": "habitació"
+        },
+        {
+          "mot": "ensemble",
+          "es": "juntos",
+          "ca": "junts"
+        },
+        {
+          "mot": "vent",
+          "es": "viento",
+          "ca": "vent"
+        }
       ],
       "exemples_pas_nasal": [
-        { "mot": "une année", "phonetique": "[yn ane]", "tts": "une année", "es": "un año (a-né)", "ca": "un any (a-né)" },
-        { "mot": "prendre", "phonetique": "[pʁɑ̃dʁ]", "tts": "prendre", "es": "tomar", "ca": "agafar" }
+        {
+          "mot": "année",
+          "es": "año",
+          "ca": "any"
+        },
+        {
+          "mot": "ennemi",
+          "es": "enemigo",
+          "ca": "enemic"
+        }
       ]
     },
     {
-      "id": "son_in",
-      "titre": { "es": "IN / AIN / EIN / UN — vocal nasal cerrada", "ca": "IN / AIN / EIN / UN — vocal nasal tancada" },
+      "titre": {
+        "es": "IN / AIN / EIN / UN / IM — vocal nasal [ɛ̃]",
+        "ca": "IN / AIN / EIN / UN / IM — vocal nasal [ɛ̃]"
+      },
       "description": {
-        "es": "La tercera vocal nasal francesa. Se escribe IN, AIN, EIN, YN, UN. Se pronuncia [ɛ̃]: boca como para 'e', pero el aire sale por la nariz.\n\n→ vin [vɛ̃], pain [pɛ̃], main [mɛ̃], demain, un [œ̃]\n\n❌ NO nasal si sigue vocal o N: inutile (i-n), une (u-n), Anne.\n\n💡 Resumen de las 3 nasales: ON [ɔ̃] (boca redonda) · AN [ɑ̃] (boca abierta) · IN [ɛ̃] (boca de 'e').",
-        "ca": "La tercera vocal nasal francesa. S'escriu IN, AIN, EIN, YN, UN. Es pronuncia [ɛ̃]: boca com per a 'e', però l'aire surt pel nas.\n\n→ vin [vɛ̃], pain [pɛ̃], main [mɛ̃], demain, un [œ̃]\n\n❌ NO nasal si segueix vocal o N: inutile (i-n), une (u-n).\n\n💡 Resum de les 3 nasals: ON [ɔ̃] (boca rodona) · AN [ɑ̃] (boca oberta) · IN [ɛ̃] (boca de 'e')."
+        "es": "Nasal cerrado. Muchas grafías para el mismo sonido: <b>IN, AIN, EIN, IM, UN, YN</b>.",
+        "ca": "Nasal tancat. Moltes grafies per al mateix so: <b>IN, AIN, EIN, IM, UN, YN</b>."
       },
       "exemples_nasal": [
-        { "mot": "le vin", "phonetique": "[lə vɛ̃]", "tts": "le vin", "es": "el vino", "ca": "el vi" },
-        { "mot": "le pain", "phonetique": "[lə pɛ̃]", "tts": "le pain", "es": "el pan", "ca": "el pa" },
-        { "mot": "la main", "phonetique": "[la mɛ̃]", "tts": "la main", "es": "la mano", "ca": "la mà" },
-        { "mot": "demain", "phonetique": "[dəmɛ̃]", "tts": "demain", "es": "mañana", "ca": "demà" }
+        {
+          "mot": "vin",
+          "es": "vino",
+          "ca": "vi"
+        },
+        {
+          "mot": "pain",
+          "es": "pan",
+          "ca": "pa"
+        },
+        {
+          "mot": "main",
+          "es": "mano",
+          "ca": "mà"
+        },
+        {
+          "mot": "matin",
+          "es": "mañana",
+          "ca": "matí"
+        },
+        {
+          "mot": "important",
+          "es": "importante",
+          "ca": "important"
+        },
+        {
+          "mot": "un",
+          "es": "un",
+          "ca": "un"
+        }
       ],
       "exemples_pas_nasal": [
-        { "mot": "une", "phonetique": "[yn]", "tts": "une", "es": "una (u-n separados)", "ca": "una (u-n separats)" },
-        { "mot": "inutile", "phonetique": "[inytil]", "tts": "inutile", "es": "inútil (i-n)", "ca": "inútil (i-n)" }
+        {
+          "mot": "fine",
+          "es": "fina (f)",
+          "ca": "fina"
+        },
+        {
+          "mot": "inutile",
+          "es": "inútil",
+          "ca": "inútil"
+        }
       ]
     },
     {
-      "id": "son_u",
-      "titre": { "es": "U — el sonido [y] (¡nuevo!)", "ca": "U — el so [y] (nou!)" },
+      "titre": {
+        "es": "OU — el sonido [u]",
+        "ca": "OU — el so [u]"
+      },
       "description": {
-        "es": "La U francesa NO suena como la U española. Es un sonido NUEVO [y] que no existe en español.\n\n🎯 Truco: pon los labios como para decir 'u' española, pero intenta decir 'i'. Boca de 'u', lengua de 'i'.\n\n→ tu [ty], rue [ʁy], la lune [lyn], bien sûr [syʁ]\n\n⚠️ NO confundir con OU [u], que SÍ suena como la 'u' española:\n→ tu [ty] (sonido nuevo) vs tout [tu] (= 'u' española)\n\nEN QUÉBÉCOIS: 'tu' suena 'tsu' (la T se vuelve TS).",
-        "ca": "La U francesa NO sona com la U castellana. És un so NOU [y] que no existeix en castellà.\n\n🎯 Truc: posa els llavis com per dir 'u', però intenta dir 'i'. Boca de 'u', llengua de 'i'.\n\n→ tu [ty], rue [ʁy], la lune [lyn], bien sûr [syʁ]\n\n⚠️ NO confondre amb OU [u], que SÍ sona com la 'u' catalana:\n→ tu [ty] (so nou) vs tout [tu] (= 'u')\n\nEN QUÉBÉCOIS: 'tu' sona 'tsu'."
+        "es": "<b>OU</b> = la «u» española de «tú». La letra U sola NO suena así en francés (ver el sonido U).",
+        "ca": "<b>OU</b> = la «u» catalana de «tu». La lletra U sola NO sona així en francès (mira el so U)."
       },
       "exemples": [
-        { "mot": "tu", "phonetique": "[ty]", "tts": "tu", "es": "tú", "ca": "tu" },
-        { "mot": "la rue", "phonetique": "[la ʁy]", "tts": "la rue", "es": "la calle", "ca": "el carrer" },
-        { "mot": "la lune", "phonetique": "[la lyn]", "tts": "la lune", "es": "la luna", "ca": "la lluna" },
-        { "mot": "bien sûr", "phonetique": "[bjɛ̃ syʁ]", "tts": "bien sûr", "es": "claro / por supuesto", "ca": "i tant / és clar" },
-        { "mot": "une voiture", "phonetique": "[yn vwatyʁ]", "tts": "une voiture", "es": "un coche", "ca": "un cotxe" }
+        {
+          "mot": "vous",
+          "es": "ustedes/vosotros",
+          "ca": "vosaltres"
+        },
+        {
+          "mot": "nous",
+          "es": "nosotros",
+          "ca": "nosaltres"
+        },
+        {
+          "mot": "jour",
+          "es": "día",
+          "ca": "dia"
+        },
+        {
+          "mot": "amour",
+          "es": "amor",
+          "ca": "amor"
+        },
+        {
+          "mot": "rouge",
+          "es": "rojo",
+          "ca": "vermell"
+        },
+        {
+          "mot": "beaucoup",
+          "es": "mucho",
+          "ca": "molt"
+        }
       ]
     },
     {
-      "id": "son_ou",
-      "titre": { "es": "OU — el sonido [u] (= 'u' española)", "ca": "OU — el so [u] (= 'u')" },
+      "titre": {
+        "es": "U — el sonido [y] (¡nuevo!)",
+        "ca": "U — el so [y] (nou!)"
+      },
       "description": {
-        "es": "OU suena exactamente como la U española/catalana [u]. Es el sonido fácil.\n\n→ tout [tu], nous [nu], amour [amuʁ], bonjour [ʒuʁ]\n\n⚠️ ¡Ojo! La U sola francesa NO suena así (ver el sonido U [y]). Solo OU = 'u' española.\n→ tout [tu] vs tu [ty]",
-        "ca": "OU sona exactament com la U catalana [u]. És el so fàcil.\n\n→ tout [tu], nous [nu], amour [amuʁ], bonjour [ʒuʁ]\n\n⚠️ Compte! La U sola francesa NO sona així (veure el so U [y]). Només OU = 'u'.\n→ tout [tu] vs tu [ty]"
+        "es": "Sonido que NO existe en español: pon los labios como para decir «u» pero di «i». Clave para distinguir <i>tu</i> / <i>tout</i>.",
+        "ca": "So que NO existeix en català: posa els llavis com per dir «u» però digues «i». Clau per distingir <i>tu</i> / <i>tout</i>."
       },
       "exemples": [
-        { "mot": "tout", "phonetique": "[tu]", "tts": "tout", "es": "todo", "ca": "tot" },
-        { "mot": "nous", "phonetique": "[nu]", "tts": "nous", "es": "nosotros", "ca": "nosaltres" },
-        { "mot": "l'amour", "phonetique": "[lamuʁ]", "tts": "l'amour", "es": "el amor", "ca": "l'amor" },
-        { "mot": "la poutine", "phonetique": "[la putin]", "tts": "la poutine", "es": "la poutine", "ca": "la poutine" }
+        {
+          "mot": "tu",
+          "es": "tú",
+          "ca": "tu"
+        },
+        {
+          "mot": "rue",
+          "es": "calle",
+          "ca": "carrer"
+        },
+        {
+          "mot": "salut",
+          "es": "hola",
+          "ca": "hola"
+        },
+        {
+          "mot": "musique",
+          "es": "música",
+          "ca": "música"
+        },
+        {
+          "mot": "bureau",
+          "es": "oficina",
+          "ca": "oficina"
+        },
+        {
+          "mot": "sûr",
+          "es": "seguro",
+          "ca": "segur"
+        }
       ]
     },
     {
-      "id": "son_eu",
-      "titre": { "es": "EU / ŒU — el sonido [ø] (¡nuevo!)", "ca": "EU / ŒU — el so [ø] (nou!)" },
+      "titre": {
+        "es": "OI — se pronuncia 'ua' [wa]",
+        "ca": "OI — es pronuncia 'ua' [wa]"
+      },
       "description": {
-        "es": "EU es un sonido entre 'e' y 'o', con los labios redondeados. No existe en español.\n\n🎯 Truco: pon la boca como para 'o' pero di 'e'.\n\n→ deux [dø], un peu [pø], le cœur [kœʁ], la fleur [flœʁ]",
-        "ca": "EU és un so entre 'e' i 'o', amb els llavis arrodonits. No existeix en castellà.\n\n🎯 Truc: posa la boca com per a 'o' però digues 'e'.\n\n→ deux [dø], un peu [pø], le cœur [kœʁ], la fleur [flœʁ]"
+        "es": "<b>OI</b> siempre suena <b>[wa]</b>, como «ua». Una de las primeras cosas que sorprenden.",
+        "ca": "<b>OI</b> sempre sona <b>[wa]</b>, com «ua». Una de les primeres coses que sorprenen."
       },
       "exemples": [
-        { "mot": "deux", "phonetique": "[dø]", "tts": "deux", "es": "dos", "ca": "dos" },
-        { "mot": "un peu", "phonetique": "[œ̃ pø]", "tts": "un peu", "es": "un poco", "ca": "una mica" },
-        { "mot": "le cœur", "phonetique": "[lə kœʁ]", "tts": "le cœur", "es": "el corazón", "ca": "el cor" },
-        { "mot": "la fleur", "phonetique": "[la flœʁ]", "tts": "la fleur", "es": "la flor", "ca": "la flor" }
+        {
+          "mot": "moi",
+          "es": "yo/mí",
+          "ca": "jo/mi"
+        },
+        {
+          "mot": "toi",
+          "es": "tú/ti",
+          "ca": "tu/ti"
+        },
+        {
+          "mot": "trois",
+          "es": "tres",
+          "ca": "tres"
+        },
+        {
+          "mot": "boire",
+          "es": "beber",
+          "ca": "beure"
+        },
+        {
+          "mot": "noir",
+          "es": "negro",
+          "ca": "negre"
+        },
+        {
+          "mot": "québécois",
+          "es": "quebequés",
+          "ca": "quebequès"
+        }
       ]
     },
     {
-      "id": "son_oi",
-      "titre": { "es": "OI — se pronuncia 'ua' [wa]", "ca": "OI — es pronuncia 'ua' [wa]" },
+      "titre": {
+        "es": "EU / ŒU — el sonido [ø] (¡nuevo!)",
+        "ca": "EU / ŒU — el so [ø] (nou!)"
+      },
       "description": {
-        "es": "OI se pronuncia 'ua' [wa] — NUNCA 'oi'.\n\n→ moi [mwa] = 'mua', toi [twa], trois [tʁwa], froid [fʁwa], boire [bwaʁ]",
-        "ca": "OI es pronuncia 'ua' [wa] — MAI 'oi'.\n\n→ moi [mwa] = 'mua', toi [twa], trois [tʁwa], froid [fʁwa], boire [bwaʁ]"
+        "es": "Otro sonido nuevo: labios redondeados diciendo «e». Aparece en <b>EU</b> y <b>ŒU</b>.",
+        "ca": "Un altre so nou: llavis arrodonits dient «e». Apareix a <b>EU</b> i <b>ŒU</b>."
       },
       "exemples": [
-        { "mot": "moi", "phonetique": "[mwa]", "tts": "moi", "es": "yo / mí (suena 'mua')", "ca": "jo / mi (sona 'mua')" },
-        { "mot": "trois", "phonetique": "[tʁwa]", "tts": "trois", "es": "tres (trua)", "ca": "tres (trua)" },
-        { "mot": "le froid", "phonetique": "[lə fʁwa]", "tts": "le froid", "es": "el frío", "ca": "el fred" },
-        { "mot": "une étoile", "phonetique": "[yn etwal]", "tts": "une étoile", "es": "una estrella", "ca": "una estrella" }
+        {
+          "mot": "deux",
+          "es": "dos",
+          "ca": "dos"
+        },
+        {
+          "mot": "bleu",
+          "es": "azul",
+          "ca": "blau"
+        },
+        {
+          "mot": "peur",
+          "es": "miedo",
+          "ca": "por"
+        },
+        {
+          "mot": "sœur",
+          "es": "hermana",
+          "ca": "germana"
+        },
+        {
+          "mot": "cœur",
+          "es": "corazón",
+          "ca": "cor"
+        },
+        {
+          "mot": "heureux",
+          "es": "feliz",
+          "ca": "feliç"
+        }
       ]
     },
     {
-      "id": "son_cedille",
-      "titre": { "es": "La cédille ç — siempre suena S", "ca": "La cedilla ç — sempre sona S" },
+      "titre": {
+        "es": "É / ER / EZ — el sonido [e]",
+        "ca": "É / ER / EZ — el so [e]"
+      },
       "description": {
-        "es": "La cédille (ç) es una C con colita. SIEMPRE suena S — nunca K.\n\nSe usa ante A, O, U (porque la C sola ante A/O/U suena K):\n→ C + A/O/U = [k]: carte, cou\n→ Ç + A/O/U = [s]: ça, garçon, français\n\n→ ça = sa · français = fran-SÈ · garçon = gar-SON · leçon = le-SON",
-        "ca": "La cedilla (ç) és una C amb cua. SEMPRE sona S — mai K.\n\nS'usa davant A, O, U (perquè la C sola davant A/O/U sona K):\n→ C + A/O/U = [k]: carte, cou\n→ Ç + A/O/U = [s]: ça, garçon, français\n\n→ ça = sa · français = fran-SÈ · garçon = gar-SON · leçon = le-SON"
+        "es": "El sonido «e» cerrado de español. Se escribe <b>É</b>, o <b>-ER</b> y <b>-EZ</b> al final de los verbos.",
+        "ca": "El so «e» tancat. S'escriu <b>É</b>, o <b>-ER</b> i <b>-EZ</b> al final dels verbs."
       },
       "exemples": [
-        { "mot": "ça va", "phonetique": "[sa va]", "tts": "ça va", "es": "qué tal / va bien", "ca": "com va" },
-        { "mot": "le français", "phonetique": "[lə fʁɑ̃sɛ]", "tts": "le français", "es": "el francés", "ca": "el francès" },
-        { "mot": "un garçon", "phonetique": "[œ̃ gaʁsɔ̃]", "tts": "un garçon", "es": "un chico", "ca": "un noi" },
-        { "mot": "une leçon", "phonetique": "[yn ləsɔ̃]", "tts": "une leçon", "es": "una lección", "ca": "una lliçó" }
+        {
+          "mot": "été",
+          "es": "verano",
+          "ca": "estiu"
+        },
+        {
+          "mot": "café",
+          "es": "café",
+          "ca": "cafè"
+        },
+        {
+          "mot": "parler",
+          "es": "hablar",
+          "ca": "parlar"
+        },
+        {
+          "mot": "manger",
+          "es": "comer",
+          "ca": "menjar"
+        },
+        {
+          "mot": "vous parlez",
+          "es": "ustedes hablan",
+          "ca": "vosaltres parleu"
+        },
+        {
+          "mot": "nez",
+          "es": "nariz",
+          "ca": "nas"
+        }
       ]
     },
     {
-      "id": "son_ch",
-      "titre": { "es": "CH — suena SH, no CH", "ca": "CH — sona SH, no CH" },
+      "titre": {
+        "es": "È / Ê / AI / EI — el sonido [ɛ]",
+        "ca": "È / Ê / AI / EI — el so [ɛ]"
+      },
       "description": {
-        "es": "En francés, CH NO suena como la CH española (de 'mucho'). Suena SH — como el inglés 'she'.\n\n→ chat [ʃa] = 'sha', chanter [ʃɑ̃te] = 'shanté', chocolat, chercher\n\n⚠️ Excepciones (origen griego/inglés) → suena K: chorale, chaos, Christ.",
-        "ca": "En francès, CH NO sona com la CH castellana (de 'mucho'). Sona SH — com l'anglès 'she'.\n\n→ chat [ʃa] = 'sha', chanter [ʃɑ̃te] = 'shanté', chocolat, chercher\n\n⚠️ Excepcions (origen grec/anglès) → sona K: chorale, chaos."
+        "es": "La «e» abierta. Se escribe <b>È, Ê, AI, EI</b> o <b>E + doble consonante</b>.",
+        "ca": "La «e» oberta. S'escriu <b>È, Ê, AI, EI</b> o <b>E + consonant doble</b>."
       },
       "exemples": [
-        { "mot": "une chanson", "phonetique": "[yn ʃɑ̃sɔ̃]", "tts": "une chanson", "es": "una canción (SHanson)", "ca": "una cançó (SHanson)" },
-        { "mot": "le chat", "phonetique": "[lə ʃa]", "tts": "le chat", "es": "el gato (SHA)", "ca": "el gat (SHA)" },
-        { "mot": "chercher", "phonetique": "[ʃɛʁʃe]", "tts": "chercher", "es": "buscar (SHerSHé)", "ca": "buscar (SHerSHé)" },
-        { "mot": "chocolat", "phonetique": "[ʃɔkɔla]", "tts": "chocolat", "es": "chocolate (SHocolá)", "ca": "xocolata (SHocolá)" }
+        {
+          "mot": "mère",
+          "es": "madre",
+          "ca": "mare"
+        },
+        {
+          "mot": "fête",
+          "es": "fiesta",
+          "ca": "festa"
+        },
+        {
+          "mot": "maison",
+          "es": "casa",
+          "ca": "casa"
+        },
+        {
+          "mot": "neige",
+          "es": "nieve",
+          "ca": "neu"
+        },
+        {
+          "mot": "treize",
+          "es": "trece",
+          "ca": "tretze"
+        },
+        {
+          "mot": "elle",
+          "es": "ella",
+          "ca": "ella"
+        }
       ]
     },
     {
-      "id": "son_gn",
-      "titre": { "es": "GN — suena como la Ñ española", "ca": "GN — sona com la NY catalana" },
+      "titre": {
+        "es": "O / AU / EAU — el sonido [o]",
+        "ca": "O / AU / EAU — el so [o]"
+      },
       "description": {
-        "es": "GN se pronuncia como la Ñ española [ɲ].\n\n→ montagne [mɔ̃taɲ] = 'montaña', Espagne, champagne, Vigneault [viɲo]\n\nFácil para ti — es exactamente el sonido de 'ñ' en 'montaña' o de 'ny' en català.",
-        "ca": "GN es pronuncia com la NY catalana [ɲ].\n\n→ montagne [mɔ̃taɲ] = 'muntanya', Espagne, champagne, Vigneault [viɲo]\n\nFàcil per a tu — és exactament el so de 'ny' en 'muntanya'."
+        "es": "El sonido «o» cerrado se escribe a menudo <b>AU</b> o <b>EAU</b> (¡tres letras, un solo sonido!).",
+        "ca": "El so «o» tancat sovint s'escriu <b>AU</b> o <b>EAU</b> (tres lletres, un sol so!)."
       },
       "exemples": [
-        { "mot": "la montagne", "phonetique": "[la mɔ̃taɲ]", "tts": "la montagne", "es": "la montaña", "ca": "la muntanya" },
-        { "mot": "l'Espagne", "phonetique": "[lɛspaɲ]", "tts": "l'Espagne", "es": "España", "ca": "Espanya" },
-        { "mot": "Vigneault", "phonetique": "[viɲo]", "tts": "Vigneault", "es": "Vigneault (el cantante)", "ca": "Vigneault (el cantant)" },
-        { "mot": "la campagne", "phonetique": "[la kɑ̃paɲ]", "tts": "la campagne", "es": "el campo", "ca": "el camp" }
+        {
+          "mot": "eau",
+          "es": "agua",
+          "ca": "aigua"
+        },
+        {
+          "mot": "beau",
+          "es": "bonito",
+          "ca": "bonic"
+        },
+        {
+          "mot": "bateau",
+          "es": "barco",
+          "ca": "vaixell"
+        },
+        {
+          "mot": "chaud",
+          "es": "caliente",
+          "ca": "calent"
+        },
+        {
+          "mot": "jaune",
+          "es": "amarillo",
+          "ca": "groc"
+        },
+        {
+          "mot": "gâteau",
+          "es": "pastel",
+          "ca": "pastís"
+        }
       ]
     },
     {
-      "id": "son_r",
-      "titre": { "es": "La R francesa — gutural", "ca": "La R francesa — gutural" },
+      "titre": {
+        "es": "CH — suena 'SH' (no 'CH')",
+        "ca": "CH — sona 'SH' (no 'CH')"
+      },
       "description": {
-        "es": "La R francesa es el sonido más difícil para hispanohablantes. Es GUTURAL — se produce en la garganta.\n\nNO es la R española (ni 'perro' ni 'pero').\n\n🎯 Truco: el sonido al hacer gárgaras. También parecido a la J española fuerte pero más suave.\n\n💡 Empieza practicando la R en medio de palabra (merci, Paris) antes que al principio (rouge, rivière).",
-        "ca": "La R francesa és el so més difícil per als hispanoparlants. És GUTURAL — es produeix a la gola.\n\nNO és la R castellana ni la catalana.\n\n🎯 Truc: el so en fer gàrgares. També semblant a la J castellana forta però més suau.\n\n💡 Comença practicant la R al mig de paraula (merci, Paris) abans que al principi (rouge, rivière)."
+        "es": "<b>CH</b> NO suena como en español. Suena <b>[ʃ]</b>, como el «sh» inglés de «shoe».",
+        "ca": "<b>CH</b> NO sona com en castellà. Sona <b>[ʃ]</b>, com el «sh» anglès de «shoe»."
       },
       "exemples": [
-        { "mot": "merci", "phonetique": "[mɛʁsi]", "tts": "merci", "es": "gracias", "ca": "gràcies" },
-        { "mot": "parler", "phonetique": "[paʁle]", "tts": "parler", "es": "hablar", "ca": "parlar" },
-        { "mot": "rouge", "phonetique": "[ʁuʒ]", "tts": "rouge", "es": "rojo", "ca": "vermell" },
-        { "mot": "bonjour", "phonetique": "[bɔ̃ʒuʁ]", "tts": "bonjour", "es": "buenos días / hola", "ca": "bon dia / hola" }
+        {
+          "mot": "chat",
+          "es": "gato",
+          "ca": "gat"
+        },
+        {
+          "mot": "chien",
+          "es": "perro",
+          "ca": "gos"
+        },
+        {
+          "mot": "chaud",
+          "es": "caliente",
+          "ca": "calent"
+        },
+        {
+          "mot": "chercher",
+          "es": "buscar",
+          "ca": "buscar"
+        },
+        {
+          "mot": "blanche",
+          "es": "blanca",
+          "ca": "blanca"
+        },
+        {
+          "mot": "chocolat",
+          "es": "chocolate",
+          "ca": "xocolata"
+        }
       ]
     },
     {
-      "id": "son_e_muet",
-      "titre": { "es": "La E muda — la -e final no suena", "ca": "La E muda — la -e final no sona" },
+      "titre": {
+        "es": "GN — suena como la 'Ñ' española",
+        "ca": "GN — sona com la 'NY' catalana"
+      },
       "description": {
-        "es": "En francés, la -E al final de palabra generalmente NO se pronuncia. Por eso muchas formas verbales suenan igual aunque se escriban diferente.\n\n→ parle / parlent → suenan igual: [paʁl]\n→ grande [gʁɑ̃d] (la -e final es muda)\n\n📌 La E SÍ suena con acento:\n→ É: beauté, été · È: mère, père · Ê: fête, forêt\n\n📌 'Je mange' e 'Ils mangent' suenan casi igual al hablar.",
-        "ca": "En francès, la -E al final de paraula generalment NO es pronuncia. Per això moltes formes verbals sonen igual tot i escriure's diferent.\n\n→ parle / parlent → sonen igual: [paʁl]\n→ grande [gʁɑ̃d] (la -e final és muda)\n\n📌 La E SÍ sona amb accent:\n→ É: beauté, été · È: mère, père · Ê: fête, forêt\n\n📌 'Je mange' i 'Ils mangent' sonen gairebé igual!"
+        "es": "Buena noticia: <b>GN</b> suena <b>[ɲ]</b>, como la «ñ» española / «ny» catalana.",
+        "ca": "Bona notícia: <b>GN</b> sona <b>[ɲ]</b>, com la «ny» catalana / «ñ» castellana."
       },
       "exemples": [
-        { "mot": "une grande forêt", "phonetique": "[yn gʁɑ̃d fɔʁɛ]", "tts": "une grande forêt", "es": "un gran bosque", "ca": "un gran bosc" },
-        { "mot": "il chante", "phonetique": "[il ʃɑ̃t]", "tts": "il chante", "es": "él canta (= ils chantent)", "ca": "ell canta (= ils chantent)" },
-        { "mot": "la beauté", "phonetique": "[la bote]", "tts": "la beauté", "es": "la belleza (é se pronuncia)", "ca": "la bellesa (é es pronuncia)" }
+        {
+          "mot": "montagne",
+          "es": "montaña",
+          "ca": "muntanya"
+        },
+        {
+          "mot": "campagne",
+          "es": "campo",
+          "ca": "camp"
+        },
+        {
+          "mot": "Espagne",
+          "es": "España",
+          "ca": "Espanya"
+        },
+        {
+          "mot": "gagner",
+          "es": "ganar",
+          "ca": "guanyar"
+        },
+        {
+          "mot": "ligne",
+          "es": "línea",
+          "ca": "línia"
+        },
+        {
+          "mot": "oignon",
+          "es": "cebolla",
+          "ca": "ceba"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "La cédille Ç — siempre suena 'S'",
+        "ca": "La cédille Ç — sempre sona 'S'"
+      },
+      "description": {
+        "es": "La <b>ç</b> (con coma debajo) suena siempre <b>[s]</b>, incluso delante de A, O, U.",
+        "ca": "La <b>ç</b> (amb coma a sota) sona sempre <b>[s]</b>, fins i tot davant d'A, O, U."
+      },
+      "exemples": [
+        {
+          "mot": "français",
+          "es": "francés",
+          "ca": "francès"
+        },
+        {
+          "mot": "ça",
+          "es": "esto/eso",
+          "ca": "això"
+        },
+        {
+          "mot": "garçon",
+          "es": "chico",
+          "ca": "noi"
+        },
+        {
+          "mot": "leçon",
+          "es": "lección",
+          "ca": "lliçó"
+        },
+        {
+          "mot": "commençons",
+          "es": "empecemos",
+          "ca": "comencem"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "La E muette — la -e final no suena",
+        "ca": "La E muda — la -e final no sona"
+      },
+      "description": {
+        "es": "La <b>-e</b> al final de palabra casi nunca se pronuncia. Solo «alarga» la consonante anterior.",
+        "ca": "La <b>-e</b> al final de paraula gairebé mai es pronuncia. Només «allarga» la consonant anterior."
+      },
+      "exemples": [
+        {
+          "mot": "table",
+          "es": "mesa",
+          "ca": "taula"
+        },
+        {
+          "mot": "rouge",
+          "es": "rojo",
+          "ca": "vermell"
+        },
+        {
+          "mot": "madame",
+          "es": "señora",
+          "ca": "senyora"
+        },
+        {
+          "mot": "grande",
+          "es": "grande (f)",
+          "ca": "gran"
+        },
+        {
+          "mot": "Laura",
+          "es": "Laura",
+          "ca": "Laura"
+        }
       ]
     }
   ]

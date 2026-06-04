@@ -1,0 +1,418 @@
+{
+  "poemes": [
+    {
+      "id": "belgique",
+      "titre": "La Belgique",
+      "auteur": "Texto cultural",
+      "pays": "Belgique 🇧🇪",
+      "annee": "A2",
+      "bio": {
+        "es": "Bélgica es un pequeño país trilingüe en el corazón de Europa. Aquí, una lectura sencilla para descubrir su cultura.",
+        "ca": "Bèlgica és un petit país trilingüe al cor d'Europa. Aquí, una lectura senzilla per descobrir-ne la cultura."
+      },
+      "texte": [
+        "La Belgique est un petit pays au cœur de l'Europe. On y parle trois langues : le français (en Wallonie et à Bruxelles), le néerlandais (en Flandre) et l'allemand.",
+        "Les Belges sont très fiers de leur bande dessinée. Tintin, créé par Hergé, et les Schtroumpfs sont nés ici. Bruxelles a même un grand musée de la BD.",
+        "Et bien sûr, il y a les frites, le chocolat et plus de mille sortes de bière. Dans la rue, on mange des frites dans une « friterie », avec une bonne sauce."
+      ],
+      "mots_cles": [
+        {
+          "mot": "la bande dessinée",
+          "es": "el cómic",
+          "ca": "el còmic"
+        },
+        {
+          "mot": "les frites",
+          "es": "las patatas fritas",
+          "ca": "les patates fregides"
+        },
+        {
+          "mot": "la bière",
+          "es": "la cerveza",
+          "ca": "la cervesa"
+        },
+        {
+          "mot": "fier",
+          "es": "orgulloso",
+          "ca": "orgullós"
+        },
+        {
+          "mot": "le pays",
+          "es": "el país",
+          "ca": "el país"
+        }
+      ],
+      "analyse": {
+        "es": "El francés de Bélgica tiene particularidades: dicen <b>septante</b> (70) y <b>nonante</b> (90), como en Suiza. Bruselas es además la capital de la Unión Europea.",
+        "ca": "El francès de Bèlgica té particularitats: diuen <b>septante</b> (70) i <b>nonante</b> (90), com a Suïssa. Brussel·les és també la capital de la Unió Europea."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué tres lenguas se hablan en Bélgica?",
+            "ca": "Quines tres llengües es parlen a Bèlgica?"
+          },
+          "piste": {
+            "es": "francés, ...",
+            "ca": "francès, ..."
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué personaje de cómic nació en Bélgica?",
+            "ca": "Quin personatge de còmic va néixer a Bèlgica?"
+          },
+          "piste": {
+            "es": "Tin...",
+            "ca": "Tin..."
+          }
+        }
+      ]
+    },
+    {
+      "id": "senegal",
+      "titre": "Le Sénégal et la teranga",
+      "auteur": "Texto cultural",
+      "pays": "Sénégal 🇸🇳",
+      "annee": "A2",
+      "bio": {
+        "es": "Senegal, en África Occidental, es famoso por su hospitalidad y su música. Una lectura para viajar con la imaginación.",
+        "ca": "El Senegal, a l'Àfrica Occidental, és famós per la seva hospitalitat i la seva música. Una lectura per viatjar amb la imaginació."
+      },
+      "texte": [
+        "Le Sénégal est un pays d'Afrique de l'Ouest. Sa capitale, Dakar, est une grande ville au bord de l'océan Atlantique.",
+        "Au Sénégal, on parle français, mais aussi le wolof et d'autres langues. Le mot le plus important est peut-être « teranga » : il veut dire l'hospitalité, l'art d'accueillir les invités.",
+        "La musique est partout. Le chanteur Youssou N'Dour est célèbre dans le monde entier. Le plat national s'appelle le « thiéboudienne » : du riz avec du poisson et des légumes."
+      ],
+      "mots_cles": [
+        {
+          "mot": "l'hospitalité",
+          "es": "la hospitalidad",
+          "ca": "l'hospitalitat"
+        },
+        {
+          "mot": "accueillir",
+          "es": "acoger",
+          "ca": "acollir"
+        },
+        {
+          "mot": "la capitale",
+          "es": "la capital",
+          "ca": "la capital"
+        },
+        {
+          "mot": "le poisson",
+          "es": "el pescado",
+          "ca": "el peix"
+        },
+        {
+          "mot": "célèbre",
+          "es": "famoso",
+          "ca": "famós"
+        }
+      ],
+      "analyse": {
+        "es": "En muchos países africanos, el francés convive con las lenguas locales. La gente pasa de una a otra con naturalidad — algo que tú ya conoces con el español y el catalán.",
+        "ca": "A molts països africans, el francès conviu amb les llengües locals. La gent passa d'una a l'altra amb naturalitat — una cosa que tu ja coneixes amb el castellà i el català."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué significa «teranga»?",
+            "ca": "Què significa «teranga»?"
+          },
+          "piste": {
+            "es": "la h...",
+            "ca": "l'h..."
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo se llama la capital de Senegal?",
+            "ca": "Com es diu la capital del Senegal?"
+          },
+          "piste": {
+            "es": "D...",
+            "ca": "D..."
+          }
+        }
+      ]
+    },
+    {
+      "id": "suisse",
+      "titre": "La Suisse romande",
+      "auteur": "Texto cultural",
+      "pays": "Suisse 🇨🇭",
+      "annee": "A2",
+      "bio": {
+        "es": "En la parte oeste de Suiza se habla francés. Una lectura sobre montañas, chocolate... y una forma curiosa de contar.",
+        "ca": "A la part oest de Suïssa es parla francès. Una lectura sobre muntanyes, xocolata... i una manera curiosa de comptar."
+      },
+      "texte": [
+        "La Suisse est un petit pays de montagnes, au centre de l'Europe. On y parle quatre langues. Dans la partie ouest, la « Suisse romande », on parle français.",
+        "Les Suisses comptent un peu différemment : ils disent « septante » (70), « huitante » (80) et « nonante » (90), au lieu de « soixante-dix » ou « quatre-vingts ». Plus facile, non ?",
+        "La Suisse est connue pour ses montagnes (les Alpes), son chocolat, son fromage (la fondue, la raclette) et ses montres. Genève et Lausanne sont deux belles villes francophones."
+      ],
+      "mots_cles": [
+        {
+          "mot": "la montagne",
+          "es": "la montaña",
+          "ca": "la muntanya"
+        },
+        {
+          "mot": "le fromage",
+          "es": "el queso",
+          "ca": "el formatge"
+        },
+        {
+          "mot": "la montre",
+          "es": "el reloj",
+          "ca": "el rellotge"
+        },
+        {
+          "mot": "connu",
+          "es": "conocido",
+          "ca": "conegut"
+        },
+        {
+          "mot": "compter",
+          "es": "contar",
+          "ca": "comptar"
+        }
+      ],
+      "analyse": {
+        "es": "Para un hispanohablante, ¡el « septante » y « nonante » suizos son más fáciles que el « soixante-dix » de Francia! Una buena noticia para aprender los números.",
+        "ca": "Per a un castellanoparlant, el « septante » i « nonante » suïssos són més fàcils que el « soixante-dix » de França! Una bona notícia per aprendre els números."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cómo dicen los suizos «70»?",
+            "ca": "Com diuen els suïssos «70»?"
+          },
+          "piste": {
+            "es": "sep...",
+            "ca": "sep..."
+          }
+        },
+        {
+          "q": {
+            "es": "Nombra dos ciudades francófonas de Suiza.",
+            "ca": "Anomena dues ciutats francòfones de Suïssa."
+          },
+          "piste": {
+            "es": "Gen... / Laus...",
+            "ca": "Gin... / Laus..."
+          }
+        }
+      ]
+    },
+    {
+      "id": "haiti",
+      "titre": "Haïti et le créole",
+      "auteur": "Texto cultural",
+      "pays": "Haïti 🇭🇹",
+      "annee": "B1",
+      "bio": {
+        "es": "Haití, en el Caribe, tiene una historia única y una cultura llena de color. Lectura un poco más avanzada (B1).",
+        "ca": "Haití, al Carib, té una història única i una cultura plena de color. Lectura una mica més avançada (B1)."
+      },
+      "texte": [
+        "Haïti est une île des Caraïbes. C'est le premier pays du monde dirigé par d'anciens esclaves : il est devenu indépendant en 1804.",
+        "On y parle deux langues : le français et le créole haïtien. Le créole vient du français, mais avec une grammaire plus simple. Par exemple, « Comment ça va ? » se dit « Sak pase ? ».",
+        "Malgré les difficultés, Haïti a une culture très riche : la peinture colorée, la musique (le « kompa ») et un carnaval célèbre dans toute la région."
+      ],
+      "mots_cles": [
+        {
+          "mot": "l'île",
+          "es": "la isla",
+          "ca": "l'illa"
+        },
+        {
+          "mot": "la langue",
+          "es": "la lengua",
+          "ca": "la llengua"
+        },
+        {
+          "mot": "riche",
+          "es": "rico",
+          "ca": "ric"
+        },
+        {
+          "mot": "la peinture",
+          "es": "la pintura",
+          "ca": "la pintura"
+        },
+        {
+          "mot": "malgré",
+          "es": "a pesar de",
+          "ca": "malgrat"
+        }
+      ],
+      "analyse": {
+        "es": "El créole haitiano nació del contacto entre el francés y las lenguas africanas. Muestra cómo una lengua puede transformarse y crear algo nuevo.",
+        "ca": "El crioll haitià va néixer del contacte entre el francès i les llengües africanes. Mostra com una llengua pot transformar-se i crear quelcom nou."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué año fue independiente Haití?",
+            "ca": "En quin any es va independitzar Haití?"
+          },
+          "piste": {
+            "es": "18...",
+            "ca": "18..."
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué dos lenguas se hablan en Haití?",
+            "ca": "Quines dues llengües es parlen a Haití?"
+          },
+          "piste": {
+            "es": "francés y ...",
+            "ca": "francès i ..."
+          }
+        }
+      ]
+    },
+    {
+      "id": "maghreb",
+      "titre": "Le français au Maghreb",
+      "auteur": "Texto cultural",
+      "pays": "Maghreb 🌅",
+      "annee": "B1",
+      "bio": {
+        "es": "Marruecos, Argelia y Túnez: donde el árabe y el francés se mezclan cada día. Lectura nivel B1.",
+        "ca": "Marroc, Algèria i Tunísia: on l'àrab i el francès es barregen cada dia. Lectura nivell B1."
+      },
+      "texte": [
+        "Le Maghreb, c'est trois pays d'Afrique du Nord : le Maroc, l'Algérie et la Tunisie. La langue officielle est l'arabe, mais le français est très présent.",
+        "Beaucoup de gens parlent les deux langues et mélangent souvent l'arabe et le français dans la même phrase. À l'école, au travail et dans les journaux, on utilise le français.",
+        "La cuisine du Maghreb est célèbre dans le monde entier : le couscous, le thé à la menthe et les pâtisseries au miel et aux amandes."
+      ],
+      "mots_cles": [
+        {
+          "mot": "la langue officielle",
+          "es": "la lengua oficial",
+          "ca": "la llengua oficial"
+        },
+        {
+          "mot": "mélanger",
+          "es": "mezclar",
+          "ca": "barrejar"
+        },
+        {
+          "mot": "le travail",
+          "es": "el trabajo",
+          "ca": "la feina"
+        },
+        {
+          "mot": "le thé",
+          "es": "el té",
+          "ca": "el te"
+        },
+        {
+          "mot": "célèbre",
+          "es": "famoso",
+          "ca": "famós"
+        }
+      ],
+      "analyse": {
+        "es": "Mezclar dos lenguas en una frase es muy común en sociedades bilingües — exactamente como pasa en Cataluña entre el español y el catalán.",
+        "ca": "Barrejar dues llengües en una frase és molt comú a les societats bilingües — exactament com passa a Catalunya entre el castellà i el català."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuáles son los tres países del Magreb?",
+            "ca": "Quins són els tres països del Magrib?"
+          },
+          "piste": {
+            "es": "Marruecos, ...",
+            "ca": "Marroc, ..."
+          }
+        },
+        {
+          "q": {
+            "es": "Nombra un plato típico del Magreb.",
+            "ca": "Anomena un plat típic del Magrib."
+          },
+          "piste": {
+            "es": "el cous...",
+            "ca": "el cus..."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cote_ivoire",
+      "titre": "La Côte d'Ivoire et le nouchi",
+      "auteur": "Texto cultural",
+      "pays": "Côte d'Ivoire 🇨🇮",
+      "annee": "B1",
+      "bio": {
+        "es": "Costa de Marfil, en África Occidental, tiene un argot juvenil muy creativo: el «nouchi». Lectura nivel B1.",
+        "ca": "Costa d'Ivori, a l'Àfrica Occidental, té un argot juvenil molt creatiu: el «nouchi». Lectura nivell B1."
+      },
+      "texte": [
+        "La Côte d'Ivoire est un pays d'Afrique de l'Ouest. Sa plus grande ville, Abidjan, est très moderne et pleine de vie.",
+        "Les jeunes y parlent le « nouchi », un argot qui mélange le français avec des mots des langues locales et de l'anglais. C'est la langue de la rue, de la musique et d'Internet.",
+        "La Côte d'Ivoire est aussi le premier producteur de cacao du monde. Une grande partie du chocolat que nous mangeons vient de là !"
+      ],
+      "mots_cles": [
+        {
+          "mot": "la ville",
+          "es": "la ciudad",
+          "ca": "la ciutat"
+        },
+        {
+          "mot": "l'argot",
+          "es": "la jerga",
+          "ca": "l'argot"
+        },
+        {
+          "mot": "la rue",
+          "es": "la calle",
+          "ca": "el carrer"
+        },
+        {
+          "mot": "le cacao",
+          "es": "el cacao",
+          "ca": "el cacau"
+        },
+        {
+          "mot": "les jeunes",
+          "es": "los jóvenes",
+          "ca": "els joves"
+        }
+      ],
+      "analyse": {
+        "es": "El «nouchi» nació en las calles de Abiyán y hoy se usa hasta en las canciones. Las lenguas vivas siempre inventan palabras nuevas — el francés también.",
+        "ca": "El «nouchi» va néixer als carrers d'Abidjan i avui s'usa fins i tot a les cançons. Les llengües vives sempre inventen paraules noves — el francès també."
+      },
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué es el «nouchi»?",
+            "ca": "Què és el «nouchi»?"
+          },
+          "piste": {
+            "es": "un arg...",
+            "ca": "un arg..."
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué produce mucho la Costa de Marfil?",
+            "ca": "Què produeix molt la Costa d'Ivori?"
+          },
+          "piste": {
+            "es": "el ca...",
+            "ca": "el ca..."
+          }
+        }
+      ]
+    }
+  ]
+}

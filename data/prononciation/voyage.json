@@ -1,0 +1,190 @@
+{
+  "id": "voyage",
+  "nom": {
+    "es": "Viajar y transporte",
+    "ca": "Viatjar i transport"
+  },
+  "emoji": "✈️",
+  "mots": [
+    {
+      "fr": "l'avion",
+      "emoji": "✈️",
+      "es": "el avión",
+      "ca": "l'avió",
+      "exemple": "Je prends l'avion pour Barcelone.",
+      "exemple_es": "Tomo el avión para Barcelona.",
+      "exemple_ca": "Agafo l'avió cap a Barcelona."
+    },
+    {
+      "fr": "le train",
+      "emoji": "🚆",
+      "es": "el tren",
+      "ca": "el tren",
+      "exemple": "Le train part à huit heures.",
+      "exemple_es": "El tren sale a las ocho.",
+      "exemple_ca": "El tren surt a les vuit."
+    },
+    {
+      "fr": "la voiture",
+      "emoji": "🚗",
+      "es": "el coche",
+      "ca": "el cotxe",
+      "exemple": "On voyage en voiture.",
+      "exemple_es": "Viajamos en coche.",
+      "exemple_ca": "Viatgem en cotxe."
+    },
+    {
+      "fr": "l'autobus",
+      "emoji": "🚌",
+      "es": "el autobús",
+      "ca": "l'autobús",
+      "exemple": "L'autobus est en retard.",
+      "exemple_es": "El autobús llega tarde.",
+      "exemple_ca": "L'autobús arriba tard."
+    },
+    {
+      "fr": "le métro",
+      "emoji": "🚇",
+      "es": "el metro",
+      "ca": "el metro",
+      "exemple": "Le métro de Montréal est rapide.",
+      "exemple_es": "El metro de Montreal es rápido.",
+      "exemple_ca": "El metro de Montreal és ràpid."
+    },
+    {
+      "fr": "le vélo",
+      "emoji": "🚲",
+      "es": "la bici",
+      "ca": "la bici",
+      "exemple": "Je vais au travail à vélo.",
+      "exemple_es": "Voy al trabajo en bici.",
+      "exemple_ca": "Vaig a la feina amb bici."
+    },
+    {
+      "fr": "l'aéroport",
+      "emoji": "🛫",
+      "es": "el aeropuerto",
+      "ca": "l'aeroport",
+      "exemple": "L'aéroport est loin du centre.",
+      "exemple_es": "El aeropuerto está lejos del centro.",
+      "exemple_ca": "L'aeroport és lluny del centre."
+    },
+    {
+      "fr": "la gare",
+      "emoji": "🚉",
+      "es": "la estación",
+      "ca": "l'estació",
+      "exemple": "On se retrouve à la gare.",
+      "exemple_es": "Nos vemos en la estación.",
+      "exemple_ca": "Ens trobem a l'estació."
+    },
+    {
+      "fr": "le billet",
+      "emoji": "🎫",
+      "es": "el billete",
+      "ca": "el bitllet",
+      "exemple": "J'ai acheté mon billet en ligne.",
+      "exemple_es": "Compré mi billete por internet.",
+      "exemple_ca": "He comprat el bitllet per internet."
+    },
+    {
+      "fr": "la valise",
+      "emoji": "🧳",
+      "es": "la maleta",
+      "ca": "la maleta",
+      "exemple": "Ma valise est trop lourde.",
+      "exemple_es": "Mi maleta pesa demasiado.",
+      "exemple_ca": "La meva maleta pesa massa."
+    },
+    {
+      "fr": "le passeport",
+      "emoji": "🛂",
+      "es": "el pasaporte",
+      "ca": "el passaport",
+      "exemple": "N'oublie pas ton passeport.",
+      "exemple_es": "No olvides tu pasaporte.",
+      "exemple_ca": "No oblidis el passaport."
+    },
+    {
+      "fr": "l'hôtel",
+      "emoji": "🏨",
+      "es": "el hotel",
+      "ca": "l'hotel",
+      "exemple": "On dort à l'hôtel ce soir.",
+      "exemple_es": "Dormimos en el hotel esta noche.",
+      "exemple_ca": "Dormim a l'hotel aquesta nit."
+    },
+    {
+      "fr": "la carte",
+      "emoji": "🗺️",
+      "es": "el mapa",
+      "ca": "el mapa",
+      "exemple": "Regarde la carte pour trouver la rue.",
+      "exemple_es": "Mira el mapa para encontrar la calle.",
+      "exemple_ca": "Mira el mapa per trobar el carrer."
+    },
+    {
+      "fr": "le voyage",
+      "emoji": "🌍",
+      "es": "el viaje",
+      "ca": "el viatge",
+      "exemple": "Bon voyage !",
+      "exemple_es": "¡Buen viaje!",
+      "exemple_ca": "Bon viatge!"
+    },
+    {
+      "fr": "les vacances",
+      "emoji": "🏖️",
+      "es": "las vacaciones",
+      "ca": "les vacances",
+      "exemple": "Les vacances commencent demain.",
+      "exemple_es": "Las vacaciones empiezan mañana.",
+      "exemple_ca": "Les vacances comencen demà."
+    },
+    {
+      "fr": "la route",
+      "emoji": "🛣️",
+      "es": "la carretera",
+      "ca": "la carretera",
+      "exemple": "La route est longue jusqu'à Québec.",
+      "exemple_es": "La carretera es larga hasta Quebec.",
+      "exemple_ca": "La carretera és llarga fins al Quebec."
+    },
+    {
+      "fr": "le départ",
+      "emoji": "🛫",
+      "es": "la salida",
+      "ca": "la sortida",
+      "exemple": "Le départ est à midi.",
+      "exemple_es": "La salida es a mediodía.",
+      "exemple_ca": "La sortida és al migdia."
+    },
+    {
+      "fr": "l'arrivée",
+      "emoji": "🛬",
+      "es": "la llegada",
+      "ca": "l'arribada",
+      "exemple": "L'arrivée est prévue à dix heures.",
+      "exemple_es": "La llegada está prevista a las diez.",
+      "exemple_ca": "L'arribada és a les deu."
+    },
+    {
+      "fr": "partir",
+      "emoji": "🚶",
+      "es": "salir",
+      "ca": "marxar",
+      "exemple": "On part en voyage demain.",
+      "exemple_es": "Salimos de viaje mañana.",
+      "exemple_ca": "Marxem de viatge demà."
+    },
+    {
+      "fr": "réserver",
+      "emoji": "📝",
+      "es": "reservar",
+      "ca": "reservar",
+      "exemple": "J'ai réservé une chambre.",
+      "exemple_es": "Reservé una habitación.",
+      "exemple_ca": "He reservat una habitació."
+    }
+  ]
+}

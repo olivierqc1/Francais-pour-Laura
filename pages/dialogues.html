@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diálogos — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+.dlg-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:0.5rem; margin-bottom:1.3rem; }
+.dlg-chip { background:var(--bg3); border:1px solid var(--border); border-radius:12px; cursor:pointer; padding:0.8rem; text-align:left; transition:all 0.15s; }
+.dlg-chip:hover { border-color:var(--gold); }
+.dlg-chip.active { background:var(--maple); border-color:var(--maple); }
+.dlg-chip-emoji { font-size:1.5rem; }
+.dlg-chip-title { font-family:'Cormorant Garamond',serif; font-size:1.05rem; color:var(--cream); margin-top:0.2rem; }
+.dlg-chip.active .dlg-chip-title { color:#fff; }
+.dlg-chip-niv { font-size:0.68rem; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.06em; }
+.dlg-chip.active .dlg-chip-niv { color:rgba(255,255,255,0.85); }
+.bubble { display:flex; gap:0.6rem; margin-bottom:0.9rem; align-items:flex-start; }
+.bubble.right { flex-direction:row-reverse; }
+.bubble-emoji { font-size:1.6rem; flex-shrink:0; line-height:1.3; }
+.bubble-body { background:var(--bg2); border:1px solid var(--border); border-radius:14px; padding:0.7rem 0.9rem; max-width:80%; }
+.bubble.right .bubble-body { background:#2a1d16; border-color:var(--maple-dark,#5a2e1a); }
+.bubble-fr { font-family:'Cormorant Garamond',serif; font-size:1.25rem; color:var(--cream); line-height:1.3; }
+.bubble-tr { font-size:0.83rem; color:var(--text-dim); margin-top:0.2rem; }
+.bubble-play { background:none; border:none; color:var(--gold-light); cursor:pointer; font-size:1rem; padding:0; margin-top:0.3rem; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">💬 <span data-es="Conversación" data-ca="Conversa">Conversación</span></div>
+    <h1 data-es="Diálogos de la vida real" data-ca="Diàlegs de la vida real">Diálogos de la vida real</h1>
+    <p data-es="Frases que usarás de verdad: en el café, al presentarte, en el médico. Escucha cada línea." data-ca="Frases que faràs servir de debò: al cafè, presentant-te, al metge. Escolta cada línia.">Frases que usarás de verdad. Escucha cada línea.</p>
+  </div>
+
+  <div class="dlg-grid" id="dlg-grid"></div>
+  <div id="dlg-content"></div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/lang.js"></script>
+<script>
+let dialogues = [], cur = 0, voicesCache = [], seen = new Set();
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+
+function loadVoices(){ voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function say(text){
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'fr-CA';
+  const v = voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
+  if (v) u.voice = v;
+  u.rate = 0.85;
+  speechSynthesis.speak(u);
+}
+function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
+
+async function load(){
+  const r = await fetch('../data/dialogues.json');
+  dialogues = (await r.json()).dialogues;
+  buildGrid(); render(0);
+}
+function buildGrid(){
+  const l = lang();
+  document.getElementById('dlg-grid').innerHTML = dialogues.map((d,i) =>
+    '<button class="dlg-chip'+(i===cur?' active':'')+'" onclick="render('+i+')">'+
+    '<div class="dlg-chip-emoji">'+d.emoji+'</div>'+
+    '<div class="dlg-chip-title">'+d.titre[l]+'</div>'+
+    '<div class="dlg-chip-niv">'+d.niveau+'</div></button>').join('');
+}
+function render(i){
+  cur = i;
+  document.querySelectorAll('.dlg-chip').forEach((c,j)=>c.classList.toggle('active', j===i));
+  const d = dialogues[i], l = lang();
+  const lines = d.lignes.map((ln,k) => {
+    const right = (k % 2 === 1);
+    return '<div class="bubble'+(right?' right':'')+'">'+
+      '<div class="bubble-emoji">'+ln.qui+'</div>'+
+      '<div class="bubble-body"><div class="bubble-fr">'+ln.fr+'</div>'+
+      '<div class="bubble-tr">'+ln[l]+'</div>'+
+      '<button class="bubble-play" onclick="say(\''+esc(ln.fr)+'\')">🔊 '+(l==='es'?'Escuchar':'Escoltar')+'</button></div></div>';
+  }).join('');
+  document.getElementById('dlg-content').innerHTML =
+    '<div class="card fade-up"><div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem">'+
+    '<div class="section-title">'+d.emoji+' '+d.titre[l]+'</div>'+
+    '<button class="btn btn-primary" onclick="playAll()">▶ '+(l==='es'?'Escuchar todo':'Escoltar tot')+'</button></div>'+
+    lines+'</div>';
+  window.scrollTo({top:0,behavior:'smooth'});
+  if (!seen.has(d.id)){ seen.add(d.id); if (window.Progress) Progress.recordExercise('dialogues', d.id, true); }
+}
+function playAll(){
+  const d = dialogues[cur];
+  speechSynthesis.cancel();
+  d.lignes.forEach(ln => {
+    const u = new SpeechSynthesisUtterance(ln.fr);
+    u.lang = 'fr-CA';
+    const v = voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
+    if (v) u.voice = v;
+    u.rate = 0.85;
+    speechSynthesis.speak(u);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  load();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => { buildGrid(); render(cur); }, 0));
+  });
+});
+</script>
+</body>
+</html>

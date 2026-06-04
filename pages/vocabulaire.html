@@ -119,6 +119,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../js/supabase-config.js"></script>
 <script src="../js/progress.js"></script>
+<script src="../js/revision.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let categories = [], catIdx = 0, cardIdx = 0, flipped = false;
@@ -267,6 +268,7 @@ function checkQuiz(){
     fb.innerHTML = (l==='es'?'❌ La respuesta: ':'❌ La resposta: ') + '<strong>'+m.fr+'</strong>';
   }
   if(window.Progress) Progress.recordExercise('vocabulaire', categories[catIdx].id, correct);
+  if (window.Revision) { const it = {type:'vocab', fr:m.fr, es:m.es, ca:m.ca, emoji:m.emoji}; if (correct) Revision.remove(it); else Revision.add(it); }
   document.getElementById('quiz-score').textContent = quizScore;
   document.getElementById('quiz-total').textContent = quizTotal;
   document.getElementById('quiz-check').style.display='none';

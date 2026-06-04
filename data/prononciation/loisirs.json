@@ -1,0 +1,190 @@
+{
+  "id": "loisirs",
+  "nom": {
+    "es": "Ocio y deportes",
+    "ca": "Lleure i esports"
+  },
+  "emoji": "⚽",
+  "mots": [
+    {
+      "fr": "le sport",
+      "emoji": "⚽",
+      "es": "el deporte",
+      "ca": "l'esport",
+      "exemple": "Je fais du sport tous les jours.",
+      "exemple_es": "Hago deporte todos los días.",
+      "exemple_ca": "Faig esport cada dia."
+    },
+    {
+      "fr": "la course",
+      "emoji": "🏃",
+      "es": "la carrera",
+      "ca": "la cursa",
+      "exemple": "J'aime la course en montagne.",
+      "exemple_es": "Me gusta la carrera de montaña.",
+      "exemple_ca": "M'agrada la cursa de muntanya."
+    },
+    {
+      "fr": "le ski",
+      "emoji": "⛷️",
+      "es": "el esquí",
+      "ca": "l'esquí",
+      "exemple": "On fait du ski en hiver.",
+      "exemple_es": "Esquiamos en invierno.",
+      "exemple_ca": "Esquiem a l'hivern."
+    },
+    {
+      "fr": "la randonnée",
+      "emoji": "🥾",
+      "es": "el senderismo",
+      "ca": "l'excursionisme",
+      "exemple": "On part en randonnée demain.",
+      "exemple_es": "Salimos de senderismo mañana.",
+      "exemple_ca": "Sortim d'excursió demà."
+    },
+    {
+      "fr": "le hockey",
+      "emoji": "🏒",
+      "es": "el hockey",
+      "ca": "l'hoquei",
+      "exemple": "Le hockey est le sport national du Québec.",
+      "exemple_es": "El hockey es el deporte nacional de Quebec.",
+      "exemple_ca": "L'hoquei és l'esport nacional del Quebec."
+    },
+    {
+      "fr": "la natation",
+      "emoji": "🏊",
+      "es": "la natación",
+      "ca": "la natació",
+      "exemple": "Elle fait de la natation.",
+      "exemple_es": "Ella practica natación.",
+      "exemple_ca": "Ella practica natació."
+    },
+    {
+      "fr": "le cyclisme",
+      "emoji": "🚴",
+      "es": "el ciclismo",
+      "ca": "el ciclisme",
+      "exemple": "Le cyclisme est populaire en Catalogne.",
+      "exemple_es": "El ciclismo es popular en Cataluña.",
+      "exemple_ca": "El ciclisme és popular a Catalunya."
+    },
+    {
+      "fr": "la musique",
+      "emoji": "🎵",
+      "es": "la música",
+      "ca": "la música",
+      "exemple": "J'écoute de la musique.",
+      "exemple_es": "Escucho música.",
+      "exemple_ca": "Escolto música."
+    },
+    {
+      "fr": "la lecture",
+      "emoji": "📖",
+      "es": "la lectura",
+      "ca": "la lectura",
+      "exemple": "La lecture est mon passe-temps préféré.",
+      "exemple_es": "La lectura es mi pasatiempo favorito.",
+      "exemple_ca": "La lectura és el meu passatemps preferit."
+    },
+    {
+      "fr": "le cinéma",
+      "emoji": "🎬",
+      "es": "el cine",
+      "ca": "el cinema",
+      "exemple": "On va au cinéma ce soir.",
+      "exemple_es": "Vamos al cine esta noche.",
+      "exemple_ca": "Anem al cinema aquesta nit."
+    },
+    {
+      "fr": "la danse",
+      "emoji": "💃",
+      "es": "el baile",
+      "ca": "el ball",
+      "exemple": "Elle adore la danse.",
+      "exemple_es": "A ella le encanta el baile.",
+      "exemple_ca": "A ella li encanta el ball."
+    },
+    {
+      "fr": "le jeu",
+      "emoji": "🎲",
+      "es": "el juego",
+      "ca": "el joc",
+      "exemple": "C'est un jeu amusant.",
+      "exemple_es": "Es un juego divertido.",
+      "exemple_ca": "És un joc divertit."
+    },
+    {
+      "fr": "la fête",
+      "emoji": "🎉",
+      "es": "la fiesta",
+      "ca": "la festa",
+      "exemple": "On organise une fête.",
+      "exemple_es": "Organizamos una fiesta.",
+      "exemple_ca": "Organitzem una festa."
+    },
+    {
+      "fr": "le concert",
+      "emoji": "🎤",
+      "es": "el concierto",
+      "ca": "el concert",
+      "exemple": "Le concert était génial.",
+      "exemple_es": "El concierto fue genial.",
+      "exemple_ca": "El concert va ser genial."
+    },
+    {
+      "fr": "la photo",
+      "emoji": "📷",
+      "es": "la foto",
+      "ca": "la foto",
+      "exemple": "Je prends une photo.",
+      "exemple_es": "Hago una foto.",
+      "exemple_ca": "Faig una foto."
+    },
+    {
+      "fr": "la promenade",
+      "emoji": "🚶",
+      "es": "el paseo",
+      "ca": "el passeig",
+      "exemple": "On fait une promenade au parc.",
+      "exemple_es": "Damos un paseo por el parque.",
+      "exemple_ca": "Fem un passeig pel parc."
+    },
+    {
+      "fr": "jouer",
+      "emoji": "🎮",
+      "es": "jugar",
+      "ca": "jugar",
+      "exemple": "Les enfants jouent dehors.",
+      "exemple_es": "Los niños juegan fuera.",
+      "exemple_ca": "Els nens juguen a fora."
+    },
+    {
+      "fr": "courir",
+      "emoji": "🏃",
+      "es": "correr",
+      "ca": "córrer",
+      "exemple": "Je cours tous les matins.",
+      "exemple_es": "Corro todas las mañanas.",
+      "exemple_ca": "Corro cada matí."
+    },
+    {
+      "fr": "nager",
+      "emoji": "🏊",
+      "es": "nadar",
+      "ca": "nedar",
+      "exemple": "J'aime nager dans le lac.",
+      "exemple_es": "Me gusta nadar en el lago.",
+      "exemple_ca": "M'agrada nedar al llac."
+    },
+    {
+      "fr": "gagner",
+      "emoji": "🏆",
+      "es": "ganar",
+      "ca": "guanyar",
+      "exemple": "Notre équipe a gagné !",
+      "exemple_es": "¡Nuestro equipo ganó!",
+      "exemple_ca": "El nostre equip ha guanyat!"
+    }
+  ]
+}

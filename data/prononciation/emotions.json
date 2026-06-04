@@ -1,0 +1,190 @@
+{
+  "id": "emotions",
+  "nom": {
+    "es": "Emociones y sentimientos",
+    "ca": "Emocions i sentiments"
+  },
+  "emoji": "❤️",
+  "mots": [
+    {
+      "fr": "la joie",
+      "emoji": "😄",
+      "es": "la alegría",
+      "ca": "l'alegria",
+      "exemple": "Quelle joie de te voir !",
+      "exemple_es": "¡Qué alegría verte!",
+      "exemple_ca": "Quina alegria veure't!"
+    },
+    {
+      "fr": "la tristesse",
+      "emoji": "😢",
+      "es": "la tristeza",
+      "ca": "la tristesa",
+      "exemple": "Il pleure de tristesse.",
+      "exemple_es": "Llora de tristeza.",
+      "exemple_ca": "Plora de tristesa."
+    },
+    {
+      "fr": "la peur",
+      "emoji": "😱",
+      "es": "el miedo",
+      "ca": "la por",
+      "exemple": "J'ai peur du noir.",
+      "exemple_es": "Tengo miedo a la oscuridad.",
+      "exemple_ca": "Tinc por de la foscor."
+    },
+    {
+      "fr": "la colère",
+      "emoji": "😠",
+      "es": "la ira",
+      "ca": "la ràbia",
+      "exemple": "Il est rouge de colère.",
+      "exemple_es": "Está rojo de ira.",
+      "exemple_ca": "Està vermell de ràbia."
+    },
+    {
+      "fr": "l'amour",
+      "emoji": "❤️",
+      "es": "el amor",
+      "ca": "l'amor",
+      "exemple": "L'amour est important.",
+      "exemple_es": "El amor es importante.",
+      "exemple_ca": "L'amor és important."
+    },
+    {
+      "fr": "le bonheur",
+      "emoji": "🌟",
+      "es": "la felicidad",
+      "ca": "la felicitat",
+      "exemple": "Le bonheur, c'est les petites choses.",
+      "exemple_es": "La felicidad son las pequeñas cosas.",
+      "exemple_ca": "La felicitat són les petites coses."
+    },
+    {
+      "fr": "l'espoir",
+      "emoji": "🤞",
+      "es": "la esperanza",
+      "ca": "l'esperança",
+      "exemple": "Je garde l'espoir.",
+      "exemple_es": "Mantengo la esperanza.",
+      "exemple_ca": "Mantinc l'esperança."
+    },
+    {
+      "fr": "la fatigue",
+      "emoji": "😴",
+      "es": "el cansancio",
+      "ca": "el cansament",
+      "exemple": "Je tombe de fatigue.",
+      "exemple_es": "Me caigo de cansancio.",
+      "exemple_ca": "Caic de cansament."
+    },
+    {
+      "fr": "le stress",
+      "emoji": "😰",
+      "es": "el estrés",
+      "ca": "l'estrès",
+      "exemple": "J'ai beaucoup de stress au travail.",
+      "exemple_es": "Tengo mucho estrés en el trabajo.",
+      "exemple_ca": "Tinc molt estrès a la feina."
+    },
+    {
+      "fr": "la surprise",
+      "emoji": "🎉",
+      "es": "la sorpresa",
+      "ca": "la sorpresa",
+      "exemple": "Quelle belle surprise !",
+      "exemple_es": "¡Qué bonita sorpresa!",
+      "exemple_ca": "Quina sorpresa més bonica!"
+    },
+    {
+      "fr": "content",
+      "emoji": "🙂",
+      "es": "contento",
+      "ca": "content",
+      "exemple": "Je suis content de te voir.",
+      "exemple_es": "Estoy contento de verte.",
+      "exemple_ca": "Estic content de veure't."
+    },
+    {
+      "fr": "triste",
+      "emoji": "😟",
+      "es": "triste",
+      "ca": "trist",
+      "exemple": "Pourquoi es-tu triste ?",
+      "exemple_es": "¿Por qué estás triste?",
+      "exemple_ca": "Per què estàs trist?"
+    },
+    {
+      "fr": "fâché",
+      "emoji": "😤",
+      "es": "enfadado",
+      "ca": "enfadat",
+      "exemple": "Il est fâché contre moi.",
+      "exemple_es": "Está enfadado conmigo.",
+      "exemple_ca": "Està enfadat amb mi."
+    },
+    {
+      "fr": "fier",
+      "emoji": "🦁",
+      "es": "orgulloso",
+      "ca": "orgullós",
+      "exemple": "Je suis fier de toi.",
+      "exemple_es": "Estoy orgulloso de ti.",
+      "exemple_ca": "Estic orgullós de tu."
+    },
+    {
+      "fr": "inquiet",
+      "emoji": "😟",
+      "es": "preocupado",
+      "ca": "preocupat",
+      "exemple": "Je suis inquiet pour elle.",
+      "exemple_es": "Estoy preocupado por ella.",
+      "exemple_ca": "Estic preocupat per ella."
+    },
+    {
+      "fr": "rire",
+      "emoji": "😂",
+      "es": "reír",
+      "ca": "riure",
+      "exemple": "On a ri toute la soirée.",
+      "exemple_es": "Reímos toda la noche.",
+      "exemple_ca": "Vam riure tota la nit."
+    },
+    {
+      "fr": "pleurer",
+      "emoji": "😭",
+      "es": "llorar",
+      "ca": "plorar",
+      "exemple": "Le bébé pleure.",
+      "exemple_es": "El bebé llora.",
+      "exemple_ca": "El nadó plora."
+    },
+    {
+      "fr": "aimer",
+      "emoji": "💕",
+      "es": "querer",
+      "ca": "estimar",
+      "exemple": "Je t'aime.",
+      "exemple_es": "Te quiero.",
+      "exemple_ca": "T'estimo."
+    },
+    {
+      "fr": "sourire",
+      "emoji": "😊",
+      "es": "sonreír",
+      "ca": "somriure",
+      "exemple": "Elle me fait sourire.",
+      "exemple_es": "Ella me hace sonreír.",
+      "exemple_ca": "Ella em fa somriure."
+    },
+    {
+      "fr": "l'émotion",
+      "emoji": "💗",
+      "es": "la emoción",
+      "ca": "l'emoció",
+      "exemple": "Je ressens beaucoup d'émotions.",
+      "exemple_es": "Siento muchas emociones.",
+      "exemple_ca": "Sento moltes emocions."
+    }
+  ]
+}

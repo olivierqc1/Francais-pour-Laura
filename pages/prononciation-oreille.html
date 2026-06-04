@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Entrenar el oído — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.mode-toggle { display:flex; gap:0.5rem; margin-bottom:1.5rem; }
+.mode-toggle .btn { flex:1; justify-content:center; }
+.subtabs { display:flex; gap:0.4rem; margin-bottom:1.2rem; }
+.subtab { flex:1; text-align:center; padding:0.5rem; border-radius:8px; border:1px solid var(--border); background:var(--bg2); color:var(--text-dim); cursor:pointer; font-size:0.85rem; font-weight:600; }
+.subtab.active { background:var(--gold); color:var(--bg); border-color:var(--gold); }
+.big-play { width:100%; padding:1.4rem; border-radius:14px; border:1px solid var(--border); background:linear-gradient(135deg,#1e1a16,#2a2219); color:var(--gold-light); font-size:2.2rem; cursor:pointer; margin-bottom:1.2rem; transition:all 0.18s; }
+.big-play:hover { border-color:var(--maple); }
+.big-play:active { transform:scale(0.98); }
+.pair-grid { display:grid; grid-template-columns:1fr 1fr; gap:0.7rem; }
+.pair-opt { padding:1.1rem 0.5rem; border-radius:12px; border:1px solid var(--border); background:var(--bg3); color:var(--cream); cursor:pointer; text-align:center; font-family:'Cormorant Garamond',serif; font-size:1.5rem; font-weight:600; transition:all 0.15s; }
+.pair-opt:hover:not(:disabled) { border-color:rgba(255,255,255,0.3); }
+.pair-opt.correct { background:var(--correct-bg); border-color:var(--correct); color:#7dd88a; }
+.pair-opt.wrong { background:var(--wrong-bg); border-color:var(--wrong); color:#d88a8a; }
+.pair-opt small { display:block; font-family:'Outfit',sans-serif; font-size:0.72rem; color:var(--text-dim); margin-top:0.2rem; font-weight:400; }
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" class="active" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html" class="active"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">🔊 <span data-es="Módulo" data-ca="Mòdul">Módulo</span></div>
+    <h1 data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</h1>
+    <p data-es="Entrena tu oído: escucha y distingue los sonidos parecidos del francés." data-ca="Entrena la teva oïda: escolta i distingeix els sons semblants del francès.">Entrena tu oído: escucha y distingue los sonidos.</p>
+  </div>
+
+  <div class="mode-toggle">
+    <a class="btn btn-ghost" href="prononciation.html">📖 <span data-es="Aprender" data-ca="Aprendre">Aprender</span></a>
+    <a class="btn btn-gold" href="prononciation-oreille.html">👂 <span data-es="Entrenar el oído" data-ca="Entrenar l'oïda">Entrenar el oído</span></a>
+  </div>
+
+  <!-- MODE ENTRAINER L'OREILLE -->
+  <div id="ear-zone">
+    <div class="subtabs">
+      <div class="subtab active" id="st-pairs" onclick="earTab('pairs')" data-es="Pares mínimos" data-ca="Parells mínims">Pares mínimos</div>
+      <div class="subtab" id="st-choice" onclick="earTab('choice')" data-es="Escucha y elige" data-ca="Escolta i tria">Escucha y elige</div>
+    </div>
+    <div class="card fade-up">
+      <div class="score-bar">
+        <span class="score-pill">⭐ <span id="ear-score">0</span> / <span id="ear-total">0</span></span>
+        <div class="progress-line"><div class="progress-line-fill" id="ear-prog" style="width:0%"></div></div>
+      </div>
+      <p class="muted" id="ear-instr" style="color:var(--text-dim);font-size:0.86rem;margin-bottom:0.8rem"></p>
+      <button class="big-play" onclick="playCurrent()">🔊</button>
+      <div class="pair-grid" id="ear-options"></div>
+      <div class="feedback-box" id="ear-feedback"></div>
+      <div style="margin-top:1rem">
+        <button class="btn btn-ghost" id="ear-next" style="display:none" onclick="earNext()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/lang.js"></script>
+<script>
+let modules = [], modData = {}, flat = [], cur = 0, voicesCache = [];
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+
+function loadVoices() { voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function say(text) {
+  if (!('speechSynthesis' in window)) { alert(lang() === 'es' ? 'Tu navegador no soporta audio.' : 'El teu navegador no suporta àudio.'); return; }
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'fr-CA';
+  const v = voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
+  if (v) u.voice = v;
+  u.rate = 0.85;
+  speechSynthesis.speak(u);
+}
+function esc(s) { return (s || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'"); }
+
+/* ---------- MODE ENTRAINER L'OREILLE ---------- */
+const PAIRS = [
+  { son:"u / ou", a:{fr:"tu", es:"tú", ca:"tu"}, b:{fr:"tout", es:"todo", ca:"tot"} },
+  { son:"u / ou", a:{fr:"rue", es:"calle", ca:"carrer"}, b:{fr:"roue", es:"rueda", ca:"roda"} },
+  { son:"u / ou", a:{fr:"dessus", es:"encima", ca:"a sobre"}, b:{fr:"dessous", es:"debajo", ca:"a sota"} },
+  { son:"in / an", a:{fr:"vin", es:"vino", ca:"vi"}, b:{fr:"vent", es:"viento", ca:"vent"} },
+  { son:"in / on", a:{fr:"pain", es:"pan", ca:"pa"}, b:{fr:"pont", es:"puente", ca:"pont"} },
+  { son:"an / on", a:{fr:"blanc", es:"blanco", ca:"blanc"}, b:{fr:"blond", es:"rubio", ca:"ros"} },
+  { son:"eu / ou", a:{fr:"peur", es:"miedo", ca:"por"}, b:{fr:"pour", es:"para", ca:"per"} },
+  { son:"eu / ou", a:{fr:"deux", es:"dos", ca:"dos"}, b:{fr:"doux", es:"suave", ca:"suau"} },
+  { son:"on / an", a:{fr:"bon", es:"bueno", ca:"bo"}, b:{fr:"banc", es:"banco", ca:"banc"} },
+  { son:"ou / eu", a:{fr:"cou", es:"cuello", ca:"coll"}, b:{fr:"queue", es:"cola", ca:"cua"} }
+];
+const CHOICE = [
+  { mot:"tout", es:"todo", ca:"tot", options:["tout","tu","deux"] },
+  { mot:"vin", es:"vino", ca:"vi", options:["vin","vent","vont"] },
+  { mot:"pain", es:"pan", ca:"pa", options:["pain","pont","banc"] },
+  { mot:"rue", es:"calle", ca:"carrer", options:["rue","roue","riz"] },
+  { mot:"deux", es:"dos", ca:"dos", options:["deux","doux","dos"] },
+  { mot:"bon", es:"bueno", ca:"bo", options:["bon","banc","beau"] },
+  { mot:"peur", es:"miedo", ca:"por", options:["peur","pour","père"] },
+  { mot:"froid", es:"frío", ca:"fred", options:["froid","frais","trois"] },
+  { mot:"neige", es:"nieve", ca:"neu", options:["neige","nez","neuf"] },
+  { mot:"sœur", es:"hermana", ca:"germana", options:["sœur","sur","soir"] },
+  { mot:"chaud", es:"caliente", ca:"calent", options:["chaud","chou","joue"] },
+  { mot:"mont", es:"monte", ca:"munt", options:["mont","ment","main"] }
+];
+let earMode = 'pairs', earList = [], earIdx = 0, earScore = 0, earAnswered = false, earCurrentWord = '';
+
+function earTab(mode) {
+  earMode = mode;
+  document.getElementById('st-pairs').className = 'subtab' + (mode === 'pairs' ? ' active' : '');
+  document.getElementById('st-choice').className = 'subtab' + (mode === 'choice' ? ' active' : '');
+  // mélange et (re)démarre
+  if (mode === 'pairs') earList = [...PAIRS].sort(() => Math.random() - 0.5);
+  else earList = [...CHOICE].sort(() => Math.random() - 0.5);
+  earIdx = 0; earScore = 0; earAnswered = false;
+  earRender();
+}
+function earRender() {
+  const l = lang();
+  document.getElementById('ear-score').textContent = earScore;
+  document.getElementById('ear-total').textContent = earIdx;
+  document.getElementById('ear-prog').style.width = (earIdx / earList.length * 100) + '%';
+  const fb = document.getElementById('ear-feedback'); fb.className = 'feedback-box'; fb.innerHTML = '';
+  document.getElementById('ear-next').style.display = 'none';
+  earAnswered = false;
+  if (earIdx >= earList.length) { earDone(); return; }
+  const instr = document.getElementById('ear-instr');
+  const opts = document.getElementById('ear-options');
+  if (earMode === 'pairs') {
+    const p = earList[earIdx];
+    instr.textContent = (l === 'es' ? 'Pulsa ▶ y elige la palabra que oíste. Contraste: ' : 'Prem ▶ i tria la paraula que has sentit. Contrast: ') + p.son;
+    // choisit aléatoirement a ou b comme mot joué
+    const which = Math.random() < 0.5 ? 'a' : 'b';
+    earCurrentWord = p[which].fr;
+    const order = Math.random() < 0.5 ? ['a','b'] : ['b','a'];
+    opts.innerHTML = order.map(k => '<button class="pair-opt" onclick="earAnswer(\'' + p[k].fr + '\',this)">' + p[k].fr + '<small>' + p[k][l] + '</small></button>').join('');
+  } else {
+    const c = earList[earIdx];
+    instr.textContent = (l === 'es' ? 'Pulsa ▶ y elige la palabra correcta.' : 'Prem ▶ i tria la paraula correcta.');
+    earCurrentWord = c.mot;
+    const shuffled = [...c.options].sort(() => Math.random() - 0.5);
+    opts.innerHTML = shuffled.map(w => '<button class="pair-opt" onclick="earAnswer(\'' + w + '\',this)">' + w + '</button>').join('');
+  }
+  setTimeout(playCurrent, 350);
+}
+function playCurrent() { if (earCurrentWord) say(earCurrentWord); }
+function earAnswer(word, btn) {
+  if (earAnswered) return;
+  earAnswered = true;
+  const l = lang();
+  const correct = word === earCurrentWord;
+  if (correct) earScore++;
+  document.querySelectorAll('.pair-opt').forEach(b => {
+    b.disabled = true;
+    if (b.textContent.indexOf(earCurrentWord) === 0) b.classList.add('correct');
+  });
+  if (!correct) btn.classList.add('wrong');
+  if (window.Progress) Progress.recordExercise('prononciation', 'oreille', correct);
+  const fb = document.getElementById('ear-feedback');
+  fb.className = 'feedback-box show ' + (correct ? 'correct' : 'wrong');
+  fb.innerHTML = (correct ? (l === 'es' ? '✅ ¡Correcto! ' : '✅ Correcte! ') : (l === 'es' ? '❌ Era: ' : '❌ Era: ')) + '<strong>' + earCurrentWord + '</strong>';
+  document.getElementById('ear-score').textContent = earScore;
+  document.getElementById('ear-total').textContent = earIdx + 1;
+  document.getElementById('ear-next').style.display = 'inline-flex';
+  earIdx++;
+}
+function earNext() { earRender(); }
+function earDone() {
+  const l = lang();
+  document.getElementById('ear-options').innerHTML = '';
+  document.getElementById('ear-instr').textContent = '';
+  document.getElementById('ear-feedback').className = 'feedback-box show correct';
+  document.getElementById('ear-feedback').innerHTML = '🎉 ' + (l === 'es' ? '¡Bravo, Laura! ' : 'Bravo, Laura! ') + earScore + ' / ' + earList.length;
+  const btn = document.getElementById('ear-next');
+  btn.style.display = 'inline-flex';
+  btn.innerHTML = '🔄 ' + (l === 'es' ? 'Repetir' : 'Repetir');
+  btn.onclick = () => earTab(earMode);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  earTab('pairs');
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => earRender(), 0));
+  });
+});
+</script>
+</body>
+</html>

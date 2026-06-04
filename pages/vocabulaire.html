@@ -8,6 +8,10 @@
 <style>
 .topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
 .topbar-account:hover { transform:scale(1.1); }
+.mode-toggle { display:flex; gap:0.5rem; margin-bottom:1.2rem; }
+.mode-toggle .btn { flex:1; justify-content:center; }
+.quiz-input { width:100%; padding:0.9rem 1rem; background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--cream); font-family:'Outfit',sans-serif; font-size:1.1rem; text-align:center; box-sizing:border-box; }
+.quiz-input:focus { outline:none; border-color:var(--gold); }
 </style>
 </head>
 <body>
@@ -46,8 +50,14 @@
     <p data-es="Haz clic en la tarjeta para ver la traducción. Cambia de tema para descubrir más palabras." data-ca="Fes clic a la targeta per veure la traducció. Canvia de tema per descobrir més paraules.">Haz clic en la tarjeta para ver la traducción. Cambia de tema para descubrir más palabras.</p>
   </div>
 
+  <div class="mode-toggle">
+    <button class="btn btn-gold" id="btn-cards" onclick="setMode('cards')">📇 <span data-es="Tarjetas" data-ca="Targetes">Tarjetas</span></button>
+    <button class="btn btn-ghost" id="btn-quiz" onclick="setMode('quiz')">✍️ <span data-es="Quiz" data-ca="Quiz">Quiz</span></button>
+  </div>
+
   <div class="tabs" id="cat-tabs"></div>
 
+  <div id="cards-zone">
   <div class="card fade-up delay-1">
     <div class="score-bar">
       <span class="score-pill" id="card-counter">1 / 1</span>
@@ -81,6 +91,28 @@
     <div class="section-title" id="list-title"></div>
     <div class="card" id="word-list"></div>
   </div>
+  </div><!-- /cards-zone -->
+
+  <div id="quiz-zone" style="display:none">
+    <div class="card fade-up">
+      <div class="score-bar">
+        <span class="score-pill">⭐ <span id="quiz-score">0</span> / <span id="quiz-total">0</span></span>
+        <div class="progress-line"><div class="progress-line-fill" id="quiz-prog" style="width:0%"></div></div>
+      </div>
+      <div style="text-align:center;margin:0.5rem 0 1rem;">
+        <div id="quiz-emoji" style="font-size:3rem;line-height:1">🍁</div>
+        <div id="quiz-prompt" style="font-family:'Cormorant Garamond',serif;font-size:1.7rem;color:var(--cream);margin-top:0.4rem">—</div>
+        <div id="quiz-instr" style="font-size:0.8rem;color:var(--text-dim);margin-top:0.3rem" data-es="Escribe la palabra en francés" data-ca="Escriu la paraula en francès">Escribe la palabra en francés</div>
+      </div>
+      <input type="text" id="quiz-input" class="quiz-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="..." onkeydown="if(event.key==='Enter')checkQuiz()">
+      <div style="display:flex;gap:0.5rem;margin-top:0.8rem;">
+        <button class="btn btn-ghost" onclick="revealQuiz()" title="Pista" style="flex:0 0 auto">💡</button>
+        <button class="btn btn-primary" id="quiz-check" onclick="checkQuiz()" style="flex:1"><span data-es="Verificar" data-ca="Verificar">Verificar</span></button>
+      </div>
+      <div class="feedback-box" id="quiz-feedback"></div>
+      <button class="btn btn-gold" id="quiz-next" style="display:none;width:100%;margin-top:0.8rem" onclick="quizNext()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
+    </div>
+  </div>
 </div>
 </div>
 
@@ -91,8 +123,10 @@
 <script>
 let categories = [], catIdx = 0, cardIdx = 0, flipped = false;
 let seenCards = new Set();
+let mode = 'cards';
+let quizList = [], quizIdx = 0, quizScore = 0, quizTotal = 0, quizAnswered = false, quizFinished = false;
 const lang = () => localStorage.getItem('laura_lang') || 'es';
-const FILES = ['nature','culture','expressions','maison','nourriture','ville','corps','temps','famille','verbes'];
+const FILES = ['nature','culture','expressions','maison','nourriture','ville','corps','temps','famille','verbes','voyage','travail','emotions','loisirs'];
 
 async function load() {
   const themes = await Promise.all(FILES.map(async f => {
@@ -121,7 +155,7 @@ function renderTabs() {
     const b = document.createElement('button');
     b.className = 'tab' + (i === catIdx ? ' active' : '');
     b.textContent = cat.emoji + ' ' + cat.nom[lang()];
-    b.onclick = () => { catIdx = i; cardIdx = 0; flipped = false; renderTabs(); renderCard(); renderWordList(); };
+    b.onclick = () => { catIdx = i; cardIdx = 0; flipped = false; renderTabs(); renderCard(); renderWordList(); if (mode === 'quiz') startQuiz(); };
     el.appendChild(b);
   });
 }
@@ -172,10 +206,106 @@ function renderWordList() {
   document.getElementById('word-list').innerHTML = html;
 }
 
+
+/* ---------- MODE QUIZ (écrire le mot français) ---------- */
+function qnorm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,''); }
+function stripArticle(s){ return (s||'').replace(/^(les |le |la |l'|un |une |des |du |de la |d')/i,''); }
+
+function setMode(m){
+  mode = m;
+  document.getElementById('btn-cards').className = 'btn ' + (m==='cards'?'btn-gold':'btn-ghost');
+  document.getElementById('btn-quiz').className = 'btn ' + (m==='quiz'?'btn-gold':'btn-ghost');
+  document.getElementById('cards-zone').style.display = m==='cards'?'':'none';
+  document.getElementById('quiz-zone').style.display = m==='quiz'?'':'none';
+  if (m==='quiz') startQuiz();
+}
+
+function startQuiz(){
+  const cat = categories[catIdx];
+  if(!cat) return;
+  quizList = [...cat.mots].sort(()=>Math.random()-0.5);
+  quizIdx = 0; quizScore = 0; quizTotal = 0; quizFinished = false;
+  document.getElementById('quiz-input').style.display = '';
+  renderQuiz();
+}
+
+function renderQuiz(){
+  quizAnswered = false; quizFinished = false;
+  const m = quizList[quizIdx], l = lang();
+  document.getElementById('quiz-emoji').textContent = m.emoji || '🍁';
+  document.getElementById('quiz-prompt').textContent = m[l];
+  document.getElementById('quiz-instr').textContent = l==='es' ? 'Escribe la palabra en francés' : 'Escriu la paraula en francès';
+  const inp = document.getElementById('quiz-input');
+  inp.value=''; inp.disabled=false; inp.style.borderColor=''; inp.style.display='';
+  const fb = document.getElementById('quiz-feedback'); fb.className='feedback-box'; fb.innerHTML='';
+  document.getElementById('quiz-check').style.display='';
+  const nb = document.getElementById('quiz-next'); nb.style.display='none';
+  nb.innerHTML = (l==='es'?'Siguiente':'Següent') + ' →';
+  document.getElementById('quiz-score').textContent = quizScore;
+  document.getElementById('quiz-total').textContent = quizTotal;
+  document.getElementById('quiz-prog').style.width = (quizList.length ? (quizIdx/quizList.length*100) : 0) + '%';
+  inp.focus();
+}
+
+function checkQuiz(){
+  if(quizAnswered) return;
+  const m = quizList[quizIdx], l = lang();
+  const val = document.getElementById('quiz-input').value;
+  const ans = qnorm(val);
+  const correct = ans.length>0 && (ans===qnorm(m.fr) || ans===qnorm(stripArticle(m.fr)));
+  quizAnswered = true; quizTotal++;
+  const inp = document.getElementById('quiz-input'); inp.disabled=true;
+  const fb = document.getElementById('quiz-feedback');
+  if(correct){
+    quizScore++;
+    inp.style.borderColor='var(--sage)';
+    fb.className='feedback-box correct';
+    fb.innerHTML = (l==='es'?'✅ ¡Correcto! ':'✅ Correcte! ') + '<strong>'+m.fr+'</strong>';
+  } else {
+    inp.style.borderColor='var(--maple)';
+    fb.className='feedback-box incorrect';
+    fb.innerHTML = (l==='es'?'❌ La respuesta: ':'❌ La resposta: ') + '<strong>'+m.fr+'</strong>';
+  }
+  if(window.Progress) Progress.recordExercise('vocabulaire', categories[catIdx].id, correct);
+  document.getElementById('quiz-score').textContent = quizScore;
+  document.getElementById('quiz-total').textContent = quizTotal;
+  document.getElementById('quiz-check').style.display='none';
+  const nb = document.getElementById('quiz-next'); nb.style.display=''; nb.focus();
+}
+
+function revealQuiz(){
+  if(quizAnswered) return;
+  const m = quizList[quizIdx];
+  const inp = document.getElementById('quiz-input');
+  const bare = stripArticle(m.fr);
+  inp.value = bare.charAt(0);
+  inp.focus();
+}
+
+function quizNext(){
+  if(quizFinished){ startQuiz(); return; }
+  quizIdx++;
+  if(quizIdx >= quizList.length){ finishQuiz(); return; }
+  renderQuiz();
+}
+
+function finishQuiz(){
+  quizFinished = true;
+  const l = lang();
+  document.getElementById('quiz-emoji').textContent = '🏆';
+  document.getElementById('quiz-prompt').textContent = l==='es' ? '¡Terminado!' : 'Acabat!';
+  document.getElementById('quiz-instr').textContent = (l==='es'?'Puntuación: ':'Puntuació: ') + quizScore + ' / ' + quizList.length;
+  document.getElementById('quiz-input').style.display='none';
+  document.getElementById('quiz-check').style.display='none';
+  const fb = document.getElementById('quiz-feedback'); fb.className='feedback-box'; fb.innerHTML='';
+  const nb = document.getElementById('quiz-next'); nb.style.display=''; nb.innerHTML = '↻ ' + (l==='es'?'Repetir':'Repetir');
+  document.getElementById('quiz-prog').style.width='100%';
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   load();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(() => { if(categories.length){renderTabs(); renderCard(); renderWordList();} }, 0));
+    b.addEventListener('click', () => setTimeout(() => { if(categories.length){renderTabs(); renderCard(); renderWordList(); if(mode==='quiz' && quizList.length && !quizFinished) renderQuiz();} }, 0));
   });
 });
 </script>

@@ -1,0 +1,286 @@
+{
+  "dialogues": [
+    {
+      "id": "cafe",
+      "emoji": "☕",
+      "niveau": "A1",
+      "titre": {
+        "es": "En el café",
+        "ca": "Al cafè"
+      },
+      "lignes": [
+        {
+          "qui": "👤",
+          "fr": "Bonjour ! Qu'est-ce que vous voulez ?",
+          "es": "¡Buenos días! ¿Qué desea?",
+          "ca": "Bon dia! Què voleu?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Bonjour, je voudrais un café, s'il vous plaît.",
+          "es": "Buenos días, querría un café, por favor.",
+          "ca": "Bon dia, voldria un cafè, si us plau."
+        },
+        {
+          "qui": "👤",
+          "fr": "Un café. Et avec ça ?",
+          "es": "Un café. ¿Algo más?",
+          "ca": "Un cafè. I res més?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Un croissant aussi, merci.",
+          "es": "Un cruasán también, gracias.",
+          "ca": "Un croissant també, gràcies."
+        },
+        {
+          "qui": "👤",
+          "fr": "Ça fait trois euros cinquante.",
+          "es": "Son tres euros cincuenta.",
+          "ca": "Són tres euros cinquanta."
+        },
+        {
+          "qui": "🙋",
+          "fr": "Voilà. Merci, bonne journée !",
+          "es": "Aquí tiene. Gracias, ¡buen día!",
+          "ca": "Aquí té. Gràcies, bon dia!"
+        }
+      ]
+    },
+    {
+      "id": "presenter",
+      "emoji": "🤝",
+      "niveau": "A1",
+      "titre": {
+        "es": "Presentarse",
+        "ca": "Presentar-se"
+      },
+      "lignes": [
+        {
+          "qui": "🙋",
+          "fr": "Bonjour, je m'appelle Laura. Et toi ?",
+          "es": "Hola, me llamo Laura. ¿Y tú?",
+          "ca": "Hola, em dic Laura. I tu?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Salut Laura ! Moi, c'est Olivier.",
+          "es": "¡Hola Laura! Yo soy Olivier.",
+          "ca": "Hola Laura! Jo soc l'Olivier."
+        },
+        {
+          "qui": "🙋",
+          "fr": "Enchantée. Tu viens d'où ?",
+          "es": "Encantada. ¿De dónde eres?",
+          "ca": "Encantada. D'on ets?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Je viens du Québec. Et toi ?",
+          "es": "Soy de Quebec. ¿Y tú?",
+          "ca": "Soc del Quebec. I tu?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Je suis espagnole, de Barcelone.",
+          "es": "Soy española, de Barcelona.",
+          "ca": "Soc espanyola, de Barcelona."
+        },
+        {
+          "qui": "👤",
+          "fr": "Super ! Tu parles très bien français.",
+          "es": "¡Genial! Hablas muy bien francés.",
+          "ca": "Genial! Parles molt bé francès."
+        }
+      ]
+    },
+    {
+      "id": "chemin",
+      "emoji": "🗺️",
+      "niveau": "A2",
+      "titre": {
+        "es": "Pedir direcciones",
+        "ca": "Demanar direccions"
+      },
+      "lignes": [
+        {
+          "qui": "🙋",
+          "fr": "Excusez-moi, où est la gare ?",
+          "es": "Disculpe, ¿dónde está la estación?",
+          "ca": "Disculpi, on és l'estació?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Continuez tout droit, puis tournez à gauche.",
+          "es": "Siga recto y luego gire a la izquierda.",
+          "ca": "Continuï tot recte i després giri a l'esquerra."
+        },
+        {
+          "qui": "🙋",
+          "fr": "C'est loin d'ici ?",
+          "es": "¿Está lejos de aquí?",
+          "ca": "És lluny d'aquí?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Non, c'est à cinq minutes à pied.",
+          "es": "No, está a cinco minutos andando.",
+          "ca": "No, és a cinc minuts a peu."
+        },
+        {
+          "qui": "🙋",
+          "fr": "Merci beaucoup pour votre aide !",
+          "es": "¡Muchas gracias por su ayuda!",
+          "ca": "Moltes gràcies per la seva ajuda!"
+        },
+        {
+          "qui": "👤",
+          "fr": "Je vous en prie. Bonne route !",
+          "es": "De nada. ¡Buen viaje!",
+          "ca": "De res. Bon viatge!"
+        }
+      ]
+    },
+    {
+      "id": "epicerie",
+      "emoji": "🛒",
+      "niveau": "A2",
+      "titre": {
+        "es": "En la tienda",
+        "ca": "A la botiga"
+      },
+      "lignes": [
+        {
+          "qui": "🙋",
+          "fr": "Bonjour, je cherche du pain et du fromage.",
+          "es": "Hola, busco pan y queso.",
+          "ca": "Hola, busco pa i formatge."
+        },
+        {
+          "qui": "👤",
+          "fr": "Le pain est là-bas. Quel fromage voulez-vous ?",
+          "es": "El pan está allí. ¿Qué queso quiere?",
+          "ca": "El pa és allà. Quin formatge voleu?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Je ne sais pas. Qu'est-ce que vous me conseillez ?",
+          "es": "No sé. ¿Qué me recomienda?",
+          "ca": "No ho sé. Què em recomana?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Ce fromage-là est excellent, et pas cher.",
+          "es": "Ese queso es excelente, y barato.",
+          "ca": "Aquell formatge és excel·lent, i barat."
+        },
+        {
+          "qui": "🙋",
+          "fr": "Parfait, j'en prends un. C'est tout.",
+          "es": "Perfecto, me llevo uno. Es todo.",
+          "ca": "Perfecte, en prenc un. Això és tot."
+        },
+        {
+          "qui": "👤",
+          "fr": "Très bien. Vous payez à la caisse.",
+          "es": "Muy bien. Paga en la caja.",
+          "ca": "Molt bé. Pagueu a la caixa."
+        }
+      ]
+    },
+    {
+      "id": "medecin",
+      "emoji": "🩺",
+      "niveau": "B1",
+      "titre": {
+        "es": "En el médico",
+        "ca": "Al metge"
+      },
+      "lignes": [
+        {
+          "qui": "👤",
+          "fr": "Bonjour, qu'est-ce qui ne va pas ?",
+          "es": "Buenos días, ¿qué le pasa?",
+          "ca": "Bon dia, què li passa?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "J'ai mal à la tête depuis deux jours.",
+          "es": "Me duele la cabeza desde hace dos días.",
+          "ca": "Em fa mal el cap des de fa dos dies."
+        },
+        {
+          "qui": "👤",
+          "fr": "Vous avez de la fièvre ?",
+          "es": "¿Tiene fiebre?",
+          "ca": "Té febre?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Un peu, et je suis très fatiguée.",
+          "es": "Un poco, y estoy muy cansada.",
+          "ca": "Una mica, i estic molt cansada."
+        },
+        {
+          "qui": "👤",
+          "fr": "Reposez-vous et buvez beaucoup d'eau.",
+          "es": "Descanse y beba mucha agua.",
+          "ca": "Descansi i begui molta aigua."
+        },
+        {
+          "qui": "🙋",
+          "fr": "D'accord, merci docteur.",
+          "es": "De acuerdo, gracias doctor.",
+          "ca": "D'acord, gràcies doctor."
+        }
+      ]
+    },
+    {
+      "id": "weekend",
+      "emoji": "😊",
+      "niveau": "A2",
+      "titre": {
+        "es": "Charlar (el fin de semana)",
+        "ca": "Xerrar (el cap de setmana)"
+      },
+      "lignes": [
+        {
+          "qui": "👤",
+          "fr": "Salut ! Tu as passé un bon week-end ?",
+          "es": "¡Hola! ¿Pasaste un buen fin de semana?",
+          "ca": "Hola! Has passat un bon cap de setmana?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Oui, très bien ! On est allés à la montagne.",
+          "es": "Sí, ¡muy bien! Fuimos a la montaña.",
+          "ca": "Sí, molt bé! Vam anar a la muntanya."
+        },
+        {
+          "qui": "👤",
+          "fr": "Génial ! Il faisait beau ?",
+          "es": "¡Genial! ¿Hacía buen tiempo?",
+          "ca": "Genial! Feia bon temps?"
+        },
+        {
+          "qui": "🙋",
+          "fr": "Oui, un soleil magnifique. Et toi ?",
+          "es": "Sí, un sol magnífico. ¿Y tú?",
+          "ca": "Sí, un sol magnífic. I tu?"
+        },
+        {
+          "qui": "👤",
+          "fr": "Moi, j'ai travaillé un peu et j'ai couru.",
+          "es": "Yo trabajé un poco y corrí.",
+          "ca": "Jo vaig treballar una mica i vaig córrer."
+        },
+        {
+          "qui": "🙋",
+          "fr": "On se voit vendredi pour un café ?",
+          "es": "¿Nos vemos el viernes para un café?",
+          "ca": "Ens veiem divendres per un cafè?"
+        }
+      ]
+    }
+  ]
+}

@@ -80,6 +80,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="../js/supabase-config.js"></script>
 <script src="../js/progress.js"></script>
+<script src="../js/revision.js"></script>
 <script src="../js/lang.js"></script>
 <script>
 let data = null, modIdx = 0, qIdx = 0, score = 0, answered = false;
@@ -160,6 +161,7 @@ function checkAns() {
   const correct = gnorm(val) === gnorm(q.reponse);
   if (correct) score++;
   if (window.Progress) Progress.recordExercise('grammaire', data.modules[modIdx].id, correct);
+  if (window.Revision) { const it = {type:'gram', phrase:q.phrase, reponse:q.reponse}; if (correct) Revision.remove(it); else Revision.add(it); }
   const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box show ' + (correct ? 'correct' : 'wrong');
   const head = correct

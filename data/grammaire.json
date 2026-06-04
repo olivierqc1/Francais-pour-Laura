@@ -1,113 +1,226 @@
 {
   "modules": [
     {
-      "id": "articles",
-      "titre": { "es": "Los artículos — le, la, les, un, une, des, du, de la", "ca": "Els articles — le, la, les, un, une, des, du, de la" },
-      "niveau": "A1",
+      "titre": {
+        "es": "Los artículos",
+        "ca": "Els articles"
+      },
       "explication": {
-        "es": "En francés hay 3 tipos de artículos. Los dos primeros los conoces del español — el tercero (partitivo) NO existe en español y es el más importante aprender.\n\n📌 1. ARTÍCULOS DEFINIDOS (el / la / los / las)\n• le → masculino singular: le fleuve (el río), le hockey\n• la → femenino singular: la neige (la nieve), la forêt (el bosque)\n• l' → ante vocal o h muda: l'hiver (el invierno), l'érable (el arce)\n• les → plural: les Québécois (los quebequenses)\n→ Se usan cuando el objeto ya es conocido o cuando se generaliza sobre toda una categoría.\n\n📌 2. ARTÍCULOS INDEFINIDOS (un / una / unos / unas)\n• un → masculino: un lac (un lago), un festival\n• une → femenino: une chanson (una canción), une tourtière\n• des → plural: des lacs (unos lagos)\n→ Se usan cuando se presenta algo por primera vez o cuando no es específico.\n\n📌 3. ARTÍCULOS PARTITIVOS — no existen en español\n→ Se usan para hablar de una cantidad indeterminada de algo no contable.\n• du = de + le → masculino: manger du sirop d'érable\n• de la → femenino: boire de la bière\n• de l' → ante vocal: boire de l'eau\n\n💡 Résumé facile — los 3 tipos con el mismo ejemplo:\n→ Je mange LA poutine. = Como LA poutine (esa poutine específica que conozco)\n→ Je mange UNE poutine. = Como UNA poutine (una en concreto que acabo de pedir)\n→ Je mange DE LA poutine. = Como poutine (una cantidad, el plato en general)\n\n⚠️ Después de una negación, du/de la/des → DE:\n→ Je mange de la poutine. ✅\n→ Je ne mange PAS DE poutine. ✅ (no: pas de la poutine)",
-        "ca": "En francès hi ha 3 tipus d'articles. Els dos primers els coneixes del castellà — el tercer (partitiu) NO existeix en castellà i és el més important aprendre.\n\n📌 1. ARTICLES DEFINITS (el / la / els / les)\n• le → masculí singular: le fleuve (el riu), le hockey\n• la → femení singular: la neige (la neu), la forêt (el bosc)\n• l' → davant vocal o h muda: l'hiver (l'hivern), l'érable (l'auró)\n• les → plural: les Québécois (els quebequesos)\n→ S'usen quan l'objecte ja és conegut o quan es generalitza sobre tota una categoria.\n\n📌 2. ARTICLES INDEFINITS (un / una / uns / unes)\n• un → masculí: un lac (un llac), un festival\n• une → femení: une chanson (una cançó), une tourtière\n• des → plural: des lacs (uns llacs)\n→ S'usen quan es presenta alguna cosa per primera vegada o quan no és específic.\n\n📌 3. ARTICLES PARTITIUS — no existeixen en castellà\n→ S'usen per parlar d'una quantitat indeterminada d'alguna cosa no comptable.\n• du = de + le → masculí: manger du sirop d'érable\n• de la → femení: boire de la bière\n• de l' → davant vocal: boire de l'eau\n\n💡 Résumé fàcil — els 3 tipus amb el mateix exemple:\n→ Je mange LA poutine. = Menjo LA poutine (aquella poutine específica)\n→ Je mange UNE poutine. = Menjo UNA poutine (una en concret)\n→ Je mange DE LA poutine. = Menjo poutine (quantitat indeterminada)\n\n⚠️ Després d'una negació, du/de la/des → DE:\n→ Je mange de la poutine. ✅\n→ Je ne mange PAS DE poutine. ✅"
+        "es": "<b>Definidos</b>: le (m), la (f), les (pl). <b>Indefinidos</b>: un, une, des. <b>Partitivos</b> (una cantidad indefinida — ¡no existe en español!): du (m), de la (f), de l' (ante vocal), des (pl).",
+        "ca": "<b>Definits</b>: le (m), la (f), les (pl). <b>Indefinits</b>: un, une, des. <b>Partitius</b> (una quantitat indefinida — no existeix en castellà!): du (m), de la (f), de l' (davant vocal), des (pl)."
       },
       "exercices": [
-        { "phrase": "___ hiver québécois est long et froid.", "reponse": "L'", "options": ["L'", "Le", "La", "Un"], "explication": { "es": "'hiver' es masculino y empieza por vocal → élision: L'hiver. Definido porque hablamos del invierno québécois en general.", "ca": "'hiver' és masculí i comença per vocal → elisió: L'hiver. Definit perquè parlem de l'hivern québécois en general." } },
-        { "phrase": "Je mange ___ poutine au restaurant.", "reponse": "de la", "options": ["de la", "la", "une", "du"], "explication": { "es": "Poutine = femenino + cantidad indeterminada → partitif 'de la'. La diferencia clave con el español: en FR dices 'de la' donde en ES simplemente dices 'poutine' sin artículo.", "ca": "Poutine = femení + quantitat indeterminada → partitiu 'de la'. La diferència clau amb el castellà: en FR dius 'de la' on en castellà simplement dius 'poutine' sense article." } },
-        { "phrase": "Vigneault est ___ grand chanteur québécois.", "reponse": "un", "options": ["un", "le", "du", "une"], "explication": { "es": "Artículo indefinido masculino → 'un'. Si dijéramos 'le grand chanteur' implicaría que es EL único. 'Un grand chanteur' = uno de los grandes.", "ca": "Article indefinit masculí → 'un'. Si diguéssim 'le grand chanteur' implicaria que és L'únic. 'Un grand chanteur' = un dels grans." } },
-        { "phrase": "Au Québec, on boit ___ sirop d'érable sur les crêpes.", "reponse": "du", "options": ["du", "le", "un", "de la"], "explication": { "es": "Sirop = masculino + cantidad indeterminada → partitif 'du' (= de + le). Truco: si en español dices 'bebo café / bebo jarabe' sin artículo, en FR usas du/de la.", "ca": "Sirop = masculí + quantitat indeterminada → partitiu 'du' (= de + le). Truc: si en castellà dius 'bec cafè / bec xarop' sense article, en FR uses du/de la." } },
-        { "phrase": "___ Québécois sont très accueillants.", "reponse": "Les", "options": ["Les", "Des", "Le", "Du"], "explication": { "es": "Generalización sobre todo un grupo → definido plural 'Les'. En francés, cuando generalizas sobre una categoría entera usas el artículo definido.", "ca": "Generalització sobre tot un grup → definit plural 'Les'. En francès, quan generalitzes sobre una categoria sencera uses l'article definit." } },
-        { "phrase": "Je ne bois pas ___ café le soir.", "reponse": "de", "options": ["de", "du", "le", "un"], "explication": { "es": "Negación + partitif → 'de'. Regla: du/de la/des → DE después de negación. Je bois DU café → Je ne bois PAS DE café.", "ca": "Negació + partitiu → 'de'. Regla: du/de la/des → DE després de negació. Je bois DU café → Je ne bois PAS DE café." } }
+        {
+          "phrase": "J'aime ___ hockey.",
+          "reponse": "le"
+        },
+        {
+          "phrase": "Elle regarde ___ télévision.",
+          "reponse": "la"
+        },
+        {
+          "phrase": "Nous visitons ___ musées.",
+          "reponse": "les"
+        },
+        {
+          "phrase": "Il y a ___ chat dans le jardin.",
+          "reponse": "un"
+        },
+        {
+          "phrase": "Je voudrais ___ pomme, s'il vous plaît.",
+          "reponse": "une"
+        },
+        {
+          "phrase": "Il achète ___ légumes au marché.",
+          "reponse": "des"
+        },
+        {
+          "phrase": "Je mange ___ poutine au restaurant.",
+          "reponse": "de la"
+        },
+        {
+          "phrase": "Tu bois ___ café ?",
+          "reponse": "du"
+        },
+        {
+          "phrase": "Elle boit ___ eau.",
+          "reponse": "de l'"
+        }
       ]
     },
     {
-      "id": "negation",
-      "titre": { "es": "La Negación — ne...pas, ne...jamais, ne...plus, ne...rien", "ca": "La Negació — ne...pas, ne...jamais, ne...plus, ne...rien" },
-      "niveau": "A1",
+      "titre": {
+        "es": "La negación",
+        "ca": "La negació"
+      },
       "explication": {
-        "es": "En francés, la negación es DOBLE — dos palabras rodean el verbo. Es diferente al español donde basta un solo 'no'.\n\n📌 Las formas principales:\n• ne...pas = no (negación simple)\n  → Je ne parle pas anglais. (No hablo inglés.)\n• ne...jamais = nunca / jamás\n  → Il ne neige jamais en juillet. (Nunca nieva en julio.)\n• ne...plus = ya no\n  → Nelligan n'écrit plus. (Nelligan ya no escribe.)\n• ne...rien = nada\n  → Je ne comprends rien. (No entiendo nada.)\n• ne...personne = nadie\n  → Je ne connais personne à Québec. (No conozco a nadie.)\n• ne...que = solo / solamente\n  → Il ne parle qu'en français. (Solo habla en francés.)\n\n⚠️ ÉLISION — ne → n' ante vocal:\n→ Je n'aime pas le froid. (No me gusta el frío.)\n→ Il n'a pas de voiture. (No tiene coche.)\n→ On n'habite pas à Montréal.\n\n⚠️ ARTÍCULO después de negación:\nDu, de la, des → DE después de negación:\n→ Je mange de la poutine. → Je ne mange PAS DE poutine.\n→ Il a des amis. → Il n'a PAS D'amis.\n\n💡 QUÉBÉCOIS FAMILIER — el 'ne' desaparece en oral:\n→ 'Je mange pas' = 'Je ne mange pas'\n→ 'T'as pas vu ça?' = 'Tu n'as pas vu ça?'\nNormal escucharlo en canciones y series — pero en escrito siempre se conserva el ne.",
-        "ca": "En francès, la negació és DOBLE — dues paraules envolten el verb. És diferent del castellà on n'hi ha prou amb un sol 'no'.\n\n📌 Les formes principals:\n• ne...pas = no (negació simple)\n  → Je ne parle pas anglais. (No parlo anglès.)\n• ne...jamais = mai / mai més\n  → Il ne neige jamais en juillet. (Mai neva al juliol.)\n• ne...plus = ja no\n  → Nelligan n'écrit plus. (Nelligan ja no escriu.)\n• ne...rien = res\n  → Je ne comprends rien. (No entenc res.)\n• ne...personne = ningú\n  → Je ne connais personne à Québec. (No conec ningú al Quebec.)\n• ne...que = només / solament\n  → Il ne parle qu'en français. (Només parla en francès.)\n\n⚠️ ELISIÓ — ne → n' davant vocal:\n→ Je n'aime pas le froid.\n→ Il n'a pas de voiture.\n→ On n'habite pas à Montréal.\n\n⚠️ ARTICLE després de negació:\nDu, de la, des → DE després de negació:\n→ Je mange de la poutine. → Je ne mange PAS DE poutine.\n→ Il a des amis. → Il n'a PAS D'amis.\n\n💡 QUÉBÉCOIS FAMILIAR — el 'ne' desapareix en oral:\n→ 'Je mange pas' = 'Je ne mange pas'\n→ 'T'as pas vu ça?' = 'Tu n'as pas vu ça?'\nNormal sentir-ho en cançons i sèries — però per escrit sempre es conserva el ne."
+        "es": "La negación se forma con <b>ne + verbo + pas</b>. Variantes: <b>ne...jamais</b> (nunca), <b>ne...plus</b> (ya no), <b>ne...rien</b> (nada), <b>ne...personne</b> (nadie). En Quebec el «ne» a menudo no se pronuncia, ¡pero sí se escribe!",
+        "ca": "La negació es forma amb <b>ne + verb + pas</b>. Variants: <b>ne...jamais</b> (mai), <b>ne...plus</b> (ja no), <b>ne...rien</b> (res), <b>ne...personne</b> (ningú). Al Quebec el «ne» sovint no es pronuncia, però s'escriu!"
       },
       "exercices": [
-        { "phrase": "Je ___ parle ___ anglais à la maison.", "reponse": "ne / pas", "options": ["ne / pas", "pas / ne", "n' / jamais", "non / pas"], "explication": { "es": "Negación simple → ne...pas. 'parle' empieza por consonante → ne (sin élision). Estructura: SUJET + ne + VERBE + pas.", "ca": "Negació simple → ne...pas. 'parle' comença per consonant → ne (sense elisió)." } },
-        { "phrase": "Au Québec, il ___ fait ___ aussi chaud qu'en Espagne.", "reponse": "ne / jamais", "options": ["ne / jamais", "ne / pas", "n' / plus", "ne / rien"], "explication": { "es": "Nunca hace tanto calor → ne...jamais. 'fait' empieza por consonante → ne.", "ca": "Mai fa tant de calor → ne...jamais. 'fait' comença per consonant → ne." } },
-        { "phrase": "Nelligan ___ écrit ___ de poèmes après ses 20 ans.", "reponse": "n' / plus", "options": ["n' / plus", "ne / pas", "n' / jamais", "ne / rien"], "explication": { "es": "Ya no escribe más (fue internado) → ne...plus. 'écrit' empieza por vocal → élision: n'.", "ca": "Ja no escriu més (va ser internat) → ne...plus. 'écrit' comença per vocal → elisió: n'." } },
-        { "phrase": "Je ___ comprends ___ quand les Québécois parlent très vite.", "reponse": "ne / rien", "options": ["ne / rien", "ne / pas", "n' / personne", "ne / jamais"], "explication": { "es": "No entiendo nada → ne...rien. 'comprends' empieza por consonante → ne.", "ca": "No entenc res → ne...rien. 'comprends' comença per consonant → ne." } },
-        { "phrase": "___ aime le froid, mais on aime quand même le Québec !", "reponse": "On n'", "options": ["On n'", "On ne", "Nous ne", "On pas"], "explication": { "es": "On + n' + aime (vocal) → élision: n'. La frase: 'On n'aime pas le froid, mais on aime le Québec !'", "ca": "On + n' + aime (vocal) → elisió: n'. La frase: 'On n'aime pas le froid, mais on aime le Québec !'" } },
-        { "phrase": "Je ___ connais ___ à Montréal — c'est ma première visite.", "reponse": "ne / personne", "options": ["ne / personne", "ne / rien", "n' / plus", "ne / jamais"], "explication": { "es": "No conozco a nadie → ne...personne. 'connais' empieza por consonante → ne.", "ca": "No conec ningú → ne...personne. 'connais' comença per consonant → ne." } }
+        {
+          "phrase": "Je ___ mange pas de viande.",
+          "reponse": "ne"
+        },
+        {
+          "phrase": "Il ne mange ___ de légumes.",
+          "reponse": "pas"
+        },
+        {
+          "phrase": "Elle ne fume ___.",
+          "reponse": "jamais"
+        },
+        {
+          "phrase": "Nous n'avons ___ d'argent.",
+          "reponse": "plus"
+        },
+        {
+          "phrase": "Je ne comprends ___.",
+          "reponse": "rien"
+        },
+        {
+          "phrase": "Tu ne bois ___ d'alcool ?",
+          "reponse": "pas"
+        },
+        {
+          "phrase": "Il n'y a ___ dans la maison.",
+          "reponse": "personne"
+        },
+        {
+          "phrase": "Ils ne sortent ___ le soir.",
+          "reponse": "jamais"
+        }
       ]
     },
     {
-      "id": "adjectifs",
-      "titre": { "es": "El Género y los adjetivos — acuerdo y posición", "ca": "El Gènere i els adjectius — acord i posició" },
-      "niveau": "A1",
+      "titre": {
+        "es": "El género y los adjetivos",
+        "ca": "El gènere i els adjectius"
+      },
       "explication": {
-        "es": "Como en español, todos los nombres en francés tienen género y los adjetivos concuerdan. Pero hay una diferencia importante: la POSICIÓN.\n\n📌 REGLA GENERAL — acuerdo de género y número:\n• Masc. sing. → forma base: grand, petit, froid, beau\n• Fem. sing. → se añade -e: grande, petite, froide, belle\n• Masc. pl. → se añade -s: grands, petits, froids, beaux\n• Fem. pl. → se añade -es: grandes, petites, froides, belles\n\n📌 POSICIÓN — diferencia con el español:\nEn español casi todos los adjetivos van DESPUÉS del nombre.\nEn francés también — PERO los adjetivos cortos y comunes van ANTES:\n\n→ VAN ANTES (AVANT le nom):\npetit/petite, grand/grande, beau/belle, bon/bonne, mauvais/mauvaise, jeune, vieux/vieille, nouveau/nouvelle, long/longue, gros/grosse\n\n→ VAN DESPUÉS (APRÈS le nom):\ntodos los adjetivos de color, nacionalidad, religión, forma, y la mayoría de adjetivos descriptivos largos.\n\n✅ Ejemplos:\n→ Un grand lac québécois (grand AVANT, québécois APRÈS)\n→ Une belle chanson française (belle AVANT, française APRÈS)\n→ Un hiver froid (froid APRÈS — descriptivo)\n\n📝 Irregulares importantes:\n• beau → belle: un beau lac / une belle forêt\n• vieux → vieille: un vieux quartier / une vieille ville\n• nouveau → nouvelle: un nouveau festival / une nouvelle chanson\n• blanc → blanche: le fleuve blanc / la neige blanche\n• long → longue: un long hiver / une longue route\n• gros → grosse: un gros ours / une grosse tempête",
-        "ca": "Com en castellà, tots els noms en francès tenen gènere i els adjectius concorden. Però hi ha una diferència important: la POSICIÓ.\n\n📌 REGLA GENERAL — acord de gènere i nombre:\n• Masc. sing. → forma base: grand, petit, froid, beau\n• Fem. sing. → s'afegeix -e: grande, petite, froide, belle\n• Masc. pl. → s'afegeix -s: grands, petits, froids, beaux\n• Fem. pl. → s'afegeix -es: grandes, petites, froides, belles\n\n📌 POSICIÓ — diferència amb el castellà:\nEn castellà gairebé tots els adjectius van DESPRÉS del nom.\nEn francès també — PERÒ els adjectius curts i comuns van ABANS:\n\n→ VAN ABANS (AVANT le nom):\npetit/petite, grand/grande, beau/belle, bon/bonne, mauvais/mauvaise, jeune, vieux/vieille, nouveau/nouvelle, long/longue, gros/grosse\n\n→ VAN DESPRÉS (APRÈS le nom):\ntots els adjectius de color, nacionalitat, religió, forma, i la majoria d'adjectius descriptius llargs.\n\n✅ Exemples:\n→ Un grand lac québécois (grand AVANT, québécois APRÈS)\n→ Une belle chanson française (belle AVANT, française APRÈS)\n→ Un hiver froid (froid APRÈS — descriptiu)\n\n📝 Irregulars importants:\n• beau → belle: un beau lac / une belle forêt\n• vieux → vieille: un vieux quartier / une vieille ville\n• nouveau → nouvelle: un nouveau festival / une nouvelle chanson\n• blanc → blanche: le fleuve blanc / la neige blanche\n• long → longue: un long hiver / une longue route\n• gros → grosse: un gros ours / une grosse tempête"
+        "es": "El adjetivo concuerda en <b>género</b> y <b>número</b>. Femenino: a menudo +e (petit → petite). Plural: +s. Algunos son irregulares: beau → belle, blanc → blanche.",
+        "ca": "L'adjectiu concorda en <b>gènere</b> i <b>nombre</b>. Femení: sovint +e (petit → petite). Plural: +s. Alguns són irregulars: beau → belle, blanc → blanche."
       },
       "exercices": [
-        { "phrase": "La langue française est très ___ (beau).", "reponse": "belle", "options": ["belle", "beau", "beaux", "belles"], "explication": { "es": "'langue' es femenino singular → beau → belle (irregular). Pronunciación: 'bel'.", "ca": "'langue' és femení singular → beau → belle (irregular). Pronunciació: 'bel'." } },
-        { "phrase": "Les hivers québécois sont très ___ (long).", "reponse": "longs", "options": ["longs", "long", "longue", "longues"], "explication": { "es": "'hivers' es masculino plural → long + s = longs. La 's' es muda. Les hivers sont longs = los inviernos son largos.", "ca": "'hivers' és masculí plural → long + s = longs. La 's' és muda." } },
-        { "phrase": "C'est une ___ ville, mais très animée. (vieux)", "reponse": "vieille", "options": ["vieille", "vieux", "vieil", "vieilles"], "explication": { "es": "'ville' es femenino singular → vieux → vieille. Une vieille ville = una ciudad vieja. VA ANTES del nombre.", "ca": "'ville' és femení singular → vieux → vieille. Une vieille ville = una ciutat vella. VA ABANS del nom." } },
-        { "phrase": "Le Québec est une ___ province canadienne. (grand)", "reponse": "grande", "options": ["grande", "grand", "grands", "grandes"], "explication": { "es": "'province' es femenino singular → grand + e = grande. 'Grande' va AVANT le nom: 'une grande province'.", "ca": "'province' és femení singular → grand + e = grande. 'Grande' va AVANT el nom: 'une grande province'." } },
-        { "phrase": "Vigneault a une voix ___ et chaleureuse. (beau)", "reponse": "belle", "options": ["belle", "beau", "beaux", "bel"], "explication": { "es": "'voix' es femenino singular → beau → belle. 'Une belle voix'.", "ca": "'voix' és femení singular → beau → belle. 'Une belle voix'." } },
-        { "phrase": "Les forêts québécoises sont vraiment ___. (magnifique)", "reponse": "magnifiques", "options": ["magnifiques", "magnifique", "magnifiquement", "magnifiqué"], "explication": { "es": "'forêts' es femenino plural → magnifique + s = magnifiques. 'magnifique' ya tiene -e final → solo añadimos la -s del plural.", "ca": "'forêts' és femení plural → magnifique + s = magnifiques. 'magnifique' ja té -e final → només la -s del plural." } }
+        {
+          "phrase": "La voiture est ___. (petit)",
+          "reponse": "petite"
+        },
+        {
+          "phrase": "Les fleurs sont ___. (beau)",
+          "reponse": "belles"
+        },
+        {
+          "phrase": "C'est un ___ homme. (grand)",
+          "reponse": "grand"
+        },
+        {
+          "phrase": "Une femme ___. (heureux)",
+          "reponse": "heureuse"
+        },
+        {
+          "phrase": "Les chats sont ___. (noir)",
+          "reponse": "noirs"
+        },
+        {
+          "phrase": "Une robe ___. (blanc)",
+          "reponse": "blanche"
+        },
+        {
+          "phrase": "Des livres ___. (intéressant)",
+          "reponse": "intéressants"
+        },
+        {
+          "phrase": "La neige est ___. (froid)",
+          "reponse": "froide"
+        }
       ]
     },
     {
-      "id": "pronoms",
-      "titre": { "es": "Los pronombres sujeto — je, tu, il, elle, nous, vous, ils, elles, ON", "ca": "Els pronoms subjecte — je, tu, il, elle, nous, vous, ils, elles, ON" },
-      "niveau": "A1",
+      "titre": {
+        "es": "Los pronombres sujeto",
+        "ca": "Els pronoms subjecte"
+      },
       "explication": {
-        "es": "Los pronombres sujeto en francés son similares al español pero con particularidades clave.\n\n📌 Los 9 pronombres:\n• je → yo (j' ante vocal: j'aime, j'habite)\n• tu → tú (siempre singular e informal)\n• il → él / impersonal: il pleut (llueve), il fait froid (hace frío)\n• elle → ella\n• nous → nosotros/as\n• vous → vosotros / usted / ustedes (formal o plural)\n• ils → ellos (o grupo mixto masc.+fem.)\n• elles → ellas (solo femenino puro)\n• on → ver abajo ↓\n\n⚠️ ON — el pronombre más québécois:\nEn francés estándar: on = uno / se (on dit = se dice)\nEn québécois y francés oral: ON = NOUS (nosotros)\n→ 'On mange de la poutine.' = Comemos poutine.\n→ 'On va au festival ce soir.' = Vamos al festival esta noche.\n→ 'On est contents !' = ¡Estamos contentos!\nVigneault usa 'on' constantemente en sus canciones.\n\n⚠️ VOUS de politesse:\nEn Quebec el 'vous' formal se usa MENOS que en Francia. Los québécois tutean (usan 'tu') en muchas situaciones donde un parisino usaría 'vous'. Pero con desconocidos mayores o en contexto formal → vous.\n\n⚠️ ILS vs ELLES:\n→ Si el grupo tiene aunque sea UNA persona masculina → ils\n→ Ma mère et ma sœur → elles (dos mujeres)\n→ Ma mère et mon père → ils (mezcla → ils)\n\n💡 IL impersonal — no confundir con 'él':\n→ Il neige. = Nieva.\n→ Il fait beau. = Hace buen tiempo.\n→ Il y a des lacs partout. = Hay lagos por todas partes.",
-        "ca": "Els pronoms subjecte en francès s'assemblen al castellà però amb particularitats clau.\n\n📌 Els 9 pronoms:\n• je → jo (j' davant vocal: j'aime, j'habite)\n• tu → tu (sempre singular i informal)\n• il → ell / impersonal: il pleut (plou), il fait froid (fa fred)\n• elle → ella\n• nous → nosaltres\n• vous → vosaltres / vostè / vostès (formal o plural)\n• ils → ells (o grup mixt masc.+fem.)\n• elles → elles (només femení pur)\n• on → veure avall ↓\n\n⚠️ ON — el pronom més québécois:\nEn francès estàndard: on = hom / es (on dit = es diu)\nEn québécois i francès oral: ON = NOUS (nosaltres)\n→ 'On mange de la poutine.' = Mengem poutine.\n→ 'On va au festival ce soir.' = Anem al festival aquest vespre.\n→ 'On est contents !' = Estem contents!\nVigneault usa 'on' constantment en les seves cançons.\n\n⚠️ VOUS de cortesia:\nAl Quebec el 'vous' formal s'usa MENYS que a França. Els québécois tutegen (usen 'tu') en moltes situacions on un parisenc usaria 'vous'.\n\n⚠️ ILS vs ELLES:\n→ Si el grup té almenys UNA persona masculina → ils\n→ Ma mère et ma sœur → elles\n→ Ma mère et mon père → ils (barreja → ils)\n\n💡 IL impersonal — no confondre amb 'ell':\n→ Il neige. = Neva.\n→ Il fait beau. = Fa bon temps.\n→ Il y a des lacs partout. = Hi ha llacs per tot arreu."
+        "es": "<b>je</b> (yo), <b>tu</b> (tú), <b>il/elle</b> (él/ella), <b>nous</b> (nosotros), <b>vous</b> (vosotros/usted), <b>ils/elles</b> (ellos/ellas). En Quebec, <b>on</b> se usa muchísimo en lugar de «nous».",
+        "ca": "<b>je</b> (jo), <b>tu</b> (tu), <b>il/elle</b> (ell/ella), <b>nous</b> (nosaltres), <b>vous</b> (vosaltres/vostè), <b>ils/elles</b> (ells/elles). Al Quebec, <b>on</b> s'usa moltíssim en lloc de «nous»."
       },
       "exercices": [
-        { "phrase": "___ va au Festival de Jazz ce soir. (nosotros — forma oral québécoise)", "reponse": "On", "options": ["On", "Nous", "Ils", "Vous"], "explication": { "es": "En québécois oral, 'on' = nosotros. 'On va' = vamos. Es la forma más natural hablando. 'Nous allons' sería más formal/escrito.", "ca": "En québécois oral, 'on' = nosaltres. 'On va' = anem. És la forma més natural parlant." } },
-        { "phrase": "___ neige beaucoup en hiver au Québec.", "reponse": "Il", "options": ["Il", "Elle", "On", "Ça"], "explication": { "es": "Il impersonal para fenómenos meteorológicos. Il neige = Nieva. Il pleut = Llueve. Este 'il' NO se refiere a ninguna persona.", "ca": "Il impersonal per a fenòmens meteorològics. Il neige = Neva. Il pleut = Plou." } },
-        { "phrase": "___ êtes québécois, monsieur ?", "reponse": "Vous", "options": ["Vous", "Tu", "Ils", "On"], "explication": {
-            "es": "Il impersonal para fenómenos meteorológicos. Il neige = Nieva. Il pleut = Llueve. Este 'il' NO se refiere a ninguna persona.",
-            "ca": "Il impersonal per a fenòmens meteorològics. Il neige = Neva. Il pleut = Plou."
-          }
+        {
+          "phrase": "___ suis québécois.",
+          "reponse": "je"
         },
         {
-          "phrase": "___ êtes québécois, monsieur ?",
-          "reponse": "Vous",
-          "options": [
-            "Vous",
-            "Tu",
-            "Ils",
-            "On"
-          ],
-          "explication": {
-            "es": "Contexto formal ('monsieur') → vous de politesse. 'Vous êtes' = Usted es.",
-            "ca": "Context formal ('monsieur') → vous de cortesia. 'Vous êtes' = Vostè és."
-          }
+          "phrase": "___ es espagnole.",
+          "reponse": "tu"
         },
         {
-          "phrase": "Vigneault et Nelligan ? ___ sont des géants de la poésie québécoise.",
-          "reponse": "Ils",
-          "options": [
-            "Ils",
-            "Elles",
-            "On",
-            "Vous"
-          ],
-          "explication": {
-            "es": "Dos hombres → ils (masculino plural). Regla: si hay al menos una persona masculina → ils.",
-            "ca": "Dos homes → ils (masculí plural). Regla: si hi ha almenys una persona masculina → ils."
-          }
+          "phrase": "___ mange une pomme. (él)",
+          "reponse": "il"
         },
         {
-          "phrase": "Laura et moi, ___ allons apprendre le français ensemble !",
-          "reponse": "on",
-          "options": [
-            "on",
-            "nous",
-            "ils",
-            "vous"
-          ],
-          "explication": {
-            "es": "'Laura et moi' = nosotros. En oral québécois → 'on'. On va apprendre = Vamos a aprender.",
-            "ca": "'Laura et moi' = nosaltres. En oral québécois → 'on'. On va apprendre = Anem a aprendre."
-          }
+          "phrase": "___ sommes à Barcelone.",
+          "reponse": "nous"
+        },
+        {
+          "phrase": "___ êtes prêts ?",
+          "reponse": "vous"
+        },
+        {
+          "phrase": "___ parlent français. (ellas)",
+          "reponse": "elles"
+        },
+        {
+          "phrase": "___ va à la cabane à sucre ! (nosotros, familiar)",
+          "reponse": "on"
+        },
+        {
+          "phrase": "Marie et Paul ? ___ arrivent demain.",
+          "reponse": "ils"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "Las preposiciones y el lugar",
+        "ca": "Les preposicions i el lloc"
+      },
+      "explication": {
+        "es": "<b>à</b> + ciudad (à Barcelone), <b>en</b> + país femenino (en France), <b>au</b> + país masculino (au Canada). Lugar: <b>dans</b> (dentro), <b>sur</b> (sobre), <b>sous</b> (debajo), <b>chez</b> (en casa de).",
+        "ca": "<b>à</b> + ciutat (à Barcelone), <b>en</b> + país femení (en France), <b>au</b> + país masculí (au Canada). Lloc: <b>dans</b> (dins), <b>sur</b> (sobre), <b>sous</b> (sota), <b>chez</b> (a casa de)."
+      },
+      "exercices": [
+        {
+          "phrase": "Je vais ___ Barcelone.",
+          "reponse": "à"
+        },
+        {
+          "phrase": "Elle habite ___ France.",
+          "reponse": "en"
+        },
+        {
+          "phrase": "Nous allons ___ Canada.",
+          "reponse": "au"
+        },
+        {
+          "phrase": "Le livre est ___ la table.",
+          "reponse": "sur"
+        },
+        {
+          "phrase": "Le chat est ___ la chaise.",
+          "reponse": "sous"
+        },
+        {
+          "phrase": "Je suis ___ moi ce soir.",
+          "reponse": "chez"
+        },
+        {
+          "phrase": "Les clés sont ___ le sac.",
+          "reponse": "dans"
+        },
+        {
+          "phrase": "Il revient ___ Québec. (provincia)",
+          "reponse": "au"
         }
       ]
     }

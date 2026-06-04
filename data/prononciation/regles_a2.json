@@ -1,32 +1,561 @@
 {
-  "id": "regles_a2",
-  "titre": { "es": "Sons avancés — A2", "ca": "Sons avançats — A2" },
   "regles": [
     {
-      "id": "liaison",
-      "titre": { "es": "La liaison — unir palabras", "ca": "La liaison — unir paraules" },
+      "titre": {
+        "es": "La R française — gutural",
+        "ca": "La R francesa — gutural"
+      },
       "description": {
-        "es": "La liaison ocurre cuando la consonante final de una palabra (normalmente muda) se une con la vocal inicial de la siguiente palabra.\n\n✅ LIAISON OBLIGATOIRE:\n→ article + nom: les_enfants [lezɑ̃fɑ̃], un_ami [œ̃nami]\n→ adjectif + nom: un grand_arbre [œ̃ gʁɑ̃taʁbʁ]\n→ pronom + verbe: nous_avons [nuzavɔ̃], vous_êtes [vuzɛt]\n→ c'est_ici, c'est_elle\n\n❌ LIAISON INTERDITE:\n→ après 'et': et_il (NO liaison)\n→ devant h aspiré: les haricots (NO liaison)\n→ après un nom singulier: un chat_et un chien (NO)",
-        "ca": "La liaison ocorre quan la consonant final d'una paraula (normalment muda) s'uneix amb la vocal inicial de la paraula següent.\n\n✅ LIAISON OBLIGATÒRIA:\n→ article + nom: les_enfants [lezɑ̃fɑ̃], un_ami [œ̃nami]\n→ adjectif + nom: un grand_arbre\n→ pronom + verbe: nous_avons [nuzavɔ̃]\n\n❌ LIAISON PROHIBIDA:\n→ après 'et': et_il (NO)\n→ devant h aspiré: les haricots (NO)"
+        "es": "La <b>R</b> francesa se hace en la garganta (como hacer gárgaras suave), no con la punta de la lengua.",
+        "ca": "La <b>R</b> francesa es fa a la gola (com fer gàrgares suau), no amb la punta de la llengua."
       },
       "exemples": [
-        { "mot": "les enfants", "phonetique": "[lezɑ̃fɑ̃]", "tts": "les enfants", "es": "los niños (liaison S→Z)", "ca": "els infants (liaison S→Z)" },
-        { "mot": "nous avons", "phonetique": "[nuzavɔ̃]", "tts": "nous avons", "es": "tenemos (liaison S→Z)", "ca": "tenim (liaison S→Z)" },
-        { "mot": "un grand arbre", "phonetique": "[œ̃ gʁɑ̃taʁbʁ]", "tts": "un grand arbre", "es": "un árbol grande (liaison D→T)", "ca": "un arbre gran (liaison D→T)" },
-        { "mot": "c'est ici", "phonetique": "[sɛtisi]", "tts": "c'est ici", "es": "está aquí (liaison T)", "ca": "és aquí (liaison T)" }
+        {
+          "mot": "rouge",
+          "es": "rojo",
+          "ca": "vermell"
+        },
+        {
+          "mot": "Paris",
+          "es": "París",
+          "ca": "París"
+        },
+        {
+          "mot": "merci",
+          "es": "gracias",
+          "ca": "gràcies"
+        },
+        {
+          "mot": "trois",
+          "es": "tres",
+          "ca": "tres"
+        },
+        {
+          "mot": "rue",
+          "es": "calle",
+          "ca": "carrer"
+        },
+        {
+          "mot": "travailler",
+          "es": "trabajar",
+          "ca": "treballar"
+        }
       ]
     },
     {
-      "id": "accent_quebecois",
-      "titre": { "es": "Acento québécois — las diferencias clave", "ca": "Accent québécois — les diferències clau" },
+      "titre": {
+        "es": "La H muette — la H no se pronuncia",
+        "ca": "La H muda — la H no es pronuncia"
+      },
       "description": {
-        "es": "El francés québécois suena diferente al francés de Francia. Estas son las diferencias principales:\n\n1️⃣ TI et DI: en québécois, T ante I/U suena 'TS', D ante I/U suena 'DZ'\n→ 'tu' → [tsy] (tsu) — no [ty]\n→ 'petite' → [petsit] (petsit)\n→ 'dire' → [dziʁ] (dzir)\n→ 'bonjour' → [bɔ̃dʒuʁ] (en certains dialectes)\n\n2️⃣ Vocales más abiertas y 'diphtongues':\n→ 'là' → [lɑ:] (más largo y abierto)\n→ 'fête' → [fɛit] (diphtongue)\n→ 'père' → [pɛiʁ] (diphtongue)\n\n3️⃣ El 'ne' de negación cae siempre:\n→ 'Je sais pas' = 'Je ne sais pas'\n→ 'C'est pas vrai' = 'Ce n'est pas vrai'\n\n4️⃣ Vocabulaire différent:\n→ 'char' (voiture), 'dépanneur' (épicerie), 'magasiner' (faire du shopping), 'présentement' (maintenant)",
-        "ca": "El francès québécois sona diferent al francès de França. Aquestes són les diferències principals:\n\n1️⃣ TI et DI: en québécois, T davant I/U sona 'TS', D davant I/U sona 'DZ'\n→ 'tu' → [tsy] (tsu)\n→ 'petite' → [petsit]\n→ 'dire' → [dziʁ]\n\n2️⃣ Vocals més obertes i diftongs:\n→ 'là' → [lɑ:] (més llarg i obert)\n→ 'fête' → [fɛit] (diftong)\n\n3️⃣ El 'ne' de negació cau sempre en oral:\n→ 'Je sais pas' = 'Je ne sais pas'\n\n4️⃣ Vocabulari diferent:\n→ 'char' (cotxe), 'dépanneur' (botiga), 'magasiner' (anar de compres)"
+        "es": "La <b>H</b> casi nunca se pronuncia. La «h muette» permite liaison (les hôtels), la «h aspirée» no (les héros).",
+        "ca": "La <b>H</b> gairebé mai es pronuncia. La «h muette» permet liaison (les hôtels), la «h aspirée» no (les héros)."
       },
       "exemples": [
-        { "mot": "tu (québécois)", "phonetique": "[tsy]", "tts": "tu viens", "es": "tú (suena 'tsu' en Quebec)", "ca": "tu (sona 'tsu' al Quebec)" },
-        { "mot": "petite (québécois)", "phonetique": "[petsit]", "tts": "une petite chanson", "es": "pequeña (suena 'pe-tsit')", "ca": "petita (sona 'pe-tsit')" },
-        { "mot": "c'est pas vrai", "phonetique": "[se pa vʁɛ]", "tts": "c'est pas vrai", "es": "no es verdad (sin ne, oral québécois)", "ca": "no és veritat (sense ne, oral québécois)" }
+        {
+          "mot": "homme",
+          "es": "hombre",
+          "ca": "home"
+        },
+        {
+          "mot": "heure",
+          "es": "hora",
+          "ca": "hora"
+        },
+        {
+          "mot": "hôtel",
+          "es": "hotel",
+          "ca": "hotel"
+        },
+        {
+          "mot": "hiver",
+          "es": "invierno",
+          "ca": "hivern"
+        },
+        {
+          "mot": "histoire",
+          "es": "historia",
+          "ca": "història"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "Les consonnes finales muettes (D, T, S, X, P...)",
+        "ca": "Les consonants finals mudes (D, T, S, X, P...)"
+      },
+      "description": {
+        "es": "La mayoría de consonantes finales NO se pronuncian. Aquí el famoso <b>P muet</b> de <i>trop, beaucoup, loup</i>.",
+        "ca": "La majoria de consonants finals NO es pronuncien. Aquí la famosa <b>P muda</b> de <i>trop, beaucoup, loup</i>."
+      },
+      "exemples": [
+        {
+          "mot": "trop",
+          "es": "demasiado",
+          "ca": "massa"
+        },
+        {
+          "mot": "beaucoup",
+          "es": "mucho",
+          "ca": "molt"
+        },
+        {
+          "mot": "petit",
+          "es": "pequeño",
+          "ca": "petit"
+        },
+        {
+          "mot": "grand",
+          "es": "grande",
+          "ca": "gran"
+        },
+        {
+          "mot": "temps",
+          "es": "tiempo",
+          "ca": "temps"
+        },
+        {
+          "mot": "nez",
+          "es": "nariz",
+          "ca": "nas"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "La liaison — unir las palabras",
+        "ca": "La liaison — unir les paraules"
+      },
+      "description": {
+        "es": "Una consonante final muda SÍ se pronuncia si la palabra siguiente empieza por vocal. <i>les‿amis</i> = «les-zami».",
+        "ca": "Una consonant final muda SÍ es pronuncia si la paraula següent comença per vocal. <i>les‿amis</i> = «les-zami»."
+      },
+      "exemples": [
+        {
+          "mot": "les amis",
+          "es": "los amigos",
+          "ca": "els amics"
+        },
+        {
+          "mot": "vous avez",
+          "es": "ustedes tienen",
+          "ca": "vosaltres teniu"
+        },
+        {
+          "mot": "un petit enfant",
+          "es": "un niño pequeño",
+          "ca": "un nen petit"
+        },
+        {
+          "mot": "nous avons",
+          "es": "nosotros tenemos",
+          "ca": "nosaltres tenim"
+        },
+        {
+          "mot": "très important",
+          "es": "muy importante",
+          "ca": "molt important"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "QU — suena [k]",
+        "ca": "QU — sona [k]"
+      },
+      "description": {
+        "es": "<b>QU</b> suena simplemente <b>[k]</b>, NO «ku». <i>qui</i> = «ki».",
+        "ca": "<b>QU</b> sona simplement <b>[k]</b>, NO «ku». <i>qui</i> = «ki»."
+      },
+      "exemples": [
+        {
+          "mot": "qui",
+          "es": "quién",
+          "ca": "qui"
+        },
+        {
+          "mot": "que",
+          "es": "que",
+          "ca": "que"
+        },
+        {
+          "mot": "quatre",
+          "es": "cuatro",
+          "ca": "quatre"
+        },
+        {
+          "mot": "quitter",
+          "es": "dejar",
+          "ca": "deixar"
+        },
+        {
+          "mot": "musique",
+          "es": "música",
+          "ca": "música"
+        },
+        {
+          "mot": "pourquoi",
+          "es": "por qué",
+          "ca": "per què"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "PH — suena [f]",
+        "ca": "PH — sona [f]"
+      },
+      "description": {
+        "es": "<b>PH</b> suena <b>[f]</b>, como en español «filosofía».",
+        "ca": "<b>PH</b> sona <b>[f]</b>, com en català «filosofia»."
+      },
+      "exemples": [
+        {
+          "mot": "photo",
+          "es": "foto",
+          "ca": "foto"
+        },
+        {
+          "mot": "téléphone",
+          "es": "teléfono",
+          "ca": "telèfon"
+        },
+        {
+          "mot": "pharmacie",
+          "es": "farmacia",
+          "ca": "farmàcia"
+        },
+        {
+          "mot": "phrase",
+          "es": "frase",
+          "ca": "frase"
+        },
+        {
+          "mot": "éléphant",
+          "es": "elefante",
+          "ca": "elefant"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "TH — suena [t]",
+        "ca": "TH — sona [t]"
+      },
+      "description": {
+        "es": "<b>TH</b> suena simplemente <b>[t]</b> (no como el inglés). <i>thé</i> = «té».",
+        "ca": "<b>TH</b> sona simplement <b>[t]</b> (no com l'anglès). <i>thé</i> = «te»."
+      },
+      "exemples": [
+        {
+          "mot": "thé",
+          "es": "té",
+          "ca": "te"
+        },
+        {
+          "mot": "théâtre",
+          "es": "teatro",
+          "ca": "teatre"
+        },
+        {
+          "mot": "maths",
+          "es": "mates",
+          "ca": "mates"
+        },
+        {
+          "mot": "thème",
+          "es": "tema",
+          "ca": "tema"
+        },
+        {
+          "mot": "bibliothèque",
+          "es": "biblioteca",
+          "ca": "biblioteca"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "C dur / C doux — [k] o [s]",
+        "ca": "C dura / C dolça — [k] o [s]"
+      },
+      "description": {
+        "es": "<b>C</b> + A/O/U = [k] (café). <b>C</b> + E/I = [s] (ciel). Por eso existe la ç.",
+        "ca": "<b>C</b> + A/O/U = [k] (café). <b>C</b> + E/I = [s] (ciel). Per això existeix la ç."
+      },
+      "exemples": [
+        {
+          "mot": "café",
+          "es": "café",
+          "ca": "cafè"
+        },
+        {
+          "mot": "comme",
+          "es": "como",
+          "ca": "com"
+        },
+        {
+          "mot": "ciel",
+          "es": "cielo",
+          "ca": "cel"
+        },
+        {
+          "mot": "merci",
+          "es": "gracias",
+          "ca": "gràcies"
+        },
+        {
+          "mot": "cinéma",
+          "es": "cine",
+          "ca": "cinema"
+        },
+        {
+          "mot": "classe",
+          "es": "clase",
+          "ca": "classe"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "G dur / G doux — [g] o [ʒ]",
+        "ca": "G dura / G dolça — [g] o [ʒ]"
+      },
+      "description": {
+        "es": "<b>G</b> + A/O/U = [g] (gare). <b>G</b> + E/I = [ʒ], sonido suave como la «j» francesa (girafe).",
+        "ca": "<b>G</b> + A/O/U = [g] (gare). <b>G</b> + E/I = [ʒ], so suau com la «j» francesa (girafe)."
+      },
+      "exemples": [
+        {
+          "mot": "gare",
+          "es": "estación",
+          "ca": "estació"
+        },
+        {
+          "mot": "gâteau",
+          "es": "pastel",
+          "ca": "pastís"
+        },
+        {
+          "mot": "manger",
+          "es": "comer",
+          "ca": "menjar"
+        },
+        {
+          "mot": "girafe",
+          "es": "jirafa",
+          "ca": "girafa"
+        },
+        {
+          "mot": "rouge",
+          "es": "rojo",
+          "ca": "vermell"
+        },
+        {
+          "mot": "génial",
+          "es": "genial",
+          "ca": "genial"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "S entre vocales — suena [z]",
+        "ca": "S entre vocals — sona [z]"
+      },
+      "description": {
+        "es": "Una sola <b>S</b> entre dos vocales suena <b>[z]</b> (maison). Doble <b>SS</b> suena [s] (poisson).",
+        "ca": "Una sola <b>S</b> entre dues vocals sona <b>[z]</b> (maison). Doble <b>SS</b> sona [s] (poisson)."
+      },
+      "exemples": [
+        {
+          "mot": "maison",
+          "es": "casa",
+          "ca": "casa"
+        },
+        {
+          "mot": "rose",
+          "es": "rosa",
+          "ca": "rosa"
+        },
+        {
+          "mot": "musique",
+          "es": "música",
+          "ca": "música"
+        },
+        {
+          "mot": "chose",
+          "es": "cosa",
+          "ca": "cosa"
+        },
+        {
+          "mot": "poisson",
+          "es": "pescado",
+          "ca": "peix"
+        },
+        {
+          "mot": "dessert",
+          "es": "postre",
+          "ca": "postres"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "J — suena [ʒ]",
+        "ca": "J — sona [ʒ]"
+      },
+      "description": {
+        "es": "La <b>J</b> francesa es suave <b>[ʒ]</b> (como el «ll» argentino o el «j» de «Jacques»), nunca la jota española.",
+        "ca": "La <b>J</b> francesa és suau <b>[ʒ]</b> (mai la jota castellana)."
+      },
+      "exemples": [
+        {
+          "mot": "je",
+          "es": "yo",
+          "ca": "jo"
+        },
+        {
+          "mot": "jour",
+          "es": "día",
+          "ca": "dia"
+        },
+        {
+          "mot": "jaune",
+          "es": "amarillo",
+          "ca": "groc"
+        },
+        {
+          "mot": "bonjour",
+          "es": "buenos días",
+          "ca": "bon dia"
+        },
+        {
+          "mot": "jamais",
+          "es": "nunca",
+          "ca": "mai"
+        },
+        {
+          "mot": "Jacques",
+          "es": "Jacques",
+          "ca": "Jacques"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "ILL / Y — suena [j] (como 'y')",
+        "ca": "ILL / Y — sona [j] (com 'i')"
+      },
+      "description": {
+        "es": "<b>ILL</b> y <b>Y</b> entre vocales suenan <b>[j]</b>, como la «y» de «yo». Ojo: <i>ville, mille</i> son excepciones [il].",
+        "ca": "<b>ILL</b> i <b>Y</b> entre vocals sonen <b>[j]</b>, com la «i» de «iogurt». Compte: <i>ville, mille</i> són excepcions [il]."
+      },
+      "exemples": [
+        {
+          "mot": "fille",
+          "es": "hija/chica",
+          "ca": "filla/noia"
+        },
+        {
+          "mot": "travail",
+          "es": "trabajo",
+          "ca": "feina"
+        },
+        {
+          "mot": "famille",
+          "es": "familia",
+          "ca": "família"
+        },
+        {
+          "mot": "yeux",
+          "es": "ojos",
+          "ca": "ulls"
+        },
+        {
+          "mot": "soleil",
+          "es": "sol",
+          "ca": "sol"
+        },
+        {
+          "mot": "bouteille",
+          "es": "botella",
+          "ca": "ampolla"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "X — suena [ks] o [gz]",
+        "ca": "X — sona [ks] o [gz]"
+      },
+      "description": {
+        "es": "La <b>X</b> suena [ks] (taxi) o [gz] (examen). Al final, suele ser muda (deux, prix).",
+        "ca": "La <b>X</b> sona [ks] (taxi) o [gz] (examen). Al final, sol ser muda (deux, prix)."
+      },
+      "exemples": [
+        {
+          "mot": "taxi",
+          "es": "taxi",
+          "ca": "taxi"
+        },
+        {
+          "mot": "exemple",
+          "es": "ejemplo",
+          "ca": "exemple"
+        },
+        {
+          "mot": "examen",
+          "es": "examen",
+          "ca": "examen"
+        },
+        {
+          "mot": "deux",
+          "es": "dos",
+          "ca": "dos"
+        },
+        {
+          "mot": "prix",
+          "es": "precio",
+          "ca": "preu"
+        }
+      ]
+    },
+    {
+      "titre": {
+        "es": "OY / AY — [waj] / [ɛj]",
+        "ca": "OY / AY — [waj] / [ɛj]"
+      },
+      "description": {
+        "es": "<b>OY</b> = [waj] (voyage = «vua-iaj»). <b>AY</b> = [ɛj] (pays). La Y vale por dos «i».",
+        "ca": "<b>OY</b> = [waj] (voyage). <b>AY</b> = [ɛj] (pays). La Y val per dues «i»."
+      },
+      "exemples": [
+        {
+          "mot": "voyage",
+          "es": "viaje",
+          "ca": "viatge"
+        },
+        {
+          "mot": "envoyer",
+          "es": "enviar",
+          "ca": "enviar"
+        },
+        {
+          "mot": "pays",
+          "es": "país",
+          "ca": "país"
+        },
+        {
+          "mot": "crayon",
+          "es": "lápiz",
+          "ca": "llapis"
+        },
+        {
+          "mot": "royal",
+          "es": "real",
+          "ca": "reial"
+        }
       ]
     }
   ]

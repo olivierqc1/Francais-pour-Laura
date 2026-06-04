@@ -6,19 +6,17 @@
 <title>Gramática — Français pour Laura</title>
 <link rel="stylesheet" href="../css/style.css">
 <style>
-.select-nav {
-  width: 100%;
-  padding: 0.8rem 1rem;
-  background: var(--bg3);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  color: var(--cream);
-  font-family: 'Outfit', sans-serif;
-  font-size: 1rem; font-weight: 500;
-  margin-bottom: 1.5rem;
-}
-.select-nav:focus { outline: none; border-color: var(--gold); }
-.select-label { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); font-weight: 600; margin-bottom: 0.4rem; display: block; }
+.select-nav { width:100%; padding:0.8rem 1rem; background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--cream); font-family:'Outfit',sans-serif; font-size:1rem; font-weight:500; margin-bottom:1.5rem; }
+.select-nav:focus { outline:none; border-color:var(--gold); }
+.select-label { font-size:0.75rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--gold); font-weight:600; margin-bottom:0.4rem; display:block; }
+.answer-input { width:100%; background:var(--bg3); border:2px solid var(--border); border-radius:10px; padding:0.85rem 1rem; color:var(--cream); font-family:'Cormorant Garamond',serif; font-size:1.35rem; text-align:center; transition:border 0.2s; }
+.answer-input:focus { outline:none; border-color:var(--gold); }
+.answer-input:disabled { opacity:0.85; }
+.mod-grid { display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:1rem; }
+.mod-chip { background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--text-dim); font-family:'Outfit',sans-serif; font-size:0.85rem; font-weight:500; padding:0.6rem 0.9rem; cursor:pointer; transition:all 0.15s; text-align:left; line-height:1.25; }
+.mod-chip.active { background:var(--maple); border-color:var(--maple); color:#fff; box-shadow:0 2px 10px rgba(0,0,0,0.25); }
+.mod-chip:hover { border-color:var(--gold); }
+.hint-opts { font-size:0.78rem; color:var(--text-dim); margin-top:0.5rem; text-align:center; font-style:italic; }
 </style>
 </head>
 <body>
@@ -51,11 +49,11 @@
   <div class="page-header fade-up">
     <div class="page-header-label">📐 <span data-es="Módulo 3" data-ca="Mòdul 3">Módulo 3</span></div>
     <h1 data-es="Gramática" data-ca="Gramàtica">Gramática</h1>
-    <p data-es="Artículos, negación, adjetivos, pronombres — con ejemplos del Quebec y comparaciones con el español." data-ca="Articles, negació, adjectius, pronoms — amb exemples del Quebec i comparacions amb el castellà.">Artículos, negación, adjetivos, pronombres — con ejemplos del Quebec.</p>
+    <p data-es="Artículos, negación, adjetivos, pronombres. Escribe tu respuesta (los acentos y mayúsculas no son obligatorios)." data-ca="Articles, negació, adjectius, pronoms. Escriu la teva resposta (els accents i majúscules no són obligatoris).">Escribe tu respuesta (los acentos y mayúsculas no son obligatorios).</p>
   </div>
 
   <label class="select-label" id="select-label" data-es="ELIGE UN TEMA" data-ca="TRIA UN TEMA">ELIGE UN TEMA</label>
-  <select class="select-nav" id="mod-select" onchange="startMod(this.value)"></select>
+  <div class="mod-grid" id="mod-grid"></div>
 
   <div id="mod-explication"></div>
   <hr class="divider">
@@ -66,12 +64,13 @@
       <div class="progress-line"><div class="progress-line-fill" id="q-progress" style="width:0%"></div></div>
     </div>
     <div class="quiz-prompt" id="q-prompt"></div>
-    <div class="options-grid" id="q-options"></div>
+    <input class="answer-input" id="answer" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="...">
+    <div class="hint-opts" id="hint-opts"></div>
     <div class="feedback-box" id="q-feedback"></div>
-    <div style="margin-top:1rem">
-      <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()">
-        <span data-es="Siguiente" data-ca="Següent">Siguiente</span> &rarr;
-      </button>
+    <div style="margin-top:1rem;display:flex;gap:0.5rem;flex-wrap:wrap">
+      <button class="btn btn-ghost" id="btn-hint" onclick="hintAns()" title="Pista">💡</button>
+      <button class="btn btn-primary" id="btn-check" onclick="checkAns()"><span data-es="Comprobar" data-ca="Comprovar">Comprobar</span></button>
+      <button class="btn btn-ghost" id="btn-next" style="display:none" onclick="nextQ()"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> &rarr;</button>
     </div>
   </div>
   <div id="completion-area" style="display:none"></div>
@@ -86,23 +85,26 @@
 let data = null, modIdx = 0, qIdx = 0, score = 0, answered = false;
 const lang = () => localStorage.getItem('laura_lang') || 'es';
 
+// Normalisation tolérante: minuscules, sans accents, sans espaces ni ponctuation (/ ' . etc.)
+function gnorm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,''); }
+
 async function load() {
   const r = await fetch('../data/grammaire.json');
   data = await r.json();
-  renderSelect();
+  renderGrid();
   startMod(0);
 }
 
-function renderSelect() {
+function renderGrid() {
   const l = lang();
-  const sel = document.getElementById('mod-select');
-  sel.innerHTML = '';
+  const grid = document.getElementById('mod-grid'); grid.innerHTML = '';
   data.modules.forEach((m, i) => {
-    const o = document.createElement('option');
-    o.value = i;
-    o.textContent = m.titre[l];
-    if (i === modIdx) o.selected = true;
-    sel.appendChild(o);
+    const b = document.createElement('button');
+    b.className = 'mod-chip' + (i === modIdx ? ' active' : '');
+    b.dataset.idx = i;
+    b.textContent = m.titre[l];
+    b.onclick = () => startMod(i);
+    grid.appendChild(b);
   });
   document.getElementById('select-label').textContent = l === 'es' ? 'ELIGE UN TEMA' : 'TRIA UN TEMA';
 }
@@ -111,7 +113,7 @@ function startMod(i) {
   modIdx = Number(i); qIdx = 0; score = 0; answered = false;
   document.getElementById('completion-area').style.display = 'none';
   document.getElementById('quiz-area').style.display = 'block';
-  document.getElementById('mod-select').value = modIdx;
+  document.querySelectorAll('.mod-chip').forEach(c => c.classList.toggle('active', Number(c.dataset.idx) === modIdx));
   const m = data.modules[modIdx];
   const l = lang();
   document.getElementById('mod-explication').innerHTML = '<div class="info-box">' + m.explication[l] + '</div>';
@@ -123,46 +125,52 @@ function renderQuestion() {
   const m = data.modules[modIdx];
   const l = lang();
   answered = false;
+  const inp = document.getElementById('answer');
   if (qIdx >= m.exercices.length) { showCompletion(); return; }
   const q = m.exercices[qIdx];
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx;
   document.getElementById('q-progress').style.width = (qIdx / m.exercices.length * 100) + '%';
-  const phrase = q.phrase.replace(/_+/, '<span class="blank">___</span>');
-  document.getElementById('q-prompt').innerHTML = phrase;
-  const fb = document.getElementById('q-feedback');
-  fb.className = 'feedback-box'; fb.innerHTML = '';
+  document.getElementById('q-prompt').innerHTML = q.phrase.replace(/_+/, '<span class="blank">______</span>');
+  inp.value = ''; inp.disabled = false;
+  // Petit indice: nombre de lettres + les options mélangées (aide sans donner la réponse)
+  document.getElementById('hint-opts').textContent = '';
+  const fb = document.getElementById('q-feedback'); fb.className = 'feedback-box'; fb.innerHTML = '';
+  document.getElementById('btn-check').style.display = 'inline-flex';
   document.getElementById('btn-next').style.display = 'none';
-  const opts = [...q.options].sort(() => Math.random() - 0.5);
-  document.getElementById('q-options').innerHTML = opts.map(o =>
-    '<button class="option" onclick="checkAns(\'' + o.replace(/'/g,"\\'") + '\', this)">' + o + '</button>'
-  ).join('');
+  setTimeout(() => inp.focus(), 50);
 }
 
-function checkAns(sel, btn) {
+function hintAns() {
   if (answered) return;
-  answered = true;
+  const q = data.modules[modIdx].exercices[qIdx];
+  const inp = document.getElementById('answer');
+  inp.value = q.reponse.charAt(0);
+  inp.focus();
+}
+
+function checkAns() {
+  if (answered) return;
+  const inp = document.getElementById('answer');
+  const val = inp.value;
+  if (!val.trim()) return;
+  answered = true; inp.disabled = true;
   const q = data.modules[modIdx].exercices[qIdx];
   const l = lang();
-  document.querySelectorAll('.option').forEach(b => {
-    b.disabled = true;
-    if (b.textContent === q.reponse) b.classList.add('correct');
-  });
-  const correct = sel === q.reponse;
+  const correct = gnorm(val) === gnorm(q.reponse);
   if (correct) score++;
-  // Enregistre la progression (section grammaire + le module actuel)
   if (window.Progress) Progress.recordExercise('grammaire', data.modules[modIdx].id, correct);
-  btn.classList.add(correct ? 'correct' : 'wrong');
   const fb = document.getElementById('q-feedback');
   fb.className = 'feedback-box show ' + (correct ? 'correct' : 'wrong');
-  fb.innerHTML = (correct ? '\u2705 ' : '\u274C ')
-    + (correct
-      ? (l === 'es' ? '\u00A1Correcto!' : 'Correcte!')
-      : (l === 'es' ? 'Correcto: <strong>' + q.reponse + '</strong>' : 'Correcte: <strong>' + q.reponse + '</strong>'))
-    + '<div class="explication">' + q.explication[l] + '</div>';
+  const head = correct
+    ? (l === 'es' ? '\u2705 \u00A1Correcto! \u2192 ' : '\u2705 Correcte! \u2192 ') + '<strong>' + q.reponse + '</strong>'
+    : (l === 'es' ? '\u274C La respuesta correcta es: ' : '\u274C La resposta correcta \u00E9s: ') + '<strong>' + q.reponse + '</strong>';
+  fb.innerHTML = head + '<div class="explication">' + q.explication[l] + '</div>';
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx + 1;
+  document.getElementById('btn-check').style.display = 'none';
   document.getElementById('btn-next').style.display = 'inline-flex';
+  document.getElementById('hint-opts').textContent = '';
   qIdx++;
 }
 
@@ -174,18 +182,20 @@ function showCompletion() {
   document.getElementById('quiz-area').style.display = 'none';
   document.getElementById('completion-area').style.display = 'block';
   document.getElementById('completion-area').innerHTML =
-    '<div class="card completion">' +
-      '<div class="completion-icon">\uD83C\uDF1F</div>' +
-      '<h2>' + (l === 'es' ? '\u00A1Excelente, Laura!' : 'Excel\u00B7lent, Laura!') + '</h2>' +
-      '<p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">' + score + ' / ' + total + '</p>' +
-      '<button class="btn btn-primary" style="margin-top:1.5rem" onclick="startMod(' + modIdx + ')">\uD83D\uDD04 ' + (l === 'es' ? 'Repetir' : 'Repetir') + '</button>' +
-    '</div>';
+    '<div class="card completion"><div class="completion-icon">\uD83C\uDF1F</div>' +
+    '<h2>' + (l === 'es' ? '\u00A1Excelente, Laura!' : 'Excel\u00B7lent, Laura!') + '</h2>' +
+    '<p style="font-size:1.1rem;color:var(--gold);margin:0.5rem 0">' + score + ' / ' + total + '</p>' +
+    '<button class="btn btn-primary" style="margin-top:1.5rem" onclick="startMod(' + modIdx + ')">\uD83D\uDD04 ' + (l === 'es' ? 'Repetir' : 'Repetir') + '</button></div>';
 }
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') { if (!answered) checkAns(); else if (document.getElementById('btn-next').style.display !== 'none') nextQ(); }
+});
 
 document.addEventListener('DOMContentLoaded', () => {
   load();
   document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(() => { renderSelect(); startMod(modIdx); }, 0));
+    b.addEventListener('click', () => setTimeout(() => { renderGrid(); startMod(modIdx); }, 0));
   });
 });
 </script>

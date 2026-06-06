@@ -321,7 +321,12 @@
           }
         }
       ]
-    },
+    }
+  ]
+}
+
+{
+  "textes": [
     {
       "id": "culture_aujourdhui",
       "emoji": "🥁",
@@ -495,4 +500,126 @@
           {
             "fr": "Une partie de l'histoire est très triste : les pensionnats.",
             "es": "Una parte de la historia es muy triste: los internados.",
-            "ca": "Una part de la història és molt trista: els internat
+            "ca": "Una part de la història és molt trista: els internats."
+          },
+          {
+            "fr": "Pendant longtemps, on a séparé des enfants autochtones de leur famille.",
+            "es": "Durante mucho tiempo, se separó a niños indígenas de su familia.",
+            "ca": "Durant molt de temps, es van separar nens indígenes de la seva família."
+          },
+          {
+            "fr": "Dans ces écoles, les enfants ne pouvaient pas parler leur langue.",
+            "es": "En esas escuelas, los niños no podían hablar su lengua.",
+            "ca": "En aquelles escoles, els nens no podien parlar la seva llengua."
+          },
+          {
+            "fr": "Le but était de leur faire oublier leur culture.",
+            "es": "El objetivo era hacerles olvidar su cultura.",
+            "ca": "L'objectiu era fer-los oblidar la seva cultura."
+          },
+          {
+            "fr": "Beaucoup d'enfants ont beaucoup souffert.",
+            "es": "Muchos niños sufrieron mucho.",
+            "ca": "Molts nens van patir molt."
+          },
+          {
+            "fr": "Aujourd'hui, le Canada reconnaît cette erreur et demande pardon.",
+            "es": "Hoy, Canadá reconoce este error y pide perdón.",
+            "ca": "Avui, el Canadà reconeix aquest error i demana perdó."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'histoire des Autochtones comporte aussi une page douloureuse : celle des pensionnats.",
+            "es": "La historia de los indígenas tiene también una página dolorosa: la de los internados.",
+            "ca": "La història dels indígenes té també una pàgina dolorosa: la dels internats."
+          },
+          {
+            "fr": "Pendant plus d'un siècle, des milliers d'enfants ont été retirés de force à leurs familles.",
+            "es": "Durante más de un siglo, miles de niños fueron separados a la fuerza de sus familias.",
+            "ca": "Durant més d'un segle, milers de nens van ser separats per força de les seves famílies."
+          },
+          {
+            "fr": "Il leur était interdit de parler leur langue ou de pratiquer leur culture.",
+            "es": "Se les prohibía hablar su lengua o practicar su cultura.",
+            "ca": "Se'ls prohibia parlar la seva llengua o practicar la seva cultura."
+          },
+          {
+            "fr": "L'objectif déclaré était l'assimilation : effacer les identités autochtones.",
+            "es": "El objetivo declarado era la asimilación: borrar las identidades indígenas.",
+            "ca": "L'objectiu declarat era l'assimilació: esborrar les identitats indígenes."
+          },
+          {
+            "fr": "Ces politiques ont laissé des blessures profondes, encore présentes aujourd'hui.",
+            "es": "Estas políticas dejaron heridas profundas, aún presentes hoy.",
+            "ca": "Aquestes polítiques van deixar ferides profundes, encara presents avui."
+          },
+          {
+            "fr": "Depuis, le Canada s'est engagé sur le chemin de la réconciliation.",
+            "es": "Desde entonces, Canadá se ha comprometido en el camino de la reconciliación.",
+            "ca": "Des de llavors, el Canadà s'ha compromès en el camí de la reconciliació."
+          },
+          {
+            "fr": "Le 30 septembre est devenu une journée de mémoire et de vérité.",
+            "es": "El 30 de septiembre se ha convertido en un día de memoria y verdad.",
+            "ca": "El 30 de setembre s'ha convertit en un dia de memòria i veritat."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un pensionnat",
+          "es": "un internado",
+          "ca": "un internat"
+        },
+        {
+          "mot": "séparer",
+          "es": "separar",
+          "ca": "separar"
+        },
+        {
+          "mot": "interdit",
+          "es": "prohibido",
+          "ca": "prohibit"
+        },
+        {
+          "mot": "une blessure",
+          "es": "una herida",
+          "ca": "una ferida"
+        },
+        {
+          "mot": "le pardon",
+          "es": "el perdón",
+          "ca": "el perdó"
+        },
+        {
+          "mot": "la réconciliation",
+          "es": "la reconciliación",
+          "ca": "la reconciliació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué no podían hacer los niños en los internados?",
+            "ca": "Què no podien fer els nens als internats?"
+          },
+          "piste": {
+            "es": "hablar su lengua",
+            "ca": "parlar la seva llengua"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué representa el 30 de septiembre?",
+            "ca": "Què representa el 30 de setembre?"
+          },
+          "piste": {
+            "es": "memoria y verdad",
+            "ca": "memòria i veritat"
+          }
+        }
+      ]
+    }
+  ]
+}

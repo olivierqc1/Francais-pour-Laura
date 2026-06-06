@@ -167,7 +167,8 @@ function checkAns() {
   const head = correct
     ? (l === 'es' ? '\u2705 \u00A1Correcto! \u2192 ' : '\u2705 Correcte! \u2192 ') + '<strong>' + q.reponse + '</strong>'
     : (l === 'es' ? '\u274C La respuesta correcta es: ' : '\u274C La resposta correcta \u00E9s: ') + '<strong>' + q.reponse + '</strong>';
-  fb.innerHTML = head + '<div class="explication">' + q.explication[l] + '</div>';
+  const expl = (q.explication && q.explication[l]) ? '<div class="explication">' + q.explication[l] + '</div>' : '';
+  fb.innerHTML = head + expl;
   document.getElementById('score').textContent = score;
   document.getElementById('total').textContent = qIdx + 1;
   document.getElementById('btn-check').style.display = 'none';

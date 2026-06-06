@@ -1,6 +1,7 @@
 {
   "modules": [
     {
+      "id": "articles",
       "titre": {
         "es": "Los artículos",
         "ca": "Els articles"
@@ -49,6 +50,7 @@
       ]
     },
     {
+      "id": "negation",
       "titre": {
         "es": "La negación",
         "ca": "La negació"
@@ -93,6 +95,7 @@
       ]
     },
     {
+      "id": "genre_adjectifs",
       "titre": {
         "es": "El género y los adjetivos",
         "ca": "El gènere i els adjectius"
@@ -137,6 +140,7 @@
       ]
     },
     {
+      "id": "pronoms_sujets",
       "titre": {
         "es": "Los pronombres sujeto",
         "ca": "Els pronoms subjecte"
@@ -181,6 +185,7 @@
       ]
     },
     {
+      "id": "prepositions",
       "titre": {
         "es": "Las preposiciones y el lugar",
         "ca": "Les preposicions i el lloc"
@@ -225,6 +230,7 @@
       ]
     },
     {
+      "id": "interrogation",
       "titre": {
         "es": "La interrogación",
         "ca": "La interrogació"
@@ -269,6 +275,7 @@
       ]
     },
     {
+      "id": "possessifs",
       "titre": {
         "es": "Los adjetivos posesivos",
         "ca": "Els adjectius possessius"
@@ -313,6 +320,7 @@
       ]
     },
     {
+      "id": "demonstratifs",
       "titre": {
         "es": "Los adjetivos demostrativos",
         "ca": "Els adjectius demostratius"
@@ -357,6 +365,7 @@
       ]
     },
     {
+      "id": "comparatif",
       "titre": {
         "es": "El comparativo",
         "ca": "El comparatiu"
@@ -401,6 +410,7 @@
       ]
     },
     {
+      "id": "cest_ilest",
       "titre": {
         "es": "C'est o Il est",
         "ca": "C'est o Il est"

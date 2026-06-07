@@ -96,8 +96,16 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const r = await fetch('../data/histoire.json');
-  textes = (await r.json()).textes;
+  const FILES = ['../data/histoire1.json','../data/histoire2.json','../data/histoire3.json'];
+  const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
+  textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
+  if (!textes.length){
+    const l = lang();
+    document.getElementById('hist-content').innerHTML = '<div class="card">'+
+      (l==='es'?'No se pudo cargar el contenido. Asegúrate de subir los archivos <b>histoire1.json</b>, <b>histoire2.json</b> y <b>histoire3.json</b> a la carpeta <b>data/</b>.'
+              :'No s\'ha pogut carregar el contingut. Assegura\'t de pujar els fitxers <b>histoire1.json</b>, <b>histoire2.json</b> i <b>histoire3.json</b> a la carpeta <b>data/</b>.')+'</div>';
+    return;
+  }
   buildGrid(); render(0);
 }
 function buildGrid(){
@@ -108,6 +116,7 @@ function buildGrid(){
     '<div class="hist-chip-title">'+t.titre[l]+'</div></button>').join('');
 }
 function render(i){
+  if (!textes.length) return;
   cur = i;
   const t = textes[i], l = lang();
   const levels = Object.keys(t.niveaux);

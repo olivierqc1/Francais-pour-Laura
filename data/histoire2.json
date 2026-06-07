@@ -11,217 +11,67 @@
       },
       "image": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg",
         "credit": {
           "es": "Powwow en Toronto, 2023 — Wikimedia Commons (CC BY)",
           "ca": "Powwow a Toronto, 2023 — Wikimedia Commons (CC BY)"
-        },
-        "source": "https://commons.wikimedia.org/wiki/File:Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg"
+        }
       },
       "niveaux": {
         "a1": [
           {
-            "fr": "Aujourd'hui, les cultures autochtones sont bien vivantes.",
-            "es": "Hoy, las culturas indígenas están muy vivas.",
-            "ca": "Avui, les cultures indígenes són ben vives."
+            "fr": "Aujourd'hui, les cultures autochtones sont bien vivantes. Elles ne sont pas seulement dans le passé.",
+            "es": "Hoy, las culturas indígenas están muy vivas. No están solo en el pasado.",
+            "ca": "Avui, les cultures indígenes són ben vives. No són només al passat."
           },
           {
-            "fr": "Elles ne sont pas seulement dans le passé.",
-            "es": "No están solo en el pasado.",
-            "ca": "No són només al passat."
+            "fr": "Le powwow est une grande fête. Les gens dansent et chantent autour d'un grand tambour. Le tambour est comme le cœur de la fête. Les danseurs portent de beaux habits colorés appelés « regalia ».",
+            "es": "El powwow es una gran fiesta. La gente baila y canta alrededor de un gran tambor. El tambor es como el corazón de la fiesta. Los bailarines llevan ropas bonitas y coloridas llamadas «regalia».",
+            "ca": "El powwow és una gran festa. La gent balla i canta al voltant d'un gran tambor. El tambor és com el cor de la festa. Els ballarins porten vestits bonics i acolorits anomenats «regalia»."
           },
           {
-            "fr": "Le powwow est une grande fête.",
-            "es": "El powwow es una gran fiesta.",
-            "ca": "El powwow és una gran festa."
-          },
-          {
-            "fr": "Les gens dansent et chantent autour d'un tambour.",
-            "es": "La gente baila y canta alrededor de un tambor.",
-            "ca": "La gent balla i canta al voltant d'un tambor."
-          },
-          {
-            "fr": "Le tambour est comme le cœur de la fête.",
-            "es": "El tambor es como el corazón de la fiesta.",
-            "ca": "El tambor és com el cor de la festa."
-          },
-          {
-            "fr": "Les danseurs portent de beaux habits colorés.",
-            "es": "Los bailarines llevan ropas bonitas y coloridas.",
-            "ca": "Els ballarins porten vestits bonics i acolorits."
-          },
-          {
-            "fr": "On appelle ces habits des « regalia ».",
-            "es": "A estas ropas se les llama «regalia».",
-            "ca": "Aquests vestits s'anomenen «regalia»."
-          },
-          {
-            "fr": "Les artistes font des sculptures et des bijoux.",
-            "es": "Los artistas hacen esculturas y joyas.",
-            "ca": "Els artistes fan escultures i joies."
-          },
-          {
-            "fr": "Les jeunes apprennent la langue de leurs ancêtres.",
-            "es": "Los jóvenes aprenden la lengua de sus antepasados.",
-            "ca": "Els joves aprenen la llengua dels seus avantpassats."
-          },
-          {
-            "fr": "Le 30 septembre, on porte un chandail orange.",
-            "es": "El 30 de septiembre se lleva una camiseta naranja.",
-            "ca": "El 30 de setembre es porta una samarreta taronja."
-          },
-          {
-            "fr": "C'est pour se souvenir des enfants des pensionnats.",
-            "es": "Es para recordar a los niños de los internados.",
-            "ca": "És per recordar els nens dels internats."
+            "fr": "Le 30 septembre, beaucoup de gens portent un chandail orange. C'est pour se souvenir des enfants des pensionnats.",
+            "es": "El 30 de septiembre, mucha gente lleva una camiseta naranja. Es para recordar a los niños de los internados.",
+            "ca": "El 30 de setembre, molta gent porta una samarreta taronja. És per recordar els nens dels internats."
           }
         ],
         "a2": [
           {
-            "fr": "De nos jours, les cultures autochtones sont dynamiques et fières.",
-            "es": "Hoy en día, las culturas indígenas son dinámicas y orgullosas.",
-            "ca": "Avui dia, les cultures indígenes són dinàmiques i orgulloses."
+            "fr": "De nos jours, les cultures autochtones sont dynamiques et fières. Le powwow est un grand rassemblement de danse et de chant. Au centre, le grand tambour donne le rythme; on dit souvent qu'il représente le cœur de la Terre mère.",
+            "es": "Hoy en día, las culturas indígenas son dinámicas y orgullosas. El powwow es una gran reunión de danza y canto. En el centro, el gran tambor marca el ritmo; se dice a menudo que representa el corazón de la Madre Tierra.",
+            "ca": "Avui dia, les cultures indígenes són dinàmiques i orgulloses. El powwow és una gran trobada de dansa i cant. Al centre, el gran tambor marca el ritme; sovint es diu que representa el cor de la Mare Terra."
           },
           {
-            "fr": "Le powwow est un grand rassemblement de danse et de chant.",
-            "es": "El powwow es una gran reunión de danza y canto.",
-            "ca": "El powwow és una gran trobada de dansa i cant."
+            "fr": "Les danseurs portent des « regalia », des tenues riches en couleurs. Chaque danse a son histoire : la danse de la robe à clochettes, par exemple, est une danse de guérison. Beaucoup d'artistes créent aussi des sculptures, des bijoux et des films, et des musiciens autochtones sont connus partout.",
+            "es": "Los bailarines llevan «regalia», trajes ricos en colores. Cada danza tiene su historia: la danza del vestido de cascabeles, por ejemplo, es una danza de sanación. Muchos artistas crean también esculturas, joyas y películas, y hay músicos indígenas conocidos por todas partes.",
+            "ca": "Els ballarins porten «regalia», vestits rics en colors. Cada dansa té la seva història: la dansa del vestit de cascavells, per exemple, és una dansa de guarició. Molts artistes creen també escultures, joies i pel·lícules, i hi ha músics indígenes coneguts arreu."
           },
           {
-            "fr": "Au centre, le grand tambour donne le rythme.",
-            "es": "En el centro, el gran tambor marca el ritmo.",
-            "ca": "Al centre, el gran tambor marca el ritme."
-          },
-          {
-            "fr": "On dit souvent qu'il représente le cœur de la Terre mère.",
-            "es": "Se dice a menudo que representa el corazón de la Madre Tierra.",
-            "ca": "Sovint es diu que representa el cor de la Mare Terra."
-          },
-          {
-            "fr": "Les danseurs portent des « regalia », des tenues riches en couleurs.",
-            "es": "Los bailarines llevan «regalia», trajes ricos en colores.",
-            "ca": "Els ballarins porten «regalia», vestits rics en colors."
-          },
-          {
-            "fr": "Chaque danse a son histoire et sa signification.",
-            "es": "Cada danza tiene su historia y su significado.",
-            "ca": "Cada dansa té la seva història i el seu significat."
-          },
-          {
-            "fr": "La danse de la robe à clochettes, par exemple, est une danse de guérison.",
-            "es": "La danza del vestido de cascabeles, por ejemplo, es una danza de sanación.",
-            "ca": "La dansa del vestit de cascavells, per exemple, és una dansa de guarició."
-          },
-          {
-            "fr": "Beaucoup d'artistes créent des sculptures, des bijoux et des films.",
-            "es": "Muchos artistas crean esculturas, joyas y películas.",
-            "ca": "Molts artistes creen escultures, joies i pel·lícules."
-          },
-          {
-            "fr": "Des musiciens autochtones sont connus partout dans le monde.",
-            "es": "Hay músicos indígenas conocidos en todo el mundo.",
-            "ca": "Hi ha músics indígenes coneguts a tot el món."
-          },
-          {
-            "fr": "Les communautés travaillent à protéger leurs langues.",
-            "es": "Las comunidades trabajan para proteger sus lenguas.",
-            "ca": "Les comunitats treballen per protegir les seves llengües."
-          },
-          {
-            "fr": "Des écoles enseignent l'innu, le cri ou l'inuktitut.",
-            "es": "Algunas escuelas enseñan innu, cree o inuktitut.",
-            "ca": "Algunes escoles ensenyen innu, cree o inuktitut."
-          },
-          {
-            "fr": "Chaque 30 septembre, on porte un chandail orange.",
-            "es": "Cada 30 de septiembre se lleva una camiseta naranja.",
-            "ca": "Cada 30 de setembre es porta una samarreta taronja."
-          },
-          {
-            "fr": "C'est la Journée du chandail orange, pour les enfants des pensionnats.",
-            "es": "Es el Día de la Camiseta Naranja, por los niños de los internados.",
-            "ca": "És el Dia de la Samarreta Taronja, pels nens dels internats."
-          },
-          {
-            "fr": "Garder la culture vivante, c'est aussi un acte de fierté.",
-            "es": "Mantener viva la cultura es también un acto de orgullo.",
-            "ca": "Mantenir viva la cultura és també un acte d'orgull."
+            "fr": "Les communautés travaillent à protéger leurs langues, et des écoles enseignent l'innu, le cri ou l'inuktitut. Chaque 30 septembre, la Journée du chandail orange rappelle les enfants des pensionnats. Garder la culture vivante, c'est aussi un acte de fierté.",
+            "es": "Las comunidades trabajan para proteger sus lenguas, y algunas escuelas enseñan innu, cree o inuktitut. Cada 30 de septiembre, el Día de la Camiseta Naranja recuerda a los niños de los internados. Mantener viva la cultura es también un acto de orgullo.",
+            "ca": "Les comunitats treballen per protegir les seves llengües, i algunes escoles ensenyen innu, cree o inuktitut. Cada 30 de setembre, el Dia de la Samarreta Taronja recorda els nens dels internats. Mantenir viva la cultura és també un acte d'orgull."
           }
         ],
         "b1": [
           {
-            "fr": "Loin d'appartenir au passé, les cultures autochtones sont aujourd'hui vivantes et créatives.",
-            "es": "Lejos de pertenecer al pasado, las culturas indígenas son hoy vivas y creativas.",
-            "ca": "Lluny de pertànyer al passat, les cultures indígenes són avui vives i creatives."
+            "fr": "Loin d'appartenir au passé, les cultures autochtones sont aujourd'hui vivantes, créatives et fières. Le powwow en est le symbole le plus visible : un grand rassemblement festif où les communautés se retrouvent pour danser et chanter.",
+            "es": "Lejos de pertenecer al pasado, las culturas indígenas son hoy vivas, creativas y orgullosas. El powwow es su símbolo más visible: una gran reunión festiva donde las comunidades se encuentran para bailar y cantar.",
+            "ca": "Lluny de pertànyer al passat, les cultures indígenes són avui vives, creatives i orgulloses. El powwow n'és el símbol més visible: una gran trobada festiva on les comunitats es retroben per ballar i cantar."
           },
           {
-            "fr": "Le powwow en est le symbole le plus visible : un grand rassemblement festif.",
-            "es": "El powwow es su símbolo más visible: una gran reunión festiva.",
-            "ca": "El powwow n'és el símbol més visible: una gran trobada festiva."
+            "fr": "Au centre du cercle, le grand tambour mène le chant et la danse; pour beaucoup, son battement évoque le cœur de la Terre mère. Les danseurs portent des regalia, des tenues uniques, parfois transmises sur plusieurs générations. Chaque style — traditionnel, fancy, robe à clochettes — porte une histoire et des enseignements; la danse de la robe à clochettes, née chez les Anishinabeg, est ainsi une danse de guérison.",
+            "es": "En el centro del círculo, el gran tambor guía el canto y la danza; para muchos, su latido evoca el corazón de la Madre Tierra. Los bailarines llevan regalia, trajes únicos, a veces transmitidos durante generaciones. Cada estilo —tradicional, fancy, vestido de cascabeles— lleva una historia y enseñanzas; la danza del vestido de cascabeles, nacida entre los anishinabeg, es una danza de sanación.",
+            "ca": "Al centre del cercle, el gran tambor guia el cant i la dansa; per a molts, el seu batec evoca el cor de la Mare Terra. Els ballarins porten regalia, vestits únics, de vegades transmesos durant generacions. Cada estil —tradicional, fancy, vestit de cascavells— porta una història i ensenyaments; la dansa del vestit de cascavells, nascuda entre els anishinabeg, és una dansa de guarició."
           },
           {
-            "fr": "Au centre du cercle, le grand tambour mène le chant et la danse.",
-            "es": "En el centro del círculo, el gran tambor guía el canto y la danza.",
-            "ca": "Al centre del cercle, el gran tambor guia el cant i la dansa."
+            "fr": "Au-delà du powwow, des artistes, des musiciens et des cinéastes autochtones rayonnent bien au-delà du Québec. En parallèle, la revitalisation des langues est devenue un enjeu central : plusieurs écoles enseignent désormais l'innu, le cri ou l'inuktitut aux plus jeunes. Car perdre une langue, c'est perdre une manière unique de voir le monde.",
+            "es": "Más allá del powwow, artistas, músicos y cineastas indígenas destacan mucho más allá de Quebec. En paralelo, la revitalización de las lenguas se ha vuelto un reto central: varias escuelas enseñan ahora innu, cree o inuktitut a los más jóvenes. Pues perder una lengua es perder una manera única de ver el mundo.",
+            "ca": "Més enllà del powwow, artistes, músics i cineastes indígenes destaquen molt més enllà del Quebec. En paral·lel, la revitalització de les llengües s'ha tornat un repte central: diverses escoles ensenyen ara innu, cree o inuktitut als més joves. Car perdre una llengua és perdre una manera única de veure el món."
           },
           {
-            "fr": "Pour beaucoup, son battement évoque le cœur de la Terre mère.",
-            "es": "Para muchos, su latido evoca el corazón de la Madre Tierra.",
-            "ca": "Per a molts, el seu batec evoca el cor de la Mare Terra."
-          },
-          {
-            "fr": "Les danseurs portent des regalia, des tenues uniques parfois transmises sur plusieurs générations.",
-            "es": "Los bailarines llevan regalia, trajes únicos a veces transmitidos durante generaciones.",
-            "ca": "Els ballarins porten regalia, vestits únics de vegades transmesos durant generacions."
-          },
-          {
-            "fr": "Chaque style de danse — traditionnel, fancy, robe à clochettes — porte une histoire et des enseignements.",
-            "es": "Cada estilo de danza —tradicional, fancy, vestido de cascabeles— lleva una historia y enseñanzas.",
-            "ca": "Cada estil de dansa —tradicional, fancy, vestit de cascavells— porta una història i ensenyaments."
-          },
-          {
-            "fr": "La danse de la robe à clochettes, née chez les Anishinabeg, est une danse de guérison.",
-            "es": "La danza del vestido de cascabeles, nacida entre los anishinabeg, es una danza de sanación.",
-            "ca": "La dansa del vestit de cascavells, nascuda entre els anishinabeg, és una dansa de guarició."
-          },
-          {
-            "fr": "Au-delà du powwow, des artistes, musiciens et cinéastes autochtones rayonnent bien au-delà du Québec.",
-            "es": "Más allá del powwow, artistas, músicos y cineastas indígenas destacan mucho más allá de Quebec.",
-            "ca": "Més enllà del powwow, artistes, músics i cineastes indígenes destaquen molt més enllà del Quebec."
-          },
-          {
-            "fr": "La revitalisation des langues est devenue un enjeu central pour de nombreuses communautés.",
-            "es": "La revitalización de las lenguas se ha vuelto un reto central para muchas comunidades.",
-            "ca": "La revitalització de les llengües s'ha tornat un repte central per a moltes comunitats."
-          },
-          {
-            "fr": "Plusieurs écoles enseignent désormais l'innu, le cri ou l'inuktitut aux plus jeunes.",
-            "es": "Varias escuelas enseñan ahora innu, cree o inuktitut a los más jóvenes.",
-            "ca": "Diverses escoles ensenyen ara innu, cree o inuktitut als més joves."
-          },
-          {
-            "fr": "Car perdre une langue, c'est perdre une manière unique de voir le monde.",
-            "es": "Pues perder una lengua es perder una manera única de ver el mundo.",
-            "ca": "Car perdre una llengua és perdre una manera única de veure el món."
-          },
-          {
-            "fr": "Chaque 30 septembre, la Journée du chandail orange honore les enfants des pensionnats.",
-            "es": "Cada 30 de septiembre, el Día de la Camiseta Naranja honra a los niños de los internados.",
-            "ca": "Cada 30 de setembre, el Dia de la Samarreta Taronja honra els nens dels internats."
-          },
-          {
-            "fr": "Le chandail rappelle l'histoire d'une fillette à qui on avait pris son vêtement neuf.",
-            "es": "La camiseta recuerda la historia de una niña a quien le quitaron su ropa nueva.",
-            "ca": "La samarreta recorda la història d'una nena a qui van prendre la roba nova."
-          },
-          {
-            "fr": "Se souvenir et célébrer vont ainsi de pair.",
-            "es": "Recordar y celebrar van así de la mano.",
-            "ca": "Recordar i celebrar van així de la mà."
-          },
-          {
-            "fr": "Ces cultures ne survivent pas seulement : elles avancent et se réinventent.",
-            "es": "Estas culturas no solo sobreviven: avanzan y se reinventan.",
-            "ca": "Aquestes cultures no només sobreviuen: avancen i es reinventen."
+            "fr": "La mémoire a aussi sa place. Chaque 30 septembre, la Journée du chandail orange honore les enfants des pensionnats; le chandail rappelle l'histoire d'une fillette à qui on avait pris son vêtement neuf. Se souvenir et célébrer vont ainsi de pair : ces cultures ne survivent pas seulement, elles avancent et se réinventent.",
+            "es": "La memoria también tiene su lugar. Cada 30 de septiembre, el Día de la Camiseta Naranja honra a los niños de los internados; la camiseta recuerda la historia de una niña a quien le quitaron su ropa nueva. Recordar y celebrar van de la mano: estas culturas no solo sobreviven, avanzan y se reinventan.",
+            "ca": "La memòria també té el seu lloc. Cada 30 de setembre, el Dia de la Samarreta Taronja honra els nens dels internats; la samarreta recorda la història d'una nena a qui van prendre la roba nova. Recordar i celebrar van de la mà: aquestes cultures no només sobreviuen, avancen i es reinventen."
           }
         ]
       },
@@ -276,16 +126,6 @@
           "piste": {
             "es": "camiseta naranja / memoria",
             "ca": "samarreta taronja / memòria"
-          }
-        },
-        {
-          "q": {
-            "es": "¿Por qué importa revitalizar las lenguas?",
-            "ca": "Per què importa revitalitzar les llengües?"
-          },
-          "piste": {
-            "es": "una manera de ver el mundo",
-            "ca": "una manera de veure el món"
           }
         }
       ],

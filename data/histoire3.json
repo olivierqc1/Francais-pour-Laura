@@ -4,105 +4,51 @@
       "id": "mots_autochtones",
       "emoji": "🗣️",
       "theme": "Histoire",
+      "periode": "aujourd'hui encore",
       "titre": {
-        "es": "Palabras que vienen de lenguas indígenas",
-        "ca": "Paraules que vénen de llengües indígenes"
+        "es": "Palabras que vienen de las lenguas indígenas",
+        "ca": "Paraules que vénen de les llengües indígenes"
       },
       "niveaux": {
         "a1": [
           {
-            "fr": "Beaucoup de mots viennent des langues autochtones.",
-            "es": "Muchas palabras vienen de las lenguas indígenas.",
-            "ca": "Moltes paraules vénen de les llengües indígenes."
+            "fr": "Beaucoup de mots français du Québec viennent des langues autochtones. Même le mot « Canada » vient d'un mot autochtone : « kanata », qui veut dire « village ».",
+            "es": "Muchas palabras del francés de Quebec vienen de las lenguas indígenas. Incluso la palabra «Canadá» viene de una palabra indígena: «kanata», que significa «pueblo».",
+            "ca": "Moltes paraules del francès del Quebec vénen de les llengües indígenes. Fins i tot la paraula «Canadà» ve d'una paraula indígena: «kanata», que vol dir «poble»."
           },
           {
-            "fr": "Le mot « Canada » veut dire « village ».",
-            "es": "La palabra «Canadá» significa «pueblo».",
-            "ca": "La paraula «Canadà» vol dir «poble»."
-          },
-          {
-            "fr": "Le mot « Québec » veut dire « là où le fleuve devient étroit ».",
-            "es": "La palabra «Quebec» significa «donde el río se estrecha».",
-            "ca": "La paraula «Quebec» vol dir «on el riu s'estreny»."
-          },
-          {
-            "fr": "Le mot « toboggan » vient aussi d'une langue autochtone.",
-            "es": "La palabra «tobogán» también viene de una lengua indígena.",
-            "ca": "La paraula «tobogan» també ve d'una llengua indígena."
-          },
-          {
-            "fr": "Ces mots font partie de la vie de tous les jours.",
-            "es": "Estas palabras forman parte de la vida diaria.",
-            "ca": "Aquestes paraules formen part de la vida diària."
-          },
-          {
-            "fr": "L'histoire autochtone est dans la langue d'aujourd'hui.",
-            "es": "La historia indígena está en la lengua de hoy.",
-            "ca": "La història indígena és a la llengua d'avui."
+            "fr": "Le mot « Québec » vient de l'algonquin « kébec » : « là où le fleuve devient étroit ». Et le mot « toboggan » vient aussi d'une langue autochtone. Ces mots font partie de la vie de tous les jours.",
+            "es": "La palabra «Quebec» viene del algonquino «kébec»: «donde el río se hace estrecho». Y la palabra «tobogán» también viene de una lengua indígena. Estas palabras forman parte de la vida cotidiana.",
+            "ca": "La paraula «Quebec» ve de l'algonquí «kébec»: «on el riu es fa estret». I la paraula «tobogan» també ve d'una llengua indígena. Aquestes paraules formen part de la vida quotidiana."
           }
         ],
         "a2": [
           {
-            "fr": "Beaucoup de mots du français québécois viennent des langues autochtones.",
-            "es": "Muchas palabras del francés quebequés vienen de las lenguas indígenas.",
-            "ca": "Moltes paraules del francès quebequès vénen de les llengües indígenes."
+            "fr": "Les langues autochtones ont laissé beaucoup de traces dans le français d'ici. Le nom « Canada » vient du mot iroquoien « kanata », qui signifiait « village » ou « campement ». Quand les Européens l'ont entendu, ils ont fini par appeler tout le pays « Canada ».",
+            "es": "Las lenguas indígenas dejaron muchas huellas en el francés de aquí. El nombre «Canadá» viene de la palabra iroquesa «kanata», que significaba «pueblo» o «campamento». Cuando los europeos la oyeron, acabaron llamando «Canadá» a todo el país.",
+            "ca": "Les llengües indígenes van deixar moltes empremtes en el francès d'aquí. El nom «Canadà» ve de la paraula iroquesa «kanata», que significava «poble» o «campament». Quan els europeus la van sentir, van acabar anomenant «Canadà» tot el país."
           },
           {
-            "fr": "« Canada » vient d'un mot iroquoien, « kanata », qui veut dire « village ».",
-            "es": "«Canadá» viene de una palabra iroquesa, «kanata», que significa «pueblo».",
-            "ca": "«Canadà» ve d'una paraula iroquesa, «kanata», que vol dir «poble»."
-          },
-          {
-            "fr": "« Québec » vient d'un mot algonquin : « là où le fleuve se rétrécit ».",
-            "es": "«Quebec» viene de una palabra algonquina: «donde el río se estrecha».",
-            "ca": "«Quebec» ve d'una paraula algonquina: «on el riu s'estreny»."
-          },
-          {
-            "fr": "Les mots « toboggan » et « caribou » ont aussi des origines autochtones.",
-            "es": "Las palabras «tobogán» y «caribú» también tienen orígenes indígenas.",
-            "ca": "Les paraules «tobogan» i «caribú» també tenen orígens indígenes."
-          },
-          {
-            "fr": "Chaque fois qu'on dit ces mots, on parle un peu leur langue.",
-            "es": "Cada vez que decimos estas palabras, hablamos un poco su lengua.",
-            "ca": "Cada vegada que diem aquestes paraules, parlem una mica la seva llengua."
-          },
-          {
-            "fr": "C'est une trace vivante de cette histoire.",
-            "es": "Es una huella viva de esa historia.",
-            "ca": "És un rastre viu d'aquesta història."
+            "fr": "Le nom « Québec » vient de l'algonquin « kébec », « là où le fleuve se rétrécit ». D'autres mots courants viennent aussi des langues autochtones : « toboggan », « caribou », et beaucoup de noms de lieux comme Saguenay ou Chicoutimi. Parler français au Québec, c'est donc déjà utiliser des mots autochtones tous les jours.",
+            "es": "El nombre «Quebec» viene del algonquino «kébec», «donde el río se estrecha». Otras palabras comunes también vienen de las lenguas indígenas: «tobogán», «caribú», y muchos nombres de lugares como Saguenay o Chicoutimi. Hablar francés en Quebec es, pues, usar ya palabras indígenas cada día.",
+            "ca": "El nom «Quebec» ve de l'algonquí «kébec», «on el riu s'estreny». Altres paraules comunes també vénen de les llengües indígenes: «tobogan», «caribú», i molts noms de llocs com Saguenay o Chicoutimi. Parlar francès al Quebec és, doncs, fer servir ja paraules indígenes cada dia."
           }
         ],
         "b1": [
           {
-            "fr": "Une grande partie de la géographie du Québec porte des noms autochtones.",
-            "es": "Gran parte de la geografía de Quebec lleva nombres indígenas.",
-            "ca": "Gran part de la geografia del Quebec porta noms indígenes."
+            "fr": "On l'oublie souvent, mais une grande partie du vocabulaire et des noms de lieux du Québec vient directement des langues autochtones. Le nom même du pays, « Canada », vient du mot iroquoien « kanata », qui désignait un village ou un campement. Les explorateurs français l'ont mal compris et ont fini par nommer ainsi tout le territoire.",
+            "es": "A menudo se olvida, pero gran parte del vocabulario y de los nombres de lugares de Quebec viene directamente de las lenguas indígenas. El propio nombre del país, «Canadá», viene de la palabra iroquesa «kanata», que designaba un pueblo o un campamento. Los exploradores franceses la entendieron mal y acabaron nombrando así todo el territorio.",
+            "ca": "Sovint s'oblida, però gran part del vocabulari i dels noms de llocs del Quebec ve directament de les llengües indígenes. El mateix nom del país, «Canadà», ve de la paraula iroquesa «kanata», que designava un poble o un campament. Els exploradors francesos la van entendre malament i van acabar anomenant així tot el territori."
           },
           {
-            "fr": "Ainsi, « Canada » provient du mot iroquoien « kanata », signifiant « village ».",
-            "es": "Así, «Canadá» proviene de la palabra iroquesa «kanata», que significa «pueblo».",
-            "ca": "Així, «Canadà» prové de la paraula iroquesa «kanata», que significa «poble»."
+            "fr": "Le mot « Québec » vient de l'algonquin « kébec », « là où le fleuve se rétrécit » — une description exacte du Saint-Laurent devant la ville. Des mots du quotidien comme « toboggan », « caribou » ou « achigan » ont la même origine, tout comme des centaines de noms de lieux : Saguenay, Chicoutimi, Témiscamingue, Maniwaki.",
+            "es": "La palabra «Quebec» viene del algonquino «kébec», «donde el río se estrecha» —una descripción exacta del San Lorenzo frente a la ciudad. Palabras cotidianas como «tobogán», «caribú» o «achigan» tienen el mismo origen, igual que cientos de nombres de lugares: Saguenay, Chicoutimi, Témiscamingue, Maniwaki.",
+            "ca": "La paraula «Quebec» ve de l'algonquí «kébec», «on el riu s'estreny» —una descripció exacta del Sant Llorenç davant la ciutat. Paraules quotidianes com «tobogan», «caribú» o «achigan» tenen el mateix origen, igual que centenars de noms de llocs: Saguenay, Chicoutimi, Témiscamingue, Maniwaki."
           },
           {
-            "fr": "« Québec », lui, vient d'un terme algonquin décrivant l'endroit « où le fleuve se rétrécit ».",
-            "es": "«Quebec», por su parte, viene de un término algonquino que describe el lugar «donde el río se estrecha».",
-            "ca": "«Quebec», per la seva banda, ve d'un terme algonquí que descriu el lloc «on el riu s'estreny»."
-          },
-          {
-            "fr": "Des mots du quotidien comme « toboggan », « caribou » ou « anorak » ont la même origine.",
-            "es": "Palabras cotidianas como «tobogán», «caribú» o «anorak» tienen el mismo origen.",
-            "ca": "Paraules quotidianes com «tobogan», «caribú» o «anorac» tenen el mateix origen."
-          },
-          {
-            "fr": "Ces emprunts montrent à quel point les cultures se sont mêlées.",
-            "es": "Estos préstamos muestran hasta qué punto las culturas se mezclaron.",
-            "ca": "Aquests manlleus mostren fins a quin punt les cultures es van barrejar."
-          },
-          {
-            "fr": "Apprendre le français, c'est aussi, sans le savoir, parler ces langues anciennes.",
-            "es": "Aprender francés es también, sin saberlo, hablar esas lenguas antiguas.",
-            "ca": "Aprendre francès és també, sense saber-ho, parlar aquestes llengües antigues."
+            "fr": "Ces mots sont des traces vivantes : ils rappellent que les peuples autochtones étaient là les premiers et qu'ils ont façonné la géographie et la langue du Québec. Chaque fois qu'on prononce ces noms, on parle un peu leur langue.",
+            "es": "Estas palabras son huellas vivas: recuerdan que los pueblos indígenas estuvieron allí primero y que dieron forma a la geografía y la lengua de Quebec. Cada vez que pronunciamos estos nombres, hablamos un poco su lengua.",
+            "ca": "Aquestes paraules són empremtes vives: recorden que els pobles indígenes hi van ser primer i que van donar forma a la geografia i la llengua del Quebec. Cada vegada que pronunciem aquests noms, parlem una mica la seva llengua."
           }
         ]
       },
@@ -113,14 +59,19 @@
           "ca": "una paraula"
         },
         {
+          "mot": "une langue",
+          "es": "una lengua",
+          "ca": "una llengua"
+        },
+        {
           "mot": "un village",
           "es": "un pueblo",
           "ca": "un poble"
         },
         {
           "mot": "le fleuve",
-          "es": "el río (grande)",
-          "ca": "el riu (gran)"
+          "es": "el río",
+          "ca": "el riu"
         },
         {
           "mot": "étroit",
@@ -128,36 +79,41 @@
           "ca": "estret"
         },
         {
-          "mot": "une trace",
-          "es": "una huella",
-          "ca": "un rastre"
-        },
-        {
-          "mot": "emprunter",
-          "es": "tomar prestado",
-          "ca": "manllevar"
+          "mot": "un nom de lieu",
+          "es": "un topónimo",
+          "ca": "un topònim"
         }
       ],
       "questions": [
         {
           "q": {
-            "es": "¿Qué significa la palabra «Canada»?",
-            "ca": "Què significa la paraula «Canadà»?"
+            "es": "¿De dónde viene la palabra «Canadá»?",
+            "ca": "D'on ve la paraula «Canadà»?"
           },
           "piste": {
-            "es": "village = pueblo",
-            "ca": "village = poble"
+            "es": "de «kanata» = pueblo",
+            "ca": "de «kanata» = poble"
           }
         },
         {
           "q": {
-            "es": "¿De qué lengua viene «Québec»?",
-            "ca": "De quina llengua ve «Quebec»?"
+            "es": "¿Qué significa «Québec»?",
+            "ca": "Què significa «Québec»?"
           },
           "piste": {
-            "es": "algonquin",
-            "ca": "algonquí"
+            "es": "donde el río se estrecha",
+            "ca": "on el riu s'estreny"
           }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Commission de toponymie du Québec",
+          "url": "https://www.toponymie.gouv.qc.ca/"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne",
+          "url": "https://www.thecanadianencyclopedia.ca/fr"
         }
       ]
     },
@@ -165,105 +121,59 @@
       "id": "grande_paix",
       "emoji": "🕊️",
       "theme": "Histoire",
+      "periode": "1701",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grande_Paix_Montreal.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Grande_Paix_Montreal.jpg",
+        "credit": {
+          "es": "La Gran Paz de Montreal, 1701 (ilustración histórica) — Wikimedia Commons",
+          "ca": "La Gran Pau de Montreal, 1701 (il·lustració històrica) — Wikimedia Commons"
+        }
+      },
       "titre": {
-        "es": "La Gran Paz de Montreal (1701)",
-        "ca": "La Gran Pau de Montreal (1701)"
+        "es": "La Gran Paz de Montreal",
+        "ca": "La Gran Pau de Montreal"
       },
       "niveaux": {
         "a1": [
           {
-            "fr": "En 1701, il y a un grand événement à Montréal.",
-            "es": "En 1701, hay un gran acontecimiento en Montreal.",
-            "ca": "El 1701, hi ha un gran esdeveniment a Montreal."
+            "fr": "En 1701, à Montréal, un grand événement a eu lieu : la « Grande Paix ». Beaucoup de nations autochtones et les Français ont signé la paix ensemble.",
+            "es": "En 1701, en Montreal, ocurrió un gran acontecimiento: la «Gran Paz». Muchas naciones indígenas y los franceses firmaron la paz juntos.",
+            "ca": "El 1701, a Montreal, va passar un gran esdeveniment: la «Gran Pau». Moltes nacions indígenes i els francesos van signar la pau junts."
           },
           {
-            "fr": "Beaucoup de nations autochtones viennent en ville.",
-            "es": "Muchas naciones indígenas vienen a la ciudad.",
-            "ca": "Moltes nacions indígenes vénen a la ciutat."
-          },
-          {
-            "fr": "Ils signent la paix avec les Français.",
-            "es": "Firman la paz con los franceses.",
-            "ca": "Signen la pau amb els francesos."
-          },
-          {
-            "fr": "Près de 40 nations sont là.",
-            "es": "Cerca de 40 naciones están allí.",
-            "ca": "Prop de 40 nacions hi són."
-          },
-          {
-            "fr": "Pour signer, les chefs dessinent un animal.",
-            "es": "Para firmar, los jefes dibujan un animal.",
-            "ca": "Per signar, els caps dibuixen un animal."
-          },
-          {
-            "fr": "On l'appelle la Grande Paix de Montréal.",
-            "es": "Se llama la Gran Paz de Montreal.",
-            "ca": "Se l'anomena la Gran Pau de Montreal."
+            "fr": "Avant, il y avait souvent la guerre. Ce jour-là, plus de 1 300 personnes de 39 nations sont venues à Montréal. Les chefs ont dessiné un animal à côté de leur nom pour signer.",
+            "es": "Antes, había a menudo guerra. Ese día, más de 1300 personas de 39 naciones vinieron a Montreal. Los jefes dibujaron un animal junto a su nombre para firmar.",
+            "ca": "Abans, sovint hi havia guerra. Aquell dia, més de 1.300 persones de 39 nacions van venir a Montreal. Els caps van dibuixar un animal al costat del seu nom per signar."
           }
         ],
         "a2": [
           {
-            "fr": "En 1701, un événement majeur a lieu à Montréal.",
-            "es": "En 1701, tiene lugar un acontecimiento importante en Montreal.",
-            "ca": "El 1701, té lloc un esdeveniment important a Montreal."
+            "fr": "En 1701, Montréal a été le lieu d'un grand événement : la Grande Paix de Montréal. Après des années de guerre, les Français et 39 nations autochtones ont décidé de faire la paix.",
+            "es": "En 1701, Montreal fue el lugar de un gran acontecimiento: la Gran Paz de Montreal. Tras años de guerra, los franceses y 39 naciones indígenas decidieron hacer las paces.",
+            "ca": "El 1701, Montreal va ser el lloc d'un gran esdeveniment: la Gran Pau de Montreal. Després d'anys de guerra, els francesos i 39 nacions indígenes van decidir fer les paus."
           },
           {
-            "fr": "Près de 1300 représentants de 39 nations autochtones s'y réunissent.",
-            "es": "Cerca de 1300 representantes de 39 naciones indígenas se reúnen allí.",
-            "ca": "Prop de 1300 representants de 39 nacions indígenes s'hi reuneixen."
-          },
-          {
-            "fr": "Ensemble, ils signent un traité de paix avec les Français.",
-            "es": "Juntos, firman un tratado de paz con los franceses.",
-            "ca": "Junts, signen un tractat de pau amb els francesos."
-          },
-          {
-            "fr": "Pour signer, chaque chef dessine l'animal de son clan.",
-            "es": "Para firmar, cada jefe dibuja el animal de su clan.",
-            "ca": "Per signar, cada cap dibuixa l'animal del seu clan."
-          },
-          {
-            "fr": "Cette paix met fin à des années de guerre.",
-            "es": "Esa paz pone fin a años de guerra.",
-            "ca": "Aquesta pau posa fi a anys de guerra."
-          },
-          {
-            "fr": "C'est un exemple rare de diplomatie entre tant de peuples.",
-            "es": "Es un ejemplo raro de diplomacia entre tantos pueblos.",
-            "ca": "És un exemple rar de diplomàcia entre tants pobles."
+            "fr": "Plus de 1 300 représentants autochtones sont venus, parfois de très loin. Comme ils n'écrivaient pas comme les Européens, les chefs ont dessiné leur symbole — souvent un animal — à côté du nom du gouverneur français. Cette paix a duré et reste un grand exemple de diplomatie.",
+            "es": "Más de 1300 representantes indígenas vinieron, a veces de muy lejos. Como no escribían como los europeos, los jefes dibujaron su símbolo —a menudo un animal— junto al nombre del gobernador francés. Esa paz duró y sigue siendo un gran ejemplo de diplomacia.",
+            "ca": "Més de 1.300 representants indígenes hi van venir, de vegades de molt lluny. Com que no escrivien com els europeus, els caps van dibuixar el seu símbol —sovint un animal— al costat del nom del governador francès. Aquella pau va durar i continua sent un gran exemple de diplomàcia."
           }
         ],
         "b1": [
           {
-            "fr": "L'été 1701, Montréal accueille un rassemblement diplomatique exceptionnel.",
-            "es": "En el verano de 1701, Montreal acoge una reunión diplomática excepcional.",
-            "ca": "L'estiu de 1701, Montreal acull una reunió diplomàtica excepcional."
+            "fr": "Le 4 août 1701, Montréal fut le théâtre d'un événement majeur : la signature de la Grande Paix de Montréal. Ce traité mettait fin à des décennies de guerres, surtout entre les Français et leurs alliés d'un côté, et la confédération iroquoise de l'autre.",
+            "es": "El 4 de agosto de 1701, Montreal fue escenario de un acontecimiento mayor: la firma de la Gran Paz de Montreal. Ese tratado ponía fin a décadas de guerras, sobre todo entre los franceses y sus aliados por un lado, y la confederación iroquesa por el otro.",
+            "ca": "El 4 d'agost de 1701, Montreal va ser escenari d'un esdeveniment major: la signatura de la Gran Pau de Montreal. Aquell tractat posava fi a dècades de guerres, sobretot entre els francesos i els seus aliats d'una banda, i la confederació iroquesa de l'altra."
           },
           {
-            "fr": "Près de 1300 délégués, venus de 39 nations autochtones, y convergent.",
-            "es": "Cerca de 1300 delegados, de 39 naciones indígenas, convergen allí.",
-            "ca": "Prop de 1300 delegats, de 39 nacions indígenes, hi conflueixen."
+            "fr": "Plus de 1 300 représentants de 39 nations autochtones firent le voyage jusqu'à Montréal, certains après des semaines de route. Le gouverneur Louis-Hector de Callière signa au nom du roi de France, et les chefs autochtones apposèrent leurs marques — souvent un animal totémique, comme un poisson, un cerf ou une grue.",
+            "es": "Más de 1300 representantes de 39 naciones indígenas viajaron hasta Montreal, algunos tras semanas de camino. El gobernador Louis-Hector de Callière firmó en nombre del rey de Francia, y los jefes indígenas pusieron sus marcas —a menudo un animal totémico, como un pez, un ciervo o una grulla.",
+            "ca": "Més de 1.300 representants de 39 nacions indígenes van viatjar fins a Montreal, alguns després de setmanes de camí. El governador Louis-Hector de Callière va signar en nom del rei de França, i els caps indígenes van posar les seves marques —sovint un animal totèmic, com un peix, un cérvol o una grua."
           },
           {
-            "fr": "Avec les Français, ils concluent le traité de la Grande Paix de Montréal.",
-            "es": "Con los franceses, concluyen el tratado de la Gran Paz de Montreal.",
-            "ca": "Amb els francesos, conclouen el tractat de la Gran Pau de Montreal."
-          },
-          {
-            "fr": "Faute d'écriture commune, plusieurs chefs signent en dessinant l'animal totem de leur nation.",
-            "es": "A falta de una escritura común, varios jefes firman dibujando el animal tótem de su nación.",
-            "ca": "A falta d'una escriptura comuna, diversos caps signen dibuixant l'animal tòtem de la seva nació."
-          },
-          {
-            "fr": "Ce traité met fin à de longues guerres et illustre une diplomatie habile.",
-            "es": "Ese tratado pone fin a largas guerras e ilustra una diplomacia hábil.",
-            "ca": "Aquest tractat posa fi a llargues guerres i il·lustra una diplomàcia hàbil."
-          },
-          {
-            "fr": "Il rappelle que les nations autochtones étaient de véritables puissances politiques.",
-            "es": "Recuerda que las naciones indígenas eran verdaderas potencias políticas.",
-            "ca": "Recorda que les nacions indígenes eren autèntiques potències polítiques."
+            "fr": "Une figure clé fut Kondiaronk, grand chef wendat, dont les talents de diplomate furent décisifs; il mourut malheureusement pendant les négociations. La Grande Paix reste aujourd'hui un symbole puissant : celui d'une diplomatie entre nations, sur un pied d'égalité.",
+            "es": "Una figura clave fue Kondiaronk, gran jefe wendat, cuyo talento diplomático fue decisivo; murió, por desgracia, durante las negociaciones. La Gran Paz sigue siendo hoy un símbolo poderoso: el de una diplomacia entre naciones, en pie de igualdad.",
+            "ca": "Una figura clau va ser Kondiaronk, gran cap wendat, el talent diplomàtic del qual va ser decisiu; va morir, per desgràcia, durant les negociacions. La Gran Pau continua sent avui un símbol poderós: el d'una diplomàcia entre nacions, en peu d'igualtat."
           }
         ]
       },
@@ -274,9 +184,9 @@
           "ca": "la pau"
         },
         {
-          "mot": "signer",
-          "es": "firmar",
-          "ca": "signar"
+          "mot": "la guerre",
+          "es": "la guerra",
+          "ca": "la guerra"
         },
         {
           "mot": "un traité",
@@ -289,197 +199,46 @@
           "ca": "un cap"
         },
         {
-          "mot": "la guerre",
-          "es": "la guerra",
-          "ca": "la guerra"
+          "mot": "signer",
+          "es": "firmar",
+          "ca": "signar"
         },
         {
-          "mot": "un peuple",
-          "es": "un pueblo",
-          "ca": "un poble"
+          "mot": "une nation",
+          "es": "una nación",
+          "ca": "una nació"
         }
       ],
       "questions": [
         {
           "q": {
-            "es": "¿En qué año fue la Gran Paz de Montreal?",
-            "ca": "En quin any va ser la Gran Pau de Montreal?"
+            "es": "¿En qué año fue la Gran Paz?",
+            "ca": "En quin any va ser la Gran Pau?"
           },
           "piste": {
-            "es": "17...",
-            "ca": "17..."
+            "es": "1701",
+            "ca": "1701"
           }
         },
         {
           "q": {
-            "es": "¿Cómo firmaban los jefes?",
-            "ca": "Com signaven els caps?"
+            "es": "¿Cómo firmaban los jefes indígenas?",
+            "ca": "Com signaven els caps indígenes?"
           },
           "piste": {
-            "es": "dibujando un animal",
-            "ca": "dibuixant un animal"
+            "es": "con un símbolo / animal",
+            "ca": "amb un símbol / animal"
           }
-        }
-      ]
-    },
-    {
-      "id": "ile_tortue",
-      "emoji": "🐢",
-      "theme": "Histoire",
-      "titre": {
-        "es": "La Isla de la Tortuga (relato)",
-        "ca": "L'Illa de la Tortuga (relat)"
-      },
-      "niveaux": {
-        "a1": [
-          {
-            "fr": "Plusieurs nations racontent une belle histoire.",
-            "es": "Varias naciones cuentan una bonita historia.",
-            "ca": "Diverses nacions expliquen una història bonica."
-          },
-          {
-            "fr": "Au début, il y a seulement de l'eau.",
-            "es": "Al principio, solo hay agua.",
-            "ca": "Al principi, només hi ha aigua."
-          },
-          {
-            "fr": "Une tortue géante monte à la surface.",
-            "es": "Una tortuga gigante sube a la superficie.",
-            "ca": "Una tortuga gegant puja a la superfície."
-          },
-          {
-            "fr": "La terre se forme sur son dos.",
-            "es": "La tierra se forma sobre su espalda.",
-            "ca": "La terra es forma sobre la seva esquena."
-          },
-          {
-            "fr": "On appelle l'Amérique « l'Île de la Tortue ».",
-            "es": "Se llama a América «la Isla de la Tortuga».",
-            "ca": "S'anomena Amèrica «l'Illa de la Tortuga»."
-          },
-          {
-            "fr": "Cette histoire se raconte encore aujourd'hui.",
-            "es": "Esta historia se cuenta aún hoy.",
-            "ca": "Aquesta història s'explica encara avui."
-          }
-        ],
-        "a2": [
-          {
-            "fr": "De nombreuses nations autochtones racontent un récit de création.",
-            "es": "Numerosas naciones indígenas cuentan un relato de la creación.",
-            "ca": "Nombroses nacions indígenes expliquen un relat de la creació."
-          },
-          {
-            "fr": "Au commencement, le monde n'est que de l'eau.",
-            "es": "Al comienzo, el mundo es solo agua.",
-            "ca": "Al començament, el món només és aigua."
-          },
-          {
-            "fr": "Une grande tortue émerge, et la terre grandit sur sa carapace.",
-            "es": "Una gran tortuga emerge, y la tierra crece sobre su caparazón.",
-            "ca": "Una gran tortuga emergeix, i la terra creix sobre la seva closca."
-          },
-          {
-            "fr": "Pour cette raison, certains appellent l'Amérique du Nord « l'Île de la Tortue ».",
-            "es": "Por eso, algunos llaman a Norteamérica «la Isla de la Tortuga».",
-            "ca": "Per això, alguns anomenen Amèrica del Nord «l'Illa de la Tortuga»."
-          },
-          {
-            "fr": "Ce récit se transmet de génération en génération.",
-            "es": "Este relato se transmite de generación en generación.",
-            "ca": "Aquest relat es transmet de generació en generació."
-          },
-          {
-            "fr": "Il montre le lien profond entre les peuples et la nature.",
-            "es": "Muestra el vínculo profundo entre los pueblos y la naturaleza.",
-            "ca": "Mostra el vincle profund entre els pobles i la natura."
-          }
-        ],
-        "b1": [
-          {
-            "fr": "Selon plusieurs traditions autochtones, le monde est né sur le dos d'une tortue.",
-            "es": "Según varias tradiciones indígenas, el mundo nació sobre el lomo de una tortuga.",
-            "ca": "Segons diverses tradicions indígenes, el món va néixer sobre l'esquena d'una tortuga."
-          },
-          {
-            "fr": "À l'origine, raconte-t-on, il n'existait qu'une étendue d'eau sans fin.",
-            "es": "En el origen, se cuenta, solo existía una extensión de agua sin fin.",
-            "ca": "A l'origen, s'explica, només existia una extensió d'aigua sense fi."
-          },
-          {
-            "fr": "Une tortue géante serait montée à la surface, et la terre se serait formée sur sa carapace.",
-            "es": "Una tortuga gigante habría subido a la superficie, y la tierra se habría formado sobre su caparazón.",
-            "ca": "Una tortuga gegant hauria pujat a la superfície, i la terra s'hauria format sobre la seva closca."
-          },
-          {
-            "fr": "C'est pourquoi de nombreux peuples nomment l'Amérique du Nord « l'Île de la Tortue ».",
-            "es": "Por eso muchos pueblos llaman a Norteamérica «la Isla de la Tortuga».",
-            "ca": "Per això molts pobles anomenen Amèrica del Nord «l'Illa de la Tortuga»."
-          },
-          {
-            "fr": "Transmis oralement, ce récit porte une vision du monde où tout est relié.",
-            "es": "Transmitido oralmente, este relato lleva una visión del mundo donde todo está conectado.",
-            "ca": "Transmès oralment, aquest relat porta una visió del món on tot està connectat."
-          },
-          {
-            "fr": "Ce n'est pas un simple conte, mais une façon de comprendre la place de l'humain dans la nature.",
-            "es": "No es un simple cuento, sino una forma de entender el lugar del ser humano en la naturaleza.",
-            "ca": "No és un simple conte, sinó una manera d'entendre el lloc de l'ésser humà en la natura."
-          }
-        ]
-      },
-      "mots_cles": [
-        {
-          "mot": "un récit",
-          "es": "un relato",
-          "ca": "un relat"
-        },
-        {
-          "mot": "une tortue",
-          "es": "una tortuga",
-          "ca": "una tortuga"
-        },
-        {
-          "mot": "la terre",
-          "es": "la tierra",
-          "ca": "la terra"
-        },
-        {
-          "mot": "le dos",
-          "es": "la espalda",
-          "ca": "l'esquena"
-        },
-        {
-          "mot": "relié",
-          "es": "conectado",
-          "ca": "connectat"
-        },
-        {
-          "mot": "transmettre",
-          "es": "transmitir",
-          "ca": "transmetre"
         }
       ],
-      "questions": [
+      "sources": [
         {
-          "q": {
-            "es": "¿Sobre qué animal nació el mundo?",
-            "ca": "Sobre quin animal va néixer el món?"
-          },
-          "piste": {
-            "es": "una tortuga",
-            "ca": "una tortuga"
-          }
+          "titre": "L'Encyclopédie canadienne — Grande Paix de Montréal",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/peace-of-montreal-1701"
         },
         {
-          "q": {
-            "es": "¿Cómo se transmite este relato?",
-            "ca": "Com es transmet aquest relat?"
-          },
-          "piste": {
-            "es": "oralmente",
-            "ca": "oralment"
-          }
+          "titre": "Pointe-à-Callière — La Grande Paix",
+          "url": "https://pacmusee.qc.ca/en/stories-of-montreal/article/the-great-peace-of-montreal/"
         }
       ]
     }

@@ -21,7 +21,7 @@
 .tr-toggle.on { color:var(--maple-light); border-color:var(--maple); }
 .sent { padding:0.8rem 0; border-bottom:1px solid var(--border); }
 .sent:last-child { border-bottom:none; }
-.sent-fr { font-family:'Cormorant Garamond',serif; font-size:1.45rem; color:var(--cream); line-height:1.4; }
+.sent-fr { font-family:'Cormorant Garamond',serif; font-size:1.3rem; color:var(--cream); line-height:1.55; }
 .sent-tr { color:var(--text-dim); font-size:0.92rem; margin-top:0.25rem; }
 .sent-play { background:none; border:none; color:var(--gold-light); cursor:pointer; font-size:0.95rem; padding:0; margin-top:0.35rem; }
 .gloss { display:flex; flex-wrap:wrap; gap:0.4rem; }
@@ -129,10 +129,12 @@ function render(i){
 
   const note = t.note ? '<div class="warning-box" style="margin-bottom:1rem">⚠️ '+t.note[l]+'</div>' : '';
 
-  const sentences = t.niveaux[curLvl].map(s =>
-    '<div class="sent"><div class="sent-fr">'+s.fr+'</div>'+
+  const sentences = t.niveaux[curLvl].map(s => {
+    if (s.img) return '<a href="'+s.img.source+'" target="_blank" rel="noopener" style="display:block;text-decoration:none;margin:1.1rem 0"><img src="'+s.img.url+'" loading="lazy" alt="" onerror="this.parentElement.style.display=\'none\'" style="width:100%;border-radius:12px;border:1px solid var(--border);display:block"><div style="font-size:0.72rem;color:var(--text-dim);margin-top:0.35rem">📷 '+(s.img.credit?s.img.credit[l]:'')+'</div></a>';
+    return '<div class="sent"><div class="sent-fr">'+s.fr+'</div>'+
     '<div class="sent-tr" style="'+(showTr?'':'display:none')+'">'+s[l]+'</div>'+
-    '<button class="sent-play" onclick="say(\''+esc(s.fr)+'\')">🔊 '+(l==='es'?'Escuchar':'Escoltar')+'</button></div>').join('');
+    '<button class="sent-play" onclick="say(\''+esc(s.fr)+'\')">🔊 '+(l==='es'?'Escuchar':'Escoltar')+'</button></div>';
+  }).join('');
 
   const gloss = (t.mots_cles||[]).map(m =>
     '<div class="gloss-item"><span class="gloss-fr">'+m.mot+'</span> <span class="gloss-tr">— '+m[l]+'</span></div>').join('');

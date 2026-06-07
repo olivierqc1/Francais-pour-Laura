@@ -9,211 +9,94 @@
         "es": "La vida de antaño",
         "ca": "La vida d'antany"
       },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg",
+        "credit": {
+          "es": "Primeras Naciones en canoa de corteza, río Nelson, 1878 — dominio público",
+          "ca": "Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — domini públic"
+        }
+      },
       "niveaux": {
         "a1": [
           {
-            "fr": "Avant, les peuples autochtones vivaient avec la nature.",
-            "es": "Antes, los pueblos indígenas vivían con la naturaleza.",
-            "ca": "Abans, els pobles indígenes vivien amb la natura."
+            "fr": "Avant l'arrivée des Européens, les peuples autochtones vivaient avec la nature. Ils respectaient la terre et les animaux. Ils chassaient le caribou et l'orignal, et pêchaient dans les rivières.",
+            "es": "Antes de la llegada de los europeos, los pueblos indígenas vivían con la naturaleza. Respetaban la tierra y los animales. Cazaban el caribú y el alce, y pescaban en los ríos.",
+            "ca": "Abans de l'arribada dels europeus, els pobles indígenes vivien amb la natura. Respectaven la terra i els animals. Caçaven el caribú i l'ant, i pescaven als rius."
           },
           {
-            "fr": "Ils respectaient la terre et les animaux.",
-            "es": "Respetaban la tierra y los animales.",
-            "ca": "Respectaven la terra i els animals."
+            "fr": "En été, ils voyageaient en canot d'écorce. En hiver, ils marchaient avec des raquettes. Beaucoup de leurs inventions sont encore utilisées : le toboggan, les raquettes et même le sirop d'érable viennent d'eux.",
+            "es": "En verano viajaban en canoa de corteza. En invierno caminaban con raquetas. Muchos de sus inventos todavía se usan: el tobogán, las raquetas e incluso el sirope de arce vienen de ellos.",
+            "ca": "A l'estiu viatjaven en canoa d'escorça. A l'hivern caminaven amb raquetes. Molts dels seus invents encara s'usen: el tobogan, les raquetes i fins i tot el xarop d'auró vénen d'ells."
           },
           {
-            "fr": "Ils chassaient le caribou et l'orignal.",
-            "es": "Cazaban el caribú y el alce.",
-            "ca": "Caçaven el caribú i l'ant."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG",
+              "credit": {
+                "es": "Cinturón wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)",
+                "ca": "Cinturó wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)"
+              }
+            }
           },
           {
-            "fr": "Ils pêchaient le poisson dans les rivières.",
-            "es": "Pescaban en los ríos.",
-            "ca": "Pescaven als rius."
-          },
-          {
-            "fr": "En été, ils voyageaient en canot d'écorce.",
-            "es": "En verano, viajaban en canoa de corteza.",
-            "ca": "A l'estiu, viatjaven en canoa d'escorça."
-          },
-          {
-            "fr": "En hiver, ils marchaient avec des raquettes.",
-            "es": "En invierno, caminaban con raquetas.",
-            "ca": "A l'hivern, caminaven amb raquetes."
-          },
-          {
-            "fr": "Le mot « toboggan » vient d'eux.",
-            "es": "La palabra «tobogán» viene de ellos.",
-            "ca": "La paraula «tobogan» ve d'ells."
-          },
-          {
-            "fr": "Ils ont fait découvrir le sirop d'érable.",
-            "es": "Dieron a conocer el sirope de arce.",
-            "ca": "Van donar a conèixer el xarop d'auró."
-          },
-          {
-            "fr": "Le soir, les aînés racontaient des histoires.",
-            "es": "Por la noche, los mayores contaban historias.",
-            "ca": "Al vespre, els grans explicaven històries."
-          },
-          {
-            "fr": "Comme ça, le savoir passait aux enfants.",
-            "es": "Así, el saber pasaba a los niños.",
-            "ca": "Així, el saber passava als infants."
-          },
-          {
-            "fr": "Rien ne s'écrivait : tout se disait à voix haute.",
-            "es": "Nada se escribía: todo se decía en voz alta.",
-            "ca": "Res no s'escrivia: tot es deia en veu alta."
+            "fr": "Le soir, les aînés racontaient des histoires. Comme ça, le savoir passait aux enfants. Rien ne s'écrivait : tout se disait à voix haute.",
+            "es": "Por la noche, los mayores contaban historias. Así, el saber pasaba a los niños. Nada se escribía: todo se decía en voz alta.",
+            "ca": "Al vespre, els grans explicaven històries. Així, el saber passava als infants. Res no s'escrivia: tot es deia en veu alta."
           }
         ],
         "a2": [
           {
-            "fr": "Autrefois, les peuples autochtones vivaient en harmonie avec la nature.",
-            "es": "Antaño, los pueblos indígenas vivían en armonía con la naturaleza.",
-            "ca": "Antany, els pobles indígenes vivien en harmonia amb la natura."
+            "fr": "Autrefois, les peuples autochtones vivaient en harmonie avec la nature et connaissaient très bien leur territoire. Au nord, on chassait le caribou; ailleurs, l'orignal et le castor. On pêchait le saumon et on cueillait des petits fruits.",
+            "es": "Antaño, los pueblos indígenas vivían en armonía con la naturaleza y conocían muy bien su territorio. En el norte se cazaba el caribú; en otros sitios, el alce y el castor. Se pescaba el salmón y se recogían frutos.",
+            "ca": "Antany, els pobles indígenes vivien en harmonia amb la natura i coneixien molt bé el seu territori. Al nord es caçava el caribú; en altres llocs, l'ant i el castor. Es pescava el salmó i es collien fruits."
           },
           {
-            "fr": "Ils connaissaient très bien leur territoire et les saisons.",
-            "es": "Conocían muy bien su territorio y las estaciones.",
-            "ca": "Coneixien molt bé el seu territori i les estacions."
+            "fr": "Certaines nations du sud cultivaient la terre. Elles plantaient ensemble le maïs, les haricots et la courge : on les appelle « les trois sœurs », car elles se protègent l'une l'autre. Pour voyager, le canot d'écorce était parfait l'été, et les raquettes permettaient de marcher sur la neige l'hiver.",
+            "es": "Algunas naciones del sur cultivaban la tierra. Plantaban juntos el maíz, los frijoles y la calabaza: se les llama «las tres hermanas», porque se protegen entre sí. Para viajar, la canoa de corteza era perfecta en verano, y las raquetas permitían caminar sobre la nieve en invierno.",
+            "ca": "Algunes nacions del sud conreaven la terra. Plantaven juntes el blat de moro, les mongetes i la carbassa: s'anomenen «les tres germanes», perquè es protegeixen mútuament. Per viatjar, la canoa d'escorça era perfecta a l'estiu, i les raquetes permetien caminar sobre la neu a l'hivern."
           },
           {
-            "fr": "Au nord, on chassait le caribou; ailleurs, l'orignal et le castor.",
-            "es": "En el norte se cazaba el caribú; en otros sitios, el alce y el castor.",
-            "ca": "Al nord es caçava el caribú; en altres llocs, l'ant i el castor."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG",
+              "credit": {
+                "es": "Cinturón wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)",
+                "ca": "Cinturó wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)"
+              }
+            }
           },
           {
-            "fr": "On pêchait le saumon et on cueillait des petits fruits.",
-            "es": "Se pescaba el salmón y se recogían frutos.",
-            "ca": "Es pescava el salmó i es collien fruits."
-          },
-          {
-            "fr": "Certaines nations du sud cultivaient aussi la terre.",
-            "es": "Algunas naciones del sur también cultivaban la tierra.",
-            "ca": "Algunes nacions del sud també conreaven la terra."
-          },
-          {
-            "fr": "Elles plantaient ensemble le maïs, les haricots et la courge.",
-            "es": "Plantaban juntos el maíz, los frijoles y la calabaza.",
-            "ca": "Plantaven juntes el blat de moro, les mongetes i la carbassa."
-          },
-          {
-            "fr": "On appelle ces trois plantes « les trois sœurs ».",
-            "es": "A estas tres plantas se les llama «las tres hermanas».",
-            "ca": "Aquestes tres plantes s'anomenen «les tres germanes»."
-          },
-          {
-            "fr": "Pour voyager, le canot d'écorce était parfait l'été.",
-            "es": "Para viajar, la canoa de corteza era perfecta en verano.",
-            "ca": "Per viatjar, la canoa d'escorça era perfecta a l'estiu."
-          },
-          {
-            "fr": "L'hiver, les raquettes permettaient de marcher sur la neige.",
-            "es": "En invierno, las raquetas permitían caminar sobre la nieve.",
-            "ca": "A l'hivern, les raquetes permetien caminar sobre la neu."
-          },
-          {
-            "fr": "Beaucoup de ces inventions ont été reprises par les Européens.",
-            "es": "Muchos de estos inventos fueron adoptados por los europeos.",
-            "ca": "Molts d'aquests invents van ser adoptats pels europeus."
-          },
-          {
-            "fr": "Le sirop d'érable, lui aussi, vient d'un savoir autochtone.",
-            "es": "El sirope de arce también viene de un saber indígena.",
-            "ca": "El xarop d'auró també ve d'un saber indígena."
-          },
-          {
-            "fr": "Les aînés transmettaient tout par des histoires.",
-            "es": "Los mayores transmitían todo mediante historias.",
-            "ca": "Els grans transmetien tot mitjançant històries."
-          },
-          {
-            "fr": "Il n'y avait pas d'écriture : la mémoire était orale.",
-            "es": "No había escritura: la memoria era oral.",
-            "ca": "No hi havia escriptura: la memòria era oral."
-          },
-          {
-            "fr": "Le respect de la terre était au cœur de cette vie.",
-            "es": "El respeto por la tierra estaba en el centro de esta vida.",
-            "ca": "El respecte per la terra era al centre d'aquesta vida."
+            "fr": "Les wampums, faits de perles de coquillage, servaient à sceller des ententes et à garder la mémoire. Car le savoir ne s'écrivait pas : il se transmettait par les récits des aînés. Le respect de la terre était au cœur de cette vie.",
+            "es": "Los wampum, hechos de cuentas de concha, servían para sellar acuerdos y guardar la memoria. Pues el saber no se escribía: se transmitía por los relatos de los mayores. El respeto por la tierra estaba en el centro de esta vida.",
+            "ca": "Els wampum, fets de denes de petxina, servien per segellar acords i guardar la memòria. Car el saber no s'escrivia: es transmetia pels relats dels grans. El respecte per la terra era al centre d'aquesta vida."
           }
         ],
         "b1": [
           {
-            "fr": "Pendant des millénaires, les peuples autochtones ont développé une connaissance fine de leur territoire.",
-            "es": "Durante milenios, los pueblos indígenas desarrollaron un conocimiento profundo de su territorio.",
-            "ca": "Durant mil·lennis, els pobles indígenes van desenvolupar un coneixement profund del seu territori."
+            "fr": "Pendant des millénaires, les peuples autochtones ont développé une connaissance fine de leur territoire. Ils vivaient au rythme des saisons, déplaçant leurs camps selon la chasse et la pêche. Au nord, le caribou était essentiel; plus au sud, on chassait l'orignal et le castor, et on pêchait le saumon.",
+            "es": "Durante milenios, los pueblos indígenas desarrollaron un conocimiento profundo de su territorio. Vivían al ritmo de las estaciones, moviendo sus campamentos según la caza y la pesca. En el norte, el caribú era esencial; más al sur, se cazaba el alce y el castor, y se pescaba el salmón.",
+            "ca": "Durant mil·lennis, els pobles indígenes van desenvolupar un coneixement profund del seu territori. Vivien al ritme de les estacions, desplaçant els campaments segons la caça i la pesca. Al nord, el caribú era essencial; més al sud, es caçava l'ant i el castor, i es pescava el salmó."
           },
           {
-            "fr": "Ils vivaient au rythme des saisons, déplaçant leurs camps selon la chasse et la pêche.",
-            "es": "Vivían al ritmo de las estaciones, moviendo sus campamentos según la caza y la pesca.",
-            "ca": "Vivien al ritme de les estacions, desplaçant els campaments segons la caça i la pesca."
+            "fr": "Les nations iroquoiennes, plus sédentaires, cultivaient la terre. Elles plantaient ensemble le maïs, le haricot et la courge — « les trois sœurs » — qui se protègent et se nourrissent l'une l'autre. Plusieurs vivaient dans de longues maisons de bois abritant de nombreuses familles. Le canot d'écorce de bouleau, léger et rapide, permettait de parcourir de grandes distances; l'hiver, raquettes et toboggans rendaient la neige praticable.",
+            "es": "Las naciones iroquesas, más sedentarias, cultivaban la tierra. Plantaban juntos el maíz, el frijol y la calabaza —«las tres hermanas»— que se protegen y se nutren entre sí. Muchas vivían en largas casas de madera que albergaban a muchas familias. La canoa de corteza de abedul, ligera y rápida, permitía recorrer grandes distancias; en invierno, raquetas y toboganes hacían transitable la nieve.",
+            "ca": "Les nacions iroqueses, més sedentàries, conreaven la terra. Plantaven juntes el blat de moro, la mongeta i la carbassa —«les tres germanes»— que es protegeixen i es nodreixen mútuament. Moltes vivien en llargues cases de fusta que acollien moltes famílies. La canoa d'escorça de bedoll, lleugera i ràpida, permetia recórrer grans distàncies; a l'hivern, raquetes i tobogans feien transitable la neu."
           },
           {
-            "fr": "Au nord, le caribou était essentiel; plus au sud, on chassait l'orignal et le castor.",
-            "es": "En el norte, el caribú era esencial; más al sur, se cazaba el alce y el castor.",
-            "ca": "Al nord, el caribú era essencial; més al sud, es caçava l'ant i el castor."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Wampum_belt,_Iroquois_and_Algonkian,_commemorating_peace_treaty_in_17th_century_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05418.JPG",
+              "credit": {
+                "es": "Cinturón wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)",
+                "ca": "Cinturó wampum (s. XVII), Peabody Museum, Harvard — Wikimedia Commons (CC0)"
+              }
+            }
           },
           {
-            "fr": "Les nations iroquoiennes, plus sédentaires, cultivaient la terre.",
-            "es": "Las naciones iroquesas, más sedentarias, cultivaban la tierra.",
-            "ca": "Les nacions iroqueses, més sedentàries, conreaven la terra."
-          },
-          {
-            "fr": "Elles plantaient ensemble le maïs, le haricot et la courge, « les trois sœurs », qui se protègent l'une l'autre.",
-            "es": "Plantaban juntos el maíz, el frijol y la calabaza, «las tres hermanas», que se protegen entre sí.",
-            "ca": "Plantaven juntes el blat de moro, la mongeta i la carbassa, «les tres germanes», que es protegeixen mútuament."
-          },
-          {
-            "fr": "Plusieurs vivaient dans de longues maisons de bois abritant de nombreuses familles.",
-            "es": "Muchos vivían en largas casas de madera que albergaban a muchas familias.",
-            "ca": "Molts vivien en llargues cases de fusta que acollien moltes famílies."
-          },
-          {
-            "fr": "Le canot d'écorce de bouleau, léger et rapide, permettait de parcourir de grandes distances.",
-            "es": "La canoa de corteza de abedul, ligera y rápida, permitía recorrer grandes distancias.",
-            "ca": "La canoa d'escorça de bedoll, lleugera i ràpida, permetia recórrer grans distàncies."
-          },
-          {
-            "fr": "L'hiver, raquettes et toboggans rendaient la neige praticable.",
-            "es": "En invierno, raquetas y toboganes hacían transitable la nieve.",
-            "ca": "A l'hivern, raquetes i tobogans feien transitable la neu."
-          },
-          {
-            "fr": "Beaucoup de ces inventions ont été adoptées par les Européens, tout comme le sirop d'érable.",
-            "es": "Muchos de estos inventos fueron adoptados por los europeos, igual que el sirope de arce.",
-            "ca": "Molts d'aquests invents van ser adoptats pels europeus, igual que el xarop d'auró."
-          },
-          {
-            "fr": "Les wampums, faits de perles de coquillage, servaient à sceller des ententes et à garder la mémoire.",
-            "es": "Los wampum, hechos de cuentas de concha, servían para sellar acuerdos y guardar la memoria.",
-            "ca": "Els wampum, fets de denes de petxina, servien per segellar acords i guardar la memòria."
-          },
-          {
-            "fr": "Car le savoir ne s'écrivait pas : il se transmettait par les récits des aînés.",
-            "es": "Pues el saber no se escribía: se transmitía por los relatos de los mayores.",
-            "ca": "Car el saber no s'escrivia: es transmetia pels relats dels grans."
-          },
-          {
-            "fr": "Chaque histoire portait une leçon, une loi ou un morceau d'histoire.",
-            "es": "Cada historia llevaba una lección, una ley o un trozo de historia.",
-            "ca": "Cada història portava una lliçó, una llei o un tros d'història."
-          },
-          {
-            "fr": "Pour ces peuples, l'être humain faisait partie de la nature, et non l'inverse.",
-            "es": "Para estos pueblos, el ser humano formaba parte de la naturaleza, y no al revés.",
-            "ca": "Per a aquests pobles, l'ésser humà formava part de la natura, i no a l'inrevés."
-          },
-          {
-            "fr": "Ce rapport de respect guidait toute la vie quotidienne.",
-            "es": "Esta relación de respeto guiaba toda la vida cotidiana.",
-            "ca": "Aquesta relació de respecte guiava tota la vida quotidiana."
-          },
-          {
-            "fr": "Beaucoup de ces valeurs restent vivantes chez les nations d'aujourd'hui.",
-            "es": "Muchos de estos valores siguen vivos en las naciones de hoy.",
-            "ca": "Molts d'aquests valors continuen vius en les nacions d'avui."
+            "fr": "Le savoir ne s'écrivait pas : il se transmettait par les récits des aînés, chaque histoire portant une leçon, une loi ou un morceau d'histoire. Les wampums, ces ceintures de perles de coquillage, servaient à sceller des ententes et à garder la mémoire des accords. Pour ces peuples, l'être humain faisait partie de la nature, et non l'inverse — un rapport de respect qui guide encore beaucoup de communautés aujourd'hui.",
+            "es": "El saber no se escribía: se transmitía por los relatos de los mayores, y cada historia llevaba una lección, una ley o un trozo de historia. Los wampum, esos cinturones de cuentas de concha, servían para sellar acuerdos y guardar la memoria de los pactos. Para estos pueblos, el ser humano formaba parte de la naturaleza, y no al revés: una relación de respeto que aún guía a muchas comunidades hoy.",
+            "ca": "El saber no s'escrivia: es transmetia pels relats dels grans, i cada història portava una lliçó, una llei o un tros d'història. Els wampum, aquests cinturons de denes de petxina, servien per segellar acords i guardar la memòria dels pactes. Per a aquests pobles, l'ésser humà formava part de la natura, i no a l'inrevés: una relació de respecte que encara guia moltes comunitats avui."
           }
         ]
       },
@@ -232,11 +115,6 @@
           "mot": "le canot",
           "es": "la canoa",
           "ca": "la canoa"
-        },
-        {
-          "mot": "les raquettes",
-          "es": "las raquetas",
-          "ca": "les raquetes"
         },
         {
           "mot": "les trois sœurs",
@@ -263,16 +141,6 @@
           "piste": {
             "es": "maíz, frijol, calabaza",
             "ca": "blat de moro, mongeta, carbassa"
-          }
-        },
-        {
-          "q": {
-            "es": "¿Para qué servían los wampum?",
-            "ca": "Per a què servien els wampum?"
-          },
-          "piste": {
-            "es": "sellar acuerdos / memoria",
-            "ca": "segellar acords / memòria"
           }
         },
         {

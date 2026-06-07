@@ -1,0 +1,216 @@
+{
+  "textes": [
+    {
+      "id": "identite_autochtone",
+      "emoji": "🪪",
+      "theme": "Histoire",
+      "periode": "débat d'aujourd'hui",
+      "titre": {
+        "es": "¿Quién es realmente indígena? Identidad y «pretendians»",
+        "ca": "Qui és realment indígena? Identitat i «pretendians»"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Voici une question difficile : qui est vraiment autochtone? Parfois, des personnes célèbres disent qu'elles sont autochtones, mais ce n'est pas vrai.",
+            "es": "Aquí va una pregunta difícil: ¿quién es realmente indígena? A veces, personas famosas dicen que son indígenas, pero no es verdad.",
+            "ca": "Aquí va una pregunta difícil: qui és realment indígena? De vegades, persones famoses diuen que són indígenes, però no és veritat."
+          },
+          {
+            "fr": "On les appelle des « pretendians » : des gens qui font semblant d'être autochtones. Souvent, ils gagnent des prix et des emplois réservés aux vrais Autochtones.",
+            "es": "Se les llama «pretendians»: personas que fingen ser indígenas. A menudo ganan premios y empleos reservados a los verdaderos indígenas.",
+            "ca": "Se'ls anomena «pretendians»: persones que fingeixen ser indígenes. Sovint guanyen premis i feines reservats als veritables indígenes."
+          },
+          {
+            "fr": "Pourquoi c'est difficile à savoir? Parce que l'histoire a été dure : beaucoup de familles ont perdu leurs papiers et leurs liens. Être autochtone, c'est aussi appartenir à une communauté.",
+            "es": "¿Por qué es difícil saberlo? Porque la historia fue dura: muchas familias perdieron sus papeles y sus vínculos. Ser indígena es también pertenecer a una comunidad.",
+            "ca": "Per què és difícil saber-ho? Perquè la història va ser dura: moltes famílies van perdre els seus papers i els seus vincles. Ser indígena és també pertànyer a una comunitat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Voici une question simple en apparence, mais très délicate : qui est vraiment autochtone? Ces dernières années, plusieurs personnes célèbres ont été accusées d'avoir inventé ou exagéré des origines autochtones.",
+            "es": "Aquí va una pregunta sencilla en apariencia, pero muy delicada: ¿quién es realmente indígena? En los últimos años, varias personas famosas han sido acusadas de inventar o exagerar orígenes indígenas.",
+            "ca": "Aquí va una pregunta senzilla en aparença, però molt delicada: qui és realment indígena? En els darrers anys, diverses persones famoses han estat acusades d'inventar o exagerar orígens indígenes."
+          },
+          {
+            "fr": "On les appelle des « pretendians », un mot anglais qui mélange « pretend » (faire semblant) et « Indian ». L'écrivain Joseph Boyden, la cinéaste Michelle Latimer ou la chanteuse Buffy Sainte-Marie ont tous vu leurs origines remises en question.",
+            "es": "Se les llama «pretendians», una palabra inglesa que mezcla «pretend» (fingir) e «Indian». El escritor Joseph Boyden, la cineasta Michelle Latimer o la cantante Buffy Sainte-Marie vieron todos cuestionados sus orígenes.",
+            "ca": "Se'ls anomena «pretendians», una paraula anglesa que barreja «pretend» (fingir) i «Indian». L'escriptor Joseph Boyden, la cineasta Michelle Latimer o la cantant Buffy Sainte-Marie van veure tots qüestionats els seus orígens."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi c'est grave",
+              "es": "Por qué es grave",
+              "ca": "Per què és greu"
+            }
+          },
+          {
+            "fr": "C'est grave parce que ces personnes ont souvent reçu des prix et des emplois réservés aux Autochtones — en prenant la place de vrais artistes ou chercheurs autochtones. Et en s'appropriant une douleur qui n'est pas la leur, elles blessent des communautés déjà fragilisées.",
+            "es": "Es grave porque esas personas a menudo recibieron premios y empleos reservados a los indígenas, ocupando el lugar de verdaderos artistas o investigadores indígenas. Y al apropiarse de un dolor que no es suyo, hieren a comunidades ya frágiles.",
+            "ca": "És greu perquè aquestes persones sovint van rebre premis i feines reservats als indígenes, ocupant el lloc de veritables artistes o investigadors indígenes. I en apropiar-se d'un dolor que no és seu, fereixen comunitats ja fràgils."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi c'est dur à prouver",
+              "es": "Por qué es difícil de probar",
+              "ca": "Per què és difícil de provar"
+            }
+          },
+          {
+            "fr": "L'identité autochtone n'est pas qu'une question de sang ou de papiers. La colonisation a brisé beaucoup de repères : des enfants ont été adoptés de force, des femmes ont perdu leur statut à cause de la Loi sur les Indiens, des documents ont disparu. Être autochtone, c'est aussi appartenir à une communauté qui vous reconnaît.",
+            "es": "La identidad indígena no es solo cuestión de sangre o de papeles. La colonización rompió muchos referentes: niños fueron adoptados a la fuerza, mujeres perdieron su estatus por la Ley sobre los Indios, documentos desaparecieron. Ser indígena es también pertenecer a una comunidad que te reconoce.",
+            "ca": "La identitat indígena no és només qüestió de sang o de papers. La colonització va trencar molts referents: nens van ser adoptats a la força, dones van perdre el seu estatus per la Llei sobre els Indis, documents van desaparèixer. Ser indígena és també pertànyer a una comunitat que et reconeix."
+          },
+          {
+            "fr": "C'est pourquoi beaucoup pensent que ce sont les nations autochtones elles-mêmes — et non les universités ou les médias — qui devraient dire qui fait partie des leurs.",
+            "es": "Por eso muchos piensan que son las propias naciones indígenas —y no las universidades o los medios— quienes deberían decir quién forma parte de los suyos.",
+            "ca": "Per això molts pensen que són les pròpies nacions indígenes —i no les universitats o els mitjans— les que haurien de dir qui forma part dels seus."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Voici une question simple en apparence, mais redoutablement délicate : qui est vraiment autochtone? Ces dernières années, plusieurs personnalités célèbres ont été accusées d'avoir inventé ou exagéré des origines autochtones. On les appelle des « pretendians » — un mot-valise anglais formé de « pretend » (faire semblant) et « Indian ».",
+            "es": "Aquí va una pregunta sencilla en apariencia, pero tremendamente delicada: ¿quién es realmente indígena? En los últimos años, varias personalidades famosas han sido acusadas de inventar o exagerar orígenes indígenas. Se les llama «pretendians», una palabra inglesa formada por «pretend» (fingir) e «Indian».",
+            "ca": "Aquí va una pregunta senzilla en aparença, però terriblement delicada: qui és realment indígena? En els darrers anys, diverses personalitats famoses han estat acusades d'inventar o exagerar orígens indígenes. Se'ls anomena «pretendians», una paraula anglesa formada per «pretend» (fingir) i «Indian»."
+          },
+          {
+            "h": {
+              "fr": "Des cas qui ont fait grand bruit",
+              "es": "Casos que causaron mucho ruido",
+              "ca": "Casos que van fer molt de soroll"
+            }
+          },
+          {
+            "fr": "L'écrivain Joseph Boyden, salué comme une grande voix autochtone, a vu ses origines contestées dès 2016. La cinéaste Michelle Latimer (2020), puis la professeure Carrie Bourassa (2021) — dont on a découvert que les ancêtres prétendument autochtones étaient en réalité européens — ont perdu postes et projets. En 2023, une enquête de Radio-Canada (CBC) a même contesté les origines de Buffy Sainte-Marie, icône de la chanson engagée; en 2025, on lui a retiré l'Ordre du Canada. Elle, de son côté, continue de défendre son histoire et nie avoir menti.",
+            "es": "El escritor Joseph Boyden, aclamado como una gran voz indígena, vio cuestionados sus orígenes ya en 2016. La cineasta Michelle Latimer (2020) y luego la profesora Carrie Bourassa (2021) —cuyos antepasados supuestamente indígenas resultaron ser en realidad europeos— perdieron puestos y proyectos. En 2023, una investigación de Radio-Canada (CBC) cuestionó incluso los orígenes de Buffy Sainte-Marie, icono de la canción comprometida; en 2025 le retiraron la Orden de Canadá. Ella, por su parte, sigue defendiendo su historia y niega haber mentido.",
+            "ca": "L'escriptor Joseph Boyden, aclamat com una gran veu indígena, va veure qüestionats els seus orígens ja el 2016. La cineasta Michelle Latimer (2020) i després la professora Carrie Bourassa (2021) —els avantpassats suposadament indígenes de la qual van resultar ser en realitat europeus— van perdre llocs i projectes. El 2023, una investigació de Ràdio-Canadà (CBC) va qüestionar fins i tot els orígens de Buffy Sainte-Marie, icona de la cançó compromesa; el 2025 li van retirar l'Orde del Canadà. Ella, per la seva banda, continua defensant la seva història i nega haver mentit."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi est-ce si grave?",
+              "es": "¿Por qué es tan grave?",
+              "ca": "Per què és tan greu?"
+            }
+          },
+          {
+            "fr": "Parce que ces personnes ont souvent reçu des prix, des emplois et des bourses réservés aux Autochtones — en prenant la place de véritables artistes, chercheurs ou écrivains autochtones, qui en avaient été privés. Et parce qu'en s'appropriant une souffrance qui n'est pas la leur — par exemple celle des pensionnats — elles blessent profondément des communautés déjà marquées par l'histoire.",
+            "es": "Porque esas personas a menudo recibieron premios, empleos y becas reservados a los indígenas, ocupando el lugar de verdaderos artistas, investigadores o escritores indígenas, que se vieron privados de ellos. Y porque, al apropiarse de un sufrimiento que no es suyo —por ejemplo el de los internados—, hieren profundamente a comunidades ya marcadas por la historia.",
+            "ca": "Perquè aquestes persones sovint van rebre premis, feines i beques reservats als indígenes, ocupant el lloc de veritables artistes, investigadors o escriptors indígenes, que en van quedar privats. I perquè, en apropiar-se d'un patiment que no és seu —per exemple el dels internats—, fereixen profundament comunitats ja marcades per la història."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi est-ce si difficile à reconnaître?",
+              "es": "¿Por qué es tan difícil de reconocer?",
+              "ca": "Per què és tan difícil de reconèixer?"
+            }
+          },
+          {
+            "fr": "D'abord parce que la colonisation a brisé énormément de repères : des enfants ont été adoptés ou arrachés à leur famille, des femmes ont perdu leur statut à cause de la Loi sur les Indiens, et beaucoup de documents ont été perdus, détruits ou falsifiés. Ensuite parce que l'identité autochtone n'est pas qu'une affaire de sang ou de papiers : c'est aussi un lien d'appartenance. Comme le disait Buffy Sainte-Marie pour se défendre, « être autochtone, c'est qui te reconnaît, qui t'aime, qui est ta famille » — un argument réel, mais qui peut aussi servir d'écran de fumée.",
+            "es": "Primero, porque la colonización rompió enormes referentes: niños fueron adoptados o arrancados de su familia, mujeres perdieron su estatus por la Ley sobre los Indios, y muchos documentos se perdieron, destruyeron o falsificaron. Luego, porque la identidad indígena no es solo cuestión de sangre o de papeles: es también un vínculo de pertenencia. Como decía Buffy Sainte-Marie para defenderse, «ser indígena es quién te reconoce, quién te quiere, quién es tu familia» —un argumento real, pero que también puede servir de cortina de humo.",
+            "ca": "Primer, perquè la colonització va trencar enormes referents: nens van ser adoptats o arrencats de la família, dones van perdre l'estatus per la Llei sobre els Indis, i molts documents es van perdre, destruir o falsificar. Després, perquè la identitat indígena no és només qüestió de sang o de papers: és també un vincle de pertinença. Com deia Buffy Sainte-Marie per defensar-se, «ser indígena és qui et reconeix, qui t'estima, qui és la teva família» —un argument real, però que també pot servir de cortina de fum."
+          },
+          {
+            "h": {
+              "fr": "Qui devrait décider?",
+              "es": "¿Quién debería decidir?",
+              "ca": "Qui hauria de decidir?"
+            }
+          },
+          {
+            "fr": "C'est là le cœur du débat. Pendant longtemps, on s'est fié à la simple parole des gens : l'« auto-identification », un système d'honneur. Mais après tous ces scandales, de plus en plus de voix affirment que ce ne sont ni les universités, ni les médias, ni l'État qui devraient trancher — mais les nations autochtones elles-mêmes, seules légitimes pour dire qui fait partie des leurs. Reconnaître une identité, au fond, ce n'est pas seulement vérifier un ancêtre lointain : c'est reconnaître un lien vivant, et réciproque, avec un peuple.",
+            "es": "Ahí está el corazón del debate. Durante mucho tiempo se confió en la simple palabra de la gente: la «autoidentificación», un sistema de honor. Pero tras todos estos escándalos, cada vez más voces afirman que no son ni las universidades, ni los medios, ni el Estado quienes deben decidir, sino las propias naciones indígenas, las únicas legítimas para decir quién forma parte de los suyos. Reconocer una identidad, en el fondo, no es solo verificar un antepasado lejano: es reconocer un vínculo vivo, y recíproco, con un pueblo.",
+            "ca": "Aquí hi ha el cor del debat. Durant molt de temps es va confiar en la simple paraula de la gent: l'«autoidentificació», un sistema d'honor. Però després de tots aquests escàndols, cada cop més veus afirmen que no són ni les universitats, ni els mitjans, ni l'Estat els qui han de decidir, sinó les pròpies nacions indígenes, les úniques legítimes per dir qui forma part dels seus. Reconèixer una identitat, al capdavall, no és només verificar un avantpassat llunyà: és reconèixer un vincle viu, i recíproc, amb un poble."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'identité",
+          "es": "la identidad",
+          "ca": "la identitat"
+        },
+        {
+          "mot": "faire semblant",
+          "es": "fingir",
+          "ca": "fingir"
+        },
+        {
+          "mot": "reconnaître",
+          "es": "reconocer",
+          "ca": "reconèixer"
+        },
+        {
+          "mot": "appartenir",
+          "es": "pertenecer",
+          "ca": "pertànyer"
+        },
+        {
+          "mot": "un ancêtre",
+          "es": "un antepasado",
+          "ca": "un avantpassat"
+        },
+        {
+          "mot": "une communauté",
+          "es": "una comunidad",
+          "ca": "una comunitat"
+        },
+        {
+          "mot": "la fraude",
+          "es": "el fraude",
+          "ca": "el frau"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué es un «pretendian»?",
+            "ca": "Què és un «pretendian»?"
+          },
+          "piste": {
+            "es": "alguien que finge ser indígena",
+            "ca": "algú que fingeix ser indígena"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué es grave?",
+            "ca": "Per què és greu?"
+          },
+          "piste": {
+            "es": "quita premios/empleos a verdaderos indígenas",
+            "ca": "treu premis/feines a veritables indígenes"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién debería decidir quién es indígena?",
+            "ca": "Qui hauria de decidir qui és indígena?"
+          },
+          "piste": {
+            "es": "las propias naciones indígenas",
+            "ca": "les pròpies nacions indígenes"
+          }
+        }
+      ],
+      "note": {
+        "es": "Es un debate actual y sensible; las opiniones difieren, incluso entre personas indígenas.",
+        "ca": "És un debat actual i sensible; les opinions difereixen, fins i tot entre persones indígenes."
+      },
+      "sources": [
+        {
+          "titre": "CBC — Buffy Sainte-Marie (The Fifth Estate)",
+          "url": "https://www.cbc.ca/news/entertainment/buffy-sainte-marie-pushes-back-investigation-1.7037406"
+        },
+        {
+          "titre": "Global News — What are 'pretendians'?",
+          "url": "https://globalnews.ca/news/9450313/pretendians-canada-indigenous-ancestry/"
+        },
+        {
+          "titre": "CBC — Universities and Indigenous identity",
+          "url": "https://www.cbc.ca/amp/1.6266901"
+        }
+      ]
+    }
+  ]
+}

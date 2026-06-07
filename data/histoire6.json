@@ -1,0 +1,115 @@
+{
+  "textes": [
+    {
+      "id": "ile_tortue",
+      "emoji": "🐢",
+      "theme": "Histoire",
+      "periode": "récit de création",
+      "titre": {
+        "es": "La Isla de la Tortuga",
+        "ca": "L'Illa de la Tortuga"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Plusieurs nations racontent la même belle histoire. Au début, il n'y avait que de l'eau et des animaux. Une femme est tombée du ciel.",
+            "es": "Varias naciones cuentan la misma bella historia. Al principio, solo había agua y animales. Una mujer cayó del cielo.",
+            "ca": "Diverses nacions expliquen la mateixa bella història. Al principi, només hi havia aigua i animals. Una dona va caure del cel."
+          },
+          {
+            "fr": "Les animaux ont voulu l'aider. Un petit animal a plongé très profond et a ramené un peu de terre. On a mis cette terre sur le dos d'une tortue. La terre a grandi et est devenue l'Amérique : « l'île de la Tortue ».",
+            "es": "Los animales quisieron ayudarla. Un pequeño animal se sumergió muy hondo y trajo un poco de tierra. Pusieron esa tierra sobre el caparazón de una tortuga. La tierra creció y se convirtió en América: «la Isla de la Tortuga».",
+            "ca": "Els animals la van voler ajudar. Un petit animal es va submergir molt fondo i va portar una mica de terra. Van posar aquella terra sobre la closca d'una tortuga. La terra va créixer i es va convertir en Amèrica: «l'Illa de la Tortuga»."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Beaucoup de nations autochtones racontent l'histoire de « l'île de la Tortue ». Au commencement, le monde n'était que de l'eau, peuplé d'animaux. Une femme tomba du ciel, et les oiseaux la déposèrent doucement.",
+            "es": "Muchas naciones indígenas cuentan la historia de «la Isla de la Tortuga». Al comienzo, el mundo solo era agua, poblado de animales. Una mujer cayó del cielo, y los pájaros la posaron suavemente.",
+            "ca": "Moltes nacions indígenes expliquen la història de «l'Illa de la Tortuga». Al començament, el món només era aigua, poblat d'animals. Una dona va caure del cel, i els ocells la van posar suaument."
+          },
+          {
+            "fr": "Pour lui faire une place, les animaux plongèrent chercher de la terre au fond de l'eau. Après plusieurs essais, un petit animal — souvent le rat musqué — réussit à en rapporter une poignée. On déposa cette terre sur le dos d'une grande tortue, où elle grandit jusqu'à devenir le continent. C'est pourquoi, pour beaucoup de nations, l'Amérique du Nord s'appelle « l'île de la Tortue ».",
+            "es": "Para hacerle un sitio, los animales se sumergieron a buscar tierra al fondo del agua. Tras varios intentos, un pequeño animal —a menudo la rata almizclera— logró traer un puñado. Pusieron esa tierra sobre el lomo de una gran tortuga, donde creció hasta convertirse en el continente. Por eso, para muchas naciones, América del Norte se llama «la Isla de la Tortuga».",
+            "ca": "Per fer-li un lloc, els animals es van submergir a buscar terra al fons de l'aigua. Després de diversos intents, un petit animal —sovint la rata mesquera— va aconseguir portar-ne un grapat. Van posar aquella terra sobre el llom d'una gran tortuga, on va créixer fins a convertir-se en el continent. Per això, per a moltes nacions, Amèrica del Nord s'anomena «l'Illa de la Tortuga»."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Plusieurs nations autochtones — notamment haudenosaunee et anishinabe — partagent un même grand récit de création : celui de l'île de la Tortue. Au commencement, racontent-elles, le monde n'était qu'une vaste étendue d'eau, habitée seulement par des animaux.",
+            "es": "Varias naciones indígenas —en particular haudenosaunee y anishinabe— comparten un mismo gran relato de creación: el de la Isla de la Tortuga. Al comienzo, cuentan, el mundo solo era una vasta extensión de agua, habitada solo por animales.",
+            "ca": "Diverses nacions indígenes —en particular haudenosaunee i anishinabe— comparteixen un mateix gran relat de creació: el de l'Illa de la Tortuga. Al començament, expliquen, el món només era una vasta extensió d'aigua, habitada només per animals."
+          },
+          {
+            "fr": "Une femme tomba d'un trou dans le ciel. Les oiseaux amortirent sa chute, puis les animaux décidèrent de l'aider. L'un après l'autre, ils plongèrent pour rapporter de la terre du fond des eaux; ce fut finalement le rat musqué, le plus humble, qui réussit.",
+            "es": "Una mujer cayó por un agujero del cielo. Los pájaros amortiguaron su caída, y luego los animales decidieron ayudarla. Uno tras otro, se sumergieron para traer tierra del fondo de las aguas; al final fue la rata almizclera, la más humilde, quien lo logró.",
+            "ca": "Una dona va caure per un forat del cel. Els ocells van esmorteir la seva caiguda, i després els animals van decidir ajudar-la. Un rere l'altre, es van submergir per portar terra del fons de les aigües; finalment va ser la rata mesquera, la més humil, qui ho va aconseguir."
+          },
+          {
+            "fr": "On déposa cette poignée de terre sur la carapace d'une tortue, et elle grandit jusqu'à former le continent. Voilà pourquoi de nombreuses nations appellent encore l'Amérique du Nord « l'île de la Tortue ». Ce récit dit beaucoup : l'importance de l'entraide, le respect des animaux, et l'idée que la Terre est un don à protéger.",
+            "es": "Pusieron ese puñado de tierra sobre el caparazón de una tortuga, y creció hasta formar el continente. Por eso muchas naciones llaman todavía a América del Norte «la Isla de la Tortuga». Este relato dice mucho: la importancia de la ayuda mutua, el respeto a los animales, y la idea de que la Tierra es un don que hay que proteger.",
+            "ca": "Van posar aquell grapat de terra sobre la closca d'una tortuga, i va créixer fins a formar el continent. Per això moltes nacions encara anomenen Amèrica del Nord «l'Illa de la Tortuga». Aquest relat diu molt: la importància de l'ajuda mútua, el respecte als animals, i la idea que la Terra és un do que cal protegir."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "le ciel",
+          "es": "el cielo",
+          "ca": "el cel"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        },
+        {
+          "mot": "une tortue",
+          "es": "una tortuga",
+          "ca": "una tortuga"
+        },
+        {
+          "mot": "plonger",
+          "es": "sumergirse",
+          "ca": "submergir-se"
+        },
+        {
+          "mot": "un animal",
+          "es": "un animal",
+          "ca": "un animal"
+        },
+        {
+          "mot": "grandir",
+          "es": "crecer",
+          "ca": "créixer"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Sobre qué animal se puso la tierra?",
+            "ca": "Sobre quin animal es va posar la terra?"
+          },
+          "piste": {
+            "es": "una tortuga",
+            "ca": "una tortuga"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué enseña este relato?",
+            "ca": "Què ensenya aquest relat?"
+          },
+          "piste": {
+            "es": "ayuda mutua / respeto",
+            "ca": "ajuda mútua / respecte"
+          }
+        }
+      ],
+      "note": {
+        "es": "Es un relato sagrado transmitido oralmente; existen varias versiones según las naciones.",
+        "ca": "És un relat sagrat transmès oralment; n'hi ha diverses versions segons les nacions."
+      }
+    }
+  ]
+}

@@ -10,208 +10,98 @@
         "ca": "Les Primeres Nacions del Quebec"
       },
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_nations_autochtones_et_le_Qu%C3%A9bec.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Les_nations_autochtones_et_le_Qu%C3%A9bec.jpg",
         "credit": {
-          "es": "Familias de Primeras Naciones en canoa de corteza, río Nelson, 1878 — Biblioteca y Archivos Canadá (dominio público)",
-          "ca": "Famílies de Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — Biblioteca i Arxius Canadà (domini públic)"
-        },
-        "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg"
+          "es": "Mapa de las naciones indígenas de Quebec — Wikimedia Commons",
+          "ca": "Mapa de les nacions indígenes del Quebec — Wikimedia Commons"
+        }
       },
       "niveaux": {
         "a1": [
           {
-            "fr": "Au Québec, il y a onze nations autochtones.",
-            "es": "En Quebec hay once naciones indígenas.",
-            "ca": "Al Quebec hi ha onze nacions indígenes."
+            "fr": "Au Québec, il y a onze nations autochtones : dix Premières Nations et les Inuit. Elles vivent ici depuis des milliers d'années, bien avant les Européens.",
+            "es": "En Quebec hay once naciones indígenas: diez Primeras Naciones y los inuit. Viven aquí desde hace miles de años, mucho antes que los europeos.",
+            "ca": "Al Quebec hi ha onze nacions indígenes: deu Primeres Nacions i els inuit. Viuen aquí des de fa milers d'anys, molt abans que els europeus."
           },
           {
-            "fr": "Ce sont dix Premières Nations et les Inuit.",
-            "es": "Son diez Primeras Naciones y los inuit.",
-            "ca": "Són deu Primeres Nacions i els inuit."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg",
+              "credit": {
+                "es": "Primeras Naciones en canoa de corteza, río Nelson, 1878 — dominio público",
+                "ca": "Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — domini públic"
+              }
+            }
           },
           {
-            "fr": "Ils vivent ici depuis des milliers d'années.",
-            "es": "Viven aquí desde hace miles de años.",
-            "ca": "Viuen aquí des de fa milers d'anys."
+            "fr": "Ce ne sont pas le même peuple. Chaque nation a sa langue et sa culture. Par exemple : les Innus, les Cris, les Mohawks et les Wendat. Les Inuit, eux, vivent dans le Grand Nord.",
+            "es": "No son el mismo pueblo. Cada nación tiene su lengua y su cultura. Por ejemplo: los innus, los críes, los mohawks y los wendat. Los inuit viven en el Gran Norte.",
+            "ca": "No són el mateix poble. Cada nació té la seva llengua i la seva cultura. Per exemple: els innus, els cris, els mohawks i els wendat. Els inuit viuen al Gran Nord."
           },
           {
-            "fr": "Ils étaient là bien avant les Européens.",
-            "es": "Estaban aquí mucho antes que los europeos.",
-            "ca": "Hi eren molt abans que els europeus."
-          },
-          {
-            "fr": "Ce ne sont pas tous le même peuple.",
-            "es": "No son todos el mismo pueblo.",
-            "ca": "No són tots el mateix poble."
-          },
-          {
-            "fr": "Chaque nation a sa langue et sa culture.",
-            "es": "Cada nación tiene su lengua y su cultura.",
-            "ca": "Cada nació té la seva llengua i la seva cultura."
-          },
-          {
-            "fr": "Par exemple : les Innus, les Cris, les Mohawks.",
-            "es": "Por ejemplo: los innus, los críes, los mohawks.",
-            "ca": "Per exemple: els innus, els cris, els mohawks."
-          },
-          {
-            "fr": "Les Inuit vivent dans le Grand Nord.",
-            "es": "Los inuit viven en el Gran Norte.",
-            "ca": "Els inuit viuen al Gran Nord."
-          },
-          {
-            "fr": "Wendake est un village wendat, près de Québec.",
-            "es": "Wendake es un pueblo wendat, cerca de Quebec.",
-            "ca": "Wendake és un poble wendat, a prop de Quebec."
-          },
-          {
-            "fr": "Aujourd'hui, ces cultures sont bien vivantes.",
-            "es": "Hoy, estas culturas están muy vivas.",
-            "ca": "Avui, aquestes cultures són ben vives."
+            "fr": "Aujourd'hui, ces cultures sont bien vivantes. On voit les Premières Nations dans les noms de lieux, la musique et les fêtes.",
+            "es": "Hoy, estas culturas están muy vivas. Vemos a las Primeras Naciones en los nombres de lugares, la música y las fiestas.",
+            "ca": "Avui, aquestes cultures són ben vives. Veiem les Primeres Nacions en els noms de llocs, la música i les festes."
           }
         ],
         "a2": [
           {
-            "fr": "Le Québec compte onze nations autochtones : dix Premières Nations et les Inuit.",
-            "es": "Quebec tiene once naciones indígenas: diez Primeras Naciones y los inuit.",
-            "ca": "El Quebec té onze nacions indígenes: deu Primeres Nacions i els inuit."
+            "fr": "Le Québec compte onze nations autochtones : dix Premières Nations et les Inuit. Ensemble, elles forment environ 1 % de la population. Ces peuples habitent le territoire depuis des milliers d'années, bien avant l'arrivée des Européens.",
+            "es": "Quebec tiene once naciones indígenas: diez Primeras Naciones y los inuit. Juntas forman alrededor del 1 % de la población. Estos pueblos habitan el territorio desde hace miles de años, mucho antes de la llegada de los europeos.",
+            "ca": "El Quebec té onze nacions indígenes: deu Primeres Nacions i els inuit. Juntes formen al voltant de l'1 % de la població. Aquests pobles habiten el territori des de fa milers d'anys, molt abans de l'arribada dels europeus."
           },
           {
-            "fr": "Ensemble, elles forment environ 1 % de la population du Québec.",
-            "es": "Juntas, forman alrededor del 1 % de la población de Quebec.",
-            "ca": "Juntes, formen al voltant de l'1 % de la població del Quebec."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg",
+              "credit": {
+                "es": "Primeras Naciones en canoa de corteza, río Nelson, 1878 — dominio público",
+                "ca": "Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — domini públic"
+              }
+            }
           },
           {
-            "fr": "Ces peuples habitent le territoire depuis des milliers d'années.",
-            "es": "Estos pueblos habitan el territorio desde hace miles de años.",
-            "ca": "Aquests pobles habiten el territori des de fa milers d'anys."
+            "fr": "Il ne faut pas les voir comme un seul groupe : chaque nation est différente. Les Innus vivent surtout sur la Côte-Nord, les Cris près de la baie James. Les Mohawks habitent près de Montréal, à Kahnawake, et les Wendat à Wendake, près de Québec. Les Inuit vivent au Nunavik, tout au nord.",
+            "es": "No hay que verlos como un solo grupo: cada nación es diferente. Los innus viven sobre todo en la Costa Norte, los críes cerca de la bahía de James. Los mohawks viven cerca de Montreal, en Kahnawake, y los wendat en Wendake, cerca de Quebec. Los inuit viven en Nunavik, al norte.",
+            "ca": "No s'han de veure com un sol grup: cada nació és diferent. Els innus viuen sobretot a la Costa Nord, els cris a prop de la badia de James. Els mohawks viuen a prop de Montreal, a Kahnawake, i els wendat a Wendake, a prop de Quebec. Els inuit viuen al Nunavik, al nord."
           },
           {
-            "fr": "Il ne faut pas les voir comme un seul groupe : chaque nation est différente.",
-            "es": "No hay que verlos como un solo grupo: cada nación es diferente.",
-            "ca": "No s'han de veure com un sol grup: cada nació és diferent."
-          },
-          {
-            "fr": "Les Innus, par exemple, vivent surtout sur la Côte-Nord.",
-            "es": "Los innus, por ejemplo, viven sobre todo en la Costa Norte.",
-            "ca": "Els innus, per exemple, viuen sobretot a la Costa Nord."
-          },
-          {
-            "fr": "Les Cris habitent près de la baie James, au nord.",
-            "es": "Los críes viven cerca de la bahía de James, al norte.",
-            "ca": "Els cris viuen a prop de la badia de James, al nord."
-          },
-          {
-            "fr": "Les Mohawks (Kanien'kehá:ka) vivent près de Montréal.",
-            "es": "Los mohawks (Kanien'kehá:ka) viven cerca de Montreal.",
-            "ca": "Els mohawks (Kanien'kehá:ka) viuen a prop de Montreal."
-          },
-          {
-            "fr": "Les Wendat ont leur communauté à Wendake, près de Québec.",
-            "es": "Los wendat tienen su comunidad en Wendake, cerca de Quebec.",
-            "ca": "Els wendat tenen la seva comunitat a Wendake, a prop de Quebec."
-          },
-          {
-            "fr": "Les Inuit, eux, vivent au Nunavik, tout au nord.",
-            "es": "Los inuit, por su parte, viven en Nunavik, en el extremo norte.",
-            "ca": "Els inuit, per la seva banda, viuen al Nunavik, a l'extrem nord."
-          },
-          {
-            "fr": "Chaque nation a sa propre langue et ses traditions.",
-            "es": "Cada nación tiene su propia lengua y sus tradiciones.",
-            "ca": "Cada nació té la seva pròpia llengua i les seves tradicions."
-          },
-          {
-            "fr": "Plusieurs de ces langues sont encore parlées aujourd'hui.",
-            "es": "Varias de estas lenguas todavía se hablan hoy.",
-            "ca": "Diverses d'aquestes llengües encara es parlen avui."
-          },
-          {
-            "fr": "D'autres nations travaillent fort pour faire revivre la leur.",
-            "es": "Otras naciones se esfuerzan por revivir la suya.",
-            "ca": "Altres nacions s'esforcen per fer reviure la seva."
-          },
-          {
-            "fr": "Ces cultures ne sont pas du passé : elles sont bien vivantes.",
-            "es": "Estas culturas no son del pasado: están muy vivas.",
-            "ca": "Aquestes cultures no són del passat: són ben vives."
+            "fr": "Chaque nation a sa propre langue. Plusieurs sont encore parlées aujourd'hui, comme l'innu, le cri et l'inuktitut. D'autres nations travaillent fort pour faire revivre la leur. Ces cultures ne sont pas du passé : elles sont bien vivantes.",
+            "es": "Cada nación tiene su propia lengua. Varias se hablan todavía hoy, como el innu, el cree y el inuktitut. Otras naciones se esfuerzan por revivir la suya. Estas culturas no son del pasado: están muy vivas.",
+            "ca": "Cada nació té la seva pròpia llengua. Diverses encara es parlen avui, com l'innu, el cree i l'inuktitut. Altres nacions s'esforcen per fer reviure la seva. Aquestes cultures no són del passat: són ben vives."
           }
         ],
         "b1": [
           {
-            "fr": "Le territoire qu'on appelle aujourd'hui le Québec abrite onze nations autochtones : dix Premières Nations et le peuple inuit.",
-            "es": "El territorio que hoy llamamos Quebec alberga once naciones indígenas: diez Primeras Naciones y el pueblo inuit.",
-            "ca": "El territori que avui anomenem Quebec acull onze nacions indígenes: deu Primeres Nacions i el poble inuit."
+            "fr": "Le territoire qu'on appelle aujourd'hui le Québec n'a pas commencé avec l'arrivée des Européens. Depuis des milliers d'années, il est habité par des peuples autochtones aux cultures riches et variées. On y compte onze nations : dix Premières Nations et le peuple inuit, soit plus de 140 000 personnes.",
+            "es": "El territorio que hoy llamamos Quebec no empezó con la llegada de los europeos. Desde hace miles de años está habitado por pueblos indígenas de culturas ricas y variadas. Hay once naciones: diez Primeras Naciones y el pueblo inuit, es decir más de 140 000 personas.",
+            "ca": "El territori que avui anomenem Quebec no va començar amb l'arribada dels europeus. Des de fa milers d'anys està habitat per pobles indígenes de cultures riques i variades. Hi ha onze nacions: deu Primeres Nacions i el poble inuit, és a dir més de 140.000 persones."
           },
           {
-            "fr": "Ensemble, elles représentent environ 1 % de la population, soit plus de 140 000 personnes.",
-            "es": "Juntas representan cerca del 1 % de la población, es decir más de 140 000 personas.",
-            "ca": "Juntes representen prop de l'1 % de la població, és a dir més de 140.000 persones."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg",
+              "credit": {
+                "es": "Primeras Naciones en canoa de corteza, río Nelson, 1878 — dominio público",
+                "ca": "Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — domini públic"
+              }
+            }
           },
           {
-            "fr": "Ces peuples occupent le territoire depuis des millénaires, bien avant l'arrivée des Européens.",
-            "es": "Estos pueblos ocupan el territorio desde hace milenios, mucho antes de la llegada de los europeos.",
-            "ca": "Aquests pobles ocupen el territori des de fa mil·lennis, molt abans de l'arribada dels europeus."
+            "fr": "Ces nations ne forment pas un seul groupe : chacune a sa langue, son histoire et son territoire. Les Innus vivent surtout sur la Côte-Nord, les Cris autour de la baie James, les Atikamekw en Haute-Mauricie. Les Mohawks (Kanien'kehá:ka) ont leurs communautés près de Montréal, comme Kahnawake, et les Wendat sont installés à Wendake, tout près de la ville de Québec.",
+            "es": "Estas naciones no forman un solo grupo: cada una tiene su lengua, su historia y su territorio. Los innus viven sobre todo en la Costa Norte, los críes alrededor de la bahía de James, los atikamekw en la Alta Mauricie. Los mohawks (Kanien'kehá:ka) tienen sus comunidades cerca de Montreal, como Kahnawake, y los wendat están en Wendake, muy cerca de la ciudad de Quebec.",
+            "ca": "Aquestes nacions no formen un sol grup: cadascuna té la seva llengua, la seva història i el seu territori. Els innus viuen sobretot a la Costa Nord, els cris al voltant de la badia de James, els atikamekw a l'Alta Maurície. Els mohawks (Kanien'kehá:ka) tenen les comunitats a prop de Montreal, com Kahnawake, i els wendat són a Wendake, molt a prop de la ciutat de Quebec."
           },
           {
-            "fr": "Ce serait une erreur de les voir comme un seul groupe : ce sont des nations distinctes.",
-            "es": "Sería un error verlos como un solo grupo: son naciones distintas.",
-            "ca": "Seria un error veure'ls com un sol grup: són nacions diferents."
+            "fr": "Leurs langues se regroupent en trois grandes familles. La famille algonquienne réunit l'innu, le cri, l'atikamekw, l'algonquin et le mi'gmaq. La famille iroquoienne comprend le mohawk et le wendat. Enfin, les Inuit du Nunavik parlent l'inuktitut, d'une famille à part. Certaines de ces langues restent bien vivantes; d'autres renaissent grâce à un grand travail de revitalisation.",
+            "es": "Sus lenguas se agrupan en tres grandes familias. La familia algonquina reúne el innu, el cree, el atikamekw, el algonquino y el mi'gmaq. La familia iroquesa incluye el mohawk y el wendat. Por último, los inuit de Nunavik hablan inuktitut, de una familia aparte. Algunas de estas lenguas siguen muy vivas; otras renacen gracias a un gran trabajo de revitalización.",
+            "ca": "Les seves llengües s'agrupen en tres grans famílies. La família algonquina reuneix l'innu, el cree, l'atikamekw, l'algonquí i el mi'gmaq. La família iroquesa inclou el mohawk i el wendat. Finalment, els inuit del Nunavik parlen inuktitut, d'una família a part. Algunes d'aquestes llengües continuen molt vives; altres renaixen gràcies a una gran tasca de revitalització."
           },
           {
-            "fr": "Chacune possède sa langue, son histoire, son territoire et sa vision du monde.",
-            "es": "Cada una posee su lengua, su historia, su territorio y su visión del mundo.",
-            "ca": "Cadascuna té la seva llengua, la seva història, el seu territori i la seva visió del món."
-          },
-          {
-            "fr": "Les Innus, l'une des nations les plus nombreuses, vivent surtout sur la Côte-Nord.",
-            "es": "Los innus, una de las naciones más numerosas, viven sobre todo en la Costa Norte.",
-            "ca": "Els innus, una de les nacions més nombroses, viuen sobretot a la Costa Nord."
-          },
-          {
-            "fr": "Les Cris (Eeyou) habitent le vaste territoire de la baie James.",
-            "es": "Los críes (Eeyou) habitan el vasto territorio de la bahía de James.",
-            "ca": "Els cris (Eeyou) habiten el vast territori de la badia de James."
-          },
-          {
-            "fr": "Les Mohawks (Kanien'kehá:ka) ont leurs communautés autour de Montréal, comme Kahnawake.",
-            "es": "Los mohawks (Kanien'kehá:ka) tienen sus comunidades alrededor de Montreal, como Kahnawake.",
-            "ca": "Els mohawks (Kanien'kehá:ka) tenen les seves comunitats al voltant de Montreal, com Kahnawake."
-          },
-          {
-            "fr": "Les Wendat, eux, sont installés à Wendake, aux portes de la ville de Québec.",
-            "es": "Los wendat, por su parte, están en Wendake, a las puertas de la ciudad de Quebec.",
-            "ca": "Els wendat, per la seva banda, són a Wendake, a les portes de la ciutat de Quebec."
-          },
-          {
-            "fr": "Plus au nord, les Inuit du Nunavik vivent sur un territoire immense, au-delà du 55e parallèle.",
-            "es": "Más al norte, los inuit de Nunavik viven en un territorio inmenso, más allá del paralelo 55.",
-            "ca": "Més al nord, els inuit del Nunavik viuen en un territori immens, més enllà del paral·lel 55."
-          },
-          {
-            "fr": "Leurs langues se regroupent en trois grandes familles : algonquienne, iroquoienne et inuite.",
-            "es": "Sus lenguas se agrupan en tres grandes familias: algonquina, iroquesa e inuit.",
-            "ca": "Les seves llengües s'agrupen en tres grans famílies: algonquina, iroquesa i inuit."
-          },
-          {
-            "fr": "Certaines langues, comme l'innu, le cri ou l'inuktitut, restent bien vivantes.",
-            "es": "Algunas lenguas, como el innu, el cree o el inuktitut, siguen muy vivas.",
-            "ca": "Algunes llengües, com l'innu, el cree o l'inuktitut, continuen molt vives."
-          },
-          {
-            "fr": "D'autres, longtemps fragilisées, font l'objet d'efforts de revitalisation.",
-            "es": "Otras, debilitadas durante mucho tiempo, son objeto de esfuerzos de revitalización.",
-            "ca": "Altres, afeblides durant molt de temps, són objecte d'esforços de revitalització."
-          },
-          {
-            "fr": "Malgré des siècles d'épreuves, ces nations sont toujours là.",
-            "es": "A pesar de siglos de pruebas, estas naciones siguen aquí.",
-            "ca": "Malgrat segles de proves, aquestes nacions encara hi són."
-          },
-          {
-            "fr": "Leur présence, ancienne et actuelle, fait partie de l'identité même du Québec.",
-            "es": "Su presencia, antigua y actual, forma parte de la identidad misma de Quebec.",
-            "ca": "La seva presència, antiga i actual, forma part de la identitat mateixa del Quebec."
+            "fr": "Malgré des siècles de colonisation et de politiques d'assimilation, ces nations sont toujours là. Leur présence, ancienne et actuelle, fait partie de l'identité même du Québec — dans les noms de lieux, dans la culture et dans la vie d'aujourd'hui.",
+            "es": "A pesar de siglos de colonización y de políticas de asimilación, estas naciones siguen aquí. Su presencia, antigua y actual, forma parte de la identidad misma de Quebec: en los nombres de lugares, en la cultura y en la vida de hoy.",
+            "ca": "Malgrat segles de colonització i de polítiques d'assimilació, aquestes nacions encara hi són. La seva presència, antiga i actual, forma part de la identitat mateixa del Quebec: en els noms de llocs, en la cultura i en la vida d'avui."
           }
         ]
       },
@@ -242,11 +132,6 @@
           "ca": "el territori"
         },
         {
-          "mot": "distinct",
-          "es": "distinto",
-          "ca": "diferent"
-        },
-        {
           "mot": "vivant",
           "es": "vivo",
           "ca": "viu"
@@ -271,16 +156,6 @@
           "piste": {
             "es": "algonquina, iroquesa, inuit",
             "ca": "algonquina, iroquesa, inuit"
-          }
-        },
-        {
-          "q": {
-            "es": "¿Dónde viven los mohawks?",
-            "ca": "On viuen els mohawks?"
-          },
-          "piste": {
-            "es": "cerca de Montreal (Kahnawake)",
-            "ca": "a prop de Montreal (Kahnawake)"
           }
         }
       ],

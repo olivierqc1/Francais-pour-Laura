@@ -96,7 +96,7 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const FILES = ['../data/histoire1.json','../data/histoire2.json','../data/histoire3.json','../data/histoire4.json','../data/histoire5.json','../data/histoire6.json'];
+  const FILES = ['../data/histoire1.json','../data/histoire2.json','../data/histoire3.json','../data/histoire4.json','../data/histoire5.json','../data/histoire6.json','../data/histoire7.json','../data/histoire8.json'];
   const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
   textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
   if (!textes.length){
@@ -130,6 +130,7 @@ function render(i){
   const note = t.note ? '<div class="warning-box" style="margin-bottom:1rem">⚠️ '+t.note[l]+'</div>' : '';
 
   const sentences = t.niveaux[curLvl].map(s => {
+    if (s.h) return '<div style="margin:1.7rem 0 0.5rem;border-left:3px solid var(--maple);padding-left:0.7rem"><div style="font-family:\'Cormorant Garamond\',serif;font-size:1.45rem;color:var(--maple);font-weight:600;line-height:1.2">'+s.h.fr+'</div><div style="font-size:0.8rem;color:var(--text-dim);margin-top:0.1rem">'+(s.h[l]||'')+'</div></div>';
     if (s.img) return '<a href="'+s.img.source+'" target="_blank" rel="noopener" style="display:block;text-decoration:none;margin:1.1rem 0"><img src="'+s.img.url+'" loading="lazy" alt="" onerror="this.parentElement.style.display=\'none\'" style="width:100%;border-radius:12px;border:1px solid var(--border);display:block"><div style="font-size:0.72rem;color:var(--text-dim);margin-top:0.35rem">📷 '+(s.img.credit?s.img.credit[l]:'')+'</div></a>';
     return '<div class="sent"><div class="sent-fr">'+s.fr+'</div>'+
     '<div class="sent-tr" style="'+(showTr?'':'display:none')+'">'+s[l]+'</div>'+

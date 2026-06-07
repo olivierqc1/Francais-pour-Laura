@@ -1,0 +1,427 @@
+{
+  "textes": [
+    {
+      "id": "loi_indiens",
+      "emoji": "⚖️",
+      "theme": "Histoire",
+      "periode": "1876 → aujourd'hui",
+      "titre": {
+        "es": "La Ley sobre los Indios",
+        "ca": "La Llei sobre els Indis"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "La « Loi sur les Indiens » est une loi très importante.",
+            "es": "La «Ley sobre los Indios» es una ley muy importante.",
+            "ca": "La «Llei sobre els Indis» és una llei molt important."
+          },
+          {
+            "fr": "Elle existe depuis 1876.",
+            "es": "Existe desde 1876.",
+            "ca": "Existeix des de 1876."
+          },
+          {
+            "fr": "Le gouvernement décide beaucoup de choses pour les Autochtones.",
+            "es": "El gobierno decide muchas cosas por los indígenas.",
+            "ca": "El govern decideix moltes coses pels indígenes."
+          },
+          {
+            "fr": "Avant, chaque nation avait ses propres règles.",
+            "es": "Antes, cada nación tenía sus propias reglas.",
+            "ca": "Abans, cada nació tenia les seves pròpies regles."
+          },
+          {
+            "fr": "Cette loi a causé beaucoup de problèmes.",
+            "es": "Esta ley causó muchos problemas.",
+            "ca": "Aquesta llei va causar molts problemes."
+          },
+          {
+            "fr": "Elle existe encore aujourd'hui, mais elle a changé.",
+            "es": "Todavía existe hoy, pero ha cambiado.",
+            "ca": "Encara existeix avui, però ha canviat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1876, le Canada crée la « Loi sur les Indiens ».",
+            "es": "En 1876, Canadá crea la «Ley sobre los Indios».",
+            "ca": "El 1876, el Canadà crea la «Llei sobre els Indis»."
+          },
+          {
+            "fr": "Cette loi donne au gouvernement le contrôle sur la vie des Premières Nations.",
+            "es": "Esta ley da al gobierno el control sobre la vida de las Primeras Naciones.",
+            "ca": "Aquesta llei dóna al govern el control sobre la vida de les Primeres Nacions."
+          },
+          {
+            "fr": "Elle décide qui est « Indien » et gère les réserves.",
+            "es": "Decide quién es «indio» y gestiona las reservas.",
+            "ca": "Decideix qui és «indi» i gestiona les reserves."
+          },
+          {
+            "fr": "En 1885, elle interdit des cérémonies comme le potlatch.",
+            "es": "En 1885, prohíbe ceremonias como el potlatch.",
+            "ca": "El 1885, prohibeix cerimònies com el potlatch."
+          },
+          {
+            "fr": "Plus tard, elle force les enfants à aller au pensionnat.",
+            "es": "Más tarde, obliga a los niños a ir al internado.",
+            "ca": "Més tard, obliga els nens a anar a l'internat."
+          },
+          {
+            "fr": "En 1951 et 1985, on enlève des parties injustes de la loi.",
+            "es": "En 1951 y 1985, se eliminan partes injustas de la ley.",
+            "ca": "El 1951 i 1985, s'eliminen parts injustes de la llei."
+          },
+          {
+            "fr": "Mais la loi existe toujours et reste critiquée.",
+            "es": "Pero la ley sigue existiendo y sigue siendo criticada.",
+            "ca": "Però la llei encara existeix i continua sent criticada."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Adoptée en 1876, la Loi sur les Indiens regroupe d'anciennes lois coloniales en un seul texte.",
+            "es": "Adoptada en 1876, la Ley sobre los Indios reúne antiguas leyes coloniales en un solo texto.",
+            "ca": "Adoptada el 1876, la Llei sobre els Indis aplega antigues lleis colonials en un sol text."
+          },
+          {
+            "fr": "Son but était d'assimiler les Premières Nations à la société euro-canadienne.",
+            "es": "Su objetivo era asimilar a las Primeras Naciones a la sociedad euro-canadiense.",
+            "ca": "El seu objectiu era assimilar les Primeres Nacions a la societat euro-canadenca."
+          },
+          {
+            "fr": "Elle définit qui possède le « statut d'Indien » et encadre les réserves et les conseils de bande.",
+            "es": "Define quién posee el «estatus de indio» y regula las reservas y los consejos de banda.",
+            "ca": "Defineix qui té l'«estatus d'indi» i regula les reserves i els consells de banda."
+          },
+          {
+            "fr": "Dès 1885, elle interdit des cérémonies essentielles comme le potlatch et certaines danses.",
+            "es": "Desde 1885, prohíbe ceremonias esenciales como el potlatch y ciertas danzas.",
+            "ca": "Des de 1885, prohibeix cerimònies essencials com el potlatch i certes danses."
+          },
+          {
+            "fr": "Des amendements rendent ensuite l'école obligatoire, ce qui remplit les pensionnats.",
+            "es": "Enmiendas posteriores hacen la escuela obligatoria, lo que llena los internados.",
+            "ca": "Esmenes posteriors fan l'escola obligatòria, cosa que omple els internats."
+          },
+          {
+            "fr": "Longtemps, une femme autochtone perdait son statut si elle épousait un non-Autochtone.",
+            "es": "Durante mucho tiempo, una mujer indígena perdía su estatus si se casaba con un no indígena.",
+            "ca": "Durant molt de temps, una dona indígena perdia el seu estatus si es casava amb un no indígena."
+          },
+          {
+            "fr": "Les réformes de 1951 et de 1985 (loi C-31) suppriment plusieurs de ces injustices.",
+            "es": "Las reformas de 1951 y 1985 (ley C-31) suprimen varias de esas injusticias.",
+            "ca": "Les reformes de 1951 i 1985 (llei C-31) suprimeixen diverses d'aquestes injustícies."
+          },
+          {
+            "fr": "Toujours en vigueur, cette loi demeure au cœur des débats sur les droits autochtones.",
+            "es": "Todavía en vigor, esta ley sigue siendo central en los debates sobre los derechos indígenas.",
+            "ca": "Encara vigent, aquesta llei continua sent central en els debats sobre els drets indígenes."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une loi",
+          "es": "una ley",
+          "ca": "una llei"
+        },
+        {
+          "mot": "le gouvernement",
+          "es": "el gobierno",
+          "ca": "el govern"
+        },
+        {
+          "mot": "le statut",
+          "es": "el estatus",
+          "ca": "l'estatus"
+        },
+        {
+          "mot": "une réserve",
+          "es": "una reserva",
+          "ca": "una reserva"
+        },
+        {
+          "mot": "interdire",
+          "es": "prohibir",
+          "ca": "prohibir"
+        },
+        {
+          "mot": "assimiler",
+          "es": "asimilar",
+          "ca": "assimilar"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué año se creó la Ley sobre los Indios?",
+            "ca": "En quin any es va crear la Llei sobre els Indis?"
+          },
+          "piste": {
+            "es": "18...",
+            "ca": "18..."
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué prohibió la ley en 1885?",
+            "ca": "Què va prohibir la llei el 1885?"
+          },
+          "piste": {
+            "es": "el potlatch / ceremonias",
+            "ca": "el potlatch / cerimònies"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — chronologie de la Loi sur les Indiens",
+          "url": "https://thecanadianencyclopedia.ca/fr/timeline/the-indian-act"
+        },
+        {
+          "titre": "Gouvernement du Québec — Profil des nations",
+          "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/profil-des-nations"
+        }
+      ],
+      "ressources": [
+        {
+          "type": "site",
+          "titre": "L'Encyclopédie canadienne : « Loi sur les Indiens »",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/loi-sur-les-indiens",
+          "desc": {
+            "es": "Artículo completo y fiable sobre la ley y sus efectos.",
+            "ca": "Article complet i fiable sobre la llei i els seus efectes."
+          }
+        },
+        {
+          "type": "video",
+          "titre": "Vidéo : comprendre la Loi sur les Indiens",
+          "url": "https://www.youtube.com/results?search_query=loi+sur+les+indiens+explication",
+          "desc": {
+            "es": "Búsqueda de vídeos explicativos (en francés e inglés).",
+            "ca": "Cerca de vídeos explicatius (en francès i anglès)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pensionnats_fond",
+      "emoji": "🕯️",
+      "theme": "Histoire",
+      "periode": "1831 → 1996",
+      "note": {
+        "es": "Tema delicado y doloroso, contado con respeto. Línea de apoyo (Canadá): 1-866-925-4419.",
+        "ca": "Tema delicat i dolorós, explicat amb respecte. Línia de suport (Canadà): 1-866-925-4419."
+      },
+      "titre": {
+        "es": "Los internados: por qué y cómo",
+        "ca": "Els internats: per què i com"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Les pensionnats sont une partie très triste de l'histoire.",
+            "es": "Los internados son una parte muy triste de la historia.",
+            "ca": "Els internats són una part molt trista de la història."
+          },
+          {
+            "fr": "Des enfants autochtones devaient quitter leur famille.",
+            "es": "Niños indígenas tenían que dejar a su familia.",
+            "ca": "Nens indígenes havien de deixar la seva família."
+          },
+          {
+            "fr": "Ils ne pouvaient pas parler leur langue.",
+            "es": "No podían hablar su lengua.",
+            "ca": "No podien parlar la seva llengua."
+          },
+          {
+            "fr": "Le but était de leur faire oublier leur culture.",
+            "es": "El objetivo era hacerles olvidar su cultura.",
+            "ca": "L'objectiu era fer-los oblidar la seva cultura."
+          },
+          {
+            "fr": "Beaucoup d'enfants ont beaucoup souffert.",
+            "es": "Muchos niños sufrieron mucho.",
+            "ca": "Molts nens van patir molt."
+          },
+          {
+            "fr": "La dernière école a fermé en 1996.",
+            "es": "La última escuela cerró en 1996.",
+            "ca": "La darrera escola va tancar el 1996."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Les pensionnats étaient des écoles pour enfants autochtones.",
+            "es": "Los internados eran escuelas para niños indígenas.",
+            "ca": "Els internats eren escoles per a nens indígenes."
+          },
+          {
+            "fr": "Le gouvernement les finançait et les Églises les dirigeaient.",
+            "es": "El gobierno los financiaba y las Iglesias los dirigían.",
+            "ca": "El govern els finançava i les Esglésies els dirigien."
+          },
+          {
+            "fr": "À partir de 1894, puis de 1920, la loi rendait l'école obligatoire.",
+            "es": "A partir de 1894, y luego de 1920, la ley hacía la escuela obligatoria.",
+            "ca": "A partir de 1894, i després de 1920, la llei feia l'escola obligatòria."
+          },
+          {
+            "fr": "Souvent, on enlevait les enfants de force à leur famille.",
+            "es": "A menudo, se sacaba a los niños por la fuerza de su familia.",
+            "ca": "Sovint, s'enduien els nens per força de la seva família."
+          },
+          {
+            "fr": "On leur interdisait de parler leur langue et de vivre leur culture.",
+            "es": "Se les prohibía hablar su lengua y vivir su cultura.",
+            "ca": "Se'ls prohibia parlar la seva llengua i viure la seva cultura."
+          },
+          {
+            "fr": "Le but était l'assimilation : effacer les cultures autochtones.",
+            "es": "El objetivo era la asimilación: borrar las culturas indígenas.",
+            "ca": "L'objectiu era l'assimilació: esborrar les cultures indígenes."
+          },
+          {
+            "fr": "Plus de 150 000 enfants sont passés par ces écoles.",
+            "es": "Más de 150 000 niños pasaron por estas escuelas.",
+            "ca": "Més de 150.000 nens van passar per aquestes escoles."
+          },
+          {
+            "fr": "La dernière a fermé en 1996.",
+            "es": "La última cerró en 1996.",
+            "ca": "La darrera va tancar el 1996."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le système des pensionnats visait à assimiler de force les enfants autochtones.",
+            "es": "El sistema de internados buscaba asimilar por la fuerza a los niños indígenas.",
+            "ca": "El sistema d'internats buscava assimilar per força els nens indígenes."
+          },
+          {
+            "fr": "Financé par le gouvernement et géré par les Églises, il a duré plus d'un siècle.",
+            "es": "Financiado por el gobierno y gestionado por las Iglesias, duró más de un siglo.",
+            "ca": "Finançat pel govern i gestionat per les Esglésies, va durar més d'un segle."
+          },
+          {
+            "fr": "Les familles ne « choisissaient » pas : dès 1894, puis 1920, la loi rendait l'école obligatoire.",
+            "es": "Las familias no «elegían»: desde 1894, y luego 1920, la ley hacía la escuela obligatoria.",
+            "ca": "Les famílies no «triaven»: des de 1894, i després 1920, la llei feia l'escola obligatòria."
+          },
+          {
+            "fr": "La police et les agents du gouvernement retiraient souvent les enfants de force.",
+            "es": "La policía y los agentes del gobierno a menudo sacaban a los niños por la fuerza.",
+            "ca": "La policia i els agents del govern sovint s'enduien els nens per força."
+          },
+          {
+            "fr": "Il leur était interdit de parler leur langue ou de pratiquer leur spiritualité.",
+            "es": "Se les prohibía hablar su lengua o practicar su espiritualidad.",
+            "ca": "Se'ls prohibia parlar la seva llengua o practicar la seva espiritualitat."
+          },
+          {
+            "fr": "La Commission de vérité et réconciliation a parlé d'un « génocide culturel ».",
+            "es": "La Comisión de Verdad y Reconciliación habló de un «genocidio cultural».",
+            "ca": "La Comissió de Veritat i Reconciliació va parlar d'un «genocidi cultural»."
+          },
+          {
+            "fr": "En 2008, le premier ministre du Canada a présenté des excuses officielles.",
+            "es": "En 2008, el primer ministro de Canadá presentó disculpas oficiales.",
+            "ca": "El 2008, el primer ministre del Canadà va presentar disculpes oficials."
+          },
+          {
+            "fr": "Le 30 septembre est aujourd'hui la Journée de la vérité et de la réconciliation.",
+            "es": "El 30 de septiembre es hoy el Día de la Verdad y la Reconciliación.",
+            "ca": "El 30 de setembre és avui el Dia de la Veritat i la Reconciliació."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un pensionnat",
+          "es": "un internado",
+          "ca": "un internat"
+        },
+        {
+          "mot": "obligatoire",
+          "es": "obligatorio",
+          "ca": "obligatori"
+        },
+        {
+          "mot": "de force",
+          "es": "por la fuerza",
+          "ca": "per força"
+        },
+        {
+          "mot": "interdire",
+          "es": "prohibir",
+          "ca": "prohibir"
+        },
+        {
+          "mot": "l'assimilation",
+          "es": "la asimilación",
+          "ca": "l'assimilació"
+        },
+        {
+          "mot": "la réconciliation",
+          "es": "la reconciliación",
+          "ca": "la reconciliació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién financiaba y quién dirigía las escuelas?",
+            "ca": "Qui finançava i qui dirigia les escoles?"
+          },
+          "piste": {
+            "es": "el gobierno / las Iglesias",
+            "ca": "el govern / les Esglésies"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Las familias elegían enviar a sus hijos?",
+            "ca": "Les famílies triaven enviar els seus fills?"
+          },
+          "piste": {
+            "es": "no, era obligatorio / por la fuerza",
+            "ca": "no, era obligatori / per força"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Centre national pour la vérité et la réconciliation (NCTR)",
+          "url": "https://nctr.ca/education/residential-school-history/"
+        },
+        {
+          "titre": "Musée canadien pour les droits de la personne",
+          "url": "https://droitsdelapersonne.ca/histoire/les-pensionnats-indiens-du-canada-une-enfance-perdue"
+        }
+      ],
+      "ressources": [
+        {
+          "type": "site",
+          "titre": "NCTR — Histoire des pensionnats",
+          "url": "https://nctr.ca/education/residential-school-history/",
+          "desc": {
+            "es": "Centro oficial de la verdad y la reconciliación.",
+            "ca": "Centre oficial de la veritat i la reconciliació."
+          }
+        },
+        {
+          "type": "video",
+          "titre": "Historica Canada — Minute du patrimoine : Chanie Wenjack",
+          "url": "https://www.youtube.com/results?search_query=heritage+minute+chanie+wenjack",
+          "desc": {
+            "es": "Cortometraje conmemorativo (con subtítulos).",
+            "ca": "Curtmetratge commemoratiu (amb subtítols)."
+          }
+        }
+      ]
+    }
+  ]
+}

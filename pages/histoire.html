@@ -96,7 +96,7 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const FILES = ['../data/histoire1.json','../data/histoire2.json','../data/histoire3.json','../data/histoire4.json'];
+  const FILES = ['../data/histoire1.json','../data/histoire2.json','../data/histoire3.json','../data/histoire4.json','../data/histoire5.json'];
   const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
   textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
   if (!textes.length){
@@ -143,6 +143,7 @@ function render(i){
     '<div class="q-piste" id="hp'+k+'">→ '+qq.piste[l]+'</div></div>').join('');
 
   const periodeBadge = t.periode ? '<span style="font-size:0.7rem;color:var(--text-dim);border:1px solid var(--border);border-radius:20px;padding:0.15rem 0.55rem;margin-left:0.5rem;white-space:nowrap">📅 '+t.periode+'</span>' : '';
+  const img = t.image ? '<a href="'+t.image.source+'" target="_blank" rel="noopener" style="display:block;text-decoration:none;margin-bottom:1rem"><img src="'+t.image.url+'" loading="lazy" alt="" onerror="this.parentElement.style.display=\'none\'" style="width:100%;border-radius:12px;border:1px solid var(--border);display:block"><div style="font-size:0.72rem;color:var(--text-dim);margin-top:0.35rem">📷 '+(t.image.credit?t.image.credit[l]:'')+'</div></a>' : '';
   const sourcesHtml = (t.sources && t.sources.length) ?
     '<div class="section-title" style="margin-top:1.4rem">📚 '+(l==='es'?'Fuentes':'Fonts')+'</div>'+
     '<div style="font-size:0.85rem;line-height:1.9">'+ t.sources.map(s => '<a href="'+s.url+'" target="_blank" rel="noopener" style="color:var(--gold-light);display:block">• '+s.titre+'</a>').join('') +'</div>' : '';
@@ -154,7 +155,7 @@ function render(i){
   document.getElementById('hist-content').innerHTML =
     '<div class="card fade-up">'+
     '<div class="lvl-row">'+lvlBtns+'<button class="tr-toggle'+(showTr?' on':'')+'" onclick="toggleTr()">'+trLabel+'</button></div>'+
-    note+
+    note+ img +
     '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">'+
       '<div class="section-title">'+t.emoji+' '+t.titre[l]+periodeBadge+'</div>'+
       '<button class="btn btn-primary" onclick="playAll()">▶ '+(l==='es'?'Escuchar todo':'Escoltar tot')+'</button>'+

@@ -1,0 +1,247 @@
+{
+  "textes": [
+    {
+      "id": "grands_artistes",
+      "emoji": "🎨",
+      "theme": "Histoire",
+      "periode": "hier et aujourd'hui",
+      "titre": {
+        "es": "Grandes artistas indígenas",
+        "ca": "Grans artistes indígenes"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Autoportrait_Zacharie_Vincent,_known_as_Telariolin,_1878.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Autoportrait_Zacharie_Vincent,_known_as_Telariolin,_1878.jpg",
+        "credit": {
+          "es": "Autorretrato de Zacharie Vincent (Telariolin), pintor huron-wendat, h. 1878 — dominio público",
+          "ca": "Autoretrat de Zacharie Vincent (Telariolin), pintor huron-wendat, c. 1878 — domini públic"
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "La culture autochtone, ce n'est pas seulement les tambours. Il y a aussi de grands artistes, très connus.",
+            "es": "La cultura indígena no es solo los tambores. También hay grandes artistas, muy conocidos.",
+            "ca": "La cultura indígena no és només els tambors. També hi ha grans artistes, molt coneguts."
+          },
+          {
+            "h": {
+              "fr": "La musique",
+              "es": "La música",
+              "ca": "La música"
+            }
+          },
+          {
+            "fr": "Le groupe Kashtin chantait en innu. Aujourd'hui, Elisapie chante en inuktitut, et Samian fait du rap en français et en langue autochtone.",
+            "es": "El grupo Kashtin cantaba en innu. Hoy, Elisapie canta en inuktitut, y Samian hace rap en francés y en lengua indígena.",
+            "ca": "El grup Kashtin cantava en innu. Avui, Elisapie canta en inuktitut, i Samian fa rap en francès i en llengua indígena."
+          },
+          {
+            "h": {
+              "fr": "Le cinéma et les mots",
+              "es": "El cine y las palabras",
+              "ca": "El cinema i les paraules"
+            }
+          },
+          {
+            "fr": "Alanis Obomsawin fait des films depuis très longtemps. Joséphine Bacon écrit de très beaux poèmes en innu et en français.",
+            "es": "Alanis Obomsawin hace películas desde hace mucho tiempo. Joséphine Bacon escribe poemas muy bellos en innu y en francés.",
+            "ca": "L'Alanis Obomsawin fa pel·lícules des de fa molt de temps. La Joséphine Bacon escriu poemes molt bonics en innu i en francès."
+          },
+          {
+            "fr": "Ces artistes utilisent l'art pour partager leur langue et leur histoire. Leur culture est bien vivante.",
+            "es": "Estos artistas usan el arte para compartir su lengua y su historia. Su cultura está muy viva.",
+            "ca": "Aquests artistes fan servir l'art per compartir la seva llengua i la seva història. La seva cultura és ben viva."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Quand on parle de culture autochtone, on pense souvent aux tambours et aux danses. Mais c'est bien plus que ça : depuis des décennies, des artistes autochtones du Québec comptent parmi les plus grands créateurs du pays.",
+            "es": "Cuando se habla de cultura indígena, se piensa a menudo en los tambores y las danzas. Pero es mucho más: desde hace décadas, artistas indígenas de Quebec están entre los mayores creadores del país.",
+            "ca": "Quan es parla de cultura indígena, sovint es pensa en els tambors i les danses. Però és molt més: des de fa dècades, artistes indígenes del Quebec són entre els grans creadors del país."
+          },
+          {
+            "h": {
+              "fr": "La musique",
+              "es": "La música",
+              "ca": "La música"
+            }
+          },
+          {
+            "fr": "Dans les années 1980, le groupe innu Kashtin a ouvert la voie en chantant dans sa langue : son premier disque s'est vendu à plus de 200 000 exemplaires. Aujourd'hui, l'Inuk Elisapie fait découvrir l'inuktitut partout dans le monde, et le rappeur algonquin Samian rappe en français et en anishinaabemowin. De jeunes artistes comme Laura Niquay (atikamekw) continuent cette tradition.",
+            "es": "En los años 1980, el grupo innu Kashtin abrió el camino cantando en su lengua: su primer disco vendió más de 200 000 copias. Hoy, la inuk Elisapie da a conocer el inuktitut por todo el mundo, y el rapero algonquino Samian rapea en francés y en anishinaabemowin. Jóvenes artistas como Laura Niquay (atikamekw) continúan esta tradición.",
+            "ca": "Als anys 1980, el grup innu Kashtin va obrir el camí cantant en la seva llengua: el primer disc va vendre més de 200.000 còpies. Avui, la inuk Elisapie fa conèixer l'inuktitut arreu del món, i el raper algonquí Samian fa rap en francès i en anishinaabemowin. Joves artistes com Laura Niquay (atikamekw) continuen aquesta tradició."
+          },
+          {
+            "h": {
+              "fr": "Le cinéma",
+              "es": "El cine",
+              "ca": "El cinema"
+            }
+          },
+          {
+            "fr": "Au cinéma, Alanis Obomsawin est une géante. Cinéaste abénaquise née en 1932, elle a réalisé des dizaines de documentaires en plus de cinquante ans, en donnant la parole aux peuples autochtones. Son film sur la crise d'Oka (1990) est connu dans le monde entier.",
+            "es": "En el cine, Alanis Obomsawin es una gigante. Cineasta abenaki nacida en 1932, ha realizado decenas de documentales en más de cincuenta años, dando voz a los pueblos indígenas. Su película sobre la crisis de Oka (1990) es conocida en todo el mundo.",
+            "ca": "Al cinema, l'Alanis Obomsawin és una geganta. Cineasta abenaki nascuda el 1932, ha fet desenes de documentals en més de cinquanta anys, donant veu als pobles indígenes. La seva pel·lícula sobre la crisi d'Oka (1990) és coneguda a tot el món."
+          },
+          {
+            "h": {
+              "fr": "Les mots et les images",
+              "es": "Las palabras y las imágenes",
+              "ca": "Les paraules i les imatges"
+            }
+          },
+          {
+            "fr": "En poésie, Joséphine Bacon écrit en innu et en français, entre la toundra et la ville. En peinture, Kent Monkman est mondialement connu : ses grandes toiles renversent le regard colonial, souvent avec humour. Nadia Myre, elle, a recouvert de perles le texte de la Loi sur les Indiens pour en faire une œuvre d'art.",
+            "es": "En poesía, Joséphine Bacon escribe en innu y en francés, entre la tundra y la ciudad. En pintura, Kent Monkman es mundialmente conocido: sus grandes lienzos invierten la mirada colonial, a menudo con humor. Nadia Myre cubrió con cuentas el texto de la Ley sobre los Indios para convertirlo en obra de arte.",
+            "ca": "En poesia, Joséphine Bacon escriu en innu i en francès, entre la tundra i la ciutat. En pintura, Kent Monkman és mundialment conegut: les seves grans teles inverteixen la mirada colonial, sovint amb humor. Nadia Myre va cobrir amb denes el text de la Llei sobre els Indis per convertir-lo en obra d'art."
+          },
+          {
+            "fr": "Tous ont un point commun : ils se servent de l'art pour transmettre une langue, une mémoire et une fierté. La culture autochtone n'est pas un musée — c'est une création vivante qui gagne des prix et touche le monde.",
+            "es": "Todos tienen algo en común: usan el arte para transmitir una lengua, una memoria y un orgullo. La cultura indígena no es un museo: es una creación viva que gana premios y llega al mundo.",
+            "ca": "Tots tenen una cosa en comú: fan servir l'art per transmetre una llengua, una memòria i un orgull. La cultura indígena no és un museu: és una creació viva que guanya premis i arriba al món."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Quand on parle de culture autochtone, on pense souvent d'abord aux tambours et aux chants. C'est juste, mais très réducteur : depuis des décennies, des artistes autochtones du Québec figurent parmi les plus grands créateurs du pays, dans absolument tous les domaines. En voici quelques-uns, qu'il vaut la peine de connaître par leur nom.",
+            "es": "Cuando se habla de cultura indígena, se piensa a menudo primero en los tambores y los cantos. Es cierto, pero muy reductor: desde hace décadas, artistas indígenas de Quebec figuran entre los mayores creadores del país, en absolutamente todos los campos. Aquí van algunos que vale la pena conocer por su nombre.",
+            "ca": "Quan es parla de cultura indígena, sovint es pensa primer en els tambors i els cants. És cert, però molt reductor: des de fa dècades, artistes indígenes del Quebec figuren entre els més grans creadors del país, en absolutament tots els camps. Aquí en teniu alguns que val la pena conèixer pel seu nom."
+          },
+          {
+            "h": {
+              "fr": "La musique",
+              "es": "La música",
+              "ca": "La música"
+            }
+          },
+          {
+            "fr": "Le groupe innu Kashtin, formé de Florent Vollant et Claude McKenzie (de Maliotenam), a ouvert la voie dans les années 1980 en chantant en innu-aimun; son premier album s'est écoulé à plus de 200 000 exemplaires. Florent Vollant poursuit une riche carrière solo et a fondé un studio qui a aidé de nombreux jeunes. Aujourd'hui, l'Inuk Elisapie, née à Salluit au Nunavik, porte la beauté de l'inuktitut sur les scènes du monde, tandis que le rappeur algonquin Samian rappe en français et en anishinaabemowin. La relève est éclatante : Laura Niquay, Kanen, Shauit, Matiu, Scott-Pien Picard…",
+            "es": "El grupo innu Kashtin, formado por Florent Vollant y Claude McKenzie (de Maliotenam), abrió el camino en los años 1980 cantando en innu-aimun; su primer álbum vendió más de 200 000 copias. Florent Vollant sigue una rica carrera en solitario y fundó un estudio que ayudó a muchos jóvenes. Hoy, la inuk Elisapie, nacida en Salluit (Nunavik), lleva la belleza del inuktitut a los escenarios del mundo, mientras que el rapero algonquino Samian rapea en francés y en anishinaabemowin. El relevo es brillante: Laura Niquay, Kanen, Shauit, Matiu, Scott-Pien Picard…",
+            "ca": "El grup innu Kashtin, format per Florent Vollant i Claude McKenzie (de Maliotenam), va obrir el camí als anys 1980 cantant en innu-aimun; el primer àlbum va vendre més de 200.000 còpies. Florent Vollant segueix una rica carrera en solitari i va fundar un estudi que ha ajudat molts joves. Avui, la inuk Elisapie, nascuda a Salluit (Nunavik), porta la bellesa de l'inuktitut als escenaris del món, mentre que el raper algonquí Samian fa rap en francès i en anishinaabemowin. El relleu és brillant: Laura Niquay, Kanen, Shauit, Matiu, Scott-Pien Picard…"
+          },
+          {
+            "h": {
+              "fr": "Le cinéma",
+              "es": "El cine",
+              "ca": "El cinema"
+            }
+          },
+          {
+            "fr": "Au cinéma, une figure domine : Alanis Obomsawin. Cinéaste abénaquise née en 1932, elle a réalisé des dizaines de documentaires à l'Office national du film pendant plus de cinquante ans, donnant la parole aux peuples autochtones. Son film sur la crise d'Oka, en 1990, est devenu une référence mondiale. Chanteuse, conteuse et artiste en plus d'être cinéaste, elle a ouvert la porte à toute une génération.",
+            "es": "En el cine, una figura domina: Alanis Obomsawin. Cineasta abenaki nacida en 1932, realizó decenas de documentales en la Oficina Nacional de Cine durante más de cincuenta años, dando voz a los pueblos indígenas. Su película sobre la crisis de Oka, en 1990, se convirtió en una referencia mundial. Cantante, narradora y artista además de cineasta, abrió la puerta a toda una generación.",
+            "ca": "Al cinema, una figura domina: Alanis Obomsawin. Cineasta abenaki nascuda el 1932, va fer desenes de documentals a l'Oficina Nacional del Film durant més de cinquanta anys, donant veu als pobles indígenes. La seva pel·lícula sobre la crisi d'Oka, el 1990, es va convertir en una referència mundial. Cantant, narradora i artista a més de cineasta, va obrir la porta a tota una generació."
+          },
+          {
+            "h": {
+              "fr": "La littérature et la poésie",
+              "es": "La literatura y la poesía",
+              "ca": "La literatura i la poesia"
+            }
+          },
+          {
+            "fr": "En poésie, Joséphine Bacon, née à Pessamit, est l'une des voix les plus aimées du Québec : elle écrit en innu-aimun et en français, tissant ensemble la toundra et la ville, les aînés et la modernité. Natasha Kanapé Fontaine, poète et comédienne innue, mêle l'écriture au militantisme pour la terre et les langues. Leurs textes ne sont pas seulement beaux : ils transmettent une langue menacée et une mémoire.",
+            "es": "En poesía, Joséphine Bacon, nacida en Pessamit, es una de las voces más queridas de Quebec: escribe en innu-aimun y en francés, entrelazando la tundra y la ciudad, los mayores y la modernidad. Natasha Kanapé Fontaine, poeta y actriz innu, une la escritura al activismo por la tierra y las lenguas. Sus textos no son solo bellos: transmiten una lengua amenazada y una memoria.",
+            "ca": "En poesia, Joséphine Bacon, nascuda a Pessamit, és una de les veus més estimades del Quebec: escriu en innu-aimun i en francès, entrellaçant la tundra i la ciutat, els grans i la modernitat. Natasha Kanapé Fontaine, poeta i actriu innu, uneix l'escriptura a l'activisme per la terra i les llengües. Els seus textos no només són bells: transmeten una llengua amenaçada i una memòria."
+          },
+          {
+            "h": {
+              "fr": "Les arts visuels",
+              "es": "Las artes visuales",
+              "ca": "Les arts visuals"
+            }
+          },
+          {
+            "fr": "En arts visuels, Kent Monkman, peintre cri né en 1965, est mondialement reconnu : ses immenses toiles renversent le regard colonial, souvent avec humour, par l'entremise de son personnage Miss Chief Eagle Testickle. L'Anishinaabe Nadia Myre a marqué les esprits avec Indian Act, une œuvre où elle a recouvert de perles, mot à mot, le texte de la loi. Et bien avant eux, au XIXᵉ siècle, le Huron-Wendat Zacharie Vincent peignait déjà — notamment des autoportraits — pour affirmer que son peuple n'avait pas disparu, contre ceux qui le disaient « éteint ».",
+            "es": "En artes visuales, Kent Monkman, pintor cree nacido en 1965, es mundialmente reconocido: sus enormes lienzos invierten la mirada colonial, a menudo con humor, mediante su personaje Miss Chief Eagle Testickle. La anishinaabe Nadia Myre impactó con Indian Act, una obra en la que cubrió de cuentas, palabra por palabra, el texto de la ley. Y mucho antes, en el siglo XIX, el huron-wendat Zacharie Vincent ya pintaba —sobre todo autorretratos— para afirmar que su pueblo no había desaparecido, contra quienes lo decían «extinto».",
+            "ca": "En arts visuals, Kent Monkman, pintor cree nascut el 1965, és mundialment reconegut: les seves enormes teles inverteixen la mirada colonial, sovint amb humor, mitjançant el seu personatge Miss Chief Eagle Testickle. L'anishinaabe Nadia Myre va impactar amb Indian Act, una obra en què va cobrir de denes, paraula per paraula, el text de la llei. I molt abans, al segle XIX, el huron-wendat Zacharie Vincent ja pintava —sobretot autoretrats— per afirmar que el seu poble no havia desaparegut, contra els qui el deien «extint»."
+          },
+          {
+            "fr": "Tous ces artistes partagent une même force : ils utilisent l'art pour transmettre une langue, une histoire et une fierté, et pour reprendre le récit de leur propre peuple. La culture autochtone n'est pas une pièce de musée — c'est une création vivante, primée et célébrée, qui parle au monde entier.",
+            "es": "Todos estos artistas comparten una misma fuerza: usan el arte para transmitir una lengua, una historia y un orgullo, y para retomar el relato de su propio pueblo. La cultura indígena no es una pieza de museo: es una creación viva, premiada y celebrada, que habla al mundo entero.",
+            "ca": "Tots aquests artistes comparteixen una mateixa força: fan servir l'art per transmetre una llengua, una història i un orgull, i per reprendre el relat del seu propi poble. La cultura indígena no és una peça de museu: és una creació viva, premiada i celebrada, que parla al món sencer."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un artiste",
+          "es": "un artista",
+          "ca": "un artista"
+        },
+        {
+          "mot": "la musique",
+          "es": "la música",
+          "ca": "la música"
+        },
+        {
+          "mot": "un film",
+          "es": "una película",
+          "ca": "una pel·lícula"
+        },
+        {
+          "mot": "un poème",
+          "es": "un poema",
+          "ca": "un poema"
+        },
+        {
+          "mot": "la peinture",
+          "es": "la pintura",
+          "ca": "la pintura"
+        },
+        {
+          "mot": "la fierté",
+          "es": "el orgullo",
+          "ca": "l'orgull"
+        },
+        {
+          "mot": "une langue",
+          "es": "una lengua",
+          "ca": "una llengua"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "Nombra dos músicos indígenas de Quebec.",
+            "ca": "Anomena dos músics indígenes del Quebec."
+          },
+          "piste": {
+            "es": "Elisapie, Samian, Kashtin…",
+            "ca": "Elisapie, Samian, Kashtin…"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién es Alanis Obomsawin?",
+            "ca": "Qui és l'Alanis Obomsawin?"
+          },
+          "piste": {
+            "es": "una gran cineasta abenaki",
+            "ca": "una gran cineasta abenaki"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué hizo Nadia Myre con la Ley sobre los Indios?",
+            "ca": "Què va fer la Nadia Myre amb la Llei sobre els Indis?"
+          },
+          "piste": {
+            "es": "la cubrió de cuentas (obra de arte)",
+            "ca": "la va cobrir de denes (obra d'art)"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Place des Arts — 11 nations, 11 artistes",
+          "url": "https://www.placedesarts.com/article/11-nations-11-artistes-la-ou-lart-autochtone-coule-de-source"
+        },
+        {
+          "titre": "Musée des beaux-arts de Montréal — Art autochtone",
+          "url": "https://www.mbam.qc.ca/fr/initiatives-autochtones/"
+        }
+      ]
+    }
+  ]
+}

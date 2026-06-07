@@ -4,26 +4,45 @@
       "id": "premieres_nations",
       "emoji": "🪶",
       "theme": "Histoire",
+      "periode": "depuis des millénaires",
       "titre": {
         "es": "Las Primeras Naciones de Quebec",
         "ca": "Les Primeres Nacions del Quebec"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Nations_people_on_the_Nelson_River.jpg?width=900",
+        "credit": {
+          "es": "Familias de Primeras Naciones en canoa de corteza, río Nelson, 1878 — Biblioteca y Archivos Canadá (dominio público)",
+          "ca": "Famílies de Primeres Nacions en canoa d'escorça, riu Nelson, 1878 — Biblioteca i Arxius Canadà (domini públic)"
+        },
+        "source": "https://commons.wikimedia.org/wiki/File:First_Nations_people_on_the_Nelson_River.jpg"
       },
       "niveaux": {
         "a1": [
           {
             "fr": "Au Québec, il y a onze nations autochtones.",
-            "es": "En Quebec, hay once naciones indígenas.",
-            "ca": "Al Quebec, hi ha onze nacions indígenes."
+            "es": "En Quebec hay once naciones indígenas.",
+            "ca": "Al Quebec hi ha onze nacions indígenes."
           },
           {
-            "fr": "Ces peuples vivent ici depuis très longtemps.",
-            "es": "Estos pueblos viven aquí desde hace mucho tiempo.",
-            "ca": "Aquests pobles viuen aquí des de fa molt de temps."
+            "fr": "Ce sont dix Premières Nations et les Inuit.",
+            "es": "Son diez Primeras Naciones y los inuit.",
+            "ca": "Són deu Primeres Nacions i els inuit."
           },
           {
-            "fr": "Il y a dix Premières Nations et les Inuit.",
-            "es": "Hay diez Primeras Naciones y los inuit.",
-            "ca": "Hi ha deu Primeres Nacions i els inuit."
+            "fr": "Ils vivent ici depuis des milliers d'années.",
+            "es": "Viven aquí desde hace miles de años.",
+            "ca": "Viuen aquí des de fa milers d'anys."
+          },
+          {
+            "fr": "Ils étaient là bien avant les Européens.",
+            "es": "Estaban aquí mucho antes que los europeos.",
+            "ca": "Hi eren molt abans que els europeus."
+          },
+          {
+            "fr": "Ce ne sont pas tous le même peuple.",
+            "es": "No son todos el mismo pueblo.",
+            "ca": "No són tots el mateix poble."
           },
           {
             "fr": "Chaque nation a sa langue et sa culture.",
@@ -31,9 +50,19 @@
             "ca": "Cada nació té la seva llengua i la seva cultura."
           },
           {
+            "fr": "Par exemple : les Innus, les Cris, les Mohawks.",
+            "es": "Por ejemplo: los innus, los críes, los mohawks.",
+            "ca": "Per exemple: els innus, els cris, els mohawks."
+          },
+          {
             "fr": "Les Inuit vivent dans le Grand Nord.",
             "es": "Los inuit viven en el Gran Norte.",
             "ca": "Els inuit viuen al Gran Nord."
+          },
+          {
+            "fr": "Wendake est un village wendat, près de Québec.",
+            "es": "Wendake es un pueblo wendat, cerca de Quebec.",
+            "ca": "Wendake és un poble wendat, a prop de Quebec."
           },
           {
             "fr": "Aujourd'hui, ces cultures sont bien vivantes.",
@@ -44,8 +73,13 @@
         "a2": [
           {
             "fr": "Le Québec compte onze nations autochtones : dix Premières Nations et les Inuit.",
-            "es": "Quebec cuenta con once naciones indígenas: diez Primeras Naciones y los inuit.",
+            "es": "Quebec tiene once naciones indígenas: diez Primeras Naciones y los inuit.",
             "ca": "El Quebec té onze nacions indígenes: deu Primeres Nacions i els inuit."
+          },
+          {
+            "fr": "Ensemble, elles forment environ 1 % de la population du Québec.",
+            "es": "Juntas, forman alrededor del 1 % de la población de Quebec.",
+            "ca": "Juntes, formen al voltant de l'1 % de la població del Quebec."
           },
           {
             "fr": "Ces peuples habitent le territoire depuis des milliers d'années.",
@@ -53,56 +87,131 @@
             "ca": "Aquests pobles habiten el territori des de fa milers d'anys."
           },
           {
-            "fr": "Ils étaient là bien avant l'arrivée des Européens.",
-            "es": "Estaban aquí mucho antes de la llegada de los europeos.",
-            "ca": "Hi eren molt abans de l'arribada dels europeus."
+            "fr": "Il ne faut pas les voir comme un seul groupe : chaque nation est différente.",
+            "es": "No hay que verlos como un solo grupo: cada nación es diferente.",
+            "ca": "No s'han de veure com un sol grup: cada nació és diferent."
           },
           {
-            "fr": "Chaque nation possède sa propre langue et ses traditions.",
-            "es": "Cada nación posee su propia lengua y sus tradiciones.",
+            "fr": "Les Innus, par exemple, vivent surtout sur la Côte-Nord.",
+            "es": "Los innus, por ejemplo, viven sobre todo en la Costa Norte.",
+            "ca": "Els innus, per exemple, viuen sobretot a la Costa Nord."
+          },
+          {
+            "fr": "Les Cris habitent près de la baie James, au nord.",
+            "es": "Los críes viven cerca de la bahía de James, al norte.",
+            "ca": "Els cris viuen a prop de la badia de James, al nord."
+          },
+          {
+            "fr": "Les Mohawks (Kanien'kehá:ka) vivent près de Montréal.",
+            "es": "Los mohawks (Kanien'kehá:ka) viven cerca de Montreal.",
+            "ca": "Els mohawks (Kanien'kehá:ka) viuen a prop de Montreal."
+          },
+          {
+            "fr": "Les Wendat ont leur communauté à Wendake, près de Québec.",
+            "es": "Los wendat tienen su comunidad en Wendake, cerca de Quebec.",
+            "ca": "Els wendat tenen la seva comunitat a Wendake, a prop de Quebec."
+          },
+          {
+            "fr": "Les Inuit, eux, vivent au Nunavik, tout au nord.",
+            "es": "Los inuit, por su parte, viven en Nunavik, en el extremo norte.",
+            "ca": "Els inuit, per la seva banda, viuen al Nunavik, a l'extrem nord."
+          },
+          {
+            "fr": "Chaque nation a sa propre langue et ses traditions.",
+            "es": "Cada nación tiene su propia lengua y sus tradiciones.",
             "ca": "Cada nació té la seva pròpia llengua i les seves tradicions."
           },
           {
-            "fr": "Par exemple, les Innus vivent sur la Côte-Nord et les Mohawks près de Montréal.",
-            "es": "Por ejemplo, los innus viven en la Costa Norte y los mohawks cerca de Montreal.",
-            "ca": "Per exemple, els innus viuen a la Costa Nord i els mohawks a prop de Montreal."
+            "fr": "Plusieurs de ces langues sont encore parlées aujourd'hui.",
+            "es": "Varias de estas lenguas todavía se hablan hoy.",
+            "ca": "Diverses d'aquestes llengües encara es parlen avui."
           },
           {
-            "fr": "Encore aujourd'hui, ces nations transmettent leur culture aux jeunes.",
-            "es": "Aún hoy, estas naciones transmiten su cultura a los jóvenes.",
-            "ca": "Encara avui, aquestes nacions transmeten la seva cultura als joves."
+            "fr": "D'autres nations travaillent fort pour faire revivre la leur.",
+            "es": "Otras naciones se esfuerzan por revivir la suya.",
+            "ca": "Altres nacions s'esforcen per fer reviure la seva."
+          },
+          {
+            "fr": "Ces cultures ne sont pas du passé : elles sont bien vivantes.",
+            "es": "Estas culturas no son del pasado: están muy vivas.",
+            "ca": "Aquestes cultures no són del passat: són ben vives."
           }
         ],
         "b1": [
           {
-            "fr": "Le territoire que l'on appelle aujourd'hui le Québec abrite onze nations autochtones.",
-            "es": "El territorio que hoy llamamos Quebec alberga once naciones indígenas.",
-            "ca": "El territori que avui anomenem Quebec acull onze nacions indígenes."
+            "fr": "Le territoire qu'on appelle aujourd'hui le Québec abrite onze nations autochtones : dix Premières Nations et le peuple inuit.",
+            "es": "El territorio que hoy llamamos Quebec alberga once naciones indígenas: diez Primeras Naciones y el pueblo inuit.",
+            "ca": "El territori que avui anomenem Quebec acull onze nacions indígenes: deu Primeres Nacions i el poble inuit."
           },
           {
-            "fr": "Bien avant l'arrivée des explorateurs européens, ces peuples y vivaient depuis des millénaires.",
-            "es": "Mucho antes de la llegada de los exploradores europeos, estos pueblos vivían allí desde hacía milenios.",
-            "ca": "Molt abans de l'arribada dels exploradors europeus, aquests pobles hi vivien des de feia mil·lennis."
+            "fr": "Ensemble, elles représentent environ 1 % de la population, soit plus de 140 000 personnes.",
+            "es": "Juntas representan cerca del 1 % de la población, es decir más de 140 000 personas.",
+            "ca": "Juntes representen prop de l'1 % de la població, és a dir més de 140.000 persones."
           },
           {
-            "fr": "Chaque nation se distingue par sa langue, ses savoir-faire et sa vision du monde.",
-            "es": "Cada nación se distingue por su lengua, sus saberes y su visión del mundo.",
-            "ca": "Cada nació es distingeix per la seva llengua, els seus sabers i la seva visió del món."
+            "fr": "Ces peuples occupent le territoire depuis des millénaires, bien avant l'arrivée des Européens.",
+            "es": "Estos pueblos ocupan el territorio desde hace milenios, mucho antes de la llegada de los europeos.",
+            "ca": "Aquests pobles ocupen el territori des de fa mil·lennis, molt abans de l'arribada dels europeus."
           },
           {
-            "fr": "Les langues autochtones appartiennent surtout à deux grandes familles : algonquienne et iroquoienne.",
-            "es": "Las lenguas indígenas pertenecen sobre todo a dos grandes familias: algonquina e iroquesa.",
-            "ca": "Les llengües indígenes pertanyen sobretot a dues grans famílies: algonquina i iroquesa."
+            "fr": "Ce serait une erreur de les voir comme un seul groupe : ce sont des nations distinctes.",
+            "es": "Sería un error verlos como un solo grupo: son naciones distintas.",
+            "ca": "Seria un error veure'ls com un sol grup: són nacions diferents."
           },
           {
-            "fr": "Les Inuit, eux, parlent l'inuktitut et habitent le Nunavik, tout au nord.",
-            "es": "Los inuit, por su parte, hablan inuktitut y habitan el Nunavik, en el extremo norte.",
-            "ca": "Els inuit, per la seva banda, parlen inuktitut i habiten el Nunavik, a l'extrem nord."
+            "fr": "Chacune possède sa langue, son histoire, son territoire et sa vision du monde.",
+            "es": "Cada una posee su lengua, su historia, su territorio y su visión del mundo.",
+            "ca": "Cadascuna té la seva llengua, la seva història, el seu territori i la seva visió del món."
           },
           {
-            "fr": "Malgré les épreuves de l'histoire, ces nations revitalisent aujourd'hui leurs langues et leurs traditions.",
-            "es": "A pesar de las pruebas de la historia, estas naciones revitalizan hoy sus lenguas y tradiciones.",
-            "ca": "Malgrat les proves de la història, aquestes nacions revitalitzen avui les seves llengües i tradicions."
+            "fr": "Les Innus, l'une des nations les plus nombreuses, vivent surtout sur la Côte-Nord.",
+            "es": "Los innus, una de las naciones más numerosas, viven sobre todo en la Costa Norte.",
+            "ca": "Els innus, una de les nacions més nombroses, viuen sobretot a la Costa Nord."
+          },
+          {
+            "fr": "Les Cris (Eeyou) habitent le vaste territoire de la baie James.",
+            "es": "Los críes (Eeyou) habitan el vasto territorio de la bahía de James.",
+            "ca": "Els cris (Eeyou) habiten el vast territori de la badia de James."
+          },
+          {
+            "fr": "Les Mohawks (Kanien'kehá:ka) ont leurs communautés autour de Montréal, comme Kahnawake.",
+            "es": "Los mohawks (Kanien'kehá:ka) tienen sus comunidades alrededor de Montreal, como Kahnawake.",
+            "ca": "Els mohawks (Kanien'kehá:ka) tenen les seves comunitats al voltant de Montreal, com Kahnawake."
+          },
+          {
+            "fr": "Les Wendat, eux, sont installés à Wendake, aux portes de la ville de Québec.",
+            "es": "Los wendat, por su parte, están en Wendake, a las puertas de la ciudad de Quebec.",
+            "ca": "Els wendat, per la seva banda, són a Wendake, a les portes de la ciutat de Quebec."
+          },
+          {
+            "fr": "Plus au nord, les Inuit du Nunavik vivent sur un territoire immense, au-delà du 55e parallèle.",
+            "es": "Más al norte, los inuit de Nunavik viven en un territorio inmenso, más allá del paralelo 55.",
+            "ca": "Més al nord, els inuit del Nunavik viuen en un territori immens, més enllà del paral·lel 55."
+          },
+          {
+            "fr": "Leurs langues se regroupent en trois grandes familles : algonquienne, iroquoienne et inuite.",
+            "es": "Sus lenguas se agrupan en tres grandes familias: algonquina, iroquesa e inuit.",
+            "ca": "Les seves llengües s'agrupen en tres grans famílies: algonquina, iroquesa i inuit."
+          },
+          {
+            "fr": "Certaines langues, comme l'innu, le cri ou l'inuktitut, restent bien vivantes.",
+            "es": "Algunas lenguas, como el innu, el cree o el inuktitut, siguen muy vivas.",
+            "ca": "Algunes llengües, com l'innu, el cree o l'inuktitut, continuen molt vives."
+          },
+          {
+            "fr": "D'autres, longtemps fragilisées, font l'objet d'efforts de revitalisation.",
+            "es": "Otras, debilitadas durante mucho tiempo, son objeto de esfuerzos de revitalización.",
+            "ca": "Altres, afeblides durant molt de temps, són objecte d'esforços de revitalització."
+          },
+          {
+            "fr": "Malgré des siècles d'épreuves, ces nations sont toujours là.",
+            "es": "A pesar de siglos de pruebas, estas naciones siguen aquí.",
+            "ca": "Malgrat segles de proves, aquestes nacions encara hi són."
+          },
+          {
+            "fr": "Leur présence, ancienne et actuelle, fait partie de l'identité même du Québec.",
+            "es": "Su presencia, antigua y actual, forma parte de la identidad misma de Quebec.",
+            "ca": "La seva presència, antiga i actual, forma part de la identitat mateixa del Quebec."
           }
         ]
       },
@@ -111,6 +220,11 @@
           "mot": "un peuple",
           "es": "un pueblo",
           "ca": "un poble"
+        },
+        {
+          "mot": "une nation",
+          "es": "una nación",
+          "ca": "una nació"
         },
         {
           "mot": "autochtone",
@@ -128,14 +242,14 @@
           "ca": "el territori"
         },
         {
+          "mot": "distinct",
+          "es": "distinto",
+          "ca": "diferent"
+        },
+        {
           "mot": "vivant",
           "es": "vivo",
           "ca": "viu"
-        },
-        {
-          "mot": "transmettre",
-          "es": "transmitir",
-          "ca": "transmetre"
         }
       ],
       "questions": [
@@ -145,180 +259,39 @@
             "ca": "Quantes nacions indígenes hi ha al Quebec?"
           },
           "piste": {
-            "es": "once...",
-            "ca": "onze..."
+            "es": "once (10 + inuit)",
+            "ca": "onze (10 + inuit)"
           }
         },
         {
           "q": {
-            "es": "¿Dónde viven los inuit?",
-            "ca": "On viuen els inuit?"
+            "es": "¿Cuáles son las tres familias de lenguas?",
+            "ca": "Quines són les tres famílies de llengües?"
           },
           "piste": {
-            "es": "en el Gran Norte / Nunavik",
-            "ca": "al Gran Nord / Nunavik"
+            "es": "algonquina, iroquesa, inuit",
+            "ca": "algonquina, iroquesa, inuit"
           }
-        }
-      ]
-    },
-    {
-      "id": "vie_traditionnelle",
-      "emoji": "🏞️",
-      "theme": "Histoire",
-      "titre": {
-        "es": "La vida de antaño",
-        "ca": "La vida d'antany"
-      },
-      "niveaux": {
-        "a1": [
-          {
-            "fr": "Les peuples autochtones respectent beaucoup la nature.",
-            "es": "Los pueblos indígenas respetan mucho la naturaleza.",
-            "ca": "Els pobles indígenes respecten molt la natura."
+        },
+        {
+          "q": {
+            "es": "¿Dónde viven los mohawks?",
+            "ca": "On viuen els mohawks?"
           },
-          {
-            "fr": "Ils chassent, ils pêchent et ils cueillent des plantes.",
-            "es": "Cazan, pescan y recogen plantas.",
-            "ca": "Cacen, pesquen i cullen plantes."
-          },
-          {
-            "fr": "Ils connaissent les animaux et les saisons.",
-            "es": "Conocen los animales y las estaciones.",
-            "ca": "Coneixen els animals i les estacions."
-          },
-          {
-            "fr": "Ils voyagent en canot sur les rivières.",
-            "es": "Viajan en canoa por los ríos.",
-            "ca": "Viatgen en canoa pels rius."
-          },
-          {
-            "fr": "En hiver, ils marchent avec des raquettes sur la neige.",
-            "es": "En invierno, caminan con raquetas sobre la nieve.",
-            "ca": "A l'hivern, caminen amb raquetes sobre la neu."
-          },
-          {
-            "fr": "Le soir, ils racontent des histoires autour du feu.",
-            "es": "Por la noche, cuentan historias alrededor del fuego.",
-            "ca": "Al vespre, expliquen històries al voltant del foc."
+          "piste": {
+            "es": "cerca de Montreal (Kahnawake)",
+            "ca": "a prop de Montreal (Kahnawake)"
           }
-        ],
-        "a2": [
-          {
-            "fr": "Autrefois, les peuples autochtones vivaient en harmonie avec la nature.",
-            "es": "Antaño, los pueblos indígenas vivían en armonía con la naturaleza.",
-            "ca": "Antany, els pobles indígenes vivien en harmonia amb la natura."
-          },
-          {
-            "fr": "Ils chassaient le caribou, pêchaient le saumon et cueillaient des petits fruits.",
-            "es": "Cazaban el caribú, pescaban el salmón y recogían frutos.",
-            "ca": "Caçaven el caribú, pescaven el salmó i collien fruits."
-          },
-          {
-            "fr": "Ils se déplaçaient en canot l'été et en raquettes l'hiver.",
-            "es": "Se desplazaban en canoa en verano y en raquetas en invierno.",
-            "ca": "Es desplaçaven en canoa a l'estiu i en raquetes a l'hivern."
-          },
-          {
-            "fr": "Les aînés transmettaient leur savoir aux enfants par des histoires.",
-            "es": "Los mayores transmitían su saber a los niños mediante historias.",
-            "ca": "Els grans transmetien el seu saber als infants mitjançant històries."
-          },
-          {
-            "fr": "Chaque saison apportait ses activités et ses traditions.",
-            "es": "Cada estación traía sus actividades y tradiciones.",
-            "ca": "Cada estació portava les seves activitats i tradicions."
-          },
-          {
-            "fr": "Le respect de la terre était au cœur de leur vie.",
-            "es": "El respeto por la tierra estaba en el centro de su vida.",
-            "ca": "El respecte per la terra era al centre de la seva vida."
-          }
-        ],
-        "b1": [
-          {
-            "fr": "Pendant des millénaires, les peuples autochtones ont développé une connaissance profonde de leur territoire.",
-            "es": "Durante milenios, los pueblos indígenas desarrollaron un profundo conocimiento de su territorio.",
-            "ca": "Durant mil·lennis, els pobles indígenes van desenvolupar un coneixement profund del seu territori."
-          },
-          {
-            "fr": "Ils vivaient au rythme des saisons, chassant, pêchant et récoltant ce que la nature offrait.",
-            "es": "Vivían al ritmo de las estaciones, cazando, pescando y recolectando lo que la naturaleza ofrecía.",
-            "ca": "Vivien al ritme de les estacions, caçant, pescant i recol·lectant el que la natura oferia."
-          },
-          {
-            "fr": "Le canot d'écorce et les raquettes leur permettaient de parcourir de grandes distances.",
-            "es": "La canoa de corteza y las raquetas les permitían recorrer grandes distancias.",
-            "ca": "La canoa d'escorça i les raquetes els permetien recórrer grans distàncies."
-          },
-          {
-            "fr": "Le savoir se transmettait oralement, par les récits des aînés.",
-            "es": "El saber se transmitía oralmente, a través de los relatos de los mayores.",
-            "ca": "El saber es transmetia oralment, a través dels relats dels grans."
-          },
-          {
-            "fr": "Pour eux, l'être humain faisait partie de la nature, et non l'inverse.",
-            "es": "Para ellos, el ser humano formaba parte de la naturaleza, y no al revés.",
-            "ca": "Per a ells, l'ésser humà formava part de la natura, i no a l'inrevés."
-          },
-          {
-            "fr": "Cette relation de respect avec la terre demeure une valeur essentielle aujourd'hui.",
-            "es": "Esta relación de respeto con la tierra sigue siendo un valor esencial hoy.",
-            "ca": "Aquesta relació de respecte amb la terra continua sent un valor essencial avui."
-          }
-        ]
-      },
-      "mots_cles": [
-        {
-          "mot": "la nature",
-          "es": "la naturaleza",
-          "ca": "la natura"
-        },
-        {
-          "mot": "chasser",
-          "es": "cazar",
-          "ca": "caçar"
-        },
-        {
-          "mot": "pêcher",
-          "es": "pescar",
-          "ca": "pescar"
-        },
-        {
-          "mot": "le canot",
-          "es": "la canoa",
-          "ca": "la canoa"
-        },
-        {
-          "mot": "les raquettes",
-          "es": "las raquetas",
-          "ca": "les raquetes"
-        },
-        {
-          "mot": "un aîné",
-          "es": "un anciano/mayor",
-          "ca": "un gran/avi"
         }
       ],
-      "questions": [
+      "sources": [
         {
-          "q": {
-            "es": "¿Cómo viajaban en verano?",
-            "ca": "Com viatjaven a l'estiu?"
-          },
-          "piste": {
-            "es": "en c...",
-            "ca": "en c..."
-          }
+          "titre": "Gouvernement du Québec — Profil des nations",
+          "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations"
         },
         {
-          "q": {
-            "es": "¿Cómo transmitían su saber?",
-            "ca": "Com transmetien el seu saber?"
-          },
-          "piste": {
-            "es": "con historias / oralmente",
-            "ca": "amb històries / oralment"
-          }
+          "titre": "Espace pour la vie — Peuples autochtones",
+          "url": "https://espacepourlavie.ca/en/indigenous-peoples-canada-and-quebec"
         }
       ]
     }

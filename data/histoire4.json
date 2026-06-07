@@ -2,9 +2,9 @@
   "textes": [
     {
       "id": "loi_indiens",
-      "emoji": "⚖️",
+      "emoji": "📜",
       "theme": "Histoire",
-      "periode": "1876 → aujourd'hui",
+      "periode": "depuis 1876",
       "titre": {
         "es": "La Ley sobre los Indios",
         "ca": "La Llei sobre els Indis"
@@ -12,113 +12,43 @@
       "niveaux": {
         "a1": [
           {
-            "fr": "La « Loi sur les Indiens » est une loi très importante.",
-            "es": "La «Ley sobre los Indios» es una ley muy importante.",
-            "ca": "La «Llei sobre els Indis» és una llei molt important."
+            "fr": "En 1876, le gouvernement du Canada a écrit une loi sur les peuples autochtones : la « Loi sur les Indiens ». Cette loi contrôlait beaucoup de choses dans leur vie.",
+            "es": "En 1876, el gobierno de Canadá escribió una ley sobre los pueblos indígenas: la «Ley sobre los Indios». Esta ley controlaba muchas cosas de su vida.",
+            "ca": "El 1876, el govern del Canadà va escriure una llei sobre els pobles indígenes: la «Llei sobre els Indis». Aquesta llei controlava moltes coses de la seva vida."
           },
           {
-            "fr": "Elle existe depuis 1876.",
-            "es": "Existe desde 1876.",
-            "ca": "Existeix des de 1876."
-          },
-          {
-            "fr": "Le gouvernement décide beaucoup de choses pour les Autochtones.",
-            "es": "El gobierno decide muchas cosas por los indígenas.",
-            "ca": "El govern decideix moltes coses pels indígenes."
-          },
-          {
-            "fr": "Avant, chaque nation avait ses propres règles.",
-            "es": "Antes, cada nación tenía sus propias reglas.",
-            "ca": "Abans, cada nació tenia les seves pròpies regles."
-          },
-          {
-            "fr": "Cette loi a causé beaucoup de problèmes.",
-            "es": "Esta ley causó muchos problemas.",
-            "ca": "Aquesta llei va causar molts problemes."
-          },
-          {
-            "fr": "Elle existe encore aujourd'hui, mais elle a changé.",
-            "es": "Todavía existe hoy, pero ha cambiado.",
-            "ca": "Encara existeix avui, però ha canviat."
+            "fr": "Le gouvernement décidait qui était « Indien », où les gens pouvaient vivre et comment. Le but était de changer leur culture. Cette loi existe encore aujourd'hui, mais elle a beaucoup changé.",
+            "es": "El gobierno decidía quién era «indio», dónde podía vivir la gente y cómo. El objetivo era cambiar su cultura. Esta ley todavía existe hoy, pero ha cambiado mucho.",
+            "ca": "El govern decidia qui era «indi», on podia viure la gent i com. L'objectiu era canviar la seva cultura. Aquesta llei encara existeix avui, però ha canviat molt."
           }
         ],
         "a2": [
           {
-            "fr": "En 1876, le Canada crée la « Loi sur les Indiens ».",
-            "es": "En 1876, Canadá crea la «Ley sobre los Indios».",
-            "ca": "El 1876, el Canadà crea la «Llei sobre els Indis»."
+            "fr": "En 1876, le gouvernement canadien a adopté la « Loi sur les Indiens ». Cette loi donnait à l'État un contrôle énorme sur la vie des Premières Nations : leurs terres, leur argent et même leur identité.",
+            "es": "En 1876, el gobierno canadiense aprobó la «Ley sobre los Indios». Esta ley daba al Estado un control enorme sobre la vida de las Primeras Naciones: sus tierras, su dinero e incluso su identidad.",
+            "ca": "El 1876, el govern canadenc va aprovar la «Llei sobre els Indis». Aquesta llei donava a l'Estat un control enorme sobre la vida de les Primeres Nacions: les seves terres, els seus diners i fins i tot la seva identitat."
           },
           {
-            "fr": "Cette loi donne au gouvernement le contrôle sur la vie des Premières Nations.",
-            "es": "Esta ley da al gobierno el control sobre la vida de las Primeras Naciones.",
-            "ca": "Aquesta llei dóna al govern el control sobre la vida de les Primeres Nacions."
-          },
-          {
-            "fr": "Elle décide qui est « Indien » et gère les réserves.",
-            "es": "Decide quién es «indio» y gestiona las reservas.",
-            "ca": "Decideix qui és «indi» i gestiona les reserves."
-          },
-          {
-            "fr": "En 1885, elle interdit des cérémonies comme le potlatch.",
-            "es": "En 1885, prohíbe ceremonias como el potlatch.",
-            "ca": "El 1885, prohibeix cerimònies com el potlatch."
-          },
-          {
-            "fr": "Plus tard, elle force les enfants à aller au pensionnat.",
-            "es": "Más tarde, obliga a los niños a ir al internado.",
-            "ca": "Més tard, obliga els nens a anar a l'internat."
-          },
-          {
-            "fr": "En 1951 et 1985, on enlève des parties injustes de la loi.",
-            "es": "En 1951 y 1985, se eliminan partes injustas de la ley.",
-            "ca": "El 1951 i 1985, s'eliminen parts injustes de la llei."
-          },
-          {
-            "fr": "Mais la loi existe toujours et reste critiquée.",
-            "es": "Pero la ley sigue existiendo y sigue siendo criticada.",
-            "ca": "Però la llei encara existeix i continua sent criticada."
+            "fr": "Le gouvernement décidait qui avait le statut d'« Indien ». Par exemple, une femme autochtone qui épousait un non-Autochtone perdait son statut — une règle injuste qui n'a changé qu'en 1985. La loi a aussi interdit des cérémonies importantes pendant des décennies. Le but caché était l'assimilation : faire disparaître les cultures autochtones.",
+            "es": "El gobierno decidía quién tenía el estatus de «indio». Por ejemplo, una mujer indígena que se casaba con un no indígena perdía su estatus —una regla injusta que no cambió hasta 1985. La ley también prohibió ceremonias importantes durante décadas. El objetivo oculto era la asimilación: hacer desaparecer las culturas indígenas.",
+            "ca": "El govern decidia qui tenia l'estatus d'«indi». Per exemple, una dona indígena que es casava amb un no indígena perdia el seu estatus —una regla injusta que no va canviar fins al 1985. La llei també va prohibir cerimònies importants durant dècades. L'objectiu ocult era l'assimilació: fer desaparèixer les cultures indígenes."
           }
         ],
         "b1": [
           {
-            "fr": "Adoptée en 1876, la Loi sur les Indiens regroupe d'anciennes lois coloniales en un seul texte.",
-            "es": "Adoptada en 1876, la Ley sobre los Indios reúne antiguas leyes coloniales en un solo texto.",
-            "ca": "Adoptada el 1876, la Llei sobre els Indis aplega antigues lleis colonials en un sol text."
+            "fr": "Adoptée en 1876, la Loi sur les Indiens reste l'une des lois les plus marquantes — et les plus critiquées — de l'histoire canadienne. Elle a placé les Premières Nations sous le contrôle direct de l'État : gestion des terres de réserve, de l'argent des communautés, et même définition de qui pouvait être reconnu comme « Indien ».",
+            "es": "Aprobada en 1876, la Ley sobre los Indios sigue siendo una de las leyes más decisivas —y más criticadas— de la historia canadiense. Puso a las Primeras Naciones bajo el control directo del Estado: gestión de las tierras de reserva, del dinero de las comunidades, e incluso definición de quién podía ser reconocido como «indio».",
+            "ca": "Aprovada el 1876, la Llei sobre els Indis continua sent una de les lleis més decisives —i més criticades— de la història canadenca. Va posar les Primeres Nacions sota el control directe de l'Estat: gestió de les terres de reserva, dels diners de les comunitats, i fins i tot definició de qui podia ser reconegut com a «indi»."
           },
           {
-            "fr": "Son but était d'assimiler les Premières Nations à la société euro-canadienne.",
-            "es": "Su objetivo era asimilar a las Primeras Naciones a la sociedad euro-canadiense.",
-            "ca": "El seu objectiu era assimilar les Primeres Nacions a la societat euro-canadenca."
+            "fr": "Ses effets furent profonds et souvent injustes. De 1885 à 1951, elle interdit des cérémonies essentielles comme le potlatch. Une femme qui épousait un non-Autochtone perdait son statut, ainsi que ses enfants — une discrimination corrigée seulement en 1985, avec le projet de loi C-31. La loi a aussi servi de base au système des pensionnats.",
+            "es": "Sus efectos fueron profundos y a menudo injustos. De 1885 a 1951 prohibió ceremonias esenciales como el potlatch. Una mujer que se casaba con un no indígena perdía su estatus, y también sus hijos —una discriminación corregida solo en 1985, con el proyecto de ley C-31. La ley también sirvió de base al sistema de los internados.",
+            "ca": "Els seus efectes van ser profunds i sovint injustos. Del 1885 al 1951 va prohibir cerimònies essencials com el potlatch. Una dona que es casava amb un no indígena perdia el seu estatus, i també els seus fills —una discriminació corregida només el 1985, amb el projecte de llei C-31. La llei també va servir de base al sistema dels internats."
           },
           {
-            "fr": "Elle définit qui possède le « statut d'Indien » et encadre les réserves et les conseils de bande.",
-            "es": "Define quién posee el «estatus de indio» y regula las reservas y los consejos de banda.",
-            "ca": "Defineix qui té l'«estatus d'indi» i regula les reserves i els consells de banda."
-          },
-          {
-            "fr": "Dès 1885, elle interdit des cérémonies essentielles comme le potlatch et certaines danses.",
-            "es": "Desde 1885, prohíbe ceremonias esenciales como el potlatch y ciertas danzas.",
-            "ca": "Des de 1885, prohibeix cerimònies essencials com el potlatch i certes danses."
-          },
-          {
-            "fr": "Des amendements rendent ensuite l'école obligatoire, ce qui remplit les pensionnats.",
-            "es": "Enmiendas posteriores hacen la escuela obligatoria, lo que llena los internados.",
-            "ca": "Esmenes posteriors fan l'escola obligatòria, cosa que omple els internats."
-          },
-          {
-            "fr": "Longtemps, une femme autochtone perdait son statut si elle épousait un non-Autochtone.",
-            "es": "Durante mucho tiempo, una mujer indígena perdía su estatus si se casaba con un no indígena.",
-            "ca": "Durant molt de temps, una dona indígena perdia el seu estatus si es casava amb un no indígena."
-          },
-          {
-            "fr": "Les réformes de 1951 et de 1985 (loi C-31) suppriment plusieurs de ces injustices.",
-            "es": "Las reformas de 1951 y 1985 (ley C-31) suprimen varias de esas injusticias.",
-            "ca": "Les reformes de 1951 i 1985 (llei C-31) suprimeixen diverses d'aquestes injustícies."
-          },
-          {
-            "fr": "Toujours en vigueur, cette loi demeure au cœur des débats sur les droits autochtones.",
-            "es": "Todavía en vigor, esta ley sigue siendo central en los debates sobre los derechos indígenas.",
-            "ca": "Encara vigent, aquesta llei continua sent central en els debats sobre els drets indígenes."
+            "fr": "Officiellement, son objectif était l'assimilation : amener les peuples autochtones à abandonner leur culture, leur langue et leur mode de vie. La Loi sur les Indiens existe toujours aujourd'hui, bien que modifiée; elle reste au cœur des débats sur les droits et l'autonomie des Premières Nations.",
+            "es": "Oficialmente, su objetivo era la asimilación: llevar a los pueblos indígenas a abandonar su cultura, su lengua y su modo de vida. La Ley sobre los Indios todavía existe hoy, aunque modificada; sigue en el centro de los debates sobre los derechos y la autonomía de las Primeras Naciones.",
+            "ca": "Oficialment, el seu objectiu era l'assimilació: portar els pobles indígenes a abandonar la seva cultura, la seva llengua i la seva manera de viure. La Llei sobre els Indis encara existeix avui, tot i que modificada; continua al centre dels debats sobre els drets i l'autonomia de les Primeres Nacions."
           }
         ]
       },
@@ -134,292 +64,186 @@
           "ca": "el govern"
         },
         {
+          "mot": "contrôler",
+          "es": "controlar",
+          "ca": "controlar"
+        },
+        {
           "mot": "le statut",
           "es": "el estatus",
           "ca": "l'estatus"
         },
         {
-          "mot": "une réserve",
-          "es": "una reserva",
-          "ca": "una reserva"
-        },
-        {
-          "mot": "interdire",
-          "es": "prohibir",
-          "ca": "prohibir"
-        },
-        {
-          "mot": "assimiler",
-          "es": "asimilar",
-          "ca": "assimilar"
-        }
-      ],
-      "questions": [
-        {
-          "q": {
-            "es": "¿En qué año se creó la Ley sobre los Indios?",
-            "ca": "En quin any es va crear la Llei sobre els Indis?"
-          },
-          "piste": {
-            "es": "18...",
-            "ca": "18..."
-          }
-        },
-        {
-          "q": {
-            "es": "¿Qué prohibió la ley en 1885?",
-            "ca": "Què va prohibir la llei el 1885?"
-          },
-          "piste": {
-            "es": "el potlatch / ceremonias",
-            "ca": "el potlatch / cerimònies"
-          }
-        }
-      ],
-      "sources": [
-        {
-          "titre": "L'Encyclopédie canadienne — chronologie de la Loi sur les Indiens",
-          "url": "https://thecanadianencyclopedia.ca/fr/timeline/the-indian-act"
-        },
-        {
-          "titre": "Gouvernement du Québec — Profil des nations",
-          "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/profil-des-nations"
-        }
-      ],
-      "ressources": [
-        {
-          "type": "site",
-          "titre": "L'Encyclopédie canadienne : « Loi sur les Indiens »",
-          "url": "https://www.thecanadianencyclopedia.ca/fr/article/loi-sur-les-indiens",
-          "desc": {
-            "es": "Artículo completo y fiable sobre la ley y sus efectos.",
-            "ca": "Article complet i fiable sobre la llei i els seus efectes."
-          }
-        },
-        {
-          "type": "video",
-          "titre": "Vidéo : comprendre la Loi sur les Indiens",
-          "url": "https://www.youtube.com/results?search_query=loi+sur+les+indiens+explication",
-          "desc": {
-            "es": "Búsqueda de vídeos explicativos (en francés e inglés).",
-            "ca": "Cerca de vídeos explicatius (en francès i anglès)."
-          }
-        }
-      ]
-    },
-    {
-      "id": "pensionnats_fond",
-      "emoji": "🕯️",
-      "theme": "Histoire",
-      "periode": "1831 → 1996",
-      "note": {
-        "es": "Tema delicado y doloroso, contado con respeto. Línea de apoyo (Canadá): 1-866-925-4419.",
-        "ca": "Tema delicat i dolorós, explicat amb respecte. Línia de suport (Canadà): 1-866-925-4419."
-      },
-      "titre": {
-        "es": "Los internados: por qué y cómo",
-        "ca": "Els internats: per què i com"
-      },
-      "niveaux": {
-        "a1": [
-          {
-            "fr": "Les pensionnats sont une partie très triste de l'histoire.",
-            "es": "Los internados son una parte muy triste de la historia.",
-            "ca": "Els internats són una part molt trista de la història."
-          },
-          {
-            "fr": "Des enfants autochtones devaient quitter leur famille.",
-            "es": "Niños indígenas tenían que dejar a su familia.",
-            "ca": "Nens indígenes havien de deixar la seva família."
-          },
-          {
-            "fr": "Ils ne pouvaient pas parler leur langue.",
-            "es": "No podían hablar su lengua.",
-            "ca": "No podien parlar la seva llengua."
-          },
-          {
-            "fr": "Le but était de leur faire oublier leur culture.",
-            "es": "El objetivo era hacerles olvidar su cultura.",
-            "ca": "L'objectiu era fer-los oblidar la seva cultura."
-          },
-          {
-            "fr": "Beaucoup d'enfants ont beaucoup souffert.",
-            "es": "Muchos niños sufrieron mucho.",
-            "ca": "Molts nens van patir molt."
-          },
-          {
-            "fr": "La dernière école a fermé en 1996.",
-            "es": "La última escuela cerró en 1996.",
-            "ca": "La darrera escola va tancar el 1996."
-          }
-        ],
-        "a2": [
-          {
-            "fr": "Les pensionnats étaient des écoles pour enfants autochtones.",
-            "es": "Los internados eran escuelas para niños indígenas.",
-            "ca": "Els internats eren escoles per a nens indígenes."
-          },
-          {
-            "fr": "Le gouvernement les finançait et les Églises les dirigeaient.",
-            "es": "El gobierno los financiaba y las Iglesias los dirigían.",
-            "ca": "El govern els finançava i les Esglésies els dirigien."
-          },
-          {
-            "fr": "À partir de 1894, puis de 1920, la loi rendait l'école obligatoire.",
-            "es": "A partir de 1894, y luego de 1920, la ley hacía la escuela obligatoria.",
-            "ca": "A partir de 1894, i després de 1920, la llei feia l'escola obligatòria."
-          },
-          {
-            "fr": "Souvent, on enlevait les enfants de force à leur famille.",
-            "es": "A menudo, se sacaba a los niños por la fuerza de su familia.",
-            "ca": "Sovint, s'enduien els nens per força de la seva família."
-          },
-          {
-            "fr": "On leur interdisait de parler leur langue et de vivre leur culture.",
-            "es": "Se les prohibía hablar su lengua y vivir su cultura.",
-            "ca": "Se'ls prohibia parlar la seva llengua i viure la seva cultura."
-          },
-          {
-            "fr": "Le but était l'assimilation : effacer les cultures autochtones.",
-            "es": "El objetivo era la asimilación: borrar las culturas indígenas.",
-            "ca": "L'objectiu era l'assimilació: esborrar les cultures indígenes."
-          },
-          {
-            "fr": "Plus de 150 000 enfants sont passés par ces écoles.",
-            "es": "Más de 150 000 niños pasaron por estas escuelas.",
-            "ca": "Més de 150.000 nens van passar per aquestes escoles."
-          },
-          {
-            "fr": "La dernière a fermé en 1996.",
-            "es": "La última cerró en 1996.",
-            "ca": "La darrera va tancar el 1996."
-          }
-        ],
-        "b1": [
-          {
-            "fr": "Le système des pensionnats visait à assimiler de force les enfants autochtones.",
-            "es": "El sistema de internados buscaba asimilar por la fuerza a los niños indígenas.",
-            "ca": "El sistema d'internats buscava assimilar per força els nens indígenes."
-          },
-          {
-            "fr": "Financé par le gouvernement et géré par les Églises, il a duré plus d'un siècle.",
-            "es": "Financiado por el gobierno y gestionado por las Iglesias, duró más de un siglo.",
-            "ca": "Finançat pel govern i gestionat per les Esglésies, va durar més d'un segle."
-          },
-          {
-            "fr": "Les familles ne « choisissaient » pas : dès 1894, puis 1920, la loi rendait l'école obligatoire.",
-            "es": "Las familias no «elegían»: desde 1894, y luego 1920, la ley hacía la escuela obligatoria.",
-            "ca": "Les famílies no «triaven»: des de 1894, i després 1920, la llei feia l'escola obligatòria."
-          },
-          {
-            "fr": "La police et les agents du gouvernement retiraient souvent les enfants de force.",
-            "es": "La policía y los agentes del gobierno a menudo sacaban a los niños por la fuerza.",
-            "ca": "La policia i els agents del govern sovint s'enduien els nens per força."
-          },
-          {
-            "fr": "Il leur était interdit de parler leur langue ou de pratiquer leur spiritualité.",
-            "es": "Se les prohibía hablar su lengua o practicar su espiritualidad.",
-            "ca": "Se'ls prohibia parlar la seva llengua o practicar la seva espiritualitat."
-          },
-          {
-            "fr": "La Commission de vérité et réconciliation a parlé d'un « génocide culturel ».",
-            "es": "La Comisión de Verdad y Reconciliación habló de un «genocidio cultural».",
-            "ca": "La Comissió de Veritat i Reconciliació va parlar d'un «genocidi cultural»."
-          },
-          {
-            "fr": "En 2008, le premier ministre du Canada a présenté des excuses officielles.",
-            "es": "En 2008, el primer ministro de Canadá presentó disculpas oficiales.",
-            "ca": "El 2008, el primer ministre del Canadà va presentar disculpes oficials."
-          },
-          {
-            "fr": "Le 30 septembre est aujourd'hui la Journée de la vérité et de la réconciliation.",
-            "es": "El 30 de septiembre es hoy el Día de la Verdad y la Reconciliación.",
-            "ca": "El 30 de setembre és avui el Dia de la Veritat i la Reconciliació."
-          }
-        ]
-      },
-      "mots_cles": [
-        {
-          "mot": "un pensionnat",
-          "es": "un internado",
-          "ca": "un internat"
-        },
-        {
-          "mot": "obligatoire",
-          "es": "obligatorio",
-          "ca": "obligatori"
-        },
-        {
-          "mot": "de force",
-          "es": "por la fuerza",
-          "ca": "per força"
-        },
-        {
-          "mot": "interdire",
-          "es": "prohibir",
-          "ca": "prohibir"
+          "mot": "injuste",
+          "es": "injusto",
+          "ca": "injust"
         },
         {
           "mot": "l'assimilation",
           "es": "la asimilación",
           "ca": "l'assimilació"
-        },
-        {
-          "mot": "la réconciliation",
-          "es": "la reconciliación",
-          "ca": "la reconciliació"
         }
       ],
       "questions": [
         {
           "q": {
-            "es": "¿Quién financiaba y quién dirigía las escuelas?",
-            "ca": "Qui finançava i qui dirigia les escoles?"
+            "es": "¿En qué año se adoptó la ley?",
+            "ca": "En quin any es va aprovar la llei?"
           },
           "piste": {
-            "es": "el gobierno / las Iglesias",
-            "ca": "el govern / les Esglésies"
+            "es": "1876",
+            "ca": "1876"
           }
         },
         {
           "q": {
-            "es": "¿Las familias elegían enviar a sus hijos?",
-            "ca": "Les famílies triaven enviar els seus fills?"
+            "es": "¿Cuál era su objetivo oculto?",
+            "ca": "Quin era el seu objectiu ocult?"
           },
           "piste": {
-            "es": "no, era obligatorio / por la fuerza",
-            "ca": "no, era obligatori / per força"
+            "es": "la asimilación",
+            "ca": "l'assimilació"
           }
         }
       ],
       "sources": [
         {
-          "titre": "Centre national pour la vérité et la réconciliation (NCTR)",
-          "url": "https://nctr.ca/education/residential-school-history/"
+          "titre": "L'Encyclopédie canadienne — Loi sur les Indiens",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/indian-act"
+        }
+      ]
+    },
+    {
+      "id": "pensionnats_fond",
+      "emoji": "🧡",
+      "theme": "Histoire",
+      "periode": "des années 1880 à 1996",
+      "titre": {
+        "es": "Los internados (pensionnats)",
+        "ca": "Els internats (pensionnats)"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg",
+        "credit": {
+          "es": "Alumnos del internado de Washakada, Elkhorn, Manitoba, hacia 1900 — Biblioteca y Archivos Canadá",
+          "ca": "Alumnes de l'internat de Washakada, Elkhorn, Manitoba, cap a 1900 — Biblioteca i Arxius Canadà"
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Pendant longtemps, le gouvernement a forcé des enfants autochtones à quitter leur famille. On les envoyait dans des écoles spéciales : les « pensionnats ».",
+            "es": "Durante mucho tiempo, el gobierno obligó a niños indígenas a dejar a su familia. Los enviaban a escuelas especiales: los «internados».",
+            "ca": "Durant molt de temps, el govern va obligar nens indígenes a deixar la seva família. Els enviaven a escoles especials: els «internats»."
+          },
+          {
+            "fr": "Dans ces écoles, les enfants n'avaient pas le droit de parler leur langue. Beaucoup ont beaucoup souffert. La dernière école a fermé seulement en 1996. Aujourd'hui, le Canada essaie de réparer cette histoire.",
+            "es": "En esas escuelas, los niños no tenían derecho a hablar su lengua. Muchos sufrieron mucho. La última escuela cerró solo en 1996. Hoy, Canadá intenta reparar esta historia.",
+            "ca": "En aquelles escoles, els nens no tenien dret a parlar la seva llengua. Molts van patir molt. L'última escola va tancar només el 1996. Avui, el Canadà intenta reparar aquesta història."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Pendant plus de cent ans, le Canada a retiré de force des enfants autochtones à leur famille pour les placer dans des « pensionnats ». Ces écoles étaient financées par le gouvernement et dirigées par des Églises.",
+            "es": "Durante más de cien años, Canadá retiró por la fuerza a niños indígenas de su familia para internarlos en «internados». Esas escuelas eran financiadas por el gobierno y dirigidas por iglesias.",
+            "ca": "Durant més de cent anys, el Canadà va retirar per la força nens indígenes de la seva família per internar-los en «internats». Aquelles escoles eren finançades pel govern i dirigides per esglésies."
+          },
+          {
+            "fr": "Là, les enfants étaient punis s'ils parlaient leur langue ou suivaient leurs traditions. Beaucoup ont subi de mauvais traitements, et des milliers ne sont jamais rentrés chez eux. Environ 150 000 enfants sont passés par ces écoles; la dernière a fermé en 1996.",
+            "es": "Allí, los niños eran castigados si hablaban su lengua o seguían sus tradiciones. Muchos sufrieron malos tratos, y miles nunca volvieron a casa. Cerca de 150 000 niños pasaron por esas escuelas; la última cerró en 1996.",
+            "ca": "Allà, els nens eren castigats si parlaven la seva llengua o seguien les seves tradicions. Molts van patir maltractaments, i milers no van tornar mai a casa. Prop de 150.000 nens van passar per aquelles escoles; l'última va tancar el 1996."
+          },
+          {
+            "fr": "En 2008, le gouvernement a présenté des excuses officielles. Une grande enquête a parlé de « génocide culturel ». Chaque 30 septembre, on se souvient de ces enfants avec la Journée du chandail orange.",
+            "es": "En 2008, el gobierno presentó disculpas oficiales. Una gran investigación habló de «genocidio cultural». Cada 30 de septiembre se recuerda a esos niños con el Día de la Camiseta Naranja.",
+            "ca": "El 2008, el govern va presentar disculpes oficials. Una gran investigació va parlar de «genocidi cultural». Cada 30 de setembre es recorda aquells nens amb el Dia de la Samarreta Taronja."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le système des pensionnats est l'un des chapitres les plus douloureux de l'histoire du Canada. Dès les années 1880, et de façon obligatoire à partir du début du XXe siècle, l'État a retiré de force des enfants autochtones à leurs familles pour les placer dans des écoles financées par le gouvernement et tenues par des Églises.",
+            "es": "El sistema de los internados es uno de los capítulos más dolorosos de la historia de Canadá. Desde los años 1880, y de forma obligatoria a partir de principios del siglo XX, el Estado retiró por la fuerza a niños indígenas de sus familias para internarlos en escuelas financiadas por el gobierno y dirigidas por iglesias.",
+            "ca": "El sistema dels internats és un dels capítols més dolorosos de la història del Canadà. Des dels anys 1880, i de manera obligatòria a partir de principis del segle XX, l'Estat va retirar per la força nens indígenes de les seves famílies per internar-los en escoles finançades pel govern i dirigides per esglésies."
+          },
+          {
+            "fr": "L'objectif était d'« assimiler » les enfants : on leur interdisait de parler leur langue et de pratiquer leur culture. Beaucoup vécurent la faim, la solitude et de mauvais traitements; des milliers moururent loin des leurs. On estime qu'environ 150 000 enfants passèrent par ces institutions, dont la dernière ne ferma qu'en 1996.",
+            "es": "El objetivo era «asimilar» a los niños: se les prohibía hablar su lengua y practicar su cultura. Muchos vivieron el hambre, la soledad y los malos tratos; miles murieron lejos de los suyos. Se estima que cerca de 150 000 niños pasaron por estas instituciones, de las cuales la última no cerró hasta 1996.",
+            "ca": "L'objectiu era «assimilar» els nens: se'ls prohibia parlar la seva llengua i practicar la seva cultura. Molts van viure la fam, la solitud i els maltractaments; milers van morir lluny dels seus. S'estima que prop de 150.000 nens van passar per aquestes institucions, de les quals l'última no va tancar fins al 1996."
+          },
+          {
+            "fr": "En 2015, la Commission de vérité et réconciliation a qualifié ce système de « génocide culturel ». Le gouvernement avait présenté des excuses officielles en 2008. Depuis, chaque 30 septembre, la Journée nationale de la vérité et de la réconciliation — la Journée du chandail orange — honore la mémoire des survivants et des enfants qui ne sont jamais revenus.",
+            "es": "En 2015, la Comisión de Verdad y Reconciliación calificó este sistema de «genocidio cultural». El gobierno había presentado disculpas oficiales en 2008. Desde entonces, cada 30 de septiembre, el Día Nacional de la Verdad y la Reconciliación —el Día de la Camiseta Naranja— honra la memoria de los supervivientes y de los niños que nunca volvieron.",
+            "ca": "El 2015, la Comissió de Veritat i Reconciliació va qualificar aquest sistema de «genocidi cultural». El govern havia presentat disculpes oficials el 2008. Des d'aleshores, cada 30 de setembre, el Dia Nacional de la Veritat i la Reconciliació —el Dia de la Samarreta Taronja— honra la memòria dels supervivents i dels nens que mai no van tornar."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un enfant",
+          "es": "un niño",
+          "ca": "un nen"
         },
         {
-          "titre": "Musée canadien pour les droits de la personne",
-          "url": "https://droitsdelapersonne.ca/histoire/les-pensionnats-indiens-du-canada-une-enfance-perdue"
+          "mot": "une école",
+          "es": "una escuela",
+          "ca": "una escola"
+        },
+        {
+          "mot": "une famille",
+          "es": "una familia",
+          "ca": "una família"
+        },
+        {
+          "mot": "interdire",
+          "es": "prohibir",
+          "ca": "prohibir"
+        },
+        {
+          "mot": "se souvenir",
+          "es": "recordar",
+          "ca": "recordar"
+        },
+        {
+          "mot": "la vérité",
+          "es": "la verdad",
+          "ca": "la veritat"
         }
       ],
-      "ressources": [
+      "questions": [
         {
-          "type": "site",
-          "titre": "NCTR — Histoire des pensionnats",
-          "url": "https://nctr.ca/education/residential-school-history/",
-          "desc": {
-            "es": "Centro oficial de la verdad y la reconciliación.",
-            "ca": "Centre oficial de la veritat i la reconciliació."
+          "q": {
+            "es": "¿Hasta qué año funcionó la última escuela?",
+            "ca": "Fins a quin any va funcionar l'última escola?"
+          },
+          "piste": {
+            "es": "1996",
+            "ca": "1996"
           }
         },
         {
-          "type": "video",
-          "titre": "Historica Canada — Minute du patrimoine : Chanie Wenjack",
-          "url": "https://www.youtube.com/results?search_query=heritage+minute+chanie+wenjack",
-          "desc": {
-            "es": "Cortometraje conmemorativo (con subtítulos).",
-            "ca": "Curtmetratge commemoratiu (amb subtítols)."
+          "q": {
+            "es": "¿Qué se hace el 30 de septiembre?",
+            "ca": "Què es fa el 30 de setembre?"
+          },
+          "piste": {
+            "es": "Día de la Camiseta Naranja",
+            "ca": "Dia de la Samarreta Taronja"
           }
+        }
+      ],
+      "note": {
+        "es": "Es un tema doloroso. En Canadá existe una línea de apoyo 24 h para supervivientes y familias: 1-866-925-4419.",
+        "ca": "És un tema dolorós. Al Canadà hi ha una línia de suport 24 h per a supervivents i famílies: 1-866-925-4419."
+      },
+      "sources": [
+        {
+          "titre": "Centre national pour la vérité et la réconciliation",
+          "url": "https://nctr.ca/"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Pensionnats",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/residential-schools"
         }
       ]
     }

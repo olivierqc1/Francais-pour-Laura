@@ -1,0 +1,169 @@
+{
+  "textes": [
+    {
+      "id": "territoires_non_cedes",
+      "emoji": "🗺️",
+      "theme": "Histoire",
+      "periode": "question d'aujourd'hui",
+      "titre": {
+        "es": "Los territorios no cedidos",
+        "ca": "Els territoris no cedits"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Au Québec, beaucoup de terres sont « non cédées ». Ça veut dire que les peuples autochtones ne les ont jamais vendues ni données.",
+            "es": "En Quebec, muchas tierras son «no cedidas». Significa que los pueblos indígenas nunca las vendieron ni las regalaron.",
+            "ca": "Al Quebec, moltes terres són «no cedides». Vol dir que els pobles indígenes mai no les van vendre ni les van regalar."
+          },
+          {
+            "fr": "Montréal a un nom mohawk : Tiohtià:ke. La ville est sur une terre autochtone non cédée.",
+            "es": "Montreal tiene un nombre mohawk: Tiohtià:ke. La ciudad está en una tierra indígena no cedida.",
+            "ca": "Montreal té un nom mohawk: Tiohtià:ke. La ciutat és en una terra indígena no cedida."
+          },
+          {
+            "fr": "Avant un spectacle ou une réunion, on dit parfois sur quelle terre autochtone on se trouve. C'est une façon de dire la vérité.",
+            "es": "Antes de un espectáculo o una reunión, a veces se dice en qué tierra indígena estamos. Es una forma de decir la verdad.",
+            "ca": "Abans d'un espectacle o una reunió, de vegades es diu en quina terra indígena som. És una manera de dir la veritat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "On entend souvent cette phrase au début d'événements au Québec : « Nous sommes sur un territoire autochtone non cédé. » Mais qu'est-ce que ça veut dire?",
+            "es": "Se oye a menudo esta frase al inicio de eventos en Quebec: «Estamos en un territorio indígena no cedido». Pero ¿qué significa?",
+            "ca": "Sovint se sent aquesta frase a l'inici d'esdeveniments al Quebec: «Som en un territori indígena no cedit». Però què vol dir?"
+          },
+          {
+            "fr": "Un territoire « non cédé », c'est une terre que les peuples autochtones n'ont jamais vendue, donnée, ni perdue par un traité. Ils n'y ont jamais renoncé. Une grande partie du Québec — dont l'île de Montréal — est un territoire non cédé.",
+            "es": "Un territorio «no cedido» es una tierra que los pueblos indígenas nunca vendieron, regalaron ni perdieron por un tratado. Nunca renunciaron a ella. Gran parte de Quebec —incluida la isla de Montreal— es territorio no cedido.",
+            "ca": "Un territori «no cedit» és una terra que els pobles indígenes mai no van vendre, regalar ni perdre per un tractat. Mai no hi van renunciar. Gran part del Quebec —inclosa l'illa de Montreal— és territori no cedit."
+          },
+          {
+            "h": {
+              "fr": "Tiohtià:ke",
+              "es": "Tiohtià:ke",
+              "ca": "Tiohtià:ke"
+            }
+          },
+          {
+            "fr": "Montréal porte un nom mohawk : Tiohtià:ke. Pour les Kanien'kehá:ka, l'île était un lieu de rencontre bien avant la ville. Reconnaître ce nom, c'est rappeler que Montréal s'est construite sur une terre jamais cédée.",
+            "es": "Montreal lleva un nombre mohawk: Tiohtià:ke. Para los Kanien'kehá:ka, la isla era un lugar de encuentro mucho antes que la ciudad. Reconocer este nombre es recordar que Montreal se construyó sobre una tierra nunca cedida.",
+            "ca": "Montreal porta un nom mohawk: Tiohtià:ke. Per als Kanien'kehá:ka, l'illa era un lloc de trobada molt abans que la ciutat. Reconèixer aquest nom és recordar que Montreal es va construir sobre una terra mai cedida."
+          },
+          {
+            "fr": "C'est pourquoi, au début de spectacles ou de réunions, on entend une « reconnaissance du territoire » : on nomme la nation dont c'est la terre. Ce n'est pas qu'une formule polie, c'est dire la vérité sur le lieu.",
+            "es": "Por eso, al inicio de espectáculos o reuniones, se oye un «reconocimiento del territorio»: se nombra la nación cuya es la tierra. No es solo una fórmula educada, es decir la verdad sobre el lugar.",
+            "ca": "Per això, a l'inici d'espectacles o reunions, se sent un «reconeixement del territori»: s'anomena la nació de qui és la terra. No és només una fórmula educada, és dir la veritat sobre el lloc."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "On entend souvent cette phrase au début d'un spectacle, d'un cours ou d'une réunion au Québec : « Nous sommes réunis sur un territoire autochtone non cédé. » Derrière ces mots se cache l'une des grandes questions du pays.",
+            "es": "Se oye a menudo esta frase al inicio de un espectáculo, una clase o una reunión en Quebec: «Estamos reunidos en un territorio indígena no cedido». Tras estas palabras se esconde una de las grandes cuestiones del país.",
+            "ca": "Sovint se sent aquesta frase a l'inici d'un espectacle, una classe o una reunió al Quebec: «Estem reunits en un territori indígena no cedit». Darrere d'aquestes paraules s'amaga una de les grans qüestions del país."
+          },
+          {
+            "h": {
+              "fr": "Que veut dire « non cédé »?",
+              "es": "¿Qué significa «no cedido»?",
+              "ca": "Què vol dir «no cedit»?"
+            }
+          },
+          {
+            "fr": "Un territoire « non cédé », c'est une terre que les peuples autochtones n'ont jamais vendue, donnée, ni abandonnée par un traité signé librement. Contrairement à d'autres régions du Canada, une grande partie du Québec n'a fait l'objet d'aucun traité de cession : les nations n'y ont donc jamais renoncé à leurs droits. L'île de Montréal en est un exemple frappant.",
+            "es": "Un territorio «no cedido» es una tierra que los pueblos indígenas nunca vendieron, regalaron ni abandonaron mediante un tratado firmado libremente. A diferencia de otras regiones de Canadá, gran parte de Quebec no fue objeto de ningún tratado de cesión: las naciones nunca renunciaron a sus derechos. La isla de Montreal es un ejemplo claro.",
+            "ca": "Un territori «no cedit» és una terra que els pobles indígenes mai no van vendre, regalar ni abandonar mitjançant un tractat signat lliurement. A diferència d'altres regions del Canadà, gran part del Quebec no va ser objecte de cap tractat de cessió: les nacions mai no hi van renunciar als seus drets. L'illa de Montreal n'és un exemple clar."
+          },
+          {
+            "h": {
+              "fr": "Tiohtià:ke, le nom de Montréal",
+              "es": "Tiohtià:ke, el nombre de Montreal",
+              "ca": "Tiohtià:ke, el nom de Montreal"
+            }
+          },
+          {
+            "fr": "Montréal porte d'ailleurs un nom mohawk : Tiohtià:ke. Pour les Kanien'kehá:ka, l'île était depuis longtemps un lieu de rencontre, d'échange et de passage, au croisement de plusieurs nations. Employer ce nom aujourd'hui, ce n'est pas un détail folklorique : c'est rappeler que la métropole s'est bâtie sur une terre qui ne lui a jamais été légalement cédée.",
+            "es": "Montreal lleva además un nombre mohawk: Tiohtià:ke. Para los Kanien'kehá:ka, la isla era desde hacía mucho un lugar de encuentro, de intercambio y de paso, en el cruce de varias naciones. Usar este nombre hoy no es un detalle folclórico: es recordar que la metrópoli se construyó sobre una tierra que nunca le fue cedida legalmente.",
+            "ca": "Montreal porta a més un nom mohawk: Tiohtià:ke. Per als Kanien'kehá:ka, l'illa era des de feia molt un lloc de trobada, d'intercanvi i de pas, a la cruïlla de diverses nacions. Fer servir aquest nom avui no és un detall folklòric: és recordar que la metròpoli es va construir sobre una terra que mai no li va ser cedida legalment."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi ça compte vraiment",
+              "es": "Por qué importa de verdad",
+              "ca": "Per què importa de debò"
+            }
+          },
+          {
+            "fr": "Au-delà du symbole, la question est aussi juridique : si personne n'a jamais cédé ces terres, qui en est le propriétaire légitime? La Cour suprême du Canada a reconnu à plusieurs reprises que les droits et le « titre » autochtones sur ces territoires existent toujours. Les reconnaissances de territoire, entendues partout aujourd'hui, sont nées de cette prise de conscience : nommer la nation hôte, c'est un premier pas vers la vérité et, peut-être, vers la réconciliation.",
+            "es": "Más allá del símbolo, la cuestión es también jurídica: si nadie cedió nunca estas tierras, ¿quién es su propietario legítimo? El Tribunal Supremo de Canadá ha reconocido varias veces que los derechos y el «título» indígenas sobre estos territorios siguen existiendo. Los reconocimientos de territorio, oídos hoy por todas partes, nacieron de esta toma de conciencia: nombrar a la nación anfitriona es un primer paso hacia la verdad y, quizá, hacia la reconciliación.",
+            "ca": "Més enllà del símbol, la qüestió és també jurídica: si ningú no va cedir mai aquestes terres, qui n'és el propietari legítim? El Tribunal Suprem del Canadà ha reconegut diverses vegades que els drets i el «títol» indígenes sobre aquests territoris encara existeixen. Els reconeixements de territori, sentits avui pertot, van néixer d'aquesta presa de consciència: anomenar la nació amfitriona és un primer pas cap a la veritat i, potser, cap a la reconciliació."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un territoire",
+          "es": "un territorio",
+          "ca": "un territori"
+        },
+        {
+          "mot": "céder",
+          "es": "ceder",
+          "ca": "cedir"
+        },
+        {
+          "mot": "un traité",
+          "es": "un tratado",
+          "ca": "un tractat"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        },
+        {
+          "mot": "reconnaître",
+          "es": "reconocer",
+          "ca": "reconèixer"
+        },
+        {
+          "mot": "la vérité",
+          "es": "la verdad",
+          "ca": "la veritat"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué significa un territorio «no cedido»?",
+            "ca": "Què significa un territori «no cedit»?"
+          },
+          "piste": {
+            "es": "nunca vendido ni cedido",
+            "ca": "mai venut ni cedit"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es el nombre mohawk de Montreal?",
+            "ca": "Quin és el nom mohawk de Montreal?"
+          },
+          "piste": {
+            "es": "Tiohtià:ke",
+            "ca": "Tiohtià:ke"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Titre autochtone",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/aboriginal-title"
+        },
+        {
+          "titre": "Montréal autochtone / Tiohtià:ke",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/montreal"
+        }
+      ]
+    }
+  ]
+}

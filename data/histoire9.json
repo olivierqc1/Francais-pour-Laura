@@ -1,0 +1,195 @@
+{
+  "textes": [
+    {
+      "id": "crise_oka",
+      "emoji": "🌲",
+      "theme": "Histoire",
+      "periode": "été 1990",
+      "titre": {
+        "es": "La crisis de Oka (1990)",
+        "ca": "La crisi d'Oka (1990)"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1990, il y a eu un grand conflit près de Montréal : la crise d'Oka. Des Mohawks ont défendu une forêt sacrée.",
+            "es": "En 1990 hubo un gran conflicto cerca de Montreal: la crisis de Oka. Unos mohawks defendieron un bosque sagrado.",
+            "ca": "El 1990 hi va haver un gran conflicte a prop de Montreal: la crisi d'Oka. Uns mohawks van defensar un bosc sagrat."
+          },
+          {
+            "fr": "La ville voulait agrandir un terrain de golf sur un vieux cimetière mohawk. Les Mohawks ont dit non et ont bloqué la route.",
+            "es": "La ciudad quería ampliar un campo de golf sobre un viejo cementerio mohawk. Los mohawks dijeron no y bloquearon la carretera.",
+            "ca": "La ciutat volia ampliar un camp de golf sobre un vell cementiri mohawk. Els mohawks van dir no i van bloquejar la carretera."
+          },
+          {
+            "fr": "La police, puis l'armée, sont arrivées. Le bras de fer a duré 78 jours. À la fin, le golf n'a pas été agrandi.",
+            "es": "Llegó la policía y luego el ejército. El pulso duró 78 días. Al final, el golf no se amplió.",
+            "ca": "Va arribar la policia i després l'exèrcit. El pols va durar 78 dies. Al final, el golf no es va ampliar."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "À l'été 1990, un conflit a marqué l'histoire du Canada : la crise d'Oka, aussi appelée la résistance de Kanesatake. Pendant 78 jours, des Mohawks (Kanien'kehá:ka) ont fait face à la police, puis à l'armée.",
+            "es": "En el verano de 1990, un conflicto marcó la historia de Canadá: la crisis de Oka, también llamada la resistencia de Kanesatake. Durante 78 días, unos mohawks (Kanien'kehá:ka) se enfrentaron a la policía y luego al ejército.",
+            "ca": "L'estiu de 1990, un conflicte va marcar la història del Canadà: la crisi d'Oka, també anomenada la resistència de Kanesatake. Durant 78 dies, uns mohawks (Kanien'kehá:ka) es van enfrontar a la policia i després a l'exèrcit."
+          },
+          {
+            "h": {
+              "fr": "L'étincelle",
+              "es": "La chispa",
+              "ca": "L'espurna"
+            }
+          },
+          {
+            "fr": "La ville d'Oka voulait agrandir un terrain de golf sur « les Pins », une pinède sacrée qui abritait un cimetière mohawk. Les Mohawks de Kanesatake s'y sont opposés et ont dressé une barricade. Le 11 juillet, la police a voulu la détruire par la force, et un policier est mort dans l'affrontement.",
+            "es": "La ciudad de Oka quería ampliar un campo de golf sobre «los Pinos», un pinar sagrado con un cementerio mohawk. Los mohawks de Kanesatake se opusieron y levantaron una barricada. El 11 de julio, la policía quiso destruirla por la fuerza, y un policía murió en el enfrentamiento.",
+            "ca": "La ciutat d'Oka volia ampliar un camp de golf sobre «els Pins», una pineda sagrada amb un cementiri mohawk. Els mohawks de Kanesatake s'hi van oposar i van aixecar una barricada. L'11 de juliol, la policia la va voler destruir per la força, i un policia va morir en l'enfrontament."
+          },
+          {
+            "h": {
+              "fr": "Le bras de fer",
+              "es": "El pulso",
+              "ca": "El pols"
+            }
+          },
+          {
+            "fr": "En solidarité, les Mohawks de Kahnawake ont bloqué le pont Mercier, un axe vital vers Montréal. L'armée canadienne a été appelée. Le siège a duré 78 jours, jusqu'au 26 septembre. À la fin, l'agrandissement du golf a été annulé et le gouvernement a racheté les terres.",
+            "es": "En solidaridad, los mohawks de Kahnawake bloquearon el puente Mercier, un eje vital hacia Montreal. Se llamó al ejército canadiense. El asedio duró 78 días, hasta el 26 de septiembre. Al final, la ampliación del golf se canceló y el gobierno compró las tierras.",
+            "ca": "En solidaritat, els mohawks de Kahnawake van bloquejar el pont Mercier, un eix vital cap a Montreal. Es va cridar l'exèrcit canadenc. El setge va durar 78 dies, fins al 26 de setembre. Al final, l'ampliació del golf es va cancel·lar i el govern va comprar les terres."
+          },
+          {
+            "fr": "La crise d'Oka a montré au monde la force des revendications autochtones. Mais à Kanesatake, la question des terres n'est toujours pas réglée.",
+            "es": "La crisis de Oka mostró al mundo la fuerza de las reivindicaciones indígenas. Pero en Kanesatake, la cuestión de las tierras sigue sin resolverse.",
+            "ca": "La crisi d'Oka va mostrar al món la força de les reivindicacions indígenes. Però a Kanesatake, la qüestió de les terres encara no està resolta."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "À l'été 1990, un événement a profondément marqué l'histoire du Canada : la crise d'Oka, que les Mohawks préfèrent appeler la résistance de Kanesatake. Pendant 78 jours, des Kanien'kehá:ka (Mohawks) ont fait face à la police du Québec, puis à l'armée canadienne. Ce fut le plus grand affrontement entre l'État et des Autochtones de l'histoire récente du pays.",
+            "es": "En el verano de 1990, un acontecimiento marcó profundamente la historia de Canadá: la crisis de Oka, que los mohawks prefieren llamar la resistencia de Kanesatake. Durante 78 días, unos Kanien'kehá:ka (mohawks) se enfrentaron a la policía de Quebec y luego al ejército canadiense. Fue el mayor enfrentamiento entre el Estado y los indígenas en la historia reciente del país.",
+            "ca": "L'estiu de 1990, un esdeveniment va marcar profundament la història del Canadà: la crisi d'Oka, que els mohawks prefereixen anomenar la resistència de Kanesatake. Durant 78 dies, uns Kanien'kehá:ka (mohawks) es van enfrontar a la policia del Quebec i després a l'exèrcit canadenc. Va ser el major enfrontament entre l'Estat i els indígenes en la història recent del país."
+          },
+          {
+            "h": {
+              "fr": "L'étincelle : les Pins",
+              "es": "La chispa: los Pinos",
+              "ca": "L'espurna: els Pins"
+            }
+          },
+          {
+            "fr": "Tout part de la petite ville d'Oka, près de Montréal. La municipalité veut agrandir un terrain de golf et construire des maisons sur « les Pins » — une pinède sacrée qui abrite un ancien cimetière mohawk, sur des terres que la communauté revendique depuis le XVIIᵉ siècle. Les Mohawks de Kanesatake dressent une barricade pour protéger le lieu. Le 11 juillet, la police provinciale tente de l'enlever par la force, à coups de gaz lacrymogène; dans l'échange de tirs, le caporal Marcel Lemay est tué.",
+            "es": "Todo parte de la pequeña ciudad de Oka, cerca de Montreal. El municipio quiere ampliar un campo de golf y construir casas sobre «los Pinos» —un pinar sagrado con un antiguo cementerio mohawk, en tierras que la comunidad reclama desde el siglo XVII. Los mohawks de Kanesatake levantan una barricada para proteger el lugar. El 11 de julio, la policía provincial intenta quitarla por la fuerza, con gases lacrimógenos; en el intercambio de disparos, el cabo Marcel Lemay muere.",
+            "ca": "Tot parteix de la petita ciutat d'Oka, a prop de Montreal. El municipi vol ampliar un camp de golf i construir cases sobre «els Pins» —una pineda sagrada amb un antic cementiri mohawk, en terres que la comunitat reclama des del segle XVII. Els mohawks de Kanesatake aixequen una barricada per protegir el lloc. L'11 de juliol, la policia provincial intenta treure-la per la força, amb gasos lacrimògens; en l'intercanvi de trets, el caporal Marcel Lemay mor."
+          },
+          {
+            "h": {
+              "fr": "78 jours de siège",
+              "es": "78 días de asedio",
+              "ca": "78 dies de setge"
+            }
+          },
+          {
+            "fr": "En solidarité, les Mohawks de Kahnawake bloquent le pont Mercier, l'un des grands axes vers Montréal — ce qui exaspère des milliers d'automobilistes et fait monter la tension. Le gouvernement appelle l'armée canadienne en renfort : des soldats, des blindés et des avions de reconnaissance encerclent la communauté. Le face-à-face dure jusqu'au 26 septembre. La porte-parole Ellen Gabriel devient une voix marquante de la résistance.",
+            "es": "En solidaridad, los mohawks de Kahnawake bloquean el puente Mercier, uno de los grandes ejes hacia Montreal —lo que exaspera a miles de automovilistas y aumenta la tensión. El gobierno llama al ejército canadiense: soldados, blindados y aviones de reconocimiento rodean la comunidad. El cara a cara dura hasta el 26 de septiembre. La portavoz Ellen Gabriel se convierte en una voz destacada de la resistencia.",
+            "ca": "En solidaritat, els mohawks de Kahnawake bloquegen el pont Mercier, un dels grans eixos cap a Montreal —cosa que exaspera milers d'automobilistes i fa pujar la tensió. El govern crida l'exèrcit canadenc: soldats, blindats i avions de reconeixement envolten la comunitat. El cara a cara dura fins al 26 de setembre. La portaveu Ellen Gabriel es converteix en una veu destacada de la resistència."
+          },
+          {
+            "h": {
+              "fr": "Ce qu'il en reste",
+              "es": "Lo que queda",
+              "ca": "El que en queda"
+            }
+          },
+          {
+            "fr": "Au bout du compte, l'agrandissement du golf est annulé et le gouvernement fédéral rachète les terres en jeu. Mais surtout, la crise a montré au monde entier la détermination des peuples autochtones à défendre leurs terres. Elle a mené à une grande commission royale sur les peuples autochtones et reste un symbole puissant. Pourtant, plus de trente ans plus tard, à Kanesatake, la question fondamentale des terres n'est toujours pas réglée.",
+            "es": "Al final, la ampliación del golf se cancela y el gobierno federal compra las tierras en juego. Pero sobre todo, la crisis mostró al mundo entero la determinación de los pueblos indígenas en defender sus tierras. Llevó a una gran comisión real sobre los pueblos indígenas y sigue siendo un símbolo poderoso. Sin embargo, más de treinta años después, en Kanesatake, la cuestión fundamental de las tierras sigue sin resolverse.",
+            "ca": "Al final, l'ampliació del golf es cancel·la i el govern federal compra les terres en joc. Però sobretot, la crisi va mostrar al món sencer la determinació dels pobles indígenes a defensar les seves terres. Va portar a una gran comissió reial sobre els pobles indígenes i continua sent un símbol poderós. Tanmateix, més de trenta anys després, a Kanesatake, la qüestió fonamental de les terres encara no està resolta."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une forêt",
+          "es": "un bosque",
+          "ca": "un bosc"
+        },
+        {
+          "mot": "sacré",
+          "es": "sagrado",
+          "ca": "sagrat"
+        },
+        {
+          "mot": "une barricade",
+          "es": "una barricada",
+          "ca": "una barricada"
+        },
+        {
+          "mot": "la police",
+          "es": "la policía",
+          "ca": "la policia"
+        },
+        {
+          "mot": "l'armée",
+          "es": "el ejército",
+          "ca": "l'exèrcit"
+        },
+        {
+          "mot": "une revendication",
+          "es": "una reivindicación",
+          "ca": "una reivindicació"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuántos días duró la crisis?",
+            "ca": "Quants dies va durar la crisi?"
+          },
+          "piste": {
+            "es": "78 días",
+            "ca": "78 dies"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué quería construir la ciudad de Oka?",
+            "ca": "Què volia construir la ciutat d'Oka?"
+          },
+          "piste": {
+            "es": "ampliar un campo de golf",
+            "ca": "ampliar un camp de golf"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Se resolvió la cuestión de las tierras?",
+            "ca": "Es va resoldre la qüestió de les terres?"
+          },
+          "piste": {
+            "es": "no, sigue abierta",
+            "ca": "no, continua oberta"
+          }
+        }
+      ],
+      "note": {
+        "es": "Los mohawks llaman a este episodio «la resistencia de Kanesatake».",
+        "ca": "Els mohawks anomenen aquest episodi «la resistència de Kanesatake»."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Crise d'Oka",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/oka-crisis"
+        },
+        {
+          "titre": "CBC — Oka crisis timeline",
+          "url": "https://www.cbc.ca/news/canada/montreal/oka-crisis-timeline-summer-1990-1.5631229"
+        }
+      ]
+    }
+  ]
+}

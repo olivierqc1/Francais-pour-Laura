@@ -1,0 +1,285 @@
+{
+  "textes": [
+    {
+      "id": "loi_indiens_3",
+      "emoji": "🏘️",
+      "theme": "Histoire",
+      "periode": "des années 1880 à aujourd'hui",
+      "titre": {
+        "es": "La Ley sobre los Indios (3/4): la vida en las reservas",
+        "ca": "La Llei sobre els Indis (3/4): la vida a les reserves"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+        "credit": {
+          "es": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, dominio público",
+          "ca": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, domini públic"
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "La Loi sur les Indiens a créé des « réserves » : de petits territoires où les Autochtones devaient vivre.",
+            "es": "La Ley sobre los Indios creó «reservas»: pequeños territorios donde los indígenas debían vivir.",
+            "ca": "La Llei sobre els Indis va crear «reserves»: petits territoris on els indígenes havien de viure."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, dominio público",
+                "ca": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, domini públic"
+              }
+            }
+          },
+          {
+            "fr": "Sur la réserve, les gens ne pouvaient presque rien posséder. La terre n'était pas à eux. Il fallait même un permis pour vendre leurs récoltes ou pour quitter la réserve.",
+            "es": "En la reserva, la gente casi no podía poseer nada. La tierra no era suya. Hacía falta incluso un permiso para vender sus cosechas o para salir de la reserva.",
+            "ca": "A la reserva, la gent gairebé no podia posseir res. La terra no era seva. Calia fins i tot un permís per vendre les collites o per sortir de la reserva."
+          },
+          {
+            "fr": "Le gouvernement contrôlait tout. C'était une vie très dure et très injuste.",
+            "es": "El gobierno lo controlaba todo. Era una vida muy dura y muy injusta.",
+            "ca": "El govern ho controlava tot. Era una vida molt dura i molt injusta."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La Loi sur les Indiens n'était pas qu'un texte : elle décidait de la vie quotidienne. Elle a enfermé les peuples autochtones dans des « réserves », de petits territoires sous le contrôle de l'État.",
+            "es": "La Ley sobre los Indios no era solo un texto: decidía la vida cotidiana. Encerró a los pueblos indígenas en «reservas», pequeños territorios bajo el control del Estado.",
+            "ca": "La Llei sobre els Indis no era només un text: decidia la vida quotidiana. Va tancar els pobles indígenes en «reserves», petits territoris sota el control de l'Estat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, dominio público",
+                "ca": "Reserva de Kahnawake (Caughnawaga), Quebec — BAnQ, domini públic"
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Ne rien posséder",
+              "es": "No poseer nada",
+              "ca": "No posseir res"
+            }
+          },
+          {
+            "fr": "Sur la réserve, la terre appartenait à la Couronne, pas aux familles. On ne pouvait donc ni la vendre, ni l'hypothéquer, ni vraiment la transmettre librement. Pire : un « système de permis » obligeait les agriculteurs autochtones à demander une autorisation pour vendre leur grain ou leur bétail — et même pour acheter de la nourriture.",
+            "es": "En la reserva, la tierra pertenecía a la Corona, no a las familias. No se podía venderla, hipotecarla ni transmitirla libremente. Peor aún: un «sistema de permisos» obligaba a los agricultores indígenas a pedir autorización para vender su grano o su ganado —e incluso para comprar comida.",
+            "ca": "A la reserva, la terra pertanyia a la Corona, no a les famílies. No es podia vendre, hipotecar ni transmetre lliurement. Pitjor encara: un «sistema de permisos» obligava els agricultors indígenes a demanar autorització per vendre el seu gra o el seu bestiar —i fins i tot per comprar menjar."
+          },
+          {
+            "h": {
+              "fr": "La réserve comme prison",
+              "es": "La reserva como prisión",
+              "ca": "La reserva com a presó"
+            }
+          },
+          {
+            "fr": "À partir de 1885, un « système de laissez-passer » a interdit aux gens de quitter leur réserve sans un papier signé par l'agent. Sur la prairie, le gouvernement a même utilisé la faim, en retenant la nourriture, pour forcer les nations à obéir. Tout cela a duré des décennies. Beaucoup de problèmes d'aujourd'hui viennent de là.",
+            "es": "A partir de 1885, un «sistema de salvoconductos» prohibió a la gente salir de su reserva sin un papel firmado por el agente. En la pradera, el gobierno usó incluso el hambre, reteniendo la comida, para forzar a las naciones a obedecer. Todo esto duró décadas. Muchos problemas de hoy vienen de ahí.",
+            "ca": "A partir de 1885, un «sistema de salconduits» va prohibir a la gent sortir de la seva reserva sense un paper signat per l'agent. A la praderia, el govern va usar fins i tot la fam, retenint el menjar, per forçar les nacions a obeir. Tot això va durar dècades. Molts problemes d'avui en vénen."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Pour bien comprendre la Loi sur les Indiens, il ne suffit pas de lire ses articles : il faut voir ce qu'elle changeait dans la vie de tous les jours. Car cette loi ne restait pas sur le papier — elle décidait où une personne pouvait dormir, ce qu'elle pouvait vendre, et même si elle avait le droit de sortir de chez elle. Cette troisième partie raconte la vie réelle dans les réserves.",
+            "es": "Para entender bien la Ley sobre los Indios no basta con leer sus artículos: hay que ver qué cambiaba en la vida diaria. Porque esta ley no se quedaba en el papel —decidía dónde podía dormir una persona, qué podía vender e incluso si tenía derecho a salir de su casa. Esta tercera parte cuenta la vida real en las reservas.",
+            "ca": "Per entendre bé la Llei sobre els Indis no n'hi ha prou de llegir-ne els articles: cal veure què canviava en la vida diària. Perquè aquesta llei no es quedava al paper —decidia on podia dormir una persona, què podia vendre i fins i tot si tenia dret a sortir de casa seva. Aquesta tercera part explica la vida real a les reserves."
+          },
+          {
+            "h": {
+              "fr": "Qu'est-ce qu'une réserve?",
+              "es": "¿Qué es una reserva?",
+              "ca": "Què és una reserva?"
+            }
+          },
+          {
+            "fr": "Une réserve est un petit territoire mis de côté par le gouvernement pour une communauté. Mais le piège est dans les détails : cette terre n'appartient pas aux gens qui y vivent. Elle appartient à la Couronne, c'est-à-dire à l'État, qui la « garde » pour eux comme on garderait le bien d'un mineur. Des nations qui avaient parcouru d'immenses territoires se sont ainsi retrouvées coincées sur quelques kilomètres carrés, sans pouvoir en sortir librement et sans en être vraiment propriétaires.",
+            "es": "Una reserva es un pequeño territorio apartado por el gobierno para una comunidad. Pero la trampa está en los detalles: esa tierra no pertenece a quienes viven en ella. Pertenece a la Corona, es decir al Estado, que la «guarda» para ellos como se guardaría el bien de un menor. Naciones que habían recorrido inmensos territorios quedaron así atrapadas en unos pocos kilómetros cuadrados, sin poder salir libremente y sin ser realmente propietarias.",
+            "ca": "Una reserva és un petit territori apartat pel govern per a una comunitat. Però el parany és en els detalls: aquesta terra no pertany als qui hi viuen. Pertany a la Corona, és a dir a l'Estat, que la «guarda» per a ells com es guardaria el bé d'un menor. Nacions que havien recorregut immensos territoris van quedar així atrapades en uns pocs quilòmetres quadrats, sense poder sortir lliurement i sense ser-ne realment propietàries."
+          },
+          {
+            "h": {
+              "fr": "Ne rien pouvoir posséder",
+              "es": "No poder poseer nada",
+              "ca": "No poder posseir res"
+            }
+          },
+          {
+            "fr": "C'est l'un des aspects les plus durs : sur une réserve, on ne pouvait pas vraiment posséder sa maison ni sa terre. Comme tout appartenait à la Couronne, on ne pouvait ni vendre son terrain, ni l'hypothéquer pour obtenir un prêt à la banque, ni le léguer librement à ses enfants. L'agent du gouvernement distribuait des « billets de location » et gardait un œil sur tout. Cette impossibilité de posséder un bien, de bâtir un patrimoine ou d'emprunter de l'argent a maintenu des communautés entières dans la pauvreté — et c'est encore vrai en partie aujourd'hui.",
+            "es": "Es uno de los aspectos más duros: en una reserva no se podía poseer realmente la casa ni la tierra. Como todo pertenecía a la Corona, no se podía vender el terreno, ni hipotecarlo para obtener un préstamo del banco, ni legarlo libremente a los hijos. El agente del gobierno repartía «billetes de ubicación» y vigilaba todo. Esa imposibilidad de poseer un bien, de construir un patrimonio o de pedir dinero prestado mantuvo a comunidades enteras en la pobreza —y en parte sigue siendo cierto hoy.",
+            "ca": "És un dels aspectes més durs: en una reserva no es podia posseir realment la casa ni la terra. Com que tot pertanyia a la Corona, no es podia vendre el terreny, ni hipotecar-lo per obtenir un préstec del banc, ni llegar-lo lliurement als fills. L'agent del govern repartia «bitllets d'ubicació» i vigilava tot. Aquesta impossibilitat de posseir un bé, de construir un patrimoni o de demanar diners prestats va mantenir comunitats senceres en la pobresa —i en part encara és cert avui."
+          },
+          {
+            "h": {
+              "fr": "Vendre sa récolte... avec une permission",
+              "es": "Vender la cosecha... con permiso",
+              "ca": "Vendre la collita... amb permís"
+            }
+          },
+          {
+            "fr": "Dès 1881, un « système de permis » vient encore resserrer l'étau. Un agriculteur autochtone qui voulait vendre son grain, son foin ou son bétail devait d'abord obtenir un permis de l'agent. Sans ce papier, la vente était illégale, et l'acheteur lui-même risquait une amende. Il fallait parfois un permis pour acheter des vêtements ou de la nourriture. Résultat : des familles travaillaient dur la terre, mais ne pouvaient même pas profiter librement du fruit de leur travail. Ce système absurde n'a été retiré de la loi qu'en 2014.",
+            "es": "Desde 1881, un «sistema de permisos» aprieta aún más el cerco. Un agricultor indígena que quería vender su grano, su heno o su ganado debía obtener primero un permiso del agente. Sin ese papel, la venta era ilegal, y el propio comprador se arriesgaba a una multa. A veces hacía falta un permiso para comprar ropa o comida. Resultado: familias trabajaban duro la tierra, pero no podían disfrutar libremente del fruto de su trabajo. Ese sistema absurdo no se retiró de la ley hasta 2014.",
+            "ca": "Des del 1881, un «sistema de permisos» estreny encara més el setge. Un agricultor indígena que volia vendre el seu gra, el seu fenc o el seu bestiar havia d'obtenir primer un permís de l'agent. Sense aquell paper, la venda era il·legal, i el mateix comprador s'arriscava a una multa. De vegades calia un permís per comprar roba o menjar. Resultat: famílies treballaven dur la terra, però no podien gaudir lliurement del fruit del seu treball. Aquest sistema absurd no es va retirar de la llei fins al 2014."
+          },
+          {
+            "h": {
+              "fr": "La réserve comme prison : le laissez-passer",
+              "es": "La reserva como prisión: el salvoconducto",
+              "ca": "La reserva com a presó: el salconduit"
+            }
+          },
+          {
+            "fr": "À partir de 1885, le « système de laissez-passer » transforme carrément les réserves en prisons à ciel ouvert. Pour en sortir — vendre au marché, visiter un parent, chercher du travail — il fallait un papier signé par l'agent, indiquant la durée du séjour, son motif, et même si la personne avait le droit de porter une arme. Pour l'obtenir, certains marchaient des jours jusqu'à la maison de l'agent, sans savoir s'il serait là. Un ancien combattant autochtone, révolté, racontera plus tard qu'on les traitait « comme des enfants » : il avait pourtant servi son pays à la guerre, mais n'avait pas le droit de circuler librement chez lui.",
+
+
+            "es": "A partir de 1885, el «sistema de salvoconductos» convierte sin más las reservas en prisiones a cielo abierto. Para salir —vender en el mercado, visitar a un familiar, buscar trabajo— hacía falta un papel firmado por el agente, que indicaba la duración de la salida, su motivo e incluso si la persona podía portar un arma. Para conseguirlo, algunos caminaban días hasta la casa del agente, sin saber si estaría. Un excombatiente indígena, indignado, contaría más tarde que los trataban «como a niños»: él había servido a su país en la guerra, pero no tenía derecho a circular libremente en su propia tierra.",
+            "ca": "A partir del 1885, el «sistema de salconduits» converteix sense més les reserves en presons a cel obert. Per sortir-ne —vendre al mercat, visitar un parent, buscar feina— calia un paper signat per l'agent, que indicava la durada de la sortida, el seu motiu i fins i tot si la persona podia portar una arma. Per obtenir-lo, alguns caminaven dies fins a la casa de l'agent, sense saber si hi seria. Un excombatent indígena, indignat, explicaria més tard que els tractaven «com a nens»: ell havia servit el seu país a la guerra, però no tenia dret a circular lliurement a la seva pròpia terra."
+          },
+          {
+            "h": {
+              "fr": "La faim comme arme",
+              "es": "El hambre como arma",
+              "ca": "La fam com a arma"
+            }
+          },
+          {
+            "fr": "Dans l'Ouest, le gouvernement est allé encore plus loin. Pour forcer les nations des plaines à accepter les traités et à rester sur les réserves, il a délibérément utilisé la faim. Alors que le bison, base de leur alimentation, disparaissait, l'État contrôlait la distribution des rations — et il retenait la nourriture pour punir, ou pour faire plier. L'historien James Daschuk a montré, dans son livre « Clearing the Plains », que de la nourriture pourrissait dans les entrepôts pendant que des gens mouraient de faim. Ce n'était pas une catastrophe naturelle : c'était une politique.",
+            "es": "En el Oeste, el gobierno fue aún más lejos. Para forzar a las naciones de las llanuras a aceptar los tratados y quedarse en las reservas, usó deliberadamente el hambre. Mientras el bisonte, base de su alimentación, desaparecía, el Estado controlaba el reparto de raciones —y retenía la comida para castigar o para doblegar. El historiador James Daschuk mostró, en su libro «Clearing the Plains», que comida se pudría en los almacenes mientras la gente moría de hambre. No era una catástrofe natural: era una política.",
+            "ca": "A l'Oest, el govern va anar encara més lluny. Per forçar les nacions de les planes a acceptar els tractats i quedar-se a les reserves, va usar deliberadament la fam. Mentre el bisó, base de la seva alimentació, desapareixia, l'Estat controlava el repartiment de racions —i retenia el menjar per castigar o per doblegar. L'historiador James Daschuk va mostrar, al seu llibre «Clearing the Plains», que menjar es podria als magatzems mentre la gent moria de fam. No era una catàstrofe natural: era una política."
+          },
+          {
+            "h": {
+              "fr": "Gardés dans l'ignorance",
+              "es": "Mantenidos en la ignorancia",
+              "ca": "Mantinguts en la ignorància"
+            }
+          },
+          {
+            "fr": "Pour que ce système tienne, il fallait que les gens connaissent mal leurs propres droits. Les agents gardaient donc le texte de la loi pour eux. On raconte qu'en 1935, un chef qui demandait une douzaine de copies de la Loi sur les Indiens n'en a reçu que deux, avec ce commentaire : il n'était « pas nécessaire » de la diffuser largement. Un rapport gouvernemental de 1876 disait déjà tout : les Autochtones devaient être gardés en tutelle et traités comme des « pupilles », c'est-à-dire comme des enfants de l'État.",
+            "es": "Para que ese sistema se sostuviera, hacía falta que la gente conociera mal sus propios derechos. Los agentes guardaban, pues, el texto de la ley para ellos. Se cuenta que en 1935 un jefe que pedía una docena de copias de la Ley sobre los Indios solo recibió dos, con este comentario: no era «necesario» difundirla ampliamente. Un informe del gobierno de 1876 ya lo decía todo: los indígenas debían mantenerse bajo tutela y ser tratados como «pupilos», es decir como niños del Estado.",
+            "ca": "Perquè aquell sistema se sostingués, calia que la gent conegués malament els seus propis drets. Els agents guardaven, doncs, el text de la llei per a ells. S'explica que el 1935 un cap que demanava una dotzena de còpies de la Llei sobre els Indis només en va rebre dues, amb aquest comentari: no era «necessari» difondre-la àmpliament. Un informe del govern de 1876 ja ho deia tot: els indígenes havien de mantenir-se sota tutela i ser tractats com a «pupils», és a dir com a nens de l'Estat."
+          },
+          {
+            "h": {
+              "fr": "Interdire de se défendre (1927)",
+              "es": "Prohibir defenderse (1927)",
+              "ca": "Prohibir defensar-se (1927)"
+            }
+          },
+          {
+            "fr": "Face à tant d'injustices, certaines nations ont voulu se défendre devant les tribunaux pour récupérer leurs terres. Le gouvernement a alors porté un coup terrible : en 1927, une modification de la loi a rendu illégal le fait de recueillir de l'argent ou d'engager un avocat pour défendre une revendication territoriale autochtone, sans sa permission. Autrement dit, on enlevait aux Premières Nations le droit même de se défendre. On appelle parfois cette période la « grande noirceur » juridique. Elle a duré jusqu'en 1951. Pendant près de 25 ans, des nations ont été dépossédées sans pouvoir réclamer justice. La loi interdisait aussi de former des organisations politiques — pour empêcher les communautés de s'unir et de résister.",
+            "es": "Ante tantas injusticias, algunas naciones quisieron defenderse ante los tribunales para recuperar sus tierras. El gobierno asestó entonces un golpe terrible: en 1927, una modificación de la ley volvió ilegal recaudar dinero o contratar a un abogado para defender una reivindicación territorial indígena, sin su permiso. Es decir, se quitaba a las Primeras Naciones el derecho mismo a defenderse. A veces se llama a este periodo la «gran oscuridad» jurídica. Duró hasta 1951. Durante casi 25 años, naciones fueron despojadas sin poder reclamar justicia. La ley también prohibía formar organizaciones políticas —para impedir que las comunidades se unieran y resistieran.",
+            "ca": "Davant tantes injustícies, algunes nacions van voler defensar-se davant els tribunals per recuperar les seves terres. El govern va assestar llavors un cop terrible: el 1927, una modificació de la llei va fer il·legal recaptar diners o contractar un advocat per defensar una reivindicació territorial indígena, sense el seu permís. És a dir, es treia a les Primeres Nacions el dret mateix de defensar-se. De vegades s'anomena aquest període la «gran foscor» jurídica. Va durar fins al 1951. Durant gairebé 25 anys, nacions van ser desposseïdes sense poder reclamar justícia. La llei també prohibia formar organitzacions polítiques —per impedir que les comunitats s'unissin i resistissin."
+          },
+          {
+            "h": {
+              "fr": "Remplacer les chefs traditionnels",
+              "es": "Reemplazar a los jefes tradicionales",
+              "ca": "Substituir els caps tradicionals"
+            }
+          },
+          {
+            "fr": "La loi s'est aussi attaquée à la façon dont les nations se gouvernaient. Beaucoup avaient depuis longtemps leurs propres systèmes : conseils d'aînés, chefs héréditaires, grandes confédérations comme celle des Haudenosaunee. L'État a imposé à la place un modèle unique : des « conseils de bande » avec des chefs élus selon ses règles, sous la surveillance de l'agent, qui pouvait même destituer un chef qui lui déplaisait. Dans certaines communautés, la police est venue chasser les chefs traditionnels pour installer ce nouveau système. C'était une autre manière de couper les peuples de leurs propres traditions et de les rendre dépendants d'Ottawa.",
+            "es": "La ley también atacó la forma en que las naciones se gobernaban. Muchas tenían desde hacía mucho sus propios sistemas: consejos de ancianos, jefes hereditarios, grandes confederaciones como la de los haudenosaunee. El Estado impuso en su lugar un modelo único: «consejos de banda» con jefes elegidos según sus reglas, bajo la vigilancia del agente, que podía incluso destituir a un jefe que le desagradara. En algunas comunidades, la policía fue a expulsar a los jefes tradicionales para instalar ese nuevo sistema. Era otra forma de cortar a los pueblos de sus propias tradiciones y de volverlos dependientes de Ottawa.",
+            "ca": "La llei també va atacar la manera com les nacions es governaven. Moltes tenien des de feia molt els seus propis sistemes: consells d'ancians, caps hereditaris, grans confederacions com la dels haudenosaunee. L'Estat va imposar al seu lloc un model únic: «consells de banda» amb caps elegits segons les seves regles, sota la vigilància de l'agent, que podia fins i tot destituir un cap que li desagradés. En algunes comunitats, la policia va anar a expulsar els caps tradicionals per instal·lar aquell nou sistema. Era una altra manera de tallar els pobles de les seves pròpies tradicions i de fer-los dependents d'Ottawa."
+          },
+          {
+            "fr": "Vue de l'extérieur, la réserve pouvait ressembler à un simple village. En réalité, c'était un lieu où l'on ne possédait rien, où l'on ne pouvait ni vendre librement, ni circuler, ni même toujours manger à sa faim — le tout décidé par un fonctionnaire lointain. Comprendre cette vie quotidienne, c'est comprendre pourquoi, aujourd'hui encore, tant de communautés se battent pour le logement, l'eau potable et le simple droit de décider par elles-mêmes.",
+            "es": "Vista desde fuera, la reserva podía parecer un simple pueblo. En realidad, era un lugar donde no se poseía nada, donde no se podía vender libremente, ni circular, ni siempre comer hasta saciarse —todo decidido por un funcionario lejano. Entender esa vida cotidiana es entender por qué, aún hoy, tantas comunidades luchan por la vivienda, el agua potable y el simple derecho a decidir por sí mismas.",
+            "ca": "Vista des de fora, la reserva podia semblar un simple poble. En realitat, era un lloc on no es posseïa res, on no es podia vendre lliurement, ni circular, ni sempre menjar fins a atipar-se —tot decidit per un funcionari llunyà. Entendre aquesta vida quotidiana és entendre per què, encara avui, tantes comunitats lluiten pel l'habitatge, l'aigua potable i el simple dret a decidir per elles mateixes."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une réserve",
+          "es": "una reserva",
+          "ca": "una reserva"
+        },
+        {
+          "mot": "posséder",
+          "es": "poseer",
+          "ca": "posseir"
+        },
+        {
+          "mot": "un permis",
+          "es": "un permiso",
+          "ca": "un permís"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        },
+        {
+          "mot": "la faim",
+          "es": "el hambre",
+          "ca": "la fam"
+        },
+        {
+          "mot": "vendre",
+          "es": "vender",
+          "ca": "vendre"
+        },
+        {
+          "mot": "un agriculteur",
+          "es": "un agricultor",
+          "ca": "un agricultor"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿A quién pertenecía la tierra de la reserva?",
+            "ca": "De qui era la terra de la reserva?"
+          },
+          "piste": {
+            "es": "a la Corona / al Estado",
+            "ca": "a la Corona / a l'Estat"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Para qué servía el «sistema de permisos»?",
+            "ca": "Per a què servia el «sistema de permisos»?"
+          },
+          "piste": {
+            "es": "vender la cosecha solo con autorización",
+            "ca": "vendre la collita només amb autorització"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué arma usó el gobierno en las llanuras?",
+            "ca": "Quina arma va usar el govern a les planes?"
+          },
+          "piste": {
+            "es": "el hambre (retener la comida)",
+            "ca": "la fam (retenir el menjar)"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Indigenous Corporate Training — Le système de laissez-passer",
+          "url": "https://www.ictinc.ca/blog/indian-act-and-the-pass-system"
+        },
+        {
+          "titre": "Indigenous Corporate Training — Le système de permis",
+          "url": "https://www.ictinc.ca/blog/indian-act-and-the-permit-system-"
+        },
+        {
+          "titre": "James Daschuk — « Clearing the Plains »",
+          "url": "https://en.wikipedia.org/wiki/Clearing_the_Plains"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "textes": [
+    {
+      "id": "langues_autochtones",
+      "emoji": "💬",
+      "theme": "Histoire",
+      "periode": "hier et aujourd'hui",
+      "titre": {
+        "es": "Las lenguas indígenas",
+        "ca": "Les llengües indígenes"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Au Québec, on parle plusieurs langues autochtones. Elles forment trois grandes familles.",
+            "es": "En Quebec se hablan varias lenguas indígenas. Forman tres grandes familias.",
+            "ca": "Al Quebec es parlen diverses llengües indígenes. Formen tres grans famílies."
+          },
+          {
+            "fr": "La langue la plus parlée est l'innu. Il y a aussi le cri, l'atikamekw, le mohawk et l'inuktitut.",
+            "es": "La lengua más hablada es el innu. También están el cree, el atikamekw, el mohawk y el inuktitut.",
+            "ca": "La llengua més parlada és l'innu. També hi ha el cree, l'atikamekw, el mohawk i l'inuktitut."
+          },
+          {
+            "fr": "Beaucoup de ces langues sont fragiles. Les communautés travaillent pour les garder vivantes. Une langue, c'est un trésor.",
+            "es": "Muchas de estas lenguas son frágiles. Las comunidades trabajan para mantenerlas vivas. Una lengua es un tesoro.",
+            "ca": "Moltes d'aquestes llengües són fràgils. Les comunitats treballen per mantenir-les vives. Una llengua és un tresor."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Avant la colonisation, on parlait des dizaines de langues sur le territoire du Québec. Aujourd'hui, il en reste plusieurs, regroupées en trois grandes familles. Chacune est un trésor.",
+            "es": "Antes de la colonización, se hablaban decenas de lenguas en el territorio de Quebec. Hoy quedan varias, agrupadas en tres grandes familias. Cada una es un tesoro.",
+            "ca": "Abans de la colonització, es parlaven desenes de llengües al territori del Quebec. Avui en queden diverses, agrupades en tres grans famílies. Cadascuna és un tresor."
+          },
+          {
+            "h": {
+              "fr": "Les trois familles",
+              "es": "Las tres familias",
+              "ca": "Les tres famílies"
+            }
+          },
+          {
+            "fr": "La famille algonquienne est la plus répandue : elle réunit l'innu (la plus parlée), le cri, l'atikamekw, l'algonquin et le mi'gmaq. La famille iroquoienne comprend le mohawk et le wendat. Enfin, les Inuit du Nunavik parlent l'inuktitut, d'une famille à part.",
+            "es": "La familia algonquina es la más extendida: reúne el innu (la más hablada), el cree, el atikamekw, el algonquino y el mi'gmaq. La familia iroquesa incluye el mohawk y el wendat. Por último, los inuit de Nunavik hablan inuktitut, de una familia aparte.",
+            "ca": "La família algonquina és la més estesa: reuneix l'innu (la més parlada), el cree, l'atikamekw, l'algonquí i el mi'gmaq. La família iroquesa inclou el mohawk i el wendat. Finalment, els inuit del Nunavik parlen inuktitut, d'una família a part."
+          },
+          {
+            "h": {
+              "fr": "Garder les langues vivantes",
+              "es": "Mantener vivas las lenguas",
+              "ca": "Mantenir vives les llengües"
+            }
+          },
+          {
+            "fr": "Beaucoup de ces langues sont fragiles, car les pensionnats ont longtemps interdit de les parler. Aujourd'hui, les communautés se battent : écoles, dictionnaires, applications, chansons. Le cri et l'inuktitut s'écrivent même avec un alphabet de symboles bien à eux.",
+            "es": "Muchas de estas lenguas son frágiles, porque los internados prohibieron mucho tiempo hablarlas. Hoy, las comunidades luchan: escuelas, diccionarios, aplicaciones, canciones. El cree y el inuktitut se escriben incluso con un alfabeto de símbolos propio.",
+            "ca": "Moltes d'aquestes llengües són fràgils, perquè els internats van prohibir molt de temps parlar-les. Avui, les comunitats lluiten: escoles, diccionaris, aplicacions, cançons. El cree i l'inuktitut s'escriuen fins i tot amb un alfabet de símbols propi."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Avant la colonisation, on parlait des dizaines de langues sur le territoire du Québec. Aujourd'hui, il en reste une dizaine, regroupées en trois grandes familles. Chacune est bien plus qu'un moyen de communiquer : c'est une façon unique de nommer le monde, de raconter et de penser.",
+            "es": "Antes de la colonización, se hablaban decenas de lenguas en el territorio de Quebec. Hoy queda una decena, agrupadas en tres grandes familias. Cada una es mucho más que un medio de comunicar: es una manera única de nombrar el mundo, de contar y de pensar.",
+            "ca": "Abans de la colonització, es parlaven desenes de llengües al territori del Quebec. Avui en queda una desena, agrupades en tres grans famílies. Cadascuna és molt més que un mitjà de comunicar: és una manera única d'anomenar el món, d'explicar i de pensar."
+          },
+          {
+            "h": {
+              "fr": "La famille algonquienne",
+              "es": "La familia algonquina",
+              "ca": "La família algonquina"
+            }
+          },
+          {
+            "fr": "C'est la plus répandue. Elle réunit l'innu-aimun (la langue des Innus, la plus parlée au Québec), le cri, l'atikamekw, l'algonquin (anicinapemowin), le mi'gmaq et l'abénaquis. Ce sont historiquement des langues de la forêt et du voyage, très riches pour décrire la nature, les saisons et les animaux.",
+            "es": "Es la más extendida. Reúne el innu-aimun (la lengua de los innus, la más hablada en Quebec), el cree, el atikamekw, el algonquino (anicinapemowin), el mi'gmaq y el abenaki. Son históricamente lenguas del bosque y del viaje, muy ricas para describir la naturaleza, las estaciones y los animales.",
+            "ca": "És la més estesa. Reuneix l'innu-aimun (la llengua dels innus, la més parlada al Quebec), el cree, l'atikamekw, l'algonquí (anicinapemowin), el mi'gmaq i l'abenaki. Són històricament llengües del bosc i del viatge, molt riques per descriure la natura, les estacions i els animals."
+          },
+          {
+            "h": {
+              "fr": "La famille iroquoienne",
+              "es": "La familia iroquesa",
+              "ca": "La família iroquesa"
+            }
+          },
+          {
+            "fr": "Elle comprend le mohawk (kanien'kéha) et le wendat. Longtemps, le wendat a cessé d'être parlé; un travail remarquable est en cours pour le faire renaître à Wendake, à partir d'anciens documents écrits par des missionnaires. C'étaient les langues des peuples agriculteurs qui vivaient dans les maisons longues.",
+            "es": "Incluye el mohawk (kanien'kéha) y el wendat. Durante mucho tiempo, el wendat dejó de hablarse; un trabajo notable está en marcha para hacerlo renacer en Wendake, a partir de antiguos documentos escritos por misioneros. Eran las lenguas de los pueblos agricultores que vivían en las casas largas.",
+            "ca": "Inclou el mohawk (kanien'kéha) i el wendat. Durant molt de temps, el wendat va deixar de parlar-se; una tasca notable està en marxa per fer-lo renéixer a Wendake, a partir d'antics documents escrits per missioners. Eren les llengües dels pobles agricultors que vivien a les cases llargues."
+          },
+          {
+            "h": {
+              "fr": "La famille inuite",
+              "es": "La familia inuit",
+              "ca": "La família inuit"
+            }
+          },
+          {
+            "fr": "Enfin, les Inuit du Nunavik parlent l'inuktitut, qui appartient à une famille tout à fait différente (eskimo-aléoute). C'est l'une des langues autochtones les plus vivantes du Canada, encore transmise aux enfants dès la naissance. Fait fascinant : le cri et l'inuktitut s'écrivent souvent avec un « syllabaire », un système où chaque symbole représente une syllabe — une écriture bien à eux, inventée au XIXᵉ siècle.",
+            "es": "Por último, los inuit de Nunavik hablan inuktitut, de una familia totalmente distinta (esquimo-aleutiana). Es una de las lenguas indígenas más vivas de Canadá, aún transmitida a los niños desde el nacimiento. Dato fascinante: el cree y el inuktitut se escriben a menudo con un «silabario», un sistema donde cada símbolo representa una sílaba —una escritura propia, inventada en el siglo XIX.",
+            "ca": "Finalment, els inuit del Nunavik parlen inuktitut, d'una família totalment diferent (esquimo-aleutiana). És una de les llengües indígenes més vives del Canadà, encara transmesa als infants des del naixement. Dada fascinant: el cree i l'inuktitut s'escriuen sovint amb un «sil·labari», un sistema on cada símbol representa una síl·laba —una escriptura pròpia, inventada al segle XIX."
+          },
+          {
+            "h": {
+              "fr": "Des langues à sauver",
+              "es": "Lenguas que salvar",
+              "ca": "Llengües per salvar"
+            }
+          },
+          {
+            "fr": "Beaucoup de ces langues restent fragiles. Des décennies de pensionnats, où parler sa langue était puni, ont brisé la transmission entre les générations. Aujourd'hui, les communautés se battent avec énergie : écoles d'immersion, dictionnaires, applications, musique, panneaux bilingues. Car perdre une langue, c'est perdre une mémoire et une vision du monde; la sauver, c'est un véritable acte de résistance et de fierté.",
+            "es": "Muchas de estas lenguas siguen frágiles. Décadas de internados, donde hablar la propia lengua se castigaba, rompieron la transmisión entre generaciones. Hoy, las comunidades luchan con energía: escuelas de inmersión, diccionarios, aplicaciones, música, carteles bilingües. Porque perder una lengua es perder una memoria y una visión del mundo; salvarla es un verdadero acto de resistencia y de orgullo.",
+            "ca": "Moltes d'aquestes llengües continuen fràgils. Dècades d'internats, on parlar la pròpia llengua es castigava, van trencar la transmissió entre generacions. Avui, les comunitats lluiten amb energia: escoles d'immersió, diccionaris, aplicacions, música, cartells bilingües. Perquè perdre una llengua és perdre una memòria i una visió del món; salvar-la és un veritable acte de resistència i d'orgull."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une langue",
+          "es": "una lengua",
+          "ca": "una llengua"
+        },
+        {
+          "mot": "une famille",
+          "es": "una familia",
+          "ca": "una família"
+        },
+        {
+          "mot": "parler",
+          "es": "hablar",
+          "ca": "parlar"
+        },
+        {
+          "mot": "l'écriture",
+          "es": "la escritura",
+          "ca": "l'escriptura"
+        },
+        {
+          "mot": "fragile",
+          "es": "frágil",
+          "ca": "fràgil"
+        },
+        {
+          "mot": "transmettre",
+          "es": "transmitir",
+          "ca": "transmetre"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuántas familias de lenguas hay?",
+            "ca": "Quantes famílies de llengües hi ha?"
+          },
+          "piste": {
+            "es": "tres",
+            "ca": "tres"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es un silabario?",
+            "ca": "Què és un sil·labari?"
+          },
+          "piste": {
+            "es": "escritura por sílabas (cree, inuktitut)",
+            "ca": "escriptura per síl·labes (cree, inuktitut)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué se debilitaron las lenguas?",
+            "ca": "Per què es van afeblir les llengües?"
+          },
+          "piste": {
+            "es": "por los internados",
+            "ca": "pels internats"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Gouvernement du Québec — Profil des nations",
+          "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Langues autochtones",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people-languages"
+        }
+      ]
+    }
+  ]
+}

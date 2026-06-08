@@ -9,6 +9,14 @@
         "es": "La Ley sobre los Indios (2/2): las mujeres",
         "ca": "La Llei sobre els Indis (2/2): les dones"
       },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png?width=700",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png",
+        "credit": {
+          "es": "Retrato de Mary Two-Axe Earley (ilustración) — Wikimedia Commons",
+          "ca": "Retrat de Mary Two-Axe Earley (il·lustració) — Wikimedia Commons"
+        }
+      },
       "niveaux": {
         "a1": [
           {
@@ -17,83 +25,146 @@
             "ca": "Aquí va la continuació: la Llei sobre els Indis i les dones."
           },
           {
-            "h": {
-              "fr": "Les femmes",
-              "es": "Las mujeres",
-              "ca": "Les dones"
+            "fr": "Une femme autochtone qui épousait un homme non autochtone perdait son statut, et ses enfants aussi. Un homme, lui, ne perdait rien. C'était très injuste.",
+            "es": "Una mujer indígena que se casaba con un hombre no indígena perdía su estatus, y sus hijos también. Un hombre no perdía nada. Era muy injusto.",
+            "ca": "Una dona indígena que es casava amb un home no indígena perdia el seu estatus, i els seus fills també. Un home no perdia res. Era molt injust."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png",
+              "credit": {
+                "es": "Retrato de Mary Two-Axe Earley (ilustración) — Wikimedia Commons",
+                "ca": "Retrat de Mary Two-Axe Earley (il·lustració) — Wikimedia Commons"
+              }
             }
           },
           {
-            "fr": "Une femme autochtone qui épousait un homme non autochtone perdait son statut. Des femmes ont lutté pendant des années. En 1985, la loi a enfin changé.",
-            "es": "Una mujer indígena que se casaba con un hombre no indígena perdía su estatus. Unas mujeres lucharon durante años. En 1985, la ley por fin cambió.",
-            "ca": "Una dona indígena que es casava amb un home no indígena perdia el seu estatus. Unes dones van lluitar durant anys. El 1985, la llei per fi va canviar."
+            "fr": "Des femmes ont lutté pendant des années. Grâce à Mary Two-Axe Earley et à d'autres, la loi a changé en 1985.",
+            "es": "Unas mujeres lucharon durante años. Gracias a Mary Two-Axe Earley y a otras, la ley cambió en 1985.",
+            "ca": "Unes dones van lluitar durant anys. Gràcies a Mary Two-Axe Earley i a altres, la llei va canviar el 1985."
           }
         ],
         "a2": [
           {
-            "fr": "Voici la suite de l'article. La Loi sur les Indiens a surtout été injuste envers les femmes.",
-            "es": "Aquí va la continuación del artículo. La Ley sobre los Indios fue sobre todo injusta con las mujeres.",
-            "ca": "Aquí va la continuació de l'article. La Llei sobre els Indis va ser sobretot injusta amb les dones."
+            "fr": "Voici la suite de l'article. La Loi sur les Indiens a été particulièrement injuste envers les femmes — mais ce sont des femmes qui ont fini par la faire changer.",
+            "es": "Aquí va la continuación del artículo. La Ley sobre los Indios fue especialmente injusta con las mujeres —pero fueron mujeres quienes acabaron por hacerla cambiar.",
+            "ca": "Aquí va la continuació de l'article. La Llei sobre els Indis va ser especialment injusta amb les dones —però van ser dones les qui van acabar fent-la canviar."
           },
           {
             "h": {
-              "fr": "La lutte des femmes",
-              "es": "La lucha de las mujeres",
-              "ca": "La lluita de les dones"
+              "fr": "Une règle injuste",
+              "es": "Una regla injusta",
+              "ca": "Una regla injusta"
             }
           },
           {
-            "fr": "La loi était surtout injuste envers les femmes : celle qui épousait un non-Autochtone perdait son statut, et ses enfants aussi. Des femmes comme Mary Two-Axe Earley et Sandra Lovelace ont lutté pendant des années, jusqu'aux tribunaux et même à l'ONU. Grâce à elles, la loi C-31 a rendu leur statut à des milliers de femmes en 1985.",
-            "es": "La ley era sobre todo injusta con las mujeres: la que se casaba con un no indígena perdía su estatus, y sus hijos también. Mujeres como Mary Two-Axe Earley y Sandra Lovelace lucharon durante años, hasta los tribunales e incluso la ONU. Gracias a ellas, la ley C-31 devolvió su estatus a miles de mujeres en 1985.",
-            "ca": "La llei era sobretot injusta amb les dones: la que es casava amb un no indígena perdia el seu estatus, i els seus fills també. Dones com Mary Two-Axe Earley i Sandra Lovelace van lluitar durant anys, fins als tribunals i fins i tot l'ONU. Gràcies a elles, la llei C-31 va tornar el seu estatus a milers de dones el 1985."
+            "fr": "Selon l'article 12(1)(b), une femme qui épousait un homme sans statut perdait le sien, et ne pouvait plus le transmettre à ses enfants. Un homme, lui, gardait toujours son statut et le donnait même à son épouse. Une femme pouvait ainsi perdre le droit de vivre, et même d'être enterrée, dans sa propre communauté.",
+            "es": "Según el artículo 12(1)(b), una mujer que se casaba con un hombre sin estatus perdía el suyo y ya no podía transmitirlo a sus hijos. Un hombre, en cambio, siempre conservaba su estatus e incluso se lo daba a su esposa. Una mujer podía así perder el derecho a vivir, e incluso a ser enterrada, en su propia comunidad.",
+            "ca": "Segons l'article 12(1)(b), una dona que es casava amb un home sense estatus perdia el seu i ja no el podia transmetre als fills. Un home, en canvi, sempre conservava el seu estatus i fins i tot el donava a la seva esposa. Una dona podia així perdre el dret a viure, i fins i tot a ser enterrada, a la seva pròpia comunitat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mary_Two-Axe_Early_by_Sandra_Mu.png",
+              "credit": {
+                "es": "Retrato de Mary Two-Axe Earley (ilustración) — Wikimedia Commons",
+                "ca": "Retrat de Mary Two-Axe Earley (il·lustració) — Wikimedia Commons"
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Des femmes courageuses",
+              "es": "Mujeres valientes",
+              "ca": "Dones valentes"
+            }
+          },
+          {
+            "fr": "Mary Two-Axe Earley, de Kahnawake, a fondé un mouvement pour les droits des femmes autochtones. Sandra Lovelace a porté sa cause jusqu'aux Nations Unies, qui ont donné raison aux femmes en 1981. Grâce à elles, la loi C-31 a rendu leur statut à des milliers de femmes en 1985.",
+            "es": "Mary Two-Axe Earley, de Kahnawake, fundó un movimiento por los derechos de las mujeres indígenas. Sandra Lovelace llevó su causa hasta las Naciones Unidas, que dieron la razón a las mujeres en 1981. Gracias a ellas, la ley C-31 devolvió su estatus a miles de mujeres en 1985.",
+            "ca": "Mary Two-Axe Earley, de Kahnawake, va fundar un moviment pels drets de les dones indígenes. Sandra Lovelace va portar la seva causa fins a les Nacions Unides, que van donar la raó a les dones el 1981. Gràcies a elles, la llei C-31 va tornar el seu estatus a milers de dones el 1985."
           }
         ],
         "b1": [
           {
-            "fr": "Cette deuxième partie revient sur l'aspect le plus injuste de la Loi sur les Indiens : la façon dont elle a traité les femmes — et celles qui ont fini par la faire changer.",
-            "es": "Esta segunda parte vuelve sobre el aspecto más injusto de la Ley sobre los Indios: cómo trató a las mujeres —y a quienes acabaron por hacerla cambiar.",
-            "ca": "Aquesta segona part torna sobre l'aspecte més injust de la Llei sobre els Indis: com va tractar les dones —i les qui van acabar fent-la canviar."
+            "fr": "Cette deuxième partie revient sur l'aspect le plus injuste de la Loi sur les Indiens : la façon dont elle a traité les femmes — et sur les femmes extraordinaires qui ont fini par la faire changer. C'est l'une des plus belles histoires de courage de l'histoire canadienne récente.",
+            "es": "Esta segunda parte vuelve sobre el aspecto más injusto de la Ley sobre los Indios: cómo trató a las mujeres —y sobre las mujeres extraordinarias que acabaron por hacerla cambiar. Es una de las más bellas historias de coraje de la historia canadiense reciente.",
+            "ca": "Aquesta segona part torna sobre l'aspecte més injust de la Llei sobre els Indis: com va tractar les dones —i sobre les dones extraordinàries que van acabar fent-la canviar. És una de les més belles històries de coratge de la història canadenca recent."
           },
           {
             "h": {
-              "fr": "La guerre faite aux femmes",
-              "es": "La guerra contra las mujeres",
-              "ca": "La guerra contra les dones"
+              "fr": "Une injustice gravée dans la loi",
+              "es": "Una injusticia grabada en la ley",
+              "ca": "Una injustícia gravada a la llei"
             }
           },
           {
-            "fr": "L'une des injustices les plus cruelles touchait les femmes. Selon l'article 12(1)(b), une femme autochtone qui épousait un homme sans statut perdait le sien — et ne pouvait plus le transmettre à ses enfants. Un homme, lui, ne perdait jamais son statut, et le donnait même à son épouse. Une mesure de 1951, la « clause de la double mère », a aggravé les choses. Dans des sociétés souvent matrilinéaires, où la lignée passait par les femmes, c'était une humiliation profonde : on pouvait perdre le droit de vivre, et même d'être enterrée, dans sa propre communauté.",
-            "es": "Una de las injusticias más crueles afectaba a las mujeres. Según el artículo 12(1)(b), una mujer indígena que se casaba con un hombre sin estatus perdía el suyo —y ya no podía transmitirlo a sus hijos. Un hombre, en cambio, nunca perdía su estatus, e incluso se lo daba a su esposa. Una medida de 1951, la «cláusula de la doble madre», agravó las cosas. En sociedades a menudo matrilineales, donde el linaje pasaba por las mujeres, era una humillación profunda: se podía perder el derecho a vivir, e incluso a ser enterrada, en la propia comunidad.",
-            "ca": "Una de les injustícies més cruels afectava les dones. Segons l'article 12(1)(b), una dona indígena que es casava amb un home sense estatus perdia el seu —i ja no el podia transmetre als fills. Un home, en canvi, mai no perdia el seu estatus, i fins i tot el donava a la seva esposa. Una mesura de 1951, la «clàusula de la doble mare», va agreujar les coses. En societats sovint matrilineals, on el llinatge passava per les dones, era una humiliació profunda: es podia perdre el dret a viure, i fins i tot a ser enterrada, a la pròpia comunitat."
+            "fr": "Au cœur de la loi se cachait l'article 12(1)(b). Selon cette règle, une femme autochtone qui épousait un homme « sans statut » perdait aussitôt le sien — et ne pouvait plus le transmettre à ses enfants. Pour un homme, c'était l'inverse exact : non seulement il gardait toujours son statut, mais il le donnait même à son épouse non autochtone. Une mesure de 1951, la « clause de la double mère », a enfoncé le clou en retirant leur statut à certains enfants à l'âge de 21 ans. Dans des sociétés souvent matrilinéaires, où la lignée et l'appartenance passaient par les femmes, c'était une violence profonde. Concrètement, une femme « mariée à l'extérieur » pouvait perdre le droit de vivre sur sa réserve, d'y posséder la maison familiale, d'y voter, et même d'y être enterrée auprès des siens. On raconte que c'est la mort d'une amie proche, privée de sépulture dans sa propre communauté, qui a définitivement convaincu Mary Two-Axe Earley de se battre.",
+            "es": "En el corazón de la ley se escondía el artículo 12(1)(b). Según esa regla, una mujer indígena que se casaba con un hombre «sin estatus» perdía de inmediato el suyo —y ya no podía transmitirlo a sus hijos. Para un hombre era justo lo contrario: no solo conservaba siempre su estatus, sino que incluso se lo daba a su esposa no indígena. Una medida de 1951, la «cláusula de la doble madre», agravó las cosas retirando el estatus a ciertos niños a los 21 años. En sociedades a menudo matrilineales, donde el linaje y la pertenencia pasaban por las mujeres, era una violencia profunda. En la práctica, una mujer «casada fuera» podía perder el derecho a vivir en su reserva, a poseer allí la casa familiar, a votar e incluso a ser enterrada junto a los suyos. Se cuenta que fue la muerte de una amiga cercana, privada de sepultura en su propia comunidad, lo que convenció definitivamente a Mary Two-Axe Earley de luchar.",
+            "ca": "Al cor de la llei s'amagava l'article 12(1)(b). Segons aquesta regla, una dona indígena que es casava amb un home «sense estatus» perdia de seguida el seu —i ja no el podia transmetre als fills. Per a un home era just el contrari: no només conservava sempre el seu estatus, sinó que fins i tot el donava a la seva esposa no indígena. Una mesura de 1951, la «clàusula de la doble mare», va agreujar les coses retirant l'estatus a certs nens als 21 anys. En societats sovint matrilineals, on el llinatge i la pertinença passaven per les dones, era una violència profunda. A la pràctica, una dona «casada fora» podia perdre el dret a viure a la seva reserva, a posseir-hi la casa familiar, a votar i fins i tot a ser enterrada al costat dels seus. S'explica que va ser la mort d'una amiga propera, privada de sepultura a la seva pròpia comunitat, el que va convèncer definitivament Mary Two-Axe Earley de lluitar."
           },
           {
             "h": {
-              "fr": "Des femmes qui ont tenu tête",
-              "es": "Mujeres que plantaron cara",
-              "ca": "Dones que van plantar cara"
+              "fr": "Mary Two-Axe Earley",
+              "es": "Mary Two-Axe Earley",
+              "ca": "Mary Two-Axe Earley"
             }
           },
           {
-            "fr": "Contre cette injustice, des femmes se sont battues pendant des années. Mary Two-Axe Earley, une Kanien'kehá:ka de Kahnawake, fonde dès 1967 le mouvement « Indian Rights for Indian Women ». En 1975, alors qu'elle est à une conférence à l'étranger, elle apprend que son propre conseil de bande veut l'expulser de sa maison; le scandale devient international. De son côté, Sandra Lovelace, une Malécite de Tobique, porte sa cause jusqu'aux Nations Unies, qui donnent raison aux femmes en 1981. Leur courage, avec celui de Jeannette Corbiere Lavell et Yvonne Bédard, finit par forcer le changement.",
-            "es": "Contra esta injusticia, unas mujeres lucharon durante años. Mary Two-Axe Earley, una Kanien'kehá:ka de Kahnawake, funda ya en 1967 el movimiento «Indian Rights for Indian Women». En 1975, estando en una conferencia en el extranjero, se entera de que su propio consejo de banda quiere expulsarla de su casa; el escándalo se vuelve internacional. Por su parte, Sandra Lovelace, una maliseet de Tobique, lleva su causa hasta las Naciones Unidas, que dan la razón a las mujeres en 1981. Su valentía, junto con la de Jeannette Corbiere Lavell e Yvonne Bédard, acaba forzando el cambio.",
-            "ca": "Contra aquesta injustícia, unes dones van lluitar durant anys. Mary Two-Axe Earley, una Kanien'kehá:ka de Kahnawake, funda ja el 1967 el moviment «Indian Rights for Indian Women». El 1975, estant en una conferència a l'estranger, s'assabenta que el seu propi consell de banda vol expulsar-la de casa seva; l'escàndol es torna internacional. Per la seva banda, Sandra Lovelace, una malecita de Tobique, porta la seva causa fins a les Nacions Unides, que donen la raó a les dones el 1981. La seva valentia, amb la de Jeannette Corbiere Lavell i Yvonne Bédard, acaba forçant el canvi."
-          },
-          {
-            "fr": "En 1985, le projet de loi C-31 a enfin rendu leur statut à des milliers de femmes et à leurs enfants. Mary Two-Axe Earley fut la toute première à le retrouver, lors d'une cérémonie symbolique — elle disait avoir enfin le droit de vivre et d'être enterrée parmi les siens. La victoire restait pourtant incomplète : C-31 a créé une « coupure à la deuxième génération » qui prive encore aujourd'hui certains petits-enfants de leur statut.",
-            "es": "En 1985, el proyecto de ley C-31 devolvió por fin su estatus a miles de mujeres y a sus hijos. Mary Two-Axe Earley fue la primera en recuperarlo, en una ceremonia simbólica —decía tener por fin el derecho a vivir y a ser enterrada entre los suyos. La victoria, sin embargo, quedó incompleta: C-31 creó un «corte de segunda generación» que aún hoy priva de su estatus a algunos nietos.",
-            "ca": "El 1985, el projecte de llei C-31 va tornar per fi el seu estatus a milers de dones i als seus fills. Mary Two-Axe Earley va ser la primera a recuperar-lo, en una cerimònia simbòlica —deia tenir per fi el dret a viure i a ser enterrada entre els seus. La victòria, però, va quedar incompleta: C-31 va crear un «tall de segona generació» que encara avui priva del seu estatus alguns néts."
+            "fr": "Née en 1911 à Kahnawake, sur la rive sud de Montréal, Mary Two-Axe Earley était kanien'kehá:ka (mohawk) et oneida. Jeune, elle part travailler à Brooklyn, où elle épouse en 1938 un ingénieur d'origine irlandaise, Edward Earley. Par ce mariage, elle perd son statut d'« Indienne » aux yeux de la loi canadienne. En 1967, elle fonde l'association « Equal Rights for Indian Women », qui deviendra « Indian Rights for Indian Women » et grandira jusqu'à devenir nationale. Aux côtés d'autres militantes comme Nellie Carlson, elle donne une voix aux milliers de femmes effacées par la loi. En 1975, alors qu'elle assiste à une conférence internationale à Mexico, elle apprend que son propre conseil de bande a entamé une procédure pour l'expulser de sa maison de Kahnawake. Plutôt que de se taire, elle raconte son histoire devant le monde entier; le scandale devient international, et l'ordre d'expulsion est finalement retiré. La cinéaste Alanis Obomsawin, son amie, a d'ailleurs enregistré de longues conversations avec elle.",
+            "es": "Nacida en 1911 en Kahnawake, en la orilla sur de Montreal, Mary Two-Axe Earley era kanien'kehá:ka (mohawk) y oneida. De joven se marcha a trabajar a Brooklyn, donde en 1938 se casa con un ingeniero de origen irlandés, Edward Earley. Por ese matrimonio pierde su estatus de «india» a ojos de la ley canadiense. En 1967 funda la asociación «Equal Rights for Indian Women», que se convertirá en «Indian Rights for Indian Women» y crecerá hasta ser nacional. Junto a otras activistas como Nellie Carlson, da voz a las miles de mujeres borradas por la ley. En 1975, mientras asiste a una conferencia internacional en México, se entera de que su propio consejo de banda ha iniciado un procedimiento para expulsarla de su casa de Kahnawake. En vez de callar, cuenta su historia ante el mundo entero; el escándalo se vuelve internacional y la orden de expulsión se retira finalmente. La cineasta Alanis Obomsawin, su amiga, grabó además largas conversaciones con ella.",
+            "ca": "Nascuda el 1911 a Kahnawake, a la riba sud de Montreal, Mary Two-Axe Earley era kanien'kehá:ka (mohawk) i oneida. De jove se'n va a treballar a Brooklyn, on el 1938 es casa amb un enginyer d'origen irlandès, Edward Earley. Per aquest matrimoni perd el seu estatus d'«índia» als ulls de la llei canadenca. El 1967 funda l'associació «Equal Rights for Indian Women», que es convertirà en «Indian Rights for Indian Women» i creixerà fins a ser nacional. Al costat d'altres activistes com Nellie Carlson, dóna veu als milers de dones esborrades per la llei. El 1975, mentre assisteix a una conferència internacional a Mèxic, s'assabenta que el seu propi consell de banda ha iniciat un procediment per expulsar-la de casa seva a Kahnawake. En lloc de callar, explica la seva història davant el món sencer; l'escàndol es torna internacional i l'ordre d'expulsió es retira finalment. La cineasta Alanis Obomsawin, la seva amiga, va enregistrar a més llargues converses amb ella."
+
+
           },
           {
             "h": {
-              "fr": "Et aujourd'hui?",
-              "es": "¿Y hoy?",
-              "ca": "I avui?"
+              "fr": "Devant les tribunaux et l'ONU",
+              "es": "Ante los tribunales y la ONU",
+              "ca": "Davant els tribunals i l'ONU"
             }
           },
           {
-            "fr": "La Loi sur les Indiens existe toujours, bien que modifiée. Beaucoup la jugent paternaliste et dépassée, mais s'en débarrasser est complexe : elle est aussi liée à des droits durement acquis. C'est pourquoi de nombreuses nations cherchent aujourd'hui à reprendre le contrôle de leur destin, par l'autonomie gouvernementale, hors de la tutelle de cette loi.",
-            "es": "La Ley sobre los Indios sigue existiendo, aunque modificada. Muchos la consideran paternalista y anticuada, pero deshacerse de ella es complejo: también está ligada a derechos duramente conseguidos. Por eso muchas naciones buscan hoy retomar el control de su destino, mediante el autogobierno, fuera de la tutela de esta ley.",
-            "ca": "La Llei sobre els Indis encara existeix, tot i que modificada. Molts la consideren paternalista i antiquada, però desfer-se'n és complex: també està lligada a drets durament aconseguits. Per això moltes nacions busquen avui reprendre el control del seu destí, mitjançant l'autogovern, fora de la tutela d'aquesta llei."
+            "fr": "Mary n'était pas seule. Dans les années 1970, Jeannette Corbiere Lavell et Yvonne Bédard portent la question jusqu'à la Cour suprême du Canada — et, en 1973, elles perdent : la Cour juge que la loi peut continuer de discriminer. Le combat se déplace alors sur la scène mondiale. Sandra Lovelace, une Malécite de la communauté de Tobique, au Nouveau-Brunswick, dépose une plainte devant le Comité des droits de l'homme des Nations Unies. En 1981, l'ONU lui donne raison : elle conclut que le Canada viole un traité international en privant ces femmes de leur culture. Pour un pays qui aimait se présenter comme un champion des droits de la personne, l'humiliation est immense — et la pression devient irrésistible.",
+            "es": "Mary no estaba sola. En los años 1970, Jeannette Corbiere Lavell e Yvonne Bédard llevan la cuestión hasta el Tribunal Supremo de Canadá —y, en 1973, pierden: el Tribunal dictamina que la ley puede seguir discriminando. La lucha se traslada entonces al escenario mundial. Sandra Lovelace, una maliseet de la comunidad de Tobique, en Nuevo Brunswick, presenta una denuncia ante el Comité de Derechos Humanos de las Naciones Unidas. En 1981, la ONU le da la razón: concluye que Canadá viola un tratado internacional al privar a esas mujeres de su cultura. Para un país que gustaba de presentarse como campeón de los derechos humanos, la humillación es inmensa —y la presión se vuelve irresistible.",
+            "ca": "Mary no estava sola. Als anys 1970, Jeannette Corbiere Lavell i Yvonne Bédard porten la qüestió fins al Tribunal Suprem del Canadà —i, el 1973, perden: el Tribunal dictamina que la llei pot continuar discriminant. La lluita es trasllada llavors a l'escenari mundial. Sandra Lovelace, una malecita de la comunitat de Tobique, a Nova Brunsvic, presenta una denúncia davant el Comitè de Drets Humans de les Nacions Unides. El 1981, l'ONU li dóna la raó: conclou que el Canadà viola un tractat internacional en privar aquelles dones de la seva cultura. Per a un país que li agradava presentar-se com a campió dels drets humans, la humiliació és immensa —i la pressió es torna irresistible."
+          },
+          {
+            "h": {
+              "fr": "Bill C-31 (1985)",
+              "es": "Bill C-31 (1985)",
+              "ca": "Bill C-31 (1985)"
+            }
+          },
+          {
+            "fr": "Le 17 avril 1985, la nouvelle Charte canadienne des droits et libertés interdit officiellement la discrimination fondée sur le sexe. La loi devient alors intenable. Le 28 juin 1985, le Parlement adopte le projet de loi C-31, qui rend leur statut à des milliers de femmes et à leurs enfants. Quelques jours plus tard, Mary Two-Axe Earley devient la toute première personne à le récupérer, lors d'une cérémonie symbolique : après tant d'années, dit-elle en substance, elle a enfin le droit de vivre et d'être enterrée parmi les siens. C-31 sépare aussi le « statut » de l'« appartenance à la bande », et permet à chaque nation de fixer ses propres règles d'appartenance — un premier pas vers l'autodétermination.",
+            "es": "El 17 de abril de 1985, la nueva Carta Canadiense de Derechos y Libertades prohíbe oficialmente la discriminación por sexo. La ley se vuelve entonces insostenible. El 28 de junio de 1985, el Parlamento aprueba el proyecto de ley C-31, que devuelve su estatus a miles de mujeres y a sus hijos. Pocos días después, Mary Two-Axe Earley se convierte en la primera persona en recuperarlo, en una ceremonia simbólica: tras tantos años, dice en esencia, tiene por fin el derecho a vivir y a ser enterrada entre los suyos. C-31 separa además el «estatus» de la «pertenencia a la banda», y permite a cada nación fijar sus propias reglas de pertenencia —un primer paso hacia la autodeterminación.",
+            "ca": "El 17 d'abril de 1985, la nova Carta Canadenca de Drets i Llibertats prohibeix oficialment la discriminació per sexe. La llei es torna llavors insostenible. El 28 de juny de 1985, el Parlament aprova el projecte de llei C-31, que torna el seu estatus a milers de dones i als seus fills. Pocs dies després, Mary Two-Axe Earley es converteix en la primera persona a recuperar-lo, en una cerimònia simbòlica: després de tants anys, diu en essència, té per fi el dret a viure i a ser enterrada entre els seus. C-31 separa a més l'«estatus» de la «pertinença a la banda», i permet a cada nació fixar les seves pròpies regles de pertinença —un primer pas cap a l'autodeterminació."
+          },
+          {
+            "h": {
+              "fr": "La logique froide derrière la règle",
+              "es": "La fría lógica tras la regla",
+              "ca": "La freda lògica rere la regla"
+            }
+          },
+          {
+            "fr": "Pourquoi une telle règle? Ce n'était pas un hasard. En faisant perdre leur statut aux femmes « mariées à l'extérieur » et à leurs enfants, l'État réduisait, génération après génération, le nombre d'« Indiens » qu'il devait reconnaître — et donc ses obligations et ses coûts. C'était, en quelque sorte, une assimilation par les chiffres : faire disparaître les peuples sur le papier, lentement, par le simple jeu des mariages. La règle imposait aussi un modèle européen et patriarcal à des nations qui fonctionnaient souvent autrement : chez les Haudenosaunee, par exemple, c'étaient les femmes qui transmettaient l'appartenance au clan et qui désignaient les chefs. En frappant les femmes, la loi ne brisait donc pas seulement des vies individuelles : elle visait le cœur même de l'organisation de ces sociétés.",
+            "es": "¿Por qué una regla así? No era casual. Al hacer perder el estatus a las mujeres «casadas fuera» y a sus hijos, el Estado reducía, generación tras generación, el número de «indios» que debía reconocer —y por tanto sus obligaciones y sus costes. Era, en cierto modo, una asimilación por las cifras: hacer desaparecer a los pueblos sobre el papel, lentamente, por el simple juego de los matrimonios. La regla imponía además un modelo europeo y patriarcal a naciones que a menudo funcionaban de otro modo: entre los haudenosaunee, por ejemplo, eran las mujeres quienes transmitían la pertenencia al clan y designaban a los jefes. Al golpear a las mujeres, la ley no rompía solo vidas individuales: apuntaba al corazón mismo de la organización de esas sociedades.",
+            "ca": "Per què una regla així? No era casual. En fer perdre l'estatus a les dones «casades fora» i als seus fills, l'Estat reduïa, generació rere generació, el nombre d'«indis» que havia de reconèixer —i per tant les seves obligacions i els seus costos. Era, en certa manera, una assimilació per les xifres: fer desaparèixer els pobles sobre el paper, lentament, pel simple joc dels matrimonis. La regla imposava a més un model europeu i patriarcal a nacions que sovint funcionaven d'una altra manera: entre els haudenosaunee, per exemple, eren les dones les qui transmetien la pertinença al clan i designaven els caps. En colpejar les dones, la llei no trencava només vides individuals: apuntava al cor mateix de l'organització d'aquestes societats."
+          },
+          {
+            "h": {
+              "fr": "Une victoire inachevée",
+              "es": "Una victoria inacabada",
+              "ca": "Una victòria inacabada"
+            }
+          },
+          {
+            "fr": "La bataille n'était pourtant pas tout à fait finie. En réparant une injustice, C-31 en a créé une autre, plus discrète : la « coupure de la deuxième génération ». Selon cette règle, les petits-enfants des femmes réintégrées peuvent, à leur tour, perdre leur statut. Il a fallu de nouvelles lois — en 2011, puis en 2017 — pour corriger une partie de ces inégalités, et certaines familles se battent encore aujourd'hui. Au fond, ces combats posent une question immense : qui devrait décider de l'appartenance à une nation? Pour beaucoup, la réponse est claire : pas une vieille loi coloniale, mais les nations autochtones elles-mêmes. L'histoire de Mary Two-Axe Earley rappelle qu'une seule personne déterminée peut, à force de courage, faire reculer un siècle d'injustice.",
+            "es": "La batalla, sin embargo, no había terminado del todo. Al reparar una injusticia, C-31 creó otra, más discreta: el «corte de la segunda generación». Según esa regla, los nietos de las mujeres reintegradas pueden, a su vez, perder su estatus. Hicieron falta nuevas leyes —en 2011 y luego en 2017— para corregir parte de esas desigualdades, y algunas familias siguen luchando hoy. En el fondo, estas luchas plantean una pregunta inmensa: ¿quién debería decidir la pertenencia a una nación? Para muchos, la respuesta es clara: no una vieja ley colonial, sino las propias naciones indígenas. La historia de Mary Two-Axe Earley recuerda que una sola persona decidida puede, a fuerza de coraje, hacer retroceder un siglo de injusticia.",
+            "ca": "La batalla, però, no havia acabat del tot. En reparar una injustícia, C-31 en va crear una altra, més discreta: el «tall de la segona generació». Segons aquesta regla, els néts de les dones reintegrades poden, al seu torn, perdre el seu estatus. Van caldre noves lleis —el 2011 i després el 2017— per corregir part d'aquestes desigualtats, i algunes famílies encara lluiten avui. Al capdavall, aquestes lluites plantegen una pregunta immensa: qui hauria de decidir la pertinença a una nació? Per a molts, la resposta és clara: no una vella llei colonial, sinó les pròpies nacions indígenes. La història de Mary Two-Axe Earley recorda que una sola persona decidida pot, a força de coratge, fer recular un segle d'injustícia."
           }
         ]
       },
@@ -127,6 +198,11 @@
           "mot": "rendre",
           "es": "devolver",
           "ca": "tornar"
+        },
+        {
+          "mot": "le courage",
+          "es": "el coraje",
+          "ca": "el coratge"
         }
       ],
       "questions": [
@@ -142,12 +218,22 @@
         },
         {
           "q": {
-            "es": "¿Quién fue Mary Two-Axe Earley?",
-            "ca": "Qui va ser Mary Two-Axe Earley?"
+            "es": "¿De qué comunidad era Mary Two-Axe Earley?",
+            "ca": "De quina comunitat era Mary Two-Axe Earley?"
           },
           "piste": {
-            "es": "activista por las mujeres",
-            "ca": "activista per les dones"
+            "es": "Kahnawake",
+            "ca": "Kahnawake"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Ante qué organismo internacional fue Sandra Lovelace?",
+            "ca": "Davant quin organisme internacional va anar Sandra Lovelace?"
+          },
+          "piste": {
+            "es": "la ONU",
+            "ca": "l'ONU"
           }
         },
         {
@@ -169,6 +255,10 @@
         {
           "titre": "L'Encyclopédie canadienne — Projet de loi C-31",
           "url": "https://www.thecanadianencyclopedia.ca/en/article/bill-c-31"
+        },
+        {
+          "titre": "Élections Canada — Participation autochtone",
+          "url": "https://www.elections.ca/content.aspx?section=res&dir=eim/issue9&document=p10&lang=f"
         }
       ]
     }

@@ -1,0 +1,319 @@
+{
+  "textes": [
+    {
+      "id": "nations_algonquiennes",
+      "emoji": "🪶",
+      "theme": "Histoire",
+      "periode": "hier et aujourd'hui",
+      "titre": {
+        "es": "Las naciones algonquinas",
+        "ca": "Les nacions algonquines"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Voici quelques nations de la grande famille algonquienne. Elles vivent surtout dans la forêt et près des rivières.",
+            "es": "Aquí van algunas naciones de la gran familia algonquina. Viven sobre todo en el bosque y cerca de los ríos.",
+            "ca": "Aquí van algunes nacions de la gran família algonquina. Viuen sobretot al bosc i a prop dels rius."
+          },
+          {
+            "h": {
+              "fr": "🪶 Les Innus",
+              "es": "🪶 Los innus",
+              "ca": "🪶 Els innus"
+            }
+          },
+          {
+            "fr": "Les Innus sont la nation la plus nombreuse. Ils vivent sur la Côte-Nord et au Lac-Saint-Jean.",
+            "es": "Los innus son la nación más numerosa. Viven en la Costa Norte y en el Lac-Saint-Jean.",
+            "ca": "Els innus són la nació més nombrosa. Viuen a la Costa Nord i al Lac-Saint-Jean."
+          },
+          {
+            "h": {
+              "fr": "🦫 Les Cris",
+              "es": "🦫 Los críes",
+              "ca": "🦫 Els cris"
+            }
+          },
+          {
+            "fr": "Les Cris vivent au nord, autour de la baie James. Leur territoire est immense.",
+            "es": "Los críes viven en el norte, alrededor de la bahía de James. Su territorio es inmenso.",
+            "ca": "Els cris viuen al nord, al voltant de la badia de James. El seu territori és immens."
+          },
+          {
+            "h": {
+              "fr": "🌲 Les Atikamekw",
+              "es": "🌲 Los atikamekw",
+              "ca": "🌲 Els atikamekw"
+            }
+          },
+          {
+            "fr": "Les Atikamekw vivent dans les forêts de la Haute-Mauricie. Leur langue est très vivante.",
+            "es": "Los atikamekw viven en los bosques de la Alta Mauricie. Su lengua está muy viva.",
+            "ca": "Els atikamekw viuen als boscos de l'Alta Maurície. La seva llengua és molt viva."
+          },
+          {
+            "h": {
+              "fr": "🌿 Les Algonquins (Anishinabeg)",
+              "es": "🌿 Los algonquinos (anishinabeg)",
+              "ca": "🌿 Els algonquins (anishinabeg)"
+            }
+          },
+          {
+            "fr": "Les Algonquins vivent à l'ouest, en Abitibi et en Outaouais.",
+            "es": "Los algonquinos viven al oeste, en Abitibi y Outaouais.",
+            "ca": "Els algonquins viuen a l'oest, a l'Abitibi i l'Outaouais."
+          },
+          {
+            "h": {
+              "fr": "🌊 Les Mi'gmaq",
+              "es": "🌊 Los mi'gmaq",
+              "ca": "🌊 Els mi'gmaq"
+            }
+          },
+          {
+            "fr": "Les Mi'gmaq vivent en Gaspésie, près de la mer.",
+            "es": "Los mi'gmaq viven en la Gaspesia, cerca del mar.",
+            "ca": "Els mi'gmaq viuen a la Gaspésie, a prop del mar."
+          },
+          {
+            "h": {
+              "fr": "🍂 Les Abénakis (W8banakiak)",
+              "es": "🍂 Los abenakis (W8banakiak)",
+              "ca": "🍂 Els abenakis (W8banakiak)"
+            }
+          },
+          {
+            "fr": "Les Abénakis vivent au Centre-du-Québec, à Odanak et Wôlinak.",
+            "es": "Los abenakis viven en el Centro de Quebec, en Odanak y Wôlinak.",
+            "ca": "Els abenakis viuen al Centre del Quebec, a Odanak i Wôlinak."
+          },
+          {
+            "h": {
+              "fr": "❄️ Les Naskapis",
+              "es": "❄️ Los naskapis",
+              "ca": "❄️ Els naskapis"
+            }
+          },
+          {
+            "fr": "Les Naskapis vivent tout au nord, près de Schefferville.",
+            "es": "Los naskapis viven en el extremo norte, cerca de Schefferville.",
+            "ca": "Els naskapis viuen a l'extrem nord, a prop de Schefferville."
+          },
+          {
+            "h": {
+              "fr": "🛶 Les Malécites (Wolastoqiyik)",
+              "es": "🛶 Los maliseet (Wolastoqiyik)",
+              "ca": "🛶 Els malecites (Wolastoqiyik)"
+            }
+          },
+          {
+            "fr": "Les Malécites sont une petite nation, près du fleuve Saint-Laurent.",
+            "es": "Los maliseet son una pequeña nación, cerca del río San Lorenzo.",
+            "ca": "Els malecites són una petita nació, a prop del riu Sant Llorenç."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La famille algonquienne est la plus grande au Québec. Voici quelques-unes de ses nations, avec leur territoire et leur langue.",
+            "es": "La familia algonquina es la mayor de Quebec. Aquí van algunas de sus naciones, con su territorio y su lengua.",
+            "ca": "La família algonquina és la més gran del Quebec. Aquí van algunes de les seves nacions, amb el seu territori i la seva llengua."
+          },
+          {
+            "h": {
+              "fr": "🪶 Les Innus",
+              "es": "🪶 Los innus",
+              "ca": "🪶 Els innus"
+            }
+          },
+          {
+            "fr": "Les Innus (autrefois appelés Montagnais) sont la nation la plus nombreuse du Québec. Ils vivent sur la Côte-Nord et au Lac-Saint-Jean, et parlent l'innu-aimun.",
+            "es": "Los innus (antes llamados montañeses) son la nación más numerosa de Quebec. Viven en la Costa Norte y el Lac-Saint-Jean, y hablan innu-aimun.",
+            "ca": "Els innus (abans anomenats montanyesos) són la nació més nombrosa del Quebec. Viuen a la Costa Nord i al Lac-Saint-Jean, i parlen innu-aimun."
+          },
+          {
+            "h": {
+              "fr": "🦫 Les Cris",
+              "es": "🦫 Los críes",
+              "ca": "🦫 Els cris"
+            }
+          },
+          {
+            "fr": "Les Cris (Eeyou) habitent un immense territoire autour de la baie James, qu'on appelle Eeyou Istchee. Ils ont signé en 1975 une grande entente avec le Québec.",
+            "es": "Los críes (Eeyou) habitan un inmenso territorio alrededor de la bahía de James, llamado Eeyou Istchee. En 1975 firmaron un gran acuerdo con Quebec.",
+            "ca": "Els cris (Eeyou) habiten un immens territori al voltant de la badia de James, anomenat Eeyou Istchee. El 1975 van signar un gran acord amb el Quebec."
+          },
+          {
+            "h": {
+              "fr": "🌲 Les Atikamekw",
+              "es": "🌲 Los atikamekw",
+              "ca": "🌲 Els atikamekw"
+            }
+          },
+          {
+            "fr": "Les Atikamekw (qui se nomment Nehirowisiw) vivent dans les forêts de la Haute-Mauricie, au cœur du Québec. Leur langue est l'une des mieux conservées du pays.",
+            "es": "Los atikamekw (que se llaman Nehirowisiw) viven en los bosques de la Alta Mauricie, en el corazón de Quebec. Su lengua es una de las mejor conservadas del país.",
+            "ca": "Els atikamekw (que s'anomenen Nehirowisiw) viuen als boscos de l'Alta Maurície, al cor del Quebec. La seva llengua és una de les més ben conservades del país."
+          },
+          {
+            "h": {
+              "fr": "🌿 Les Algonquins (Anishinabeg)",
+              "es": "🌿 Los algonquinos (anishinabeg)",
+              "ca": "🌿 Els algonquins (anishinabeg)"
+            }
+          },
+          {
+            "fr": "Les Algonquins (Anishinabeg) vivent à l'ouest du Québec, en Abitibi-Témiscamingue et en Outaouais. Ils parlent l'anicinapemowin et ont des communautés comme Kitigan Zibi.",
+            "es": "Los algonquinos (anishinabeg) viven al oeste de Quebec, en Abitibi-Témiscamingue y Outaouais. Hablan anicinapemowin y tienen comunidades como Kitigan Zibi.",
+            "ca": "Els algonquins (anishinabeg) viuen a l'oest del Quebec, a l'Abitibi-Témiscamingue i l'Outaouais. Parlen anicinapemowin i tenen comunitats com Kitigan Zibi."
+          },
+          {
+            "h": {
+              "fr": "🌊 Les Mi'gmaq",
+              "es": "🌊 Los mi'gmaq",
+              "ca": "🌊 Els mi'gmaq"
+            }
+          },
+          {
+            "fr": "Les Mi'gmaq vivent en Gaspésie, au bord de la mer. Peuple de pêcheurs et de navigateurs, ils ont des communautés comme Listuguj et Gesgapegiag.",
+            "es": "Los mi'gmaq viven en la Gaspesia, junto al mar. Pueblo de pescadores y navegantes, tienen comunidades como Listuguj y Gesgapegiag.",
+            "ca": "Els mi'gmaq viuen a la Gaspésie, vora el mar. Poble de pescadors i navegants, tenen comunitats com Listuguj i Gesgapegiag."
+          },
+          {
+            "h": {
+              "fr": "🍂 Les Abénakis (W8banakiak)",
+              "es": "🍂 Los abenakis (W8banakiak)",
+              "ca": "🍂 Els abenakis (W8banakiak)"
+            }
+          },
+          {
+            "fr": "Les Abénakis (W8banakiak) vivent au Centre-du-Québec, dans les communautés d'Odanak et de Wôlinak. La grande cinéaste Alanis Obomsawin appartient à cette nation.",
+            "es": "Los abenakis (W8banakiak) viven en el Centro de Quebec, en las comunidades de Odanak y Wôlinak. La gran cineasta Alanis Obomsawin pertenece a esta nación.",
+            "ca": "Els abenakis (W8banakiak) viuen al Centre del Quebec, a les comunitats d'Odanak i Wôlinak. La gran cineasta Alanis Obomsawin pertany a aquesta nació."
+          },
+          {
+            "h": {
+              "fr": "❄️ Les Naskapis",
+              "es": "❄️ Los naskapis",
+              "ca": "❄️ Els naskapis"
+            }
+          },
+          {
+            "fr": "Les Naskapis vivent tout au nord, à Kawawachikamach, près de Schefferville. Proches des Innus et des Cris, ils étaient le peuple du caribou.",
+            "es": "Los naskapis viven en el extremo norte, en Kawawachikamach, cerca de Schefferville. Cercanos a los innus y los críes, eran el pueblo del caribú.",
+            "ca": "Els naskapis viuen a l'extrem nord, a Kawawachikamach, a prop de Schefferville. Pròxims als innus i als cris, eren el poble del caribú."
+          },
+          {
+            "h": {
+              "fr": "🛶 Les Malécites (Wolastoqiyik)",
+              "es": "🛶 Los maliseet (Wolastoqiyik)",
+              "ca": "🛶 Els malecites (Wolastoqiyik)"
+            }
+          },
+          {
+            "fr": "Les Malécites (Wolastoqiyik) sont une petite nation établie près du fleuve Saint-Laurent, dans le Bas-Saint-Laurent. Leur nom signifie « peuple de la belle rivière ».",
+            "es": "Los maliseet (Wolastoqiyik) son una pequeña nación establecida cerca del río San Lorenzo, en el Bas-Saint-Laurent. Su nombre significa «pueblo del hermoso río».",
+            "ca": "Els malecites (Wolastoqiyik) són una petita nació establerta a prop del riu Sant Llorenç, al Bas-Saint-Laurent. El seu nom significa «poble del bell riu»."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Les nations de langue algonquienne sont les plus nombreuses au Québec. Historiquement nomades ou semi-nomades, elles vivaient de la chasse, de la pêche et du voyage. En voici les principales, chacune avec son territoire, sa langue et son visage.",
+            "es": "Las naciones de lengua algonquina son las más numerosas de Quebec. Históricamente nómadas o seminómadas, vivían de la caza, la pesca y el viaje. Aquí van las principales, cada una con su territorio, su lengua y su rostro.",
+            "ca": "Les nacions de llengua algonquina són les més nombroses del Quebec. Històricament nòmades o seminòmades, vivien de la caça, la pesca i el viatge. Aquí van les principals, cadascuna amb el seu territori, la seva llengua i el seu rostre."
+          },
+          {
+            "h": {
+              "fr": "🪶 Les Innus",
+              "es": "🪶 Los innus",
+              "ca": "🪶 Els innus"
+            }
+          },
+          {
+            "fr": "Les Innus (jadis appelés Montagnais) forment la nation la plus nombreuse du Québec. Installés sur la Côte-Nord et au Lac-Saint-Jean, ils parlent l'innu-aimun, une langue bien vivante. C'est de chez eux que viennent le groupe Kashtin et la poète Joséphine Bacon.",
+            "es": "Los innus (antes llamados montañeses) forman la nación más numerosa de Quebec. Instalados en la Costa Norte y el Lac-Saint-Jean, hablan innu-aimun, una lengua muy viva. De allí vienen el grupo Kashtin y la poeta Joséphine Bacon.",
+            "ca": "Els innus (abans anomenats montanyesos) formen la nació més nombrosa del Quebec. Instal·lats a la Costa Nord i al Lac-Saint-Jean, parlen innu-aimun, una llengua ben viva. D'allà vénen el grup Kashtin i la poeta Joséphine Bacon."
+          },
+          {
+            "h": {
+              "fr": "🦫 Les Cris",
+              "es": "🦫 Los críes",
+              "ca": "🦫 Els cris"
+            }
+          },
+          {
+            "fr": "Les Cris (Eeyou ou Eenou) occupent un territoire immense autour de la baie James : Eeyou Istchee. En 1975, la Convention de la Baie-James leur a donné une autonomie et des pouvoirs rares au pays. C'est aujourd'hui l'une des nations les mieux organisées politiquement.",
+            "es": "Los críes (Eeyou o Eenou) ocupan un territorio inmenso alrededor de la bahía de James: Eeyou Istchee. En 1975, el Convenio de la Bahía de James les dio una autonomía y unos poderes poco comunes en el país. Hoy es una de las naciones mejor organizadas políticamente.",
+            "ca": "Els cris (Eeyou o Eenou) ocupen un territori immens al voltant de la badia de James: Eeyou Istchee. El 1975, el Conveni de la Badia de James els va donar una autonomia i uns poders poc comuns al país. Avui és una de les nacions més ben organitzades políticament."
+          },
+          {
+            "h": {
+              "fr": "🌲 Les Atikamekw",
+              "es": "🌲 Los atikamekw",
+              "ca": "🌲 Els atikamekw"
+            }
+          },
+          {
+            "fr": "Les Atikamekw — qui se nomment eux-mêmes Nehirowisiw — vivent dans les forêts et le long des rivières de la Haute-Mauricie. Peuple du canot d'écorce et de la chasse, ils ont gardé une langue particulièrement vivante, transmise à presque tous les enfants. La chanteuse Laura Niquay en est issue.",
+            "es": "Los atikamekw —que se llaman a sí mismos Nehirowisiw— viven en los bosques y a lo largo de los ríos de la Alta Mauricie. Pueblo de la canoa de corteza y de la caza, han conservado una lengua especialmente viva, transmitida a casi todos los niños. La cantante Laura Niquay es de allí.",
+            "ca": "Els atikamekw —que s'anomenen a si mateixos Nehirowisiw— viuen als boscos i al llarg dels rius de l'Alta Maurície. Poble de la canoa d'escorça i de la caça, han conservat una llengua especialment viva, transmesa a gairebé tots els infants. La cantant Laura Niquay és d'allà."
+          },
+          {
+            "h": {
+              "fr": "🌿 Les Algonquins (Anishinabeg)",
+              "es": "🌿 Los algonquinos (anishinabeg)",
+              "ca": "🌿 Els algonquins (anishinabeg)"
+            }
+          },
+          {
+            "fr": "Les Algonquins, qui se nomment Anishinabeg, vivent à l'ouest du Québec, en Abitibi-Témiscamingue et en Outaouais, ainsi que du côté ontarien de la rivière des Outaouais. Ils parlent l'anicinapemowin. Leur territoire, riche en forêts et en rivières, est aussi celui dont une grande partie n'a jamais été cédée.",
+            "es": "Los algonquinos, que se llaman Anishinabeg, viven al oeste de Quebec, en Abitibi-Témiscamingue y Outaouais, y también en el lado ontariano del río Outaouais. Hablan anicinapemowin. Su territorio, rico en bosques y ríos, es también uno de los que en gran parte nunca fue cedido.",
+            "ca": "Els algonquins, que s'anomenen Anishinabeg, viuen a l'oest del Quebec, a l'Abitibi-Témiscamingue i l'Outaouais, i també al costat ontarià del riu Outaouais. Parlen anicinapemowin. El seu territori, ric en boscos i rius, és també un dels que en gran part mai no va ser cedit."
+          },
+          {
+            "h": {
+              "fr": "🌊 Les Mi'gmaq",
+              "es": "🌊 Los mi'gmaq",
+              "ca": "🌊 Els mi'gmaq"
+            }
+          },
+          {
+            "fr": "Les Mi'gmaq vivent en Gaspésie, tournés vers la mer. Grands pêcheurs et navigateurs, ils faisaient partie d'une vaste confédération qui s'étendait jusqu'aux Maritimes. Leurs communautés québécoises, comme Listuguj et Gesgapegiag, défendent encore aujourd'hui leurs droits de pêche.",
+            "es": "Los mi'gmaq viven en la Gaspesia, vueltos hacia el mar. Grandes pescadores y navegantes, formaban parte de una vasta confederación que llegaba hasta las Marítimas. Sus comunidades quebequesas, como Listuguj y Gesgapegiag, aún defienden hoy sus derechos de pesca.",
+            "ca": "Els mi'gmaq viuen a la Gaspésie, girats cap al mar. Grans pescadors i navegants, formaven part d'una vasta confederació que arribava fins a les Marítimes. Les seves comunitats quebequeses, com Listuguj i Gesgapegiag, encara defensen avui els seus drets de pesca."
+          },
+          {
+            "h": {
+              "fr": "🍂 Les Abénakis (W8banakiak)",
+              "es": "🍂 Los abenakis (W8banakiak)",
+              "ca": "🍂 Els abenakis (W8banakiak)"
+            }
+          },
+          {
+            "fr": "Les Abénakis, qui se nomment W8banakiak (« peuple de l'aube »), vivent au Centre-du-Québec, dans les communautés d'Odanak et de Wôlinak. Réputés pour leur vannerie et leur art, ils travaillent à faire revivre leur langue. C'est la nation de la grande cinéaste Alanis Obomsawin.",
+            "es": "Los abenakis, que se llaman W8banakiak («pueblo del alba»), viven en el Centro de Quebec, en las comunidades de Odanak y Wôlinak. Famosos por su cestería y su arte, trabajan por revivir su lengua. Es la nación de la gran cineasta Alanis Obomsawin.",
+            "ca": "Els abenakis, que s'anomenen W8banakiak («poble de l'alba»), viuen al Centre del Quebec, a les comunitats d'Odanak i Wôlinak. Famosos per la seva cistelleria i el seu art, treballen per fer reviure la seva llengua. És la nació de la gran cineasta Alanis Obomsawin."
+          },
+          {
+            "h": {
+              "fr": "❄️ Les Naskapis",
+              "es": "❄️ Los naskapis",
+              "ca": "❄️ Els naskapis"
+            }
+          },
+          {
+            "fr": "Les Naskapis forment une petite nation du Grand Nord, installée à Kawawachikamach, près de Schefferville. Très proches des Innus et des Cris par la langue, ils étaient avant tout un peuple du caribou, suivant les grands troupeaux à travers la toundra.",
+            "es": "Los naskapis forman una pequeña nación del Gran Norte, instalada en Kawawachikamach, cerca de Schefferville. Muy cercanos a los innus y los críes por la lengua, eran ante todo un pueblo del caribú, que seguía a las grandes manadas por la tundra.",
+            "ca": "Els naskapis formen una petita nació del Gran Nord, instal·lada a Kawawachikamach, a prop de Schefferville. Molt pròxims als innus i als cris per la llengua, eren sobretot un poble del caribú, que seguia els grans ramats per la tundra."
+          },
+          {
+            "h": {
+              "fr": "🛶 Les Malécites (Wolastoqiyik)",
+              "es": "🛶 Los maliseet (Wolastoqiyik)",
+              "ca": "🛶 Els malecites (Wolastoqiyik)"
+            }
+          },
+          {
+            "fr": "Les Malécites, qui se nomment Wolastoqiyik (« peuple de la belle rivière »), sont l'une des plus petites nations du Québec. Sans grande réserve, ils sont longtemps restés discrets, mais travaillent aujourd'hui à raviver leur présence, leur culture et leur langue le long du fleuve Saint-Laurent.",
+            "es": "Los maliseet, que se llaman Wolastoqiyik («pueblo del hermoso río»), son una de las naciones más pequeñas de Quebec. Sin gran reserva, permanecieron mucho tiempo discretos, pero hoy trabajan por reavivar su presencia, su cultura y su lengua a lo largo del río San Lorenzo.",
+            "

@@ -1,0 +1,364 @@
+{
+  "textes": [
+    {
+      "id": "loi_indiens_4",
+      "emoji": "🕰️",
+      "theme": "Histoire",
+      "periode": "1876 – aujourd'hui",
+      "titre": {
+        "es": "La Ley sobre los Indios (4/4): a través del tiempo",
+        "ca": "La Llei sobre els Indis (4/4): a través del temps"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg",
+        "credit": {
+          "es": "Jefes de las Primeras Naciones y un agente del gobierno, Oeste de Canadá — Biblioteca y Archivos Canadá",
+          "ca": "Caps de les Primeres Nacions i un agent del govern, Oest del Canadà — Biblioteca i Arxius Canadà"
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "La Loi sur les Indiens a beaucoup changé depuis 1876. Voici les grandes dates.",
+            "es": "La Ley sobre los Indios cambió mucho desde 1876. Estas son las grandes fechas.",
+            "ca": "La Llei sobre els Indis va canviar molt des de 1876. Aquestes són les grans dates."
+          },
+          {
+            "fr": "1876 — Naissance de la Loi sur les Indiens : Ottawa réunit tous ses pouvoirs sur les Autochtones.",
+            "es": "1876 — Nace la Ley sobre los Indios: Ottawa reúne todos sus poderes sobre los indígenas.",
+            "ca": "1876 — Neix la Llei sobre els Indis: Ottawa reuneix tots els seus poders sobre els indígenes."
+          },
+          {
+            "fr": "1884 — Le potlatch et d'autres cérémonies sont interdits.",
+            "es": "1884 — Se prohíben el potlatch y otras ceremonias.",
+            "ca": "1884 — Es prohibeixen el potlatch i altres cerimònies."
+          },
+          {
+            "fr": "1885 — Système de laissez-passer : interdiction de quitter la réserve sans un papier de l'agent.",
+            "es": "1885 — Sistema de salvoconductos: prohibido salir de la reserva sin un papel del agente.",
+            "ca": "1885 — Sistema de salconduits: prohibit sortir de la reserva sense un paper de l'agent."
+          },
+          {
+            "fr": "1960 — Les Premières Nations obtiennent le droit de vote fédéral sans perdre leur statut.",
+            "es": "1960 — Las Primeras Naciones obtienen el derecho de voto federal sin perder su estatus.",
+            "ca": "1960 — Les Primeres Nacions obtenen el dret de vot federal sense perdre el seu estatus."
+          },
+          {
+            "fr": "1985 — Le projet de loi C-31 rend leur statut aux femmes qui l'avaient perdu.",
+            "es": "1985 — El proyecto de ley C-31 devuelve su estatus a las mujeres que lo habían perdido.",
+            "ca": "1985 — El projecte de llei C-31 torna l'estatus a les dones que l'havien perdut."
+          },
+          {
+            "fr": "D'abord, la loi est devenue de plus en plus dure. Puis, peu à peu, on a enlevé les pires règles. Mais la loi existe encore aujourd'hui.",
+            "es": "Primero la ley se volvió cada vez más dura. Luego, poco a poco, se quitaron las peores reglas. Pero la ley todavía existe hoy.",
+            "ca": "Primer la llei es va tornar cada cop més dura. Després, a poc a poc, es van treure les pitjors regles. Però la llei encara existeix avui."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La Loi sur les Indiens n'a jamais cessé de changer. Pendant longtemps, chaque modification la rendait plus dure; puis, lentement, on a commencé à retirer les pires règles. Voici une ligne du temps.",
+            "es": "La Ley sobre los Indios nunca dejó de cambiar. Durante mucho tiempo, cada modificación la volvía más dura; luego, lentamente, se empezaron a quitar las peores reglas. Esta es una línea del tiempo.",
+            "ca": "La Llei sobre els Indis mai no va deixar de canviar. Durant molt de temps, cada modificació la tornava més dura; després, lentament, es van començar a treure les pitjors regles. Aquesta és una línia del temps."
+          },
+          {
+            "fr": "1876 — Naissance de la Loi sur les Indiens : Ottawa réunit tous ses pouvoirs sur les Autochtones.",
+            "es": "1876 — Nace la Ley sobre los Indios: Ottawa reúne todos sus poderes sobre los indígenas.",
+            "ca": "1876 — Neix la Llei sobre els Indis: Ottawa reuneix tots els seus poders sobre els indígenes."
+          },
+          {
+            "fr": "1881 — Système de permis : un agriculteur autochtone doit une autorisation pour vendre ses récoltes.",
+            "es": "1881 — Sistema de permisos: un agricultor indígena necesita autorización para vender sus cosechas.",
+            "ca": "1881 — Sistema de permisos: un agricultor indígena necessita autorització per vendre les collites."
+          },
+          {
+            "fr": "1884 — Le potlatch et d'autres cérémonies sont interdits.",
+            "es": "1884 — Se prohíben el potlatch y otras ceremonias.",
+            "ca": "1884 — Es prohibeixen el potlatch i altres cerimònies."
+          },
+          {
+            "fr": "1885 — Système de laissez-passer : interdiction de quitter la réserve sans un papier de l'agent.",
+            "es": "1885 — Sistema de salvoconductos: prohibido salir de la reserva sin un papel del agente.",
+            "ca": "1885 — Sistema de salconduits: prohibit sortir de la reserva sense un paper de l'agent."
+          },
+          {
+            "fr": "1927 — Il devient illégal d'engager un avocat pour défendre une revendication territoriale.",
+            "es": "1927 — Se vuelve ilegal contratar a un abogado para defender una reivindicación territorial.",
+            "ca": "1927 — Es torna il·legal contractar un advocat per defensar una reivindicació territorial."
+          },
+          {
+            "fr": "1951 — Grande révision : on lève l'interdiction du potlatch et celle des avocats.",
+            "es": "1951 — Gran revisión: se levantan la prohibición del potlatch y la de los abogados.",
+            "ca": "1951 — Gran revisió: s'aixequen la prohibició del potlatch i la dels advocats."
+          },
+          {
+            "fr": "1960 — Les Premières Nations obtiennent le droit de vote fédéral sans perdre leur statut.",
+            "es": "1960 — Las Primeras Naciones obtienen el derecho de voto federal sin perder su estatus.",
+            "ca": "1960 — Les Primeres Nacions obtenen el dret de vot federal sense perdre el seu estatus."
+          },
+          {
+            "fr": "1969 — Le « Livre blanc » propose d'abolir la loi et le statut; les nations le rejettent.",
+            "es": "1969 — El «Libro Blanco» propone abolir la ley y el estatus; las naciones lo rechazan.",
+            "ca": "1969 — El «Llibre Blanc» proposa abolir la llei i l'estatus; les nacions el rebutgen."
+          },
+          {
+            "fr": "1985 — Le projet de loi C-31 rend leur statut aux femmes qui l'avaient perdu.",
+            "es": "1985 — El proyecto de ley C-31 devuelve su estatus a las mujeres que lo habían perdido.",
+            "ca": "1985 — El projecte de llei C-31 torna l'estatus a les dones que l'havien perdut."
+          },
+          {
+            "fr": "2011 et 2017 — De nouvelles lois corrigent une partie des discriminations qui restaient.",
+            "es": "2011 y 2017 — Nuevas leyes corrigen parte de las discriminaciones que quedaban.",
+            "ca": "2011 i 2017 — Noves lleis corregeixen part de les discriminacions que quedaven."
+          },
+          {
+            "h": {
+              "fr": "Le grand refus de 1969",
+              "es": "El gran rechazo de 1969",
+              "ca": "El gran rebuig de 1969"
+            }
+          },
+          {
+            "fr": "En 1969, le gouvernement a proposé de supprimer la loi et le statut d'« Indien », pour faire de tout le monde des Canadiens « égaux ». Mais les nations ont dit non avec force : cela aurait effacé leurs droits et leurs traités. Ce refus a lancé le grand mouvement autochtone moderne.",
+            "es": "En 1969, el gobierno propuso eliminar la ley y el estatus de «indio», para hacer de todos canadienses «iguales». Pero las naciones dijeron no con fuerza: eso habría borrado sus derechos y sus tratados. Ese rechazo lanzó el gran movimiento indígena moderno.",
+            "ca": "El 1969, el govern va proposar eliminar la llei i l'estatus d'«indi», per fer de tothom canadencs «iguals». Però les nacions van dir que no amb força: això hauria esborrat els seus drets i els seus tractats. Aquell rebuig va llançar el gran moviment indígena modern."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "On croit parfois que la Loi sur les Indiens est un vieux texte poussiéreux, écrit une fois pour toutes en 1876. C'est faux : elle a été modifiée des dizaines de fois. Pendant ses premières décennies, presque chaque changement servait à resserrer le contrôle; puis, sous la pression des peuples autochtones et du monde, on a commencé, très lentement, à défaire le pire. Voici son histoire, année par année.",
+            "es": "A veces se cree que la Ley sobre los Indios es un viejo texto polvoriento, escrito de una vez por todas en 1876. Es falso: se modificó decenas de veces. Durante sus primeras décadas, casi cada cambio servía para estrechar el control; luego, bajo la presión de los pueblos indígenas y del mundo, se empezó, muy lentamente, a deshacer lo peor. Esta es su historia, año por año.",
+            "ca": "De vegades es creu que la Llei sobre els Indis és un vell text polsegós, escrit d'una vegada per totes el 1876. És fals: es va modificar desenes de vegades. Durant les primeres dècades, gairebé cada canvi servia per estrènyer el control; després, sota la pressió dels pobles indígenes i del món, es va començar, molt lentament, a desfer el pitjor. Aquesta és la seva història, any per any."
+          },
+          {
+            "h": {
+              "fr": "Une ligne du temps",
+              "es": "Una línea del tiempo",
+              "ca": "Una línia del temps"
+            }
+          },
+          {
+            "fr": "1876 — Naissance de la Loi sur les Indiens : Ottawa réunit tous ses pouvoirs sur les Autochtones.",
+            "es": "1876 — Nace la Ley sobre los Indios: Ottawa reúne todos sus poderes sobre los indígenas.",
+            "ca": "1876 — Neix la Llei sobre els Indis: Ottawa reuneix tots els seus poders sobre els indígenes."
+          },
+          {
+            "fr": "1881 — Système de permis : un agriculteur autochtone doit une autorisation pour vendre ses récoltes.",
+            "es": "1881 — Sistema de permisos: un agricultor indígena necesita autorización para vender sus cosechas.",
+            "ca": "1881 — Sistema de permisos: un agricultor indígena necessita autorització per vendre les collites."
+          },
+          {
+            "fr": "1884 — Le potlatch et d'autres cérémonies sont interdits.",
+            "es": "1884 — Se prohíben el potlatch y otras ceremonias.",
+            "ca": "1884 — Es prohibeixen el potlatch i altres cerimònies."
+          },
+          {
+            "fr": "1885 — Système de laissez-passer : interdiction de quitter la réserve sans un papier de l'agent.",
+            "es": "1885 — Sistema de salvoconductos: prohibido salir de la reserva sin un papel del agente.",
+            "ca": "1885 — Sistema de salconduits: prohibit sortir de la reserva sense un paper de l'agent."
+          },
+          {
+            "fr": "1894-1920 — La fréquentation des pensionnats devient obligatoire pour les enfants autochtones.",
+            "es": "1894-1920 — La asistencia a los internados se vuelve obligatoria para los niños indígenas.",
+            "ca": "1894-1920 — L'assistència als internats es torna obligatòria per als nens indígenes."
+          },
+          {
+            "fr": "1927 — Il devient illégal d'engager un avocat pour défendre une revendication territoriale.",
+            "es": "1927 — Se vuelve ilegal contratar a un abogado para defender una reivindicación territorial.",
+            "ca": "1927 — Es torna il·legal contractar un advocat per defensar una reivindicació territorial."
+          },
+          {
+            "fr": "1951 — Grande révision : on lève l'interdiction du potlatch et celle des avocats.",
+            "es": "1951 — Gran revisión: se levantan la prohibición del potlatch y la de los abogados.",
+            "ca": "1951 — Gran revisió: s'aixequen la prohibició del potlatch i la dels advocats."
+          },
+          {
+            "fr": "1960 — Les Premières Nations obtiennent le droit de vote fédéral sans perdre leur statut.",
+            "es": "1960 — Las Primeras Naciones obtienen el derecho de voto federal sin perder su estatus.",
+            "ca": "1960 — Les Primeres Nacions obtenen el dret de vot federal sense perdre el seu estatus."
+          },
+          {
+            "fr": "1969 — Le « Livre blanc » propose d'abolir la loi et le statut; les nations le rejettent.",
+            "es": "1969 — El «Libro Blanco» propone abolir la ley y el estatus; las naciones lo rechazan.",
+            "ca": "1969 — El «Llibre Blanc» proposa abolir la llei i l'estatus; les nacions el rebutgen."
+          },
+          {
+            "fr": "1985 — Le projet de loi C-31 rend leur statut aux femmes qui l'avaient perdu.",
+            "es": "1985 — El proyecto de ley C-31 devuelve su estatus a las mujeres que lo habían perdido.",
+            "ca": "1985 — El projecte de llei C-31 torna l'estatus a les dones que l'havien perdut."
+          },
+          {
+            "fr": "2008 — Le Canada présente des excuses officielles pour les pensionnats.",
+            "es": "2008 — Canadá presenta disculpas oficiales por los internados.",
+
+
+            "ca": "2008 — El Canadà presenta disculpes oficials pels internats."
+          },
+          {
+            "fr": "2011 et 2017 — De nouvelles lois corrigent une partie des discriminations qui restaient.",
+            "es": "2011 y 2017 — Nuevas leyes corrigen parte de las discriminaciones que quedaban.",
+            "ca": "2011 i 2017 — Noves lleis corregeixen part de les discriminacions que quedaven."
+          },
+          {
+            "fr": "2014 — Le vieux système de permis est enfin retiré de la loi.",
+            "es": "2014 — El viejo sistema de permisos se retira por fin de la ley.",
+            "ca": "2014 — El vell sistema de permisos es retira per fi de la llei."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi tant de changements?",
+              "es": "¿Por qué tantos cambios?",
+              "ca": "Per què tants canvis?"
+            }
+          },
+          {
+            "fr": "Cette ligne du temps raconte en réalité deux histoires opposées. Pendant les premières décennies, la loi se durcit sans cesse, parce que deux forces poussent dans le même sens : d'un côté, la volonté d'« assimiler » les peuples autochtones, de l'autre, la faim de terres des colons et des compagnies de chemin de fer. Chaque nouvelle interdiction — danser, voyager, vendre, se défendre en justice — sert ce double objectif : affaiblir les nations et libérer leurs terres.",
+            "es": "Esta línea del tiempo cuenta en realidad dos historias opuestas. Durante las primeras décadas, la ley se endurece sin cesar, porque dos fuerzas empujan en el mismo sentido: por un lado, la voluntad de «asimilar» a los pueblos indígenas; por el otro, el hambre de tierras de los colonos y las compañías de ferrocarril. Cada nueva prohibición —bailar, viajar, vender, defenderse ante la justicia— sirve a ese doble objetivo: debilitar a las naciones y liberar sus tierras.",
+            "ca": "Aquesta línia del temps explica en realitat dues històries oposades. Durant les primeres dècades, la llei s'endureix sense parar, perquè dues forces empenyen en el mateix sentit: d'una banda, la voluntat d'«assimilar» els pobles indígenes; de l'altra, la fam de terres dels colons i les companyies de ferrocarril. Cada nova prohibició —ballar, viatjar, vendre, defensar-se davant la justícia— serveix aquest doble objectiu: afeblir les nacions i alliberar les seves terres."
+          },
+          {
+            "fr": "Puis, après la Seconde Guerre mondiale, le vent tourne. Des soldats autochtones reviennent du front en se demandant pourquoi ils ont défendu la liberté à l'étranger sans l'avoir chez eux. Le monde, horrifié par les crimes de la guerre, parle désormais de droits de la personne. Des militants s'organisent, des avocats plaident, et plus tard la Charte des droits et des victoires devant les tribunaux forcent le Canada à reculer. Si la loi a changé, ce n'est donc presque jamais par bonté du gouvernement : c'est parce que des Autochtones, génération après génération, l'ont exigé.",
+            "es": "Luego, tras la Segunda Guerra Mundial, el viento cambia. Soldados indígenas vuelven del frente preguntándose por qué defendieron la libertad en el extranjero sin tenerla en casa. El mundo, horrorizado por los crímenes de la guerra, habla ahora de derechos humanos. Activistas se organizan, abogados litigan, y más tarde la Carta de Derechos y victorias ante los tribunales obligan a Canadá a retroceder. Si la ley cambió, casi nunca fue por bondad del gobierno: fue porque indígenas, generación tras generación, lo exigieron.",
+            "ca": "Després, després de la Segona Guerra Mundial, el vent canvia. Soldats indígenes tornen del front preguntant-se per què van defensar la llibertat a l'estranger sense tenir-la a casa. El món, horroritzat pels crims de la guerra, parla ara de drets humans. Activistes s'organitzen, advocats litiguen, i més tard la Carta de Drets i victòries davant els tribunals obliguen el Canadà a recular. Si la llei va canviar, gairebé mai no va ser per bondat del govern: va ser perquè indígenes, generació rere generació, ho van exigir."
+          },
+          {
+            "h": {
+              "fr": "1951 : un premier dégel",
+              "es": "1951: un primer deshielo",
+              "ca": "1951: un primer desglaç"
+            }
+          },
+          {
+            "fr": "La grande révision de 1951 marque un tournant. Après des décennies de tour de vis, le gouvernement enlève enfin certaines des règles les plus odieuses : l'interdiction du potlatch et des danses disparaît, tout comme l'interdiction d'engager des avocats pour les revendications territoriales. Ce n'est pas la liberté — la loi garde l'essentiel de son pouvoir de contrôle — mais c'est la première fois qu'elle recule au lieu d'avancer.",
+            "es": "La gran revisión de 1951 marca un giro. Tras décadas de apretar la tuerca, el gobierno quita por fin algunas de las reglas más odiosas: desaparece la prohibición del potlatch y de las danzas, así como la de contratar abogados para las reivindicaciones territoriales. No es la libertad —la ley conserva lo esencial de su poder de control— pero es la primera vez que retrocede en lugar de avanzar.",
+            "ca": "La gran revisió de 1951 marca un gir. Després de dècades d'estrènyer la rosca, el govern treu per fi algunes de les regles més odioses: desapareix la prohibició del potlatch i de les danses, així com la de contractar advocats per a les reivindicacions territorials. No és la llibertat —la llei conserva l'essencial del seu poder de control— però és la primera vegada que recula en lloc d'avançar."
+          },
+          {
+            "h": {
+              "fr": "1969 : le « Livre blanc » rejeté",
+              "es": "1969: el «Libro Blanco» rechazado",
+              "ca": "1969: el «Llibre Blanc» rebutjat"
+            }
+          },
+          {
+            "fr": "En 1969, le gouvernement de Pierre Trudeau, par la voix de Jean Chrétien, propose une idée qui semble généreuse : abolir purement et simplement la Loi sur les Indiens et le statut particulier, pour faire des Autochtones des Canadiens « comme les autres ». Mais les Premières Nations y voient un piège : sans statut ni traités, leurs droits historiques disparaîtraient, et l'assimilation serait enfin complète. Leur refus est massif et déterminé. Ce moment, souvent considéré comme l'acte de naissance du mouvement politique autochtone moderne, oblige le gouvernement à reculer.",
+            "es": "En 1969, el gobierno de Pierre Trudeau, por voz de Jean Chrétien, propone una idea que parece generosa: abolir pura y simplemente la Ley sobre los Indios y el estatus especial, para hacer de los indígenas canadienses «como los demás». Pero las Primeras Naciones ven en ello una trampa: sin estatus ni tratados, sus derechos históricos desaparecerían, y la asimilación quedaría por fin completa. Su rechazo es masivo y decidido. Ese momento, a menudo considerado el acta de nacimiento del movimiento político indígena moderno, obliga al gobierno a retroceder.",
+            "ca": "El 1969, el govern de Pierre Trudeau, per veu de Jean Chrétien, proposa una idea que sembla generosa: abolir pura i simplement la Llei sobre els Indis i l'estatus especial, per fer dels indígenes canadencs «com els altres». Però les Primeres Nacions hi veuen un parany: sense estatus ni tractats, els seus drets històrics desapareixerien, i l'assimilació quedaria per fi completa. El seu rebuig és massiu i decidit. Aquell moment, sovint considerat l'acta de naixement del moviment polític indígena modern, obliga el govern a recular."
+          },
+          {
+            "h": {
+              "fr": "1985 et après : réparer lentement",
+              "es": "1985 y después: reparar lentamente",
+              "ca": "1985 i després: reparar lentament"
+            }
+          },
+          {
+            "fr": "En 1985, le projet de loi C-31 répare une grande injustice en rendant leur statut aux femmes qui l'avaient perdu en se mariant. D'autres lois, en 2011 puis en 2017, continueront de corriger les discriminations qui subsistaient. En parallèle, de plus en plus de nations négocient des ententes d'autonomie gouvernementale qui leur permettent de sortir, peu à peu, de la tutelle de la loi et de se gouverner elles-mêmes.",
+            "es": "En 1985, el proyecto de ley C-31 repara una gran injusticia devolviendo su estatus a las mujeres que lo habían perdido al casarse. Otras leyes, en 2011 y luego en 2017, seguirán corrigiendo las discriminaciones que quedaban. En paralelo, cada vez más naciones negocian acuerdos de autogobierno que les permiten salir, poco a poco, de la tutela de la ley y gobernarse a sí mismas.",
+            "ca": "El 1985, el projecte de llei C-31 repara una gran injustícia tornant l'estatus a les dones que l'havien perdut en casar-se. Altres lleis, el 2011 i després el 2017, continuaran corregint les discriminacions que quedaven. En paral·lel, cada cop més nacions negocien acords d'autogovern que els permeten sortir, a poc a poc, de la tutela de la llei i governar-se elles mateixes."
+          },
+          {
+            "h": {
+              "fr": "Toujours là : abolir ou transformer?",
+              "es": "Todavía aquí: ¿abolir o transformar?",
+              "ca": "Encara aquí: abolir o transformar?"
+            }
+          },
+          {
+            "fr": "Près de cent cinquante ans après sa création, la Loi sur les Indiens existe toujours. Beaucoup voudraient s'en débarrasser, tant elle reste paternaliste; mais d'autres rappellent qu'elle protège aussi des droits durement gagnés, et craignent qu'une abolition brutale — comme en 1969 — ne serve à effacer ces droits. Le vrai but, pour la plupart des nations, n'est donc pas seulement de supprimer une loi : c'est de retrouver le droit de décider par elles-mêmes. Connaître cette longue histoire, de 1876 à aujourd'hui, c'est comprendre d'où vient ce combat — et pourquoi il n'est pas terminé.",
+            "es": "Casi ciento cincuenta años después de su creación, la Ley sobre los Indios todavía existe. Muchos querrían deshacerse de ella, de tan paternalista que sigue siendo; pero otros recuerdan que también protege derechos duramente ganados, y temen que una abolición brusca —como en 1969— sirva para borrar esos derechos. El verdadero objetivo, para la mayoría de las naciones, no es solo suprimir una ley: es recuperar el derecho a decidir por sí mismas. Conocer esta larga historia, de 1876 a hoy, es entender de dónde viene esta lucha —y por qué no ha terminado.",
+            "ca": "Gairebé cent cinquanta anys després de la seva creació, la Llei sobre els Indis encara existeix. Molts voldrien desfer-se'n, de tan paternalista que continua sent; però altres recorden que també protegeix drets durament guanyats, i temen que una abolició brusca —com el 1969— serveixi per esborrar aquests drets. El veritable objectiu, per a la majoria de les nacions, no és només suprimir una llei: és recuperar el dret a decidir per elles mateixes. Conèixer aquesta llarga història, de 1876 a avui, és entendre d'on ve aquesta lluita —i per què no s'ha acabat."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une date",
+          "es": "una fecha",
+          "ca": "una data"
+        },
+        {
+          "mot": "changer",
+          "es": "cambiar",
+          "ca": "canviar"
+        },
+        {
+          "mot": "une loi",
+          "es": "una ley",
+          "ca": "una llei"
+        },
+        {
+          "mot": "abolir",
+          "es": "abolir",
+          "ca": "abolir"
+        },
+        {
+          "mot": "un droit",
+          "es": "un derecho",
+          "ca": "un dret"
+        },
+        {
+          "mot": "l'autonomie",
+          "es": "la autonomía",
+          "ca": "l'autonomia"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué año se creó la ley?",
+            "ca": "En quin any es va crear la llei?"
+          },
+          "piste": {
+            "es": "1876",
+            "ca": "1876"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó en 1951?",
+            "ca": "Què va passar el 1951?"
+          },
+          "piste": {
+            "es": "se levantaron prohibiciones (potlatch, abogados)",
+            "ca": "es van aixecar prohibicions (potlatch, advocats)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué propuso el «Libro Blanco» de 1969?",
+            "ca": "Què proposava el «Llibre Blanc» de 1969?"
+          },
+          "piste": {
+            "es": "abolir la ley y el estatus (rechazado)",
+            "ca": "abolir la llei i l'estatus (rebutjat)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es el objetivo de muchas naciones hoy?",
+            "ca": "Quin és l'objectiu de moltes nacions avui?"
+          },
+          "piste": {
+            "es": "gobernarse a sí mismas",
+            "ca": "governar-se elles mateixes"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "CBC — 21 choses sur la Loi sur les Indiens",
+          "url": "https://www.cbc.ca/news/indigenous/21-things-you-may-not-know-about-the-indian-act-1.3533613"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Le Livre blanc de 1969",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/the-white-paper-1969"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Loi sur les Indiens",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/indian-act"
+        }
+      ]
+    }
+  ]
+}

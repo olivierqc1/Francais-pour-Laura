@@ -1,0 +1,215 @@
+{
+  "textes": [
+    {
+      "id": "nations_iroquoiennes_inuit",
+      "emoji": "🏹",
+      "theme": "Histoire",
+      "periode": "hier et aujourd'hui",
+      "titre": {
+        "es": "Naciones iroquesas e inuit",
+        "ca": "Nacions iroqueses i inuit"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Voici deux nations de la famille iroquoienne, et les Inuit du Grand Nord.",
+            "es": "Aquí van dos naciones de la familia iroquesa, y los inuit del Gran Norte.",
+            "ca": "Aquí van dues nacions de la família iroquesa, i els inuit del Gran Nord."
+          },
+          {
+            "h": {
+              "fr": "🏹 Les Mohawks (Kanien'kehá:ka)",
+              "es": "🏹 Los mohawks (Kanien'kehá:ka)",
+              "ca": "🏹 Els mohawks (Kanien'kehá:ka)"
+            }
+          },
+          {
+            "fr": "Les Mohawks vivent près de Montréal : à Kahnawake, Kanesatake et Akwesasne.",
+            "es": "Los mohawks viven cerca de Montreal: en Kahnawake, Kanesatake y Akwesasne.",
+            "ca": "Els mohawks viuen a prop de Montreal: a Kahnawake, Kanesatake i Akwesasne."
+          },
+          {
+            "h": {
+              "fr": "🌽 Les Wendat (Hurons)",
+              "es": "🌽 Los wendat (hurones)",
+              "ca": "🌽 Els wendat (hurons)"
+            }
+          },
+          {
+            "fr": "Les Wendat vivent à Wendake, tout près de la ville de Québec.",
+            "es": "Los wendat viven en Wendake, muy cerca de la ciudad de Quebec.",
+            "ca": "Els wendat viuen a Wendake, molt a prop de la ciutat de Quebec."
+          },
+          {
+            "h": {
+              "fr": "🐻‍❄️ Les Inuit",
+              "es": "🐻‍❄️ Los inuit",
+              "ca": "🐻‍❄️ Els inuit"
+            }
+          },
+          {
+            "fr": "Les Inuit vivent tout au nord, au Nunavik. Ils parlent l'inuktitut.",
+            "es": "Los inuit viven en el extremo norte, en Nunavik. Hablan inuktitut.",
+            "ca": "Els inuit viuen a l'extrem nord, al Nunavik. Parlen inuktitut."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "À côté des nations algonquiennes, il y a les nations iroquoiennes — des peuples d'agriculteurs — et les Inuit, dans l'Arctique.",
+            "es": "Junto a las naciones algonquinas están las naciones iroquesas —pueblos agricultores— y los inuit, en el Ártico.",
+            "ca": "Al costat de les nacions algonquines hi ha les nacions iroqueses —pobles agricultors— i els inuit, a l'Àrtic."
+          },
+          {
+            "h": {
+              "fr": "🏹 Les Mohawks (Kanien'kehá:ka)",
+              "es": "🏹 Los mohawks (Kanien'kehá:ka)",
+              "ca": "🏹 Els mohawks (Kanien'kehá:ka)"
+            }
+          },
+          {
+            "fr": "Les Mohawks (Kanien'kehá:ka, « le peuple du silex ») vivent près de Montréal, à Kahnawake, Kanesatake et Akwesasne. Ils font partie de la grande Confédération iroquoise (Haudenosaunee).",
+            "es": "Los mohawks (Kanien'kehá:ka, «el pueblo del sílex») viven cerca de Montreal, en Kahnawake, Kanesatake y Akwesasne. Forman parte de la gran Confederación iroquesa (Haudenosaunee).",
+            "ca": "Els mohawks (Kanien'kehá:ka, «el poble del sílex») viuen a prop de Montreal, a Kahnawake, Kanesatake i Akwesasne. Formen part de la gran Confederació iroquesa (Haudenosaunee)."
+          },
+          {
+            "h": {
+              "fr": "🌽 Les Wendat (Hurons)",
+              "es": "🌽 Los wendat (hurones)",
+              "ca": "🌽 Els wendat (hurons)"
+            }
+          },
+          {
+            "fr": "Les Wendat (Hurons) vivent à Wendake, aux portes de Québec. Peuple d'agriculteurs, ils étaient au cœur des grands réseaux de commerce et de la Grande Paix de 1701.",
+            "es": "Los wendat (hurones) viven en Wendake, a las puertas de Quebec. Pueblo agricultor, estaban en el corazón de las grandes redes de comercio y de la Gran Paz de 1701.",
+            "ca": "Els wendat (hurons) viuen a Wendake, a les portes de Quebec. Poble agricultor, eren al cor de les grans xarxes de comerç i de la Gran Pau de 1701."
+          },
+          {
+            "h": {
+              "fr": "🐻‍❄️ Les Inuit",
+              "es": "🐻‍❄️ Los inuit",
+              "ca": "🐻‍❄️ Els inuit"
+            }
+          },
+          {
+            "fr": "Les Inuit vivent au Nunavik, au-delà du 55e parallèle, sur un territoire immense et glacé. Ils ne sont pas une « Première Nation » mais un peuple distinct, avec sa langue, l'inuktitut.",
+            "es": "Los inuit viven en Nunavik, más allá del paralelo 55, en un territorio inmenso y helado. No son una «Primera Nación» sino un pueblo distinto, con su lengua, el inuktitut.",
+            "ca": "Els inuit viuen al Nunavik, més enllà del paral·lel 55, en un territori immens i gelat. No són una «Primera Nació» sinó un poble diferent, amb la seva llengua, l'inuktitut."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "À côté des nations algonquiennes, le Québec compte deux nations iroquoiennes — historiquement des peuples d'agriculteurs vivant dans les maisons longues — et, tout au nord, les Inuit de l'Arctique, dont la culture est unique.",
+            "es": "Junto a las naciones algonquinas, Quebec cuenta con dos naciones iroquesas —históricamente pueblos agricultores que vivían en casas largas— y, en el extremo norte, los inuit del Ártico, de cultura única.",
+            "ca": "Al costat de les nacions algonquines, el Quebec compta amb dues nacions iroqueses —històricament pobles agricultors que vivien a cases llargues— i, a l'extrem nord, els inuit de l'Àrtic, de cultura única."
+          },
+          {
+            "h": {
+              "fr": "🏹 Les Mohawks (Kanien'kehá:ka)",
+              "es": "🏹 Los mohawks (Kanien'kehá:ka)",
+              "ca": "🏹 Els mohawks (Kanien'kehá:ka)"
+            }
+          },
+          {
+            "fr": "Les Mohawks, qui se nomment Kanien'kehá:ka (« le peuple du silex »), vivent près de Montréal, dans les communautés de Kahnawake, Kanesatake et Akwesasne. Ils appartiennent à la puissante Confédération iroquoise (Haudenosaunee), l'une des plus vieilles démocraties du monde. C'est à Kanesatake qu'a éclaté la crise d'Oka en 1990.",
+            "es": "Los mohawks, que se llaman Kanien'kehá:ka («el pueblo del sílex»), viven cerca de Montreal, en las comunidades de Kahnawake, Kanesatake y Akwesasne. Pertenecen a la poderosa Confederación iroquesa (Haudenosaunee), una de las democracias más antiguas del mundo. En Kanesatake estalló la crisis de Oka en 1990.",
+            "ca": "Els mohawks, que s'anomenen Kanien'kehá:ka («el poble del sílex»), viuen a prop de Montreal, a les comunitats de Kahnawake, Kanesatake i Akwesasne. Pertanyen a la poderosa Confederació iroquesa (Haudenosaunee), una de les democràcies més antigues del món. A Kanesatake va esclatar la crisi d'Oka el 1990."
+          },
+          {
+            "h": {
+              "fr": "🌽 Les Wendat (Hurons)",
+              "es": "🌽 Los wendat (hurones)",
+              "ca": "🌽 Els wendat (hurons)"
+            }
+          },
+          {
+            "fr": "Les Wendat (autrefois appelés Hurons) vivent à Wendake, aux portes de la ville de Québec. Peuple d'agriculteurs et de grands commerçants, ils ont joué un rôle central dans l'histoire de la Nouvelle-France — leur chef Kondiaronk fut l'artisan de la Grande Paix de 1701. Leur langue, longtemps endormie, renaît aujourd'hui grâce à un travail acharné.",
+            "es": "Los wendat (antes llamados hurones) viven en Wendake, a las puertas de la ciudad de Quebec. Pueblo agricultor y gran comerciante, jugaron un papel central en la historia de Nueva Francia —su jefe Kondiaronk fue el artífice de la Gran Paz de 1701. Su lengua, mucho tiempo dormida, renace hoy gracias a un trabajo tenaz.",
+            "ca": "Els wendat (abans anomenats hurons) viuen a Wendake, a les portes de la ciutat de Quebec. Poble agricultor i gran comerciant, van tenir un paper central en la història de Nova França —el seu cap Kondiaronk va ser l'artífex de la Gran Pau de 1701. La seva llengua, molt de temps adormida, reneix avui gràcies a una tasca tenaç."
+          },
+          {
+            "h": {
+              "fr": "🐻‍❄️ Les Inuit",
+              "es": "🐻‍❄️ Los inuit",
+              "ca": "🐻‍❄️ Els inuit"
+            }
+          },
+          {
+            "fr": "Les Inuit vivent au Nunavik, au-delà du 55e parallèle, sur un territoire arctique immense. Ce ne sont pas une « Première Nation » mais un peuple bien distinct, avec sa propre langue (l'inuktitut, l'une des plus vivantes du pays) et une culture façonnée par le froid : igloo, kayak, sculpture sur pierre et chant de gorge. La chanteuse Elisapie est l'une de leurs voix les plus connues.",
+            "es": "Los inuit viven en Nunavik, más allá del paralelo 55, en un territorio ártico inmenso. No son una «Primera Nación» sino un pueblo bien distinto, con su propia lengua (el inuktitut, una de las más vivas del país) y una cultura forjada por el frío: iglú, kayak, escultura en piedra y canto de garganta. La cantante Elisapie es una de sus voces más conocidas.",
+            "ca": "Els inuit viuen al Nunavik, més enllà del paral·lel 55, en un territori àrtic immens. No són una «Primera Nació» sinó un poble ben diferent, amb la seva pròpia llengua (l'inuktitut, una de les més vives del país) i una cultura forjada pel fred: iglú, caiac, escultura en pedra i cant de gola. La cantant Elisapie és una de les seves veus més conegudes."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une confédération",
+          "es": "una confederación",
+          "ca": "una confederació"
+        },
+        {
+          "mot": "agriculteur",
+          "es": "agricultor",
+          "ca": "agricultor"
+        },
+        {
+          "mot": "le nord",
+          "es": "el norte",
+          "ca": "el nord"
+        },
+        {
+          "mot": "la glace",
+          "es": "el hielo",
+          "ca": "el gel"
+        },
+        {
+          "mot": "une communauté",
+          "es": "una comunidad",
+          "ca": "una comunitat"
+        },
+        {
+          "mot": "une langue",
+          "es": "una lengua",
+          "ca": "una llengua"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿A qué confederación pertenecen los mohawks?",
+            "ca": "A quina confederació pertanyen els mohawks?"
+          },
+          "piste": {
+            "es": "la Confederación iroquesa (Haudenosaunee)",
+            "ca": "la Confederació iroquesa (Haudenosaunee)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Dónde viven los wendat?",
+            "ca": "On viuen els wendat?"
+          },
+          "piste": {
+            "es": "en Wendake, cerca de Quebec",
+            "ca": "a Wendake, a prop de Quebec"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué lengua hablan los inuit?",
+            "ca": "Quina llengua parlen els inuit?"
+          },
+          "piste": {
+            "es": "inuktitut",
+            "ca": "inuktitut"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Gouvernement du Québec — Profil des nations",
+          "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "textes": [
+    {
+      "id": "pensionnats_fond",
+      "emoji": "🧡",
+      "theme": "Histoire",
+      "periode": "des années 1880 à 1996",
+      "titre": {
+        "es": "Los internados: una investigación",
+        "ca": "Els internats: una investigació"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg",
+        "credit": {
+          "es": "Alumnos del internado de Washakada, Elkhorn, Manitoba, hacia 1900 — Biblioteca y Archivos Canadá",
+          "ca": "Alumnes de l'internat de Washakada, Elkhorn, Manitoba, cap a 1900 — Biblioteca i Arxius Canadà"
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Pendant longtemps, le Canada a forcé des enfants autochtones à quitter leur famille pour aller dans des écoles spéciales : les « pensionnats ».",
+            "es": "Durante mucho tiempo, Canadá obligó a niños indígenas a dejar a su familia para ir a escuelas especiales: los «internados».",
+            "ca": "Durant molt de temps, el Canadà va obligar nens indígenes a deixar la seva família per anar a escoles especials: els «internats»."
+          },
+          {
+            "h": {
+              "fr": "L'histoire de Phyllis",
+              "es": "La historia de Phyllis",
+              "ca": "La història de la Phyllis"
+            }
+          },
+          {
+            "fr": "Phyllis avait six ans. Pour son premier jour, sa grand-mère lui avait offert un chandail orange neuf. À l'école, on le lui a enlevé. Aujourd'hui, le 30 septembre, on porte un chandail orange pour elle et pour tous les enfants.",
+            "es": "Phyllis tenía seis años. Para su primer día, su abuela le había regalado una camiseta naranja nueva. En la escuela, se la quitaron. Hoy, el 30 de septiembre, se lleva una camiseta naranja por ella y por todos los niños.",
+            "ca": "La Phyllis tenia sis anys. Per al seu primer dia, la seva àvia li havia regalat una samarreta taronja nova. A l'escola, l'hi van treure. Avui, el 30 de setembre, es porta una samarreta taronja per ella i per tots els nens."
+          },
+          {
+            "h": {
+              "fr": "La vérité",
+              "es": "La verdad",
+              "ca": "La veritat"
+            }
+          },
+          {
+            "fr": "Environ 150 000 enfants sont passés par ces écoles. Beaucoup ne sont jamais revenus. La dernière école a fermé en 1996. Le Canada essaie aujourd'hui de se souvenir et de réparer.",
+            "es": "Cerca de 150 000 niños pasaron por esas escuelas. Muchos nunca volvieron. La última escuela cerró en 1996. Canadá intenta hoy recordar y reparar.",
+            "ca": "Prop de 150.000 nens van passar per aquelles escoles. Molts no van tornar mai. L'última escola va tancar el 1996. El Canadà intenta avui recordar i reparar."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Pendant plus de cent ans, le Canada a retiré de force des enfants autochtones à leur famille pour les placer dans des « pensionnats », financés par le gouvernement et dirigés par des Églises. Le but était de les « assimiler » : leur faire oublier leur langue et leur culture.",
+            "es": "Durante más de cien años, Canadá retiró por la fuerza a niños indígenas de su familia para internarlos en «internados», financiados por el gobierno y dirigidos por iglesias. El objetivo era «asimilarlos»: hacerles olvidar su lengua y su cultura.",
+            "ca": "Durant més de cent anys, el Canadà va retirar per la força nens indígenes de la seva família per internar-los en «internats», finançats pel govern i dirigits per esglésies. L'objectiu era «assimilar-los»: fer-los oblidar la seva llengua i la seva cultura."
+          },
+          {
+            "h": {
+              "fr": "Un témoignage : Phyllis",
+              "es": "Un testimonio: Phyllis",
+              "ca": "Un testimoni: la Phyllis"
+            }
+          },
+          {
+            "fr": "Phyllis Webstad avait six ans en 1973. Pour son premier jour d'école, sa grand-mère lui avait acheté un beau chandail orange. En arrivant, on lui a enlevé tous ses vêtements, y compris ce chandail, qu'elle n'a jamais revu. Des années plus tard, elle a raconté son histoire, et le 30 septembre est devenu la « Journée du chandail orange ».",
+            "es": "Phyllis Webstad tenía seis años en 1973. Para su primer día de escuela, su abuela le había comprado una bonita camiseta naranja. Al llegar, le quitaron toda la ropa, incluida esa camiseta, que nunca volvió a ver. Años después contó su historia, y el 30 de septiembre se convirtió en el «Día de la Camiseta Naranja».",
+            "ca": "La Phyllis Webstad tenia sis anys el 1973. Per al seu primer dia d'escola, la seva àvia li havia comprat una bonica samarreta taronja. En arribar, li van treure tota la roba, inclosa aquella samarreta, que no va tornar a veure mai. Anys després va explicar la seva història, i el 30 de setembre es va convertir en el «Dia de la Samarreta Taronja»."
+          },
+          {
+            "h": {
+              "fr": "L'enquête",
+              "es": "La investigación",
+              "ca": "La investigació"
+            }
+          },
+          {
+            "fr": "Une grande enquête, la Commission de vérité et réconciliation, a recueilli des milliers de témoignages. Elle a établi qu'environ 150 000 enfants étaient passés par ces écoles, et a parlé de « génocide culturel ». Beaucoup d'enfants y ont souffert de faim, de solitude et de mauvais traitements.",
+            "es": "Una gran investigación, la Comisión de Verdad y Reconciliación, recogió miles de testimonios. Estableció que cerca de 150 000 niños pasaron por esas escuelas, y habló de «genocidio cultural». Muchos niños sufrieron allí hambre, soledad y malos tratos.",
+            "ca": "Una gran investigació, la Comissió de Veritat i Reconciliació, va recollir milers de testimonis. Va establir que prop de 150.000 nens van passar per aquelles escoles, i va parlar de «genocidi cultural». Molts nens hi van patir fam, solitud i maltractaments."
+          },
+          {
+            "h": {
+              "fr": "Les enfants disparus",
+              "es": "Los niños desaparecidos",
+              "ca": "Els nens desapareguts"
+            }
+          },
+          {
+            "fr": "Beaucoup d'enfants ne sont jamais rentrés chez eux. En 2021, on a annoncé la découverte de centaines de tombes anonymes près d'anciennes écoles, comme à Kamloops. Le pays a alors vraiment pris conscience du drame. Chaque 30 septembre, on honore leur mémoire.",
+            "es": "Muchos niños nunca volvieron a casa. En 2021 se anunció el hallazgo de cientos de tumbas anónimas cerca de antiguas escuelas, como en Kamloops. El país tomó entonces verdadera conciencia del drama. Cada 30 de septiembre se honra su memoria.",
+            "ca": "Molts nens no van tornar mai a casa. El 2021 es va anunciar la troballa de centenars de tombes anònimes a prop d'antigues escoles, com a Kamloops. El país va prendre llavors veritable consciència del drama. Cada 30 de setembre s'honra la seva memòria."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le système des pensionnats est l'un des chapitres les plus sombres de l'histoire du Canada. Pendant plus d'un siècle, l'État a retiré de force des enfants autochtones à leur famille pour les confier à des écoles financées par le gouvernement et tenues par des Églises. Ce n'était pas un choix des parents : à partir du début du XXe siècle, la fréquentation est devenue obligatoire, et la police pouvait venir chercher les enfants.",
+            "es": "El sistema de los internados es uno de los capítulos más oscuros de la historia de Canadá. Durante más de un siglo, el Estado retiró por la fuerza a niños indígenas de su familia para confiarlos a escuelas financiadas por el gobierno y dirigidas por iglesias. No era una elección de los padres: desde principios del siglo XX, la asistencia se volvió obligatoria, y la policía podía ir a buscar a los niños.",
+            "ca": "El sistema dels internats és un dels capítols més foscos de la història del Canadà. Durant més d'un segle, l'Estat va retirar per la força nens indígenes de la seva família per confiar-los a escoles finançades pel govern i dirigides per esglésies. No era una elecció dels pares: des de principis del segle XX, l'assistència es va tornar obligatòria, i la policia podia anar a buscar els nens."
+          },
+          {
+            "h": {
+              "fr": "Comment ça fonctionnait",
+              "es": "Cómo funcionaba",
+              "ca": "Com funcionava"
+            }
+          },
+          {
+            "fr": "Une fois arrivés, les enfants étaient transformés : on coupait leurs cheveux, on leur donnait un numéro et un uniforme, on remplaçait leur nom. Surtout, il leur était interdit de parler leur langue, sous peine de punition. Frères et sœurs étaient séparés. Loin des leurs, beaucoup ont connu la faim, le froid, la solitude, et trop souvent des violences physiques et sexuelles. C'est tout un monde intérieur — une langue, une famille, une confiance — qu'on cherchait à briser.",
+            "es": "Una vez allí, los niños eran transformados: les cortaban el pelo, les daban un número y un uniforme, les cambiaban el nombre. Sobre todo, se les prohibía hablar su lengua, bajo pena de castigo. Hermanos y hermanas eran separados. Lejos de los suyos, muchos conocieron el hambre, el frío, la soledad y, demasiado a menudo, violencias físicas y sexuales. Era todo un mundo interior —una lengua, una familia, una confianza— lo que se buscaba romper.",
+            "ca": "Un cop allà, els nens eren transformats: els tallaven els cabells, els donaven un número i un uniforme, els canviaven el nom. Sobretot, se'ls prohibia parlar la seva llengua, sota pena de càstig. Germans i germanes eren separats. Lluny dels seus, molts van conèixer la fam, el fred, la solitud i, massa sovint, violències físiques i sexuals. Era tot un món interior —una llengua, una família, una confiança— el que es buscava trencar."
+          },
+          {
+            "h": {
+              "fr": "Un visage : Phyllis Webstad",
+              "es": "Un rostro: Phyllis Webstad",
+              "ca": "Un rostre: Phyllis Webstad"
+            }
+          },
+          {
+            "fr": "Pour mesurer ce drame, une histoire suffit parfois. En 1973, Phyllis Webstad, une enfant secwépemc, a six ans. Pour son premier jour à la Mission St. Joseph, près de Williams Lake, sa grand-mère lui offre un chandail orange tout neuf, qui la remplit de fierté. En arrivant, on lui retire tous ses vêtements, y compris ce chandail — qu'elle ne reverra jamais. Cette petite robe perdue est devenue le symbole de tout ce que ces écoles ont arraché. Devenue adulte, Phyllis a fait de son histoire la « Journée du chandail orange », lancée en 2013.",
+            "es": "Para medir este drama, a veces basta una historia. En 1973, Phyllis Webstad, una niña secwépemc, tiene seis años. Para su primer día en la Misión St. Joseph, cerca de Williams Lake, su abuela le regala una camiseta naranja nueva, que la llena de orgullo. Al llegar, le quitan toda la ropa, incluida esa camiseta —que nunca volverá a ver. Esa pequeña prenda perdida se convirtió en el símbolo de todo lo que esas escuelas arrancaron. Ya adulta, Phyllis hizo de su historia el «Día de la Camiseta Naranja», lanzado en 2013.",
+            "ca": "Per mesurar aquest drama, de vegades n'hi ha prou amb una història. El 1973, la Phyllis Webstad, una nena secwépemc, té sis anys. Per al seu primer dia a la Missió St. Joseph, a prop de Williams Lake, la seva àvia li regala una samarreta taronja nova, que l'omple d'orgull. En arribar, li treuen tota la roba, inclosa aquella samarreta —que no tornarà a veure mai. Aquella petita peça perduda es va convertir en el símbol de tot el que aquelles escoles van arrencar. Ja adulta, la Phyllis va fer de la seva història el «Dia de la Samarreta Taronja», llançat el 2013."
+          },
+          {
+            "h": {
+              "fr": "L'enquête : la Commission de vérité et réconciliation",
+              "es": "La investigación: la Comisión de Verdad y Reconciliación",
+              "ca": "La investigació: la Comissió de Veritat i Reconciliació"
+            }
+          },
+          {
+            "fr": "Entre 2008 et 2015, une vaste commission a parcouru le pays pour écouter les survivants. Elle a recueilli près de 7 000 témoignages. Ses conclusions sont accablantes : environ 150 000 enfants des Premières Nations, métis et inuit ont été forcés de fréquenter ces écoles, dont la dernière n'a fermé qu'en 1996. La Commission a qualifié l'ensemble de « génocide culturel ». Elle a aussi consacré tout un volume à une question longtemps ignorée : combien d'enfants ne sont jamais rentrés?",
+            "es": "Entre 2008 y 2015, una vasta comisión recorrió el país para escuchar a los supervivientes. Recogió cerca de 7000 testimonios. Sus conclusiones son demoledoras: cerca de 150 000 niños de las Primeras Naciones, métis e inuit fueron obligados a asistir a esas escuelas, de las cuales la última no cerró hasta 1996. La Comisión calificó el conjunto de «genocidio cultural». También dedicó todo un volumen a una cuestión mucho tiempo ignorada: ¿cuántos niños nunca volvieron?",
+            "ca": "Entre 2008 i 2015, una vasta comissió va recórrer el país per escoltar els supervivents. Va recollir prop de 7.000 testimonis. Les seves conclusions són demolidores: prop de 150.000 nens de les Primeres Nacions, métis i inuit van ser obligats a assistir a aquelles escoles, de les quals l'última no va tancar fins al 1996. La Comissió va qualificar el conjunt de «genocidi cultural». També va dedicar tot un volum a una qüestió molt de temps ignorada: quants nens no van tornar mai?"
+          },
+          {
+            "h": {
+              "fr": "Les enfants qui ne sont jamais revenus",
+              "es": "Los niños que nunca volvieron",
+              "ca": "Els nens que mai no van tornar"
+            }
+          },
+          {
+            "fr": "Les survivants l'ont toujours dit : des camarades tombaient malades et disparaissaient. La Commission a confirmé la mort d'au moins 4 100 enfants, mais estime le nombre réel à 6 000 ou plus, faute de registres complets. En 2021, la communauté de Tk'emlúps a annoncé la détection d'environ 215 tombes anonymes près de l'ancienne école de Kamloops; peu après, on en signalait des centaines d'autres, comme à Marieval. Ces annonces ont bouleversé le pays et l'ont forcé à regarder la vérité en face.",
+            "es": "Los supervivientes siempre lo dijeron: compañeros enfermaban y desaparecían. La Comisión confirmó la muerte de al menos 4100 niños, pero estima la cifra real en 6000 o más, por falta de registros completos. En 2021, la comunidad de Tk'emlúps anunció la detección de unas 215 tumbas anónimas cerca de la antigua escuela de Kamloops; poco después se señalaban centenares más, como en Marieval. Esos anuncios conmocionaron al país y lo obligaron a mirar la verdad de frente.",
+            "ca": "Els supervivents sempre ho van dir: companys emmalaltien i desapareixien. La Comissió va confirmar la mort de com a mínim 4.100 nens, però estima la xifra real en 6.000 o més, per manca de registres complets. El 2021, la comunitat de Tk'emlúps va anunciar la detecció d'unes 215 tombes anònimes a prop de l'antiga escola de Kamloops; poc després se'n assenyalaven centenars més, com a Marieval. Aquells anuncis van commocionar el país i el van obligar a mirar la veritat de cara."
+          },
+          {
+            "h": {
+              "fr": "Se souvenir, aujourd'hui",
+              "es": "Recordar, hoy",
+              "ca": "Recordar, avui"
+            }
+          },
+          {
+            "fr": "En 2008, le gouvernement canadien a présenté des excuses officielles aux survivants. Depuis 2021, le 30 septembre est la Journée nationale de la vérité et de la réconciliation. Mais pour beaucoup, la réconciliation reste lointaine : la vérité, disent les survivants, n'a pas fini d'être dite. Se souvenir, écouter ces témoignages et les transmettre, c'est déjà un premier pas.",
+            "es": "En 2008, el gobierno canadiense presentó disculpas oficiales a los supervivientes. Desde 2021, el 30 de septiembre es el Día Nacional de la Verdad y la Reconciliación. Pero para muchos, la reconciliación sigue lejana: la verdad, dicen los supervivientes, no ha terminado de contarse. Recordar, escuchar estos testimonios y transmitirlos es ya un primer paso.",
+            "ca": "El 2008, el govern canadenc va presentar disculpes oficials als supervivents. Des del 2021, el 30 de setembre és el Dia Nacional de la Veritat i la Reconciliació. Però per a molts, la reconciliació continua llunyana: la veritat, diuen els supervivents, no ha acabat d'explicar-se. Recordar, escoltar aquests testimonis i transmetre'ls és ja un primer pas."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un enfant",
+          "es": "un niño",
+          "ca": "un nen"
+        },
+        {
+          "mot": "une famille",
+          "es": "una familia",
+          "ca": "una família"
+        },
+        {
+          "mot": "interdire",
+          "es": "prohibir",
+          "ca": "prohibir"
+        },
+        {
+          "mot": "un témoignage",
+          "es": "un testimonio",
+          "ca": "un testimoni"
+        },
+        {
+          "mot": "une tombe",
+          "es": "una tumba",
+          "ca": "una tomba"
+        },
+        {
+          "mot": "la vérité",
+          "es": "la verdad",
+          "ca": "la veritat"
+        },
+        {
+          "mot": "se souvenir",
+          "es": "recordar",
+          "ca": "recordar"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién es Phyllis Webstad?",
+            "ca": "Qui és la Phyllis Webstad?"
+          },
+          "piste": {
+            "es": "superviviente, creó el Día de la Camiseta Naranja",
+            "ca": "supervivent, va crear el Dia de la Samarreta Taronja"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántos niños pasaron por las escuelas?",
+            "ca": "Quants nens van passar per les escoles?"
+          },
+          "piste": {
+            "es": "unos 150 000",
+            "ca": "uns 150.000"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó en 2021 en Kamloops?",
+            "ca": "Què va passar el 2021 a Kamloops?"
+          },
+          "piste": {
+            "es": "hallaron tumbas anónimas (~215)",
+            "ca": "van trobar tombes anònimes (~215)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo calificó la Comisión el sistema?",
+            "ca": "Com va qualificar la Comissió el sistema?"
+          },
+          "piste": {
+            "es": "«genocidio cultural»",
+            "ca": "«genocidi cultural»"
+          }
+        }
+      ],
+      "note": {
+        "es": "Es un tema doloroso. En Canadá hay una línea de apoyo 24 h para supervivientes y familias: 1-800-721-0066 (Indian Residential School Survivors Society).",
+        "ca": "És un tema dolorós. Al Canadà hi ha una línia de suport 24 h per a supervivents i famílies: 1-800-721-0066 (Indian Residential School Survivors Society)."
+      },
+      "sources": [
+        {
+          "titre": "Centre national pour la vérité et la réconciliation",
+          "url": "https://nctr.ca/"
+        },
+        {
+          "titre": "Journée du chandail orange — l'histoire de Phyllis",
+          "url": "https://www.orangeshirtday.org/phyllis-story.html"
+        },
+        {

@@ -9,6 +9,14 @@
         "es": "La Ley sobre los Indios (1/2)",
         "ca": "La Llei sobre els Indis (1/2)"
       },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg",
+        "credit": {
+          "es": "Danza del potlatch, Carcross (Yukón), 1912 — dominio público",
+          "ca": "Dansa del potlatch, Carcross (Yukon), 1912 — domini públic"
+        }
+      },
       "niveaux": {
         "a1": [
           {
@@ -17,23 +25,31 @@
             "ca": "El 1876, el Canadà va escriure una llei sobre els pobles indígenes: la «Llei sobre els Indis». Encara existeix avui."
           },
           {
-            "h": {
-              "fr": "Tout contrôler",
-              "es": "Controlarlo todo",
-              "ca": "Controlar-ho tot"
+            "fr": "Avec cette loi, le gouvernement contrôlait presque tout : les terres, l'argent, et même qui était « Indien ». Souvent, il fallait un papier pour sortir de la réserve.",
+            "es": "Con esta ley, el gobierno controlaba casi todo: las tierras, el dinero e incluso quién era «indio». A menudo hacía falta un papel para salir de la reserva.",
+            "ca": "Amb aquesta llei, el govern controlava gairebé tot: les terres, els diners i fins i tot qui era «indi». Sovint calia un paper per sortir de la reserva."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg",
+              "credit": {
+                "es": "Danza del potlatch, Carcross (Yukón), 1912 — dominio público",
+                "ca": "Dansa del potlatch, Carcross (Yukon), 1912 — domini públic"
+              }
             }
           },
           {
-            "fr": "Avec cette loi, le gouvernement contrôlait presque tout : les terres, l'argent, et même qui était « Indien ». Souvent, il fallait un papier pour sortir de la réserve.",
-            "es": "Con esta ley, el gobierno controlaba casi todo: las tierras, el dinero, e incluso quién era «indio». A menudo hacía falta un papel para salir de la reserva.",
-            "ca": "Amb aquesta llei, el govern controlava gairebé tot: les terres, els diners, i fins i tot qui era «indi». Sovint calia un paper per sortir de la reserva."
+            "fr": "La loi a aussi interdit de grandes fêtes, comme le potlatch, pendant presque 70 ans. Le but était de faire disparaître les cultures autochtones.",
+            "es": "La ley también prohibió grandes fiestas, como el potlatch, durante casi 70 años. El objetivo era hacer desaparecer las culturas indígenas.",
+            "ca": "La llei també va prohibir grans festes, com el potlatch, durant gairebé 70 anys. L'objectiu era fer desaparèixer les cultures indígenes."
           }
         ],
         "a2": [
           {
-            "fr": "En 1876, le gouvernement canadien a adopté la « Loi sur les Indiens ». Cette loi donnait à l'État un contrôle énorme sur la vie des Premières Nations, et son but caché était l'assimilation. Plus de 140 ans plus tard, elle existe toujours.",
-            "es": "En 1876, el gobierno canadiense aprobó la «Ley sobre los Indios». Esta ley daba al Estado un control enorme sobre la vida de las Primeras Naciones, y su objetivo oculto era la asimilación. Más de 140 años después, sigue existiendo.",
-            "ca": "El 1876, el govern canadenc va aprovar la «Llei sobre els Indis». Aquesta llei donava a l'Estat un control enorme sobre la vida de les Primeres Nacions, i el seu objectiu ocult era l'assimilació. Més de 140 anys després, encara existeix."
+            "fr": "En 1876, le gouvernement canadien a réuni dans une seule loi tous ses pouvoirs sur les peuples autochtones : la « Loi sur les Indiens ». Son but caché était l'assimilation, et plus de 140 ans plus tard, elle existe toujours.",
+            "es": "En 1876, el gobierno canadiense reunió en una sola ley todos sus poderes sobre los pueblos indígenas: la «Ley sobre los Indios». Su objetivo oculto era la asimilación, y más de 140 años después, sigue existiendo.",
+            "ca": "El 1876, el govern canadenc va reunir en una sola llei tots els seus poders sobre els pobles indígenes: la «Llei sobre els Indis». El seu objectiu ocult era l'assimilació, i més de 140 anys després, encara existeix."
           },
           {
             "h": {
@@ -43,40 +59,19 @@
             }
           },
           {
-            "fr": "Un fonctionnaire, « l'agent des Indiens », surveillait chaque réserve. Pendant des décennies, il fallait même un laissez-passer signé par lui pour quitter la réserve. Le gouvernement gérait les terres, l'argent et décidait qui avait le statut d'« Indien ».",
-            "es": "Un funcionario, «el agente de los indios», vigilaba cada reserva. Durante décadas, hacía falta incluso un salvoconducto firmado por él para salir de la reserva. El gobierno gestionaba las tierras, el dinero y decidía quién tenía el estatus de «indio».",
-            "ca": "Un funcionari, «l'agent dels indis», vigilava cada reserva. Durant dècades, calia fins i tot un salconduit signat per ell per sortir de la reserva. El govern gestionava les terres, els diners i decidia qui tenia l'estatus d'«indi»."
+            "fr": "Dans chaque réserve, un fonctionnaire appelé « l'agent des Indiens » avait un pouvoir immense. Pendant des décennies, il fallait même un laissez-passer signé par lui pour quitter la réserve. L'État gérait les terres et l'argent des communautés, et décidait qui avait le statut d'« Indien ».",
+            "es": "En cada reserva, un funcionario llamado «el agente de los indios» tenía un poder inmenso. Durante décadas hacía falta incluso un salvoconducto firmado por él para salir de la reserva. El Estado gestionaba las tierras y el dinero de las comunidades, y decidía quién tenía el estatus de «indio».",
+            "ca": "A cada reserva, un funcionari anomenat «l'agent dels indis» tenia un poder immens. Durant dècades calia fins i tot un salconduit signat per ell per sortir de la reserva. L'Estat gestionava les terres i els diners de les comunitats, i decidia qui tenia l'estatus d'«indi»."
           },
           {
-            "h": {
-              "fr": "Interdire la culture",
-              "es": "Prohibir la cultura",
-              "ca": "Prohibir la cultura"
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Potlatch_Dance,_Carcross,_Yukon_Territory,_1912_(AL%2BCA_932).jpg",
+              "credit": {
+                "es": "Danza del potlatch, Carcross (Yukón), 1912 — dominio público",
+                "ca": "Dansa del potlatch, Carcross (Yukon), 1912 — domini públic"
+              }
             }
-          },
-          {
-            "fr": "La loi a interdit des cérémonies essentielles, comme le potlatch, de 1885 à 1951. Elle a aussi servi de base aux pensionnats, où l'on arrachait les enfants à leur famille. Tout cela visait le même but : faire disparaître les cultures autochtones.",
-            "es": "La ley prohibió ceremonias esenciales, como el potlatch, de 1885 a 1951. También sirvió de base a los internados, donde se arrancaba a los niños de su familia. Todo esto buscaba el mismo objetivo: hacer desaparecer las culturas indígenas.",
-            "ca": "La llei va prohibir cerimònies essencials, com el potlatch, del 1885 al 1951. També va servir de base als internats, on s'arrencava els nens de la seva família. Tot això buscava el mateix objectiu: fer desaparèixer les cultures indígenes."
-          }
-        ],
-        "b1": [
-          {
-            "fr": "Adoptée en 1876, la Loi sur les Indiens est sans doute la loi la plus marquante — et la plus critiquée — de l'histoire du Canada. Elle a placé les Premières Nations sous la tutelle directe de l'État pendant près d'un siècle et demi. Pour comprendre la situation des Autochtones aujourd'hui, il faut comprendre cette loi, car beaucoup de blessures actuelles viennent d'elle.",
-            "es": "Aprobada en 1876, la Ley sobre los Indios es probablemente la ley más decisiva —y más criticada— de la historia de Canadá. Puso a las Primeras Naciones bajo la tutela directa del Estado durante casi siglo y medio. Para entender la situación de los indígenas hoy, hay que entender esta ley, pues muchas heridas actuales vienen de ella.",
-            "ca": "Aprovada el 1876, la Llei sobre els Indis és probablement la llei més decisiva —i més criticada— de la història del Canadà. Va posar les Primeres Nacions sota la tutela directa de l'Estat durant gairebé segle i mig. Per entendre la situació dels indígenes avui, cal entendre aquesta llei, perquè moltes ferides actuals en vénen."
-          },
-          {
-            "h": {
-              "fr": "Une loi pour tout contrôler",
-              "es": "Una ley para controlarlo todo",
-              "ca": "Una llei per controlar-ho tot"
-            }
-          },
-          {
-            "fr": "La loi rassemblait sous l'autorité d'Ottawa presque tous les aspects de la vie autochtone. Dans chaque réserve, un fonctionnaire, « l'agent des Indiens », avait un pouvoir immense. Pendant des décennies, un « système de laissez-passer » a même obligé les gens à obtenir un papier signé par cet agent pour simplement quitter leur réserve — pour vendre leurs récoltes, visiter de la famille ou chercher du travail. L'État gérait les terres, l'argent des communautés et tenait un registre décidant qui était, ou non, un « Indien » à ses yeux.",
-            "es": "La ley reunía bajo la autoridad de Ottawa casi todos los aspectos de la vida indígena. En cada reserva, un funcionario, «el agente de los indios», tenía un poder inmenso. Durante décadas, un «sistema de salvoconductos» obligaba incluso a la gente a obtener un papel firmado por ese agente para simplemente salir de su reserva: para vender sus cosechas, visitar a la familia o buscar trabajo. El Estado gestionaba las tierras, el dinero de las comunidades y llevaba un registro que decidía quién era, o no, un «indio» a sus ojos.",
-            "ca": "La llei reunia sota l'autoritat d'Ottawa gairebé tots els aspectes de la vida indígena. A cada reserva, un funcionari, «l'agent dels indis», tenia un poder immens. Durant dècades, un «sistema de salconduits» obligava fins i tot la gent a obtenir un paper signat per aquest agent per simplement sortir de la seva reserva: per vendre les collites, visitar la família o buscar feina. L'Estat gestionava les terres, els diners de les comunitats i portava un registre que decidia qui era, o no, un «indi» als seus ulls."
           },
           {
             "h": {
@@ -86,9 +81,114 @@
             }
           },
           {
-            "fr": "Pour effacer les cultures, la loi s'est aussi attaquée aux traditions. De 1885 à 1951, elle a interdit le potlatch — une grande cérémonie de dons et de transmission — ainsi que d'autres danses sacrées; des gens ont été arrêtés et leurs objets cérémoniels confisqués. C'est également la Loi sur les Indiens qui a fourni la base légale des pensionnats, où des générations d'enfants ont été arrachés à leur famille. Le but, écrit noir sur blanc à l'époque, était l'assimilation : « tuer l'Indien dans l'enfant ».",
-            "es": "Para borrar las culturas, la ley también atacó las tradiciones. De 1885 a 1951 prohibió el potlatch —una gran ceremonia de regalos y de transmisión— y otras danzas sagradas; hubo personas detenidas y se confiscaron sus objetos ceremoniales. También fue la Ley sobre los Indios la que dio la base legal a los internados, donde generaciones de niños fueron arrancados de su familia. El objetivo, escrito con todas las letras en la época, era la asimilación: «matar al indio en el niño».",
-            "ca": "Per esborrar les cultures, la llei també va atacar les tradicions. Del 1885 al 1951 va prohibir el potlatch —una gran cerimònia de regals i de transmissió— i altres danses sagrades; hi va haver persones detingudes i se'ls van confiscar els objectes cerimonials. També va ser la Llei sobre els Indis la que va donar la base legal als internats, on generacions de nens van ser arrencats de la seva família. L'objectiu, escrit amb totes les lletres a l'època, era l'assimilació: «matar l'indi en el nen»."
+            "fr": "Pour effacer les cultures, la loi a interdit le potlatch — une grande cérémonie de dons — de 1884 à 1951. Des gens ont été arrêtés et leurs objets sacrés confisqués. La même loi a servi de base aux pensionnats. Tout cela visait le même but : l'assimilation.",
+            "es": "Para borrar las culturas, la ley prohibió el potlatch —una gran ceremonia de regalos— de 1884 a 1951. Hubo personas detenidas y se confiscaron sus objetos sagrados. La misma ley sirvió de base a los internados. Todo buscaba el mismo objetivo: la asimilación.",
+            "ca": "Per esborrar les cultures, la llei va prohibir el potlatch —una gran cerimònia de regals— del 1884 al 1951. Hi va haver persones detingudes i se'ls van confiscar els objectes sagrats. La mateixa llei va servir de base als internats. Tot buscava el mateix objectiu: l'assimilació."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Adoptée en 1876, la Loi sur les Indiens est sans doute la loi la plus marquante — et la plus critiquée — de l'histoire du Canada. Pendant près d'un siècle et demi, elle a placé les Premières Nations sous la tutelle directe de l'État. Pour comprendre la situation des Autochtones aujourd'hui, il faut comprendre cette loi, car une grande partie des blessures actuelles vient d'elle. Cette première partie en explique le fonctionnement; la seconde racontera son injustice particulière envers les femmes.",
+            "es": "Aprobada en 1876, la Ley sobre los Indios es probablemente la ley más decisiva —y más criticada— de la historia de Canadá. Durante casi siglo y medio puso a las Primeras Naciones bajo la tutela directa del Estado. Para entender la situación de los indígenas hoy, hay que entender esta ley, pues gran parte de las heridas actuales viene de ella. Esta primera parte explica su funcionamiento; la segunda contará su injusticia particular hacia las mujeres.",
+            "ca": "Aprovada el 1876, la Llei sobre els Indis és probablement la llei més decisiva —i més criticada— de la història del Canadà. Durant gairebé segle i mig va posar les Primeres Nacions sota la tutela directa de l'Estat. Per entendre la situació dels indígenes avui, cal entendre aquesta llei, perquè gran part de les ferides actuals en ve. Aquesta primera part n'explica el funcionament; la segona explicarà la seva injustícia particular cap a les dones."
+          },
+          {
+            "h": {
+              "fr": "Une loi pour gouverner des vies",
+              "es": "Una ley para gobernar vidas",
+              "ca": "Una llei per governar vides"
+            }
+          },
+          {
+            "fr": "En 1876, Ottawa rassemble dans un seul texte toutes les lois qui touchent les Autochtones. D'un coup, la Loi sur les Indiens règle leur vie du berceau jusqu'à la tombe : elle dit qui est un « Indien » aux yeux de la loi, où il peut vivre, comment sa communauté est dirigée, et même ce qu'il advient de ses biens à sa mort. Le pays se donne ainsi le pouvoir de gérer des centaines de nations comme s'il s'agissait d'enfants à surveiller. Derrière les beaux mots de « protection », l'objectif réel est clair : transformer les peuples autochtones jusqu'à ce qu'ils disparaissent en tant que peuples distincts.",
+            "es": "En 1876, Ottawa reúne en un solo texto todas las leyes que afectan a los indígenas. De golpe, la Ley sobre los Indios regula su vida desde la cuna hasta la tumba: dice quién es un «indio» a ojos de la ley, dónde puede vivir, cómo se dirige su comunidad e incluso qué ocurre con sus bienes al morir. El país se otorga así el poder de gestionar a centenares de naciones como si fueran niños a vigilar. Tras las bonitas palabras de «protección», el objetivo real es claro: transformar a los pueblos indígenas hasta que desaparezcan como pueblos distintos.",
+            "ca": "El 1876, Ottawa reuneix en un sol text totes les lleis que afecten els indígenes. De cop, la Llei sobre els Indis regula la seva vida des del bressol fins a la tomba: diu qui és un «indi» als ulls de la llei, on pot viure, com es dirigeix la seva comunitat i fins i tot què passa amb els seus béns en morir. El país s'atorga així el poder de gestionar centenars de nacions com si fossin nens a vigilar. Darrere les boniques paraules de «protecció», l'objectiu real és clar: transformar els pobles indígenes fins que desapareguin com a pobles diferents."
+          },
+          {
+            "h": {
+              "fr": "L'agent des Indiens et le laissez-passer",
+              "es": "El agente de los indios y el salvoconducto",
+              "ca": "L'agent dels indis i el salconduit"
+            }
+          },
+          {
+            "fr": "Sur le terrain, tout passe par un homme : l'« agent des Indiens ». Nommé par le gouvernement, il contrôle l'argent de la bande, surveille les élections, peut destituer un chef, et décide de mille petites choses du quotidien. À partir des années 1880, un « système de laissez-passer » est même imposé : pour quitter sa réserve — vendre ses récoltes au marché, rendre visite à de la famille, chercher du travail — une personne doit obtenir un papier signé par l'agent. Ce système n'a jamais vraiment été inscrit dans la loi, mais il a été appliqué pendant des décennies, enfermant des communautés entières sur leurs terres et brisant les liens entre les nations.",
+            "es": "Sobre el terreno, todo pasa por un hombre: el «agente de los indios». Nombrado por el gobierno, controla el dinero de la banda, vigila las elecciones, puede destituir a un jefe y decide mil pequeñas cosas del día a día. A partir de los años 1880 se impone incluso un «sistema de salvoconductos»: para salir de su reserva —vender sus cosechas, visitar a la familia, buscar trabajo— una persona debe obtener un papel firmado por el agente. Ese sistema nunca quedó realmente escrito en la ley, pero se aplicó durante décadas, encerrando a comunidades enteras en sus tierras y rompiendo los lazos entre las naciones.",
+            "ca": "Sobre el terreny, tot passa per un home: l'«agent dels indis». Nomenat pel govern, controla els diners de la banda, vigila les eleccions, pot destituir un cap i decideix mil petites coses del dia a dia. A partir dels anys 1880 s'imposa fins i tot un «sistema de salconduits»: per sortir de la seva reserva —vendre les collites, visitar la família, buscar feina— una persona ha d'obtenir un paper signat per l'agent. Aquest sistema mai no va quedar realment escrit a la llei, però es va aplicar durant dècades, tancant comunitats senceres a les seves terres i trencant els lligams entre les nacions."
+          },
+          {
+            "h": {
+              "fr": "« S'émanciper » : renoncer à soi-même",
+              "es": "«Emanciparse»: renunciar a uno mismo",
+              "ca": "«Emancipar-se»: renunciar a un mateix"
+            }
+          },
+          {
+            "fr": "La loi prévoyait aussi un mécanisme étrange : l'« émancipation ». Un Autochtone pouvait obtenir des droits réservés aux autres Canadiens — comme voter ou posséder une terre en son nom — mais à une condition : renoncer à son statut d'« Indien », donc à son appartenance légale à sa nation. Pendant longtemps, un homme perdait même automatiquement son statut s'il devenait médecin, prêtre ou avocat, ou s'il obtenait un diplôme universitaire. Le message était brutal : pour être traité en citoyen à part entière, il fallait cesser d'être autochtone.",
+            "es": "La ley preveía también un mecanismo extraño: la «emancipación». Un indígena podía obtener derechos reservados a los demás canadienses —como votar o poseer tierra a su nombre— pero con una condición: renunciar a su estatus de «indio», es decir a su pertenencia legal a su nación. Durante mucho tiempo, un hombre perdía incluso automáticamente su estatus si se hacía médico, sacerdote o abogado, o si obtenía un título universitario. El mensaje era brutal: para ser tratado como ciudadano de pleno derecho, había que dejar de ser indígena.",
+            "ca": "La llei preveia també un mecanisme estrany: l'«emancipació». Un indígena podia obtenir drets reservats als altres canadencs —com votar o posseir terra al seu nom— però amb una condició: renunciar al seu estatus d'«indi», és a dir a la seva pertinença legal a la seva nació. Durant molt de temps, un home perdia fins i tot automàticament el seu estatus si es feia metge, sacerdot o advocat, o si obtenia un títol universitari. El missatge era brutal: per ser tractat com a ciutadà de ple dret, calia deixar de ser indígena."
+
+
+          },
+          {
+            "h": {
+              "fr": "La guerre aux cérémonies : le potlatch",
+              "es": "La guerra a las ceremonias: el potlatch",
+              "ca": "La guerra a les cerimònies: el potlatch"
+            }
+          },
+          {
+            "fr": "Pour atteindre les cœurs, la loi s'attaque enfin aux traditions. En 1884, elle interdit le potlatch, la grande cérémonie des peuples de la côte du Pacifique. Lors d'un potlatch, une famille offre des cadeaux à toute la communauté : on y règle les héritages, on y nomme les chefs, on y garde la mémoire — c'est à la fois une fête, un tribunal et une bibliothèque vivante. Le gouvernement, lui, n'y voit qu'un « gaspillage » contraire à ses valeurs. En 1921, à Alert Bay, des dizaines de personnes sont arrêtées pour avoir participé à un potlatch; on confisque leurs masques et leurs objets sacrés, envoyés dans des musées. Beaucoup ne reviendront qu'à la fin du XXᵉ siècle. L'interdiction ne sera levée qu'en 1951.",
+            "es": "Para alcanzar los corazones, la ley ataca por fin las tradiciones. En 1884 prohíbe el potlatch, la gran ceremonia de los pueblos de la costa del Pacífico. En un potlatch, una familia ofrece regalos a toda la comunidad: se resuelven las herencias, se nombra a los jefes, se guarda la memoria —es a la vez una fiesta, un tribunal y una biblioteca viva. El gobierno solo ve en ello un «despilfarro» contrario a sus valores. En 1921, en Alert Bay, decenas de personas son detenidas por participar en un potlatch; se confiscan sus máscaras y objetos sagrados, enviados a museos. Muchos no volverán hasta finales del siglo XX. La prohibición no se levantará hasta 1951.",
+            "ca": "Per arribar als cors, la llei ataca finalment les tradicions. El 1884 prohibeix el potlatch, la gran cerimònia dels pobles de la costa del Pacífic. En un potlatch, una família ofereix regals a tota la comunitat: s'hi resolen les herències, s'hi nomenen els caps, s'hi guarda la memòria —és alhora una festa, un tribunal i una biblioteca viva. El govern només hi veu un «malbaratament» contrari als seus valors. El 1921, a Alert Bay, desenes de persones són detingudes per participar en un potlatch; se'ls confisquen les màscares i els objectes sagrats, enviats a museus. Molts no tornaran fins a finals del segle XX. La prohibició no s'aixecarà fins al 1951."
+          },
+          {
+            "h": {
+              "fr": "Des terres qui rétrécissent",
+              "es": "Tierras que se encogen",
+              "ca": "Terres que s'encongeixen"
+            }
+          },
+          {
+            "fr": "La loi a aussi servi à réduire, peu à peu, les terres autochtones. Le pays avait créé des « réserves » — de petits territoires mis de côté pour chaque communauté — mais ces réserves pouvaient être rognées. L'agent et le gouvernement poussaient les bandes à « céder » des morceaux de terre, souvent les meilleurs, pour les ouvrir aux colons, aux chemins de fer ou aux villes voisines. Quand une réserve gênait la croissance d'une ville, on pouvait même la déplacer tout entière. Au bout du compte, des nations qui avaient occupé d'immenses territoires se sont retrouvées sur de minuscules parcelles, dépendantes d'Ottawa pour la moindre décision. Cette perte de terres n'était pas un hasard : elle allait de pair avec le reste du projet.",
+            "es": "La ley también sirvió para reducir, poco a poco, las tierras indígenas. El país había creado «reservas» —pequeños territorios apartados para cada comunidad—, pero esas reservas podían recortarse. El agente y el gobierno presionaban a las bandas para «ceder» trozos de tierra, a menudo los mejores, para abrirlos a los colonos, los ferrocarriles o las ciudades vecinas. Cuando una reserva estorbaba el crecimiento de una ciudad, se podía incluso desplazarla entera. Al final, naciones que habían ocupado inmensos territorios acabaron en parcelas minúsculas, dependientes de Ottawa para la menor decisión. Esa pérdida de tierras no era casual: iba de la mano con el resto del proyecto.",
+            "ca": "La llei també va servir per reduir, a poc a poc, les terres indígenes. El país havia creat «reserves» —petits territoris apartats per a cada comunitat—, però aquestes reserves es podien retallar. L'agent i el govern pressionaven les bandes perquè «cedissin» trossos de terra, sovint els millors, per obrir-los als colons, als ferrocarrils o a les ciutats veïnes. Quan una reserva molestava el creixement d'una ciutat, es podia fins i tot desplaçar-la sencera. Al final, nacions que havien ocupat immensos territoris van acabar en parcel·les minúscules, dependents d'Ottawa per a la mínima decisió. Aquesta pèrdua de terres no era casual: anava de la mà amb la resta del projecte."
+          },
+          {
+            "h": {
+              "fr": "Gouvernés, mais sans voix",
+              "es": "Gobernados, pero sin voz",
+              "ca": "Governats, però sense veu"
+            }
+          },
+          {
+            "fr": "Plus surprenant encore : pendant la majeure partie de cette histoire, les « Indiens » inscrits n'avaient pas le droit de voter aux élections fédérales. Autrement dit, le pays décidait de chaque détail de leur vie, mais ils n'avaient aucune voix pour choisir ce gouvernement — à moins, encore une fois, de renoncer à leur statut. Il a fallu attendre 1960 pour que les Premières Nations obtiennent enfin le droit de vote fédéral sans rien perdre de leur identité. Pendant près d'un siècle, des gens avaient donc été gouvernés de très près, sans jamais être écoutés.",
+            "es": "Aún más sorprendente: durante la mayor parte de esta historia, los «indios» inscritos no tenían derecho a votar en las elecciones federales. Es decir, el país decidía cada detalle de su vida, pero ellos no tenían voz para elegir ese gobierno —salvo, de nuevo, renunciando a su estatus. Hubo que esperar a 1960 para que las Primeras Naciones obtuvieran por fin el derecho de voto federal sin perder su identidad. Durante casi un siglo, personas fueron gobernadas muy de cerca, sin ser jamás escuchadas.",
+            "ca": "Encara més sorprenent: durant la major part d'aquesta història, els «indis» inscrits no tenien dret a votar a les eleccions federals. És a dir, el país decidia cada detall de la seva vida, però ells no tenien veu per triar aquell govern —tret, de nou, de renunciar al seu estatus. Es va haver d'esperar fins al 1960 perquè les Primeres Nacions obtinguessin per fi el dret de vot federal sense perdre la seva identitat. Durant gairebé un segle, persones van ser governades molt de prop, sense ser mai escoltades."
+          },
+          {
+            "h": {
+              "fr": "Résister malgré tout",
+              "es": "Resistir a pesar de todo",
+              "ca": "Resistir malgrat tot"
+            }
+          },
+          {
+            "fr": "Il serait faux, pourtant, de ne voir là que des victimes. Tout au long de cette histoire, les peuples autochtones ont résisté. On a tenu des potlatchs en secret, dans des maisons isolées, loin du regard des agents. On a continué à parler sa langue à voix basse, à transmettre les récits et les chants. Des chefs ont écrit des lettres, engagé des avocats, fait le voyage jusqu'à Ottawa ou Londres pour réclamer justice. La Loi sur les Indiens a fait d'immenses dégâts, mais elle n'a jamais atteint son but ultime : les nations sont toujours là, et c'est précisément cette résistance patiente qui a fini, plus tard, par faire reculer la loi.",
+            "es": "Sería falso, sin embargo, ver ahí solo a víctimas. A lo largo de esta historia, los pueblos indígenas resistieron. Se celebraron potlatchs en secreto, en casas aisladas, lejos de la mirada de los agentes. Se siguió hablando la lengua en voz baja, transmitiendo los relatos y los cantos. Jefes escribieron cartas, contrataron abogados, viajaron hasta Ottawa o Londres para reclamar justicia. La Ley sobre los Indios hizo un daño inmenso, pero nunca alcanzó su objetivo último: las naciones siguen ahí, y es precisamente esa resistencia paciente la que acabó, más tarde, por hacer retroceder la ley.",
+            "ca": "Seria fals, però, veure-hi només víctimes. Al llarg d'aquesta història, els pobles indígenes van resistir. Es van celebrar potlatchs en secret, en cases aïllades, lluny de la mirada dels agents. Es va continuar parlant la llengua en veu baixa, transmetent els relats i els cants. Caps van escriure cartes, van contractar advocats, van viatjar fins a Ottawa o Londres per reclamar justícia. La Llei sobre els Indis va fer un dany immens, però mai no va assolir el seu objectiu últim: les nacions encara hi són, i és precisament aquesta resistència pacient la que va acabar, més tard, fent recular la llei."
+          },
+          {
+            "h": {
+              "fr": "Un seul but : l'assimilation",
+              "es": "Un solo objetivo: la asimilación",
+              "ca": "Un sol objectiu: l'assimilació"
+            }
+          },
+          {
+            "fr": "Derrière chacune de ces mesures, on retrouve la même idée. Un haut fonctionnaire de l'époque résumait froidement le projet : continuer jusqu'à ce qu'il n'existe plus un seul « Indien » non absorbé dans la société canadienne. C'est cette même logique qui a donné naissance aux pensionnats, où l'on arrachait les enfants à leur famille. La Loi sur les Indiens n'était donc pas une simple série de règles administratives : c'était l'outil central d'un projet d'effacement. Elle existe toujours aujourd'hui, modifiée, et reste au cœur des débats sur les droits et l'autonomie des Premières Nations.",
+            "es": "Tras cada una de estas medidas se encuentra la misma idea. Un alto funcionario de la época resumía fríamente el proyecto: continuar hasta que no quede un solo «indio» sin absorber en la sociedad canadiense. Es esa misma lógica la que dio origen a los internados, donde se arrancaba a los niños de su familia. La Ley sobre los Indios no era, pues, una simple serie de reglas administrativas: era la herramienta central de un proyecto de borrado. Sigue existiendo hoy, modificada, y continúa en el centro de los debates sobre los derechos y la autonomía de las Primeras Naciones.",
+            "ca": "Darrere cadascuna d'aquestes mesures hi ha la mateixa idea. Un alt funcionari de l'època resumia fredament el projecte: continuar fins que no quedi ni un sol «indi» sense absorbir en la societat canadenca. És aquesta mateixa lògica la que va donar origen als internats, on s'arrencava els nens de la seva família. La Llei sobre els Indis no era, doncs, una simple sèrie de regles administratives: era l'eina central d'un projecte d'esborrament. Encara existeix avui, modificada, i continua al centre dels debats sobre els drets i l'autonomia de les Primeres Nacions."
           }
         ]
       },
@@ -119,6 +219,11 @@
           "ca": "prohibir"
         },
         {
+          "mot": "une cérémonie",
+          "es": "una ceremonia",
+          "ca": "una cerimònia"
+        },
+        {
           "mot": "l'assimilation",
           "es": "la asimilación",
           "ca": "l'assimilació"
@@ -147,12 +252,22 @@
         },
         {
           "q": {
-            "es": "¿Qué ceremonia se prohibió (1885-1951)?",
-            "ca": "Quina cerimònia es va prohibir (1885-1951)?"
+            "es": "¿Qué ceremonia se prohibió de 1884 a 1951?",
+            "ca": "Quina cerimònia es va prohibir del 1884 al 1951?"
           },
           "piste": {
             "es": "el potlatch",
             "ca": "el potlatch"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál era el objetivo de la ley?",
+            "ca": "Quin era l'objectiu de la llei?"
+          },
+          "piste": {
+            "es": "la asimilación",
+            "ca": "l'assimilació"
           }
         }
       ],
@@ -160,6 +275,10 @@
         {
           "titre": "L'Encyclopédie canadienne — Loi sur les Indiens",
           "url": "https://www.thecanadianencyclopedia.ca/en/article/indian-act"
+        },
+        {
+          "titre": "Musée canadien des droits de la personne — Le potlatch",
+          "url": "https://humanrights.ca/story/bringing-the-potlatch-home"
         }
       ]
     }

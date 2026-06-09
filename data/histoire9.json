@@ -9,101 +9,186 @@
         "es": "La crisis de Oka (1990)",
         "ca": "La crisi d'Oka (1990)"
       },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+        "credit": {
+          "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+          "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+        }
+      },
       "niveaux": {
         "a1": [
           {
-            "fr": "En 1990, il y a eu un grand conflit près de Montréal : la crise d'Oka. Des Mohawks ont défendu une forêt sacrée.",
-            "es": "En 1990 hubo un gran conflicto cerca de Montreal: la crisis de Oka. Unos mohawks defendieron un bosque sagrado.",
-            "ca": "El 1990 hi va haver un gran conflicte a prop de Montreal: la crisi d'Oka. Uns mohawks van defensar un bosc sagrat."
+            "fr": "En 1990, près de Montréal, une ville voulait agrandir un terrain de golf sur une forêt sacrée mohawk : « les Pins ». Il y avait même un cimetière.",
+            "es": "En 1990, cerca de Montreal, una ciudad quería ampliar un campo de golf sobre un bosque sagrado mohawk: «los Pinos». Había incluso un cementerio.",
+            "ca": "El 1990, a prop de Montreal, una ciutat volia ampliar un camp de golf sobre un bosc sagrat mohawk: «els Pins». Hi havia fins i tot un cementiri."
           },
           {
-            "fr": "La ville voulait agrandir un terrain de golf sur un vieux cimetière mohawk. Les Mohawks ont dit non et ont bloqué la route.",
-            "es": "La ciudad quería ampliar un campo de golf sobre un viejo cementerio mohawk. Los mohawks dijeron no y bloquearon la carretera.",
-            "ca": "La ciutat volia ampliar un camp de golf sobre un vell cementiri mohawk. Els mohawks van dir no i van bloquejar la carretera."
+            "fr": "Les Mohawks ont dit non et ont bloqué la route. La police, puis l'armée, sont arrivées. Cela a duré 78 jours.",
+            "es": "Los mohawks dijeron no y bloquearon la carretera. La policía, y luego el ejército, llegaron. Duró 78 días.",
+            "ca": "Els mohawks van dir que no i van bloquejar la carretera. La policia, i després l'exèrcit, van arribar. Va durar 78 dies."
           },
           {
-            "fr": "La police, puis l'armée, sont arrivées. Le bras de fer a duré 78 jours. À la fin, le golf n'a pas été agrandi.",
-            "es": "Llegó la policía y luego el ejército. El pulso duró 78 días. Al final, el golf no se amplió.",
-            "ca": "Va arribar la policia i després l'exèrcit. El pols va durar 78 dies. Al final, el golf no es va ampliar."
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+                "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+              }
+            }
+          },
+          {
+            "fr": "À la fin, le golf n'a pas été agrandi. Mais c'est devenu un symbole de la lutte des Autochtones pour leurs terres.",
+            "es": "Al final, el golf no se amplió. Pero se convirtió en un símbolo de la lucha de los indígenas por sus tierras.",
+            "ca": "Al final, el golf no es va ampliar. Però es va convertir en un símbol de la lluita dels indígenes per les seves terres."
           }
         ],
         "a2": [
           {
-            "fr": "À l'été 1990, un conflit a marqué l'histoire du Canada : la crise d'Oka, aussi appelée la résistance de Kanesatake. Pendant 78 jours, des Mohawks (Kanien'kehá:ka) ont fait face à la police, puis à l'armée.",
-            "es": "En el verano de 1990, un conflicto marcó la historia de Canadá: la crisis de Oka, también llamada la resistencia de Kanesatake. Durante 78 días, unos mohawks (Kanien'kehá:ka) se enfrentaron a la policía y luego al ejército.",
-            "ca": "L'estiu de 1990, un conflicte va marcar la història del Canadà: la crisi d'Oka, també anomenada la resistència de Kanesatake. Durant 78 dies, uns mohawks (Kanien'kehá:ka) es van enfrontar a la policia i després a l'exèrcit."
+            "fr": "Pendant l'été 1990, près de Montréal, une crise a opposé les Mohawks de Kanesatake à la police et à l'armée canadienne. On l'appelle la « crise d'Oka ». Tout a commencé à cause d'un terrain de golf.",
+            "es": "Durante el verano de 1990, cerca de Montreal, una crisis enfrentó a los mohawks de Kanesatake con la policía y el ejército canadiense. Se la llama la «crisis de Oka». Todo empezó por un campo de golf.",
+            "ca": "Durant l'estiu de 1990, a prop de Montreal, una crisi va enfrontar els mohawks de Kanesatake amb la policia i l'exèrcit canadenc. Se l'anomena la «crisi d'Oka». Tot va començar per un camp de golf."
           },
           {
             "h": {
-              "fr": "L'étincelle",
-              "es": "La chispa",
-              "ca": "L'espurna"
+              "fr": "Une forêt sacrée",
+              "es": "Un bosque sagrado",
+              "ca": "Un bosc sagrat"
             }
           },
           {
-            "fr": "La ville d'Oka voulait agrandir un terrain de golf sur « les Pins », une pinède sacrée qui abritait un cimetière mohawk. Les Mohawks de Kanesatake s'y sont opposés et ont dressé une barricade. Le 11 juillet, la police a voulu la détruire par la force, et un policier est mort dans l'affrontement.",
-            "es": "La ciudad de Oka quería ampliar un campo de golf sobre «los Pinos», un pinar sagrado con un cementerio mohawk. Los mohawks de Kanesatake se opusieron y levantaron una barricada. El 11 de julio, la policía quiso destruirla por la fuerza, y un policía murió en el enfrentamiento.",
-            "ca": "La ciutat d'Oka volia ampliar un camp de golf sobre «els Pins», una pineda sagrada amb un cementiri mohawk. Els mohawks de Kanesatake s'hi van oposar i van aixecar una barricada. L'11 de juliol, la policia la va voler destruir per la força, i un policia va morir en l'enfrontament."
+            "fr": "La ville d'Oka voulait agrandir son golf sur « les Pins », une forêt mohawk qui contenait un ancien cimetière. Les Mohawks ont installé une barricade pour protéger leurs terres. Le 11 juillet, la police a attaqué; un policier, le caporal Lemay, est mort. Personne ne sait qui a tiré.",
+            "es": "La ciudad de Oka quería ampliar su golf sobre «los Pinos», un bosque mohawk que contenía un antiguo cementerio. Los mohawks instalaron una barricada para proteger sus tierras. El 11 de julio, la policía atacó; un policía, el cabo Lemay, murió. Nadie sabe quién disparó.",
+            "ca": "La ciutat d'Oka volia ampliar el seu golf sobre «els Pins», un bosc mohawk que contenia un antic cementiri. Els mohawks van instal·lar una barricada per protegir les seves terres. L'11 de juliol, la policia va atacar; un policia, el caporal Lemay, va morir. Ningú no sap qui va disparar."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+                "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+              }
+            }
           },
           {
             "h": {
-              "fr": "Le bras de fer",
-              "es": "El pulso",
-              "ca": "El pols"
+              "fr": "78 jours de tension",
+              "es": "78 días de tensión",
+              "ca": "78 dies de tensió"
             }
           },
           {
-            "fr": "En solidarité, les Mohawks de Kahnawake ont bloqué le pont Mercier, un axe vital vers Montréal. L'armée canadienne a été appelée. Le siège a duré 78 jours, jusqu'au 26 septembre. À la fin, l'agrandissement du golf a été annulé et le gouvernement a racheté les terres.",
-            "es": "En solidaridad, los mohawks de Kahnawake bloquearon el puente Mercier, un eje vital hacia Montreal. Se llamó al ejército canadiense. El asedio duró 78 días, hasta el 26 de septiembre. Al final, la ampliación del golf se canceló y el gobierno compró las tierras.",
-            "ca": "En solidaritat, els mohawks de Kahnawake van bloquejar el pont Mercier, un eix vital cap a Montreal. Es va cridar l'exèrcit canadenc. El setge va durar 78 dies, fins al 26 de setembre. Al final, l'ampliació del golf es va cancel·lar i el govern va comprar les terres."
-          },
-          {
-            "fr": "La crise d'Oka a montré au monde la force des revendications autochtones. Mais à Kanesatake, la question des terres n'est toujours pas réglée.",
-            "es": "La crisis de Oka mostró al mundo la fuerza de las reivindicaciones indígenas. Pero en Kanesatake, la cuestión de las tierras sigue sin resolverse.",
-            "ca": "La crisi d'Oka va mostrar al món la força de les reivindicacions indígenes. Però a Kanesatake, la qüestió de les terres encara no està resolta."
+            "fr": "Pour aider Kanesatake, les Mohawks de Kahnawake ont bloqué le pont Mercier, très important pour Montréal. La tension est montée très haut. Finalement, l'armée canadienne est arrivée. Le 26 septembre, après 78 jours, la crise s'est terminée. Le golf n'a jamais été agrandi.",
+            "es": "Para ayudar a Kanesatake, los mohawks de Kahnawake bloquearon el puente Mercier, muy importante para Montreal. La tensión subió muchísimo. Finalmente, el ejército canadiense llegó. El 26 de septiembre, tras 78 días, la crisis terminó. El golf nunca se amplió.",
+            "ca": "Per ajudar Kanesatake, els mohawks de Kahnawake van bloquejar el pont Mercier, molt important per a Montreal. La tensió va pujar moltíssim. Finalment, l'exèrcit canadenc va arribar. El 26 de setembre, després de 78 dies, la crisi va acabar. El golf no es va ampliar mai."
           }
         ],
         "b1": [
           {
-            "fr": "À l'été 1990, un événement a profondément marqué l'histoire du Canada : la crise d'Oka, que les Mohawks préfèrent appeler la résistance de Kanesatake. Pendant 78 jours, des Kanien'kehá:ka (Mohawks) ont fait face à la police du Québec, puis à l'armée canadienne. Ce fut le plus grand affrontement entre l'État et des Autochtones de l'histoire récente du pays.",
-            "es": "En el verano de 1990, un acontecimiento marcó profundamente la historia de Canadá: la crisis de Oka, que los mohawks prefieren llamar la resistencia de Kanesatake. Durante 78 días, unos Kanien'kehá:ka (mohawks) se enfrentaron a la policía de Quebec y luego al ejército canadiense. Fue el mayor enfrentamiento entre el Estado y los indígenas en la historia reciente del país.",
-            "ca": "L'estiu de 1990, un esdeveniment va marcar profundament la història del Canadà: la crisi d'Oka, que els mohawks prefereixen anomenar la resistència de Kanesatake. Durant 78 dies, uns Kanien'kehá:ka (mohawks) es van enfrontar a la policia del Quebec i després a l'exèrcit canadenc. Va ser el major enfrontament entre l'Estat i els indígenes en la història recent del país."
+            "fr": "Pendant l'été 1990, à une heure de Montréal, s'est joué l'un des moments les plus marquants de l'histoire récente du Québec et du Canada : la crise d'Oka, que les Mohawks appellent plutôt la « résistance de Kanesatake ». Pendant 78 jours, une petite communauté autochtone a tenu tête à la police provinciale puis à l'armée canadienne, pour défendre une forêt et un cimetière. Tout est parti, incroyablement, d'un projet de terrain de golf.",
+            "es": "Durante el verano de 1990, a una hora de Montreal, se vivió uno de los momentos más decisivos de la historia reciente de Quebec y de Canadá: la crisis de Oka, que los mohawks prefieren llamar la «resistencia de Kanesatake». Durante 78 días, una pequeña comunidad indígena plantó cara a la policía provincial y luego al ejército canadiense para defender un bosque y un cementerio. Todo empezó, increíblemente, por un proyecto de campo de golf.",
+            "ca": "Durant l'estiu de 1990, a una hora de Montreal, es va viure un dels moments més decisius de la història recent del Quebec i del Canadà: la crisi d'Oka, que els mohawks prefereixen anomenar la «resistència de Kanesatake». Durant 78 dies, una petita comunitat indígena va plantar cara a la policia provincial i després a l'exèrcit canadenc per defensar un bosc i un cementiri. Tot va començar, increïblement, per un projecte de camp de golf."
           },
           {
             "h": {
-              "fr": "L'étincelle : les Pins",
-              "es": "La chispa: los Pinos",
-              "ca": "L'espurna: els Pins"
+              "fr": "Une dispute vieille de trois siècles",
+              "es": "Una disputa de tres siglos",
+              "ca": "Una disputa de tres segles"
             }
           },
           {
-            "fr": "Tout part de la petite ville d'Oka, près de Montréal. La municipalité veut agrandir un terrain de golf et construire des maisons sur « les Pins » — une pinède sacrée qui abrite un ancien cimetière mohawk, sur des terres que la communauté revendique depuis le XVIIᵉ siècle. Les Mohawks de Kanesatake dressent une barricade pour protéger le lieu. Le 11 juillet, la police provinciale tente de l'enlever par la force, à coups de gaz lacrymogène; dans l'échange de tirs, le caporal Marcel Lemay est tué.",
-            "es": "Todo parte de la pequeña ciudad de Oka, cerca de Montreal. El municipio quiere ampliar un campo de golf y construir casas sobre «los Pinos» —un pinar sagrado con un antiguo cementerio mohawk, en tierras que la comunidad reclama desde el siglo XVII. Los mohawks de Kanesatake levantan una barricada para proteger el lugar. El 11 de julio, la policía provincial intenta quitarla por la fuerza, con gases lacrimógenos; en el intercambio de disparos, el cabo Marcel Lemay muere.",
-            "ca": "Tot parteix de la petita ciutat d'Oka, a prop de Montreal. El municipi vol ampliar un camp de golf i construir cases sobre «els Pins» —una pineda sagrada amb un antic cementiri mohawk, en terres que la comunitat reclama des del segle XVII. Els mohawks de Kanesatake aixequen una barricada per protegir el lloc. L'11 de juliol, la policia provincial intenta treure-la per la força, amb gasos lacrimògens; en l'intercanvi de trets, el caporal Marcel Lemay mor."
+            "fr": "Pour comprendre, il faut remonter loin. Dès les années 1700, des prêtres, les Sulpiciens, reçoivent un immense territoire au bord du lac des Deux Montagnes, là où vivaient déjà les Kanien'kehá:ka (Mohawks). Au fil des siècles, ces terres ancestrales passent peu à peu sous d'autres mains, sans que les Mohawks ne les cèdent vraiment. Au XXᵉ siècle, la communauté de Kanesatake dépose des revendications territoriales pour récupérer ses terres : elles sont rejetées en 1975, puis de nouveau en 1986. Au cœur du litige se trouve « les Pins », une pinède plantée par les ancêtres mohawks, qui abrite un cimetière où reposent leurs morts.",
+            "es": "Para entenderlo, hay que remontarse lejos. Ya en el siglo XVIII, unos sacerdotes, los sulpicianos, reciben un inmenso territorio a orillas del lago de las Dos Montañas, donde ya vivían los kanien'kehá:ka (mohawks). Con los siglos, esas tierras ancestrales pasan poco a poco a otras manos, sin que los mohawks las cedan de verdad. En el siglo XX, la comunidad de Kanesatake presenta reivindicaciones territoriales para recuperar sus tierras: son rechazadas en 1975 y de nuevo en 1986. En el centro del litigio está «los Pinos», un pinar plantado por los antepasados mohawks, que alberga un cementerio donde reposan sus muertos.",
+            "ca": "Per entendre-ho, cal remuntar-se lluny. Ja al segle XVIII, uns sacerdots, els sulpicians, reben un immens territori a la vora del llac de les Dues Muntanyes, on ja vivien els kanien'kehá:ka (mohawks). Amb els segles, aquestes terres ancestrals passen a poc a poc a altres mans, sense que els mohawks les cedeixin de debò. Al segle XX, la comunitat de Kanesatake presenta reivindicacions territorials per recuperar les seves terres: són rebutjades el 1975 i de nou el 1986. Al centre del litigi hi ha «els Pins», una pineda plantada pels avantpassats mohawks, que acull un cementiri on reposen els seus morts."
           },
           {
             "h": {
-              "fr": "78 jours de siège",
-              "es": "78 días de asedio",
-              "ca": "78 dies de setge"
+              "fr": "Un terrain de golf de trop",
+              "es": "Un campo de golf de más",
+              "ca": "Un camp de golf de més"
             }
           },
           {
-            "fr": "En solidarité, les Mohawks de Kahnawake bloquent le pont Mercier, l'un des grands axes vers Montréal — ce qui exaspère des milliers d'automobilistes et fait monter la tension. Le gouvernement appelle l'armée canadienne en renfort : des soldats, des blindés et des avions de reconnaissance encerclent la communauté. Le face-à-face dure jusqu'au 26 septembre. La porte-parole Ellen Gabriel devient une voix marquante de la résistance.",
-            "es": "En solidaridad, los mohawks de Kahnawake bloquean el puente Mercier, uno de los grandes ejes hacia Montreal —lo que exaspera a miles de automovilistas y aumenta la tensión. El gobierno llama al ejército canadiense: soldados, blindados y aviones de reconocimiento rodean la comunidad. El cara a cara dura hasta el 26 de septiembre. La portavoz Ellen Gabriel se convierte en una voz destacada de la resistencia.",
-            "ca": "En solidaritat, els mohawks de Kahnawake bloquegen el pont Mercier, un dels grans eixos cap a Montreal —cosa que exaspera milers d'automobilistes i fa pujar la tensió. El govern crida l'exèrcit canadenc: soldats, blindats i avions de reconeixement envolten la comunitat. El cara a cara dura fins al 26 de setembre. La portaveu Ellen Gabriel es converteix en una veu destacada de la resistència."
+            "fr": "En 1989, le maire d'Oka, Jean Ouellette, annonce son intention d'agrandir le terrain de golf municipal — et de construire des maisons de ville — en plein sur les Pins et sur le cimetière mohawk. La communauté n'est même pas consultée. Pour les Kanien'kehá:ka, c'est la goutte de trop : on veut couper leurs arbres centenaires et profaner les tombes de leurs ancêtres pour quelques trous de golf. Le 10 mars 1990, un petit groupe installe un campement et bloque un chemin de terre dans la forêt. Pendant des mois, ils montent une garde pacifique, espérant simplement faire entendre raison aux autorités.",
+            "es": "En 1989, el alcalde de Oka, Jean Ouellette, anuncia su intención de ampliar el campo de golf municipal —y de construir casas adosadas— justo sobre los Pinos y el cementerio mohawk. A la comunidad ni siquiera se la consulta. Para los kanien'kehá:ka, es la gota que colma el vaso: quieren talar sus árboles centenarios y profanar las tumbas de sus antepasados por unos hoyos de golf. El 10 de marzo de 1990, un pequeño grupo instala un campamento y bloquea un camino de tierra en el bosque. Durante meses montan una guardia pacífica, esperando simplemente hacer entrar en razón a las autoridades.",
+            "ca": "El 1989, l'alcalde d'Oka, Jean Ouellette, anuncia la seva intenció d'ampliar el camp de golf municipal —i de construir cases adossades— just sobre els Pins i el cementiri mohawk. A la comunitat ni tan sols se la consulta. Per als kanien'kehá:ka, és la gota que fa vessar el got: volen talar els seus arbres centenaris i profanar les tombes dels seus avantpassats per uns forats de golf. El 10 de març de 1990, un petit grup instal·la un campament i bloqueja un camí de terra al bosc. Durant mesos hi munten una guàrdia pacífica, esperant simplement fer entrar en raó les autoritats."
           },
           {
             "h": {
-              "fr": "Ce qu'il en reste",
-              "es": "Lo que queda",
-              "ca": "El que en queda"
+              "fr": "Le 11 juillet 1990 : l'assaut",
+              "es": "El 11 de julio de 1990: el asalto",
+              "ca": "L'11 de juliol de 1990: l'assalt"
             }
           },
           {
-            "fr": "Au bout du compte, l'agrandissement du golf est annulé et le gouvernement fédéral rachète les terres en jeu. Mais surtout, la crise a montré au monde entier la détermination des peuples autochtones à défendre leurs terres. Elle a mené à une grande commission royale sur les peuples autochtones et reste un symbole puissant. Pourtant, plus de trente ans plus tard, à Kanesatake, la question fondamentale des terres n'est toujours pas réglée.",
-            "es": "Al final, la ampliación del golf se cancela y el gobierno federal compra las tierras en juego. Pero sobre todo, la crisis mostró al mundo entero la determinación de los pueblos indígenas en defender sus tierras. Llevó a una gran comisión real sobre los pueblos indígenas y sigue siendo un símbolo poderoso. Sin embargo, más de treinta años después, en Kanesatake, la cuestión fundamental de las tierras sigue sin resolverse.",
-            "ca": "Al final, l'ampliació del golf es cancel·la i el govern federal compra les terres en joc. Però sobretot, la crisi va mostrar al món sencer la determinació dels pobles indígenes a defensar les seves terres. Va portar a una gran comissió reial sobre els pobles indígenes i continua sent un símbol poderós. Tanmateix, més de trenta anys després, a Kanesatake, la qüestió fonamental de les terres encara no està resolta."
+            "fr": "Le 11 juillet au matin, la police provinciale, la Sûreté du Québec, décide d'en finir. Une centaine de policiers d'élite, armés, encerclent une trentaine de Mohawks qui défendent la barricade. Après une courte pause accordée pour une cérémonie du tabac, l'assaut commence : gaz lacrymogène (qui revient vers les policiers), grenades, machinerie lourde. En une trentaine de secondes de chaos et de coups de feu, un policier de 31 ans, le caporal Marcel Lemay, est tué. On n'a jamais pu établir d'où venait la balle. Sous le choc, la police recule en abandonnant ses véhicules — que les Mohawks utilisent aussitôt pour renforcer leur barricade.",
+            "es": "La mañana del 11 de julio, la policía provincial, la Sûreté du Québec, decide acabar con el asunto. Un centenar de policías de élite, armados, rodean a una treintena de mohawks que defienden la barricada. Tras una breve pausa concedida para una ceremonia del tabaco, comienza el asalto: gas lacrimógeno (que vuelve hacia los policías), granadas, maquinaria pesada. En unos treinta segundos de caos y disparos, un policía de 31 años, el cabo Marcel Lemay, muere. Nunca se pudo establecer de dónde venía la bala. Conmocionada, la policía retrocede abandonando sus vehículos —que los mohawks usan enseguida para reforzar su barricada.",
+            "ca": "El matí de l'11 de juliol, la policia provincial, la Sûreté du Québec, decideix acabar amb l'assumpte. Un centenar de policies d'elit, armats, envolten una trentena de mohawks que defensen la barricada. Després d'una breu pausa concedida per a una cerimònia del tabac, comença l'assalt: gas lacrimogen (que torna cap als policies), granades, maquinària pesada. En uns trenta segons de caos i trets, un policia de 31 anys, el caporal Marcel Lemay, mor. Mai no s'ha pogut establir d'on venia la bala. Commocionada, la policia recula abandonant els seus vehicles —que els mohawks usen de seguida per reforçar la seva barricada."
+
+
+          },
+          {
+            "h": {
+              "fr": "Kahnawake et le pont Mercier",
+              "es": "Kahnawake y el puente Mercier",
+              "ca": "Kahnawake i el pont Mercier"
+            }
+          },
+          {
+            "fr": "La nouvelle se répand vite. Pour soutenir Kanesatake, les Mohawks de la communauté voisine de Kahnawake, au sud de Montréal, bloquent le pont Honoré-Mercier, un axe essentiel emprunté chaque jour par des milliers de banlieusards. Le pont restera fermé plus d'un mois. La colère monte chez certains résidents de Châteauguay : il y a des manifestations, des insultes racistes, et même des voitures de familles mohawks attaquées à coups de pierres. La crise révèle, au grand jour, un racisme profond — et transforme un conflit local en affrontement national, suivi par le monde entier.",
+            "es": "La noticia se difunde rápido. Para apoyar a Kanesatake, los mohawks de la comunidad vecina de Kahnawake, al sur de Montreal, bloquean el puente Honoré-Mercier, un eje esencial que usan cada día miles de personas de las afueras. El puente quedará cerrado más de un mes. La ira crece entre algunos residentes de Châteauguay: hay manifestaciones, insultos racistas e incluso coches de familias mohawks atacados a pedradas. La crisis revela, a plena luz, un racismo profundo —y transforma un conflicto local en un enfrentamiento nacional, seguido por el mundo entero.",
+            "ca": "La notícia es difon ràpid. Per donar suport a Kanesatake, els mohawks de la comunitat veïna de Kahnawake, al sud de Montreal, bloquegen el pont Honoré-Mercier, un eix essencial que utilitzen cada dia milers de persones de les afores. El pont quedarà tancat més d'un mes. La ira creix entre alguns residents de Châteauguay: hi ha manifestacions, insults racistes i fins i tot cotxes de famílies mohawks atacats a pedrades. La crisi revela, a plena llum, un racisme profund —i transforma un conflicte local en un enfrontament nacional, seguit pel món sencer."
+          },
+          {
+            "h": {
+              "fr": "Ellen Gabriel, la voix de Kanesatake",
+              "es": "Ellen Gabriel, la voz de Kanesatake",
+              "ca": "Ellen Gabriel, la veu de Kanesatake"
+            }
+          },
+          {
+            "fr": "Au milieu de la tempête, une jeune femme devient le visage de la résistance : Ellen Gabriel, ou Katsi'tsakwas, du clan de la Tortue. Choisie comme porte-parole par la maison longue, elle vient tout juste de terminer des études d'art à l'université Concordia. Avec calme et fermeté, elle explique au monde, devant les caméras, ce que défend vraiment sa communauté : non pas la violence, mais une forêt, des tombes, une dignité. Elle rappellera plus tard que tout était parti d'un blocage pacifique sur un simple chemin de terre, et que ces 78 jours ont changé à jamais sa façon de voir le Canada. Les femmes de Kanesatake, en première ligne, ont joué un rôle central tout au long du siège.",
+            "es": "En medio de la tormenta, una joven se convierte en el rostro de la resistencia: Ellen Gabriel, o Katsi'tsakwas, del clan de la Tortuga. Elegida como portavoz por la casa larga, acaba de terminar estudios de arte en la Universidad Concordia. Con calma y firmeza, explica al mundo, ante las cámaras, lo que de verdad defiende su comunidad: no la violencia, sino un bosque, unas tumbas, una dignidad. Recordará más tarde que todo había empezado con un bloqueo pacífico en un simple camino de tierra, y que esos 78 días cambiaron para siempre su forma de ver Canadá. Las mujeres de Kanesatake, en primera línea, tuvieron un papel central durante todo el asedio.",
+            "ca": "Enmig de la tempesta, una jove es converteix en el rostre de la resistència: Ellen Gabriel, o Katsi'tsakwas, del clan de la Tortuga. Escollida com a portaveu per la casa llarga, acaba d'acabar estudis d'art a la Universitat Concordia. Amb calma i fermesa, explica al món, davant les càmeres, el que de debò defensa la seva comunitat: no la violència, sinó un bosc, unes tombes, una dignitat. Recordarà més tard que tot havia començat amb un bloqueig pacífic en un simple camí de terra, i que aquells 78 dies van canviar per sempre la seva manera de veure el Canadà. Les dones de Kanesatake, en primera línia, van tenir un paper central durant tot el setge."
+          },
+          {
+            "h": {
+              "fr": "La vie sous le siège",
+              "es": "La vida bajo el asedio",
+              "ca": "La vida sota el setge"
+            }
+          },
+          {
+            "fr": "Derrière les barricades, ces semaines furent longues et éprouvantes. À l'intérieur du périmètre, il n'y avait pas que des « guerriers » : il y avait aussi des familles, des aînés et des enfants. Au fil du siège, l'accès à la nourriture, à l'eau et aux médicaments est devenu difficile, car tout ce qui entrait était contrôlé, voire bloqué. Jour et nuit, des hélicoptères tournaient au-dessus de la forêt; la fatigue et la peur s'installaient. Pourtant, la communauté a tenu : les femmes chantaient, on maintenait les cérémonies, et la présence des journalistes a permis au reste du monde de voir, presque en direct, ce que vivait Kanesatake. C'est dans ce quotidien tendu, et non dans une bataille rangée, que s'est jouée la véritable résistance.",
+            "es": "Tras las barricadas, esas semanas fueron largas y duras. Dentro del perímetro no solo había «guerreros»: también había familias, ancianos y niños. Con el asedio, el acceso a la comida, al agua y a las medicinas se volvió difícil, porque todo lo que entraba estaba controlado, o incluso bloqueado. Día y noche, helicópteros sobrevolaban el bosque; el cansancio y el miedo se instalaban. Y sin embargo, la comunidad resistió: las mujeres cantaban, se mantenían las ceremonias, y la presencia de los periodistas permitió al resto del mundo ver, casi en directo, lo que vivía Kanesatake. Fue en esa cotidianidad tensa, y no en una batalla campal, donde se jugó la verdadera resistencia.",
+            "ca": "Darrere les barricades, aquelles setmanes van ser llargues i dures. Dins del perímetre no només hi havia «guerrers»: també hi havia famílies, ancians i nens. Amb el setge, l'accés al menjar, a l'aigua i als medicaments es va tornar difícil, perquè tot el que entrava estava controlat, o fins i tot bloquejat. Dia i nit, helicòpters sobrevolaven el bosc; el cansament i la por s'instal·laven. I tanmateix, la comunitat va resistir: les dones cantaven, es mantenien les cerimònies, i la presència dels periodistes va permetre a la resta del món veure, gairebé en directe, el que vivia Kanesatake. Va ser en aquella quotidianitat tensa, i no en una batalla campal, on es va jugar la veritable resistència."
+          },
+          {
+            "h": {
+              "fr": "L'armée, puis la fin",
+              "es": "El ejército, y luego el final",
+              "ca": "L'exèrcit, i després el final"
+            }
+          },
+          {
+            "fr": "Devant l'ampleur de la crise, le gouvernement envoie l'armée canadienne — des milliers de soldats, des blindés, des hélicoptères — qui remplace la police autour des barricades. Les images de soldats face à face avec des défenseurs mohawks font le tour de la planète. Peu à peu, l'étau se resserre : le pont Mercier rouvre début septembre, et les derniers résistants de Kanesatake se retrouvent encerclés de barbelés autour d'un centre de désintoxication. Le 26 septembre 1990, après 78 jours, ils sortent enfin des Pins, mettant fin au siège.",
+            "es": "Ante la magnitud de la crisis, el gobierno envía al ejército canadiense —miles de soldados, blindados, helicópteros— que sustituye a la policía alrededor de las barricadas. Las imágenes de soldados cara a cara con defensores mohawks dan la vuelta al planeta. Poco a poco, el cerco se estrecha: el puente Mercier reabre a principios de septiembre, y los últimos resistentes de Kanesatake quedan rodeados de alambradas en torno a un centro de desintoxicación. El 26 de septiembre de 1990, tras 78 días, salen por fin de los Pinos, poniendo fin al asedio.",
+            "ca": "Davant la magnitud de la crisi, el govern envia l'exèrcit canadenc —milers de soldats, blindats, helicòpters— que substitueix la policia al voltant de les barricades. Les imatges de soldats cara a cara amb defensors mohawks fan la volta al planeta. A poc a poc, el setge s'estreny: el pont Mercier reobre a principis de setembre, i els últims resistents de Kanesatake queden envoltats de filats al voltant d'un centre de desintoxicació. El 26 de setembre de 1990, després de 78 dies, surten per fi dels Pins, posant fi al setge."
+          },
+          {
+            "h": {
+              "fr": "Qu'est-ce qui a changé?",
+              "es": "¿Qué cambió?",
+              "ca": "Què va canviar?"
+            }
+          },
+          {
+            "fr": "En apparence, les Mohawks ont gagné : le projet de golf est annulé, et le gouvernement fédéral rachète les terres en litige. Mais le piège demeure : ces terres n'ont jamais été officiellement rendues à la communauté de Kanesatake, et la revendication territoriale n'est toujours pas réglée, plus de trente ans plus tard. Oka a pourtant tout changé sur le plan symbolique : la crise a réveillé tout le pays, mené à une grande commission d'enquête sur les peuples autochtones, et inspiré le grand documentaire d'Alanis Obomsawin, « Kanehsatake, 270 ans de résistance ». Aujourd'hui encore, les Pins restent menacés, et le combat de Kanesatake continue — preuve qu'une seule communauté déterminée peut marquer l'histoire d'un pays tout entier.",
+            "es": "En apariencia, los mohawks ganaron: el proyecto de golf se cancela y el gobierno federal compra las tierras en litigio. Pero la trampa permanece: esas tierras nunca se devolvieron oficialmente a la comunidad de Kanesatake, y la reivindicación territorial sigue sin resolverse, más de treinta años después. Oka, sin embargo, lo cambió todo en el plano simbólico: la crisis despertó a todo el país, llevó a una gran comisión de investigación sobre los pueblos indígenas e inspiró el gran documental de Alanis Obomsawin, «Kanehsatake, 270 años de resistencia». Aún hoy, los Pinos siguen amenazados, y la lucha de Kanesatake continúa —prueba de que una sola comunidad decidida puede marcar la historia de todo un país.",
+            "ca": "En aparença, els mohawks van guanyar: el projecte de golf s'anul·la i el govern federal compra les terres en litigi. Però el parany roman: aquelles terres no es van tornar mai oficialment a la comunitat de Kanesatake, i la reivindicació territorial encara no s'ha resolt, més de trenta anys després. Oka, però, ho va canviar tot en el pla simbòlic: la crisi va despertar tot el país, va portar a una gran comissió d'investigació sobre els pobles indígenes i va inspirar el gran documental d'Alanis Obomsawin, «Kanehsatake, 270 anys de resistència». Encara avui, els Pins continuen amenaçats, i la lluita de Kanesatake continua —prova que una sola comunitat decidida pot marcar la història de tot un país."
           }
         ]
       },
@@ -114,14 +199,14 @@
           "ca": "un bosc"
         },
         {
-          "mot": "sacré",
-          "es": "sagrado",
-          "ca": "sagrat"
-        },
-        {
           "mot": "une barricade",
           "es": "una barricada",
           "ca": "una barricada"
+        },
+        {
+          "mot": "un cimetière",
+          "es": "un cementerio",
+          "ca": "un cementiri"
         },
         {
           "mot": "la police",
@@ -134,17 +219,27 @@
           "ca": "l'exèrcit"
         },
         {
-          "mot": "une revendication",
-          "es": "una reivindicación",
-          "ca": "una reivindicació"
+          "mot": "une terre",
+          "es": "una tierra",
+          "ca": "una terra"
         },
         {
-          "mot": "la terre",
-          "es": "la tierra",
-          "ca": "la terra"
+          "mot": "résister",
+          "es": "resistir",
+          "ca": "resistir"
         }
       ],
       "questions": [
+        {
+          "q": {
+            "es": "¿Qué querían construir sobre «los Pinos»?",
+            "ca": "Què volien construir sobre «els Pins»?"
+          },
+          "piste": {
+            "es": "ampliar un campo de golf",
+            "ca": "ampliar un camp de golf"
+          }
+        },
         {
           "q": {
             "es": "¿Cuántos días duró la crisis?",
@@ -157,39 +252,43 @@
         },
         {
           "q": {
-            "es": "¿Qué quería construir la ciudad de Oka?",
-            "ca": "Què volia construir la ciutat d'Oka?"
+            "es": "¿Qué puente bloqueó Kahnawake?",
+            "ca": "Quin pont va bloquejar Kahnawake?"
           },
           "piste": {
-            "es": "ampliar un campo de golf",
-            "ca": "ampliar un camp de golf"
+            "es": "el puente Mercier",
+            "ca": "el pont Mercier"
           }
         },
         {
           "q": {
-            "es": "¿Se resolvió la cuestión de las tierras?",
-            "ca": "Es va resoldre la qüestió de les terres?"
+            "es": "¿Quién fue la portavoz de Kanesatake?",
+            "ca": "Qui va ser la portaveu de Kanesatake?"
           },
           "piste": {
-            "es": "no, sigue abierta",
-            "ca": "no, continua oberta"
+            "es": "Ellen Gabriel (Katsi'tsakwas)",
+            "ca": "Ellen Gabriel (Katsi'tsakwas)"
           }
         }
       ],
-      "note": {
-        "es": "Los mohawks llaman a este episodio «la resistencia de Kanesatake».",
-        "ca": "Els mohawks anomenen aquest episodi «la resistència de Kanesatake»."
-      },
       "sources": [
         {
-          "titre": "L'Encyclopédie canadienne — Crise d'Oka",
-          "url": "https://www.thecanadianencyclopedia.ca/en/article/oka-crisis"
+          "titre": "L'Encyclopédie canadienne — Résistance de Kanesatake (crise d'Oka)",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/crise-doka"
         },
         {
-          "titre": "CBC — Oka crisis timeline",
+          "titre": "CBC — Chronologie des 78 jours (1990)",
           "url": "https://www.cbc.ca/news/canada/montreal/oka-crisis-timeline-summer-1990-1.5631229"
+        },
+        {
+          "titre": "ONF — « Kanehsatake, 270 ans de résistance » (Alanis Obomsawin)",
+          "url": "https://www.onf.ca/film/kanehsatake_270_ans_de_resistance/"
         }
-      ]
+      ],
+      "note": {
+        "es": "La crisis de Oka sigue siendo un tema sensible y actual en Quebec. La tierra de los Pinos todavía no ha sido devuelta a Kanesatake.",
+        "ca": "La crisi d'Oka continua sent un tema sensible i actual al Quebec. La terra dels Pins encara no ha estat tornada a Kanesatake."
+      }
     }
   ]
 }

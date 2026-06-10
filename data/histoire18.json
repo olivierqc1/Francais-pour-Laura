@@ -1,0 +1,294 @@
+{
+  "textes": [
+    {
+      "id": "crise_oka",
+      "emoji": "🌲",
+      "theme": "Histoire",
+      "periode": "été 1990",
+      "titre": {
+        "es": "La crisis de Oka (1990)",
+        "ca": "La crisi d'Oka (1990)"
+      },
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+        "credit": {
+          "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+          "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+        }
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1990, près de Montréal, une ville voulait agrandir un terrain de golf sur une forêt sacrée mohawk : « les Pins ». Il y avait même un cimetière.",
+            "es": "En 1990, cerca de Montreal, una ciudad quería ampliar un campo de golf sobre un bosque sagrado mohawk: «los Pinos». Había incluso un cementerio.",
+            "ca": "El 1990, a prop de Montreal, una ciutat volia ampliar un camp de golf sobre un bosc sagrat mohawk: «els Pins». Hi havia fins i tot un cementiri."
+          },
+          {
+            "fr": "Les Mohawks ont dit non et ont bloqué la route. La police, puis l'armée, sont arrivées. Cela a duré 78 jours.",
+            "es": "Los mohawks dijeron no y bloquearon la carretera. La policía, y luego el ejército, llegaron. Duró 78 días.",
+            "ca": "Els mohawks van dir que no i van bloquejar la carretera. La policia, i després l'exèrcit, van arribar. Va durar 78 dies."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+                "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+              }
+            }
+          },
+          {
+            "fr": "À la fin, le golf n'a pas été agrandi. Mais c'est devenu un symbole de la lutte des Autochtones pour leurs terres.",
+            "es": "Al final, el golf no se amplió. Pero se convirtió en un símbolo de la lucha de los indígenas por sus tierras.",
+            "ca": "Al final, el golf no es va ampliar. Però es va convertir en un símbol de la lluita dels indígenes per les seves terres."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Pendant l'été 1990, près de Montréal, une crise a opposé les Mohawks de Kanesatake à la police et à l'armée canadienne. On l'appelle la « crise d'Oka ». Tout a commencé à cause d'un terrain de golf.",
+            "es": "Durante el verano de 1990, cerca de Montreal, una crisis enfrentó a los mohawks de Kanesatake con la policía y el ejército canadiense. Se la llama la «crisis de Oka». Todo empezó por un campo de golf.",
+            "ca": "Durant l'estiu de 1990, a prop de Montreal, una crisi va enfrontar els mohawks de Kanesatake amb la policia i l'exèrcit canadenc. Se l'anomena la «crisi d'Oka». Tot va començar per un camp de golf."
+          },
+          {
+            "h": {
+              "fr": "Une forêt sacrée",
+              "es": "Un bosque sagrado",
+              "ca": "Un bosc sagrat"
+            }
+          },
+          {
+            "fr": "La ville d'Oka voulait agrandir son golf sur « les Pins », une forêt mohawk qui contenait un ancien cimetière. Les Mohawks ont installé une barricade pour protéger leurs terres. Le 11 juillet, la police a attaqué; un policier, le caporal Lemay, est mort. Personne ne sait qui a tiré.",
+            "es": "La ciudad de Oka quería ampliar su golf sobre «los Pinos», un bosque mohawk que contenía un antiguo cementerio. Los mohawks instalaron una barricada para proteger sus tierras. El 11 de julio, la policía atacó; un policía, el cabo Lemay, murió. Nadie sabe quién disparó.",
+            "ca": "La ciutat d'Oka volia ampliar el seu golf sobre «els Pins», un bosc mohawk que contenia un antic cementiri. Els mohawks van instal·lar una barricada per protegir les seves terres. L'11 de juliol, la policia va atacar; un policia, el caporal Lemay, va morir. Ningú no sap qui va disparar."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Indian_Reservation._Indian_Reservation_-_Caughnawaga_BAnQ_P48S1P01427.jpg",
+              "credit": {
+                "es": "Comunidad mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. En 1990, Kahnawake bloqueó el puente Mercier en solidaridad con Kanesatake.",
+                "ca": "Comunitat mohawk de Kahnawake (Caughnawaga), Quebec — BAnQ. El 1990, Kahnawake va bloquejar el pont Mercier en solidaritat amb Kanesatake."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "78 jours de tension",
+              "es": "78 días de tensión",
+              "ca": "78 dies de tensió"
+            }
+          },
+          {
+            "fr": "Pour aider Kanesatake, les Mohawks de Kahnawake ont bloqué le pont Mercier, très important pour Montréal. La tension est montée très haut. Finalement, l'armée canadienne est arrivée. Le 26 septembre, après 78 jours, la crise s'est terminée. Le golf n'a jamais été agrandi.",
+            "es": "Para ayudar a Kanesatake, los mohawks de Kahnawake bloquearon el puente Mercier, muy importante para Montreal. La tensión subió muchísimo. Finalmente, el ejército canadiense llegó. El 26 de septiembre, tras 78 días, la crisis terminó. El golf nunca se amplió.",
+            "ca": "Per ajudar Kanesatake, els mohawks de Kahnawake van bloquejar el pont Mercier, molt important per a Montreal. La tensió va pujar moltíssim. Finalment, l'exèrcit canadenc va arribar. El 26 de setembre, després de 78 dies, la crisi va acabar. El golf no es va ampliar mai."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Pendant l'été 1990, à une heure de Montréal, s'est joué l'un des moments les plus marquants de l'histoire récente du Québec et du Canada : la crise d'Oka, que les Mohawks appellent plutôt la « résistance de Kanesatake ». Pendant 78 jours, une petite communauté autochtone a tenu tête à la police provinciale puis à l'armée canadienne, pour défendre une forêt et un cimetière. Tout est parti, incroyablement, d'un projet de terrain de golf.",
+            "es": "Durante el verano de 1990, a una hora de Montreal, se vivió uno de los momentos más decisivos de la historia reciente de Quebec y de Canadá: la crisis de Oka, que los mohawks prefieren llamar la «resistencia de Kanesatake». Durante 78 días, una pequeña comunidad indígena plantó cara a la policía provincial y luego al ejército canadiense para defender un bosque y un cementerio. Todo empezó, increíblemente, por un proyecto de campo de golf.",
+            "ca": "Durant l'estiu de 1990, a una hora de Montreal, es va viure un dels moments més decisius de la història recent del Quebec i del Canadà: la crisi d'Oka, que els mohawks prefereixen anomenar la «resistència de Kanesatake». Durant 78 dies, una petita comunitat indígena va plantar cara a la policia provincial i després a l'exèrcit canadenc per defensar un bosc i un cementiri. Tot va començar, increïblement, per un projecte de camp de golf."
+          },
+          {
+            "h": {
+              "fr": "Une dispute vieille de trois siècles",
+              "es": "Una disputa de tres siglos",
+              "ca": "Una disputa de tres segles"
+            }
+          },
+          {
+            "fr": "Pour comprendre, il faut remonter loin. Dès les années 1700, des prêtres, les Sulpiciens, reçoivent un immense territoire au bord du lac des Deux Montagnes, là où vivaient déjà les Kanien'kehá:ka (Mohawks). Au fil des siècles, ces terres ancestrales passent peu à peu sous d'autres mains, sans que les Mohawks ne les cèdent vraiment. Au XXᵉ siècle, la communauté de Kanesatake dépose des revendications territoriales pour récupérer ses terres : elles sont rejetées en 1975, puis de nouveau en 1986. Au cœur du litige se trouve « les Pins », une pinède plantée par les ancêtres mohawks, qui abrite un cimetière où reposent leurs morts.",
+            "es": "Para entenderlo, hay que remontarse lejos. Ya en el siglo XVIII, unos sacerdotes, los sulpicianos, reciben un inmenso territorio a orillas del lago de las Dos Montañas, donde ya vivían los kanien'kehá:ka (mohawks). Con los siglos, esas tierras ancestrales pasan poco a poco a otras manos, sin que los mohawks las cedan de verdad. En el siglo XX, la comunidad de Kanesatake presenta reivindicaciones territoriales para recuperar sus tierras: son rechazadas en 1975 y de nuevo en 1986. En el centro del litigio está «los Pinos», un pinar plantado por los antepasados mohawks, que alberga un cementerio donde reposan sus muertos.",
+            "ca": "Per entendre-ho, cal remuntar-se lluny. Ja al segle XVIII, uns sacerdots, els sulpicians, reben un immens territori a la vora del llac de les Dues Muntanyes, on ja vivien els kanien'kehá:ka (mohawks). Amb els segles, aquestes terres ancestrals passen a poc a poc a altres mans, sense que els mohawks les cedeixin de debò. Al segle XX, la comunitat de Kanesatake presenta reivindicacions territorials per recuperar les seves terres: són rebutjades el 1975 i de nou el 1986. Al centre del litigi hi ha «els Pins», una pineda plantada pels avantpassats mohawks, que acull un cementiri on reposen els seus morts."
+          },
+          {
+            "h": {
+              "fr": "Un terrain de golf de trop",
+              "es": "Un campo de golf de más",
+              "ca": "Un camp de golf de més"
+            }
+          },
+          {
+            "fr": "En 1989, le maire d'Oka, Jean Ouellette, annonce son intention d'agrandir le terrain de golf municipal — et de construire des maisons de ville — en plein sur les Pins et sur le cimetière mohawk. La communauté n'est même pas consultée. Pour les Kanien'kehá:ka, c'est la goutte de trop : on veut couper leurs arbres centenaires et profaner les tombes de leurs ancêtres pour quelques trous de golf. Le 10 mars 1990, un petit groupe installe un campement et bloque un chemin de terre dans la forêt. Pendant des mois, ils montent une garde pacifique, espérant simplement faire entendre raison aux autorités.",
+            "es": "En 1989, el alcalde de Oka, Jean Ouellette, anuncia su intención de ampliar el campo de golf municipal —y de construir casas adosadas— justo sobre los Pinos y el cementerio mohawk. A la comunidad ni siquiera se la consulta. Para los kanien'kehá:ka, es la gota que colma el vaso: quieren talar sus árboles centenarios y profanar las tumbas de sus antepasados por unos hoyos de golf. El 10 de marzo de 1990, un pequeño grupo instala un campamento y bloquea un camino de tierra en el bosque. Durante meses montan una guardia pacífica, esperando simplemente hacer entrar en razón a las autoridades.",
+            "ca": "El 1989, l'alcalde d'Oka, Jean Ouellette, anuncia la seva intenció d'ampliar el camp de golf municipal —i de construir cases adossades— just sobre els Pins i el cementiri mohawk. A la comunitat ni tan sols se la consulta. Per als kanien'kehá:ka, és la gota que fa vessar el got: volen talar els seus arbres centenaris i profanar les tombes dels seus avantpassats per uns forats de golf. El 10 de març de 1990, un petit grup instal·la un campament i bloqueja un camí de terra al bosc. Durant mesos hi munten una guàrdia pacífica, esperant simplement fer entrar en raó les autoritats."
+          },
+          {
+            "h": {
+              "fr": "Le 11 juillet 1990 : l'assaut",
+              "es": "El 11 de julio de 1990: el asalto",
+              "ca": "L'11 de juliol de 1990: l'assalt"
+            }
+          },
+          {
+            "fr": "Le 11 juillet au matin, la police provinciale, la Sûreté du Québec, décide d'en finir. Une centaine de policiers d'élite, armés, encerclent une trentaine de Mohawks qui défendent la barricade. Après une courte pause accordée pour une cérémonie du tabac, l'assaut commence : gaz lacrymogène (qui revient vers les policiers), grenades, machinerie lourde. En une trentaine de secondes de chaos et de coups de feu, un policier de 31 ans, le caporal Marcel Lemay, est tué. On n'a jamais pu établir d'où venait la balle. Sous le choc, la police recule en abandonnant ses véhicules — que les Mohawks utilisent aussitôt pour renforcer leur barricade.",
+            "es": "La mañana del 11 de julio, la policía provincial, la Sûreté du Québec, decide acabar con el asunto. Un centenar de policías de élite, armados, rodean a una treintena de mohawks que defienden la barricada. Tras una breve pausa concedida para una ceremonia del tabaco, comienza el asalto: gas lacrimógeno (que vuelve hacia los policías), granadas, maquinaria pesada. En unos treinta segundos de caos y disparos, un policía de 31 años, el cabo Marcel Lemay, muere. Nunca se pudo establecer de dónde venía la bala. Conmocionada, la policía retrocede abandonando sus vehículos —que los mohawks usan enseguida para reforzar su barricada.",
+            "ca": "El matí de l'11 de juliol, la policia provincial, la Sûreté du Québec, decideix acabar amb l'assumpte. Un centenar de policies d'elit, armats, envolten una trentena de mohawks que defensen la barricada. Després d'una breu pausa concedida per a una cerimònia del tabac, comença l'assalt: gas lacrimogen (que torna cap als policies), granades, maquinària pesada. En uns trenta segons de caos i trets, un policia de 31 anys, el caporal Marcel Lemay, mor. Mai no s'ha pogut establir d'on venia la bala. Commocionada, la policia recula abandonant els seus vehicles —que els mohawks usen de seguida per reforçar la seva barricada."
+
+
+          },
+          {
+            "h": {
+              "fr": "Le mot « génocide »",
+              "es": "La palabra «genocidio»",
+              "ca": "La paraula «genocidi»"
+            }
+          },
+          {
+            "fr": "En juin 2019, l'enquête publie son rapport final, intitulé « Réclamer notre pouvoir et notre place ». Sa conclusion provoque un choc dans tout le pays : la violence subie par les femmes autochtones, écrivent les commissaires, équivaut à un génocide, fondé sur la race et le genre. Le mot fait débat, mais l'enquête le maintient : il ne s'agit pas de crimes isolés, mais du résultat d'un long système. Le rapport lance 231 « appels à la justice » — des actions concrètes adressées aux gouvernements et à toute la société. Son principe directeur tient en quelques mots : « Nos femmes et nos filles sont sacrées. »",
+            "es": "En junio de 2019, la investigación publica su informe final, titulado «Reclamar nuestro poder y nuestro lugar». Su conclusión provoca una conmoción en todo el país: la violencia sufrida por las mujeres indígenas, escriben los comisarios, equivale a un genocidio, basado en la raza y el género. La palabra genera debate, pero la investigación la mantiene: no se trata de crímenes aislados, sino del resultado de un largo sistema. El informe lanza 231 «llamamientos a la justicia» —acciones concretas dirigidas a los gobiernos y a toda la sociedad. Su principio rector cabe en unas palabras: «Nuestras mujeres y niñas son sagradas.»",
+            "ca": "El juny de 2019, la investigació publica el seu informe final, titulat «Reclamar el nostre poder i el nostre lloc». La seva conclusió provoca una commoció a tot el país: la violència patida per les dones indígenes, escriuen els comissaris, equival a un genocidi, basat en la raça i el gènere. La paraula genera debat, però la investigació la manté: no es tracta de crims aïllats, sinó del resultat d'un llarg sistema. L'informe llança 231 «crides a la justícia» —accions concretes adreçades als governs i a tota la societat. El seu principi rector cap en unes paraules: «Les nostres dones i nenes són sagrades.»"
+          },
+          {
+            "h": {
+              "fr": "Pourquoi tant de violence?",
+              "es": "¿Por qué tanta violencia?",
+              "ca": "Per què tanta violència?"
+            }
+          },
+          {
+            "fr": "Cette crise ne tombe pas du ciel. Elle plonge ses racines dans toute l'histoire qu'on a vue : les pensionnats, qui ont brisé des familles; la Loi sur les Indiens, qui a longtemps dévalorisé les femmes autochtones et les a privées de statut; la pauvreté et la marginalisation qui en ont découlé. Quand une société traite pendant des générations un groupe de personnes comme s'il valait moins, la violence contre ces personnes finit par sembler « normale », et leurs disparitions, moins urgentes. Le racisme et le sexisme s'additionnent : c'est cette combinaison que l'enquête a voulu nommer.",
+            "es": "Esta crisis no cae del cielo. Hunde sus raíces en toda la historia que hemos visto: los internados, que rompieron familias; la Ley sobre los Indios, que durante mucho tiempo desvalorizó a las mujeres indígenas y las privó de estatus; la pobreza y la marginación que de ello derivaron. Cuando una sociedad trata durante generaciones a un grupo de personas como si valiera menos, la violencia contra ellas acaba pareciendo «normal», y sus desapariciones, menos urgentes. El racismo y el sexismo se suman: es esa combinación la que la investigación quiso nombrar.",
+            "ca": "Aquesta crisi no cau del cel. Enfonsa les seves arrels en tota la història que hem vist: els internats, que van trencar famílies; la Llei sobre els Indis, que durant molt de temps va desvaloritzar les dones indígenes i les va privar d'estatus; la pobresa i la marginació que en van derivar. Quan una societat tracta durant generacions un grup de persones com si valgués menys, la violència contra elles acaba semblant «normal», i les seves desaparicions, menys urgents. El racisme i el sexisme se sumen: és aquesta combinació la que la investigació va voler anomenar."
+          },
+          {
+            "h": {
+              "fr": "Au Québec aussi",
+              "es": "En Quebec también",
+              "ca": "Al Quebec també"
+            }
+          },
+          {
+            "fr": "Le Québec n'est pas à l'écart de cette histoire. L'enquête nationale a publié un rapport propre au Québec, et la province a mené sa propre commission, la commission Viens, qui a constaté en 2019 que les Autochtones y subissent une discrimination bien réelle dans les services publics. Un événement a particulièrement secoué la province : en 2020, Joyce Echaquan, une mère atikamekw, a filmé elle-même, depuis son lit d'hôpital, le personnel qui l'insultait pendant qu'elle souffrait; elle est morte peu après. Sa vidéo a fait le tour du Québec et obligé beaucoup de gens à regarder en face le racisme envers les Premières Nations. Son nom est aujourd'hui associé à un « Principe de Joyce », qui réclame un accès égal et sans racisme aux soins de santé.",
+            "es": "Quebec no queda al margen de esta historia. La investigación nacional publicó un informe propio para Quebec, y la provincia llevó a cabo su propia comisión, la comisión Viens, que constató en 2019 que los indígenas sufren allí una discriminación muy real en los servicios públicos. Un suceso sacudió especialmente a la provincia: en 2020, Joyce Echaquan, una madre atikamekw, filmó ella misma, desde su cama de hospital, al personal que la insultaba mientras sufría; murió poco después. Su vídeo dio la vuelta a Quebec y obligó a mucha gente a mirar de frente el racismo hacia las Primeras Naciones. Su nombre se asocia hoy a un «Principio de Joyce», que reclama un acceso igualitario y sin racismo a la atención sanitaria.",
+            "ca": "El Quebec no queda al marge d'aquesta història. La investigació nacional va publicar un informe propi per al Quebec, i la província va dur a terme la seva pròpia comissió, la comissió Viens, que va constatar el 2019 que els indígenes hi pateixen una discriminació ben real en els serveis públics. Un fet va sacsejar especialment la província: el 2020, la Joyce Echaquan, una mare atikamekw, va filmar ella mateixa, des del seu llit d'hospital, el personal que la insultava mentre patia; va morir poc després. El seu vídeo va fer la volta al Quebec i va obligar molta gent a mirar de cara el racisme cap a les Primeres Nacions. El seu nom s'associa avui a un «Principi de Joyce», que reclama un accés igualitari i sense racisme a l'atenció sanitària."
+          },
+          {
+            "h": {
+              "fr": "Des familles qui cherchent depuis toujours",
+              "es": "Familias que buscan desde siempre",
+              "ca": "Famílies que busquen des de sempre"
+            }
+          },
+          {
+            "fr": "Avant même que le pays n'écoute, ce sont les familles qui ont tenu la mémoire vivante. Pendant des années, des mères et des sœurs ont collé des affiches, fouillé des fossés, supplié la police d'enquêter. À Vancouver, une Marche commémorative des femmes a lieu chaque 14 février depuis 1991, pour nommer celles qu'on a perdues. Ce sont ces familles, par leur courage et leur refus d'oublier, qui ont fini par forcer tout un pays à ouvrir les yeux.",
+            "es": "Antes incluso de que el país escuchara, fueron las familias las que mantuvieron viva la memoria. Durante años, madres y hermanas pegaron carteles, registraron cunetas, suplicaron a la policía que investigara. En Vancouver, una Marcha Conmemorativa de las Mujeres se celebra cada 14 de febrero desde 1991, para nombrar a las que se perdieron. Fueron esas familias, por su valentía y su negativa a olvidar, las que acabaron forzando a todo un país a abrir los ojos.",
+            "ca": "Abans i tot que el país escoltés, van ser les famílies les que van mantenir viva la memòria. Durant anys, mares i germanes van enganxar cartells, van escorcollar cunetes, van suplicar a la policia que investigués. A Vancouver, una Marxa Commemorativa de les Dones se celebra cada 14 de febrer des del 1991, per anomenar les que es van perdre. Van ser aquelles famílies, pel seu coratge i la seva negativa a oblidar, les que van acabar forçant tot un país a obrir els ulls."
+          },
+          {
+            "h": {
+              "fr": "Se souvenir, et agir",
+              "es": "Recordar, y actuar",
+              "ca": "Recordar, i actuar"
+            }
+          },
+          {
+            "fr": "Aujourd'hui, le combat continue. Les familles demandent que les 231 appels à la justice deviennent enfin des actes, et non des promesses. Chaque année, la Marche commémorative des femmes, à Vancouver, et la Journée de la robe rouge, le 5 mai, gardent la mémoire vivante. Pour Laura comme pour nous, le geste le plus simple est aussi le plus important : connaître ces histoires, refuser l'indifférence, et se rappeler que derrière chaque robe rouge vide, il y avait une personne aimée, irremplaçable.",
+            "es": "Hoy, la lucha continúa. Las familias piden que los 231 llamamientos a la justicia se conviertan por fin en hechos, y no en promesas. Cada año, la Marcha Conmemorativa de las Mujeres, en Vancouver, y el Día del Vestido Rojo, el 5 de mayo, mantienen viva la memoria. Para Laura como para nosotros, el gesto más sencillo es también el más importante: conocer estas historias, rechazar la indiferencia y recordar que tras cada vestido rojo vacío había una persona amada, irremplazable.",
+            "ca": "Avui, la lluita continua. Les famílies demanen que les 231 crides a la justícia es converteixin per fi en fets, i no en promeses. Cada any, la Marxa Commemorativa de les Dones, a Vancouver, i el Dia del Vestit Vermell, el 5 de maig, mantenen viva la memòria. Per a la Laura com per a nosaltres, el gest més senzill és també el més important: conèixer aquestes històries, rebutjar la indiferència i recordar que darrere de cada vestit vermell buit hi havia una persona estimada, irreemplaçable."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une femme",
+          "es": "una mujer",
+          "ca": "una dona"
+        },
+        {
+          "mot": "disparaître",
+          "es": "desaparecer",
+          "ca": "desaparèixer"
+        },
+        {
+          "mot": "la violence",
+          "es": "la violencia",
+          "ca": "la violència"
+        },
+        {
+          "mot": "une robe",
+          "es": "un vestido",
+          "ca": "un vestit"
+        },
+        {
+          "mot": "une enquête",
+          "es": "una investigación",
+          "ca": "una investigació"
+        },
+        {
+          "mot": "se souvenir",
+          "es": "recordar",
+          "ca": "recordar"
+        },
+        {
+          "mot": "la justice",
+          "es": "la justicia",
+          "ca": "la justícia"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué representa cada vestido rojo vacío?",
+            "ca": "Què representa cada vestit vermell buit?"
+          },
+          "piste": {
+            "es": "una mujer desaparecida o asesinada",
+            "ca": "una dona desapareguda o assassinada"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién creó el «REDress Project»?",
+            "ca": "Qui va crear el «REDress Project»?"
+          },
+          "piste": {
+            "es": "la artista métis Jaime Black",
+            "ca": "l'artista métis Jaime Black"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué palabra usó el informe de 2019?",
+            "ca": "Quina paraula va usar l'informe de 2019?"
+          },
+          "piste": {
+            "es": "«genocidio»",
+            "ca": "«genocidi»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué día es el «Día del Vestido Rojo»?",
+            "ca": "Quin dia és el «Dia del Vestit Vermell»?"
+          },
+          "piste": {
+            "es": "el 5 de mayo",
+            "ca": "el 5 de maig"
+          }
+        }
+      ],
+      "note": {
+        "es": "Es un tema muy doloroso. En Canadá existe una línea de apoyo 24 h para familiares y supervivientes relacionada con las FFADA: 1-844-413-6649.",
+        "ca": "És un tema molt dolorós. Al Canadà hi ha una línia de suport 24 h per a familiars i supervivents relacionada amb les FFADA: 1-844-413-6649."
+      },
+      "sources": [
+        {
+          "titre": "Enquête nationale sur les FFADA — Rapport final",
+          "url": "https://www.mmiwg-ffada.ca/final-report/"
+        },
+        {
+          "titre": "Musée canadien pour les droits de la personne — FFADA",
+          "url": "https://droitsdelapersonne.ca/histoire/les-femmes-et-les-filles-autochtones-disparues-et-assassinees"
+        },
+        {
+          "titre": "REDress Project — Jaime Black",
+          "url": "https://www.jaimeblackartist.com/exhibitions"
+        }
+      ]
+    }
+  ]
+}

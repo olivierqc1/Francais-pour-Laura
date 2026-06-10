@@ -1,0 +1,306 @@
+{
+  "textes": [
+    {
+      "id": "louis_riel",
+      "emoji": "🤠",
+      "theme": "Histoire",
+      "periode": "1844 – 1885",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Riel.jpg?width=700",
+        "source": "https://commons.wikimedia.org/wiki/File:Louis_Riel.jpg",
+        "credit": {
+          "es": "Louis Riel (retrato, hacia 1884) — dominio público.",
+          "ca": "Louis Riel (retrat, cap a 1884) — domini públic."
+        }
+      },
+      "titre": {
+        "es": "Louis Riel y los métis",
+        "ca": "Louis Riel i els métis"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Les Métis sont un peuple né de la rencontre entre des Autochtones et des Européens. Leur grand chef s'appelait Louis Riel.",
+            "es": "Los métis son un pueblo nacido del encuentro entre indígenas y europeos. Su gran líder se llamaba Louis Riel.",
+            "ca": "Els métis són un poble nascut de la trobada entre indígenes i europeus. El seu gran líder es deia Louis Riel."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Riel.jpg?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Louis_Riel.jpg",
+              "credit": {
+                "es": "Louis Riel (retrato, hacia 1884) — dominio público.",
+                "ca": "Louis Riel (retrat, cap a 1884) — domini públic."
+              }
+            }
+          },
+          {
+            "fr": "Riel a défendu les terres et les droits des Métis contre le gouvernement du Canada. Il a aidé à créer la province du Manitoba.",
+            "es": "Riel defendió las tierras y los derechos de los métis contra el gobierno de Canadá. Ayudó a crear la provincia de Manitoba.",
+            "ca": "Riel va defensar les terres i els drets dels métis contra el govern del Canadà. Va ajudar a crear la província de Manitoba."
+          },
+          {
+            "fr": "En 1885, après une révolte, le gouvernement l'a fait pendre. Au Québec, beaucoup de gens étaient en colère. Aujourd'hui, on le voit comme un héros.",
+            "es": "En 1885, tras una revuelta, el gobierno lo hizo ahorcar. En Quebec, mucha gente estaba enojada. Hoy se lo ve como un héroe.",
+            "ca": "El 1885, després d'una revolta, el govern el va fer penjar. Al Quebec, molta gent estava enfadada. Avui se'l veu com un heroi."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Les Métis sont un peuple autochtone particulier : ils sont nés de l'union entre des femmes autochtones et des commerçants de fourrures européens, surtout dans l'Ouest. Leur chef le plus célèbre est Louis Riel.",
+            "es": "Los métis son un pueblo indígena particular: nacieron de la unión entre mujeres indígenas y comerciantes de pieles europeos, sobre todo en el Oeste. Su líder más célebre es Louis Riel.",
+            "ca": "Els métis són un poble indígena particular: van néixer de la unió entre dones indígenes i comerciants de pells europeus, sobretot a l'Oest. El seu líder més cèlebre és Louis Riel."
+          },
+          {
+            "h": {
+              "fr": "Le père du Manitoba",
+              "es": "El padre de Manitoba",
+              "ca": "El pare de Manitoba"
+            }
+          },
+          {
+            "fr": "En 1869, le Canada veut prendre les terres des Métis sans leur demander. Riel organise la résistance et un gouvernement provisoire. Grâce à lui, la province du Manitoba est créée en 1870, avec des protections pour le français et les catholiques.",
+            "es": "En 1869, Canadá quiere tomar las tierras de los métis sin pedírselo. Riel organiza la resistencia y un gobierno provisional. Gracias a él, la provincia de Manitoba se crea en 1870, con protecciones para el francés y los católicos.",
+            "ca": "El 1869, el Canadà vol prendre les terres dels métis sense demanar-los-ho. Riel organitza la resistència i un govern provisional. Gràcies a ell, la província de Manitoba es crea el 1870, amb proteccions per al francès i els catòlics."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Riel.jpg?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Louis_Riel.jpg",
+              "credit": {
+                "es": "Louis Riel (retrato, hacia 1884) — dominio público.",
+                "ca": "Louis Riel (retrat, cap a 1884) — domini públic."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La fin tragique",
+              "es": "El final trágico",
+              "ca": "El final tràgic"
+            }
+          },
+          {
+            "fr": "En 1885, les Métis se révoltent de nouveau, en Saskatchewan. Cette fois, l'armée les bat. Riel est jugé et pendu le 16 novembre 1885. Au Québec, sa mort provoque une immense colère, car on y voit l'exécution d'un francophone catholique.",
+            "es": "En 1885, los métis se rebelan de nuevo, en Saskatchewan. Esta vez, el ejército los vence. Riel es juzgado y ahorcado el 16 de noviembre de 1885. En Quebec, su muerte provoca una inmensa cólera, pues se ve en ella la ejecución de un francófono católico.",
+            "ca": "El 1885, els métis es rebel·len de nou, a Saskatchewan. Aquesta vegada, l'exèrcit els venç. Riel és jutjat i penjat el 16 de novembre de 1885. Al Quebec, la seva mort provoca una immensa còlera, perquè s'hi veu l'execució d'un francòfon catòlic."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Toute l'histoire autochtone ne se passe pas dans le Grand Nord ou dans un passé lointain. En voici une qui se trouve au cœur même de la naissance du Canada — l'histoire d'un peuple né de deux mondes, et d'un homme que le Québec n'a jamais oublié : Louis Riel. C'est sans doute le personnage autochtone le plus célèbre de toute l'histoire canadienne.",
+            "es": "No toda la historia indígena ocurre en el Gran Norte o en un pasado lejano. Aquí va una que está en el corazón mismo del nacimiento de Canadá —la historia de un pueblo nacido de dos mundos, y de un hombre que Quebec nunca olvidó: Louis Riel. Es probablemente el personaje indígena más célebre de toda la historia canadiense.",
+            "ca": "No tota la història indígena passa al Gran Nord o en un passat llunyà. Aquí va una que és al cor mateix del naixement del Canadà —la història d'un poble nascut de dos mons, i d'un home que el Quebec no va oblidar mai: Louis Riel. És probablement el personatge indígena més cèlebre de tota la història canadenca."
+          },
+          {
+            "h": {
+              "fr": "Qui sont les Métis?",
+              "es": "¿Quiénes son los métis?",
+              "ca": "Qui són els métis?"
+            }
+          },
+          {
+            "fr": "Les Métis ne sont ni tout à fait « Indiens » ni tout à fait européens : ils sont un peuple à part entière, né de l'union, à l'époque de la traite des fourrures, entre des femmes autochtones (cries, ojibwées, dénées) et des commerçants français ou écossais. De ce mélange est née une culture unique : une langue, le michif, qui mêle le français et le cri; la grande chasse au bison; la charrette de la rivière Rouge; le violon et la ceinture fléchée. Leur cœur historique se trouvait à la colonie de la rivière Rouge, là où s'élève aujourd'hui la ville de Winnipeg.",
+            "es": "Los métis no son ni del todo «indios» ni del todo europeos: son un pueblo por derecho propio, nacido de la unión, en la época del comercio de pieles, entre mujeres indígenas (cree, ojibwa, dené) y comerciantes franceses o escoceses. De esa mezcla nació una cultura única: una lengua, el michif, que mezcla el francés y el cree; la gran caza del bisonte; la carreta del río Rojo; el violín y la faja con flechas. Su corazón histórico estaba en la colonia del río Rojo, donde hoy se alza la ciudad de Winnipeg.",
+            "ca": "Els métis no són ni del tot «indis» ni del tot europeus: són un poble de ple dret, nascut de la unió, a l'època del comerç de pells, entre dones indígenes (cree, ojibwa, dené) i comerciants francesos o escocesos. D'aquella barreja va néixer una cultura única: una llengua, el michif, que barreja el francès i el cree; la gran caça del bisó; la carreta del riu Roig; el violí i la faixa amb fletxes. El seu cor històric era a la colònia del riu Roig, on avui s'alça la ciutat de Winnipeg."
+          },
+          {
+            "h": {
+              "fr": "Louis Riel",
+              "es": "Louis Riel",
+              "ca": "Louis Riel"
+            }
+          },
+          {
+            "fr": "Louis Riel naît en 1844 à Saint-Boniface, dans la colonie de la rivière Rouge. Brillant, il est envoyé étudier à Montréal, d'abord pour devenir prêtre, puis pour le droit. Profondément catholique, doté d'un grand talent d'orateur, il revient chez lui avec une mission : défendre son peuple. Il en deviendra le chef au moment où le Canada s'apprête à avaler l'Ouest.",
+            "es": "Louis Riel nace en 1844 en Saint-Boniface, en la colonia del río Rojo. Brillante, es enviado a estudiar a Montreal, primero para ser sacerdote, luego derecho. Profundamente católico, con un gran talento de orador, regresa a su tierra con una misión: defender a su pueblo. Se convertirá en su líder justo cuando Canadá se dispone a engullir el Oeste.",
+            "ca": "Louis Riel neix el 1844 a Saint-Boniface, a la colònia del riu Roig. Brillant, és enviat a estudiar a Montreal, primer per ser sacerdot, després dret. Profundament catòlic, amb un gran talent d'orador, torna a la seva terra amb una missió: defensar el seu poble. Es convertirà en el seu líder just quan el Canadà es disposa a empassar-se l'Oest."
+          },
+          {
+            "h": {
+              "fr": "La résistance de la rivière Rouge (1869-1870)",
+              "es": "La resistencia del río Rojo (1869-1870)",
+              "ca": "La resistència del riu Roig (1869-1870)"
+            }
+          },
+          {
+            "fr": "En 1869, le Canada achète l'immense Terre de Rupert à une compagnie de fourrures — sans consulter les milliers de Métis qui y vivent. Des arpenteurs arrivent pour découper la terre en carrés, ignorant le système de longues terres au bord de la rivière qu'utilisaient les Métis. C'en est trop. Riel et les siens forment un gouvernement provisoire, prennent le contrôle de Fort Garry et négocient avec Ottawa. L'affaire se gâte quand le gouvernement provisoire fait exécuter un agitateur ontarien, Thomas Scott : ce geste fera de Riel un héros pour les uns, un criminel pour les autres. Mais le résultat est immense : en 1870, la Loi sur le Manitoba crée une nouvelle province, avec des garanties pour la langue française et les écoles catholiques. Riel est, à juste titre, surnommé le « père du Manitoba ».",
+            "es": "En 1869, Canadá compra la inmensa Tierra de Rupert a una compañía de pieles —sin consultar a los miles de métis que viven allí. Llegan agrimensores para dividir la tierra en cuadrados, ignorando el sistema de tierras alargadas junto al río que usaban los métis. Es demasiado. Riel y los suyos forman un gobierno provisional, toman el control de Fort Garry y negocian con Ottawa. La cosa se tuerce cuando el gobierno provisional hace ejecutar a un agitador de Ontario, Thomas Scott: ese gesto hará de Riel un héroe para unos, un criminal para otros. Pero el resultado es inmenso: en 1870, la Ley de Manitoba crea una nueva provincia, con garantías para la lengua francesa y las escuelas católicas. A Riel se lo apoda, con razón, el «padre de Manitoba».",
+            "ca": "El 1869, el Canadà compra la immensa Terra de Rupert a una companyia de pells —sense consultar els milers de métis que hi viuen. Arriben agrimensors per dividir la terra en quadrats, ignorant el sistema de terres allargades vora el riu que usaven els métis. És massa. Riel i els seus formen un govern provisional, prenen el control de Fort Garry i negocien amb Ottawa. La cosa es torça quan el govern provisional fa executar un agitador d'Ontario, Thomas Scott: aquell gest farà de Riel un heroi per a uns, un criminal per a altres. Però el resultat és immens: el 1870, la Llei de Manitoba crea una nova província, amb garanties per a la llengua francesa i les escoles catòliques. A Riel se l'anomena, amb raó, el «pare de Manitoba»."
+          },
+          {
+            "h": {
+              "fr": "L'exil",
+              "es": "El exilio",
+              "ca": "L'exili"
+            }
+          },
+          {
+            "fr": "La victoire est pourtant amère. Ottawa envoie des troupes, et Riel doit fuir aux États-Unis. Les terres promises aux Métis ne leur seront, pour l'essentiel, jamais vraiment données, et beaucoup partent vers l'ouest, en Saskatchewan. Élu trois fois député, Riel n'ose jamais siéger au Parlement, car sa tête est mise à prix. Ces années d'exil sont dures : il connaît la maladie, séjourne dans des asiles, puis devient enseignant et citoyen américain au Montana, où il fonde une famille.",
+            "es": "La victoria, sin embargo, es amarga. Ottawa envía tropas, y Riel debe huir a Estados Unidos. Las tierras prometidas a los métis no se les darán, en lo esencial, nunca de verdad, y muchos se van al oeste, a Saskatchewan. Elegido diputado tres veces, Riel nunca se atreve a ocupar su escaño en el Parlamento, porque hay un precio por su cabeza. Esos años de exilio son duros: conoce la enfermedad, pasa por asilos, y luego se hace maestro y ciudadano estadounidense en Montana, donde forma una familia.",
+
+
+            "ca": "La victòria, però, és amarga. Ottawa envia tropes, i Riel ha de fugir als Estats Units. Les terres promeses als métis no se'ls donaran, en l'essencial, mai de debò, i molts se'n van a l'oest, a Saskatchewan. Elegit diputat tres vegades, Riel mai no gosa ocupar el seu escó al Parlament, perquè hi ha un preu pel seu cap. Aquells anys d'exili són durs: coneix la malaltia, passa per asils, i després es fa mestre i ciutadà nord-americà a Montana, on forma una família."
+          },
+          {
+            "h": {
+              "fr": "Batoche (1885)",
+              "es": "Batoche (1885)",
+              "ca": "Batoche (1885)"
+            }
+          },
+          {
+            "fr": "En 1884, les Métis de la Saskatchewan, confrontés aux mêmes problèmes de terres et au même mépris d'Ottawa, vont chercher Riel au Montana pour qu'il les mène encore. Il revient et installe un nouveau gouvernement provisoire à Batoche. À ses côtés, un homme remarquable : Gabriel Dumont, chasseur de bison et chef militaire de génie. Mais le rapport de force est écrasant : grâce au nouveau chemin de fer, le Canada peut envoyer rapidement des milliers de soldats. Après quelques combats, les Métis sont vaincus à la bataille de Batoche, en mai 1885.",
+            "es": "En 1884, los métis de Saskatchewan, ante los mismos problemas de tierras y el mismo desprecio de Ottawa, van a buscar a Riel a Montana para que los guíe de nuevo. Regresa e instala un nuevo gobierno provisional en Batoche. A su lado, un hombre notable: Gabriel Dumont, cazador de bisontes y jefe militar genial. Pero la correlación de fuerzas es aplastante: gracias al nuevo ferrocarril, Canadá puede enviar rápidamente miles de soldados. Tras algunos combates, los métis son vencidos en la batalla de Batoche, en mayo de 1885.",
+            "ca": "El 1884, els métis de la Saskatchewan, davant els mateixos problemes de terres i el mateix menyspreu d'Ottawa, van a buscar Riel a Montana perquè els guiï de nou. Torna i instal·la un nou govern provisional a Batoche. Al seu costat, un home notable: Gabriel Dumont, caçador de bisons i cap militar genial. Però la correlació de forces és aclaparadora: gràcies al nou ferrocarril, el Canadà pot enviar ràpidament milers de soldats. Després d'alguns combats, els métis són vençuts a la batalla de Batoche, el maig de 1885."
+          },
+          {
+            "h": {
+              "fr": "Gabriel Dumont, l'autre héros",
+              "es": "Gabriel Dumont, el otro héroe",
+              "ca": "Gabriel Dumont, l'altre heroi"
+            }
+          },
+          {
+            "fr": "Si Riel était l'âme politique et spirituelle du mouvement, Gabriel Dumont en fut le bras. Chasseur de bison réputé, cavalier hors pair, il connaissait chaque coulée et chaque rivière du pays. Pendant la résistance de 1885, il mène la guérilla avec un talent qui force l'admiration, infligeant des pertes à une armée bien plus nombreuse. Après la défaite de Batoche, il s'enfuit aux États-Unis, où il finira par travailler quelque temps dans le célèbre spectacle du Far West de Buffalo Bill. Revenu plus tard mourir sur sa terre, il demeure, aux côtés de Riel, une fierté du peuple métis.",
+            "es": "Si Riel era el alma política y espiritual del movimiento, Gabriel Dumont fue su brazo. Cazador de bisontes reputado, jinete excepcional, conocía cada hondonada y cada río del país. Durante la resistencia de 1885, dirige la guerrilla con un talento que impone admiración, infligiendo pérdidas a un ejército mucho más numeroso. Tras la derrota de Batoche, huye a Estados Unidos, donde acabará trabajando un tiempo en el célebre espectáculo del Lejano Oeste de Buffalo Bill. Vuelto más tarde a morir en su tierra, sigue siendo, junto a Riel, un orgullo del pueblo métis.",
+            "ca": "Si Riel era l'ànima política i espiritual del moviment, Gabriel Dumont en va ser el braç. Caçador de bisons reputat, genet excepcional, coneixia cada fondalada i cada riu del país. Durant la resistència de 1885, dirigeix la guerrilla amb un talent que imposa admiració, infligint pèrdues a un exèrcit molt més nombrós. Després de la derrota de Batoche, fuig als Estats Units, on acabarà treballant un temps en el cèlebre espectacle del Llunyà Oest de Buffalo Bill. Tornat més tard a morir a la seva terra, continua sent, al costat de Riel, un orgull del poble métis."
+          },
+          {
+            "h": {
+              "fr": "Le procès et la pendaison",
+              "es": "El juicio y el ahorcamiento",
+              "ca": "El judici i el penjament"
+            }
+          },
+          {
+            "fr": "Riel se rend. Jugé pour haute trahison à Regina, il refuse de plaider la folie : il veut défendre, devant le monde, la cause de son peuple. Le jury le déclare coupable, mais demande la clémence. Le premier ministre John A. Macdonald, lui, refuse de le gracier. Louis Riel est pendu le 16 novembre 1885, à l'âge de quarante et un ans. Les chefs cris Big Bear et Poundmaker, mêlés aux événements, sont eux aussi emprisonnés — et ne seront réhabilités que bien plus tard.",
+            "es": "Riel se entrega. Juzgado por alta traición en Regina, se niega a alegar locura: quiere defender, ante el mundo, la causa de su pueblo. El jurado lo declara culpable, pero pide clemencia. El primer ministro John A. Macdonald, en cambio, se niega a indultarlo. Louis Riel es ahorcado el 16 de noviembre de 1885, a los cuarenta y un años. Los jefes cree Big Bear y Poundmaker, implicados en los hechos, también son encarcelados —y no serán rehabilitados hasta mucho después.",
+            "ca": "Riel es lliura. Jutjat per alta traïció a Regina, es nega a al·legar bogeria: vol defensar, davant el món, la causa del seu poble. El jurat el declara culpable, però demana clemència. El primer ministre John A. Macdonald, en canvi, es nega a indultar-lo. Louis Riel és penjat el 16 de novembre de 1885, als quaranta-un anys. Els caps cree Big Bear i Poundmaker, implicats en els fets, també són empresonats —i no seran rehabilitats fins molt després."
+          },
+          {
+            "h": {
+              "fr": "La colère du Québec",
+              "es": "La cólera de Quebec",
+              "ca": "La còlera del Quebec"
+            }
+          },
+          {
+            "fr": "La pendaison de Riel déchire le pays en deux. Dans l'Ontario protestant, on l'avait réclamée; mais au Québec, francophone et catholique, c'est un séisme : on a le sentiment qu'un gouvernement anglais a pendu un des nôtres pour des raisons de langue et de religion. Des foules immenses manifestent à Montréal. Un politicien, Honoré Mercier, transforme cette colère en force et devient premier ministre du Québec. La mort de Riel laissera une cicatrice durable entre francophones et anglophones du Canada.",
+            "es": "El ahorcamiento de Riel parte el país en dos. En el Ontario protestante, se había reclamado; pero en Quebec, francófono y católico, es un seísmo: hay la sensación de que un gobierno inglés ha ahorcado a uno de los nuestros por razones de lengua y religión. Multitudes inmensas se manifiestan en Montreal. Un político, Honoré Mercier, transforma esa cólera en fuerza y se convierte en primer ministro de Quebec. La muerte de Riel dejará una cicatriz duradera entre francófonos y anglófonos de Canadá.",
+            "ca": "El penjament de Riel parteix el país en dos. A l'Ontario protestant, s'havia reclamat; però al Quebec, francòfon i catòlic, és un sisme: hi ha la sensació que un govern anglès ha penjat un dels nostres per raons de llengua i religió. Multituds immenses es manifesten a Montreal. Un polític, Honoré Mercier, transforma aquella còlera en força i es converteix en primer ministre del Quebec. La mort de Riel deixarà una cicatriu duradora entre francòfons i anglòfons del Canadà."
+          },
+          {
+            "h": {
+              "fr": "Un héros, aujourd'hui",
+              "es": "Un héroe, hoy",
+              "ca": "Un heroi, avui"
+            }
+          },
+          {
+            "fr": "Avec le temps, le regard a changé. Celui qu'on avait pendu comme un traître est aujourd'hui considéré comme un héros : père du Manitoba, défenseur des Métis et des droits des minorités. En 1982, les Métis sont enfin reconnus, dans la Constitution canadienne, comme l'un des trois peuples autochtones du pays. Le Manitoba a même un jour férié, le « Jour Louis-Riel ». Quant à Gabriel Dumont, il reste une figure admirée de courage et de liberté. L'histoire de Riel nous rappelle que les Métis sont un peuple bien vivant — et que leur combat est tissé jusque dans l'histoire du Québec lui-même.",
+            "es": "Con el tiempo, la mirada cambió. Aquel a quien habían ahorcado como traidor es hoy considerado un héroe: padre de Manitoba, defensor de los métis y de los derechos de las minorías. En 1982, los métis son por fin reconocidos, en la Constitución canadiense, como uno de los tres pueblos indígenas del país. Manitoba tiene incluso un día festivo, el «Día Louis Riel». En cuanto a Gabriel Dumont, sigue siendo una figura admirada de coraje y libertad. La historia de Riel nos recuerda que los métis son un pueblo bien vivo —y que su lucha está tejida hasta en la historia del propio Quebec.",
+            "ca": "Amb el temps, la mirada va canviar. Aquell a qui havien penjat com a traïdor és avui considerat un heroi: pare de Manitoba, defensor dels métis i dels drets de les minories. El 1982, els métis són per fi reconeguts, a la Constitució canadenca, com un dels tres pobles indígenes del país. El Manitoba té fins i tot un dia festiu, el «Dia Louis Riel». Quant a Gabriel Dumont, continua sent una figura admirada de coratge i llibertat. La història de Riel ens recorda que els métis són un poble ben viu —i que la seva lluita està teixida fins i tot en la història del mateix Quebec."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un peuple",
+          "es": "un pueblo",
+          "ca": "un poble"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        },
+        {
+          "mot": "un chef",
+          "es": "un líder/jefe",
+          "ca": "un líder/cap"
+        },
+        {
+          "mot": "résister",
+          "es": "resistir",
+          "ca": "resistir"
+        },
+        {
+          "mot": "un traité",
+          "es": "un tratado",
+          "ca": "un tractat"
+        },
+        {
+          "mot": "pendre",
+          "es": "ahorcar",
+          "ca": "penjar"
+        },
+        {
+          "mot": "un héros",
+          "es": "un héroe",
+          "ca": "un heroi"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿De qué unión nacieron los métis?",
+            "ca": "De quina unió van néixer els métis?"
+          },
+          "piste": {
+            "es": "mujeres indígenas y comerciantes europeos",
+            "ca": "dones indígenes i comerciants europeus"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué provincia ayudó a crear Riel?",
+            "ca": "Quina província va ajudar a crear Riel?"
+          },
+          "piste": {
+            "es": "Manitoba",
+            "ca": "Manitoba"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién era el jefe militar en Batoche?",
+            "ca": "Qui era el cap militar a Batoche?"
+          },
+          "piste": {
+            "es": "Gabriel Dumont",
+            "ca": "Gabriel Dumont"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasó a Riel el 16 de noviembre de 1885?",
+            "ca": "Què li va passar a Riel el 16 de novembre de 1885?"
+          },
+          "piste": {
+            "es": "fue ahorcado",
+            "ca": "va ser penjat"
+          }
+        }
+      ],
+      "note": {
+        "es": "La ejecución de Riel sigue siendo un tema sensible en la historia de Canadá y de Quebec. Hoy se lo reconoce ampliamente como un héroe y defensor de los derechos de los métis.",
+        "ca": "L'execució de Riel continua sent un tema sensible en la història del Canadà i del Quebec. Avui se'l reconeix àmpliament com un heroi i defensor dels drets dels métis."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Louis Riel",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/louis-riel"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Les Métis",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/metis"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Gabriel Dumont",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/gabriel-dumont"
+        }
+      ]
+    }
+  ]
+}

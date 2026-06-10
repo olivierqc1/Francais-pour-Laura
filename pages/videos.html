@@ -85,6 +85,16 @@
 <script src="../js/lang.js"></script>
 <script>
 const CATS = [
+  { icon:"🪶", anchor:"autochtone", titre:{es:"Cultura indígena",ca:"Cultura indígena"}, desc:{es:"Para profundizar los textos de «Historia indígena»: música, cine y testimonios",ca:"Per aprofundir els textos d'«Història indígena»: música, cinema i testimonis"},
+    videos:[
+      { link:true, emoji:"🎬", q:"Kanehsatake 270 ans de résistance Alanis Obomsawin", titre:"Kanehsatake (A. Obomsawin)", niveau:"n-b1", badge:{es:"B1+",ca:"B1+"}, tag:"🌲 Oka 1990", desc:{es:"El documental de referencia sobre la crisis de Oka, filmado desde dentro de las barricadas.",ca:"El documental de referència sobre la crisi d'Oka, filmat des de dins de les barricades."} },
+      { link:true, emoji:"🎸", q:"Kashtin Florent Vollant chanson innu", titre:"Kashtin / Florent Vollant", niveau:"n-all", badge:{es:"Música",ca:"Música"}, tag:"🎵 Innu", desc:{es:"Las canciones más célebres en lengua innu, de los años 90 hasta hoy.",ca:"Les cançons més cèlebres en llengua innu, dels anys 90 fins avui."} },
+      { link:true, emoji:"❄️", q:"Elisapie chanteuse inuk Inuktitut", titre:"Elisapie", niveau:"n-all", badge:{es:"Música",ca:"Música"}, tag:"🎵 Inuit", desc:{es:"La voz inuk del Gran Norte de Quebec; canta en inuktitut, francés e inglés.",ca:"La veu inuk del Gran Nord del Quebec; canta en inuktitut, francès i anglès."} },
+      { link:true, emoji:"🥁", q:"powwow danse tambour Premières Nations Québec", titre:"Un powwow", niveau:"n-a2", badge:{es:"Descubrir",ca:"Descobrir"}, tag:"🥁 Cultura", desc:{es:"El tambor, los cantos y la regalia de un powwow: la cultura viva de hoy.",ca:"El tambor, els cants i la regalia d'un powwow: la cultura viva d'avui."} },
+      { link:true, emoji:"🎤", q:"Samian rappeur algonquin français", titre:"Samian", niveau:"n-b1", badge:{es:"Música",ca:"Música"}, tag:"🎵 Algonquin", desc:{es:"Rap en francés y en algonquino: una voz joven y comprometida.",ca:"Rap en francès i en algonquí: una veu jove i compromesa."} },
+      { link:true, emoji:"📖", q:"Joséphine Bacon poésie innue", titre:"Joséphine Bacon", niveau:"n-b1", badge:{es:"B1+",ca:"B1+"}, tag:"📖 Poesía", desc:{es:"La gran poeta innu recita sus versos sobre la tierra y la memoria.",ca:"La gran poeta innu recita els seus versos sobre la terra i la memòria."} },
+      { link:true, emoji:"🤠", q:"Louis Riel Métis documentaire histoire Canada", titre:"Louis Riel & les Métis", niveau:"n-b1", badge:{es:"B1+",ca:"B1+"}, tag:"🤠 Métis", desc:{es:"Documentales sobre Louis Riel y la historia del pueblo métis.",ca:"Documentals sobre Louis Riel i la història del poble métis."} }
+    ]},
   { icon:"🍁", titre:{es:"Cultura québécoise",ca:"Cultura québécoise"}, desc:{es:"Tradiciones para ver y entender la vida en Quebec",ca:"Tradicions per veure i entendre la vida al Quebec"},
     videos:[
       { link:true, emoji:"🍁", q:"cabane à sucre temps des sucres Québec tradition", titre:"La cabane à sucre", niveau:"n-a2", badge:{es:"Descubrir",ca:"Descobrir"}, tag:"🍁 Québec", desc:{es:"El 'temps des sucres': cómo se hace el jarabe de arce y la fiesta en la cabaña. Una selección de vídeos en YouTube.",ca:"El 'temps des sucres': com es fa el xarop d'auró i la festa a la cabana. Una selecció de vídeos a YouTube."} },
@@ -140,54 +150,4 @@ function render() {
         const url = v.url || ytSearch(v.q);
         return '<div class="video-card">' +
           '<a href="' + url + '" target="_blank" rel="noopener" style="text-decoration:none;display:block">' +
-            '<div class="link-thumb"><div class="link-emoji">' + v.emoji + '</div></div>' +
-          '</a>' +
-          '<div class="video-body">' + meta +
-            '<div class="video-title">' + v.titre + '</div>' +
-            '<div class="video-desc">' + v.desc[l] + '</div>' +
-            '<a href="' + url + '" target="_blank" rel="noopener" class="video-link">↗ ' + (l === 'es' ? 'Ver en YouTube' : 'Veure a YouTube') + '</a>' +
-          '</div></div>';
-      }
-      return '<div class="video-card">' +
-        '<div class="video-thumb" onclick="loadVideo(this, \'' + v.id + '\')">' +
-          '<img src="https://img.youtube.com/vi/' + v.id + '/hqdefault.jpg" alt="' + v.titre + '" loading="lazy">' +
-          '<div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>' +
-          '<div class="video-embed"></div>' +
-        '</div>' +
-        '<div class="video-body">' + meta +
-          '<div class="video-title">' + v.titre + '</div>' +
-          '<div class="video-desc">' + v.desc[l] + '</div>' +
-          '<a href="https://www.youtube.com/watch?v=' + v.id + '" target="_blank" rel="noopener" class="video-link">↗ ' + (l === 'es' ? 'Ver en YouTube' : 'Veure a YouTube') + '</a>' +
-        '</div></div>';
-    }).join('');
-    return '<div class="cat-section fade-up">' +
-      '<div class="cat-header"><span class="cat-icon">' + c.icon + '</span>' +
-      '<div><div class="cat-title">' + c.titre[l] + '</div><div class="cat-desc">' + c.desc[l] + '</div></div></div>' +
-      '<div class="video-grid">' + cards + '</div></div>';
-  }).join('');
-}
-
-function loadVideo(thumb, videoId) {
-  const embed = thumb.querySelector('.video-embed');
-  thumb.querySelector('img').style.display = 'none';
-  thumb.querySelector('.play-btn').style.display = 'none';
-  embed.style.display = 'block';
-  const iframe = document.createElement('iframe');
-  iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
-  iframe.setAttribute('allowfullscreen', '');
-  iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
-  iframe.src = 'https://www.youtube-nocookie.com/embed/' + videoId + '?autoplay=1&rel=0&playsinline=1';
-  embed.appendChild(iframe);
-  thumb.onclick = null;
-  thumb.style.cursor = 'default';
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-  render();
-  document.querySelectorAll('.lang-toggle button').forEach(b => {
-    b.addEventListener('click', () => setTimeout(render, 0));
-  });
-});
-</script>
-</body>
-</html>
+            '<div class="link-thumb"><d

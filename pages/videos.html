@@ -107,6 +107,8 @@ const CATS = [
       { id:"Ivf8WQRL6mc", titre:"Mon pays", niveau:"n-all", badge:{es:"Todos",ca:"Tots"}, tag:"🍁 Québec", desc:{es:"'Mon pays ce n'est pas un pays, c'est l'hiver'. La canción emblemática de Vigneault.",ca:"'Mon pays ce n'est pas un pays, c'est l'hiver'. La cançó emblemàtica de Vigneault."} }
     ]},
   { icon:"🌍", titre:{es:"La Francophonie en el mundo",ca:"La Francophonie al món"}, desc:{es:"El francés no es solo Francia — Acadia, África y más",ca:"El francès no és només França — Acàdia, Àfrica i més"},
+
+
     videos:[
       { link:true, emoji:"🦞", q:"Destination Francophonie Acadie TV5MONDE", titre:"Destination Acadie (TV5MONDE)", niveau:"n-b1", badge:{es:"B1+",ca:"B1+"}, tag:"🦞 Acadie", desc:{es:"Los acadianos: los primeros francófonos de América, en las Provincias Marítimas de Canadá. Acento único.",ca:"Els acadians: els primers francòfons d'Amèrica, a les Províncies Marítimes del Canadà. Accent únic."} },
       { link:true, emoji:"🌍", q:"Destination Francophonie Afrique TV5MONDE", titre:"Le français en Afrique", niveau:"n-b1", badge:{es:"Descubrir",ca:"Descobrir"}, tag:"🌍 Afrique", desc:{es:"La mayoría de los francófonos del mundo viven en África. Serie 'Destination Francophonie' de TV5MONDE.",ca:"La majoria dels francòfons del món viuen a l'Àfrica. Sèrie 'Destination Francophonie' de TV5MONDE."} },
@@ -150,4 +152,54 @@ function render() {
         const url = v.url || ytSearch(v.q);
         return '<div class="video-card">' +
           '<a href="' + url + '" target="_blank" rel="noopener" style="text-decoration:none;display:block">' +
-            '<div class="link-thumb"><d
+            '<div class="link-thumb"><div class="link-emoji">' + v.emoji + '</div></div>' +
+          '</a>' +
+          '<div class="video-body">' + meta +
+            '<div class="video-title">' + v.titre + '</div>' +
+            '<div class="video-desc">' + v.desc[l] + '</div>' +
+            '<a href="' + url + '" target="_blank" rel="noopener" class="video-link">↗ ' + (l === 'es' ? 'Ver en YouTube' : 'Veure a YouTube') + '</a>' +
+          '</div></div>';
+      }
+      return '<div class="video-card">' +
+        '<div class="video-thumb" onclick="loadVideo(this, \'' + v.id + '\')">' +
+          '<img src="https://img.youtube.com/vi/' + v.id + '/hqdefault.jpg" alt="' + v.titre + '" loading="lazy">' +
+          '<div class="play-btn"><div class="play-icon"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>' +
+          '<div class="video-embed"></div>' +
+        '</div>' +
+        '<div class="video-body">' + meta +
+          '<div class="video-title">' + v.titre + '</div>' +
+          '<div class="video-desc">' + v.desc[l] + '</div>' +
+          '<a href="https://www.youtube.com/watch?v=' + v.id + '" target="_blank" rel="noopener" class="video-link">↗ ' + (l === 'es' ? 'Ver en YouTube' : 'Veure a YouTube') + '</a>' +
+        '</div></div>';
+    }).join('');
+    return '<div class="cat-section fade-up"' + (c.anchor ? ' id="'+c.anchor+'"' : '') + '>' +
+      '<div class="cat-header"><span class="cat-icon">' + c.icon + '</span>' +
+      '<div><div class="cat-title">' + c.titre[l] + '</div><div class="cat-desc">' + c.desc[l] + '</div></div></div>' +
+      '<div class="video-grid">' + cards + '</div></div>';
+  }).join('');
+}
+
+function loadVideo(thumb, videoId) {
+  const embed = thumb.querySelector('.video-embed');
+  thumb.querySelector('img').style.display = 'none';
+  thumb.querySelector('.play-btn').style.display = 'none';
+  embed.style.display = 'block';
+  const iframe = document.createElement('iframe');
+  iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+  iframe.setAttribute('allowfullscreen', '');
+  iframe.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
+  iframe.src = 'https://www.youtube-nocookie.com/embed/' + videoId + '?autoplay=1&rel=0&playsinline=1';
+  embed.appendChild(iframe);
+  thumb.onclick = null;
+  thumb.style.cursor = 'default';
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  render();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(render, 0));
+  });
+});
+</script>
+</body>
+</html>

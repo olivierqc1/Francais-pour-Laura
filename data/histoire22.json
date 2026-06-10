@@ -1,0 +1,283 @@
+{
+  "textes": [
+    {
+      "id": "traite_fourrures",
+      "emoji": "🦫",
+      "theme": "Histoire",
+      "periode": "1600 – 1870",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shooting_the_Rapids_1879.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Shooting_the_Rapids_1879.jpg",
+        "credit": {
+          "es": "«Descenso de rápidos» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Compañía de la Bahía de Hudson — dominio público.",
+          "ca": "«Descens de ràpids» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Companyia de la Badia de Hudson — domini públic."
+        }
+      },
+      "titre": {
+        "es": "El comercio de pieles",
+        "ca": "El comerç de pells"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Quand les Français sont arrivés, vers 1600, ils avaient besoin des Autochtones pour survivre et pour avoir des fourrures, surtout du castor.",
+            "es": "Cuando llegaron los franceses, hacia 1600, necesitaban a los indígenas para sobrevivir y para conseguir pieles, sobre todo de castor.",
+            "ca": "Quan van arribar els francesos, cap al 1600, necessitaven els indígenes per sobreviure i per aconseguir pells, sobretot de castor."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shooting_the_Rapids_1879.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Shooting_the_Rapids_1879.jpg",
+              "credit": {
+                "es": "«Descenso de rápidos» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Compañía de la Bahía de Hudson — dominio público.",
+                "ca": "«Descens de ràpids» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Companyia de la Badia de Hudson — domini públic."
+              }
+            }
+          },
+          {
+            "fr": "Au début, ils étaient des partenaires : les Autochtones donnaient des fourrures, les Européens donnaient des outils, des couvertures et des fusils.",
+            "es": "Al principio eran socios: los indígenas daban pieles, los europeos daban herramientas, mantas y fusiles.",
+            "ca": "Al principi eren socis: els indígenes donaven pells, els europeus donaven eines, mantes i fusells."
+          },
+          {
+            "fr": "Plus tard, les Anglais ont pris la place des Français. De grandes compagnies se faisaient concurrence. Mais la traite a aussi apporté des maladies et de l'alcool.",
+            "es": "Más tarde, los ingleses ocuparon el lugar de los franceses. Grandes compañías competían entre sí. Pero el comercio también trajo enfermedades y alcohol.",
+            "ca": "Més tard, els anglesos van ocupar el lloc dels francesos. Grans companyies competien entre elles. Però el comerç també va portar malalties i alcohol."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Avant les réserves et les lois, il y a eu une longue époque — presque 250 ans — où les Autochtones et les Européens se rencontraient surtout comme partenaires de commerce. C'est l'époque de la traite des fourrures.",
+            "es": "Antes de las reservas y las leyes, hubo una larga época —casi 250 años— en que los indígenas y los europeos se encontraban sobre todo como socios comerciales. Es la época del comercio de pieles.",
+            "ca": "Abans de les reserves i les lleis, hi va haver una llarga època —gairebé 250 anys— en què els indígenes i els europeus es trobaven sobretot com a socis comercials. És l'època del comerç de pells."
+          },
+          {
+            "h": {
+              "fr": "Des partenaires",
+              "es": "Socios",
+              "ca": "Socis"
+            }
+          },
+          {
+            "fr": "Les Français, peu nombreux, avaient besoin des Autochtones : pour survivre, pour voyager en canot, et pour obtenir les fourrures de castor que l'Europe adorait. En échange, ils donnaient des outils de métal, des couvertures, des fusils. Beaucoup d'hommes ont épousé des femmes autochtones : c'est de ces unions qu'est né le peuple métis.",
+            "es": "Los franceses, poco numerosos, necesitaban a los indígenas: para sobrevivir, para viajar en canoa y para conseguir las pieles de castor que Europa adoraba. A cambio, daban herramientas de metal, mantas, fusiles. Muchos hombres se casaron con mujeres indígenas: de esas uniones nació el pueblo métis.",
+            "ca": "Els francesos, pocs nombrosos, necessitaven els indígenes: per sobreviure, per viatjar en canoa i per aconseguir les pells de castor que Europa adorava. A canvi, donaven eines de metall, mantes, fusells. Molts homes es van casar amb dones indígenes: d'aquelles unions va néixer el poble métis."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shooting_the_Rapids_1879.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Shooting_the_Rapids_1879.jpg",
+              "credit": {
+                "es": "«Descenso de rápidos» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Compañía de la Bahía de Hudson — dominio público.",
+                "ca": "«Descens de ràpids» (1879), de Frances Anne Hopkins: una gran canoa de voyageurs de la Companyia de la Badia de Hudson — domini públic."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Les compagnies",
+              "es": "Las compañías",
+              "ca": "Les companyies"
+            }
+          },
+          {
+            "fr": "Après la conquête anglaise (1760), la traite passe aux mains des Britanniques. Deux grandes compagnies se font une concurrence féroce : la Compagnie de la Baie d'Hudson et la Compagnie du Nord-Ouest. Elles finissent par fusionner en 1821. Mais avec le temps, la traite a aussi apporté la dépendance, les maladies et l'alcool.",
+            "es": "Tras la conquista inglesa (1760), el comercio pasa a manos británicas. Dos grandes compañías compiten ferozmente: la Compañía de la Bahía de Hudson y la Compañía del Noroeste. Acaban fusionándose en 1821. Pero con el tiempo, el comercio también trajo dependencia, enfermedades y alcohol.",
+            "ca": "Després de la conquesta anglesa (1760), el comerç passa a mans britàniques. Dues grans companyies competeixen ferotgement: la Companyia de la Badia de Hudson i la Companyia del Nord-oest. Acaben fusionant-se el 1821. Però amb el temps, el comerç també va portar dependència, malalties i alcohol."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Avant les réserves, avant la Loi sur les Indiens, il y a eu une très longue époque — presque deux cent cinquante ans — où Autochtones et nouveaux venus ne se voyaient pas d'abord comme des ennemis, mais comme des partenaires. C'est l'époque de la traite des fourrures. Pour comprendre comment ont vraiment commencé les relations entre les Premières Nations et les colons, il faut commencer ici, par le castor.",
+            "es": "Antes de las reservas, antes de la Ley sobre los Indios, hubo una larga época —casi doscientos cincuenta años— en que indígenas y recién llegados no se veían ante todo como enemigos, sino como socios. Es la época del comercio de pieles. Para entender cómo empezaron realmente las relaciones entre las Primeras Naciones y los colonos, hay que empezar aquí, por el castor.",
+            "ca": "Abans de les reserves, abans de la Llei sobre els Indis, hi va haver una llarga època —gairebé dos-cents cinquanta anys— en què indígenes i nouvinguts no es veien abans de tot com a enemics, sinó com a socis. És l'època del comerç de pells. Per entendre com van començar realment les relacions entre les Primeres Nacions i els colons, cal començar aquí, pel castor."
+          },
+          {
+            "h": {
+              "fr": "L'arrivée des Français : des partenaires, pas des maîtres",
+              "es": "La llegada de los franceses: socios, no amos",
+              "ca": "L'arribada dels francesos: socis, no amos"
+            }
+          },
+          {
+            "fr": "Au début des années 1600, quand les Français s'installent dans la vallée du Saint-Laurent, ils sont très peu nombreux et complètement perdus dans un pays immense et glacé. Pour survivre, ils dépendent entièrement des Autochtones, qui leur apprennent à se déplacer en canot, à porter des raquettes, à se soigner et à se nourrir. Surtout, ce sont les Premières Nations qui détiennent ce que l'Europe veut par-dessus tout : les fourrures de castor, dont on fait des chapeaux à la mode. La relation est donc, au départ, celle d'un échange entre égaux. La France s'allie avec les Innus, les Algonquins et les Hurons-Wendats, et scelle ces amitiés par des cadeaux, des discours et des cérémonies.",
+            "es": "A principios del siglo XVII, cuando los franceses se instalan en el valle del San Lorenzo, son muy pocos y están completamente perdidos en un país inmenso y helado. Para sobrevivir, dependen por entero de los indígenas, que les enseñan a desplazarse en canoa, a usar raquetas de nieve, a curarse y a alimentarse. Sobre todo, son las Primeras Naciones las que poseen lo que Europa más desea: las pieles de castor, con las que se hacen sombreros de moda. La relación es, pues, al principio, un intercambio entre iguales. Francia se alía con los innu, los algonquinos y los hurones-wendat, y sella esas amistades con regalos, discursos y ceremonias.",
+            "ca": "A principis del segle XVII, quan els francesos s'instal·len a la vall del Sant Llorenç, són molt pocs i estan completament perduts en un país immens i glaçat. Per sobreviure, depenen del tot dels indígenes, que els ensenyen a desplaçar-se en canoa, a fer servir raquetes de neu, a guarir-se i a alimentar-se. Sobretot, són les Primeres Nacions les que posseeixen el que Europa més desitja: les pells de castor, amb què es fan barrets de moda. La relació és, doncs, al principi, un intercanvi entre iguals. França s'alia amb els innu, els algonquins i els hurons-wendat, i segella aquelles amistats amb regals, discursos i cerimònies."
+          },
+          {
+            "h": {
+              "fr": "Une alliance… et des guerres",
+              "es": "Una alianza… y guerras",
+              "ca": "Una aliança… i guerres"
+            }
+          },
+          {
+            "fr": "Mais être un partenaire commercial, c'était aussi devenir un allié militaire. Dès 1609, Champlain accompagne ses alliés dans un combat contre les Haudenosaunee (les Iroquois) : ce geste déclenche une longue inimitié. Armés par les Hollandais, puis par les Anglais installés plus au sud, les Haudenosaunee mènent contre la Nouvelle-France et ses alliés de terribles « guerres iroquoises », en grande partie pour le contrôle de la traite. En 1649, la puissante confédération huronne-wendate est presque anéantie. La fourrure n'apportait donc pas que des outils et des richesses : elle entraînait aussi les nations dans des conflits dévastateurs.",
+            "es": "Pero ser socio comercial era también convertirse en aliado militar. Ya en 1609, Champlain acompaña a sus aliados en un combate contra los haudenosaunee (los iroqueses): ese gesto desencadena una larga enemistad. Armados por los holandeses, y luego por los ingleses instalados más al sur, los haudenosaunee libran contra Nueva Francia y sus aliados terribles «guerras iroquesas», en gran parte por el control del comercio. En 1649, la poderosa confederación hurona-wendat queda casi aniquilada. La piel no traía, pues, solo herramientas y riquezas: también arrastraba a las naciones a conflictos devastadores.",
+            "ca": "Però ser soci comercial era també convertir-se en aliat militar. Ja el 1609, Champlain acompanya els seus aliats en un combat contra els haudenosaunee (els iroquesos): aquell gest desencadena una llarga enemistat. Armats pels holandesos, i després pels anglesos instal·lats més al sud, els haudenosaunee lliuren contra Nova França i els seus aliats terribles «guerres iroqueses», en gran part pel control del comerç. El 1649, la poderosa confederació hurona-wendat queda gairebé aniquilada. La pell no portava, doncs, només eines i riqueses: també arrossegava les nacions a conflictes devastadors."
+          },
+          {
+            "h": {
+              "fr": "Comment ça fonctionnait",
+              "es": "Cómo funcionaba",
+              "ca": "Com funcionava"
+            }
+          },
+          {
+            "fr": "Sur le terrain, chacun avait son rôle. Les Autochtones étaient les véritables experts : ils piégeaient les animaux, préparaient les peaux et connaissaient chaque rivière. Les Français, eux, transportaient les fourrures sur d'immenses distances en canot — d'abord les « coureurs des bois » indépendants, puis les « voyageurs » engagés par les compagnies. En échange des peaux, on offrait des outils de métal, des chaudrons, des fusils, des couvertures de laine, du tissu et des perles — mais aussi de l'eau-de-vie, qui allait faire d'énormes ravages. Beaucoup de commerçants épousaient des femmes autochtones « à la façon du pays » : ces mariages tissaient des liens de parenté essentiels au commerce — et, on l'a vu, ont donné naissance au peuple métis.",
+            "es": "Sobre el terreno, cada uno tenía su papel. Los indígenas eran los verdaderos expertos: atrapaban a los animales, preparaban las pieles y conocían cada río. Los franceses transportaban las pieles a través de inmensas distancias en canoa —primero los «coureurs des bois» independientes, luego los «voyageurs» contratados por las compañías. A cambio de las pieles, se ofrecían herramientas de metal, calderos, fusiles, mantas de lana, tela y abalorios —pero también aguardiente, que causaría enormes estragos. Muchos comerciantes se casaban con mujeres indígenas «a la usanza del país»: esos matrimonios tejían lazos de parentesco esenciales para el comercio —y, como hemos visto, dieron origen al pueblo métis.",
+
+
+            "ca": "Sobre el terreny, cadascú tenia el seu paper. Els indígenes eren els veritables experts: atrapaven els animals, preparaven les pells i coneixien cada riu. Els francesos transportaven les pells a través d'immenses distàncies en canoa —primer els «coureurs des bois» independents, després els «voyageurs» contractats per les companyies. A canvi de les pells, s'oferien eines de metall, calderes, fusells, mantes de llana, teixit i abaloris —però també aiguardent, que causaria enormes estralls. Molts comerciants es casaven amb dones indígenes «a la manera del país»: aquells matrimonis teixien lligams de parentiu essencials per al comerç —i, com hem vist, van donar origen al poble métis."
+          },
+          {
+            "h": {
+              "fr": "Les Français, puis les Anglais",
+              "es": "Los franceses, luego los ingleses",
+              "ca": "Els francesos, després els anglesos"
+            }
+          },
+          {
+            "fr": "Tout bascule avec la conquête britannique de la Nouvelle-France, en 1760. La traite ne disparaît pas, mais elle change de mains : les patrons sont désormais des marchands britanniques et écossais, installés à Montréal. Fait remarquable, ce sont toujours des Canadiens français qui pagaient les canots et font tourner le commerce sur le terrain. Les vieilles alliances se recomposent, et la rivalité commerciale prend une dimension nouvelle, à l'échelle de tout un continent.",
+            "es": "Todo cambia con la conquista británica de Nueva Francia, en 1760. El comercio no desaparece, pero cambia de manos: los jefes son ahora comerciantes británicos y escoceses, instalados en Montreal. Algo notable: siguen siendo canadienses franceses quienes reman las canoas y hacen funcionar el comercio sobre el terreno. Las viejas alianzas se recomponen, y la rivalidad comercial cobra una nueva dimensión, a escala de todo un continente.",
+            "ca": "Tot canvia amb la conquesta britànica de Nova França, el 1760. El comerç no desapareix, però canvia de mans: els caps són ara comerciants britànics i escocesos, instal·lats a Montreal. Una cosa notable: continuen sent canadencs francesos els qui remen les canoes i fan funcionar el comerç sobre el terreny. Les velles aliances es recomponen, i la rivalitat comercial pren una nova dimensió, a escala de tot un continent."
+          },
+          {
+            "h": {
+              "fr": "Deux grandes compagnies rivales",
+              "es": "Dos grandes compañías rivales",
+              "ca": "Dues grans companyies rivals"
+            }
+          },
+          {
+            "fr": "Deux géants s'affrontent. La Compagnie de la Baie d'Hudson, anglaise, créée dès 1670, attendait sagement dans ses forts au bord de la baie d'Hudson que les Autochtones descendent les rivières pour échanger leurs fourrures. La Compagnie du Nord-Ouest, basée à Montréal et fondée vers 1779, faisait l'inverse : ses voyageurs allaient chercher les fourrures de plus en plus loin à l'intérieur des terres. Leur concurrence fut féroce, parfois violente. Épuisées par cette guerre commerciale, les deux compagnies finissent par fusionner en 1821, sous le nom de la Compagnie de la Baie d'Hudson.",
+            "es": "Dos gigantes se enfrentan. La Compañía de la Bahía de Hudson, inglesa, creada ya en 1670, esperaba tranquilamente en sus fuertes a orillas de la bahía de Hudson a que los indígenas bajaran los ríos para intercambiar sus pieles. La Compañía del Noroeste, con base en Montreal y fundada hacia 1779, hacía lo contrario: sus voyageurs iban a buscar las pieles cada vez más lejos, tierra adentro. Su competencia fue feroz, a veces violenta. Agotadas por esa guerra comercial, las dos compañías acaban fusionándose en 1821, bajo el nombre de la Compañía de la Bahía de Hudson.",
+            "ca": "Dos gegants s'enfronten. La Companyia de la Badia de Hudson, anglesa, creada ja el 1670, esperava tranquil·lament als seus forts vora la badia de Hudson que els indígenes baixessin els rius per intercanviar les seves pells. La Companyia del Nord-oest, amb seu a Montreal i fundada cap al 1779, feia el contrari: els seus voyageurs anaven a buscar les pells cada cop més lluny, terra endins. La seva competència va ser ferotge, de vegades violenta. Esgotades per aquella guerra comercial, les dues companyies acaben fusionant-se el 1821, sota el nom de la Companyia de la Badia de Hudson."
+          },
+          {
+            "h": {
+              "fr": "L'argent du castor",
+              "es": "El dinero del castor",
+              "ca": "Els diners del castor"
+            }
+          },
+          {
+            "fr": "Comment payait-on, dans ce monde sans pièces de monnaie? L'unité de référence était le « castor gras » : une belle peau de castor servait d'étalon, et tout se comptait par rapport à elle. Le commerce se faisait dans des forts, ou « postes de traite », répartis sur tout le territoire. Chaque été, des brigades de canots reliaient Montréal à l'intérieur du continent, dans des voyages épuisants. Pour nourrir tout ce monde, on comptait sur le pemmican — de la viande de bison séchée et mélangée à du gras — fourni surtout par les nations des plaines et par les Métis. C'était un système immense, qui s'étendait sur la moitié d'un continent.",
+            "es": "¿Cómo se pagaba, en este mundo sin monedas? La unidad de referencia era el «castor graso»: una buena piel de castor servía de patrón, y todo se contaba en relación con ella. El comercio se hacía en fuertes, o «puestos de comercio», repartidos por todo el territorio. Cada verano, brigadas de canoas unían Montreal con el interior del continente, en viajes agotadores. Para alimentar a toda esa gente, se contaba con el pemmican —carne de bisonte seca y mezclada con grasa— suministrado sobre todo por las naciones de las llanuras y por los métis. Era un sistema inmenso, que se extendía por la mitad de un continente.",
+            "ca": "Com es pagava, en aquest món sense monedes? La unitat de referència era el «castor gras»: una bona pell de castor servia de patró, i tot es comptava en relació amb ella. El comerç es feia en forts, o «llocs de comerç», repartits per tot el territori. Cada estiu, brigades de canoes unien Montreal amb l'interior del continent, en viatges esgotadors. Per alimentar tota aquella gent, es comptava amb el pemmican —carn de bisó seca i barrejada amb greix— subministrat sobretot per les nacions de les planes i pels métis. Era un sistema immens, que s'estenia per la meitat d'un continent."
+          },
+          {
+            "h": {
+              "fr": "Le revers de la médaille",
+              "es": "La otra cara de la moneda",
+              "ca": "L'altra cara de la moneda"
+            }
+          },
+          {
+            "fr": "Avec le temps, cette belle relation de partenaires s'est dégradée. À force d'échanger contre des outils européens, les nations en sont devenues dépendantes. Surtout, les nouveaux venus ont apporté des maladies inconnues, comme la variole, qui ont décimé des communautés entières. L'eau-de-vie a fait des ravages, et la chasse intensive a fait disparaître le castor de régions entières. Vers le milieu des années 1800, la mode change en Europe — on préfère désormais la soie au castor — et la traite décline. En 1869, la Compagnie de la Baie d'Hudson vend son immense territoire au Canada : c'est exactement ce qui mènera à la résistance de Louis Riel. L'époque des partenaires laissait place à celle de la dépossession.",
+            "es": "Con el tiempo, esa hermosa relación de socios se degradó. A fuerza de intercambiar por herramientas europeas, las naciones se volvieron dependientes. Sobre todo, los recién llegados trajeron enfermedades desconocidas, como la viruela, que diezmaron comunidades enteras. El aguardiente causó estragos, y la caza intensiva hizo desaparecer al castor de regiones enteras. Hacia mediados del siglo XIX, la moda cambia en Europa —ahora se prefiere la seda al castor— y el comercio decae. En 1869, la Compañía de la Bahía de Hudson vende su inmenso territorio a Canadá: es exactamente lo que llevará a la resistencia de Louis Riel. La época de los socios dejaba paso a la de la desposesión.",
+            "ca": "Amb el temps, aquella bonica relació de socis es va degradar. A força d'intercanviar per eines europees, les nacions se'n van tornar dependents. Sobretot, els nouvinguts van portar malalties desconegudes, com la verola, que van delmar comunitats senceres. L'aiguardent va fer estralls, i la caça intensiva va fer desaparèixer el castor de regions senceres. Cap a mitjan segle XIX, la moda canvia a Europa —ara es prefereix la seda al castor— i el comerç decau. El 1869, la Companyia de la Badia de Hudson ven el seu immens territori al Canadà: és exactament el que portarà a la resistència de Louis Riel. L'època dels socis deixava pas a la de la despossessió."
+          },
+          {
+            "fr": "Pendant près de deux siècles et demi, les peuples autochtones n'ont donc pas été un obstacle sur le chemin du Canada : ils en ont été les partenaires indispensables, les guides et les alliés, et de leurs liens avec les nouveaux venus est même né un peuple entièrement neuf, les Métis. Comprendre la traite des fourrures, c'est comprendre comment la relation a commencé — comme un échange entre égaux qui avaient besoin l'un de l'autre — bien avant qu'elle ne se transforme en rapport de domination.",
+            "es": "Durante casi dos siglos y medio, los pueblos indígenas no fueron, pues, un obstáculo en el camino de Canadá: fueron sus socios indispensables, sus guías y sus aliados, y de sus lazos con los recién llegados nació incluso un pueblo enteramente nuevo, los métis. Entender el comercio de pieles es entender cómo empezó la relación —como un intercambio entre iguales que se necesitaban mutuamente— mucho antes de que se transformara en una relación de dominación.",
+            "ca": "Durant gairebé dos segles i mig, els pobles indígenes no van ser, doncs, un obstacle en el camí del Canadà: en van ser els socis indispensables, els guies i els aliats, i dels seus lligams amb els nouvinguts va néixer fins i tot un poble enterament nou, els métis. Entendre el comerç de pells és entendre com va començar la relació —com un intercanvi entre iguals que es necessitaven mútuament— molt abans que es transformés en una relació de dominació."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une fourrure",
+          "es": "una piel",
+          "ca": "una pell"
+        },
+        {
+          "mot": "le castor",
+          "es": "el castor",
+          "ca": "el castor"
+        },
+        {
+          "mot": "un partenaire",
+          "es": "un socio",
+          "ca": "un soci"
+        },
+        {
+          "mot": "un canot",
+          "es": "una canoa",
+          "ca": "una canoa"
+        },
+        {
+          "mot": "une compagnie",
+          "es": "una compañía",
+          "ca": "una companyia"
+        },
+        {
+          "mot": "échanger",
+          "es": "intercambiar",
+          "ca": "intercanviar"
+        },
+        {
+          "mot": "une alliance",
+          "es": "una alianza",
+          "ca": "una aliança"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué animal era el más buscado?",
+            "ca": "Quin animal era el més buscat?"
+          },
+          "piste": {
+            "es": "el castor",
+            "ca": "el castor"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pueblo nació de los matrimonios mixtos?",
+            "ca": "Quin poble va néixer dels matrimonis mixtos?"
+          },
+          "piste": {
+            "es": "los métis",
+            "ca": "els métis"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué dos compañías eran rivales?",
+            "ca": "Quines dues companyies eren rivals?"
+          },
+          "piste": {
+            "es": "la de la Bahía de Hudson y la del Noroeste",
+            "ca": "la de la Badia de Hudson i la del Nord-oest"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué año se fusionaron (1821)?",
+            "ca": "En quin any es van fusionar?"
+          },
+          "piste": {
+            "es": "en 1821",
+            "ca": "el 1821"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — La traite des fourrures",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/traite-des-fourrures"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Compagnie de la Baie d'Hudson",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/compagnie-de-la-baie-dhudson"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Compagnie du Nord-Ouest",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/compagnie-du-nord-ouest"
+        }
+      ]
+    }
+  ]
+}

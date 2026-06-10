@@ -1,0 +1,294 @@
+{
+  "textes": [
+    {
+      "id": "baie_james",
+      "emoji": "⚡",
+      "theme": "Histoire",
+      "periode": "1971 – 1975",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert-Bourassa_Reservoir.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Robert-Bourassa_Reservoir.jpg",
+        "credit": {
+          "es": "Embalse Robert-Bourassa, creado al inundar el territorio cri para el proyecto hidroeléctrico de la Bahía James (imagen satelital — dominio público).",
+          "ca": "Embassament Robert-Bourassa, creat en inundar el territori cree per al projecte hidroelèctric de la Badia de James (imatge satèl·lit — domini públic)."
+        }
+      },
+      "titre": {
+        "es": "El Convenio de la Bahía James (1975)",
+        "ca": "El Conveni de la Badia de James (1975)"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Dans le nord du Québec vivent les Cris et les Inuit. En 1971, le Québec a voulu construire d'immenses barrages sur leurs terres, sans leur demander.",
+            "es": "En el norte de Quebec viven los cris y los inuit. En 1971, Quebec quiso construir enormes presas en sus tierras, sin pedírselo.",
+            "ca": "Al nord del Quebec viuen els cris i els inuit. El 1971, el Quebec va voler construir enormes preses a les seves terres, sense demanar-los-ho."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert-Bourassa_Reservoir.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Robert-Bourassa_Reservoir.jpg",
+              "credit": {
+                "es": "Embalse Robert-Bourassa, creado al inundar el territorio cri para el proyecto hidroeléctrico de la Bahía James (imagen satelital — dominio público).",
+                "ca": "Embassament Robert-Bourassa, creat en inundar el territori cree per al projecte hidroelèctric de la Badia de James (imatge satèl·lit — domini públic)."
+              }
+            }
+          },
+          {
+            "fr": "Cette fois, les Autochtones ne se sont pas tus. Ils sont allés devant les tribunaux. Et le Québec a dû négocier avec eux.",
+            "es": "Esta vez, los indígenas no se callaron. Fueron a los tribunales. Y Quebec tuvo que negociar con ellos.",
+            "ca": "Aquesta vegada, els indígenes no van callar. Van anar als tribunals. I el Quebec va haver de negociar amb ells."
+          },
+          {
+            "fr": "En 1975, ils ont signé un grand accord. C'était le premier « traité moderne » au Canada. Les Cris ont obtenu de l'argent, des écoles et plus de pouvoir.",
+            "es": "En 1975, firmaron un gran acuerdo. Fue el primer «tratado moderno» de Canadá. Los cris obtuvieron dinero, escuelas y más poder.",
+            "ca": "El 1975, van signar un gran acord. Va ser el primer «tractat modern» del Canadà. Els cris van obtenir diners, escoles i més poder."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1971, le premier ministre du Québec, Robert Bourassa, annonce un projet géant : construire des barrages dans la région de la Baie-James pour produire de l'électricité. Le problème, c'est que ce territoire est celui des Cris et des Inuit — et personne ne leur a rien demandé.",
+            "es": "En 1971, el primer ministro de Quebec, Robert Bourassa, anuncia un proyecto gigante: construir presas en la región de la Bahía James para producir electricidad. El problema es que ese territorio es el de los cris y los inuit —y nadie les preguntó nada.",
+            "ca": "El 1971, el primer ministre del Quebec, Robert Bourassa, anuncia un projecte gegant: construir preses a la regió de la Badia de James per produir electricitat. El problema és que aquell territori és el dels cris i els inuit —i ningú no els va preguntar res."
+          },
+          {
+            "h": {
+              "fr": "Les Cris disent non",
+              "es": "Los cris dicen no",
+              "ca": "Els cris diuen no"
+            }
+          },
+          {
+            "fr": "Menés par un jeune chef, Billy Diamond, les Cris et les Inuit vont devant les tribunaux. En 1973, un juge leur donne raison et arrête le projet. La décision est annulée peu après, mais le mal est fait : le Québec est obligé de négocier.",
+            "es": "Liderados por un joven jefe, Billy Diamond, los cris y los inuit van a los tribunales. En 1973, un juez les da la razón y detiene el proyecto. La decisión se anula poco después, pero el mal ya está hecho: Quebec se ve obligado a negociar.",
+            "ca": "Liderats per un jove cap, Billy Diamond, els cris i els inuit van als tribunals. El 1973, un jutge els dóna la raó i atura el projecte. La decisió s'anul·la poc després, però el mal ja està fet: el Quebec es veu obligat a negociar."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert-Bourassa_Reservoir.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Robert-Bourassa_Reservoir.jpg",
+              "credit": {
+                "es": "Embalse Robert-Bourassa, creado al inundar el territorio cri para el proyecto hidroeléctrico de la Bahía James (imagen satelital — dominio público).",
+                "ca": "Embassament Robert-Bourassa, creat en inundar el territori cree per al projecte hidroelèctric de la Badia de James (imatge satèl·lit — domini públic)."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un accord historique",
+              "es": "Un acuerdo histórico",
+              "ca": "Un acord històric"
+            }
+          },
+          {
+            "fr": "Le 11 novembre 1975, ils signent la Convention de la Baie-James. En échange du barrage, les Cris et les Inuit obtiennent de l'argent, des droits sur le territoire, et leurs propres écoles et gouvernements. Mais le projet a aussi inondé d'immenses terres. C'était une victoire, mais avec un prix.",
+            "es": "El 11 de noviembre de 1975, firman el Convenio de la Bahía James. A cambio de la presa, los cris y los inuit obtienen dinero, derechos sobre el territorio, y sus propias escuelas y gobiernos. Pero el proyecto también inundó inmensas tierras. Fue una victoria, pero con un precio.",
+            "ca": "L'11 de novembre de 1975, signen el Conveni de la Badia de James. A canvi de la presa, els cris i els inuit obtenen diners, drets sobre el territori, i les seves pròpies escoles i governs. Però el projecte també va inundar immenses terres. Va ser una victòria, però amb un preu."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Pour terminer notre voyage dans l'histoire autochtone, voici une histoire différente — moins une histoire de pertes qu'une histoire de pouvoir repris. Dans le nord du Québec, au début des années 1970, les Cris et les Inuit ont fait quelque chose de presque inédit : ils ont forcé un gouvernement à s'asseoir avec eux et à négocier de nation à nation. Le résultat, la Convention de la Baie-James, est devenu le tout premier « traité moderne » du Canada.",
+            "es": "Para terminar nuestro viaje por la historia indígena, aquí va una historia diferente —menos una historia de pérdidas que una historia de poder recuperado. En el norte de Quebec, a principios de los años 1970, los cris y los inuit hicieron algo casi inédito: obligaron a un gobierno a sentarse con ellos y negociar de nación a nación. El resultado, el Convenio de la Bahía James, se convirtió en el primer «tratado moderno» de Canadá.",
+            "ca": "Per acabar el nostre viatge per la història indígena, aquí va una història diferent —menys una història de pèrdues que una història de poder recuperat. Al nord del Quebec, a principis dels anys 1970, els cris i els inuit van fer una cosa gairebé inèdita: van obligar un govern a seure amb ells i negociar de nació a nació. El resultat, el Conveni de la Badia de James, es va convertir en el primer «tractat modern» del Canadà."
+          },
+          {
+            "h": {
+              "fr": "Qui sont les Cris et les Inuit du Nord?",
+              "es": "¿Quiénes son los cris y los inuit del Norte?",
+              "ca": "Qui són els cris i els inuit del Nord?"
+            }
+          },
+          {
+            "fr": "Avant d'entrer dans l'histoire, présentons les deux peuples au cœur de cette région. Les Cris du Québec appellent leur territoire « Eeyou Istchee », « la terre du peuple ». Ce sont traditionnellement des chasseurs et des trappeurs, profondément liés à la forêt, aux rivières et au gibier. Plus au nord, sur la toundra et le long des côtes, vivent les Inuit du Nunavik, chasseurs de la mer et de la banquise. Pour les uns comme pour les autres, le territoire n'est pas un simple décor : c'est le garde-manger, l'école et l'identité. C'est pourquoi l'annonce d'inonder ces terres a été vécue comme une menace directe contre leur existence même.",
+            "es": "Antes de entrar en la historia, presentemos a los dos pueblos del corazón de esta región. Los cris de Quebec llaman a su territorio «Eeyou Istchee», «la tierra del pueblo». Son tradicionalmente cazadores y tramperos, profundamente ligados al bosque, los ríos y la caza. Más al norte, en la tundra y a lo largo de las costas, viven los inuit de Nunavik, cazadores del mar y del hielo. Para unos y otros, el territorio no es un simple decorado: es la despensa, la escuela y la identidad. Por eso el anuncio de inundar esas tierras se vivió como una amenaza directa contra su propia existencia.",
+            "ca": "Abans d'entrar en la història, presentem els dos pobles del cor d'aquesta regió. Els cris del Quebec anomenen el seu territori «Eeyou Istchee», «la terra del poble». Són tradicionalment caçadors i paranyers, profundament lligats al bosc, els rius i la caça. Més al nord, a la tundra i al llarg de les costes, viuen els inuit del Nunavik, caçadors del mar i del gel. Per a uns i altres, el territori no és un simple decorat: és el rebost, l'escola i la identitat. Per això l'anunci d'inundar aquelles terres es va viure com una amenaça directa contra la seva pròpia existència."
+          },
+          {
+            "h": {
+              "fr": "Le « projet du siècle » (1971)",
+              "es": "El «proyecto del siglo» (1971)",
+              "ca": "El «projecte del segle» (1971)"
+            }
+          },
+          {
+            "fr": "En 1971, le premier ministre Robert Bourassa annonce ce qu'il appelle le « projet du siècle » : harnacher les grandes rivières de la Baie-James, surtout la rivière La Grande, pour produire d'énormes quantités d'électricité. C'est un chantier titanesque, qui doit créer des milliers d'emplois et faire la fierté du Québec. Un seul détail a été oublié : ce territoire immense est, depuis des milliers d'années, la terre des Cris et des Inuit, qui y chassent, y pêchent et y vivent. Personne ne les a consultés. Pour eux, on s'apprête à noyer leur monde.",
+            "es": "En 1971, el primer ministro Robert Bourassa anuncia lo que llama el «proyecto del siglo»: aprovechar los grandes ríos de la Bahía James, sobre todo el río La Grande, para producir enormes cantidades de electricidad. Es una obra titánica, que debe crear miles de empleos y enorgullecer a Quebec. Solo se olvidó un detalle: ese territorio inmenso es, desde hace miles de años, la tierra de los cris y los inuit, que cazan, pescan y viven allí. Nadie los consultó. Para ellos, se disponen a anegar su mundo.",
+            "ca": "El 1971, el primer ministre Robert Bourassa anuncia el que anomena el «projecte del segle»: aprofitar els grans rius de la Badia de James, sobretot el riu La Grande, per produir enormes quantitats d'electricitat. És una obra titànica, que ha de crear milers de llocs de treball i enorgullir el Quebec. Només es va oblidar un detall: aquell territori immens és, des de fa milers d'anys, la terra dels cris i els inuit, que hi cacen, hi pesquen i hi viuen. Ningú no els va consultar. Per a ells, es disposen a negar el seu món."
+          },
+          {
+            "h": {
+              "fr": "Une jeunesse qui refuse de se taire",
+              "es": "Una juventud que se niega a callar",
+              "ca": "Una joventut que es nega a callar"
+            }
+          },
+          {
+            "fr": "Mais cette fois, les choses se passent autrement. Les Cris choisissent comme grand chef un jeune homme à peine sorti de l'adolescence, Billy Diamond, de la communauté de Waskaganish. Avec les Inuit et d'autres leaders, il refuse que tout se décide sans eux. Plutôt que de subir, ils attaquent : ils portent l'affaire devant les tribunaux pour faire reconnaître leurs droits sur la terre. Pour un gouvernement habitué à décider seul du sort des Autochtones, c'est un changement de ton total.",
+            "es": "Pero esta vez las cosas son distintas. Los cris eligen como gran jefe a un joven apenas salido de la adolescencia, Billy Diamond, de la comunidad de Waskaganish. Con los inuit y otros líderes, se niega a que todo se decida sin ellos. En lugar de resignarse, atacan: llevan el caso a los tribunales para que se reconozcan sus derechos sobre la tierra. Para un gobierno acostumbrado a decidir solo el destino de los indígenas, es un cambio de tono total.",
+            "ca": "Però aquesta vegada les coses són diferents. Els cris trien com a gran cap un jove tot just sortit de l'adolescència, Billy Diamond, de la comunitat de Waskaganish. Amb els inuit i altres líders, es nega que tot es decideixi sense ells. En lloc de resignar-se, ataquen: porten el cas als tribunals perquè es reconeguin els seus drets sobre la terra. Per a un govern acostumat a decidir sol el destí dels indígenes, és un canvi de to total."
+          },
+          {
+            "h": {
+
+
+              "fr": "Le coup de tonnerre du juge Malouf (1973)",
+              "es": "El trueno del juez Malouf (1973)",
+              "ca": "El tro del jutge Malouf (1973)"
+            }
+          },
+          {
+            "fr": "En novembre 1973, c'est le coup de théâtre : le juge Albert Malouf donne raison aux Cris et aux Inuit et ordonne l'arrêt des travaux, reconnaissant qu'ils ont des droits sur ce territoire. Le chantier le plus important du pays est stoppé net par un seul jugement. Quelques jours plus tard, un tribunal supérieur annule la décision et laisse les travaux reprendre. Mais le message est passé : on ne peut plus faire comme si les Cris et les Inuit n'existaient pas. Le Québec comprend qu'il devra, pour la première fois, négocier un véritable accord.",
+            "es": "En noviembre de 1973, llega el golpe de efecto: el juez Albert Malouf da la razón a los cris y los inuit y ordena detener las obras, reconociendo que tienen derechos sobre ese territorio. La obra más importante del país es detenida en seco por una sola sentencia. Unos días después, un tribunal superior anula la decisión y deja que las obras se reanuden. Pero el mensaje ha calado: ya no se puede actuar como si los cris y los inuit no existieran. Quebec entiende que deberá, por primera vez, negociar un verdadero acuerdo.",
+            "ca": "El novembre de 1973, arriba el cop d'efecte: el jutge Albert Malouf dóna la raó als cris i els inuit i ordena aturar les obres, reconeixent que tenen drets sobre aquell territori. L'obra més important del país és aturada en sec per una sola sentència. Uns dies després, un tribunal superior anul·la la decisió i deixa que les obres es reprenguin. Però el missatge ha calat: ja no es pot actuar com si els cris i els inuit no existissin. El Quebec entén que haurà, per primera vegada, de negociar un veritable acord."
+          },
+          {
+            "h": {
+              "fr": "Un traité moderne (1975)",
+              "es": "Un tratado moderno (1975)",
+              "ca": "Un tractat modern (1975)"
+            }
+          },
+          {
+            "fr": "Le 11 novembre 1975, après de longues négociations, on signe la Convention de la Baie-James et du Nord québécois. C'est un document énorme et complexe. En échange du droit de construire les barrages et d'une renonciation à de larges revendications, les Cris et les Inuit obtiennent beaucoup : une compensation financière de plusieurs centaines de millions de dollars, des droits de chasse et de pêche exclusifs sur de vastes territoires, et surtout leurs propres institutions — une commission scolaire crie, un conseil de santé, des gouvernements régionaux, et un programme de soutien au revenu pour les chasseurs et trappeurs. En 1978, les Naskapis se joignent à un accord semblable. Pour la première fois, des Autochtones ne sont plus de simples « pupilles » de l'État : ils deviennent des partenaires qui gèrent une partie de leur destin.",
+            "es": "El 11 de noviembre de 1975, tras largas negociaciones, se firma el Convenio de la Bahía James y del Norte de Quebec. Es un documento enorme y complejo. A cambio del derecho a construir las presas y de renunciar a amplias reivindicaciones, los cris y los inuit obtienen mucho: una compensación económica de varios cientos de millones de dólares, derechos exclusivos de caza y pesca sobre vastos territorios, y sobre todo sus propias instituciones —una junta escolar cri, un consejo de salud, gobiernos regionales, y un programa de apoyo a los ingresos para cazadores y tramperos. En 1978, los naskapis se suman a un acuerdo similar. Por primera vez, unos indígenas dejan de ser simples «pupilos» del Estado: se convierten en socios que gestionan una parte de su destino.",
+            "ca": "L'11 de novembre de 1975, després de llargues negociacions, se signa el Conveni de la Badia de James i del Nord del Quebec. És un document enorme i complex. A canvi del dret de construir les preses i de renunciar a àmplies reivindicacions, els cris i els inuit obtenen molt: una compensació econòmica de diversos centenars de milions de dòlars, drets exclusius de caça i pesca sobre vasts territoris, i sobretot les seves pròpies institucions —una junta escolar cree, un consell de salut, governs regionals, i un programa de suport als ingressos per a caçadors i paranyers. El 1978, els naskapis se sumen a un acord similar. Per primera vegada, uns indígenes deixen de ser simples «pupils» de l'Estat: es converteixen en socis que gestionen una part del seu destí."
+          },
+          {
+            "h": {
+              "fr": "Billy Diamond",
+              "es": "Billy Diamond",
+              "ca": "Billy Diamond"
+            }
+          },
+          {
+            "fr": "Au centre de tout cela, il y a Billy Diamond. Devenu grand chef du Grand Conseil des Cris dans la vingtaine, c'est lui qui signe la Convention au nom de son peuple. Imaginez : un jeune homme face à un premier ministre et aux dirigeants d'Hydro-Québec, refusant de plier tout en cherchant un avenir pour les siens. Après la signature, il consacre sa vie à bâtir les écoles, les conseils et les entreprises que l'accord rendait possibles. Son influence fut telle qu'en 2020, la grande route qui mène à la Baie-James a été rebaptisée « route Billy-Diamond » en son honneur.",
+            "es": "En el centro de todo está Billy Diamond. Convertido en gran jefe del Gran Consejo de los Cris con veintipocos años, es él quien firma el Convenio en nombre de su pueblo. Imagina: un joven frente a un primer ministro y a los dirigentes de Hydro-Québec, negándose a ceder y a la vez buscando un futuro para los suyos. Tras la firma, dedica su vida a construir las escuelas, los consejos y las empresas que el acuerdo hacía posibles. Su influencia fue tal que, en 2020, la gran carretera que lleva a la Bahía James fue rebautizada «carretera Billy-Diamond» en su honor.",
+            "ca": "Al centre de tot hi ha en Billy Diamond. Convertit en gran cap del Gran Consell dels Cris amb vint-i-pocs anys, és ell qui signa el Conveni en nom del seu poble. Imagina: un jove davant d'un primer ministre i dels dirigents d'Hydro-Québec, negant-se a cedir i alhora buscant un futur per als seus. Després de la signatura, dedica la seva vida a construir les escoles, els consells i les empreses que l'acord feia possibles. La seva influència va ser tal que, el 2020, la gran carretera que porta a la Badia de James va ser rebatejada «carretera Billy-Diamond» en el seu honor."
+          },
+          {
+            "h": {
+              "fr": "Un prix à payer",
+              "es": "Un precio que pagar",
+              "ca": "Un preu a pagar"
+            }
+          },
+          {
+            "fr": "Il ne faut pourtant pas idéaliser cette histoire. Pour produire l'électricité, on a inondé un territoire gigantesque : le seul réservoir Robert-Bourassa couvre près de 2 835 km², engloutissant des terrains de chasse, des rivières et des lieux importants. Pire, l'eau a libéré du mercure, qui a contaminé les poissons — un aliment de base des Cris — et rendu certains dangereux à manger. L'accord a donc apporté de l'argent et du pouvoir, mais la terre, elle, a été changée pour toujours. Beaucoup de Cris gardent un sentiment partagé : ce fut à la fois une victoire et une blessure.",
+            "es": "Pero no hay que idealizar esta historia. Para producir la electricidad, se inundó un territorio gigantesco: solo el embalse Robert-Bourassa cubre cerca de 2835 km², tragándose terrenos de caza, ríos y lugares importantes. Peor aún, el agua liberó mercurio, que contaminó los peces —un alimento básico de los cris— y volvió algunos peligrosos para comer. El acuerdo trajo dinero y poder, pero la tierra quedó cambiada para siempre. Muchos cris guardan un sentimiento dividido: fue a la vez una victoria y una herida.",
+            "ca": "Però no cal idealitzar aquesta història. Per produir l'electricitat, es va inundar un territori gegantí: només l'embassament Robert-Bourassa cobreix prop de 2.835 km², empassant-se terrenys de caça, rius i llocs importants. Pitjor encara, l'aigua va alliberar mercuri, que va contaminar els peixos —un aliment bàsic dels cris— i va fer-ne alguns perillosos de menjar. L'acord va portar diners i poder, però la terra va quedar canviada per sempre. Molts cris guarden un sentiment dividit: va ser alhora una victòria i una ferida."
+          },
+          {
+            "h": {
+              "fr": "La Paix des Braves (2002), et aujourd'hui",
+              "es": "La Paz de los Valientes (2002), y hoy",
+              "ca": "La Pau dels Braus (2002), i avui"
+            }
+          },
+          {
+            "fr": "L'histoire ne s'arrête pas en 1975. En 2002, les Cris et le Québec signent un nouvel accord, la « Paix des Braves » : une entente de nation à nation qui donne aux Cris encore plus d'autonomie et des milliards de dollars sur cinquante ans, en échange de leur participation à de nouveaux projets. On la cite souvent comme un modèle de réconciliation. Aujourd'hui, les Cris d'Eeyou Istchee possèdent l'un des gouvernements autochtones les plus développés du Canada. De la Loi sur les Indiens, qui traitait les Autochtones comme des enfants, jusqu'à la Baie-James, où ils négocient comme des nations, on mesure tout le chemin parcouru — un chemin loin d'être terminé, mais qui montre une autre voie : non plus l'effacement, mais la négociation, d'égal à égal.",
+            "es": "La historia no termina en 1975. En 2002, los cris y Quebec firman un nuevo acuerdo, la «Paz de los Valientes»: un entendimiento de nación a nación que da a los cris aún más autonomía y miles de millones de dólares en cincuenta años, a cambio de su participación en nuevos proyectos. Se cita a menudo como un modelo de reconciliación. Hoy, los cris de Eeyou Istchee poseen uno de los gobiernos indígenas más desarrollados de Canadá. De la Ley sobre los Indios, que trataba a los indígenas como niños, hasta la Bahía James, donde negocian como naciones, se mide todo el camino recorrido —un camino lejos de haber terminado, pero que muestra otra vía: ya no el borrado, sino la negociación, de igual a igual.",
+            "ca": "La història no acaba el 1975. El 2002, els cris i el Quebec signen un nou acord, la «Pau dels Braus»: un enteniment de nació a nació que dóna als cris encara més autonomia i milers de milions de dòlars en cinquanta anys, a canvi de la seva participació en nous projectes. Se cita sovint com un model de reconciliació. Avui, els cris d'Eeyou Istchee tenen un dels governs indígenes més desenvolupats del Canadà. De la Llei sobre els Indis, que tractava els indígenes com a nens, fins a la Badia de James, on negocien com a nacions, es mesura tot el camí recorregut —un camí lluny d'haver acabat, però que mostra una altra via: ja no l'esborrament, sinó la negociació, d'igual a igual."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un barrage",
+          "es": "una presa",
+          "ca": "una presa"
+        },
+        {
+          "mot": "l'électricité",
+          "es": "la electricidad",
+          "ca": "l'electricitat"
+        },
+        {
+          "mot": "négocier",
+          "es": "negociar",
+          "ca": "negociar"
+        },
+        {
+          "mot": "un traité",
+          "es": "un tratado",
+          "ca": "un tractat"
+        },
+        {
+          "mot": "inonder",
+          "es": "inundar",
+          "ca": "inundar"
+        },
+        {
+          "mot": "un droit",
+          "es": "un derecho",
+          "ca": "un dret"
+        },
+        {
+          "mot": "une nation",
+          "es": "una nación",
+          "ca": "una nació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué quería construir Bourassa en 1971?",
+            "ca": "Què volia construir Bourassa el 1971?"
+          },
+          "piste": {
+            "es": "grandes presas (proyecto hidroeléctrico)",
+            "ca": "grans preses (projecte hidroelèctric)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién era el joven gran jefe cri?",
+            "ca": "Qui era el jove gran cap cri?"
+          },
+          "piste": {
+            "es": "Billy Diamond",
+            "ca": "Billy Diamond"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué año se firmó el Convenio?",
+            "ca": "En quin any es va signar el Conveni?"
+          },
+          "piste": {
+            "es": "1975",
+            "ca": "1975"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué obtuvieron los cris además de dinero?",
+            "ca": "Què van obtenir els cris a més de diners?"
+          },
+          "piste": {
+            "es": "sus propias escuelas y gobiernos",
+            "ca": "les seves pròpies escoles i governs"
+          }
+        }
+      ],
+      "note": {
+        "es": "El Convenio de la Bahía James (1975) fue el primer tratado moderno de Canadá. Sigue siendo un modelo —debatido— de negociación entre un gobierno y las naciones indígenas.",
+        "ca": "El Conveni de la Badia de James (1975) va ser el primer tractat modern del Canadà. Continua sent un model —debatut— de negociació entre un govern i les nacions indígenes."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Convention de la Baie-James et du Nord québécois",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/convention-de-la-baie-james-et-du-nord-quebecois"
+        },
+        {
+          "titre": "Grand Conseil des Cris (Eeyou Istchee)",
+          "url": "https://www.cngov.ca/"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Billy Diamond",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/billy-diamond"
+        }
+      ]
+    }
+  ]
+}

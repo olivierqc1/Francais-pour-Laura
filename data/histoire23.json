@@ -1,0 +1,282 @@
+{
+  "textes": [
+    {
+      "id": "traites_numerotes",
+      "emoji": "✍️",
+      "theme": "Histoire",
+      "periode": "1871 – 1921",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg",
+        "credit": {
+          "es": "Jefes de las Primeras Naciones y un agente del gobierno, Oeste de Canadá — Biblioteca y Archivos Canadá (dominio público).",
+          "ca": "Caps de les Primeres Nacions i un agent del govern, Oest del Canadà — Biblioteca i Arxius Canadà (domini públic)."
+        }
+      },
+      "titre": {
+        "es": "Los tratados numerados",
+        "ca": "Els tractats numerats"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Après avoir acheté l'Ouest, le Canada voulait la terre pour les colons et le chemin de fer. Il a donc signé des « traités » avec les Premières Nations.",
+            "es": "Tras comprar el Oeste, Canadá quería la tierra para los colonos y el ferrocarril. Por eso firmó «tratados» con las Primeras Naciones.",
+            "ca": "Després de comprar l'Oest, el Canadà volia la terra per als colons i el ferrocarril. Per això va signar «tractats» amb les Primeres Nacions."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg",
+              "credit": {
+                "es": "Jefes de las Primeras Naciones y un agente del gobierno, Oeste de Canadá — Biblioteca y Archivos Canadá (dominio público).",
+                "ca": "Caps de les Primeres Nacions i un agent del govern, Oest del Canadà — Biblioteca i Arxius Canadà (domini públic)."
+              }
+            }
+          },
+          {
+            "fr": "De 1871 à 1921, on a signé onze traités, appelés les « traités numérotés ». En échange de la terre, on promettait des réserves, de l'argent et des écoles.",
+            "es": "De 1871 a 1921 se firmaron once tratados, llamados los «tratados numerados». A cambio de la tierra, se prometían reservas, dinero y escuelas.",
+            "ca": "Del 1871 al 1921 es van signar onze tractats, anomenats els «tractats numerats». A canvi de la terra, es prometien reserves, diners i escoles."
+          },
+          {
+            "fr": "Mais les deux côtés ne comprenaient pas la même chose. Beaucoup de promesses n'ont pas été tenues.",
+            "es": "Pero los dos lados no entendían lo mismo. Muchas promesas no se cumplieron.",
+            "ca": "Però els dos costats no entenien el mateix. Moltes promeses no es van complir."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Après 1870, le Canada veut ouvrir l'Ouest aux colons et y construire un chemin de fer. Pour obtenir la terre, il signe, entre 1871 et 1921, onze grands accords avec les Premières Nations : les « traités numérotés ».",
+            "es": "Después de 1870, Canadá quiere abrir el Oeste a los colonos y construir allí un ferrocarril. Para conseguir la tierra, firma, entre 1871 y 1921, once grandes acuerdos con las Primeras Naciones: los «tratados numerados».",
+            "ca": "Després del 1870, el Canadà vol obrir l'Oest als colons i construir-hi un ferrocarril. Per aconseguir la terra, signa, entre 1871 i 1921, onze grans acords amb les Primeres Nacions: els «tractats numerats»."
+          },
+          {
+            "h": {
+              "fr": "Deux visions différentes",
+              "es": "Dos visiones diferentes",
+              "ca": "Dues visions diferents"
+            }
+          },
+          {
+            "fr": "Pour le Canada, les Premières Nations « cédaient » la terre. Mais pour elles, un traité voulait dire partager la terre et vivre en paix, comme entre familles. Beaucoup de promesses étaient orales et n'ont jamais été écrites.",
+            "es": "Para Canadá, las Primeras Naciones «cedían» la tierra. Pero para ellas, un tratado significaba compartir la tierra y vivir en paz, como entre familias. Muchas promesas eran orales y nunca se escribieron.",
+            "ca": "Per al Canadà, les Primeres Nacions «cedien» la terra. Però per a elles, un tractat significava compartir la terra i viure en pau, com entre famílies. Moltes promeses eren orals i mai no es van escriure."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Patriotic_chiefs_and_government_agent,_Western_Canada_(HS85-10-30609).jpg",
+              "credit": {
+                "es": "Jefes de las Primeras Naciones y un agente del gobierno, Oeste de Canadá — Biblioteca y Archivos Canadá (dominio público).",
+                "ca": "Caps de les Primeres Nacions i un agent del govern, Oest del Canadà — Biblioteca i Arxius Canadà (domini públic)."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Des promesses brisées",
+              "es": "Promesas rotas",
+              "ca": "Promeses trencades"
+            }
+          },
+          {
+            "fr": "On promettait des réserves, un peu d'argent chaque année, des écoles et le droit de chasser. Mais le bison disparaissait et les gens avaient faim, alors beaucoup ont signé pour survivre. Ensuite, le gouvernement n'a souvent pas tenu ses promesses. Aujourd'hui, les droits issus des traités sont protégés par la Constitution.",
+            "es": "Se prometían reservas, un poco de dinero cada año, escuelas y el derecho a cazar. Pero el bisonte desaparecía y la gente pasaba hambre, así que muchos firmaron para sobrevivir. Después, el gobierno a menudo no cumplió sus promesas. Hoy, los derechos de los tratados están protegidos por la Constitución.",
+            "ca": "Es prometien reserves, una mica de diners cada any, escoles i el dret a caçar. Però el bisó desapareixia i la gent passava gana, així que molts van signar per sobreviure. Després, el govern sovint no va complir les seves promeses. Avui, els drets dels tractats estan protegits per la Constitució."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Après avoir acheté l'immense Ouest, en 1870, le jeune Canada a un problème : il veut y faire venir des colons et y construire un chemin de fer d'un océan à l'autre — mais cette terre appartient déjà aux Premières Nations. Pour s'en donner le droit « légalement », Ottawa signe, entre 1871 et 1921, onze grands accords : les traités numérotés, du Traité no 1 au Traité no 11. Ils couvrent presque tout l'Ouest et le Nord du pays, et ils sont encore aujourd'hui au cœur des relations entre le Canada et les peuples autochtones.",
+            "es": "Tras comprar el inmenso Oeste, en 1870, el joven Canadá tiene un problema: quiere atraer colonos y construir un ferrocarril de un océano a otro —pero esa tierra ya pertenece a las Primeras Naciones. Para darse el derecho «legalmente», Ottawa firma, entre 1871 y 1921, once grandes acuerdos: los tratados numerados, del Tratado n.º 1 al Tratado n.º 11. Cubren casi todo el Oeste y el Norte del país, y siguen hoy en el centro de las relaciones entre Canadá y los pueblos indígenas.",
+            "ca": "Després de comprar l'immens Oest, el 1870, el jove Canadà té un problema: vol atraure colons i construir un ferrocarril d'un oceà a l'altre —però aquella terra ja pertany a les Primeres Nacions. Per donar-se el dret «legalment», Ottawa signa, entre 1871 i 1921, onze grans acords: els tractats numerats, del Tractat núm. 1 al Tractat núm. 11. Cobreixen gairebé tot l'Oest i el Nord del país, i continuen avui al centre de les relacions entre el Canadà i els pobles indígenes."
+          },
+          {
+            "h": {
+              "fr": "Pourquoi des traités?",
+              "es": "¿Por qué tratados?",
+              "ca": "Per què tractats?"
+            }
+          },
+          {
+            "fr": "Le Canada avait besoin d'un titre légal sur la terre pour la donner aux colons et y poser ses rails. Plutôt que de la prendre uniquement par la force, il a choisi de négocier : la Couronne offrait des réserves et une série de promesses, en échange de quoi les nations devaient « céder » d'immenses territoires. Le contexte rendait ces négociations terriblement inégales : le bison, qui nourrissait les peuples des plaines, était en train de disparaître, et la famine menaçait. Pour beaucoup de communautés, signer un traité n'était pas un vrai choix, mais une façon de survivre.",
+            "es": "Canadá necesitaba un título legal sobre la tierra para dársela a los colonos y poner sus raíles. En vez de tomarla solo por la fuerza, eligió negociar: la Corona ofrecía reservas y una serie de promesas, a cambio de lo cual las naciones debían «ceder» inmensos territorios. El contexto hacía esas negociaciones terriblemente desiguales: el bisonte, que alimentaba a los pueblos de las llanuras, estaba desapareciendo, y el hambre amenazaba. Para muchas comunidades, firmar un tratado no era una verdadera elección, sino una forma de sobrevivir.",
+            "ca": "El Canadà necessitava un títol legal sobre la terra per donar-la als colons i posar-hi els seus rails. En lloc de prendre-la només per la força, va triar negociar: la Corona oferia reserves i una sèrie de promeses, a canvi de la qual cosa les nacions havien de «cedir» immensos territoris. El context feia aquelles negociacions terriblement desiguals: el bisó, que alimentava els pobles de les planes, estava desapareixent, i la fam amenaçava. Per a moltes comunitats, signar un tractat no era una veritable elecció, sinó una manera de sobreviure."
+          },
+          {
+            "h": {
+              "fr": "Deux visions opposées",
+              "es": "Dos visiones opuestas",
+              "ca": "Dues visions oposades"
+            }
+          },
+          {
+            "fr": "Au cœur de tout, il y a un malentendu immense. Sur le papier, en anglais, le traité disait que les nations « cédaient, abandonnaient et renonçaient » à la terre pour toujours. Mais ce n'est pas du tout ce que comprenaient les chefs autochtones. Pour eux, on ne peut pas « posséder » ou « vendre » la terre, pas plus que l'air ou l'eau : un traité était une entente pour partager le territoire et vivre en paix, comme entre des familles qui se respectent. Pire encore, beaucoup de promesses essentielles avaient été faites oralement, lors des cérémonies, et ne se sont jamais retrouvées dans le texte écrit. Ce fossé entre la parole donnée et le papier signé nourrit encore aujourd'hui d'innombrables conflits.",
+            "es": "En el corazón de todo hay un malentendido inmenso. Sobre el papel, en inglés, el tratado decía que las naciones «cedían, abandonaban y renunciaban» a la tierra para siempre. Pero no era en absoluto lo que entendían los jefes indígenas. Para ellos no se puede «poseer» ni «vender» la tierra, igual que no se puede el aire o el agua: un tratado era un acuerdo para compartir el territorio y vivir en paz, como entre familias que se respetan. Peor aún, muchas promesas esenciales se hicieron oralmente, en las ceremonias, y nunca quedaron en el texto escrito. Ese abismo entre la palabra dada y el papel firmado alimenta aún hoy innumerables conflictos.",
+            "ca": "Al cor de tot hi ha un malentès immens. Sobre el paper, en anglès, el tractat deia que les nacions «cedien, abandonaven i renunciaven» a la terra per sempre. Però no era en absolut el que entenien els caps indígenes. Per a ells no es pot «posseir» ni «vendre» la terra, igual que no es pot l'aire o l'aigua: un tractat era un acord per compartir el territori i viure en pau, com entre famílies que es respecten. Pitjor encara, moltes promeses essencials es van fer oralment, a les cerimònies, i mai no van quedar al text escrit. Aquell abisme entre la paraula donada i el paper signat alimenta encara avui innombrables conflictes."
+          },
+          {
+            "h": {
+              "fr": "Ce que promettaient les traités",
+              "es": "Lo que prometían los tratados",
+              "ca": "El que prometien els tractats"
+            }
+
+
+          },
+          {
+            "fr": "Que recevaient les nations en échange? Des réserves de terre, une petite somme versée chaque année à chaque personne (souvent cinq dollars, encore payés aujourd'hui de façon symbolique), des outils et des semences pour cultiver, des écoles, le droit de continuer à chasser et à pêcher, et une médaille de traité. Le Traité no 6 (1876), en Saskatchewan, alla même plus loin : il promettait un « coffre à médicaments » — c'est l'origine de l'idée que les Autochtones ont un droit issu de traité à des soins de santé — ainsi qu'une aide en cas de famine. Sur le papier, cela pouvait sembler généreux. Dans la réalité, ce le fut beaucoup moins.",
+            "es": "¿Qué recibían las naciones a cambio? Reservas de tierra, una pequeña suma pagada cada año a cada persona (a menudo cinco dólares, aún pagados hoy de forma simbólica), herramientas y semillas para cultivar, escuelas, el derecho a seguir cazando y pescando, y una medalla de tratado. El Tratado n.º 6 (1876), en Saskatchewan, fue aún más lejos: prometía un «cofre de medicinas» —es el origen de la idea de que los indígenas tienen un derecho de tratado a la atención sanitaria— además de ayuda en caso de hambruna. Sobre el papel podía parecer generoso. En la realidad lo fue mucho menos.",
+            "ca": "Què rebien les nacions a canvi? Reserves de terra, una petita suma pagada cada any a cada persona (sovint cinc dòlars, encara pagats avui de manera simbòlica), eines i llavors per conrear, escoles, el dret a continuar caçant i pescant, i una medalla de tractat. El Tractat núm. 6 (1876), a la Saskatchewan, va anar encara més lluny: prometia un «cofre de medicines» —és l'origen de la idea que els indígenes tenen un dret de tractat a l'atenció sanitària— a més d'ajuda en cas de fam. Sobre el paper podia semblar generós. En la realitat ho va ser molt menys."
+          },
+          {
+            "h": {
+              "fr": "Big Bear, le chef qui hésitait",
+              "es": "Big Bear, el jefe que dudaba",
+              "ca": "Big Bear, el cap que dubtava"
+            }
+          },
+          {
+            "fr": "Tous les chefs n'ont pas signé les yeux fermés. Le chef cri Mistahimaskwa — Big Bear — a vu le danger venir. Pendant des années, il a refusé de signer le Traité no 6, prévenant les siens qu'accepter ce traité, c'était comme se passer soi-même une corde autour du cou : ils perdraient leur liberté et seraient enfermés sur des réserves. Il a tenté de réunir plusieurs nations pour négocier ensemble de meilleures conditions. Mais le bison avait presque disparu, et son peuple mourait de faim. En 1882, à bout, Big Bear a fini par signer. La suite lui donnera tristement raison.",
+            "es": "No todos los jefes firmaron con los ojos cerrados. El jefe cree Mistahimaskwa —Big Bear— vio venir el peligro. Durante años se negó a firmar el Tratado n.º 6, advirtiendo a los suyos de que aceptar ese tratado era como ponerse uno mismo una cuerda al cuello: perderían su libertad y quedarían encerrados en reservas. Intentó reunir a varias naciones para negociar juntas mejores condiciones. Pero el bisonte casi había desaparecido, y su pueblo moría de hambre. En 1882, agotado, Big Bear acabó firmando. Lo que vino después le daría tristemente la razón.",
+            "ca": "No tots els caps van signar amb els ulls tancats. El cap cree Mistahimaskwa —Big Bear— va veure venir el perill. Durant anys es va negar a signar el Tractat núm. 6, advertint els seus que acceptar aquell tractat era com posar-se un mateix una corda al coll: perdrien la seva llibertat i quedarien tancats en reserves. Va intentar reunir diverses nacions per negociar juntes millors condicions. Però el bisó gairebé havia desaparegut, i el seu poble moria de fam. El 1882, esgotat, Big Bear va acabar signant. El que va venir després li donaria tristament la raó."
+          },
+          {
+            "h": {
+              "fr": "Des promesses brisées",
+              "es": "Promesas rotas",
+              "ca": "Promeses trencades"
+            }
+          },
+          {
+            "fr": "Une fois les signatures obtenues, beaucoup de promesses ont rétréci ou disparu. Les réserves accordées étaient souvent plus petites que prévu; le fameux « coffre à médicaments » fut interprété de la façon la plus étroite possible; et l'aide alimentaire promise fut parfois retenue pour forcer l'obéissance. On répétait pourtant que ces traités dureraient « aussi longtemps que le soleil brillera et que les rivières couleront ». Dans les faits, la parole de la Couronne valut souvent bien peu. C'est de là que viennent une grande partie des revendications territoriales encore en cours aujourd'hui.",
+            "es": "Una vez obtenidas las firmas, muchas promesas se encogieron o desaparecieron. Las reservas concedidas solían ser más pequeñas de lo previsto; el famoso «cofre de medicinas» se interpretó de la forma más estrecha posible; y la ayuda alimentaria prometida a veces se retuvo para forzar la obediencia. Y eso que se repetía que esos tratados durarían «mientras el sol brille y los ríos corran». En la práctica, la palabra de la Corona valió a menudo muy poco. De ahí viene gran parte de las reivindicaciones territoriales aún en curso hoy.",
+            "ca": "Un cop obtingudes les signatures, moltes promeses es van encongir o van desaparèixer. Les reserves concedides solien ser més petites del que es preveia; el famós «cofre de medicines» es va interpretar de la manera més estreta possible; i l'ajuda alimentària promesa de vegades es va retenir per forçar l'obediència. I això que es repetia que aquells tractats durarien «mentre el sol brilli i els rius corrin». A la pràctica, la paraula de la Corona va valer sovint molt poc. D'aquí ve gran part de les reivindicacions territorials encara en curs avui."
+          },
+          {
+            "h": {
+              "fr": "Et le Québec?",
+              "es": "¿Y Quebec?",
+              "ca": "I el Quebec?"
+            }
+          },
+          {
+            "fr": "Et le Québec, dans tout ça? La plupart des traités numérotés couvrent les Prairies et le Nord-Ouest, pas le Québec. En réalité, une grande partie du territoire québécois n'a jamais été visée par aucun traité historique. C'est précisément pour cette raison qu'il a fallu, bien plus tard, négocier un accord moderne : la Convention de la Baie-James de 1975, dont nous avons parlé. Comprendre les traités numérotés, c'est donc aussi comprendre ce qui manquait au Québec.",
+            "es": "¿Y Quebec, en todo esto? La mayoría de los tratados numerados cubren las praderas y el Noroeste, no Quebec. En realidad, gran parte del territorio quebequense nunca fue objeto de ningún tratado histórico. Es justamente por eso que hubo que negociar, mucho más tarde, un acuerdo moderno: el Convenio de la Bahía James de 1975, del que ya hablamos. Entender los tratados numerados es, pues, entender también lo que faltaba en Quebec.",
+            "ca": "I el Quebec, en tot això? La majoria dels tractats numerats cobreixen les praderies i el Nord-oest, no el Quebec. En realitat, gran part del territori quebequès no va ser mai objecte de cap tractat històric. És justament per això que va caldre negociar, molt més tard, un acord modern: el Conveni de la Badia de James de 1975, del qual ja vam parlar. Entendre els tractats numerats és, doncs, entendre també el que faltava al Quebec."
+          },
+          {
+            "h": {
+              "fr": "« Nous sommes tous des gens des traités »",
+              "es": "«Todos somos gente de los tratados»",
+              "ca": "«Tots som gent dels tractats»"
+            }
+          },
+          {
+            "fr": "Aujourd'hui, les droits issus des traités sont protégés par la Constitution canadienne depuis 1982, et le petit montant annuel est encore versé, comme un rappel vivant de la parole donnée. Surtout, un mouvement rappelle une vérité que beaucoup oublient : « nous sommes tous des gens des traités ». Autrement dit, ces accords ne concernent pas seulement les Autochtones — ils sont le fondement légal qui a permis à tous les autres de venir vivre sur ces terres. Les traités numérotés ne sont donc pas de vieux papiers oubliés : ce sont des promesses toujours vivantes, que l'on continue de défendre et de réclamer.",
+            "es": "Hoy, los derechos de los tratados están protegidos por la Constitución canadiense desde 1982, y la pequeña suma anual aún se paga, como un recordatorio vivo de la palabra dada. Sobre todo, un movimiento recuerda una verdad que muchos olvidan: «todos somos gente de los tratados». Es decir, esos acuerdos no atañen solo a los indígenas —son el fundamento legal que permitió a todos los demás venir a vivir a estas tierras. Los tratados numerados no son, pues, viejos papeles olvidados: son promesas todavía vivas, que se siguen defendiendo y reclamando.",
+            "ca": "Avui, els drets dels tractats estan protegits per la Constitució canadenca des del 1982, i la petita suma anual encara es paga, com un recordatori viu de la paraula donada. Sobretot, un moviment recorda una veritat que molts obliden: «tots som gent dels tractats». És a dir, aquells acords no afecten només els indígenes —són el fonament legal que va permetre a tots els altres venir a viure a aquestes terres. Els tractats numerats no són, doncs, vells papers oblidats: són promeses encara vives, que se segueixen defensant i reclamant."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un traité",
+          "es": "un tratado",
+          "ca": "un tractat"
+        },
+        {
+          "mot": "la terre",
+          "es": "la tierra",
+          "ca": "la terra"
+        },
+        {
+          "mot": "céder",
+          "es": "ceder",
+          "ca": "cedir"
+        },
+        {
+          "mot": "une promesse",
+          "es": "una promesa",
+          "ca": "una promesa"
+        },
+        {
+          "mot": "une réserve",
+          "es": "una reserva",
+          "ca": "una reserva"
+        },
+        {
+          "mot": "partager",
+          "es": "compartir",
+          "ca": "compartir"
+        },
+        {
+          "mot": "la parole",
+          "es": "la palabra",
+          "ca": "la paraula"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuántos tratados numerados se firmaron?",
+            "ca": "Quants tractats numerats es van signar?"
+          },
+          "piste": {
+            "es": "once (1 a 11)",
+            "ca": "onze (1 a 11)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo entendían el tratado las Primeras Naciones?",
+            "ca": "Com entenien el tractat les Primeres Nacions?"
+          },
+          "piste": {
+            "es": "compartir la tierra, no venderla",
+            "ca": "compartir la terra, no vendre-la"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué prometía el Tratado n.º 6 además?",
+            "ca": "Què prometia el Tractat núm. 6 a més?"
+          },
+          "piste": {
+            "es": "un «cofre de medicinas»",
+            "ca": "un «cofre de medicines»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué Quebec necesitó el Convenio de 1975?",
+            "ca": "Per què el Quebec va necessitar el Conveni de 1975?"
+          },
+          "piste": {
+            "es": "casi no tenía tratados históricos",
+            "ca": "gairebé no tenia tractats històrics"
+          }
+        }
+      ],
+      "note": {
+        "es": "Los tratados numerados siguen vigentes y sus derechos están protegidos por la Constitución. Las interpretaciones (texto escrito vs. promesas orales) siguen siendo objeto de negociación y litigio.",
+        "ca": "Els tractats numerats continuen vigents i els seus drets estan protegits per la Constitució. Les interpretacions (text escrit vs. promeses orals) continuen sent objecte de negociació i litigi."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Les traités numérotés",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/traites-numerotes"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Traité no 6",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/traite-no-6"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Big Bear (Mistahimaskwa)",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/big-bear"
+        }
+      ]
+    }
+  ]
+}

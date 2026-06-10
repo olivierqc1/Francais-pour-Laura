@@ -1,0 +1,293 @@
+{
+  "textes": [
+    {
+      "id": "reconciliation",
+      "emoji": "🧡",
+      "theme": "Histoire",
+      "periode": "de 2008 à aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg",
+        "credit": {
+          "es": "Un powwow en Toronto (2023): la cultura de las Primeras Naciones, viva y orgullosa hoy — Wikimedia Commons.",
+          "ca": "Un powwow a Toronto (2023): la cultura de les Primeres Nacions, viva i orgullosa avui — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La reconciliación hoy",
+        "ca": "La reconciliació avui"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Aujourd'hui, le Canada essaie de réparer le mal fait aux peuples autochtones. On appelle ça la « réconciliation ».",
+            "es": "Hoy, Canadá intenta reparar el daño hecho a los pueblos indígenas. Se llama la «reconciliación».",
+            "ca": "Avui, el Canadà intenta reparar el mal fet als pobles indígenes. Se'n diu la «reconciliació»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg",
+              "credit": {
+                "es": "Un powwow en Toronto (2023): la cultura de las Primeras Naciones, viva y orgullosa hoy — Wikimedia Commons.",
+                "ca": "Un powwow a Toronto (2023): la cultura de les Primeres Nacions, viva i orgullosa avui — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "D'abord, il faut dire la vérité, puis agir. Chaque 30 septembre, on porte un chandail orange pour les enfants des pensionnats.",
+            "es": "Primero hay que decir la verdad, y luego actuar. Cada 30 de septiembre, se lleva una camiseta naranja por los niños de los internados.",
+            "ca": "Primer cal dir la veritat, i després actuar. Cada 30 de setembre, es porta una samarreta taronja pels nens dels internats."
+          },
+          {
+            "fr": "Mais il reste beaucoup à faire. La réconciliation, c'est l'affaire de tout le monde.",
+            "es": "Pero queda mucho por hacer. La reconciliación es asunto de todos.",
+            "ca": "Però queda molt per fer. La reconciliació és cosa de tothom."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Après tout ce qu'on a vu — les pensionnats, la Loi sur les Indiens, les terres perdues — le Canada tente aujourd'hui de réparer cette histoire. C'est ce qu'on appelle la « réconciliation ». Mais elle commence par une étape essentielle : dire la vérité.",
+            "es": "Después de todo lo que hemos visto —los internados, la Ley sobre los Indios, las tierras perdidas— Canadá intenta hoy reparar esta historia. Es lo que se llama la «reconciliación». Pero empieza por un paso esencial: decir la verdad.",
+            "ca": "Després de tot el que hem vist —els internats, la Llei sobre els Indis, les terres perdudes— el Canadà intenta avui reparar aquesta història. És el que s'anomena la «reconciliació». Però comença per un pas essencial: dir la veritat."
+          },
+          {
+            "h": {
+              "fr": "La vérité d'abord",
+              "es": "La verdad primero",
+              "ca": "La veritat primer"
+            }
+          },
+          {
+            "fr": "Une grande commission a recueilli des milliers de témoignages de survivants, puis a proposé, en 2015, 94 « appels à l'action » : des choses concrètes à changer. L'un d'eux a créé une journée nationale, le 30 septembre, où l'on porte un chandail orange en mémoire des enfants des pensionnats.",
+            "es": "Una gran comisión recogió miles de testimonios de supervivientes y propuso, en 2015, 94 «llamamientos a la acción»: cosas concretas que cambiar. Uno de ellos creó un día nacional, el 30 de septiembre, en que se lleva una camiseta naranja en memoria de los niños de los internados.",
+            "ca": "Una gran comissió va recollir milers de testimonis de supervivents i va proposar, el 2015, 94 «crides a l'acció»: coses concretes per canviar. Una d'elles va crear un dia nacional, el 30 de setembre, en què es porta una samarreta taronja en memòria dels nens dels internats."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Powwow_is_an_annual_traditional_First_Nations_festival_of_song,_dance_and_culture_in_Canada._Toronto,_2023_01.jpg",
+              "credit": {
+                "es": "Un powwow en Toronto (2023): la cultura de las Primeras Naciones, viva y orgullosa hoy — Wikimedia Commons.",
+                "ca": "Un powwow a Toronto (2023): la cultura de les Primeres Nacions, viva i orgullosa avui — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une jeunesse debout",
+              "es": "Una juventud en pie",
+              "ca": "Una joventut dempeus"
+            }
+          },
+          {
+            "fr": "En 2012, un mouvement appelé « Idle No More » (« fini de rester sans rien faire ») est né, lancé par quatre femmes. Partout, on a dansé et manifesté pacifiquement pour les droits autochtones. Aujourd'hui, la culture est plus vivante que jamais — mais il reste beaucoup à faire, et la réconciliation est l'affaire de tous.",
+            "es": "En 2012 nació un movimiento llamado «Idle No More» («se acabó quedarse de brazos cruzados»), lanzado por cuatro mujeres. Por todas partes se bailó y se protestó pacíficamente por los derechos indígenas. Hoy, la cultura está más viva que nunca —pero queda mucho por hacer, y la reconciliación es asunto de todos.",
+            "ca": "El 2012 va néixer un moviment anomenat «Idle No More» («s'ha acabat quedar-se de braços plegats»), llançat per quatre dones. Pertot arreu es va ballar i es va protestar pacíficament pels drets indígenes. Avui, la cultura està més viva que mai —però queda molt per fer, i la reconciliació és cosa de tothom."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Nous voici au bout de notre voyage dans l'histoire autochtone. Après les pensionnats, la Loi sur les Indiens, les terres perdues et tant de blessures, une question reste : et maintenant? La réponse tient en un mot, devenu central au Canada : la « réconciliation ». Mais attention — ce n'est pas une simple cérémonie ni de belles paroles. C'est un long travail, qui commence toujours par la même étape difficile : regarder la vérité en face.",
+            "es": "Llegamos al final de nuestro viaje por la historia indígena. Tras los internados, la Ley sobre los Indios, las tierras perdidas y tantas heridas, queda una pregunta: ¿y ahora? La respuesta cabe en una palabra, vuelta central en Canadá: la «reconciliación». Pero cuidado: no es una simple ceremonia ni bonitas palabras. Es un largo trabajo, que empieza siempre por el mismo paso difícil: mirar la verdad de frente.",
+            "ca": "Arribem al final del nostre viatge per la història indígena. Després dels internats, la Llei sobre els Indis, les terres perdudes i tantes ferides, queda una pregunta: i ara? La resposta cap en una paraula, esdevinguda central al Canadà: la «reconciliació». Però compte: no és una simple cerimònia ni boniques paraules. És un llarg treball, que comença sempre pel mateix pas difícil: mirar la veritat de cara."
+          },
+          {
+            "h": {
+              "fr": "La Commission de vérité et réconciliation",
+              "es": "La Comisión de Verdad y Reconciliación",
+              "ca": "La Comissió de Veritat i Reconciliació"
+            }
+          },
+          {
+            "fr": "Entre 2008 et 2015, une grande commission a parcouru le pays pour écouter les survivants des pensionnats — près de sept mille témoignages. Présidée par le juge anishinaabe Murray Sinclair, elle a d'abord établi la vérité : ce qui s'était passé, et pourquoi c'était un « génocide culturel ». Mais elle ne s'est pas arrêtée là. En 2015, elle a publié 94 « appels à l'action » : une liste précise de choses à changer pour réparer la relation. Son message tenait dans une idée simple : il n'y a pas de réconciliation sans vérité.",
+            "es": "Entre 2008 y 2015, una gran comisión recorrió el país para escuchar a los supervivientes de los internados —cerca de siete mil testimonios. Presidida por el juez anishinaabe Murray Sinclair, primero estableció la verdad: lo que había pasado y por qué era un «genocidio cultural». Pero no se detuvo ahí. En 2015 publicó 94 «llamamientos a la acción»: una lista precisa de cosas que cambiar para reparar la relación. Su mensaje cabía en una idea simple: no hay reconciliación sin verdad.",
+            "ca": "Entre 2008 i 2015, una gran comissió va recórrer el país per escoltar els supervivents dels internats —prop de set mil testimonis. Presidida pel jutge anishinaabe Murray Sinclair, primer va establir la veritat: el que havia passat i per què era un «genocidi cultural». Però no es va aturar aquí. El 2015 va publicar 94 «crides a l'acció»: una llista precisa de coses per canviar per reparar la relació. El seu missatge cabia en una idea simple: no hi ha reconciliació sense veritat."
+          },
+          {
+            "h": {
+              "fr": "Les 94 appels à l'action",
+              "es": "Los 94 llamamientos a la acción",
+              "ca": "Les 94 crides a l'acció"
+            }
+          },
+          {
+            "fr": "Ces 94 appels ne s'adressent pas qu'au gouvernement : ils concernent les écoles, les hôpitaux, la justice, les Églises, les médias — et chaque citoyen. Ils demandent, par exemple, de protéger les langues autochtones, de mieux enseigner cette histoire à l'école, de réduire le nombre d'enfants autochtones placés en familles d'accueil, et de soigner les inégalités de santé. Le problème, c'est la lenteur : dix ans plus tard, seule une petite partie de ces appels a vraiment été réalisée. La vérité a été dite; l'action, elle, traîne encore.",
+            "es": "Esos 94 llamamientos no se dirigen solo al gobierno: atañen a las escuelas, los hospitales, la justicia, las iglesias, los medios —y a cada ciudadano. Piden, por ejemplo, proteger las lenguas indígenas, enseñar mejor esta historia en la escuela, reducir el número de niños indígenas en acogida y curar las desigualdades de salud. El problema es la lentitud: diez años después, solo una pequeña parte de esos llamamientos se ha cumplido de verdad. La verdad se ha dicho; la acción, en cambio, aún se retrasa.",
+            "ca": "Aquelles 94 crides no s'adrecen només al govern: afecten les escoles, els hospitals, la justícia, les esglésies, els mitjans —i cada ciutadà. Demanen, per exemple, protegir les llengües indígenes, ensenyar millor aquesta història a l'escola, reduir el nombre de nens indígenes en acolliment i guarir les desigualtats de salut. El problema és la lentitud: deu anys després, només una petita part d'aquelles crides s'ha complert de debò. La veritat s'ha dit; l'acció, en canvi, encara es retarda."
+          },
+          {
+            "h": {
+              "fr": "Le 30 septembre",
+              "es": "El 30 de septiembre",
+              "ca": "El 30 de setembre"
+            }
+          },
+          {
+            "fr": "L'un de ces appels a porté ses fruits : depuis 2021, le 30 septembre est la Journée nationale de la vérité et de la réconciliation, un jour férié fédéral. Il coïncide avec la « Journée du chandail orange », née de l'histoire de Phyllis Webstad — cette petite fille à qui on avait confisqué son chandail orange neuf, le premier jour au pensionnat. Ce jour-là, partout au pays, des gens portent du orange et répètent un message tout simple : « Chaque enfant compte. »",
+            "es": "Uno de esos llamamientos dio fruto: desde 2021, el 30 de septiembre es el Día Nacional de la Verdad y la Reconciliación, festivo federal. Coincide con el «Día de la Camiseta Naranja», nacido de la historia de Phyllis Webstad —aquella niña a la que confiscaron su camiseta naranja nueva el primer día en el internado. Ese día, por todo el país, la gente viste de naranja y repite un mensaje muy simple: «Cada niño importa.»",
+            "ca": "Una d'aquelles crides va donar fruit: des del 2021, el 30 de setembre és el Dia Nacional de la Veritat i la Reconciliació, festiu federal. Coincideix amb el «Dia de la Samarreta Taronja», nascut de la història de la Phyllis Webstad —aquella nena a qui van confiscar la samarreta taronja nova el primer dia a l'internat. Aquell dia, per tot el país, la gent vesteix de taronja i repeteix un missatge molt simple: «Cada nen compta.»"
+          },
+          {
+            "h": {
+              "fr": "Murray Sinclair",
+              "es": "Murray Sinclair",
+              "ca": "Murray Sinclair"
+            }
+          },
+          {
+            "fr": "Au cœur de ce travail, il y a eu un homme : Murray Sinclair. Premier juge autochtone du Manitoba, il a présidé la Commission de vérité et réconciliation et est devenu la voix morale de tout ce mouvement. Il répétait deux idées fortes. D'abord, que la réconciliation n'est pas un « problème autochtone » à régler entre eux, mais une responsabilité partagée par tous les Canadiens. Ensuite, que l'éducation est la clé : c'est par l'école qu'on a causé une grande partie du mal — et c'est par elle, en apprenant enfin la vraie histoire, qu'on pourra le réparer.",
+            "es": "En el corazón de este trabajo hubo un hombre: Murray Sinclair. Primer juez indígena de Manitoba, presidió la Comisión de Verdad y Reconciliación y se convirtió en la voz moral de todo este movimiento. Repetía dos ideas fuertes. Primero, que la reconciliación no es un «problema indígena» que ellos deban resolver, sino una responsabilidad compartida por todos los canadienses. Segundo, que la educación es la clave: por la escuela se causó gran parte del daño —y por ella, al aprender por fin la verdadera historia, se podrá reparar.",
+            "ca": "Al cor d'aquest treball hi va haver un home: Murray Sinclair. Primer jutge indígena del Manitoba, va presidir la Comissió de Veritat i Reconciliació i es va convertir en la veu moral de tot aquest moviment. Repetia dues idees fortes. Primer, que la reconciliació no és un «problema indígena» que ells hagin de resoldre, sinó una responsabilitat compartida per tots els canadencs. Segon, que l'educació és la clau: per l'escola es va causar gran part del mal —i per ella, en aprendre per fi la veritable història, es podrà reparar."
+          },
+          {
+            "h": {
+              "fr": "Idle No More",
+              "es": "Idle No More",
+              "ca": "Idle No More"
+            }
+          },
+          {
+            "fr": "La réconciliation n'est pas qu'une affaire de commissions et de lois : c'est aussi un élan populaire. En 2012, quatre femmes de la Saskatchewan lancent le mouvement « Idle No More » — qu'on pourrait traduire par « fini de rester sans rien faire ». En quelques semaines, de grandes « danses rondes » remplissent les centres commerciaux, les places publiques et les rues. Une nouvelle génération, fière et déterminée, affirme que les peuples autochtones ne se tairont plus. C'est l'un des plus beaux signes que cette histoire n'est pas finie — et qu'elle s'écrit aussi dans la joie et la résistance.",
+            "es": "La reconciliación no es solo cosa de comisiones y leyes: también es un impulso popular. En 2012, cuatro mujeres de Saskatchewan lanzan el movimiento «Idle No More» —que podría traducirse como «se acabó quedarse de brazos cruzados». En pocas semanas, grandes «danzas en círculo» llenan los centros comerciales, las plazas y las calles. Una nueva generación, orgullosa y decidida, afirma que los pueblos indígenas ya no callarán. Es una de las señales más hermosas de que esta historia no ha terminado —y de que se escribe también con alegría y resistencia.",
+            "ca": "La reconciliació no és només cosa de comissions i lleis: també és un impuls popular. El 2012, quatre dones de la Saskatchewan llancen el moviment «Idle No More» —que es podria traduir com «s'ha acabat quedar-se de braços plegats». En poques setmanes, grans «danses en cercle» omplen els centres comercials, les places i els carrers. Una nova generació, orgullosa i decidida, afirma que els pobles indígenes ja no callaran. És un dels senyals més bonics que aquesta història no s'ha acabat —i que s'escriu també amb alegria i resistència."
+          },
+          {
+            "h": {
+              "fr": "Des droits enfin reconnus",
+              "es": "Derechos por fin reconocidos",
+              "ca": "Drets per fi reconeguts"
+            }
+          },
+          {
+            "fr": "Sur le plan des principes aussi, les choses bougent. Les Nations Unies ont adopté une grande Déclaration sur les droits des peuples autochtones, qui affirme leur droit à leurs terres, à leur langue et à décider par eux-mêmes. Longtemps hésitant, le Canada a fini par l'appuyer pleinement, puis a adopté en 2021 une loi s'engageant à la respecter. Ce n'est qu'un cadre, et les promesses sur papier, on l'a vu, ne suffisent jamais. Mais le repère est important : pour la première fois, le pays reconnaît officiellement que ces droits ne sont pas un cadeau qu'on accorde, mais quelque chose qui appartient déjà aux peuples autochtones.",
+            "es": "En el plano de los principios también, las cosas se mueven. Las Naciones Unidas adoptaron una gran Declaración sobre los derechos de los pueblos indígenas, que afirma su derecho a sus tierras, su lengua y a decidir por sí mismos. Tras dudar mucho tiempo, Canadá acabó apoyándola plenamente y adoptó en 2021 una ley comprometiéndose a respetarla. Es solo un marco, y las promesas sobre el papel, ya lo hemos visto, nunca bastan. Pero la referencia es importante: por primera vez, el país reconoce oficialmente que esos derechos no son un regalo que se concede, sino algo que ya pertenece a los pueblos indígenas.",
+            "ca": "En el pla dels principis també, les coses es mouen. Les Nacions Unides van adoptar una gran Declaració sobre els drets dels pobles indígenes, que afirma el seu dret a les seves terres, la seva llengua i a decidir per si mateixos. Després de dubtar molt de temps, el Canadà va acabar donant-li ple suport i va adoptar el 2021 una llei comprometent-se a respectar-la. És només un marc, i les promeses sobre el paper, ja ho hem vist, mai no basten. Però la referència és important: per primera vegada, el país reconeix oficialment que aquests drets no són un regal que es concedeix, sinó una cosa que ja pertany als pobles indígenes."
+          },
+          {
+            "h": {
+              "fr": "Le travail qui reste",
+              "es": "El trabajo que queda",
+              "ca": "El treball que queda"
+            }
+          },
+          {
+            "fr": "Il ne faut pourtant pas se raconter d'histoires : le chemin est encore long. Aujourd'hui encore, des communautés n'ont pas d'eau potable au robinet; les enfants autochtones restent beaucoup trop nombreux dans les services de protection et dans les prisons; et les appels à la justice sur les femmes disparues attendent toujours des actes. La réconciliation, disait-on, n'est pas un nom mais un verbe : elle se mesure à ce qu'on fait, pas à ce qu'on promet.",
+            "es": "Pero no hay que engañarse: el camino aún es largo. Todavía hoy, hay comunidades sin agua potable en el grifo; los niños indígenas siguen siendo demasiados en los servicios de protección y en las prisiones; y los llamamientos a la justicia sobre las mujeres desaparecidas siguen esperando hechos. La reconciliación, se decía, no es un sustantivo sino un verbo: se mide por lo que se hace, no por lo que se promete.",
+            "ca": "Però no cal enganyar-se: el camí encara és llarg. Encara avui, hi ha comunitats sense aigua potable a l'aixeta; els nens indígenes continuen sent massa als serveis de protecció i a les presons; i les crides a la justícia sobre les dones desaparegudes encara esperen fets. La reconciliació, es deia, no és un substantiu sinó un verb: es mesura pel que es fa, no pel que es promet."
+          },
+          {
+            "h": {
+              "fr": "Et nous, dans tout ça?",
+              "es": "¿Y nosotros, en todo esto?",
+              "ca": "I nosaltres, en tot això?"
+            }
+          },
+          {
+            "fr": "On pourrait croire que tout cela ne concerne que le Canada. Mais la réconciliation commence par un geste à la portée de chacun, même de Laura, qui apprend le français à Barcelone : connaître cette histoire, l'écouter vraiment, et refuser de détourner le regard. Si tu as lu tous ces textes, tu en sais déjà plus que bien des gens sur les peuples autochtones du Québec — leur passé, leurs blessures, mais aussi leur force et leur culture toujours vivante. Et c'est exactement là que commence la réconciliation : par quelqu'un qui prend le temps de comprendre.",
+            "es": "Podría creerse que todo esto solo concierne a Canadá. Pero la reconciliación empieza por un gesto al alcance de cualquiera, incluso de Laura, que aprende francés en Barcelona: conocer esta historia, escucharla de verdad y negarse a apartar la mirada. Si has leído todos estos textos, ya sabes más que mucha gente sobre los pueblos indígenas de Quebec —su pasado, sus heridas, pero también su fuerza y su cultura siempre viva. Y ahí es exactamente donde empieza la reconciliación: por alguien que se toma el tiempo de comprender.",
+            "ca": "Es podria creure que tot això només afecta el Canadà. Però la reconciliació comença per un gest a l'abast de qualsevol, fins i tot de la Laura, que aprèn francès a Barcelona: conèixer aquesta història, escoltar-la de debò i negar-se a apartar la mirada. Si has llegit tots aquests textos, ja en saps més que molta gent sobre els pobles indígenes del Quebec —el seu passat, les seves ferides, però també la seva força i la seva cultura sempre viva. I és exactament aquí on comença la reconciliació: per algú que es pren el temps de comprendre."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "la vérité",
+          "es": "la verdad",
+          "ca": "la veritat"
+        },
+        {
+          "mot": "réparer",
+          "es": "reparar",
+          "ca": "reparar"
+        },
+        {
+          "mot": "agir",
+          "es": "actuar",
+          "ca": "actuar"
+        },
+        {
+          "mot": "un droit",
+          "es": "un derecho",
+          "ca": "un dret"
+        },
+        {
+          "mot": "se souvenir",
+          "es": "recordar",
+          "ca": "recordar"
+        },
+        {
+          "mot": "écouter",
+          "es": "escuchar",
+          "ca": "escoltar"
+        },
+        {
+          "mot": "comprendre",
+          "es": "comprender",
+          "ca": "comprendre"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué hay que hacer antes de la reconciliación?",
+            "ca": "Què cal fer abans de la reconciliació?"
+          },
+          "piste": {
+            "es": "decir la verdad",
+            "ca": "dir la veritat"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántos «llamamientos a la acción» hubo en 2015?",
+            "ca": "Quantes «crides a l'acció» hi va haver el 2015?"
+          },
+          "piste": {
+            "es": "94",
+            "ca": "94"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué día es el Día de la Verdad y la Reconciliación?",
+            "ca": "Quin dia és el Dia de la Veritat i la Reconciliació?"
+          },
+          "piste": {
+            "es": "el 30 de septiembre",
+            "ca": "el 30 de setembre"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué movimiento nació en 2012?",
+            "ca": "Quin moviment va néixer el 2012?"
+          },
+          "piste": {
+            "es": "Idle No More",
+            "ca": "Idle No More"
+          }
+        }
+      ],
+      "note": {
+        "es": "Tema sensible. En Canadá existe la línea Hope for Wellness, 24 h, para personas indígenas: 1-855-242-3310. La reconciliación es un proceso vivo y aún incompleto.",
+        "ca": "Tema sensible. Al Canadà existeix la línia Hope for Wellness, 24 h, per a persones indígenes: 1-855-242-3310. La reconciliació és un procés viu i encara incomplet."
+      },
+      "sources": [
+        {
+          "titre": "Centre national pour la vérité et la réconciliation — Appels à l'action",
+          "url": "https://nctr.ca/a-propos/histoire/appels-a-laction/"
+        },
+        {
+          "titre": "Gouvernement du Canada — Journée nationale de la vérité et de la réconciliation",
+          "url": "https://www.canada.ca/fr/patrimoine-canadien/campagnes/journee-nationale-verite-reconciliation.html"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Idle No More",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/idle-no-more"
+        }
+      ]
+    }
+  ]
+}
+

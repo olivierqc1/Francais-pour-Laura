@@ -1,0 +1,294 @@
+{
+  "textes": [
+    {
+      "id": "rafle_60",
+      "emoji": "👶",
+      "theme": "Histoire",
+      "periode": "années 1960 à 1980",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg",
+        "credit": {
+          "es": "Tras los internados, el Estado siguió retirando niños indígenas —esta vez mediante los servicios sociales. Foto de archivo de un internado (Manitoba, hacia 1900) — Biblioteca y Archivos Canadá.",
+          "ca": "Després dels internats, l'Estat va continuar retirant nens indígenes —aquesta vegada mitjançant els serveis socials. Foto d'arxiu d'un internat (Manitoba, cap a 1900) — Biblioteca i Arxius Canadà."
+        }
+      },
+      "titre": {
+        "es": "La «redada de los años 60»",
+        "ca": "La «batuda dels anys 60»"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Après les pensionnats, l'État a continué d'enlever des enfants autochtones à leur famille. Cette fois, ce sont les services sociaux qui le faisaient.",
+            "es": "Tras los internados, el Estado siguió quitando niños indígenas a su familia. Esta vez, lo hacían los servicios sociales.",
+            "ca": "Després dels internats, l'Estat va continuar traient nens indígenes a la seva família. Aquesta vegada, ho feien els serveis socials."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg",
+              "credit": {
+                "es": "Tras los internados, el Estado siguió retirando niños indígenas —esta vez mediante los servicios sociales. Foto de archivo de un internado (Manitoba, hacia 1900) — Biblioteca y Archivos Canadá.",
+                "ca": "Després dels internats, l'Estat va continuar retirant nens indígenes —aquesta vegada mitjançant els serveis socials. Foto d'arxiu d'un internat (Manitoba, cap a 1900) — Biblioteca i Arxius Canadà."
+              }
+            }
+          },
+          {
+            "fr": "Entre 1960 et 1980, des milliers d'enfants ont été donnés en adoption à des familles non autochtones, souvent très loin. On appelle ça « la rafle des années 60 ».",
+            "es": "Entre 1960 y 1980, miles de niños fueron dados en adopción a familias no indígenas, a menudo muy lejos. Se llama «la redada de los años 60».",
+            "ca": "Entre 1960 i 1980, milers de nens van ser donats en adopció a famílies no indígenes, sovint molt lluny. Se'n diu «la batuda dels anys 60»."
+          },
+          {
+            "fr": "Ces enfants ont perdu leur langue, leur culture et leur famille. En 2017, le Canada a reconnu sa faute.",
+            "es": "Esos niños perdieron su lengua, su cultura y su familia. En 2017, Canadá reconoció su culpa.",
+            "ca": "Aquells nens van perdre la seva llengua, la seva cultura i la seva família. El 2017, el Canadà va reconèixer la seva culpa."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Quand les pensionnats ont commencé à fermer, le retrait des enfants autochtones ne s'est pas arrêté : il a changé de forme. Entre les années 1960 et 1980, des travailleurs sociaux ont enlevé des milliers d'enfants à leur famille pour les placer dans des familles non autochtones. On appelle cette période « la rafle des années 60 ».",
+            "es": "Cuando los internados empezaron a cerrar, la retirada de niños indígenas no se detuvo: cambió de forma. Entre los años 1960 y 1980, trabajadores sociales quitaron a miles de niños de su familia para colocarlos en familias no indígenas. Se llama a este periodo «la redada de los años 60».",
+            "ca": "Quan els internats van començar a tancar, la retirada de nens indígenes no es va aturar: va canviar de forma. Entre els anys 1960 i 1980, treballadors socials van treure milers de nens de la seva família per col·locar-los en famílies no indígenes. Se'n diu d'aquest període «la batuda dels anys 60»."
+          },
+          {
+            "h": {
+              "fr": "Des enfants déracinés",
+              "es": "Niños desarraigados",
+              "ca": "Nens desarrelats"
+            }
+          },
+          {
+            "fr": "Souvent, on confondait la pauvreté avec de la négligence, et on prenait l'enfant. Beaucoup ont été envoyés dans d'autres provinces, aux États-Unis, parfois en Europe. Ils ont grandi sans connaître leur langue, leur culture, ni même qu'ils étaient autochtones.",
+            "es": "A menudo se confundía la pobreza con negligencia, y se llevaban al niño. Muchos fueron enviados a otras provincias, a Estados Unidos, a veces a Europa. Crecieron sin conocer su lengua, su cultura, ni siquiera que eran indígenas.",
+            "ca": "Sovint es confonia la pobresa amb negligència, i s'enduien el nen. Molts van ser enviats a altres províncies, als Estats Units, de vegades a Europa. Van créixer sense conèixer la seva llengua, la seva cultura, ni tan sols que eren indígenes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:A_group_of_students_in_front_of_the_school_buildings_of_Washakada_Indian_Residential_School,_Elkhorn,_Manitoba,_circa_1900_(15063094020).jpg",
+              "credit": {
+                "es": "Tras los internados, el Estado siguió retirando niños indígenas —esta vez mediante los servicios sociales. Foto de archivo de un internado (Manitoba, hacia 1900) — Biblioteca y Archivos Canadá.",
+                "ca": "Després dels internats, l'Estat va continuar retirant nens indígenes —aquesta vegada mitjançant els serveis socials. Foto d'arxiu d'un internat (Manitoba, cap a 1900) — Biblioteca i Arxius Canadà."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La reconnaissance",
+              "es": "El reconocimiento",
+              "ca": "El reconeixement"
+            }
+          },
+          {
+            "fr": "Une de ces enfants, Marcia Brown Martel, a porté l'affaire devant les tribunaux. En 2017, un juge a donné raison aux victimes, et le gouvernement a accepté de verser 800 millions de dollars à environ 20 000 survivants.",
+            "es": "Una de esos niños, Marcia Brown Martel, llevó el caso ante los tribunales. En 2017, un juez dio la razón a las víctimas, y el gobierno aceptó pagar 800 millones de dólares a unos 20 000 supervivientes.",
+            "ca": "Una d'aquells nens, Marcia Brown Martel, va portar el cas davant els tribunals. El 2017, un jutge va donar la raó a les víctimes, i el govern va acceptar pagar 800 milions de dòlars a uns 20.000 supervivents."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "On pourrait croire que le retrait forcé des enfants autochtones s'est arrêté avec les pensionnats. C'est faux. À mesure que les pensionnats fermaient, une autre vague a commencé, plus discrète, mais tout aussi dévastatrice. Cette fois, ce ne sont pas des prêtres qui emmenaient les enfants, mais des travailleurs sociaux. On l'appelle « la rafle des années 60 » — même si elle a duré des années 1960 jusqu'aux années 1980.",
+            "es": "Podría creerse que la retirada forzada de niños indígenas terminó con los internados. Es falso. A medida que los internados cerraban, comenzó otra ola, más discreta, pero igual de devastadora. Esta vez no eran sacerdotes quienes se llevaban a los niños, sino trabajadores sociales. Se la llama «la redada de los años 60» —aunque duró desde los años 1960 hasta los años 1980.",
+            "ca": "Es podria creure que la retirada forçada de nens indígenes va acabar amb els internats. És fals. A mesura que els internats tancaven, va començar una altra onada, més discreta, però igual de devastadora. Aquesta vegada no eren sacerdots els qui s'enduien els nens, sinó treballadors socials. Se la diu «la batuda dels anys 60» —tot i que va durar des dels anys 1960 fins als anys 1980."
+          },
+          {
+            "h": {
+              "fr": "« Scooper » les enfants",
+              "es": "«Atrapar» a los niños",
+              "ca": "«Atrapar» els nens"
+            }
+          },
+          {
+            "fr": "Le mot anglais « scoop » signifie « ramasser d'un seul coup ». Il vient des mots d'un travailleur social de Colombie-Britannique, qui reconnaissait qu'on « ramassait » les enfants dans les réserves au moindre prétexte. C'est le chercheur Patrick Johnston qui a popularisé le terme dans un rapport de 1983. Concrètement, des travailleurs sociaux, qui comprenaient mal la culture autochtone, débarquaient dans les communautés et jugeaient une famille « négligente » — alors qu'il s'agissait souvent simplement de pauvreté. L'enfant était alors retiré, et placé dans une famille blanche, parfois à l'autre bout du pays.",
+            "es": "La palabra inglesa «scoop» significa «recoger de golpe». Viene de las palabras de un trabajador social de Columbia Británica, que reconocía que se «recogía» a los niños en las reservas con el menor pretexto. Fue el investigador Patrick Johnston quien popularizó el término en un informe de 1983. En concreto, trabajadores sociales que entendían mal la cultura indígena llegaban a las comunidades y juzgaban a una familia «negligente» —cuando a menudo se trataba simplemente de pobreza. Entonces se retiraba al niño y se lo colocaba en una familia blanca, a veces al otro lado del país.",
+            "ca": "La paraula anglesa «scoop» significa «recollir de cop». Ve de les paraules d'un treballador social de la Colúmbia Britànica, que reconeixia que es «recollien» els nens a les reserves amb el mínim pretext. Va ser l'investigador Patrick Johnston qui va popularitzar el terme en un informe de 1983. En concret, treballadors socials que entenien malament la cultura indígena arribaven a les comunitats i jutjaven una família «negligent» —quan sovint es tractava simplement de pobresa. Llavors es retirava el nen i se'l col·locava en una família blanca, de vegades a l'altre extrem del país."
+          },
+          {
+            "h": {
+              "fr": "Des chiffres qui parlent",
+              "es": "Cifras que hablan",
+              "ca": "Xifres que parlen"
+            }
+          },
+          {
+            "fr": "L'ampleur du phénomène est énorme. En 1977, environ 15 500 enfants autochtones se trouvaient sous la garde des services sociaux : ils représentaient 20 % de tous les enfants placés au Canada, alors que les enfants autochtones formaient moins de 5 % de la population infantile. Sur l'ensemble de la période, on estime qu'au moins 20 000 enfants ont été retirés. Beaucoup ont été adoptés dans d'autres provinces, aux États-Unis, et même outre-mer. Au Manitoba, un programme appelé AIM allait jusqu'à publier dans les journaux des photos d'enfants autochtones « à adopter », comme on annoncerait des objets.",
+            "es": "La magnitud del fenómeno es enorme. En 1977, unos 15 500 niños indígenas estaban bajo la custodia de los servicios sociales: representaban el 20 % de todos los niños en acogida en Canadá, cuando los niños indígenas eran menos del 5 % de la población infantil. En todo el periodo, se estima que al menos 20 000 niños fueron retirados. Muchos fueron adoptados en otras provincias, en Estados Unidos, e incluso en ultramar. En Manitoba, un programa llamado AIM llegaba a publicar en los periódicos fotos de niños indígenas «en adopción», como se anunciarían objetos.",
+            "ca": "La magnitud del fenomen és enorme. El 1977, uns 15.500 nens indígenes estaven sota la custòdia dels serveis socials: representaven el 20 % de tots els nens en acolliment al Canadà, quan els nens indígenes eren menys del 5 % de la població infantil. En tot el període, s'estima que com a mínim 20.000 nens van ser retirats. Molts van ser adoptats en altres províncies, als Estats Units, i fins i tot a ultramar. Al Manitoba, un programa anomenat AIM arribava a publicar als diaris fotos de nens indígenes «en adopció», com s'anunciarien objectes."
+          },
+          {
+            "h": {
+              "fr": "Disparus « sans laisser de trace »",
+              "es": "Desaparecidos «sin dejar rastro»",
+              "ca": "Desapareguts «sense deixar rastre»"
+            }
+          },
+          {
+            "fr": "Pour ces enfants, le déracinement était total. On leur donnait un nouveau nom, une nouvelle famille, et personne — ni eux, ni leurs parents adoptifs — ne recevait d'information sur leurs origines. Beaucoup ont grandi sans savoir qu'ils étaient autochtones, ni d'où ils venaient. Un juge a écrit que ces enfants avaient pratiquement disparu « sans laisser de trace ». Le cas de Cleo, racontée dans un balado célèbre, est emblématique : enlevée à sa famille de la Saskatchewan en 1974, à neuf ans, elle n'a plus jamais revu les siens. Devenus adultes, beaucoup de ces enfants passeront des années à chercher leur vraie famille.",
+            "es": "Para esos niños, el desarraigo era total. Se les daba un nuevo nombre, una nueva familia, y nadie —ni ellos, ni sus padres adoptivos— recibía información sobre sus orígenes. Muchos crecieron sin saber que eran indígenas, ni de dónde venían. Un juez escribió que esos niños prácticamente habían desaparecido «sin dejar rastro». El caso de Cleo, contado en un podcast célebre, es emblemático: arrancada de su familia de Saskatchewan en 1974, a los nueve años, nunca volvió a ver a los suyos. Ya adultos, muchos de esos niños pasarán años buscando a su verdadera familia.",
+
+
+            "ca": "Per a aquells nens, el desarrelament era total. Se'ls donava un nou nom, una nova família, i ningú —ni ells, ni els seus pares adoptius— rebia informació sobre els seus orígens. Molts van créixer sense saber que eren indígenes, ni d'on venien. Un jutge va escriure que aquells nens pràcticament havien desaparegut «sense deixar rastre». El cas de la Cleo, explicat en un podcast cèlebre, és emblemàtic: arrencada de la seva família de la Saskatchewan el 1974, als nou anys, no va tornar a veure mai els seus. Ja adults, molts d'aquells nens passaran anys buscant la seva veritable família."
+          },
+          {
+            "h": {
+              "fr": "Marcia Brown Martel",
+              "es": "Marcia Brown Martel",
+              "ca": "Marcia Brown Martel"
+            }
+          },
+          {
+            "fr": "Le visage de cette tragédie, c'est aujourd'hui Marcia Brown Martel, de la Première Nation Beaverhouse, en Ontario. En 1967, alors qu'elle a quatre ans, on vient la prendre sous les yeux de sa mère. Elle racontera que, ce jour-là, un agent armé se tenait là, et que sa mère, terrifiée, n'a pas osé la retenir, de peur d'être abattue devant ses enfants. Marcia passera son enfance ballottée de famille d'accueil en famille d'accueil, victime d'abus; dans l'une d'elles, on lui demandera même de « laver » sa peau brune. Plus tard, elle découvrira que le gouvernement avait carrément déclaré son ancienne identité autochtone « morte ». Contre toute attente, elle finira par retrouver sa communauté de Beaverhouse — dont elle est aujourd'hui la cheffe.",
+            "es": "El rostro de esta tragedia es hoy Marcia Brown Martel, de la Primera Nación Beaverhouse, en Ontario. En 1967, cuando tiene cuatro años, vienen a llevársela ante los ojos de su madre. Contará que, ese día, un agente armado estaba allí, y que su madre, aterrorizada, no se atrevió a retenerla, por miedo a ser abatida ante sus hijos. Marcia pasará su infancia de casa de acogida en casa de acogida, víctima de abusos; en una de ellas, incluso le pedirán que «lave» su piel morena. Más tarde descubrirá que el gobierno había declarado directamente «muerta» su antigua identidad indígena. Contra todo pronóstico, acabará reencontrando su comunidad de Beaverhouse —de la que hoy es jefa.",
+            "ca": "El rostre d'aquesta tragèdia és avui la Marcia Brown Martel, de la Primera Nació Beaverhouse, a Ontario. El 1967, quan té quatre anys, vénen a endur-se-la davant els ulls de la seva mare. Explicarà que, aquell dia, un agent armat hi era, i que la seva mare, aterrida, no va gosar retenir-la, per por de ser abatuda davant els seus fills. La Marcia passarà la seva infància de casa d'acolliment en casa d'acolliment, víctima d'abusos; en una d'elles, fins i tot li demanaran que «renti» la seva pell bruna. Més tard descobrirà que el govern havia declarat directament «morta» la seva antiga identitat indígena. Contra tot pronòstic, acabarà retrobant la seva comunitat de Beaverhouse —de la qual avui és cap."
+          },
+          {
+            "h": {
+              "fr": "« La rafle a bien eu lieu »",
+              "es": "«La redada sí ocurrió»",
+              "ca": "«La batuda sí que va passar»"
+            }
+          },
+          {
+            "fr": "Avec d'autres, Marcia Brown Martel a porté le Canada devant les tribunaux. Le 14 février 2017, le juge Edward Belobaba lui donne raison, avec une phrase devenue célèbre : la rafle a bien eu lieu, et un grand tort a été causé. Le tribunal reconnaît que l'État a manqué à son devoir en laissant ces enfants perdre leur identité. La même année, le gouvernement accepte un règlement de 800 millions de dollars pour environ 20 000 survivants. La victoire reste amère : au départ, les Métis et les « Indiens non inscrits » en sont exclus. Et déjà, en 1985, un rapport du juge Kimelman, au Manitoba, avait osé le mot : pour lui, c'était un « génocide culturel ».",
+            "es": "Junto a otros, Marcia Brown Martel llevó a Canadá ante los tribunales. El 14 de febrero de 2017, el juez Edward Belobaba le da la razón, con una frase que se hizo célebre: la redada sí ocurrió, y se causó un gran daño. El tribunal reconoce que el Estado faltó a su deber al dejar que esos niños perdieran su identidad. Ese mismo año, el gobierno acepta un acuerdo de 800 millones de dólares para unos 20 000 supervivientes. La victoria sigue siendo amarga: al principio, los métis y los «indios no inscritos» quedan excluidos. Y ya en 1985, un informe del juez Kimelman, en Manitoba, se había atrevido con la palabra: para él, era un «genocidio cultural».",
+            "ca": "Juntament amb altres, la Marcia Brown Martel va portar el Canadà davant els tribunals. El 14 de febrer de 2017, el jutge Edward Belobaba li dóna la raó, amb una frase que es va fer cèlebre: la batuda sí que va passar, i es va causar un gran dany. El tribunal reconeix que l'Estat va faltar al seu deure en deixar que aquells nens perdessin la seva identitat. Aquell mateix any, el govern accepta un acord de 800 milions de dòlars per a uns 20.000 supervivents. La victòria continua sent amarga: al principi, els métis i els «indis no inscrits» en queden exclosos. I ja el 1985, un informe del jutge Kimelman, al Manitoba, s'havia atrevit amb la paraula: per a ell, era un «genocidi cultural»."
+          },
+          {
+            "h": {
+              "fr": "Au Québec aussi",
+              "es": "En Quebec también",
+              "ca": "Al Quebec també"
+            }
+          },
+          {
+            "fr": "On parle souvent de la rafle au Manitoba ou en Ontario, mais le Québec n'y a pas échappé. Là aussi, des enfants des Premières Nations et des Inuit ont été retirés de leurs familles et placés au loin, parfois sans que la communauté ne sache jamais ce qu'ils étaient devenus. Chez les Inuit du Nord, des familles ont vu des enfants partir vers le sud « pour leur bien », et ne jamais revenir. Longtemps, ces histoires québécoises sont restées dans l'ombre; ce n'est que récemment qu'on a commencé à les écouter et à les nommer.",
+            "es": "Se habla a menudo de la redada en Manitoba o en Ontario, pero Quebec no se libró. También allí, niños de las Primeras Naciones y de los inuit fueron retirados de sus familias y colocados lejos, a veces sin que la comunidad supiera nunca qué había sido de ellos. Entre los inuit del Norte, familias vieron partir a niños hacia el sur «por su bien», y no volver jamás. Durante mucho tiempo, esas historias quebequenses quedaron en la sombra; solo recientemente se ha empezado a escucharlas y a nombrarlas.",
+            "ca": "Es parla sovint de la batuda al Manitoba o a Ontario, però el Quebec no se'n va lliurar. També allà, nens de les Primeres Nacions i dels inuit van ser retirats de les seves famílies i col·locats lluny, de vegades sense que la comunitat sabés mai què n'havia estat. Entre els inuit del Nord, famílies van veure marxar nens cap al sud «pel seu bé», i no tornar mai. Durant molt de temps, aquelles històries quebequeses van quedar en l'ombra; només recentment s'ha començat a escoltar-les i a anomenar-les."
+          },
+          {
+            "h": {
+              "fr": "Une douleur qui se transmet",
+              "es": "Un dolor que se transmite",
+              "ca": "Un dolor que es transmet"
+            }
+          },
+          {
+            "fr": "Le mal causé par la rafle ne s'est pas arrêté à une seule génération. Un enfant qu'on coupe de sa famille, de sa langue et de son histoire devient souvent un adulte blessé, qui peut avoir du mal, à son tour, à être parent. Beaucoup de survivants racontent ce sentiment de n'être de nulle part : ni vraiment accepté dans la société qui les a adoptés, ni capable de rentrer dans une communauté qu'ils ne connaissent plus. C'est ce qu'on appelle un traumatisme intergénérationnel : une douleur qui se transmet, discrètement, des parents aux enfants. La guérison, pour ces familles, passe d'abord par le retour : retrouver son nom, sa nation, et parfois, comme Marcia, le chemin de la maison.",
+            "es": "El daño causado por la redada no se detuvo en una sola generación. Un niño al que se corta de su familia, su lengua y su historia se convierte a menudo en un adulto herido, que puede tener dificultades, a su vez, para ser padre o madre. Muchos supervivientes cuentan esa sensación de no ser de ninguna parte: ni del todo aceptados en la sociedad que los adoptó, ni capaces de volver a una comunidad que ya no conocen. Es lo que se llama un trauma intergeneracional: un dolor que se transmite, discretamente, de padres a hijos. La sanación, para esas familias, pasa primero por el regreso: recuperar el nombre, la nación y, a veces, como Marcia, el camino a casa.",
+            "ca": "El mal causat per la batuda no es va aturar en una sola generació. Un nen a qui es talla de la seva família, la seva llengua i la seva història es converteix sovint en un adult ferit, que pot tenir dificultats, al seu torn, per ser pare o mare. Molts supervivents expliquen aquella sensació de no ser d'enlloc: ni del tot acceptats en la societat que els va adoptar, ni capaços de tornar a una comunitat que ja no coneixen. És el que s'anomena un trauma intergeneracional: un dolor que es transmet, discretament, de pares a fills. La guarició, per a aquelles famílies, passa primer pel retorn: recuperar el nom, la nació i, de vegades, com la Marcia, el camí a casa."
+          },
+          {
+            "h": {
+              "fr": "Et aujourd'hui?",
+              "es": "¿Y hoy?",
+              "ca": "I avui?"
+            }
+          },
+          {
+            "fr": "Le plus troublant, c'est que ce retrait des enfants n'a jamais vraiment cessé. Aujourd'hui encore, les enfants autochtones sont énormément surreprésentés dans les services de protection de la jeunesse — au point qu'on parle parfois d'une « rafle du millénaire ». C'est pourquoi de nombreuses nations se battent désormais pour reprendre le contrôle de la protection de leurs propres enfants, afin qu'aucun petit ne soit plus jamais coupé de sa langue, de sa culture et des siens. La rafle des années 60 n'est donc pas qu'un chapitre du passé : c'est un combat encore bien vivant.",
+            "es": "Lo más perturbador es que esa retirada de niños nunca cesó del todo. Aún hoy, los niños indígenas están enormemente sobrerrepresentados en los servicios de protección de menores —hasta el punto de que a veces se habla de una «redada del milenio». Por eso muchas naciones luchan ahora por retomar el control de la protección de sus propios niños, para que ningún pequeño vuelva a ser cortado de su lengua, su cultura y los suyos. La redada de los años 60 no es, pues, solo un capítulo del pasado: es una lucha aún muy viva.",
+            "ca": "El més pertorbador és que aquella retirada de nens mai no va cessar del tot. Encara avui, els nens indígenes estan enormement sobrerepresentats en els serveis de protecció de menors —fins al punt que de vegades es parla d'una «batuda del mil·lenni». Per això moltes nacions lluiten ara per reprendre el control de la protecció dels seus propis nens, perquè cap petit no torni a ser tallat de la seva llengua, la seva cultura i els seus. La batuda dels anys 60 no és, doncs, només un capítol del passat: és una lluita encara ben viva."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un enfant",
+          "es": "un niño",
+          "ca": "un nen"
+        },
+        {
+          "mot": "enlever",
+          "es": "quitar",
+          "ca": "treure"
+        },
+        {
+          "mot": "l'adoption",
+          "es": "la adopción",
+          "ca": "l'adopció"
+        },
+        {
+          "mot": "une famille",
+          "es": "una familia",
+          "ca": "una família"
+        },
+        {
+          "mot": "l'identité",
+          "es": "la identidad",
+          "ca": "la identitat"
+        },
+        {
+          "mot": "retrouver",
+          "es": "reencontrar",
+          "ca": "retrobar"
+        },
+        {
+          "mot": "un tort",
+          "es": "un daño",
+          "ca": "un dany"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién hacía las retiradas en la «redada de los 60»?",
+            "ca": "Qui feia les retirades en la «batuda dels 60»?"
+          },
+          "piste": {
+            "es": "los trabajadores sociales",
+            "ca": "els treballadors socials"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántos niños se calcula que fueron retirados?",
+            "ca": "Quants nens es calcula que van ser retirats?"
+          },
+          "piste": {
+            "es": "al menos 20 000",
+            "ca": "com a mínim 20.000"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién fue la demandante principal en 2017?",
+            "ca": "Qui va ser la demandant principal el 2017?"
+          },
+          "piste": {
+            "es": "Marcia Brown Martel",
+            "ca": "Marcia Brown Martel"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó el 14 de febrero de 2017?",
+            "ca": "Què va passar el 14 de febrer de 2017?"
+          },
+          "piste": {
+            "es": "un juez dio la razón a las víctimas",
+            "ca": "un jutge va donar la raó a les víctimes"
+          }
+        }
+      ],
+      "note": {
+        "es": "Es un tema doloroso. En Canadá existe la línea de ayuda Hope for Wellness, 24 h, para personas indígenas: 1-855-242-3310.",
+        "ca": "És un tema dolorós. Al Canadà existeix la línia d'ajuda Hope for Wellness, 24 h, per a persones indígenes: 1-855-242-3310."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — La rafle des années soixante",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/sixties-scoop"
+        },
+        {
+          "titre": "Brown c. Canada (2017) — résumé",
+          "url": "https://sites.usask.ca/nativelaw/2019/02/05/brown-v-canada-ag-2017-onsc-251-sixties-scoop-class-action/"
+        },
+        {
+          "titre": "CBC — « Finding Cleo » (balado)",
+          "url": "https://www.cbc.ca/radio/findingcleo"
+        }
+      ]
+    }
+  ]
+}

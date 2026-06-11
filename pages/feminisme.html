@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feminismo — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+.hist-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:0.5rem; margin-bottom:1.3rem; }
+.hist-chip { background:var(--bg3); border:1px solid var(--border); border-radius:12px; cursor:pointer; padding:0.8rem; text-align:left; transition:all 0.15s; }
+.hist-chip:hover { border-color:var(--gold); }
+.hist-chip.active { background:var(--maple); border-color:var(--maple); }
+.hist-chip-emoji { font-size:1.5rem; }
+.hist-chip-title { font-family:'Cormorant Garamond',serif; font-size:1.05rem; color:var(--cream); margin-top:0.2rem; line-height:1.2; }
+.hist-chip.active .hist-chip-title { color:#fff; }
+.lvl-row { display:flex; gap:0.4rem; align-items:center; flex-wrap:wrap; margin-bottom:0.9rem; }
+.lvl-btn { background:var(--bg3); border:1px solid var(--border); border-radius:20px; color:var(--text-dim); cursor:pointer; padding:0.4rem 0.9rem; font-family:'Outfit',sans-serif; font-size:0.85rem; font-weight:600; }
+.lvl-btn.active { background:var(--gold); border-color:var(--gold); color:#1a1410; }
+.tr-toggle { margin-left:auto; background:var(--bg3); border:1px solid var(--border); border-radius:20px; color:var(--text-dim); cursor:pointer; padding:0.4rem 0.8rem; font-size:0.8rem; font-family:'Outfit',sans-serif; }
+.tr-toggle.on { color:var(--maple-light); border-color:var(--maple); }
+.sent { padding:0.8rem 0; border-bottom:1px solid var(--border); }
+.sent:last-child { border-bottom:none; }
+.sent-fr { font-family:'Cormorant Garamond',serif; font-size:1.3rem; color:var(--cream); line-height:1.55; }
+.sent-tr { color:var(--text-dim); font-size:0.92rem; margin-top:0.25rem; }
+.sent-play { background:none; border:none; color:var(--gold-light); cursor:pointer; font-size:0.95rem; padding:0; margin-top:0.35rem; }
+.gloss { display:flex; flex-wrap:wrap; gap:0.4rem; }
+.gloss-item { background:var(--bg3); border:1px solid var(--border); border-radius:8px; padding:0.4rem 0.7rem; font-size:0.85rem; }
+.gloss-fr { color:var(--cream); font-weight:600; }
+.gloss-tr { color:var(--text-dim); }
+.q-item { padding:0.7rem 0; border-bottom:1px solid var(--border); }
+.q-item:last-child { border-bottom:none; }
+.q-text { color:var(--cream); }
+.q-piste { font-size:0.8rem; color:var(--text-dim); font-style:italic; margin-top:0.3rem; display:none; }
+.q-piste.show { display:block; }
+.q-reveal { background:none; border:none; color:var(--gold-light); cursor:pointer; font-size:0.78rem; padding:0; margin-top:0.2rem; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></div>
+    <h1 data-es="Mujeres y feminismo en la francofonía" data-ca="Dones i feminisme a la francofonia">Mujeres y feminismo en la francofonía</h1>
+    <p data-es="Lee a tu ritmo. Cada frase tiene su traducción y su audio. Empieza en A1 y sube de nivel cuando quieras." data-ca="Llegeix al teu ritme. Cada frase té la seva traducció i el seu àudio. Comença a A1 i puja de nivell quan vulguis.">Lee a tu ritmo. Cada frase tiene traducción y audio. Empieza en A1 y sube de nivel.</p>
+  </div>
+
+  <div class="hist-grid" id="hist-grid"></div>
+  <div id="hist-content"></div>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/lang.js"></script>
+<script>
+let textes = [], cur = 0, curLvl = 'a1', showTr = true, voicesCache = [], seen = new Set();
+const lang = () => localStorage.getItem('laura_lang') || 'es';
+const LVL_LABEL = { a1:'A1 · '+'Fácil', a2:'A2 · Medio', b1:'B1 · Avanzado' };
+
+function loadVoices(){ voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function frVoice(){ return voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr')); }
+function say(text){
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'fr-CA'; const v = frVoice(); if (v) u.voice = v; u.rate = 0.8;
+  speechSynthesis.speak(u);
+}
+function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
+
+async function load(){
+  const FILES = ['../data/feminisme1.json'];
+  const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
+  textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
+  if (!textes.length){
+    const l = lang();
+    document.getElementById('hist-content').innerHTML = '<div class="card">'+
+      (l==='es'?'No se pudo cargar el contenido. Asegúrate de subir los archivos <b>feminisme1.json</b> a la carpeta <b>data/</b>.'
+              :'No s\'ha pogut carregar el contingut. Assegura\'t de pujar els fitxers <b>histoire1.json</b>, <b>histoire2.json</b>, <b>histoire3.json</b> i <b>histoire4.json</b> a la carpeta <b>data/</b>.')+'</div>';
+    return;
+  }
+  buildGrid(); render(0);
+}
+function buildGrid(){
+  const l = lang();
+  document.getElementById('hist-grid').innerHTML = textes.map((t,i) =>
+    '<button class="hist-chip'+(i===cur?' active':'')+'" onclick="render('+i+')">'+
+    '<div class="hist-chip-emoji">'+t.emoji+'</div>'+
+    '<div class="hist-chip-title">'+t.titre[l]+'</div></button>').join('');
+}
+function render(i){
+  if (!textes.length) return;
+  cur = i;
+  const t = textes[i], l = lang();
+  const levels = Object.keys(t.niveaux);
+  if (!levels.includes(curLvl)) curLvl = levels[0];
+  document.querySelectorAll('.hist-chip').forEach((c,j)=>c.classList.toggle('active', j===i));
+
+  const lvlBtns = levels.map(lv =>
+    '<button class="lvl-btn'+(lv===curLvl?' active':'')+'" onclick="setLvl(\''+lv+'\')">'+(LVL_LABEL[lv]||lv.toUpperCase())+'</button>').join('');
+  const trLabel = (l==='es'?(showTr?'👁 Traducción: SÍ':'🙈 Traducción: NO'):(showTr?'👁 Traducció: SÍ':'🙈 Traducció: NO'));
+
+  const note = t.note ? '<div class="warning-box" style="margin-bottom:1rem">⚠️ '+t.note[l]+'</div>' : '';
+
+  const sentences = t.niveaux[curLvl].map(s => {
+    if (s.h) return '<div style="margin:1.7rem 0 0.5rem;border-left:3px solid var(--maple);padding-left:0.7rem"><div style="font-family:\'Cormorant Garamond\',serif;font-size:1.45rem;color:var(--maple);font-weight:600;line-height:1.2">'+s.h.fr+'</div><div style="font-size:0.8rem;color:var(--text-dim);margin-top:0.1rem">'+(s.h[l]||'')+'</div></div>';
+    if (s.img) return '<a href="'+s.img.source+'" target="_blank" rel="noopener" style="display:block;text-decoration:none;margin:1.1rem 0"><img src="'+s.img.url+'" loading="lazy" alt="" onerror="this.parentElement.style.display=\'none\'" style="width:100%;border-radius:12px;border:1px solid var(--border);display:block"><div style="font-size:0.72rem;color:var(--text-dim);margin-top:0.35rem">📷 '+(s.img.credit?s.img.credit[l]:'')+'</div></a>';
+    return '<div class="sent"><div class="sent-fr">'+s.fr+'</div>'+
+    '<div class="sent-tr" style="'+(showTr?'':'display:none')+'">'+s[l]+'</div>'+
+    '<button class="sent-play" onclick="say(\''+esc(s.fr)+'\')">🔊 '+(l==='es'?'Escuchar':'Escoltar')+'</button></div>';
+  }).join('');
+
+  const gloss = (t.mots_cles||[]).map(m =>
+    '<div class="gloss-item"><span class="gloss-fr">'+m.mot+'</span> <span class="gloss-tr">— '+m[l]+'</span></div>').join('');
+
+  const questions = (t.questions||[]).map((qq,k) =>
+    '<div class="q-item"><div class="q-text">'+(k+1)+'. '+qq.q[l]+'</div>'+
+    '<button class="q-reveal" onclick="document.getElementById(\'hp'+k+'\').classList.add(\'show\')">'+(l==='es'?'💡 Ver pista':'💡 Veure pista')+'</button>'+
+    '<div class="q-piste" id="hp'+k+'">→ '+qq.piste[l]+'</div></div>').join('');
+
+  const periodeBadge = t.periode ? '<span style="font-size:0.7rem;color:var(--text-dim);border:1px solid var(--border);border-radius:20px;padding:0.15rem 0.55rem;margin-left:0.5rem;white-space:nowrap">📅 '+t.periode+'</span>' : '';
+  const img = t.image ? '<a href="'+t.image.source+'" target="_blank" rel="noopener" style="display:block;text-decoration:none;margin-bottom:1rem"><img src="'+t.image.url+'" loading="lazy" alt="" onerror="this.parentElement.style.display=\'none\'" style="width:100%;border-radius:12px;border:1px solid var(--border);display:block"><div style="font-size:0.72rem;color:var(--text-dim);margin-top:0.35rem">📷 '+(t.image.credit?t.image.credit[l]:'')+'</div></a>' : '';
+  const sourcesHtml = (t.sources && t.sources.length) ?
+    '<div class="section-title" style="margin-top:1.4rem">📚 '+(l==='es'?'Fuentes':'Fonts')+'</div>'+
+    '<div style="font-size:0.85rem;line-height:1.9">'+ t.sources.map(s => '<a href="'+s.url+'" target="_blank" rel="noopener" style="color:var(--gold-light);display:block">• '+s.titre+'</a>').join('') +'</div>' : '';
+  const RES_EMOJI = {video:'🎬', site:'🔗', image:'🖼️'};
+  const ressHtml = (t.ressources && t.ressources.length) ?
+    '<div class="section-title" style="margin-top:1.4rem">✨ '+(l==='es'?'Para profundizar':'Per aprofundir')+'</div>'+
+    t.ressources.map(r => '<a href="'+r.url+'" target="_blank" rel="noopener" class="gloss-item" style="display:block;margin-bottom:0.5rem;text-decoration:none"><span class="gloss-fr">'+(RES_EMOJI[r.type]||'🔗')+' '+r.titre+'</span><div class="gloss-tr" style="margin-top:0.2rem">'+(r.desc?r.desc[l]:'')+'</div></a>').join('') : '';
+
+  document.getElementById('hist-content').innerHTML =
+    '<div class="card fade-up">'+
+    '<div class="lvl-row">'+lvlBtns+'<button class="tr-toggle'+(showTr?' on':'')+'" onclick="toggleTr()">'+trLabel+'</button></div>'+
+    note+ img +
+    '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem">'+
+      '<div class="section-title">'+t.emoji+' '+t.titre[l]+periodeBadge+'</div>'+
+      '<button class="btn btn-primary" onclick="playAll()">▶ '+(l==='es'?'Escuchar todo':'Escoltar tot')+'</button>'+
+    '</div>'+
+    sentences+
+    '<div class="section-title" style="margin-top:1.4rem">📖 '+(l==='es'?'Vocabulario clave':'Vocabulari clau')+'</div><div class="gloss">'+gloss+'</div>'+
+    '<div class="section-title" style="margin-top:1.4rem">❓ '+(l==='es'?'Comprensión':'Comprensió')+'</div>'+questions+ sourcesHtml + ressHtml +
+    '</div>';
+  window.scrollTo({top:0,behavior:'smooth'});
+  const key = t.id+'_'+curLvl;
+  if (!seen.has(key)){ seen.add(key); if (window.Progress) Progress.recordExercise('histoire', t.id, true); }
+}
+function setLvl(lv){ curLvl = lv; render(cur); }
+function toggleTr(){ showTr = !showTr; render(cur); }
+function playAll(){
+  const t = textes[cur];
+  speechSynthesis.cancel();
+  t.niveaux[curLvl].forEach(s => {
+    const u = new SpeechSynthesisUtterance(s.fr);
+    u.lang = 'fr-CA'; const v = frVoice(); if (v) u.voice = v; u.rate = 0.8;
+    speechSynthesis.speak(u);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  load();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => { buildGrid(); render(cur); }, 0));
+  });
+});
+</script>
+</body>
+</html>

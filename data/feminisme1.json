@@ -1,0 +1,282 @@
+{
+  "textes": [
+    {
+      "id": "feminisme_francophonie",
+      "emoji": "✊",
+      "theme": "Société",
+      "periode": "1791 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Olympe-de-Gouges.jpg?width=700",
+        "source": "https://commons.wikimedia.org/wiki/File:Marie-Olympe-de-Gouges.jpg",
+        "credit": {
+          "es": "Retrato de Olympe de Gouges (Alexander Kucharski, s. XVIII) — dominio público.",
+          "ca": "Retrat d'Olympe de Gouges (Alexander Kucharski, s. XVIII) — domini públic."
+        }
+      },
+      "titre": {
+        "es": "Mujeres y feminismo en la francofonía",
+        "ca": "Dones i feminisme a la francofonia"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Le féminisme, c'est l'idée que les femmes et les hommes doivent avoir les mêmes droits. Beaucoup de grandes voix du féminisme parlaient français.",
+            "es": "El feminismo es la idea de que las mujeres y los hombres deben tener los mismos derechos. Muchas grandes voces del feminismo hablaban francés.",
+            "ca": "El feminisme és la idea que les dones i els homes han de tenir els mateixos drets. Moltes grans veus del feminisme parlaven francès."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Olympe-de-Gouges.jpg?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Marie-Olympe-de-Gouges.jpg",
+              "credit": {
+                "es": "Retrato de Olympe de Gouges (Alexander Kucharski, s. XVIII) — dominio público.",
+                "ca": "Retrat d'Olympe de Gouges (Alexander Kucharski, s. XVIII) — domini públic."
+              }
+            }
+          },
+          {
+            "fr": "En 1791, en France, Olympe de Gouges écrit que les femmes ont les mêmes droits que les hommes. C'était très courageux.",
+            "es": "En 1791, en Francia, Olympe de Gouges escribe que las mujeres tienen los mismos derechos que los hombres. Fue muy valiente.",
+            "ca": "El 1791, a França, Olympe de Gouges escriu que les dones tenen els mateixos drets que els homes. Va ser molt valent."
+          },
+          {
+            "fr": "Aujourd'hui, en France comme au Québec, les femmes continuent de se battre pour l'égalité.",
+            "es": "Hoy, tanto en Francia como en Quebec, las mujeres siguen luchando por la igualdad.",
+            "ca": "Avui, tant a França com al Quebec, les dones continuen lluitant per la igualtat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le féminisme — l'idée que les femmes doivent avoir les mêmes droits que les hommes — a des racines profondes dans le monde francophone. Le mot lui-même vient du français, et plusieurs de ses penseuses les plus célèbres parlaient français.",
+            "es": "El feminismo —la idea de que las mujeres deben tener los mismos derechos que los hombres— tiene raíces profundas en el mundo francófono. La palabra misma viene del francés, y varias de sus pensadoras más célebres hablaban francés.",
+            "ca": "El feminisme —la idea que les dones han de tenir els mateixos drets que els homes— té arrels profundes en el món francòfon. La paraula mateixa ve del francès, i diverses de les seves pensadores més cèlebres parlaven francès."
+          },
+          {
+            "h": {
+              "fr": "Les pionnières",
+              "es": "Las pioneras",
+              "ca": "Les pioneres"
+            }
+          },
+          {
+            "fr": "En 1791, pendant la Révolution française, Olympe de Gouges écrit une « Déclaration des droits de la femme ». Plus tard, en 1949, Simone de Beauvoir publie un livre célèbre, « Le Deuxième Sexe ». Ces idées françaises ont influencé le monde entier.",
+            "es": "En 1791, durante la Revolución francesa, Olympe de Gouges escribe una «Declaración de los derechos de la mujer». Más tarde, en 1949, Simone de Beauvoir publica un libro célebre, «El segundo sexo». Esas ideas francesas influyeron en el mundo entero.",
+            "ca": "El 1791, durant la Revolució francesa, Olympe de Gouges escriu una «Declaració dels drets de la dona». Més tard, el 1949, Simone de Beauvoir publica un llibre cèlebre, «El segon sexe». Aquelles idees franceses van influir en tot el món."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Olympe-de-Gouges.jpg?width=700",
+              "source": "https://commons.wikimedia.org/wiki/File:Marie-Olympe-de-Gouges.jpg",
+              "credit": {
+                "es": "Retrato de Olympe de Gouges (Alexander Kucharski, s. XVIII) — dominio público.",
+                "ca": "Retrat d'Olympe de Gouges (Alexander Kucharski, s. XVIII) — domini públic."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le droit de vote et l'égalité",
+              "es": "El derecho al voto y la igualdad",
+              "ca": "El dret al vot i la igualtat"
+            }
+          },
+          {
+            "fr": "Les femmes ont longtemps lutté pour voter : en France, elles obtiennent ce droit en 1944. Au Québec, c'est en 1940, grâce à des femmes comme Thérèse Casgrain. Aujourd'hui, le combat continue, en France, au Québec et dans toute la francophonie.",
+            "es": "Las mujeres lucharon mucho tiempo por votar: en Francia obtienen ese derecho en 1944. En Quebec, es en 1940, gracias a mujeres como Thérèse Casgrain. Hoy, la lucha continúa, en Francia, en Quebec y en toda la francofonía.",
+            "ca": "Les dones van lluitar molt de temps per votar: a França obtenen aquest dret el 1944. Al Quebec, és el 1940, gràcies a dones com Thérèse Casgrain. Avui, la lluita continua, a França, al Quebec i a tota la francofonia."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le féminisme — l'idée, longtemps révolutionnaire, que les femmes et les hommes doivent avoir les mêmes droits — a des racines particulièrement profondes dans le monde francophone. Le mot lui-même est né en français, et certaines de ses penseuses les plus influentes, de Paris à Montréal, ont écrit et lutté en français. Voici un voyage à travers cette histoire, de la Révolution française jusqu'à aujourd'hui.",
+            "es": "El feminismo —la idea, mucho tiempo revolucionaria, de que las mujeres y los hombres deben tener los mismos derechos— tiene raíces especialmente profundas en el mundo francófono. La palabra misma nació en francés, y algunas de sus pensadoras más influyentes, de París a Montreal, escribieron y lucharon en francés. Aquí va un viaje por esta historia, desde la Revolución francesa hasta hoy.",
+            "ca": "El feminisme —la idea, molt de temps revolucionària, que les dones i els homes han de tenir els mateixos drets— té arrels especialment profundes en el món francòfon. La paraula mateixa va néixer en francès, i algunes de les seves pensadores més influents, de París a Montreal, van escriure i van lluitar en francès. Aquí va un viatge per aquesta història, des de la Revolució francesa fins avui."
+          },
+          {
+            "h": {
+              "fr": "Olympe de Gouges (1791)",
+              "es": "Olympe de Gouges (1791)",
+              "ca": "Olympe de Gouges (1791)"
+            }
+          },
+          {
+            "fr": "Tout commence, ou presque, pendant la Révolution française. En 1789, on proclame les « droits de l'homme »… mais pas ceux de la femme. Une dramaturge, Olympe de Gouges, refuse cet oubli. En 1791, elle écrit la « Déclaration des droits de la femme et de la citoyenne », où elle affirme que les femmes naissent libres et égales aux hommes. C'est d'une audace folle pour l'époque. Elle paiera son courage de sa vie : accusée par les révolutionnaires les plus radicaux, elle est guillotinée en 1793. Mais ses mots, eux, ne mourront jamais.",
+            "es": "Todo empieza, o casi, durante la Revolución francesa. En 1789 se proclaman los «derechos del hombre»… pero no los de la mujer. Una dramaturga, Olympe de Gouges, rechaza ese olvido. En 1791 escribe la «Declaración de los derechos de la mujer y de la ciudadana», donde afirma que las mujeres nacen libres e iguales a los hombres. Es de una audacia enorme para la época. Pagará su valentía con la vida: acusada por los revolucionarios más radicales, es guillotinada en 1793. Pero sus palabras no morirán jamás.",
+            "ca": "Tot comença, o gairebé, durant la Revolució francesa. El 1789 es proclamen els «drets de l'home»… però no els de la dona. Una dramaturga, Olympe de Gouges, rebutja aquell oblit. El 1791 escriu la «Declaració dels drets de la dona i de la ciutadana», on afirma que les dones neixen lliures i iguals als homes. És d'una audàcia enorme per a l'època. Pagarà la seva valentia amb la vida: acusada pels revolucionaris més radicals, és guillotinada el 1793. Però les seves paraules no moriran mai."
+          },
+          {
+            "h": {
+              "fr": "Le long combat pour voter",
+              "es": "La larga lucha por votar",
+              "ca": "La llarga lluita per votar"
+            }
+          },
+          {
+            "fr": "Pendant plus d'un siècle, les femmes n'ont pas le droit de voter. Le combat des « suffragettes » est long et difficile. En France, les femmes n'obtiennent le droit de vote qu'en 1944 — étonnamment tard. Au Canada, elles votent au fédéral dès 1918, mais le Québec résiste : il sera la toute dernière province à accorder le vote aux femmes, en 1940. Cette victoire québécoise, on la doit à des militantes tenaces comme Thérèse Casgrain, Marie Gérin-Lajoie et Idola Saint-Jean, qui se sont battues pendant des décennies contre l'Église et les politiciens de l'époque.",
+            "es": "Durante más de un siglo, las mujeres no tienen derecho a votar. La lucha de las «sufragistas» es larga y difícil. En Francia, las mujeres no obtienen el derecho al voto hasta 1944 —sorprendentemente tarde. En Canadá votan a nivel federal desde 1918, pero Quebec se resiste: será la última provincia en conceder el voto a las mujeres, en 1940. Esa victoria quebequense se debe a militantes tenaces como Thérèse Casgrain, Marie Gérin-Lajoie e Idola Saint-Jean, que lucharon durante décadas contra la Iglesia y los políticos de la época.",
+            "ca": "Durant més d'un segle, les dones no tenen dret a votar. La lluita de les «sufragistes» és llarga i difícil. A França, les dones no obtenen el dret al vot fins al 1944 —sorprenentment tard. Al Canadà voten a nivell federal des del 1918, però el Quebec es resisteix: serà l'última província a concedir el vot a les dones, el 1940. Aquella victòria quebequesa es deu a militants tenaces com Thérèse Casgrain, Marie Gérin-Lajoie i Idola Saint-Jean, que van lluitar durant dècades contra l'Església i els polítics de l'època."
+          },
+          {
+            "h": {
+              "fr": "Simone de Beauvoir (1949)",
+              "es": "Simone de Beauvoir (1949)",
+              "ca": "Simone de Beauvoir (1949)"
+            }
+          },
+          {
+            "fr": "En 1949, la philosophe française Simone de Beauvoir publie « Le Deuxième Sexe », l'un des livres les plus importants de toute l'histoire du féminisme. Elle y défend une idée qui va bouleverser les esprits, résumée par sa phrase la plus célèbre : « On ne naît pas femme, on le devient. » Autrement dit, ce qu'on attend d'une « femme » — être douce, rester à la maison, obéir — n'a rien de naturel : c'est la société qui le lui impose. Cette pensée française deviendra une base du féminisme dans le monde entier.",
+
+
+            "es": "En 1949, la filósofa francesa Simone de Beauvoir publica «El segundo sexo», uno de los libros más importantes de toda la historia del feminismo. En él defiende una idea que va a remover las conciencias, resumida en su frase más célebre: «No se nace mujer, se llega a serlo.» Es decir, lo que se espera de una «mujer» —ser dulce, quedarse en casa, obedecer— no tiene nada de natural: es la sociedad la que se lo impone. Ese pensamiento francés se convertirá en una base del feminismo en el mundo entero.",
+            "ca": "El 1949, la filòsofa francesa Simone de Beauvoir publica «El segon sexe», un dels llibres més importants de tota la història del feminisme. Hi defensa una idea que remourà les consciències, resumida en la seva frase més cèlebre: «No es neix dona, s'arriba a ser-ho.» És a dir, el que s'espera d'una «dona» —ser dolça, quedar-se a casa, obeir— no té res de natural: és la societat qui l'hi imposa. Aquell pensament francès es convertirà en una base del feminisme a tot el món."
+          },
+          {
+            "h": {
+              "fr": "Simone Veil et le droit de choisir (1975)",
+              "es": "Simone Veil y el derecho a elegir (1975)",
+              "ca": "Simone Veil i el dret a triar (1975)"
+            }
+          },
+          {
+            "fr": "Le féminisme, ce sont aussi des lois concrètes. En 1975, en France, la ministre Simone Veil — une femme qui avait survécu aux camps nazis — défend devant une Assemblée presque entièrement masculine et souvent hostile une loi autorisant l'avortement. Malgré les insultes, elle tient bon. La « loi Veil » est adoptée : pour la première fois, les femmes françaises obtiennent le droit de décider pour leur propre corps. Simone Veil devient une héroïne, et son nom reste aujourd'hui un symbole de courage.",
+            "es": "El feminismo son también leyes concretas. En 1975, en Francia, la ministra Simone Veil —una mujer que había sobrevivido a los campos nazis— defiende ante una Asamblea casi totalmente masculina y a menudo hostil una ley que autoriza el aborto. Pese a los insultos, se mantiene firme. La «ley Veil» se aprueba: por primera vez, las mujeres francesas obtienen el derecho a decidir sobre su propio cuerpo. Simone Veil se convierte en una heroína, y su nombre sigue siendo hoy un símbolo de valentía.",
+            "ca": "El feminisme també són lleis concretes. El 1975, a França, la ministra Simone Veil —una dona que havia sobreviscut als camps nazis— defensa davant una Assemblea gairebé totalment masculina i sovint hostil una llei que autoritza l'avortament. Malgrat els insults, es manté ferma. La «llei Veil» s'aprova: per primera vegada, les dones franceses obtenen el dret a decidir sobre el seu propi cos. Simone Veil es converteix en una heroïna, i el seu nom continua sent avui un símbol de valentia."
+          },
+          {
+            "h": {
+              "fr": "Le féminisme au Québec",
+              "es": "El feminismo en Quebec",
+              "ca": "El feminisme al Quebec"
+            }
+          },
+          {
+            "fr": "Au Québec, tout s'accélère dans les années 1960, pendant la « Révolution tranquille ». En une génération, les femmes entrent massivement dans les études et le travail, et l'influence de l'Église recule. En 1966 naît la Fédération des femmes du Québec. Petit à petit, les lois changent : depuis 1981, par exemple, une Québécoise garde son nom de famille après le mariage — une façon d'affirmer qu'elle reste une personne à part entière. Le Québec est ainsi devenu l'une des sociétés les plus féministes de la francophonie.",
+            "es": "En Quebec, todo se acelera en los años 1960, durante la «Revolución tranquila». En una generación, las mujeres entran masivamente en los estudios y el trabajo, y la influencia de la Iglesia retrocede. En 1966 nace la Federación de Mujeres de Quebec. Poco a poco, las leyes cambian: desde 1981, por ejemplo, una quebequense conserva su apellido tras el matrimonio —una forma de afirmar que sigue siendo una persona de pleno derecho. Quebec se ha convertido así en una de las sociedades más feministas de la francofonía.",
+            "ca": "Al Quebec, tot s'accelera als anys 1960, durant la «Revolució tranquil·la». En una generació, les dones entren massivament en els estudis i la feina, i la influència de l'Església recula. El 1966 neix la Federació de Dones del Quebec. A poc a poc, les lleis canvien: des del 1981, per exemple, una quebequesa conserva el seu cognom després del matrimoni —una manera d'afirmar que continua sent una persona de ple dret. El Quebec s'ha convertit així en una de les societats més feministes de la francofonia."
+          },
+          {
+            "h": {
+              "fr": "Le 6 décembre 1989",
+              "es": "El 6 de diciembre de 1989",
+              "ca": "El 6 de desembre de 1989"
+            }
+          },
+          {
+            "fr": "Cette histoire a aussi connu des moments tragiques. Le 6 décembre 1989, à l'École Polytechnique de Montréal, un homme a tué quatorze femmes parce qu'elles étaient des femmes, en disant détester les féministes. Le pays tout entier en est resté bouleversé. Depuis, le 6 décembre est devenu une journée de mémoire et d'action contre la violence faite aux femmes, et ce drame a aussi mené à un meilleur contrôle des armes à feu. C'est un rappel douloureux que l'égalité n'est jamais acquise pour toujours.",
+            "es": "Esta historia también ha conocido momentos trágicos. El 6 de diciembre de 1989, en la Escuela Politécnica de Montreal, un hombre mató a catorce mujeres por ser mujeres, diciendo que odiaba a las feministas. El país entero quedó conmocionado. Desde entonces, el 6 de diciembre se ha convertido en un día de memoria y de acción contra la violencia hacia las mujeres, y ese drama también llevó a un mejor control de las armas de fuego. Es un recordatorio doloroso de que la igualdad nunca se conquista para siempre.",
+            "ca": "Aquesta història també ha conegut moments tràgics. El 6 de desembre de 1989, a l'Escola Politècnica de Montreal, un home va matar catorze dones pel fet de ser dones, dient que odiava les feministes. El país sencer en va quedar commocionat. Des d'aleshores, el 6 de desembre s'ha convertit en un dia de memòria i d'acció contra la violència cap a les dones, i aquell drama també va portar a un millor control de les armes de foc. És un recordatori dolorós que la igualtat mai no es conquereix per sempre."
+          },
+          {
+            "h": {
+              "fr": "Aujourd'hui : #MoiAussi et la francophonie",
+              "es": "Hoy: #MoiAussi y la francofonía",
+              "ca": "Avui: #MoiAussi i la francofonia"
+            }
+          },
+          {
+            "fr": "Le combat continue, et il parle toujours français. En 2017, le mouvement #MoiAussi — la version francophone de #MeToo — a libéré la parole de milliers de femmes sur le harcèlement et les agressions, en France comme au Québec. Et la francophonie, ce n'est pas que la France et le Québec : partout, du Sénégal au Maroc, des femmes francophones se battent pour leurs droits. De Olympe de Gouges à aujourd'hui, c'est une même longue chaîne de courage. Pour Laura, apprendre le français, c'est aussi rencontrer ces voix immenses — de Beauvoir, Veil, Casgrain — et toute une histoire de femmes qui ont refusé de se taire.",
+            "es": "La lucha continúa, y sigue hablando francés. En 2017, el movimiento #MoiAussi —la versión francófona de #MeToo— liberó la palabra de miles de mujeres sobre el acoso y las agresiones, tanto en Francia como en Quebec. Y la francofonía no es solo Francia y Quebec: por todas partes, de Senegal a Marruecos, mujeres francófonas luchan por sus derechos. De Olympe de Gouges a hoy, es una misma larga cadena de valentía. Para Laura, aprender francés es también encontrar esas voces inmensas —de Beauvoir, Veil, Casgrain— y toda una historia de mujeres que se negaron a callar.",
+            "ca": "La lluita continua, i continua parlant francès. El 2017, el moviment #MoiAussi —la versió francòfona de #MeToo— va alliberar la paraula de milers de dones sobre l'assetjament i les agressions, tant a França com al Quebec. I la francofonia no és només França i el Quebec: pertot arreu, del Senegal al Marroc, dones francòfones lluiten pels seus drets. D'Olympe de Gouges fins avui, és una mateixa llarga cadena de valentia. Per a la Laura, aprendre francès és també trobar aquelles veus immenses —de Beauvoir, Veil, Casgrain— i tota una història de dones que es van negar a callar."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une femme",
+          "es": "una mujer",
+          "ca": "una dona"
+        },
+        {
+          "mot": "l'égalité",
+          "es": "la igualdad",
+          "ca": "la igualtat"
+        },
+        {
+          "mot": "un droit",
+          "es": "un derecho",
+          "ca": "un dret"
+        },
+        {
+          "mot": "voter",
+          "es": "votar",
+          "ca": "votar"
+        },
+        {
+          "mot": "lutter",
+          "es": "luchar",
+          "ca": "lluitar"
+        },
+        {
+          "mot": "libre",
+          "es": "libre",
+          "ca": "lliure"
+        },
+        {
+          "mot": "le courage",
+          "es": "el coraje",
+          "ca": "el coratge"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién escribió la «Declaración de los derechos de la mujer» en 1791?",
+            "ca": "Qui va escriure la «Declaració dels drets de la dona» el 1791?"
+          },
+          "piste": {
+            "es": "Olympe de Gouges",
+            "ca": "Olympe de Gouges"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué año votaron las mujeres en Quebec?",
+            "ca": "En quin any van votar les dones al Quebec?"
+          },
+          "piste": {
+            "es": "en 1940",
+            "ca": "el 1940"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué libro escribió Simone de Beauvoir?",
+            "ca": "Quin llibre va escriure Simone de Beauvoir?"
+          },
+          "piste": {
+            "es": "«El segundo sexo» (1949)",
+            "ca": "«El segon sexe» (1949)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué defendió Simone Veil en 1975?",
+            "ca": "Què va defensar Simone Veil el 1975?"
+          },
+          "piste": {
+            "es": "la ley del aborto",
+            "ca": "la llei de l'avortament"
+          }
+        }
+      ],
+      "note": {
+        "es": "Este texto menciona la tragedia del 6 de diciembre de 1989, un tema doloroso. Hoy es un día de memoria y de lucha contra la violencia hacia las mujeres.",
+        "ca": "Aquest text esmenta la tragèdia del 6 de desembre de 1989, un tema dolorós. Avui és un dia de memòria i de lluita contra la violència cap a les dones."
+      },
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Le droit de vote des femmes au Québec",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/le-droit-de-vote-des-femmes-au-quebec"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Thérèse Casgrain",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/therese-casgrain"
+        },
+        {
+          "titre": "Wikipédia — Olympe de Gouges",
+          "url": "https://fr.wikipedia.org/wiki/Olympe_de_Gouges"
+        }
+      ]
+    }
+  ]
+}

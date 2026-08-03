@@ -1,0 +1,249 @@
+{
+  "textes": [
+    {
+      "id": "siege_quebec_1759",
+      "emoji": "⚔️",
+      "theme": "Histoire",
+      "periode": "1754 à 1763",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Benjamin_West_005.jpg",
+        "credit": {
+          "es": "«La muerte del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons.",
+          "ca": "«La mort del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El sitio de Quebec (1759): la caída de Nueva Francia",
+        "ca": "El setge de Quebec (1759): la caiguda de la Nova França"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1754, une grande guerre commence entre la France et l'Angleterre. On l'appelle la guerre de Sept Ans.",
+            "es": "En 1754, empieza una gran guerra entre Francia e Inglaterra. Se la llama la guerra de los Siete Años.",
+            "ca": "El 1754, comença una gran guerra entre França i Anglaterra. Se l'anomena la guerra dels Set Anys."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Benjamin_West_005.jpg",
+              "credit": {
+                "es": "«La muerte del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons.",
+                "ca": "«La mort del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En Amérique, les deux pays se battent avec l'aide de leurs alliés autochtones — les Wendats et les Algonquins pour la France, les Haudenosaunee pour l'Angleterre.",
+            "es": "En América, los dos países luchan con la ayuda de sus aliados indígenas —los wendat y los algonquinos para Francia, los haudenosaunee para Inglaterra.",
+            "ca": "A Amèrica, els dos països lluiten amb l'ajuda dels seus aliats indígenes —els wendat i els algonquins per a França, els haudenosaunee per a Anglaterra."
+          },
+          {
+            "fr": "En 1759, le général anglais Wolfe attaque Québec, la capitale de la Nouvelle-France.",
+            "es": "En 1759, el general inglés Wolfe ataca Quebec, la capital de Nueva Francia.",
+            "ca": "El 1759, el general anglès Wolfe ataca Quebec, la capital de la Nova França."
+          },
+          {
+            "fr": "Le 13 septembre 1759, une grande bataille a lieu sur les plaines d'Abraham. Les Français, menés par Montcalm, perdent.",
+            "es": "El 13 de septiembre de 1759, se libra una gran batalla en las llanuras de Abraham. Los franceses, liderados por Montcalm, pierden.",
+            "ca": "El 13 de setembre de 1759, es lliura una gran batalla a les planes d'Abraham. Els francesos, liderats per Montcalm, perden."
+          },
+          {
+            "fr": "Wolfe et Montcalm meurent tous les deux. La Nouvelle-France devient anglaise.",
+            "es": "Wolfe y Montcalm mueren los dos. Nueva Francia se vuelve inglesa.",
+            "ca": "Wolfe i Montcalm moren tots dos. La Nova França esdevé anglesa."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1754, une rivalité coloniale ancienne entre la France et l'Angleterre dégénère en guerre mondiale : la guerre de Sept Ans. En Amérique du Nord, chaque empire compte sur ses alliances autochtones construites depuis plus d'un siècle.",
+            "es": "En 1754, una antigua rivalidad colonial entre Francia e Inglaterra degenera en una guerra mundial: la guerra de los Siete Años. En América del Norte, cada imperio cuenta con sus alianzas indígenas construidas durante más de un siglo.",
+            "ca": "El 1754, una antiga rivalitat colonial entre França i Anglaterra degenera en una guerra mundial: la guerra dels Set Anys. A Amèrica del Nord, cada imperi compta amb les seves aliances indígenes construïdes durant més d'un segle."
+          },
+          {
+            "h": {
+              "fr": "Québec assiégée",
+              "es": "Quebec sitiada",
+              "ca": "Quebec assetjada"
+            }
+          },
+          {
+            "fr": "En juin 1759, une flotte britannique de plus de 200 navires remonte le Saint-Laurent et commence le siège de Québec. Le général James Wolfe fait face au marquis de Montcalm, qui défend la ville avec des troupes régulières, des miliciens canadiens et des alliés autochtones.",
+            "es": "En junio de 1759, una flota británica de más de 200 barcos remonta el río San Lorenzo e inicia el sitio de Quebec. El general James Wolfe se enfrenta al marqués de Montcalm, que defiende la ciudad con tropas regulares, milicianos canadienses y aliados indígenas.",
+            "ca": "El juny del 1759, una flota britànica de més de 200 vaixells remunta el riu Sant Llorenç i inicia el setge de Quebec. El general James Wolfe s'enfronta al marquès de Montcalm, que defensa la ciutat amb tropes regulars, milicians canadencs i aliats indígenes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Benjamin_West_005.jpg",
+              "credit": {
+                "es": "«La muerte del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons.",
+                "ca": "«La mort del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La bataille des plaines d'Abraham",
+              "es": "La batalla de las llanuras de Abraham",
+              "ca": "La batalla de les planes d'Abraham"
+            }
+          },
+          {
+            "fr": "Dans la nuit du 12 au 13 septembre, les troupes anglaises escaladent en secret une falaise pour se positionner sur les plaines d'Abraham, juste à l'extérieur des murs de Québec. Montcalm, surpris, engage le combat sans attendre ses renforts.",
+            "es": "En la noche del 12 al 13 de septiembre, las tropas inglesas escalan en secreto un acantilado para posicionarse en las llanuras de Abraham, justo fuera de las murallas de Quebec. Montcalm, sorprendido, entabla combate sin esperar sus refuerzos.",
+            "ca": "La nit del 12 al 13 de setembre, les tropes angleses escalen en secret un penya-segat per posicionar-se a les planes d'Abraham, just fora de les muralles de Quebec. Montcalm, sorprès, entaula combat sense esperar els seus reforços."
+          },
+          {
+            "fr": "La bataille dure moins d'une heure et se termine par une défaite française. Wolfe et Montcalm meurent tous les deux de leurs blessures. Québec capitule le 18 septembre, et en 1763, le traité de Paris cède toute la Nouvelle-France à l'Angleterre.",
+            "es": "La batalla dura menos de una hora y termina con una derrota francesa. Wolfe y Montcalm mueren ambos de sus heridas. Quebec capitula el 18 de septiembre, y en 1763, el tratado de París cede toda Nueva Francia a Inglaterra.",
+            "ca": "La batalla dura menys d'una hora i acaba amb una derrota francesa. Wolfe i Montcalm moren tots dos de les seves ferides. Quebec capitula el 18 de setembre, i el 1763, el tractat de París cedeix tota la Nova França a Anglaterra."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "La guerre de Sept Ans (1756-1763), souvent qualifiée de premier conflit véritablement mondial, oppose la France et l'Angleterre sur plusieurs continents. En Amérique du Nord — où le conflit commence dès 1754 —, l'issue dépend en grande partie des systèmes d'alliances autochtones que chaque empire a patiemment construits depuis plus d'un siècle : les Wendats, les Innus et les Algonquins pour la France, les Haudenosaunee pour l'Angleterre.",
+            "es": "La guerra de los Siete Años (1756-1763), a menudo calificada como el primer conflicto verdaderamente mundial, enfrenta a Francia e Inglaterra en varios continentes. En América del Norte —donde el conflicto comienza ya en 1754—, el desenlace depende en gran parte de los sistemas de alianzas indígenas que cada imperio ha construido pacientemente durante más de un siglo: los wendat, los innu y los algonquinos para Francia, los haudenosaunee para Inglaterra.",
+            "ca": "La guerra dels Set Anys (1756-1763), sovint qualificada com el primer conflicte veritablement mundial, enfronta França i Anglaterra en diversos continents. A Amèrica del Nord —on el conflicte comença ja el 1754—, el desenllaç depèn en gran part dels sistemes d'aliances indígenes que cada imperi ha construït pacientment durant més d'un segle: els wendat, els innu i els algonquins per a França, els haudenosaunee per a Anglaterra."
+          },
+          {
+            "h": {
+              "fr": "Québec assiégée",
+              "es": "Quebec sitiada",
+              "ca": "Quebec assetjada"
+            }
+          },
+          {
+            "fr": "Après la chute de Louisbourg en 1758, Québec devient la cible prioritaire des Britanniques. En juin 1759, une flotte de près de 250 navires transportant environ 8 500 soldats sous le commandement du général James Wolfe remonte le Saint-Laurent. Le marquis de Montcalm défend la ville avec des troupes régulières, des miliciens canadiens et des alliés autochtones, mais dispose de vivres limités et de renforts dispersés jusqu'à Trois-Rivières.",
+            "es": "Tras la caída de Louisbourg en 1758, Quebec se convierte en el objetivo prioritario de los británicos. En junio de 1759, una flota de casi 250 barcos que transporta unos 8500 soldados bajo el mando del general James Wolfe remonta el San Lorenzo. El marqués de Montcalm defiende la ciudad con tropas regulares, milicianos canadienses y aliados indígenas, pero dispone de víveres limitados y refuerzos dispersos hasta Trois-Rivières.",
+            "ca": "Després de la caiguda de Louisbourg el 1758, Quebec esdevé l'objectiu prioritari dels britànics. El juny del 1759, una flota de gairebé 250 vaixells que transporta uns 8.500 soldats sota el comandament del general James Wolfe remunta el Sant Llorenç. El marquès de Montcalm defensa la ciutat amb tropes regulars, milicians canadencs i aliats indígenes, però disposa de queviures limitats i reforços dispersos fins a Trois-Rivières."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Benjamin_West_005.jpg",
+              "credit": {
+                "es": "«La muerte del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons.",
+                "ca": "«La mort del general Wolfe», Benjamin West, 1770 (National Gallery of Canada) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La bataille des plaines d'Abraham",
+              "es": "La batalla de las llanuras de Abraham",
+              "ca": "La batalla de les planes d'Abraham"
+            }
+          },
+          {
+            "fr": "Après deux mois de siège et un échec britannique à Montmorency, Wolfe repère un sentier escarpé à l'Anse-au-Foulon. Dans la nuit du 12 au 13 septembre, environ 4 500 soldats anglais escaladent la falaise dans le plus grand secret et se positionnent sur les plaines d'Abraham à l'aube.",
+            "es": "Tras dos meses de sitio y un fracaso británico en Montmorency, Wolfe descubre un sendero escarpado en l'Anse-au-Foulon. En la noche del 12 al 13 de septiembre, unos 4500 soldados ingleses escalan el acantilado en el mayor secreto y se posicionan en las llanuras de Abraham al amanecer.",
+            "ca": "Després de dos mesos de setge i un fracàs britànic a Montmorency, Wolfe descobreix un sender escarpat a l'Anse-au-Foulon. La nit del 12 al 13 de setembre, uns 4.500 soldats anglesos escalen el penya-segat en el màxim secret i es posicionen a les planes d'Abraham a l'alba."
+          },
+          {
+            "fr": "Surpris, Montcalm choisit d'engager le combat immédiatement plutôt que d'attendre les renforts du chevalier de Bougainville, qui n'arriveront que quelques heures trop tard. La bataille dure moins d'une heure et se solde par une déroute française ; Wolfe est tué sur le champ de bataille, Montcalm meurt de ses blessures le lendemain.",
+            "es": "Sorprendido, Montcalm elige entablar combate de inmediato en lugar de esperar los refuerzos del caballero de Bougainville, que llegarán solo unas horas demasiado tarde. La batalla dura menos de una hora y termina en una derrota francesa; Wolfe muere en el campo de batalla, Montcalm muere de sus heridas al día siguiente.",
+            "ca": "Sorprès, Montcalm tria entaular combat immediatament en lloc d'esperar els reforços del cavaller de Bougainville, que arribaran només unes hores massa tard. La batalla dura menys d'una hora i acaba en desfeta francesa; Wolfe mor al camp de batalla, Montcalm mor de les seves ferides l'endemà."
+          },
+          {
+            "h": {
+              "fr": "La fin d'un monde",
+              "es": "El fin de un mundo",
+              "ca": "La fi d'un món"
+            }
+          },
+          {
+            "fr": "Québec capitule le 18 septembre 1759, et malgré une tentative française de reprendre la ville l'année suivante, le traité de Paris de 1763 cède l'ensemble de la Nouvelle-France à l'Angleterre. Pour les nations autochtones alliées de la France, cette défaite signifie la perte d'un partenaire diplomatique essentiel — un basculement qui déclenchera, dès la même année, la résistance armée menée par Pontiac dans la région des Grands Lacs.",
+            "es": "Quebec capitula el 18 de septiembre de 1759, y pese a un intento francés de recuperar la ciudad al año siguiente, el tratado de París de 1763 cede toda Nueva Francia a Inglaterra. Para las naciones indígenas aliadas de Francia, esta derrota significa la pérdida de un socio diplomático esencial —un vuelco que desencadenará, ese mismo año, la resistencia armada liderada por Pontiac en la región de los Grandes Lagos.",
+            "ca": "Quebec capitula el 18 de setembre del 1759, i malgrat un intent francès de recuperar la ciutat l'any següent, el tractat de París del 1763 cedeix tota la Nova França a Anglaterra. Per a les nacions indígenes aliades de França, aquesta derrota significa la pèrdua d'un soci diplomàtic essencial —un tomb que desencadenarà, aquell mateix any, la resistència armada liderada per Pontiac a la regió dels Grans Llacs."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un siège",
+          "es": "un sitio",
+          "ca": "un setge"
+        },
+        {
+          "mot": "une falaise",
+          "es": "un acantilado",
+          "ca": "un penya-segat"
+        },
+        {
+          "mot": "des renforts",
+          "es": "refuerzos",
+          "ca": "reforços"
+        },
+        {
+          "mot": "une déroute",
+          "es": "una derrota / desbandada",
+          "ca": "una desfeta"
+        },
+        {
+          "mot": "capituler",
+          "es": "capitular",
+          "ca": "capitular"
+        },
+        {
+          "mot": "un basculement",
+          "es": "un vuelco",
+          "ca": "un tomb"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cómo se llama la guerra mundial que empieza en 1754 en América del Norte?",
+            "ca": "Com es diu la guerra mundial que comença el 1754 a Amèrica del Nord?"
+          },
+          "piste": {
+            "es": "la guerra de los Siete Años",
+            "ca": "la guerra dels Set Anys"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué generales se enfrentan en Quebec en 1759?",
+            "ca": "Quins generals s'enfronten a Quebec el 1759?"
+          },
+          "piste": {
+            "es": "James Wolfe y el marqués de Montcalm",
+            "ca": "James Wolfe i el marquès de Montcalm"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó la noche del 12 al 13 de septiembre de 1759?",
+            "ca": "Què va passar la nit del 12 al 13 de setembre de 1759?"
+          },
+          "piste": {
+            "es": "los soldados ingleses escalaron un acantilado en secreto",
+            "ca": "els soldats anglesos van escalar un penya-segat en secret"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué tratado cede Nueva Francia a Inglaterra, y en qué año?",
+            "ca": "Quin tractat cedeix la Nova França a Anglaterra, i en quin any?"
+          },
+          "piste": {
+            "es": "el tratado de París, en 1763",
+            "ca": "el tractat de París, el 1763"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipédia — Siège de Québec (1759)",
+          "url": "https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Qu%C3%A9bec_(1759)"
+        },
+        {
+          "titre": "Wikipedia — Battle of the Plains of Abraham",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
+        }
+      ]
+    }
+  ]
+}

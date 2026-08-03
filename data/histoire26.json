@@ -1,0 +1,245 @@
+{
+  "textes": [
+    {
+      "id": "arrivee_anglais",
+      "emoji": "🏴",
+      "theme": "Histoire",
+      "periode": "1607 à 1621",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocahontas%20by%20Simon%20van%20de%20Passe%20(1616).png?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Pocahontas_by_Simon_van_de_Passe_(1616).png",
+        "credit": {
+          "es": "Grabado de Pocahontas por Simon van de Passe, 1616 — Wikimedia Commons.",
+          "ca": "Gravat de Pocahontas per Simon van de Passe, 1616 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La llegada de los ingleses a América",
+        "ca": "L'arribada dels anglesos a Amèrica"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1607, des Anglais arrivent en Virginie et fondent Jamestown, leur première colonie.",
+            "es": "En 1607, unos ingleses llegan a Virginia y fundan Jamestown, su primera colonia.",
+            "ca": "El 1607, uns anglesos arriben a Virgínia i funden Jamestown, la seva primera colònia."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocahontas%20by%20Simon%20van%20de%20Passe%20(1616).png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Pocahontas_by_Simon_van_de_Passe_(1616).png",
+              "credit": {
+                "es": "Grabado de Pocahontas por Simon van de Passe, 1616 — Wikimedia Commons.",
+                "ca": "Gravat de Pocahontas per Simon van de Passe, 1616 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Près de là vit le peuple Powhatan, dirigé par le chef Powhatan. Sa fille s'appelle Pocahontas.",
+            "es": "Cerca de allí vive el pueblo powhatan, dirigido por el jefe Powhatan. Su hija se llama Pocahontas.",
+            "ca": "A prop d'allà viu el poble powhatan, dirigit pel cap Powhatan. La seva filla es diu Pocahontas."
+          },
+          {
+            "fr": "En 1620, un autre groupe d'Anglais, les Pèlerins, arrive à Plymouth, plus au nord.",
+            "es": "En 1620, otro grupo de ingleses, los peregrinos, llega a Plymouth, más al norte.",
+            "ca": "El 1620, un altre grup d'anglesos, els pelegrins, arriba a Plymouth, més al nord."
+          },
+          {
+            "fr": "Les Pèlerins rencontrent Squanto, un homme Wampanoag qui parle anglais. Il leur apprend à cultiver le maïs.",
+            "es": "Los peregrinos conocen a Squanto, un hombre wampanoag que habla inglés. Él les enseña a cultivar el maíz.",
+            "ca": "Els pelegrins coneixen Squanto, un home wampanoag que parla anglès. Ell els ensenya a conrear el blat de moro."
+          },
+          {
+            "fr": "Ensemble, ils célèbrent un grand repas : le premier « Thanksgiving ».",
+            "es": "Juntos celebran una gran comida: el primer «Thanksgiving».",
+            "ca": "Junts celebren un gran àpat: el primer «Thanksgiving»."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En mai 1607, environ 100 colons anglais débarquent sur la rivière James, en Virginie, et fondent Jamestown. Le premier hiver est terrible : la faim et les maladies tuent la majorité des colons.",
+            "es": "En mayo de 1607, unos 100 colonos ingleses desembarcan en el río James, en Virginia, y fundan Jamestown. El primer invierno es terrible: el hambre y las enfermedades matan a la mayoría de los colonos.",
+            "ca": "El maig de 1607, uns 100 colons anglesos desembarquen al riu James, a Virgínia, i funden Jamestown. El primer hivern és terrible: la fam i les malalties maten la majoria dels colons."
+          },
+          {
+            "h": {
+              "fr": "Pocahontas et John Smith",
+              "es": "Pocahontas y John Smith",
+              "ca": "Pocahontas i John Smith"
+            }
+          },
+          {
+            "fr": "Les colons dépendent des Powhatans, une confédération de nations dirigée par le chef Powhatan, pour survivre. Selon une légende célèbre, sa fille Pocahontas aurait sauvé la vie du capitaine John Smith.",
+            "es": "Los colonos dependen de los powhatan, una confederación de naciones dirigida por el jefe Powhatan, para sobrevivir. Según una leyenda famosa, su hija Pocahontas habría salvado la vida del capitán John Smith.",
+            "ca": "Els colons depenen dels powhatan, una confederació de nacions dirigida pel cap Powhatan, per sobreviure. Segons una llegenda famosa, la seva filla Pocahontas hauria salvat la vida del capità John Smith."
+          },
+          {
+            "fr": "Plus tard, elle épouse un colon, John Rolfe, ce qui apporte une paix temporaire.",
+            "es": "Más tarde, ella se casa con un colono, John Rolfe, lo que trae una paz temporal.",
+            "ca": "Més tard, ella es casa amb un colon, John Rolfe, cosa que porta una pau temporal."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocahontas%20by%20Simon%20van%20de%20Passe%20(1616).png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Pocahontas_by_Simon_van_de_Passe_(1616).png",
+              "credit": {
+                "es": "Grabado de Pocahontas por Simon van de Passe, 1616 — Wikimedia Commons.",
+                "ca": "Gravat de Pocahontas per Simon van de Passe, 1616 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1620, un second groupe, les Pèlerins, fonde Plymouth au Massachusetts. Ils survivent grâce à Squanto, un Wampanoag qui avait appris l'anglais et qui leur enseigne à pêcher et à cultiver le maïs.",
+            "es": "En 1620, un segundo grupo, los peregrinos, funda Plymouth en Massachusetts. Sobreviven gracias a Squanto, un wampanoag que había aprendido inglés y que les enseña a pescar y a cultivar el maíz.",
+            "ca": "El 1620, un segon grup, els pelegrins, funda Plymouth a Massachusetts. Sobreviuen gràcies a Squanto, un wampanoag que havia après anglès i que els ensenya a pescar i a conrear el blat de moro."
+          },
+          {
+            "fr": "En 1621, colons et Wampanoags partagent un festin de trois jours pour célébrer la récolte : c'est l'origine du Thanksgiving. Mais la paix ne dure pas : les colonies anglaises grandissent vite et prennent de plus en plus de terres.",
+            "es": "En 1621, colonos y wampanoag comparten un banquete de tres días para celebrar la cosecha: es el origen del Thanksgiving. Pero la paz no dura: las colonias inglesas crecen rápido y ocupan cada vez más tierras.",
+            "ca": "El 1621, colons i wampanoag comparteixen un banquet de tres dies per celebrar la collita: és l'origen del Thanksgiving. Però la pau no dura: les colònies angleses creixen ràpid i ocupen cada cop més terres."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "En mai 1607, une centaine de colons anglais fondent Jamestown, en Virginie — la première colonie anglaise permanente en Amérique. Le site, marécageux et isolé, se révèle catastrophique : durant l'hiver 1609-1610, appelé la « période de la famine », près de 80 % des colons meurent de faim ou de maladie.",
+            "es": "En mayo de 1607, un centenar de colonos ingleses funda Jamestown, en Virginia — la primera colonia inglesa permanente en América. El emplazamiento, pantanoso y aislado, resulta catastrófico: durante el invierno de 1609-1610, llamado el «periodo de hambruna», cerca del 80 % de los colonos muere de hambre o enfermedad.",
+            "ca": "El maig de 1607, un centenar de colons anglesos funda Jamestown, a Virgínia — la primera colònia anglesa permanent a Amèrica. L'emplaçament, pantanós i aïllat, resulta catastròfic: durant l'hivern de 1609-1610, anomenat el «període de la fam», prop del 80 % dels colons mor de fam o de malaltia."
+          },
+          {
+            "h": {
+              "fr": "Une confédération puissante",
+              "es": "Una confederación poderosa",
+              "ca": "Una confederació poderosa"
+            }
+          },
+          {
+            "fr": "Les Anglais s'installent en réalité au cœur du territoire de la confédération powhatane, un réseau d'une trentaine de nations algonquiennes dirigé par le chef Wahunsenacawh (« Powhatan »). Sans l'aide alimentaire de ce peuple, la colonie n'aurait probablement pas survécu.",
+            "es": "Los ingleses se instalan en realidad en el corazón del territorio de la confederación powhatan, una red de una treintena de naciones algonquinas dirigida por el jefe Wahunsenacawh («Powhatan»). Sin la ayuda alimentaria de este pueblo, la colonia probablemente no habría sobrevivido.",
+            "ca": "Els anglesos s'instal·len en realitat al cor del territori de la confederació powhatan, una xarxa d'una trentena de nacions algonquines dirigida pel cap Wahunsenacawh («Powhatan»). Sense l'ajuda alimentària d'aquest poble, la colònia probablement no hauria sobreviscut."
+          },
+          {
+            "fr": "Sa fille, Pocahontas, devient une figure centrale des relations anglo-powhatanes : capturée en 1613, elle épouse ensuite le planteur John Rolfe, un mariage qui apporte plusieurs années de paix relative.",
+            "es": "Su hija, Pocahontas, se convierte en una figura central de las relaciones angloindias: capturada en 1613, se casa después con el plantador John Rolfe, un matrimonio que trae varios años de paz relativa.",
+            "ca": "La seva filla, Pocahontas, esdevé una figura central de les relacions angloindígenes: capturada el 1613, es casa després amb el plantador John Rolfe, un matrimoni que porta diversos anys de pau relativa."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pocahontas%20by%20Simon%20van%20de%20Passe%20(1616).png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Pocahontas_by_Simon_van_de_Passe_(1616).png",
+              "credit": {
+                "es": "Grabado de Pocahontas por Simon van de Passe, 1616 — Wikimedia Commons.",
+                "ca": "Gravat de Pocahontas per Simon van de Passe, 1616 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Plymouth et Squanto",
+              "es": "Plymouth y Squanto",
+              "ca": "Plymouth i Squanto"
+            }
+          },
+          {
+            "fr": "En 1620, un groupe de séparatistes religieux, les « Pèlerins », débarque plus au nord et fonde Plymouth. Ils y trouvent un allié inattendu : Tisquantum, dit Squanto, un homme du peuple wampanoag qui avait été capturé, emmené en Europe comme esclave, puis était rentré chez lui en parlant anglais.",
+            "es": "En 1620, un grupo de separatistas religiosos, los «peregrinos», desembarca más al norte y funda Plymouth. Allí encuentran un aliado inesperado: Tisquantum, llamado Squanto, un hombre del pueblo wampanoag que había sido capturado, llevado a Europa como esclavo, y luego había regresado a casa hablando inglés.",
+            "ca": "El 1620, un grup de separatistes religiosos, els «pelegrins», desembarca més al nord i funda Plymouth. Allà troben un aliat inesperat: Tisquantum, dit Squanto, un home del poble wampanoag que havia estat capturat, portat a Europa com a esclau, i després havia tornat a casa parlant anglès."
+          },
+          {
+            "fr": "Il leur enseigne à cultiver le maïs et à pêcher, ce qui leur permet de survivre.",
+            "es": "Les enseña a cultivar maíz y a pescar, lo que les permite sobrevivir.",
+            "ca": "Els ensenya a conrear blat de moro i a pescar, cosa que els permet sobreviure."
+          },
+          {
+            "fr": "En 1621, colons et Wampanoags, menés par le sachem Massasoit, partagent un festin de trois jours resté dans la mémoire américaine comme le premier « Thanksgiving ». Cette entente reste toutefois fragile : dans les décennies suivantes, l'expansion rapide des colonies anglaises et la pression sur les terres mènent à des guerres, notamment la guerre du roi Philip en 1675.",
+            "es": "En 1621, colonos y wampanoag, liderados por el sachem Massasoit, comparten un banquete de tres días que ha quedado en la memoria estadounidense como el primer «Thanksgiving». Sin embargo, ese entendimiento sigue siendo frágil: en las décadas siguientes, la rápida expansión de las colonias inglesas y la presión sobre las tierras llevan a guerras, en particular la guerra del rey Felipe en 1675.",
+            "ca": "El 1621, colons i wampanoag, liderats pel sàquem Massasoit, comparteixen un banquet de tres dies que ha quedat en la memòria nord-americana com el primer «Thanksgiving». Tot i això, aquest enteniment continua sent fràgil: en les dècades següents, la ràpida expansió de les colònies angleses i la pressió sobre les terres porten a guerres, especialment la guerra del rei Felip el 1675."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un colon",
+          "es": "un colono",
+          "ca": "un colon"
+        },
+        {
+          "mot": "une confédération",
+          "es": "una confederación",
+          "ca": "una confederació"
+        },
+        {
+          "mot": "une récolte",
+          "es": "una cosecha",
+          "ca": "una collita"
+        },
+        {
+          "mot": "un allié",
+          "es": "un aliado",
+          "ca": "un aliat"
+        },
+        {
+          "mot": "une famine",
+          "es": "una hambruna",
+          "ca": "una fam"
+        },
+        {
+          "mot": "un traité",
+          "es": "un tratado",
+          "ca": "un tractat"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué actual estado de EE. UU. se fundó Jamestown?",
+            "ca": "En quin estat actual dels EUA es va fundar Jamestown?"
+          },
+          "piste": {
+            "es": "Virginia",
+            "ca": "Virgínia"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién ayudó a los peregrinos a sobrevivir en Plymouth?",
+            "ca": "Qui va ajudar els pelegrins a sobreviure a Plymouth?"
+          },
+          "piste": {
+            "es": "Squanto (Tisquantum)",
+            "ca": "Squanto (Tisquantum)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué evento de 1621 se ha vuelto célebre?",
+            "ca": "Quin esdeveniment de 1621 s'ha fet cèlebre?"
+          },
+          "piste": {
+            "es": "el primer Thanksgiving",
+            "ca": "el primer Thanksgiving"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué trajo el matrimonio de Pocahontas con John Rolfe?",
+            "ca": "Què va portar el matrimoni de Pocahontas amb John Rolfe?"
+          },
+          "piste": {
+            "es": "una paz temporal",
+            "ca": "una pau temporal"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Encyclopedia Virginia — Pocahontas",
+          "url": "https://encyclopediavirginia.org/entries/pocahontas-d-1617/"
+        },
+        {
+          "titre": "Britannica — Pocahontas",
+          "url": "https://www.britannica.com/biography/Pocahontas-Powhatan-princess"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "textes": [
+    {
+      "id": "acadiens_mikmaq_derangement",
+      "emoji": "🌊",
+      "theme": "Histoire",
+      "periode": "1604 à 1764",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deportation%20of%20Acadians%20order%2C%20painting%20by%20Jefferys.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Deportation_of_Acadians_order,_painting_by_Jefferys.jpg",
+        "credit": {
+          "es": "El coronel Winslow lee la orden de deportación a los acadianos, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons.",
+          "ca": "El coronel Winslow llegeix l'ordre de deportació als acadians, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Los acadianos y los mi'kmaq: una alianza hasta la deportación",
+        "ca": "Els acadians i els mi'kmaq: una aliança fins a la deportació"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1604, des Français fondent Port-Royal, en Acadie (aujourd'hui la Nouvelle-Écosse). Ce sont les premiers Acadiens.",
+            "es": "En 1604, unos franceses fundan Port-Royal, en Acadia (hoy Nueva Escocia). Son los primeros acadianos.",
+            "ca": "El 1604, uns francesos funden Port-Royal, a l'Acàdia (avui Nova Escòcia). Són els primers acadians."
+          },
+          {
+            "fr": "Les Acadiens deviennent très proches des Mi'kmaq, le peuple autochtone de la région. Ils se marient et s'entraident.",
+            "es": "Los acadianos se hacen muy cercanos a los mi'kmaq, el pueblo indígena de la región. Se casan entre ellos y se ayudan.",
+            "ca": "Els acadians es fan molt propers als mi'kmaq, el poble indígena de la regió. Es casen entre ells i s'ajuden."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deportation%20of%20Acadians%20order%2C%20painting%20by%20Jefferys.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Deportation_of_Acadians_order,_painting_by_Jefferys.jpg",
+              "credit": {
+                "es": "El coronel Winslow lee la orden de deportación a los acadianos, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons.",
+                "ca": "El coronel Winslow llegeix l'ordre de deportació als acadians, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1713, l'Acadie devient anglaise. Mais les Acadiens refusent de devenir vraiment loyaux à l'Angleterre.",
+            "es": "En 1713, Acadia se vuelve inglesa. Pero los acadianos se niegan a ser realmente leales a Inglaterra.",
+            "ca": "El 1713, l'Acàdia esdevé anglesa. Però els acadians es neguen a ser realment lleials a Anglaterra."
+          },
+          {
+            "fr": "En 1755, les Anglais déportent presque tous les Acadiens. C'est le « Grand Dérangement ».",
+            "es": "En 1755, los ingleses deportan a casi todos los acadianos. Es el «Gran Trastorno» (Grand Dérangement).",
+            "ca": "El 1755, els anglesos deporten gairebé tots els acadians. És el «Gran Trasbals» (Grand Dérangement)."
+          },
+          {
+            "fr": "Certains Acadiens se cachent dans les bois, aidés par leurs amis mi'kmaq. Beaucoup d'autres finissent en Louisiane : ce sont les ancêtres des Cadiens.",
+            "es": "Algunos acadianos se esconden en los bosques, ayudados por sus amigos mi'kmaq. Muchos otros terminan en Luisiana: son los antepasados de los cadianos.",
+            "ca": "Alguns acadians s'amaguen als boscos, ajudats pels seus amics mi'kmaq. Molts d'altres acaben a Louisiana: són els avantpassats dels cadians."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1604, des colons français fondent Port-Royal, premier établissement permanent de l'Acadie, dans l'actuelle Nouvelle-Écosse. Contrairement à la Nouvelle-France plus au nord, l'Acadie reçoit peu d'aide de Paris, et les colons se rapprochent très vite des Mi'kmaq.",
+            "es": "En 1604, unos colonos franceses fundan Port-Royal, primer asentamiento permanente de Acadia, en la actual Nueva Escocia. A diferencia de Nueva Francia más al norte, Acadia recibe poca ayuda de París, y los colonos se acercan muy rápido a los mi'kmaq.",
+            "ca": "El 1604, uns colons francesos funden Port-Royal, primer establiment permanent de l'Acàdia, a l'actual Nova Escòcia. A diferència de la Nova França més al nord, l'Acàdia rep poca ajuda de París, i els colons s'apropen molt ràpid als mi'kmaq."
+          },
+          {
+            "h": {
+              "fr": "Une alliance intime",
+              "es": "Una alianza íntima",
+              "ca": "Una aliança íntima"
+            }
+          },
+          {
+            "fr": "Les mariages mixtes sont fréquents, et les deux peuples partagent territoire, techniques agricoles et parfois combats militaires contre les colonies anglaises voisines. Les Mi'kmaq font partie de la Confédération wabanaki, alliée de longue date à la France.",
+            "es": "Los matrimonios mixtos son frecuentes, y los dos pueblos comparten territorio, técnicas agrícolas y a veces combates militares contra las colonias inglesas vecinas. Los mi'kmaq forman parte de la Confederación wabanaki, aliada desde hace mucho tiempo de Francia.",
+            "ca": "Els matrimonis mixtos són freqüents, i els dos pobles comparteixen territori, tècniques agrícoles i de vegades combats militars contra les colònies angleses veïnes. Els mi'kmaq formen part de la Confederació wabanaki, aliada de fa molt temps de França."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deportation%20of%20Acadians%20order%2C%20painting%20by%20Jefferys.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Deportation_of_Acadians_order,_painting_by_Jefferys.jpg",
+              "credit": {
+                "es": "El coronel Winslow lee la orden de deportación a los acadianos, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons.",
+                "ca": "El coronel Winslow llegeix l'ordre de deportació als acadians, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le Grand Dérangement",
+              "es": "El Gran Trastorno",
+              "ca": "El Gran Trasbals"
+            }
+          },
+          {
+            "fr": "En 1713, le traité d'Utrecht cède l'Acadie à l'Angleterre, mais les Acadiens refusent de prêter un serment de loyauté inconditionnel, craignant d'avoir à combattre la France ou leurs alliés mi'kmaq. En 1755, les autorités britanniques décident de les déporter en masse.",
+            "es": "En 1713, el tratado de Utrecht cede Acadia a Inglaterra, pero los acadianos se niegan a prestar un juramento de lealtad incondicional, temiendo tener que combatir a Francia o a sus aliados mi'kmaq. En 1755, las autoridades británicas deciden deportarlos en masa.",
+            "ca": "El 1713, el tractat d'Utrecht cedeix l'Acàdia a Anglaterra, però els acadians es neguen a prestar un jurament de lleialtat incondicional, tement haver de combatre França o els seus aliats mi'kmaq. El 1755, les autoritats britàniques decideixen deportar-los en massa."
+          },
+          {
+            "fr": "Plus de 11 000 Acadiens sont expulsés de leurs terres et dispersés sur des bateaux vers les colonies britanniques ; près de 5 000 meurent de maladie, de faim ou de naufrage. Certains résistent avec l'aide de combattants mi'kmaq, mais beaucoup d'exilés finissent par s'installer en Louisiane, où naît la culture cadienne (« cajun »).",
+            "es": "Más de 11.000 acadianos son expulsados de sus tierras y dispersados en barcos hacia las colonias británicas; cerca de 5.000 mueren de enfermedad, hambre o naufragio. Algunos resisten con la ayuda de combatientes mi'kmaq, pero muchos exiliados terminan instalándose en Luisiana, donde nace la cultura cadiana («cajún»).",
+            "ca": "Més d'11.000 acadians són expulsats de les seves terres i dispersats en vaixells cap a les colònies britàniques; prop de 5.000 moren de malaltia, fam o naufragi. Alguns resisteixen amb l'ajuda de combatents mi'kmaq, però molts exiliats acaben instal·lant-se a Louisiana, on neix la cultura cadiana («cajun»)."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Fondée en 1604 à Port-Royal, l'Acadie se développe très différemment de la Nouvelle-France laurentienne : peu soutenue par Paris, la petite colonie construit des digues pour cultiver les terres humides de la baie de Fundy et tisse, dès les premières décennies, des liens exceptionnellement étroits avec les Mi'kmaq, membres de la Confédération wabanaki.",
+            "es": "Fundada en 1604 en Port-Royal, Acadia se desarrolla de manera muy distinta a la Nueva Francia laurenciana: poco apoyada por París, la pequeña colonia construye diques para cultivar las tierras húmedas de la bahía de Fundy y teje, desde las primeras décadas, vínculos excepcionalmente estrechos con los mi'kmaq, miembros de la Confederación wabanaki.",
+            "ca": "Fundada el 1604 a Port-Royal, l'Acàdia es desenvolupa de manera molt diferent de la Nova França laurenciana: poc recolzada per París, la petita colònia construeix dics per conrear les terres humides de la badia de Fundy i teixeix, des de les primeres dècades, vincles excepcionalment estrets amb els mi'kmaq, membres de la Confederació wabanaki."
+          },
+          {
+            "h": {
+              "fr": "Une alliance intime",
+              "es": "Una alianza íntima",
+              "ca": "Una aliança íntima"
+            }
+          },
+          {
+            "fr": "Mariages mixtes, partage territorial, apprentissages agricoles réciproques : la relation dépasse largement le simple partenariat commercial observé ailleurs en Nouvelle-France. Cette proximité s'accompagne d'une solidarité militaire : Mi'kmaq et Acadiens combattent parfois ensemble contre l'expansion des colonies anglaises voisines de la Nouvelle-Angleterre.",
+            "es": "Matrimonios mixtos, reparto territorial, aprendizajes agrícolas recíprocos: la relación supera ampliamente la simple asociación comercial observada en otros lugares de Nueva Francia. Esta cercanía se acompaña de una solidaridad militar: mi'kmaq y acadianos combaten a veces juntos contra la expansión de las colonias inglesas vecinas de Nueva Inglaterra.",
+            "ca": "Matrimonis mixtos, repartiment territorial, aprenentatges agrícoles recíprocs: la relació supera àmpliament la simple associació comercial observada en altres llocs de la Nova França. Aquesta proximitat s'acompanya d'una solidaritat militar: mi'kmaq i acadians combaten de vegades junts contra l'expansió de les colònies angleses veïnes de Nova Anglaterra."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deportation%20of%20Acadians%20order%2C%20painting%20by%20Jefferys.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Deportation_of_Acadians_order,_painting_by_Jefferys.jpg",
+              "credit": {
+                "es": "El coronel Winslow lee la orden de deportación a los acadianos, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons.",
+                "ca": "El coronel Winslow llegeix l'ordre de deportació als acadians, Grand-Pré, 1755. Pintura de C. W. Jefferys — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un serment refusé, une déportation programmée",
+              "es": "Un juramento rechazado, una deportación programada",
+              "ca": "Un jurament rebutjat, una deportació programada"
+            }
+          },
+          {
+            "fr": "En 1713, le traité d'Utrecht transfère l'Acadie à la couronne britannique, mais les Acadiens négocient le statut de « Français neutres » : ils refusent tout serment qui les obligerait à prendre les armes contre la France ou contre leurs alliés autochtones. Cette neutralité, tolérée pendant quarante ans, devient insupportable pour le gouverneur Charles Lawrence à l'approche de la guerre de Sept Ans.",
+            "es": "En 1713, el tratado de Utrecht transfiere Acadia a la corona británica, pero los acadianos negocian el estatuto de «franceses neutrales»: se niegan a cualquier juramento que los obligue a tomar las armas contra Francia o contra sus aliados indígenas. Esta neutralidad, tolerada durante cuarenta años, se vuelve insoportable para el gobernador Charles Lawrence al acercarse la guerra de los Siete Años.",
+            "ca": "El 1713, el tractat d'Utrecht transfereix l'Acàdia a la corona britànica, però els acadians negocien l'estatut de «francesos neutrals»: es neguen a qualsevol jurament que els obligui a agafar les armes contra França o contra els seus aliats indígenes. Aquesta neutralitat, tolerada durant quaranta anys, esdevé insuportable per al governador Charles Lawrence a l'acostar-se la guerra dels Set Anys."
+          },
+          {
+            "fr": "En septembre 1755, le colonel Winslow convoque les hommes de Grand-Pré dans leur église pour leur lire l'ordre d'expulsion. Plus de 11 000 Acadiens sont arrachés à leurs terres, entassés sur des navires et dispersés dans les colonies britanniques ; près de 5 000 meurent de maladie, de faim ou de naufrage durant l'exil.",
+            "es": "En septiembre de 1755, el coronel Winslow convoca a los hombres de Grand-Pré en su iglesia para leerles la orden de expulsión. Más de 11.000 acadianos son arrancados de sus tierras, hacinados en barcos y dispersados por las colonias británicas; cerca de 5.000 mueren de enfermedad, hambre o naufragio durante el exilio.",
+            "ca": "El setembre del 1755, el coronel Winslow convoca els homes de Grand-Pré a la seva església per llegir-los l'ordre d'expulsió. Més d'11.000 acadians són arrencats de les seves terres, amuntegats en vaixells i dispersats per les colònies britàniques; prop de 5.000 moren de malaltia, fam o naufragi durant l'exili."
+          },
+          {
+            "h": {
+              "fr": "Résistance et diaspora",
+              "es": "Resistencia y diáspora",
+              "ca": "Resistència i diàspora"
+            }
+          },
+          {
+            "fr": "La déportation ne se fait pas sans résistance : des combattants comme Joseph Broussard, dit Beausoleil, mènent une guérilla appuyée par des alliés mi'kmaq jusqu'en 1761, avant de se rendre puis de s'exiler en Louisiane. C'est de cette diaspora forcée que naît, loin de l'Acadie d'origine, la culture cadienne (« cajun ») encore vivante aujourd'hui.",
+            "es": "La deportación no se hace sin resistencia: combatientes como Joseph Broussard, llamado Beausoleil, dirigen una guerrilla apoyada por aliados mi'kmaq hasta 1761, antes de rendirse y luego exiliarse en Luisiana. Es de esta diáspora forzada que nace, lejos de la Acadia de origen, la cultura cadiana («cajún») todavía viva hoy.",
+            "ca": "La deportació no es fa sense resistència: combatents com Joseph Broussard, dit Beausoleil, dirigeixen una guerrilla recolzada per aliats mi'kmaq fins al 1761, abans de rendir-se i després exiliar-se a Louisiana. És d'aquesta diàspora forçada que neix, lluny de l'Acàdia d'origen, la cultura cadiana («cajun») encara viva avui."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une digue",
+          "es": "un dique",
+          "ca": "un dic"
+        },
+        {
+          "mot": "un serment de loyauté",
+          "es": "un juramento de lealtad",
+          "ca": "un jurament de lleialtat"
+        },
+        {
+          "mot": "neutre",
+          "es": "neutral",
+          "ca": "neutral"
+        },
+        {
+          "mot": "expulser / déporter",
+          "es": "expulsar / deportar",
+          "ca": "expulsar / deportar"
+        },
+        {
+          "mot": "un exil",
+          "es": "un exilio",
+          "ca": "un exili"
+        },
+        {
+          "mot": "une diaspora",
+          "es": "una diáspora",
+          "ca": "una diàspora"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Con qué pueblo indígena estaban muy unidos los acadianos?",
+            "ca": "Amb quin poble indígena estaven molt units els acadians?"
+          },
+          "piste": {
+            "es": "los mi'kmaq",
+            "ca": "els mi'kmaq"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué se negaron a hacer los acadianos tras 1713?",
+            "ca": "Què es van negar a fer els acadians després del 1713?"
+          },
+          "piste": {
+            "es": "prestar un juramento de lealtad incondicional a Inglaterra",
+            "ca": "prestar un jurament de lleialtat incondicional a Anglaterra"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó en 1755?",
+            "ca": "Què va passar el 1755?"
+          },
+          "piste": {
+            "es": "la deportación masiva de los acadianos (el Grand Dérangement)",
+            "ca": "la deportació massiva dels acadians (el Grand Dérangement)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Dónde se instalaron muchos acadianos exiliados, y qué cultura nació de eso?",
+            "ca": "On es van instal·lar molts acadians exiliats, i quina cultura en va néixer?"
+          },
+          "piste": {
+            "es": "en Luisiana; la cultura cadiana (cajún)",
+            "ca": "a Louisiana; la cultura cadiana (cajun)"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "The Canadian Encyclopedia — Acadian Expulsion (the Great Upheaval)",
+          "url": "https://thecanadianencyclopedia.ca/en/article/the-deportation-of-the-acadians-feature"
+        },
+        {
+          "titre": "TheCollector — The Acadian Expulsion of 1755",
+          "url": "https://www.thecollector.com/acadian-expulsion-1755-changed-north-america/"
+        }
+      ]
+    }
+  ]
+}

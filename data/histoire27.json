@@ -1,0 +1,256 @@
+{
+  "textes": [
+    {
+      "id": "arrivee_espagnols",
+      "emoji": "⛵",
+      "theme": "Histoire",
+      "periode": "1492 à 1533",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landing%20of%20Columbus%20(2).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+        "credit": {
+          "es": "El desembarco de Colón, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons.",
+          "ca": "El desembarcament de Colom, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La llegada de los españoles a América",
+        "ca": "L'arribada dels espanyols a Amèrica"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1492, Christophe Colomb arrive sur une île des Caraïbes. Il pense être en Asie, mais c'est l'Amérique.",
+            "es": "En 1492, Cristóbal Colón llega a una isla del Caribe. Cree estar en Asia, pero es América.",
+            "ca": "El 1492, Cristòfor Colom arriba a una illa del Carib. Creu que és a l'Àsia, però és Amèrica."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landing%20of%20Columbus%20(2).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+              "credit": {
+                "es": "El desembarco de Colón, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons.",
+                "ca": "El desembarcament de Colom, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Sur cette île vivent les Taïnos, un peuple pacifique de pêcheurs et d'agriculteurs.",
+            "es": "En esa isla viven los taínos, un pueblo pacífico de pescadores y agricultores.",
+            "ca": "En aquella illa viuen els taïnos, un poble pacífic de pescadors i agricultors."
+          },
+          {
+            "fr": "Colomb prend possession de l'île pour l'Espagne, sans demander la permission aux Taïnos.",
+            "es": "Colón toma posesión de la isla para España, sin pedir permiso a los taínos.",
+            "ca": "Colom pren possessió de l'illa per a Espanya, sense demanar permís als taïnos."
+          },
+          {
+            "fr": "Après 1492, beaucoup d'Espagnols arrivent. Ils apportent des maladies et la violence.",
+            "es": "Después de 1492, llegan muchos españoles. Traen enfermedades y violencia.",
+            "ca": "Després del 1492, arriben molts espanyols. Porten malalties i violència."
+          },
+          {
+            "fr": "En quelques dizaines d'années, presque tous les Taïnos meurent.",
+            "es": "En pocas décadas, casi todos los taínos mueren.",
+            "ca": "En poques dècades, gairebé tots els taïnos moren."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le 12 octobre 1492, Christophe Colomb débarque sur une petite île des Bahamas qu'il nomme San Salvador. Il croit avoir atteint l'Asie par l'ouest. Il y rencontre les Taïnos, qui l'accueillent pacifiquement et lui offrent des cadeaux.",
+            "es": "El 12 de octubre de 1492, Cristóbal Colón desembarca en una pequeña isla de las Bahamas que llama San Salvador. Cree haber llegado a Asia por el oeste. Allí conoce a los taínos, que lo reciben pacíficamente y le ofrecen regalos.",
+            "ca": "El 12 d'octubre de 1492, Cristòfor Colom desembarca en una petita illa de les Bahames que anomena San Salvador. Creu haver arribat a l'Àsia per l'oest. Allà coneix els taïnos, que el reben pacíficament i li ofereixen regals."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landing%20of%20Columbus%20(2).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+              "credit": {
+                "es": "El desembarco de Colón, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons.",
+                "ca": "El desembarcament de Colom, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "De la rencontre à la conquête",
+              "es": "Del encuentro a la conquista",
+              "ca": "De la trobada a la conquesta"
+            }
+          },
+          {
+            "fr": "Colomb décrit les Taïnos comme doux et sans armes — et note aussitôt qu'ils seraient faciles à soumettre. Il prend possession des îles au nom des rois d'Espagne, sans le consentement des habitants.",
+            "es": "Colón describe a los taínos como amables y sin armas —y anota enseguida que sería fácil someterlos. Toma posesión de las islas en nombre de los reyes de España, sin el consentimiento de los habitantes.",
+            "ca": "Colom descriu els taïnos com a amables i sense armes —i anota de seguida que seria fàcil sotmetre'ls. Pren possessió de les illes en nom dels reis d'Espanya, sense el consentiment dels habitants."
+          },
+          {
+            "fr": "Dans les décennies suivantes, les Espagnols étendent leur domination : Hernán Cortés conquiert l'empire aztèque (1519-1521) et Francisco Pizarro conquiert l'empire inca (1532-1533), souvent en s'alliant avec des peuples ennemis des Aztèques ou des Incas.",
+            "es": "En las décadas siguientes, los españoles extienden su dominio: Hernán Cortés conquista el imperio azteca (1519-1521) y Francisco Pizarro conquista el imperio inca (1532-1533), a menudo aliándose con pueblos enemigos de los aztecas o de los incas.",
+            "ca": "En les dècades següents, els espanyols estenen el seu domini: Hernán Cortés conquereix l'imperi asteca (1519-1521) i Francisco Pizarro conquereix l'imperi inca (1532-1533), sovint aliant-se amb pobles enemics dels asteques o dels inques."
+          },
+          {
+            "fr": "Le résultat est dévastateur : les maladies venues d'Europe, contre lesquelles les populations autochtones n'ont aucune défense, tuent bien plus de gens que les combats. Vers 1550, la population taïno des Caraïbes a presque disparu.",
+            "es": "El resultado es devastador: las enfermedades venidas de Europa, contra las que las poblaciones indígenas no tienen ninguna defensa, matan a mucha más gente que los combates. Hacia 1550, la población taína del Caribe casi ha desaparecido.",
+            "ca": "El resultat és devastador: les malalties vingudes d'Europa, contra les quals les poblacions indígenes no tenen cap defensa, maten molta més gent que els combats. Cap al 1550, la població taïna del Carib gairebé ha desaparegut."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le 12 octobre 1492, après plus de deux mois de traversée, Christophe Colomb débarque sur une île des Bahamas que les Taïnos appellent Guanahani et qu'il rebaptise San Salvador. Persuadé d'avoir atteint les Indes par l'ouest, il donne aux habitants le nom d'« Indiens », une erreur qui marquera durablement le vocabulaire.",
+            "es": "El 12 de octubre de 1492, tras más de dos meses de travesía, Cristóbal Colón desembarca en una isla de las Bahamas que los taínos llaman Guanahani y que él rebautiza San Salvador. Convencido de haber llegado a las Indias por el oeste, da a los habitantes el nombre de «indios», un error que marcará el vocabulario durante siglos.",
+            "ca": "El 12 d'octubre de 1492, després de més de dos mesos de travessia, Cristòfor Colom desembarca en una illa de les Bahames que els taïnos anomenen Guanahani i que ell rebateja San Salvador. Convençut d'haver arribat a les Índies per l'oest, dona als habitants el nom d'«indis», un error que marcarà el vocabulari durant segles."
+          },
+          {
+            "h": {
+              "fr": "Un premier contact déséquilibré",
+              "es": "Un primer contacto desequilibrado",
+              "ca": "Un primer contacte desequilibrat"
+            }
+          },
+          {
+            "fr": "Les Taïnos, agriculteurs et navigateurs habiles organisés en cacicats (chefferies), accueillent les Espagnols avec des cadeaux. Colomb note dans son journal leur absence d'armes de métal et leur générosité — une observation qui se transforme vite en argument pour justifier la domination plutôt que l'échange.",
+            "es": "Los taínos, agricultores y navegantes hábiles organizados en cacicazgos, reciben a los españoles con regalos. Colón anota en su diario la ausencia de armas de metal y su generosidad —una observación que pronto se convierte en argumento para justificar la dominación en lugar del intercambio.",
+            "ca": "Els taïnos, agricultors i navegants hàbils organitzats en cacicats, reben els espanyols amb regals. Colom anota al seu diari l'absència d'armes de metall i la seva generositat —una observació que aviat es converteix en argument per justificar la dominació en comptes de l'intercanvi."
+          },
+          {
+            "fr": "Il prend possession des terres « au nom de Leurs Altesses », sans jamais consulter les peuples qui y vivent.",
+            "es": "Toma posesión de las tierras «en nombre de Sus Altezas», sin consultar jamás a los pueblos que viven allí.",
+            "ca": "Pren possessió de les terres «en nom de Ses Alteses», sense consultar mai els pobles que hi viuen."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landing%20of%20Columbus%20(2).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg",
+              "credit": {
+                "es": "El desembarco de Colón, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons.",
+                "ca": "El desembarcament de Colom, pintura de John Vanderlyn (s. XIX) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "De Colomb aux empires conquis",
+              "es": "De Colón a los imperios conquistados",
+              "ca": "De Colom als imperis conquerits"
+            }
+          },
+          {
+            "fr": "Ce premier épisode caribéen n'est qu'un prélude. Une génération plus tard, Hernán Cortés renverse l'empire aztèque entre 1519 et 1521 en s'alliant à des nations rivales, comme les Tlaxcaltèques, hostiles à la domination de Tenochtitlan.",
+            "es": "Este primer episodio caribeño no es más que un preludio. Una generación después, Hernán Cortés derriba el imperio azteca entre 1519 y 1521 aliándose con naciones rivales, como los tlaxcaltecas, hostiles al dominio de Tenochtitlan.",
+            "ca": "Aquest primer episodi carib no és més que un preludi. Una generació més tard, Hernán Cortés enderroca l'imperi asteca entre el 1519 i el 1521 aliant-se amb nacions rivals, com els tlaxcaltecas, hostils al domini de Tenochtitlan."
+          },
+          {
+            "fr": "Peu après, Francisco Pizarro fait de même contre l'empire inca, profitant d'une guerre civile entre les frères Atahualpa et Huáscar pour s'emparer du pouvoir en 1532-1533.",
+            "es": "Poco después, Francisco Pizarro hace lo mismo contra el imperio inca, aprovechando una guerra civil entre los hermanos Atahualpa y Huáscar para apoderarse del poder en 1532-1533.",
+            "ca": "Poc després, Francisco Pizarro fa el mateix contra l'imperi inca, aprofitant una guerra civil entre els germans Atahualpa i Huáscar per apoderar-se del poder el 1532-1533."
+          },
+          {
+            "h": {
+              "fr": "Un effondrement démographique",
+              "es": "Un colapso demográfico",
+              "ca": "Un col·lapse demogràfic"
+            }
+          },
+          {
+            "fr": "Dans les deux cas, l'arme la plus dévastatrice n'est pas militaire mais biologique : variole, rougeole et grippe, contre lesquelles les populations américaines n'ont aucune immunité, déciment des sociétés entières.",
+            "es": "En ambos casos, el arma más devastadora no es militar sino biológica: viruela, sarampión y gripe, contra las que las poblaciones americanas no tienen ninguna inmunidad, diezman sociedades enteras.",
+            "ca": "En tots dos casos, l'arma més devastadora no és militar sinó biològica: verola, xarampió i grip, contra les quals les poblacions americanes no tenen cap immunitat, delmen societats senceres."
+          },
+          {
+            "fr": "Certains historiens estiment que jusqu'à 90 % de la population autochtone des Amériques a disparu au cours du premier siècle après 1492 — un effondrement démographique sans équivalent dans l'histoire humaine.",
+            "es": "Algunos historiadores estiman que hasta el 90 % de la población indígena de las Américas desapareció durante el primer siglo tras 1492 — un colapso demográfico sin equivalente en la historia humana.",
+            "ca": "Alguns historiadors estimen que fins al 90 % de la població indígena de les Amèriques va desaparèixer durant el primer segle després del 1492 — un col·lapse demogràfic sense equivalent en la història humana."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: el colapso demográfico indígena tras 1492 sigue siendo objeto de debate historiográfico sobre sus causas y magnitud exactas.",
+        "ca": "Tema sensible: el col·lapse demogràfic indígena després del 1492 continua sent objecte de debat historiogràfic sobre les seves causes i magnitud exactes."
+      },
+      "mots_cles": [
+        {
+          "mot": "un empire",
+          "es": "un imperio",
+          "ca": "un imperi"
+        },
+        {
+          "mot": "conquérir",
+          "es": "conquistar",
+          "ca": "conquerir"
+        },
+        {
+          "mot": "une maladie",
+          "es": "una enfermedad",
+          "ca": "una malaltia"
+        },
+        {
+          "mot": "une immunité",
+          "es": "una inmunidad",
+          "ca": "una immunitat"
+        },
+        {
+          "mot": "un(e) allié(e)",
+          "es": "un/a aliado/a",
+          "ca": "un/a aliat/ada"
+        },
+        {
+          "mot": "s'effondrer",
+          "es": "derrumbarse",
+          "ca": "ensorrar-se"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cómo se llama la isla donde desembarca Colón en 1492, y cómo la renombra?",
+            "ca": "Com es diu l'illa on desembarca Colom el 1492, i com la rebateja?"
+          },
+          "piste": {
+            "es": "Guanahani, la renombra San Salvador",
+            "ca": "Guanahani, la rebateja San Salvador"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pueblo recibe primero a Colón?",
+            "ca": "Quin poble rep primer Colom?"
+          },
+          "piste": {
+            "es": "los taínos",
+            "ca": "els taïnos"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién conquista el imperio azteca, y con qué estrategia?",
+            "ca": "Qui conquereix l'imperi asteca, i amb quina estratègia?"
+          },
+          "piste": {
+            "es": "Cortés, aliándose con enemigos de los aztecas",
+            "ca": "Cortés, aliant-se amb enemics dels asteques"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es la causa principal de la caída dramática de la población indígena?",
+            "ca": "Quina és la causa principal de la caiguda dramàtica de la població indígena?"
+          },
+          "piste": {
+            "es": "las enfermedades europeas",
+            "ca": "les malalties europees"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Library of Congress — Columbus and the Taino",
+          "url": "https://loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html"
+        },
+        {
+          "titre": "U.S. National Library of Medicine — Native Voices Timeline",
+          "url": "https://nlm.nih.gov/nativevoices/timeline/168.html"
+        }
+      ]
+    }
+  ]
+}

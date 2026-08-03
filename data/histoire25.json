@@ -1,0 +1,270 @@
+{
+  "textes": [
+    {
+      "id": "arrivee_francais",
+      "emoji": "⚜️",
+      "theme": "Histoire",
+      "periode": "1534 à 1608",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation%20de%20la%20ville%20de%20Quebec%20par%20Samuel%20de%20Champlain%20en%201608.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Samuel_de_Champlain_in_art",
+        "credit": {
+          "es": "Fundación de la ciudad de Quebec por Samuel de Champlain en 1608 — Wikimedia Commons.",
+          "ca": "Fundació de la ciutat de Quebec per Samuel de Champlain el 1608 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La llegada de los franceses a América",
+        "ca": "L'arribada dels francesos a Amèrica"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1534, un homme français, Jacques Cartier, arrive au Canada.",
+            "es": "En 1534, un francés, Jacques Cartier, llega a Canadá.",
+            "ca": "El 1534, un francès, Jacques Cartier, arriba al Canadà."
+          },
+          {
+            "fr": "Il rencontre les Iroquoiens de Stadaconé, près de Québec.",
+            "es": "Se encuentra con los iroqueses de Stadaconé, cerca de Quebec.",
+            "ca": "Es troba amb els iroquesos d'Stadaconé, a prop de Quebec."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation%20de%20la%20ville%20de%20Quebec%20par%20Samuel%20de%20Champlain%20en%201608.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Samuel_de_Champlain_in_art",
+              "credit": {
+                "es": "Fundación de la ciudad de Quebec por Samuel de Champlain en 1608 — Wikimedia Commons.",
+                "ca": "Fundació de la ciutat de Quebec per Samuel de Champlain el 1608 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1608, un autre Français, Samuel de Champlain, fonde la ville de Québec.",
+            "es": "En 1608, otro francés, Samuel de Champlain, funda la ciudad de Quebec.",
+            "ca": "El 1608, un altre francès, Samuel de Champlain, funda la ciutat de Quebec."
+          },
+          {
+            "fr": "Champlain devient ami avec les Wendats (Hurons) et les Innus.",
+            "es": "Champlain se hace amigo de los wendat (hurones) y de los innus.",
+            "ca": "Champlain es fa amic dels wendat (hurons) i dels innus."
+          },
+          {
+            "fr": "Ils font du commerce ensemble : des fourrures contre des outils.",
+            "es": "Comercian juntos: pieles a cambio de herramientas.",
+            "ca": "Comercien junts: pells a canvi d'eines."
+          },
+          {
+            "fr": "Mais les Français ont aussi des ennemis : les Haudenosaunee (Iroquois).",
+            "es": "Pero los franceses también tienen enemigos: los haudenosaunee (iroqueses).",
+            "ca": "Però els francesos també tenen enemics: els haudenosaunee (iroquesos)."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1534, Jacques Cartier arrive dans le golfe du Saint-Laurent. Il plante une croix à Gaspé et rencontre des Iroquoiens laurentiens, dirigés par le chef Donnacona.",
+            "es": "En 1534, Jacques Cartier llega al golfo de San Lorenzo. Planta una cruz en Gaspé y se encuentra con los iroqueses laurencianos, dirigidos por el jefe Donnacona.",
+            "ca": "El 1534, Jacques Cartier arriba al golf de Sant Llorenç. Planta una creu a Gaspé i es troba amb els iroquesos laurencians, dirigits pel cap Donnacona."
+          },
+          {
+            "fr": "Le premier contact est amical, mais Cartier kidnappe les deux fils de Donnacona pour les emmener en France.",
+            "es": "El primer contacto es amistoso, pero Cartier secuestra a los dos hijos de Donnacona para llevárselos a Francia.",
+            "ca": "El primer contacte és amistós, però Cartier segresta els dos fills de Donnacona per endur-se'ls a França."
+          },
+          {
+            "h": {
+              "fr": "Champlain et les alliances",
+              "es": "Champlain y las alianzas",
+              "ca": "Champlain i les aliances"
+            }
+          },
+          {
+            "fr": "En 1608, Samuel de Champlain fonde Québec. Contrairement aux Espagnols plus au sud, les Français ne sont pas assez nombreux pour conquérir par la force.",
+            "es": "En 1608, Samuel de Champlain funda Quebec. A diferencia de los españoles más al sur, los franceses no son suficientemente numerosos para conquistar por la fuerza.",
+            "ca": "El 1608, Samuel de Champlain funda Quebec. A diferència dels espanyols més al sud, els francesos no són prou nombrosos per conquerir per la força."
+          },
+          {
+            "fr": "Ils choisissent donc l'alliance : ils s'associent aux Wendats, aux Innus (Montagnais) et aux Algonquins pour le commerce des fourrures.",
+            "es": "Por eso eligen la alianza: se asocian con los wendat, los innus (montagnais) y los algonquinos para el comercio de pieles.",
+            "ca": "Per això trien l'aliança: s'associen amb els wendat, els innus (montagnais) i els algonquins pel comerç de pells."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation%20de%20la%20ville%20de%20Quebec%20par%20Samuel%20de%20Champlain%20en%201608.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Samuel_de_Champlain_in_art",
+              "credit": {
+                "es": "Fundación de la ciudad de Quebec por Samuel de Champlain en 1608 — Wikimedia Commons.",
+                "ca": "Fundació de la ciutat de Quebec per Samuel de Champlain el 1608 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Cette alliance a un prix : les Français doivent aider leurs alliés contre leurs ennemis, les Haudenosaunee (la Confédération iroquoise).",
+            "es": "Esa alianza tiene un precio: los franceses deben ayudar a sus aliados contra sus enemigos, los haudenosaunee (la Confederación iroquesa).",
+            "ca": "Aquesta aliança té un preu: els francesos han d'ajudar els seus aliats contra els seus enemics, els haudenosaunee (la Confederació iroquesa)."
+          },
+          {
+            "fr": "Champlain combat même à leurs côtés en 1609, ce qui commence une longue rivalité.",
+            "es": "Champlain incluso combate a su lado en 1609, lo que inicia una larga rivalidad.",
+            "ca": "Champlain fins i tot combat al seu costat el 1609, cosa que inicia una llarga rivalitat."
+          },
+          {
+            "fr": "Ces liens créent une société métissée : des coureurs des bois vivent parmi les nations autochtones, apprennent leurs langues et épousent des femmes autochtones.",
+            "es": "Estos vínculos crean una sociedad mestiza: los «coureurs des bois» viven entre las naciones indígenas, aprenden sus lenguas y se casan con mujeres indígenas.",
+            "ca": "Aquests vincles creen una societat mestissa: els «coureurs des bois» viuen entre les nacions indígenes, n'aprenen les llengües i es casen amb dones indígenes."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Quand Jacques Cartier remonte le fleuve Saint-Laurent en 1534, il ne découvre pas un territoire vide : il rencontre les Iroquoiens laurentiens, un peuple agricole établi à Stadaconé (aujourd'hui Québec) et Hochelaga (Montréal), dirigé par le chef Donnacona.",
+            "es": "Cuando Jacques Cartier remonta el río San Lorenzo en 1534, no descubre un territorio vacío: se encuentra con los iroqueses laurencianos, un pueblo agrícola establecido en Stadaconé (hoy Quebec) y Hochelaga (Montreal), dirigido por el jefe Donnacona.",
+            "ca": "Quan Jacques Cartier remunta el riu Sant Llorenç el 1534, no descobreix un territori buit: es troba amb els iroquesos laurencians, un poble agrícola establert a Stadaconé (avui Quebec) i Hochelaga (Mont-real), dirigit pel cap Donnacona."
+          },
+          {
+            "fr": "Le contact est d'abord fondé sur l'échange, mais Cartier trahit vite cette confiance en capturant Donnacona et plusieurs des siens pour les présenter au roi de France ; presque tous meurent en exil.",
+            "es": "El contacto se basa primero en el intercambio, pero Cartier traiciona rápidamente esa confianza al capturar a Donnacona y a varios de los suyos para presentarlos al rey de Francia; casi todos mueren en el exilio.",
+            "ca": "El contacte es basa primer en l'intercanvi, però Cartier traeix ràpidament aquesta confiança en capturar Donnacona i diversos dels seus per presentar-los al rei de França; gairebé tots moren a l'exili."
+          },
+          {
+            "h": {
+              "fr": "L'alliance plutôt que la conquête",
+              "es": "La alianza en lugar de la conquista",
+              "ca": "L'aliança en comptes de la conquesta"
+            }
+          },
+          {
+            "fr": "Sept décennies plus tard, en 1608, Samuel de Champlain fonde Québec avec une poignée d'hommes. Contrairement à l'empire espagnol, la colonie française reste minuscule et dépend entièrement de ses partenaires autochtones pour survivre à l'hiver et obtenir des fourrures, la richesse de la Nouvelle-France.",
+            "es": "Siete décadas después, en 1608, Samuel de Champlain funda Quebec con un puñado de hombres. A diferencia del imperio español, la colonia francesa sigue siendo minúscula y depende por completo de sus socios indígenas para sobrevivir al invierno y obtener pieles, la riqueza de Nueva Francia.",
+            "ca": "Set dècades més tard, el 1608, Samuel de Champlain funda Quebec amb un grapat d'homes. A diferència de l'imperi espanyol, la colònia francesa continua sent minúscula i depèn completament dels seus socis indígenes per sobreviure a l'hivern i obtenir pells, la riquesa de la Nova França."
+          },
+          {
+            "fr": "Champlain scelle donc des alliances durables avec les Wendats (Hurons), les Innus et les Algonquins.",
+            "es": "Champlain sella entonces alianzas duraderas con los wendat (hurones), los innus y los algonquinos.",
+            "ca": "Champlain segella llavors aliances duradores amb els wendat (hurons), els innus i els algonquins."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation%20de%20la%20ville%20de%20Quebec%20par%20Samuel%20de%20Champlain%20en%201608.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Samuel_de_Champlain_in_art",
+              "credit": {
+                "es": "Fundación de la ciudad de Quebec por Samuel de Champlain en 1608 — Wikimedia Commons.",
+                "ca": "Fundació de la ciutat de Quebec per Samuel de Champlain el 1608 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Cette alliance oblige les Français à prendre parti dans les conflits existants : en 1609, Champlain combat aux côtés de ses alliés contre les Haudenosaunee (la Confédération des Cinq-Nations iroquoises) près du lac qui portera son nom.",
+            "es": "Esta alianza obliga a los franceses a tomar partido en los conflictos existentes: en 1609, Champlain combate junto a sus aliados contra los haudenosaunee (la Confederación de las Cinco Naciones iroquesas) cerca del lago que llevará su nombre.",
+            "ca": "Aquesta aliança obliga els francesos a prendre partit en els conflictes existents: el 1609, Champlain combat al costat dels seus aliats contra els haudenosaunee (la Confederació de les Cinc Nacions iroqueses) prop del llac que portarà el seu nom."
+          },
+          {
+            "fr": "Ce geste, en apparence mineur, installe une hostilité franco-iroquoise qui dure près d'un siècle.",
+            "es": "Este gesto, en apariencia menor, instala una hostilidad franco-iroquesa que dura casi un siglo.",
+            "ca": "Aquest gest, en aparença menor, instaura una hostilitat francoiroquesa que dura gairebé un segle."
+          },
+          {
+            "h": {
+              "fr": "Un monde métissé",
+              "es": "Un mundo mestizo",
+              "ca": "Un món mestís"
+            }
+          },
+          {
+            "fr": "De ce contact naît une société originale : des jeunes Français, les « coureurs des bois », partent vivre parmi les nations autochtones, en apprennent les langues et épousent souvent des femmes autochtones.",
+            "es": "De este contacto nace una sociedad original: jóvenes franceses, los «coureurs des bois», se van a vivir entre las naciones indígenas, aprenden sus lenguas y a menudo se casan con mujeres indígenas.",
+            "ca": "D'aquest contacte neix una societat original: joves francesos, els «coureurs des bois», se'n van a viure entre les nacions indígenes, n'aprenen les llengües i sovint es casen amb dones indígenes."
+          },
+          {
+            "fr": "Leurs enfants formeront plus tard le peuple métis. La relation reste inégale et se dégrade avec le temps, mais elle diffère nettement du modèle de conquête pratiqué plus au sud par l'Espagne.",
+            "es": "Sus hijos formarán más tarde el pueblo métis. La relación sigue siendo desigual y se degrada con el tiempo, pero difiere claramente del modelo de conquista practicado más al sur por España.",
+            "ca": "Els seus fills formaran més tard el poble mètis. La relació continua sent desigual i es degrada amb el temps, però difereix clarament del model de conquesta practicat més al sud per Espanya."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une alliance",
+          "es": "una alianza",
+          "ca": "una aliança"
+        },
+        {
+          "mot": "un coureur des bois",
+          "es": "un montañés tramper",
+          "ca": "un tramper de boscos"
+        },
+        {
+          "mot": "une fourrure",
+          "es": "una piel",
+          "ca": "una pell"
+        },
+        {
+          "mot": "trahir",
+          "es": "traicionar",
+          "ca": "trair"
+        },
+        {
+          "mot": "un empire",
+          "es": "un imperio",
+          "ca": "un imperi"
+        },
+        {
+          "mot": "métis(se)",
+          "es": "mestizo/a",
+          "ca": "mestís/mestissa"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién fundó Quebec en 1608 y con quién se alió?",
+            "ca": "Qui va fundar Quebec el 1608 i amb qui es va aliar?"
+          },
+          "piste": {
+            "es": "Champlain, con los wendat, los innus y los algonquinos",
+            "ca": "Champlain, amb els wendat, els innus i els algonquins"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué los franceses eligieron la alianza en lugar de la conquista?",
+            "ca": "Per què els francesos van triar l'aliança en comptes de la conquesta?"
+          },
+          "piste": {
+            "es": "porque eran muy pocos",
+            "ca": "perquè eren molt pocs"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Contra qué pueblo lucharon los franceses en 1609?",
+            "ca": "Contra quin poble van lluitar els francesos el 1609?"
+          },
+          "piste": {
+            "es": "los haudenosaunee (iroqueses)",
+            "ca": "els haudenosaunee (iroquesos)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quiénes eran los «coureurs des bois»?",
+            "ca": "Qui eren els «coureurs des bois»?"
+          },
+          "piste": {
+            "es": "jóvenes franceses que vivían entre los pueblos indígenas",
+            "ca": "joves francesos que vivien entre els pobles indígenes"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "L'Encyclopédie canadienne — Samuel de Champlain",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/samuel-de-champlain"
+        },
+        {
+          "titre": "L'Encyclopédie canadienne — Jacques Cartier",
+          "url": "https://www.thecanadianencyclopedia.ca/fr/article/jacques-cartier"
+        }
+      ]
+    }
+  ]
+}

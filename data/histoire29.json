@@ -1,0 +1,237 @@
+{
+  "textes": [
+    {
+      "id": "coureurs_voyageurs_vie",
+      "emoji": "🛶",
+      "theme": "Histoire",
+      "periode": "1650 à 1821",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Deas%20-%20Voyageurs.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Charles_Deas_-_Voyageurs.jpg",
+        "credit": {
+          "es": "«Voyageurs», óleo de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons.",
+          "ca": "«Voyageurs», oli de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La vida de los coureurs des bois y los voyageurs",
+        "ca": "La vida dels coureurs des bois i els voyageurs"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Il y avait deux sortes d'hommes dans la traite des fourrures : les coureurs des bois et les voyageurs.",
+            "es": "Había dos tipos de hombres en el comercio de pieles: los coureurs des bois y los voyageurs.",
+            "ca": "Hi havia dos tipus d'homes en el comerç de pells: els coureurs des bois i els voyageurs."
+          },
+          {
+            "fr": "Les coureurs des bois voyageaient sans permission. C'était interdit par la loi.",
+            "es": "Los coureurs des bois viajaban sin permiso. Era ilegal.",
+            "ca": "Els coureurs des bois viatjaven sense permís. Era il·legal."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Deas%20-%20Voyageurs.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Charles_Deas_-_Voyageurs.jpg",
+              "credit": {
+                "es": "«Voyageurs», óleo de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons.",
+                "ca": "«Voyageurs», oli de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Les voyageurs, eux, travaillaient pour une compagnie, avec un permis.",
+            "es": "Los voyageurs, en cambio, trabajaban para una compañía, con permiso.",
+            "ca": "Els voyageurs, en canvi, treballaven per a una companyia, amb permís."
+          },
+          {
+            "fr": "Ils voyageaient en canot, avec de lourds sacs de fourrures. Aux rapides, ils devaient marcher : ça s'appelle un portage.",
+            "es": "Viajaban en canoa, con sacos pesados de pieles. En los rápidos, tenían que caminar: eso se llama un portage.",
+            "ca": "Viatjaven en canoa, amb sacs pesats de pells. Als ràpids, havien de caminar: allò es diu un portage."
+          },
+          {
+            "fr": "Beaucoup vivaient avec des femmes autochtones, comme des femmes cries à la baie d'Hudson. Ça créait des liens de famille entre les deux mondes.",
+            "es": "Muchos vivían con mujeres indígenas, como mujeres cree en la bahía de Hudson. Eso creaba lazos familiares entre los dos mundos.",
+            "ca": "Molts vivien amb dones indígenes, com dones cree a la badia d'Hudson. Allò creava lligams familiars entre els dos mons."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Dans le commerce des fourrures, deux figures se distinguent : le coureur des bois et le voyageur. Le coureur des bois part sans permis, seul ou en petit groupe, pour commercer directement avec les nations autochtones — une activité longtemps interdite par les autorités françaises.",
+            "es": "En el comercio de pieles se distinguen dos figuras: el coureur des bois y el voyageur. El coureur des bois parte sin permiso, solo o en pequeño grupo, para comerciar directamente con las naciones indígenas —una actividad prohibida durante mucho tiempo por las autoridades francesas.",
+            "ca": "En el comerç de pells es distingeixen dues figures: el coureur des bois i el voyageur. El coureur des bois marxa sense permís, sol o en petit grup, per comerciar directament amb les nacions indígenes —una activitat prohibida durant molt temps per les autoritats franceses."
+          },
+          {
+            "h": {
+              "fr": "Le canot et le portage",
+              "es": "La canoa y el portage",
+              "ca": "La canoa i el portage"
+            }
+          },
+          {
+            "fr": "Le voyageur, lui, travaille légalement pour une compagnie comme la Compagnie du Nord-Ouest. Il pagaie de longues journées dans un grand canot d'écorce et transporte les ballots de fourrures à dos, aux rapides, lors des portages — parfois plus de 40 kg par charge.",
+            "es": "El voyageur, en cambio, trabaja legalmente para una compañía como la Compañía del Noroeste. Rema largas jornadas en una gran canoa de corteza y transporta los fardos de pieles a cuestas, en los rápidos, durante los portages —a veces más de 40 kg por carga.",
+            "ca": "El voyageur, en canvi, treballa legalment per a una companyia com la Companyia del Nord-oest. Rema llargues jornades en una gran canoa d'escorça i transporta els fardells de pells a l'esquena, als ràpids, durant els portages —de vegades més de 40 kg per càrrega."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Deas%20-%20Voyageurs.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Charles_Deas_-_Voyageurs.jpg",
+              "credit": {
+                "es": "«Voyageurs», óleo de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons.",
+                "ca": "«Voyageurs», oli de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Des liens de famille",
+              "es": "Lazos de familia",
+              "ca": "Lligams de família"
+            }
+          },
+          {
+            "fr": "Loin de Montréal, beaucoup de ces hommes forment des unions avec des femmes autochtones — on parle de mariage « à la façon du pays ». Aux postes de la Compagnie de la Baie d'Hudson, ce sont souvent des femmes cries, qui apportent des compétences essentielles à la survie : préparer les peaux, fabriquer les raquettes, guider dans le territoire.",
+            "es": "Lejos de Montreal, muchos de estos hombres forman uniones con mujeres indígenas —se habla de matrimonio «a la manera del país». En los puestos de la Compañía de la Bahía de Hudson, suelen ser mujeres cree, que aportan habilidades esenciales para la supervivencia: preparar las pieles, fabricar raquetas de nieve, guiar por el territorio.",
+            "ca": "Lluny de Mont-real, molts d'aquests homes formen unions amb dones indígenes —es parla de matrimoni «a la manera del país». Als llocs de la Companyia de la Badia d'Hudson, solen ser dones cree, que aporten habilitats essencials per a la supervivència: preparar les pells, fabricar raquetes de neu, guiar pel territori."
+          },
+          {
+            "fr": "Ces unions créent des liens durables entre les deux mondes, et les enfants nés de ces couples formeront une partie importante de la nation métisse.",
+            "es": "Estas uniones crean vínculos duraderos entre los dos mundos, y los hijos nacidos de estas parejas formarán una parte importante de la nación métis.",
+            "ca": "Aquestes unions creen vincles duradors entre els dos mons, i els fills nascuts d'aquestes parelles formaran una part important de la nació mètis."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Deux figures dominent l'imaginaire de la traite des fourrures : le coureur des bois, indépendant et souvent hors-la-loi, et le voyageur, engagé légalement par une compagnie. Cette distinction, établie après 1681 par un système de permis de traite, ne reflète pas seulement un statut juridique : elle traduit deux façons différentes de vivre en contact avec les nations autochtones.",
+            "es": "Dos figuras dominan el imaginario del comercio de pieles: el coureur des bois, independiente y a menudo fuera de la ley, y el voyageur, contratado legalmente por una compañía. Esta distinción, establecida después de 1681 por un sistema de permisos de comercio, no refleja solo un estatus jurídico: traduce dos maneras distintas de vivir en contacto con las naciones indígenas.",
+            "ca": "Dues figures dominen l'imaginari del comerç de pells: el coureur des bois, independent i sovint fora de la llei, i el voyageur, contractat legalment per una companyia. Aquesta distinció, establerta després del 1681 per un sistema de permisos de comerç, no reflecteix només un estatus jurídic: tradueix dues maneres diferents de viure en contacte amb les nacions indígenes."
+          },
+          {
+            "h": {
+              "fr": "Le canot et le portage",
+              "es": "La canoa y el portage",
+              "ca": "La canoa i el portage"
+            }
+          },
+          {
+            "fr": "Le voyageur, employé de compagnies comme la Compagnie du Nord-Ouest, pagaie parfois seize heures par jour dans un canot de maître ou un canot du nord, chargé de marchandises et de fourrures. Aux rapides infranchissables, il faut décharger et transporter chaque ballot à dos d'homme — le portage — une épreuve physique qui use les corps prématurément.",
+            "es": "El voyageur, empleado de compañías como la Compañía del Noroeste, rema a veces dieciséis horas al día en una canoa maestra o una canoa del norte, cargada de mercancías y pieles. En los rápidos infranqueables, hay que descargar y transportar cada fardo a cuestas —el portage— una prueba física que desgasta los cuerpos prematuramente.",
+            "ca": "El voyageur, empleat de companyies com la Companyia del Nord-oest, rema de vegades setze hores al dia en una canoa mestra o una canoa del nord, carregada de mercaderies i pells. Als ràpids infranquejables, cal descarregar i transportar cada fardell a l'esquena —el portage— una prova física que desgasta els cossos prematurament."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Deas%20-%20Voyageurs.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Charles_Deas_-_Voyageurs.jpg",
+              "credit": {
+                "es": "«Voyageurs», óleo de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons.",
+                "ca": "«Voyageurs», oli de Charles Deas, 1846 (Museum of Fine Arts, Boston) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Des liens de famille au-delà du commerce",
+              "es": "Lazos de familia más allá del comercio",
+              "ca": "Lligams de família més enllà del comerç"
+            }
+          },
+          {
+            "fr": "Loin des centres coloniaux, l'isolement pousse beaucoup de ces hommes à s'unir à des femmes autochtones selon la coutume dite « à la façon du pays », sans cérémonie religieuse. Aux postes de la Compagnie de la Baie d'Hudson, ce sont souvent des femmes cries dont les compétences — préparation des peaux, fabrication de raquettes et de mocassins, connaissance du territoire — deviennent indispensables à la survie des postes.",
+            "es": "Lejos de los centros coloniales, el aislamiento empuja a muchos de estos hombres a unirse a mujeres indígenas según la costumbre llamada «a la manera del país», sin ceremonia religiosa. En los puestos de la Compañía de la Bahía de Hudson, suelen ser mujeres cree cuyas habilidades —preparación de pieles, fabricación de raquetas y mocasines, conocimiento del territorio— se vuelven indispensables para la supervivencia de los puestos.",
+            "ca": "Lluny dels centres colonials, l'aïllament empeny molts d'aquests homes a unir-se a dones indígenes segons el costum anomenat «a la manera del país», sense cerimònia religiosa. Als llocs de la Companyia de la Badia d'Hudson, solen ser dones cree les habilitats de les quals —preparació de pells, fabricació de raquetes i mocassins, coneixement del territori— esdevenen indispensables per a la supervivència dels llocs."
+          },
+          {
+            "fr": "Ces unions ne sont pas de simples arrangements pratiques : elles tissent des alliances de parenté entre les compagnies et les nations dont dépend tout le commerce, et donnent naissance à une génération d'enfants métis qui, plus tard, formeront le cœur de la nation métisse de l'Ouest — celle-là même dont Louis Riel deviendra le chef politique.",
+            "es": "Estas uniones no son simples arreglos prácticos: tejen alianzas de parentesco entre las compañías y las naciones de las que depende todo el comercio, y dan lugar a una generación de hijos métis que, más tarde, formarán el corazón de la nación métis del Oeste —esa misma de la que Louis Riel se convertirá en líder político.",
+            "ca": "Aquestes unions no són simples arranjaments pràctics: teixeixen aliances de parentiu entre les companyies i les nacions de les quals depèn tot el comerç, i donen lloc a una generació de fills mètis que, més tard, formaran el cor de la nació mètissa de l'Oest —aquella mateixa de la qual Louis Riel esdevindrà líder polític."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un portage",
+          "es": "un portage (transporte a pie)",
+          "ca": "un portage (transport a peu)"
+        },
+        {
+          "mot": "un canot d'écorce",
+          "es": "una canoa de corteza",
+          "ca": "una canoa d'escorça"
+        },
+        {
+          "mot": "un permis",
+          "es": "un permiso",
+          "ca": "un permís"
+        },
+        {
+          "mot": "s'unir",
+          "es": "unirse",
+          "ca": "unir-se"
+        },
+        {
+          "mot": "un poste de traite",
+          "es": "un puesto comercial",
+          "ca": "un lloc comercial"
+        },
+        {
+          "mot": "une raquette (à neige)",
+          "es": "una raqueta de nieve",
+          "ca": "una raqueta de neu"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuál es la diferencia entre un coureur des bois y un voyageur?",
+            "ca": "Quina és la diferència entre un coureur des bois i un voyageur?"
+          },
+          "piste": {
+            "es": "el coureur des bois viaja sin permiso, el voyageur trabaja legalmente para una compañía",
+            "ca": "el coureur des bois viatja sense permís, el voyageur treballa legalment per a una companyia"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es un portage?",
+            "ca": "Què és un portage?"
+          },
+          "piste": {
+            "es": "transportar el canoa y las cargas a pie alrededor de los rápidos",
+            "ca": "transportar la canoa i les càrregues a peu al voltant dels ràpids"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué mujeres se unían a menudo con los hombres de la Compañía de la Bahía de Hudson?",
+            "ca": "Quines dones s'unien sovint amb els homes de la Companyia de la Badia d'Hudson?"
+          },
+          "piste": {
+            "es": "mujeres cree",
+            "ca": "dones cree"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué formaron los hijos nacidos de estas uniones?",
+            "ca": "Què van formar els fills nascuts d'aquestes unions?"
+          },
+          "piste": {
+            "es": "una parte importante de la nación métis",
+            "ca": "una part important de la nació mètis"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "The French-Canadian Genealogist — Voyageurs en Nouvelle-France",
+          "url": "https://www.tfcg.ca/voyageur-nouvelle-france"
+        },
+        {
+          "titre": "Wikipedia — Voyageurs",
+          "url": "https://en.wikipedia.org/wiki/Voyageurs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "textes": [
+    {
+      "id": "covenant_chain_haudenosaunee",
+      "emoji": "⛓️",
+      "theme": "Histoire",
+      "periode": "1613 à 1755",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Covenant%20Chain%20Wampum.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Covenant_Chain_Wampum.jpg",
+        "credit": {
+          "es": "Cinturón de wampum de la Cadena de la Alianza (Covenant Chain) — Wikimedia Commons.",
+          "ca": "Cinturó de wampum de la Cadena de l'Aliança (Covenant Chain) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La Cadena de la Alianza: haudenosaunee y británicos",
+        "ca": "La Cadena de l'Aliança: haudenosaunee i britànics"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Les Français avaient des alliés autochtones : les Wendats. Les Anglais aussi avaient un grand allié : les Haudenosaunee (Iroquois).",
+            "es": "Los franceses tenían aliados indígenas: los wendat. Los ingleses también tenían un gran aliado: los haudenosaunee (iroqueses).",
+            "ca": "Els francesos tenien aliats indígenes: els wendat. Els anglesos també tenien un gran aliat: els haudenosaunee (iroquesos)."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Covenant%20Chain%20Wampum.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Covenant_Chain_Wampum.jpg",
+              "credit": {
+                "es": "Cinturón de wampum de la Cadena de la Alianza (Covenant Chain) — Wikimedia Commons.",
+                "ca": "Cinturó de wampum de la Cadena de l'Aliança (Covenant Chain) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Cette alliance s'appelle la « Covenant Chain », la Chaîne d'alliance. Elle commence avec les Hollandais en 1613, puis continue avec les Anglais.",
+            "es": "Esta alianza se llama la «Covenant Chain», la Cadena de la Alianza. Empieza con los holandeses en 1613, y luego continúa con los ingleses.",
+            "ca": "Aquesta aliança es diu la «Covenant Chain», la Cadena de l'Aliança. Comença amb els holandesos el 1613, i després continua amb els anglesos."
+          },
+          {
+            "fr": "Les deux peuples utilisent des ceintures de perles violettes et blanches, les wampums, pour montrer leur accord.",
+            "es": "Los dos pueblos usan cinturones de cuentas moradas y blancas, los wampums, para mostrar su acuerdo.",
+            "ca": "Els dos pobles usen cinturons de perles morades i blanques, els wampums, per mostrar el seu acord."
+          },
+          {
+            "fr": "Grâce à cette alliance, les Haudenosaunee deviennent très puissants dans les guerres entre la France et l'Angleterre.",
+            "es": "Gracias a esta alianza, los haudenosaunee se vuelven muy poderosos en las guerras entre Francia e Inglaterra.",
+            "ca": "Gràcies a aquesta aliança, els haudenosaunee esdevenen molt poderosos en les guerres entre França i Anglaterra."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "On a vu que les Français cherchaient des alliés wendats et algonquins. Les Anglais, eux, construisent leur propre alliance avec les Haudenosaunee, ennemis historiques des Wendats.",
+            "es": "Hemos visto que los franceses buscaban aliados wendat y algonquinos. Los ingleses, por su parte, construyen su propia alianza con los haudenosaunee, enemigos históricos de los wendat.",
+            "ca": "Hem vist que els francesos buscaven aliats wendat i algonquins. Els anglesos, per la seva banda, construeixen la seva pròpia aliança amb els haudenosaunee, enemics històrics dels wendat."
+          },
+          {
+            "h": {
+              "fr": "Le canot et le navire",
+              "es": "La canoa y el barco",
+              "ca": "La canoa i el vaixell"
+            }
+          },
+          {
+            "fr": "Cette relation commence en 1613 avec les marchands hollandais, symbolisée par le wampum « à deux rangs » (Two Row Wampum) : deux lignes parallèles représentant un canot haudenosaunee et un navire européen, voyageant côte à côte sans se mêler.",
+            "es": "Esta relación comienza en 1613 con los comerciantes holandeses, simbolizada por el wampum «de dos filas» (Two Row Wampum): dos líneas paralelas que representan una canoa haudenosaunee y un barco europeo, viajando lado a lado sin mezclarse.",
+            "ca": "Aquesta relació comença el 1613 amb els comerciants holandesos, simbolitzada pel wampum «de dues files» (Two Row Wampum): dues línies paral·leles que representen una canoa haudenosaunee i un vaixell europeu, viatjant costat a costat sense barrejar-se."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Covenant%20Chain%20Wampum.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Covenant_Chain_Wampum.jpg",
+              "credit": {
+                "es": "Cinturón de wampum de la Cadena de la Alianza (Covenant Chain) — Wikimedia Commons.",
+                "ca": "Cinturó de wampum de la Cadena de l'Aliança (Covenant Chain) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Après la prise de la colonie hollandaise par l'Angleterre en 1664, les Anglais reprennent cette alliance sous le nom de « Covenant Chain » — une chaîne symbolique qu'il faut régulièrement « polir » lors de grandes rencontres diplomatiques.",
+            "es": "Tras la toma de la colonia holandesa por Inglaterra en 1664, los ingleses retoman esta alianza bajo el nombre de «Covenant Chain» —una cadena simbólica que hay que «pulir» regularmente en grandes encuentros diplomáticos.",
+            "ca": "Després de la presa de la colònia holandesa per Anglaterra el 1664, els anglesos reprenen aquesta aliança sota el nom de «Covenant Chain» —una cadena simbòlica que cal «polir» regularment en grans trobades diplomàtiques."
+          },
+          {
+            "h": {
+              "fr": "Une puissance qui change l'équilibre",
+              "es": "Un poder que cambia el equilibrio",
+              "ca": "Un poder que canvia l'equilibri"
+            }
+          },
+          {
+            "fr": "Grâce à cette alliance et à leur accès aux armes à feu, les Haudenosaunee deviennent un acteur central des guerres coloniales, capables de faire pencher la balance entre la France et l'Angleterre — un pouvoir qu'ils utilisent aussi pour défendre leurs propres intérêts, pas seulement ceux des Anglais.",
+            "es": "Gracias a esta alianza y a su acceso a las armas de fuego, los haudenosaunee se convierten en un actor central de las guerras coloniales, capaces de inclinar la balanza entre Francia e Inglaterra —un poder que también usan para defender sus propios intereses, no solo los de los ingleses.",
+            "ca": "Gràcies a aquesta aliança i al seu accés a les armes de foc, els haudenosaunee esdevenen un actor central de les guerres colonials, capaços d'inclinar la balança entre França i Anglaterra —un poder que també usen per defensar els seus propis interessos, no només els dels anglesos."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Face à l'alliance franco-wendat scellée par Champlain, les puissances rivales du nord-est américain nouent, elles aussi, leur propre système d'alliances autochtones : la « Covenant Chain » (Chaîne d'alliance), qui lie pendant plus d'un siècle les Haudenosaunee (la Confédération des Cinq, puis Six Nations) aux colonies néerlandaises puis britanniques.",
+            "es": "Frente a la alianza franco-wendat sellada por Champlain, las potencias rivales del noreste americano tejen, a su vez, su propio sistema de alianzas indígenas: la «Covenant Chain» (Cadena de la Alianza), que une durante más de un siglo a los haudenosaunee (la Confederación de las Cinco, luego Seis Naciones) con las colonias neerlandesas y después británicas.",
+            "ca": "Davant l'aliança francowendat segellada per Champlain, les potències rivals del nord-est americà teixeixen, al seu torn, el seu propi sistema d'aliances indígenes: la «Covenant Chain» (Cadena de l'Aliança), que uneix durant més d'un segle els haudenosaunee (la Confederació de les Cinc, després Sis Nacions) amb les colònies neerlandeses i després britàniques."
+          },
+          {
+            "h": {
+              "fr": "Le canot et le navire",
+              "es": "La canoa y el barco",
+              "ca": "La canoa i el vaixell"
+            }
+          },
+          {
+            "fr": "L'accord fondateur remonte à 1613, entre marchands hollandais et représentants mohawks : il est consigné dans le wampum « à deux rangs » (Guswenta), une ceinture de perles où deux lignes violettes parallèles symbolisent un canot haudenosaunee et un navire européen voguant côte à côte, chacun conservant ses propres lois, sans que l'un ne dirige l'autre.",
+            "es": "El acuerdo fundador se remonta a 1613, entre comerciantes holandeses y representantes mohawk: queda registrado en el wampum «de dos filas» (Guswenta), un cinturón de cuentas donde dos líneas moradas paralelas simbolizan una canoa haudenosaunee y un barco europeo navegando lado a lado, cada uno conservando sus propias leyes, sin que uno dirija al otro.",
+            "ca": "L'acord fundador es remunta al 1613, entre comerciants holandesos i representants mohawk: queda enregistrat en el wampum «de dues files» (Guswenta), un cinturó de perles on dues línies morades paral·leles simbolitzen una canoa haudenosaunee i un vaixell europeu navegant costat a costat, cadascun conservant les seves pròpies lleis, sense que un dirigeixi l'altre."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Covenant%20Chain%20Wampum.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Covenant_Chain_Wampum.jpg",
+              "credit": {
+                "es": "Cinturón de wampum de la Cadena de la Alianza (Covenant Chain) — Wikimedia Commons.",
+                "ca": "Cinturó de wampum de la Cadena de l'Aliança (Covenant Chain) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Lorsque l'Angleterre s'empare de la colonie néerlandaise en 1664, elle hérite de cette relation et la renomme « Covenant Chain » — une chaîne d'argent qu'il faut, selon la métaphore diplomatique haudenosaunee, régulièrement « polir » pour qu'elle ne ternisse ni ne se brise, lors de grands conseils comme celui d'Albany en 1754.",
+            "es": "Cuando Inglaterra se apodera de la colonia neerlandesa en 1664, hereda esta relación y la rebautiza como «Covenant Chain» —una cadena de plata que hay que, según la metáfora diplomática haudenosaunee, «pulir» regularmente para que no se empañe ni se rompa, en grandes consejos como el de Albany en 1754.",
+            "ca": "Quan Anglaterra s'apodera de la colònia neerlandesa el 1664, hereta aquesta relació i la rebateja «Covenant Chain» —una cadena de plata que cal, segons la metàfora diplomàtica haudenosaunee, «polir» regularment perquè no s'entelli ni es trenqui, en grans consells com el d'Albany del 1754."
+          },
+          {
+            "h": {
+              "fr": "Un pouvoir d'équilibre, pas de soumission",
+              "es": "Un poder de equilibrio, no de sumisión",
+              "ca": "Un poder d'equilibri, no de submissió"
+            }
+          },
+          {
+            "fr": "Cette alliance donne aux Haudenosaunee un accès privilégié aux armes à feu européennes, ce qui explique en partie leur succès dans les guerres de la fourrure contre les Wendats. Mais la Covenant Chain n'est pas une soumission : les Haudenosaunee y voient un partenariat entre nations égales, et ils s'en servent aussi pour négocier avec les Français quand cela sert leurs intérêts, jouant habilement des deux empires rivaux.",
+            "es": "Esta alianza da a los haudenosaunee un acceso privilegiado a las armas de fuego europeas, lo que explica en parte su éxito en las guerras de la piel contra los wendat. Pero la Covenant Chain no es una sumisión: los haudenosaunee la ven como una asociación entre naciones iguales, y también la usan para negociar con los franceses cuando eso sirve a sus intereses, jugando hábilmente con los dos imperios rivales.",
+            "ca": "Aquesta aliança dona als haudenosaunee un accés privilegiat a les armes de foc europees, cosa que explica en part el seu èxit a les guerres de la pell contra els wendat. Però la Covenant Chain no és una submissió: els haudenosaunee hi veuen una associació entre nacions iguals, i també la fan servir per negociar amb els francesos quan això serveix als seus interessos, jugant hàbilment amb els dos imperis rivals."
+          },
+          {
+            "fr": "Ce jeu d'équilibre confère aux Haudenosaunee un poids diplomatique considérable pendant tout le XVIIe et le XVIIIe siècle : aucune des deux couronnes ne peut se permettre de les perdre comme alliés, ce qui leur donne une influence rare pour un peuple bien moins nombreux que les empires en présence — jusqu'à ce que la fin de la guerre de Sept Ans, en 1763, ne redistribue les cartes en faveur des Britanniques seuls.",
+            "es": "Este juego de equilibrio confiere a los haudenosaunee un peso diplomático considerable durante todo el siglo XVII y el XVIII: ninguna de las dos coronas puede permitirse perderlos como aliados, lo que les da una influencia poco común para un pueblo mucho menos numeroso que los imperios presentes —hasta que el fin de la guerra de los Siete Años, en 1763, redistribuye las cartas a favor únicamente de los británicos.",
+            "ca": "Aquest joc d'equilibri confereix als haudenosaunee un pes diplomàtic considerable durant tot el segle XVII i el XVIII: cap de les dues corones no es pot permetre perdre'ls com a aliats, cosa que els dona una influència poc habitual per a un poble molt menys nombrós que els imperis presents —fins que la fi de la guerra dels Set Anys, el 1763, redistribueix les cartes a favor únicament dels britànics."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un wampum",
+          "es": "un wampum (cinturón de cuentas)",
+          "ca": "un wampum (cinturó de perles)"
+        },
+        {
+          "mot": "polir",
+          "es": "pulir",
+          "ca": "polir"
+        },
+        {
+          "mot": "un conseil (diplomatique)",
+          "es": "un consejo (diplomático)",
+          "ca": "un consell (diplomàtic)"
+        },
+        {
+          "mot": "un équilibre",
+          "es": "un equilibrio",
+          "ca": "un equilibri"
+        },
+        {
+          "mot": "une couronne (royaume)",
+          "es": "una corona (reino)",
+          "ca": "una corona (regne)"
+        },
+        {
+          "mot": "un partenariat",
+          "es": "una asociación",
+          "ca": "una associació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Con quiénes empieza la alianza de la Covenant Chain en 1613?",
+            "ca": "Amb qui comença l'aliança de la Covenant Chain el 1613?"
+          },
+          "piste": {
+            "es": "con los comerciantes holandeses y los mohawk",
+            "ca": "amb els comerciants holandesos i els mohawk"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué representa el wampum «de dos filas» (Guswenta)?",
+            "ca": "Què representa el wampum «de dues files» (Guswenta)?"
+          },
+          "piste": {
+            "es": "una canoa haudenosaunee y un barco europeo navegando juntos, separados pero iguales",
+            "ca": "una canoa haudenosaunee i un vaixell europeu navegant junts, separats però iguals"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién hereda esta alianza en 1664?",
+            "ca": "Qui hereta aquesta aliança el 1664?"
+          },
+          "piste": {
+            "es": "los ingleses",
+            "ca": "els anglesos"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Los haudenosaunee eran totalmente leales a los ingleses?",
+            "ca": "Els haudenosaunee eren totalment lleials als anglesos?"
+          },
+          "piste": {
+            "es": "no, negociaban también con los franceses según sus propios intereses",
+            "ca": "no, negociaven també amb els francesos segons els seus propis interessos"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Covenant Chain",
+          "url": "https://en.wikipedia.org/wiki/Covenant_Chain"
+        },
+        {
+          "titre": "Onondaga Nation — Polishing The Silver Covenant Chain",
+          "url": "https://www.onondaganation.org/history/2010/polishing-the-silver-covenant-chain-a-brief-history-of-some-of-the-symbols-and-metaphors-in-haudenosaunee-treaty-negotiations/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "textes": [
+    {
+      "id": "guerre_roi_philip",
+      "emoji": "🔥",
+      "theme": "Histoire",
+      "periode": "1675 à 1678",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip%20King%20of%20Mount%20Hope%20by%20Paul%20Revere.jpeg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Philip_King_of_Mount_Hope_by_Paul_Revere.jpeg",
+        "credit": {
+          "es": "«Philip, King of Mount Hope», grabado de Paul Revere (edición de 1772) — Wikimedia Commons.",
+          "ca": "«Philip, King of Mount Hope», gravat de Paul Revere (edició de 1772) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La guerra del rey Philip: cuando la paz se rompe",
+        "ca": "La guerra del rei Philip: quan la pau es trenca"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Tu te souviens du premier Thanksgiving, en 1621, entre les Pèlerins et le chef Massasoit ? Cette paix a duré longtemps.",
+            "es": "¿Te acuerdas del primer Thanksgiving, en 1621, entre los peregrinos y el jefe Massasoit? Esa paz duró mucho tiempo.",
+            "ca": "Et recordes el primer Thanksgiving, el 1621, entre els pelegrins i el cap Massasoit? Aquella pau va durar molt de temps."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip%20King%20of%20Mount%20Hope%20by%20Paul%20Revere.jpeg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Philip_King_of_Mount_Hope_by_Paul_Revere.jpeg",
+              "credit": {
+                "es": "«Philip, King of Mount Hope», grabado de Paul Revere (edición de 1772) — Wikimedia Commons.",
+                "ca": "«Philip, King of Mount Hope», gravat de Paul Revere (edició de 1772) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Mais en 1662, Massasoit meurt. Son fils Metacom, appelé « le roi Philip » par les Anglais, devient chef.",
+            "es": "Pero en 1662, Massasoit muere. Su hijo Metacom, llamado «el rey Philip» por los ingleses, se convierte en jefe.",
+            "ca": "Però el 1662, Massasoit mor. El seu fill Metacom, anomenat «el rei Philip» pels anglesos, esdevé cap."
+          },
+          {
+            "fr": "Les colons anglais prennent de plus en plus de terres wampanoag. Metacom se fâche.",
+            "es": "Los colonos ingleses toman cada vez más tierras wampanoag. Metacom se enfada.",
+            "ca": "Els colons anglesos prenen cada cop més terres wampanoag. Metacom s'enfada."
+          },
+          {
+            "fr": "En 1675, la guerre commence. Beaucoup de nations se joignent à Metacom contre les Anglais.",
+            "es": "En 1675, empieza la guerra. Muchas naciones se unen a Metacom contra los ingleses.",
+            "ca": "El 1675, comença la guerra. Moltes nacions s'uneixen a Metacom contra els anglesos."
+          },
+          {
+            "fr": "La guerre est très violente. En 1676, Metacom est tué. C'est l'une des guerres les plus meurtrières de l'histoire américaine.",
+            "es": "La guerra es muy violenta. En 1676, Metacom es asesinado. Es una de las guerras más mortíferas de la historia americana.",
+            "ca": "La guerra és molt violenta. El 1676, Metacom és assassinat. És una de les guerres més mortíferes de la història americana."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La paix scellée en 1621 entre Massasoit et les Pèlerins de Plymouth dure près de 40 ans. Mais après la mort de Massasoit en 1661, la relation se dégrade rapidement avec son fils Metacom, que les Anglais surnomment « King Philip ».",
+            "es": "La paz sellada en 1621 entre Massasoit y los peregrinos de Plymouth dura casi 40 años. Pero tras la muerte de Massasoit en 1661, la relación se degrada rápidamente con su hijo Metacom, a quien los ingleses apodan «King Philip».",
+            "ca": "La pau segellada el 1621 entre Massasoit i els pelegrins de Plymouth dura gairebé 40 anys. Però després de la mort de Massasoit el 1661, la relació es degrada ràpidament amb el seu fill Metacom, a qui els anglesos anomenen «King Philip»."
+          },
+          {
+            "h": {
+              "fr": "Des terres qui rétrécissent",
+              "es": "Tierras que se reducen",
+              "ca": "Terres que s'encongeixen"
+            }
+          },
+          {
+            "fr": "Les colonies anglaises grandissent vite et achètent — ou prennent — de plus en plus de terres wampanoag. En 1675, l'exécution de trois Wampanoags par les Anglais met le feu aux poudres : Metacom lance une offensive contre les colonies.",
+            "es": "Las colonias inglesas crecen rápido y compran —o toman— cada vez más tierras wampanoag. En 1675, la ejecución de tres wampanoag por los ingleses enciende la mecha: Metacom lanza una ofensiva contra las colonias.",
+            "ca": "Les colònies angleses creixen ràpid i compren —o prenen— cada cop més terres wampanoag. El 1675, l'execució de tres wampanoag pels anglesos encén la metxa: Metacom llança una ofensiva contra les colònies."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip%20King%20of%20Mount%20Hope%20by%20Paul%20Revere.jpeg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Philip_King_of_Mount_Hope_by_Paul_Revere.jpeg",
+              "credit": {
+                "es": "«Philip, King of Mount Hope», grabado de Paul Revere (edición de 1772) — Wikimedia Commons.",
+                "ca": "«Philip, King of Mount Hope», gravat de Paul Revere (edició de 1772) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une guerre continentale et meurtrière",
+              "es": "Una guerra continental y mortífera",
+              "ca": "Una guerra continental i mortífera"
+            }
+          },
+          {
+            "fr": "D'autres nations se joignent à Metacom, dont les puissants Narragansett. Les deux camps brûlent des villages entiers et font de nombreuses victimes civiles. Certaines nations, comme les Mohawks, s'allient aux Anglais contre Metacom.",
+            "es": "Otras naciones se unen a Metacom, entre ellas los poderosos narragansett. Ambos bandos queman pueblos enteros y provocan numerosas víctimas civiles. Algunas naciones, como los mohawk, se alían con los ingleses contra Metacom.",
+            "ca": "Altres nacions s'uneixen a Metacom, entre elles els poderosos narragansett. Tots dos bàndols cremen pobles sencers i provoquen nombroses víctimes civils. Algunes nacions, com els mohawk, s'alien amb els anglesos contra Metacom."
+          },
+          {
+            "fr": "Affaibli et poursuivi, Metacom est tué en août 1676. Proportionnellement à la population, cette guerre reste l'une des plus meurtrières de l'histoire des États-Unis, et elle marque la fin de l'indépendance politique des nations de Nouvelle-Angleterre.",
+            "es": "Debilitado y perseguido, Metacom es asesinado en agosto de 1676. Proporcionalmente a la población, esta guerra sigue siendo una de las más mortíferas de la historia de Estados Unidos, y marca el fin de la independencia política de las naciones de Nueva Inglaterra.",
+            "ca": "Afeblit i perseguit, Metacom és assassinat l'agost del 1676. Proporcionalment a la població, aquesta guerra continua sent una de les més mortíferes de la història dels Estats Units, i marca la fi de la independència política de les nacions de Nova Anglaterra."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le premier Thanksgiving de 1621 n'est pas un mythe isolé : il inaugure une paix réelle, négociée entre Massasoit, grand sachem des Wampanoag, et les Pèlerins de Plymouth — une paix qui tient près de quatre décennies. Sa mort en 1661 change tout.",
+            "es": "El primer Thanksgiving de 1621 no es un mito aislado: inaugura una paz real, negociada entre Massasoit, gran sachem de los wampanoag, y los peregrinos de Plymouth —una paz que se sostiene casi cuatro décadas. Su muerte en 1661 lo cambia todo.",
+            "ca": "El primer Thanksgiving del 1621 no és un mite aïllat: inaugura una pau real, negociada entre Massasoit, gran sàquem dels wampanoag, i els pelegrins de Plymouth —una pau que es manté gairebé quatre dècades. La seva mort el 1661 ho canvia tot."
+          },
+          {
+            "h": {
+              "fr": "Des terres qui rétrécissent",
+              "es": "Tierras que se reducen",
+              "ca": "Terres que s'encongeixen"
+            }
+          },
+          {
+            "fr": "Son fils Metacom, que les Anglais surnomment « King Philip », hérite d'une situation bien plus fragile : les colonies de Plymouth, du Massachusetts et du Connecticut se sont multipliées, achetant ou saisissant des terres wampanoag année après année, tout en imposant progressivement leur droit et leur religion aux nations voisines.",
+            "es": "Su hijo Metacom, a quien los ingleses apodan «King Philip», hereda una situación mucho más frágil: las colonias de Plymouth, Massachusetts y Connecticut se han multiplicado, comprando o tomando tierras wampanoag año tras año, mientras imponen progresivamente su derecho y su religión a las naciones vecinas.",
+            "ca": "El seu fill Metacom, a qui els anglesos anomenen «King Philip», hereta una situació molt més fràgil: les colònies de Plymouth, Massachusetts i Connecticut s'han multiplicat, comprant o prenent terres wampanoag any rere any, mentre imposen progressivament el seu dret i la seva religió a les nacions veïnes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philip%20King%20of%20Mount%20Hope%20by%20Paul%20Revere.jpeg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Philip_King_of_Mount_Hope_by_Paul_Revere.jpeg",
+              "credit": {
+                "es": "«Philip, King of Mount Hope», grabado de Paul Revere (edición de 1772) — Wikimedia Commons.",
+                "ca": "«Philip, King of Mount Hope», gravat de Paul Revere (edició de 1772) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En janvier 1675, l'exécution de trois Wampanoags par la colonie de Plymouth, à la suite d'un procès jugé injuste par de nombreux historiens, déclenche l'engrenage : Metacom, convaincu que la coexistence pacifique n'est plus possible, lance une série d'attaques contre les villes frontalières anglaises en juin.",
+            "es": "En enero de 1675, la ejecución de tres wampanoag por la colonia de Plymouth, tras un juicio considerado injusto por muchos historiadores, desencadena el engranaje: Metacom, convencido de que la coexistencia pacífica ya no es posible, lanza una serie de ataques contra las ciudades fronterizas inglesas en junio.",
+            "ca": "El gener del 1675, l'execució de tres wampanoag per la colònia de Plymouth, després d'un judici considerat injust per molts historiadors, desencadena l'engranatge: Metacom, convençut que la coexistència pacífica ja no és possible, llança una sèrie d'atacs contra les ciutats frontereres angleses al juny."
+          },
+          {
+            "h": {
+              "fr": "Une guerre continentale et meurtrière",
+              "es": "Una guerra continental y mortífera",
+              "ca": "Una guerra continental i mortífera"
+            }
+          },
+          {
+            "fr": "La coalition de Metacom s'élargit rapidement : Nipmucs, Podunks et surtout les puissants Narragansett rejoignent la lutte. Face à eux, la Confédération de Nouvelle-Angleterre mobilise ses milices — et recrute des alliés autochtones, dont les Mohawks, rivaux historiques des nations alliées à Metacom, qui affaiblissent gravement ses forces en hiver.",
+            "es": "La coalición de Metacom se amplía rápidamente: nipmuc, podunk y sobre todo los poderosos narragansett se unen a la lucha. Frente a ellos, la Confederación de Nueva Inglaterra moviliza a sus milicias —y recluta aliados indígenas, entre ellos los mohawk, rivales históricos de las naciones aliadas de Metacom, que debilitan gravemente sus fuerzas en invierno.",
+            "ca": "La coalició de Metacom s'amplia ràpidament: nipmuc, podunk i sobretot els poderosos narragansett s'uneixen a la lluita. Davant seu, la Confederació de Nova Anglaterra mobilitza les seves milícies —i recluta aliats indígenes, entre ells els mohawk, rivals històrics de les nacions aliades de Metacom, que afebleixen greument les seves forces a l'hivern."
+          },
+          {
+            "fr": "Le conflit devient une guerre totale : des dizaines de villages, anglais comme autochtones, sont incendiés, et les deux camps massacrent des civils. En août 1676, Metacom est traqué et tué près de Mount Hope ; sa tête est exposée à Plymouth pendant vingt ans.",
+            "es": "El conflicto se convierte en una guerra total: decenas de pueblos, tanto ingleses como indígenas, son incendiados, y ambos bandos masacran a civiles. En agosto de 1676, Metacom es acorralado y asesinado cerca de Mount Hope; su cabeza se exhibe en Plymouth durante veinte años.",
+            "ca": "El conflicte esdevé una guerra total: desenes de pobles, tant anglesos com indígenes, són incendiats, i tots dos bàndols massacren civils. L'agost del 1676, Metacom és acorralat i assassinat prop de Mount Hope; el seu cap s'exhibeix a Plymouth durant vint anys."
+          },
+          {
+            "h": {
+              "fr": "Un tournant pour la Nouvelle-Angleterre",
+              "es": "Un punto de inflexión para Nueva Inglaterra",
+              "ca": "Un punt d'inflexió per a Nova Anglaterra"
+            }
+          },
+          {
+            "fr": "Proportionnellement à la population, la guerre du roi Philip reste l'un des conflits les plus meurtriers de l'histoire des États-Unis. Elle marque la fin de toute indépendance politique réelle pour les nations autochtones du sud de la Nouvelle-Angleterre, dont beaucoup de survivants sont vendus en esclavage aux Antilles — un sort radicalement différent de celui des Wendats ou des Haudenosaunee, qui conservent un pouvoir de négociation bien plus longtemps au nord.",
+            "es": "Proporcionalmente a la población, la guerra del rey Philip sigue siendo uno de los conflictos más mortíferos de la historia de Estados Unidos. Marca el fin de toda independencia política real para las naciones indígenas del sur de Nueva Inglaterra, muchos de cuyos sobrevivientes son vendidos como esclavos en las Antillas —un destino radicalmente distinto al de los wendat o los haudenosaunee, que conservan un poder de negociación mucho más tiempo al norte.",
+            "ca": "Proporcionalment a la població, la guerra del rei Philip continua sent un dels conflictes més mortífers de la història dels Estats Units. Marca la fi de tota independència política real per a les nacions indígenes del sud de Nova Anglaterra, molts dels supervivents de les quals són venuts com a esclaus a les Antilles —un destí radicalment diferent del dels wendat o els haudenosaunee, que conserven un poder de negociació molt més temps al nord."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un sachem",
+          "es": "un sachem (jefe)",
+          "ca": "un sàquem (cap)"
+        },
+        {
+          "mot": "un engrenage",
+          "es": "un engranaje",
+          "ca": "un engranatge"
+        },
+        {
+          "mot": "une coalition",
+          "es": "una coalición",
+          "ca": "una coalició"
+        },
+        {
+          "mot": "traquer",
+          "es": "acorralar / dar caza a",
+          "ca": "acorralar / perseguir"
+        },
+        {
+          "mot": "meurtrier(-ère)",
+          "es": "mortífero/a",
+          "ca": "mortífer/a"
+        },
+        {
+          "mot": "un tournant",
+          "es": "un punto de inflexión",
+          "ca": "un punt d'inflexió"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quién era Metacom, y cómo lo llamaban los ingleses?",
+            "ca": "Qui era Metacom, i com l'anomenaven els anglesos?"
+          },
+          "piste": {
+            "es": "el hijo de Massasoit; los ingleses lo llamaban «King Philip»",
+            "ca": "el fill de Massasoit; els anglesos l'anomenaven «King Philip»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué evento de 1675 desencadena la guerra?",
+            "ca": "Quin esdeveniment de 1675 desencadena la guerra?"
+          },
+          "piste": {
+            "es": "la ejecución de tres wampanoag por los ingleses",
+            "ca": "l'execució de tres wampanoag pels anglesos"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué nación se alió con los ingleses contra Metacom?",
+            "ca": "Quina nació es va aliar amb els anglesos contra Metacom?"
+          },
+          "piste": {
+            "es": "los mohawk",
+            "ca": "els mohawk"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasó a muchos sobrevivientes indígenas tras la guerra?",
+            "ca": "Què els va passar a molts supervivents indígenes després de la guerra?"
+          },
+          "piste": {
+            "es": "fueron vendidos como esclavos en las Antillas",
+            "ca": "van ser venuts com a esclaus a les Antilles"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — King Philip's War",
+          "url": "https://en.wikipedia.org/wiki/King_Philip%27s_War"
+        },
+        {
+          "titre": "Britannica — King Philip's War",
+          "url": "https://www.britannica.com/event/King-Philips-War"
+        }
+      ]
+    }
+  ]
+}

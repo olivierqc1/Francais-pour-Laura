@@ -1,1 +1,264 @@
-sh
+{
+  "textes": [
+    {
+      "id": "guerres_castor_huronie",
+      "emoji": "🏹",
+      "theme": "Histoire",
+      "periode": "1634 à 1701",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Marie%20Among%20the%20Hurons.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Sainte-Marie_among_the_Hurons",
+        "credit": {
+          "es": "Reconstitución de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons.",
+          "ca": "Reconstitució de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Enemigos por el castor: la caída de la Huronía",
+        "ca": "Enemics pel castor: la caiguda de la Huronia"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Avant les Français, deux grands peuples se détestaient déjà : les Wendats (Hurons) et les Haudenosaunee (Iroquois).",
+            "es": "Antes de los franceses, dos grandes pueblos ya se odiaban: los wendat (hurones) y los haudenosaunee (iroqueses).",
+            "ca": "Abans dels francesos, dos grans pobles ja s'odiaven: els wendat (hurons) i els haudenosaunee (iroquesos)."
+          },
+          {
+            "fr": "Les Wendats vivaient au sud de la baie Georgienne. Ils étaient amis des Français.",
+            "es": "Los wendat vivían al sur de la bahía Georgiana. Eran amigos de los franceses.",
+            "ca": "Els wendat vivien al sud de la badia Georgiana. Eren amics dels francesos."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Marie%20Among%20the%20Hurons.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sainte-Marie_among_the_Hurons",
+              "credit": {
+                "es": "Reconstitución de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons.",
+                "ca": "Reconstitució de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Les Haudenosaunee vivaient plus au sud. Ils étaient amis des Hollandais et, plus tard, des Anglais.",
+            "es": "Los haudenosaunee vivían más al sur. Eran amigos de los holandeses y, más tarde, de los ingleses.",
+            "ca": "Els haudenosaunee vivien més al sud. Eren amics dels holandesos i, més tard, dels anglesos."
+          },
+          {
+            "fr": "Les deux peuples voulaient contrôler le commerce des fourrures. C'est pour ça qu'ils se sont fait la guerre.",
+            "es": "Los dos pueblos querían controlar el comercio de pieles. Por eso se hicieron la guerra.",
+            "ca": "Els dos pobles volien controlar el comerç de pells. Per això es van fer la guerra."
+          },
+          {
+            "fr": "En 1649, les Haudenosaunee attaquent et détruisent les villages wendats. C'est la fin de la Huronie.",
+            "es": "En 1649, los haudenosaunee atacan y destruyen los pueblos wendat. Es el fin de la Huronía.",
+            "ca": "El 1649, els haudenosaunee ataquen i destrueixen els pobles wendat. És la fi de la Huronia."
+          },
+          {
+            "fr": "Les survivants wendats fuient. Certains vont vivre près de Québec, à Wendake — où leurs descendants vivent encore aujourd'hui.",
+            "es": "Los sobrevivientes wendat huyen. Algunos van a vivir cerca de Quebec, en Wendake, donde sus descendientes todavía viven hoy.",
+            "ca": "Els supervivents wendat fugen. Alguns van a viure a prop de Quebec, a Wendake, on els seus descendents encara hi viuen avui."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Bien avant l'arrivée des Européens, les Wendats (Hurons) et les Haudenosaunee (la Confédération iroquoise) étaient déjà rivaux. Les deux peuples parlaient des langues proches, mais s'affrontaient régulièrement.",
+            "es": "Mucho antes de la llegada de los europeos, los wendat (hurones) y los haudenosaunee (la Confederación iroquesa) ya eran rivales. Ambos pueblos hablaban lenguas cercanas, pero se enfrentaban regularmente.",
+            "ca": "Molt abans de l'arribada dels europeus, els wendat (hurons) i els haudenosaunee (la Confederació iroquesa) ja eren rivals. Tots dos pobles parlaven llengües properes, però s'enfrontaven regularment."
+          },
+          {
+            "h": {
+              "fr": "Le commerce attise la guerre",
+              "es": "El comercio atiza la guerra",
+              "ca": "El comerç atia la guerra"
+            }
+          },
+          {
+            "fr": "L'arrivée des Européens transforme cette rivalité en guerre ouverte. Les Wendats deviennent les partenaires commerciaux des Français, tandis que les Haudenosaunee commercent avec les Hollandais de la vallée de l'Hudson, puis les Anglais.",
+            "es": "La llegada de los europeos transforma esta rivalidad en guerra abierta. Los wendat se convierten en socios comerciales de los franceses, mientras que los haudenosaunee comercian con los holandeses del valle del Hudson, y luego con los ingleses.",
+            "ca": "L'arribada dels europeus transforma aquesta rivalitat en guerra oberta. Els wendat esdevenen socis comercials dels francesos, mentre que els haudenosaunee comercien amb els holandesos de la vall de l'Hudson, i després amb els anglesos."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Marie%20Among%20the%20Hurons.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sainte-Marie_among_the_Hurons",
+              "credit": {
+                "es": "Reconstitución de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons.",
+                "ca": "Reconstitució de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Chaque camp veut contrôler le commerce du castor, une ressource qui s'épuise vite. Les Haudenosaunee, mieux armés grâce aux fusils hollandais, attaquent de plus en plus les Wendats à partir des années 1640.",
+            "es": "Cada bando quiere controlar el comercio del castor, un recurso que se agota rápido. Los haudenosaunee, mejor armados gracias a los fusiles holandeses, atacan cada vez más a los wendat a partir de la década de 1640.",
+            "ca": "Cada bàndol vol controlar el comerç del castor, un recurs que s'esgota ràpid. Els haudenosaunee, més ben armats gràcies als fusells holandesos, ataquen cada cop més els wendat a partir de la dècada de 1640."
+          },
+          {
+            "h": {
+              "fr": "La chute de la Huronie",
+              "es": "La caída de la Huronía",
+              "ca": "La caiguda de la Huronia"
+            }
+          },
+          {
+            "fr": "En 1649, une grande offensive haudenosaunee détruit plusieurs villages wendats fortifiés, dont Saint-Louis et Saint-Ignace, où les missionnaires jésuites Jean de Brébeuf et Gabriel Lalemant sont tués.",
+            "es": "En 1649, una gran ofensiva haudenosaunee destruye varios pueblos wendat fortificados, entre ellos Saint-Louis y Saint-Ignace, donde son asesinados los misioneros jesuitas Jean de Brébeuf y Gabriel Lalemant.",
+            "ca": "El 1649, una gran ofensiva haudenosaunee destrueix diversos pobles wendat fortificats, entre ells Saint-Louis i Saint-Ignace, on són assassinats els missioners jesuïtes Jean de Brébeuf i Gabriel Lalemant."
+          },
+          {
+            "fr": "La nation wendat se disperse : certains rejoignent d'autres nations, d'autres sont adoptés de force par les Haudenosaunee, et un groupe fuit vers Québec pour fonder Wendake, où vivent aujourd'hui leurs descendants.",
+            "es": "La nación wendat se dispersa: algunos se unen a otras naciones, otros son adoptados por la fuerza por los haudenosaunee, y un grupo huye hacia Quebec para fundar Wendake, donde viven hoy sus descendientes.",
+            "ca": "La nació wendat es dispersa: alguns s'uneixen a altres nacions, d'altres són adoptats per la força pels haudenosaunee, i un grup fuig cap a Quebec per fundar Wendake, on hi viuen avui els seus descendents."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Longtemps avant l'arrivée des Européens, les Wendats (Hurons), établis au sud de la baie Georgienne, et les Haudenosaunee (la Confédération des Cinq-Nations iroquoises), plus au sud dans l'actuel État de New York, entretenaient une rivalité ancienne, malgré des langues et des modes de vie très proches.",
+            "es": "Mucho antes de la llegada de los europeos, los wendat (hurones), establecidos al sur de la bahía Georgiana, y los haudenosaunee (la Confederación de las Cinco Naciones iroquesas), más al sur en el actual estado de Nueva York, mantenían una rivalidad antigua, pese a lenguas y modos de vida muy cercanos.",
+            "ca": "Molt abans de l'arribada dels europeus, els wendat (hurons), establerts al sud de la badia Georgiana, i els haudenosaunee (la Confederació de les Cinc Nacions iroqueses), més al sud a l'actual estat de Nova York, mantenien una rivalitat antiga, malgrat llengües i maneres de viure molt properes."
+          },
+          {
+            "h": {
+              "fr": "Le commerce attise la guerre",
+              "es": "El comercio atiza la guerra",
+              "ca": "El comerç atia la guerra"
+            }
+          },
+          {
+            "fr": "L'arrivée des Européens transforme cette rivalité régionale en conflit continental. Les Wendats deviennent les principaux fournisseurs de fourrures des Français, tandis que les Haudenosaunee nouent une alliance commerciale avec les Hollandais de Fort Orange (Albany), qui leur vendent des armes à feu.",
+            "es": "La llegada de los europeos transforma esta rivalidad regional en un conflicto continental. Los wendat se convierten en los principales proveedores de pieles de los franceses, mientras que los haudenosaunee entablan una alianza comercial con los holandeses de Fort Orange (Albany), que les venden armas de fuego.",
+            "ca": "L'arribada dels europeus transforma aquesta rivalitat regional en un conflicte continental. Els wendat esdevenen els principals proveïdors de pells dels francesos, mentre que els haudenosaunee estableixen una aliança comercial amb els holandesos de Fort Orange (Albany), que els venen armes de foc."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Marie%20Among%20the%20Hurons.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sainte-Marie_among_the_Hurons",
+              "credit": {
+                "es": "Reconstitución de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons.",
+                "ca": "Reconstitució de Sainte-Marie-au-pays-des-Hurons, Ontario — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Le castor se raréfiant sur leur propre territoire, les Haudenosaunee lancent, dans les années 1640, une série de campagnes que les historiens appellent les « guerres de la fourrure » (Beaver Wars), cherchant à contrôler les routes de traite et à s'approprier les territoires de chasse de leurs voisins.",
+            "es": "Al escasear el castor en su propio territorio, los haudenosaunee lanzan, en la década de 1640, una serie de campañas que los historiadores llaman las «guerras de la piel» (Beaver Wars), buscando controlar las rutas comerciales y apropiarse de los territorios de caza de sus vecinos.",
+            "ca": "En escassejar el castor al seu propi territori, els haudenosaunee llancen, a la dècada de 1640, una sèrie de campanyes que els historiadors anomenen les «guerres de la pell» (Beaver Wars), buscant controlar les rutes comercials i apropiar-se dels territoris de caça dels seus veïns."
+          },
+          {
+            "h": {
+              "fr": "La chute de la Huronie",
+              "es": "La caída de la Huronía",
+              "ca": "La caiguda de la Huronia"
+            }
+          },
+          {
+            "fr": "Affaiblis par les épidémies de variole apportées par les Européens — qui tuent près de la moitié de leur population dans les années 1630 — les Wendats ne peuvent résister. En mars 1649, une offensive haudenosaunee détruit les villages fortifiés de Saint-Ignace et de Saint-Louis ; les missionnaires jésuites Jean de Brébeuf et Gabriel Lalemant, capturés, y sont torturés et tués.",
+            "es": "Debilitados por las epidemias de viruela traídas por los europeos —que matan a cerca de la mitad de su población en la década de 1630—, los wendat no pueden resistir. En marzo de 1649, una ofensiva haudenosaunee destruye los pueblos fortificados de Saint-Ignace y Saint-Louis; los misioneros jesuitas Jean de Brébeuf y Gabriel Lalemant, capturados, son torturados y asesinados allí.",
+            "ca": "Afeblits per les epidèmies de verola portades pels europeus —que maten prop de la meitat de la seva població a la dècada de 1630—, els wendat no poden resistir. Al març del 1649, una ofensiva haudenosaunee destrueix els pobles fortificats de Saint-Ignace i Saint-Louis; els missioners jesuïtes Jean de Brébeuf i Gabriel Lalemant, capturats, hi són torturats i assassinats."
+          },
+          {
+            "fr": "Les jésuites brûlent eux-mêmes leur mission de Sainte-Marie pour éviter qu'elle ne tombe aux mains de l'ennemi. La nation wendat, autrefois forte de 20 000 à 30 000 personnes, se disperse en quelques mois : certains groupes sont adoptés de force par les Haudenosaunee, d'autres rejoignent les Pétuns ou fuient vers l'ouest jusqu'au Wisconsin.",
+            "es": "Los propios jesuitas queman su misión de Sainte-Marie para evitar que caiga en manos del enemigo. La nación wendat, antaño fuerte de 20 000 a 30 000 personas, se dispersa en pocos meses: algunos grupos son adoptados por la fuerza por los haudenosaunee, otros se unen a los petún o huyen hacia el oeste hasta Wisconsin.",
+            "ca": "Els mateixos jesuïtes cremen la seva missió de Sainte-Marie per evitar que caigui en mans de l'enemic. La nació wendat, antany forta de 20.000 a 30.000 persones, es dispersa en pocs mesos: alguns grups són adoptats per la força pels haudenosaunee, d'altres s'uneixen als petun o fugen cap a l'oest fins al Wisconsin."
+          },
+          {
+            "h": {
+              "fr": "Un siècle plus tard : la Grande Paix",
+              "es": "Un siglo después: la Gran Paz",
+              "ca": "Un segle després: la Gran Pau"
+            }
+          },
+          {
+            "fr": "Un groupe de survivants wendats se réfugie près de Québec et fonde Wendake, où leurs descendants vivent toujours. Le conflit entre Haudenosaunee et nations alliées des Français dure encore un demi-siècle, jusqu'à la Grande Paix de Montréal en 1701, qui met fin à des décennies d'affrontements.",
+            "es": "Un grupo de sobrevivientes wendat se refugia cerca de Quebec y funda Wendake, donde sus descendientes viven todavía. El conflicto entre haudenosaunee y las naciones aliadas de los franceses dura todavía medio siglo, hasta la Gran Paz de Montreal en 1701, que pone fin a décadas de enfrentamientos.",
+            "ca": "Un grup de supervivents wendat es refugia a prop de Quebec i funda Wendake, on els seus descendents encara hi viuen. El conflicte entre haudenosaunee i les nacions aliades dels francesos dura encara mig segle, fins a la Gran Pau de Mont-real el 1701, que posa fi a dècades d'enfrontaments."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une rivalité",
+          "es": "una rivalidad",
+          "ca": "una rivalitat"
+        },
+        {
+          "mot": "s'affaiblir",
+          "es": "debilitarse",
+          "ca": "afeblir-se"
+        },
+        {
+          "mot": "détruire",
+          "es": "destruir",
+          "ca": "destruir"
+        },
+        {
+          "mot": "se disperser",
+          "es": "dispersarse",
+          "ca": "dispersar-se"
+        },
+        {
+          "mot": "un(e) survivant(e)",
+          "es": "un/a superviviente",
+          "ca": "un/a supervivent"
+        },
+        {
+          "mot": "une offensive",
+          "es": "una ofensiva",
+          "ca": "una ofensiva"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué dos pueblos eran rivales antes de la llegada de los europeos?",
+            "ca": "Quins dos pobles eren rivals abans de l'arribada dels europeus?"
+          },
+          "piste": {
+            "es": "los wendat y los haudenosaunee",
+            "ca": "els wendat i els haudenosaunee"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Con quién comerciaban los haudenosaunee, y qué les vendían?",
+            "ca": "Amb qui comerciaven els haudenosaunee, i què els venien?"
+          },
+          "piste": {
+            "es": "con los holandeses, armas de fuego",
+            "ca": "amb els holandesos, armes de foc"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó en 1649?",
+            "ca": "Què va passar el 1649?"
+          },
+          "piste": {
+            "es": "la destrucción de los pueblos wendat / la caída de la Huronía",
+            "ca": "la destrucció dels pobles wendat / la caiguda de la Huronia"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Dónde se refugió un grupo de sobrevivientes wendat, y qué existe todavía ahí?",
+            "ca": "On es va refugiar un grup de supervivents wendat, i què hi existeix encara?"
+          },
+          "piste": {
+            "es": "cerca de Quebec, en Wendake, donde viven sus descendientes",
+            "ca": "a prop de Quebec, a Wendake, on hi viuen els seus descendents"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Sainte-Marie among the Hurons",
+          "url": "https://en.wikipedia.org/wiki/Sainte-Marie_among_the_Hurons"
+        },
+        {
+          "titre": "Sainte-Marie among the Hurons — Culmination of the Iroquoian Wars",
+          "url": "https://www.communitystories.ca/v2/story-of_histoire-de-ste-marie-ii/story/culmination-iroquoian-warssainte-marie-1-destruction/"
+        }
+      ]
+    }
+  ]
+}

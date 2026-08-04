@@ -1,0 +1,249 @@
+{
+  "textes": [
+    {
+      "id": "resistance_pontiac",
+      "emoji": "🪶",
+      "theme": "Histoire",
+      "periode": "1763 à 1766",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Siege_of_Fort_Detroit.jpg",
+        "credit": {
+          "es": "«El sitio de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons.",
+          "ca": "«El setge de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La resistencia de Pontiac: cuando los aliados de Francia refusan la derrota",
+        "ca": "La resistència de Pontiac: quan els aliats de França refusen la derrota"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Après la défaite française à Québec, les nations des Grands Lacs perdent leur allié : la France.",
+            "es": "Tras la derrota francesa en Quebec, las naciones de los Grandes Lagos pierden a su aliado: Francia.",
+            "ca": "Després de la derrota francesa a Quebec, les nacions dels Grans Llacs perden el seu aliat: França."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Siege_of_Fort_Detroit.jpg",
+              "credit": {
+                "es": "«El sitio de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons.",
+                "ca": "«El setge de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Un chef odawa, Pontiac, refuse d'accepter la domination anglaise. Un prophète, Neolin, l'inspire à s'unir contre les Anglais.",
+            "es": "Un jefe odawa, Pontiac, se niega a aceptar la dominación inglesa. Un profeta, Neolin, lo inspira a unirse contra los ingleses.",
+            "ca": "Un cap odawa, Pontiac, es nega a acceptar la dominació anglesa. Un profeta, Neolin, l'inspira a unir-se contra els anglesos."
+          },
+          {
+            "fr": "En 1763, plusieurs nations attaquent ensemble les forts anglais. Pontiac attaque le fort de Détroit.",
+            "es": "En 1763, varias naciones atacan juntas los fuertes ingleses. Pontiac ataca el fuerte de Detroit.",
+            "ca": "El 1763, diverses nacions ataquen juntes els forts anglesos. Pontiac ataca el fort de Detroit."
+          },
+          {
+            "fr": "Beaucoup de forts anglais tombent. Mais Détroit résiste, et Pontiac doit finalement arrêter le siège.",
+            "es": "Muchos fuertes ingleses caen. Pero Detroit resiste, y Pontiac finalmente tiene que detener el sitio.",
+            "ca": "Molts forts anglesos cauen. Però Detroit resisteix, i Pontiac finalment ha d'aturar el setge."
+          },
+          {
+            "fr": "Pour calmer la situation, le roi anglais publie la Proclamation royale de 1763.",
+            "es": "Para calmar la situación, el rey inglés publica la Proclamación Real de 1763.",
+            "ca": "Per calmar la situació, el rei anglès publica la Proclamació Reial de 1763."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La chute de la Nouvelle-France en 1763 laisse les nations des Grands Lacs — Odawas, Ojibwés, Potéouatamis et bien d'autres — sans leur allié historique. Les nouveaux administrateurs britanniques, contrairement aux Français, refusent d'offrir des cadeaux traditionnels et traitent les nations avec mépris.",
+            "es": "La caída de Nueva Francia en 1763 deja a las naciones de los Grandes Lagos —odawa, ojibwe, potawatomi y muchas otras— sin su aliado histórico. Los nuevos administradores británicos, a diferencia de los franceses, se niegan a ofrecer regalos tradicionales y tratan a las naciones con desprecio.",
+            "ca": "La caiguda de la Nova França el 1763 deixa les nacions dels Grans Llacs —odawa, ojibwe, potawatomi i moltes altres— sense el seu aliat històric. Els nous administradors britànics, a diferència dels francesos, es neguen a oferir regals tradicionals i tracten les nacions amb menyspreu."
+          },
+          {
+            "h": {
+              "fr": "Le message de Neolin",
+              "es": "El mensaje de Neolin",
+              "ca": "El missatge de Neolin"
+            }
+          },
+          {
+            "fr": "Un prophète delaware, Neolin, prêche un retour aux traditions autochtones et le rejet des biens européens. Le chef odawa Pontiac s'inspire de ce message pour unir plusieurs nations contre l'occupant anglais.",
+            "es": "Un profeta delaware, Neolin, predica un retorno a las tradiciones indígenas y el rechazo de los bienes europeos. El jefe odawa Pontiac se inspira en este mensaje para unir a varias naciones contra el ocupante inglés.",
+            "ca": "Un profeta delaware, Neolin, predica un retorn a les tradicions indígenes i el rebuig dels béns europeus. El cap odawa Pontiac s'inspira en aquest missatge per unir diverses nacions contra l'ocupant anglès."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Siege_of_Fort_Detroit.jpg",
+              "credit": {
+                "es": "«El sitio de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons.",
+                "ca": "«El setge de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le siège de Détroit et la révolte des forts",
+              "es": "El sitio de Detroit y la revuelta de los fuertes",
+              "ca": "El setge de Detroit i la revolta dels forts"
+            }
+          },
+          {
+            "fr": "En mai 1763, Pontiac assiège le fort de Détroit tandis que d'autres nations attaquent simultanément une dizaine de forts britanniques dans la région des Grands Lacs et de la vallée de l'Ohio. Plusieurs tombent rapidement, mais Détroit résiste pendant des mois.",
+            "es": "En mayo de 1763, Pontiac sitia el fuerte de Detroit mientras otras naciones atacan simultáneamente una decena de fuertes británicos en la región de los Grandes Lagos y el valle de Ohio. Varios caen rápidamente, pero Detroit resiste durante meses.",
+            "ca": "El maig del 1763, Pontiac assetja el fort de Detroit mentre altres nacions ataquen simultàniament una desena de forts britànics a la regió dels Grans Llacs i la vall de l'Ohio. Diversos cauen ràpidament, però Detroit resisteix durant mesos."
+          },
+          {
+            "fr": "Sans munitions ni soutien français, la coalition s'effrite peu à peu et Pontiac lève le siège en octobre 1763. Face à la révolte, la couronne britannique publie la Proclamation royale, qui reconnaît un vaste territoire autochtone protégé à l'ouest des Appalaches.",
+            "es": "Sin municiones ni apoyo francés, la coalición se desmorona poco a poco y Pontiac levanta el sitio en octubre de 1763. Ante la revuelta, la corona británica publica la Proclamación Real, que reconoce un vasto territorio indígena protegido al oeste de los Apalaches.",
+            "ca": "Sense municions ni suport francès, la coalició es desfà a poc a poc i Pontiac aixeca el setge l'octubre del 1763. Davant la revolta, la corona britànica publica la Proclamació Reial, que reconeix un vast territori indígena protegit a l'oest dels Apalatxes."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "La capitulation française de 1763 ne signifie pas seulement un changement de drapeau : pour les nations alliées de la France dans la région des Grands Lacs — Odawas, Ojibwés, Potéouatamis, Hurons-Wendats, Shawnees et bien d'autres — elle représente la perte d'un partenaire diplomatique qui, contrairement aux Britanniques, entretenait leurs alliances par des cadeaux réguliers, sans jamais chercher à s'installer massivement sur leurs terres.",
+            "es": "La capitulación francesa de 1763 no significa solo un cambio de bandera: para las naciones aliadas de Francia en la región de los Grandes Lagos —odawa, ojibwe, potawatomi, hurones-wendat, shawnee y muchas otras— representa la pérdida de un socio diplomático que, a diferencia de los británicos, mantenía sus alianzas con regalos regulares, sin buscar nunca instalarse masivamente en sus tierras.",
+            "ca": "La capitulació francesa del 1763 no significa només un canvi de bandera: per a les nacions aliades de França a la regió dels Grans Llacs —odawa, ojibwe, potawatomi, hurons-wendat, shawnee i moltes altres— representa la pèrdua d'un soci diplomàtic que, a diferència dels britànics, mantenia les seves aliances amb regals regulars, sense buscar mai instal·lar-se massivament a les seves terres."
+          },
+          {
+            "h": {
+              "fr": "Le message de Neolin",
+              "es": "El mensaje de Neolin",
+              "ca": "El missatge de Neolin"
+            }
+          },
+          {
+            "fr": "Le nouveau commandant britannique, Jeffery Amherst, coupe ces cadeaux traditionnels et méprise ouvertement les nations autochtones, qu'il considère comme des sujets vaincus plutôt que des alliés. Dans ce contexte, le prophète delaware Neolin prêche un renouveau spirituel : rejeter l'alcool et les biens européens, revenir aux modes de vie ancestraux pour retrouver la faveur du Grand Esprit.",
+            "es": "El nuevo comandante británico, Jeffery Amherst, corta esos regalos tradicionales y desprecia abiertamente a las naciones indígenas, a quienes considera súbditos vencidos en lugar de aliados. En este contexto, el profeta delaware Neolin predica un renacimiento espiritual: rechazar el alcohol y los bienes europeos, volver a los modos de vida ancestrales para recuperar el favor del Gran Espíritu.",
+            "ca": "El nou comandant britànic, Jeffery Amherst, talla aquests regals tradicionals i menysprea obertament les nacions indígenes, a qui considera súbdits vençuts en comptes d'aliats. En aquest context, el profeta delaware Neolin predica un renaixement espiritual: rebutjar l'alcohol i els béns europeus, tornar a les maneres de viure ancestrals per recuperar el favor del Gran Esperit."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Siege_of_Fort_Detroit.jpg",
+              "credit": {
+                "es": "«El sitio de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons.",
+                "ca": "«El setge de Fort Detroit», pintura de Frederic Remington — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une résistance coordonnée sur tout un territoire",
+              "es": "Una resistencia coordinada en todo un territorio",
+              "ca": "Una resistència coordinada en tot un territori"
+            }
+          },
+          {
+            "fr": "Le chef odawa Pontiac s'approprie ce message pour bâtir une coalition inter-nations sans précédent. Le 7 mai 1763, il tente de prendre le fort de Détroit par ruse, avant d'en entamer le siège formel. Au même moment, d'autres nations lancent des offensives coordonnées contre une dizaine de forts britanniques du Michigan à la Pennsylvanie ; huit tombent en quelques semaines, dont Fort Sandusky et Fort Michilimackinac.",
+            "es": "El jefe odawa Pontiac se apropia de este mensaje para construir una coalición interétnica sin precedentes. El 7 de mayo de 1763, intenta tomar el fuerte de Detroit por astucia, antes de iniciar el sitio formal. Al mismo tiempo, otras naciones lanzan ofensivas coordinadas contra una decena de fuertes británicos desde Michigan hasta Pensilvania; ocho caen en pocas semanas, entre ellos Fort Sandusky y Fort Michilimackinac.",
+            "ca": "El cap odawa Pontiac s'apropia d'aquest missatge per construir una coalició interètnica sense precedents. El 7 de maig del 1763, intenta prendre el fort de Detroit amb enginy, abans d'iniciar-ne el setge formal. Al mateix temps, altres nacions llancen ofensives coordinades contra una desena de forts britànics des de Michigan fins a Pennsilvània; vuit cauen en poques setmanes, entre ells Fort Sandusky i Fort Michilimackinac."
+          },
+          {
+            "fr": "Le siège de Détroit dure cinq mois. Amherst, désespéré, envisage même de distribuer des couvertures contaminées par la variole — un des rares cas documentés de guerre biologique délibérée dans l'histoire coloniale nord-américaine. Sans munitions et sans le soutien logistique qu'offrait autrefois la France, la coalition se fragmente et Pontiac lève le siège en octobre 1763.",
+            "es": "El sitio de Detroit dura cinco meses. Amherst, desesperado, incluso contempla distribuir mantas contaminadas con viruela —uno de los pocos casos documentados de guerra biológica deliberada en la historia colonial norteamericana. Sin municiones y sin el apoyo logístico que antes ofrecía Francia, la coalición se fragmenta y Pontiac levanta el sitio en octubre de 1763.",
+            "ca": "El setge de Detroit dura cinc mesos. Amherst, desesperat, fins i tot es planteja distribuir mantes contaminades amb verola —un dels pocs casos documentats de guerra biològica deliberada en la història colonial nord-americana. Sense municions i sense el suport logístic que abans oferia França, la coalició es fragmenta i Pontiac aixeca el setge l'octubre del 1763."
+          },
+          {
+            "h": {
+              "fr": "Un impact durable malgré la défaite",
+              "es": "Un impacto duradero pese a la derrota",
+              "ca": "Un impacte durador malgrat la derrota"
+            }
+          },
+          {
+            "fr": "Bien que militairement inachevée, cette résistance a un impact politique immédiat : inquiète des coûts et des risques d'un conflit prolongé, la couronne britannique publie le 7 octobre 1763 la Proclamation royale, qui interdit toute colonisation à l'ouest des Appalaches sans traité préalable avec les nations autochtones — la première reconnaissance officielle d'un titre autochtone sur ces terres, encore citée aujourd'hui dans les négociations territoriales au Canada.",
+            "es": "Aunque militarmente inconclusa, esta resistencia tiene un impacto político inmediato: preocupada por los costos y riesgos de un conflicto prolongado, la corona británica publica el 7 de octubre de 1763 la Proclamación Real, que prohíbe toda colonización al oeste de los Apalaches sin un tratado previo con las naciones indígenas —el primer reconocimiento oficial de un título indígena sobre esas tierras, todavía citado hoy en las negociaciones territoriales en Canadá.",
+            "ca": "Tot i ser militarment inacabada, aquesta resistència té un impacte polític immediat: preocupada pels costos i riscos d'un conflicte prolongat, la corona britànica publica el 7 d'octubre del 1763 la Proclamació Reial, que prohibeix tota colonització a l'oest dels Apalatxes sense un tractat previ amb les nacions indígenes —el primer reconeixement oficial d'un títol indígena sobre aquestes terres, encara citat avui en les negociacions territorials al Canadà."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une coalition inter-nations",
+          "es": "una coalición interétnica",
+          "ca": "una coalició interètnica"
+        },
+        {
+          "mot": "mépriser",
+          "es": "despreciar",
+          "ca": "menysprear"
+        },
+        {
+          "mot": "un siège",
+          "es": "un sitio",
+          "ca": "un setge"
+        },
+        {
+          "mot": "s'effriter / se fragmenter",
+          "es": "desmoronarse / fragmentarse",
+          "ca": "desfer-se / fragmentar-se"
+        },
+        {
+          "mot": "un prophète",
+          "es": "un profeta",
+          "ca": "un profeta"
+        },
+        {
+          "mot": "une reconnaissance (de droits)",
+          "es": "un reconocimiento (de derechos)",
+          "ca": "un reconeixement (de drets)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué naciones pierden a su aliado con la caída de Nueva Francia?",
+            "ca": "Quines nacions perden el seu aliat amb la caiguda de la Nova França?"
+          },
+          "piste": {
+            "es": "las naciones de los Grandes Lagos (odawa, ojibwe, potawatomi, etc.)",
+            "ca": "les nacions dels Grans Llacs (odawa, ojibwe, potawatomi, etc.)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién es Neolin, y qué predicaba?",
+            "ca": "Qui és Neolin, i què predicava?"
+          },
+          "piste": {
+            "es": "un profeta delaware que predicaba el rechazo de los bienes europeos",
+            "ca": "un profeta delaware que predicava el rebuig dels béns europeus"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuánto tiempo duró el sitio de Detroit?",
+            "ca": "Quant de temps va durar el setge de Detroit?"
+          },
+          "piste": {
+            "es": "cinco meses",
+            "ca": "cinc mesos"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué documento publica la corona británica en octubre de 1763, y qué establece?",
+            "ca": "Quin document publica la corona britànica l'octubre de 1763, i què estableix?"
+          },
+          "piste": {
+            "es": "la Proclamación Real; prohíbe la colonización sin tratado con las naciones indígenas",
+            "ca": "la Proclamació Reial; prohibeix la colonització sense tractat amb les nacions indígenes"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Pontiac's War",
+          "url": "https://en.wikipedia.org/wiki/Pontiac%27s_War"
+        },
+        {
+          "titre": "Wikipedia — Siege of Fort Detroit",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Detroit"
+        }
+      ]
+    }
+  ]
+}

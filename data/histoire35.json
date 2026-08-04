@@ -1,0 +1,249 @@
+{
+  "textes": [
+    {
+      "id": "proclamation_royale_1763",
+      "emoji": "📜",
+      "theme": "Histoire",
+      "periode": "1763",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Proclamation%20of%201763.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Royal_Proclamation_of_1763.jpg",
+        "credit": {
+          "es": "La Proclamación Real de 1763 — Wikimedia Commons.",
+          "ca": "La Proclamació Reial de 1763 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La Proclamación Real de 1763: la primera línea trazada",
+        "ca": "La Proclamació Reial de 1763: la primera línia traçada"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Après la résistance de Pontiac, le roi d'Angleterre George III publie un document important le 7 octobre 1763.",
+            "es": "Tras la resistencia de Pontiac, el rey de Inglaterra Jorge III publica un documento importante el 7 de octubre de 1763.",
+            "ca": "Després de la resistència de Pontiac, el rei d'Anglaterra Jordi III publica un document important el 7 d'octubre de 1763."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Proclamation%20of%201763.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Royal_Proclamation_of_1763.jpg",
+              "credit": {
+                "es": "La Proclamación Real de 1763 — Wikimedia Commons.",
+                "ca": "La Proclamació Reial de 1763 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Ce document s'appelle la Proclamation royale. Il trace une ligne le long des montagnes Appalaches.",
+            "es": "Ese documento se llama la Proclamación Real. Traza una línea a lo largo de las montañas Apalaches.",
+            "ca": "Aquest document es diu la Proclamació Reial. Traça una línia al llarg de les muntanyes Apalatxes."
+          },
+          {
+            "fr": "À l'est de la ligne, les colons anglais peuvent s'installer. À l'ouest, c'est un territoire autochtone protégé.",
+            "es": "Al este de la línea, los colonos ingleses pueden instalarse. Al oeste, es un territorio indígena protegido.",
+            "ca": "A l'est de la línia, els colons anglesos es poden instal·lar. A l'oest, és un territori indígena protegit."
+          },
+          {
+            "fr": "C'est la première fois que les Anglais reconnaissent officiellement des droits territoriaux aux nations autochtones.",
+            "es": "Es la primera vez que los ingleses reconocen oficialmente derechos territoriales a las naciones indígenas.",
+            "ca": "És la primera vegada que els anglesos reconeixen oficialment drets territorials a les nacions indígenes."
+          },
+          {
+            "fr": "Mais beaucoup de colons anglais n'aiment pas cette ligne. Ça va créer des tensions qui mènent plus tard à la Révolution américaine.",
+            "es": "Pero muchos colonos ingleses no les gusta esa línea. Eso va a crear tensiones que llevan más tarde a la Revolución americana.",
+            "ca": "Però a molts colons anglesos no els agrada aquesta línia. Això crearà tensions que porten més tard a la Revolució americana."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Publiée le 7 octobre 1763, quelques jours avant que Pontiac ne lève le siège de Détroit, la Proclamation royale répond directement à la résistance des nations des Grands Lacs. Le roi George III y trace une ligne le long de la crête des Appalaches.",
+            "es": "Publicada el 7 de octubre de 1763, unos días antes de que Pontiac levantara el sitio de Detroit, la Proclamación Real responde directamente a la resistencia de las naciones de los Grandes Lagos. El rey Jorge III traza allí una línea a lo largo de la cresta de los Apalaches.",
+            "ca": "Publicada el 7 d'octubre de 1763, uns dies abans que Pontiac aixequés el setge de Detroit, la Proclamació Reial respon directament a la resistència de les nacions dels Grans Llacs. El rei Jordi III hi traça una línia al llarg de la carena dels Apalatxes."
+          },
+          {
+            "h": {
+              "fr": "Une ligne, deux mondes",
+              "es": "Una línea, dos mundos",
+              "ca": "Una línia, dos mons"
+            }
+          },
+          {
+            "fr": "À l'est de cette ligne, les treize colonies britanniques peuvent continuer à s'étendre. À l'ouest, un vaste territoire est désigné « réserve indienne » : la colonisation y est interdite, et seule la couronne peut négocier l'achat de terres directement avec les nations autochtones, par traité.",
+            "es": "Al este de esta línea, las trece colonias británicas pueden seguir expandiéndose. Al oeste, un vasto territorio se designa como «reserva india»: la colonización está prohibida allí, y solo la corona puede negociar la compra de tierras directamente con las naciones indígenas, mediante tratado.",
+            "ca": "A l'est d'aquesta línia, les tretze colònies britàniques poden continuar expandint-se. A l'oest, un vast territori es designa «reserva índia»: la colonització hi és prohibida, i només la corona pot negociar la compra de terres directament amb les nacions indígenes, mitjançant tractat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Proclamation%20of%201763.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Royal_Proclamation_of_1763.jpg",
+              "credit": {
+                "es": "La Proclamación Real de 1763 — Wikimedia Commons.",
+                "ca": "La Proclamació Reial de 1763 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une reconnaissance… et une frustration",
+              "es": "Un reconocimiento… y una frustración",
+              "ca": "Un reconeixement… i una frustració"
+            }
+          },
+          {
+            "fr": "C'est la première fois que la couronne britannique reconnaît formellement un titre autochtone sur les terres à l'ouest — un principe encore invoqué aujourd'hui dans les tribunaux canadiens. Mais pour de nombreux colons et spéculateurs des treize colonies, qui rêvaient de s'étendre vers l'ouest après leur victoire dans la guerre de Sept Ans, cette ligne est vécue comme une trahison.",
+            "es": "Es la primera vez que la corona británica reconoce formalmente un título indígena sobre las tierras al oeste —un principio todavía invocado hoy en los tribunales canadienses. Pero para muchos colonos y especuladores de las trece colonias, que soñaban con expandirse hacia el oeste tras su victoria en la guerra de los Siete Años, esta línea se vive como una traición.",
+            "ca": "És la primera vegada que la corona britànica reconeix formalment un títol indígena sobre les terres a l'oest —un principi encara invocat avui als tribunals canadencs. Però per a molts colons i especuladors de les tretze colònies, que somiaven expandir-se cap a l'oest després de la seva victòria a la guerra dels Set Anys, aquesta línia es viu com una traïció."
+          },
+          {
+            "fr": "Cette frustration, ajoutée aux nouvelles taxes imposées pour financer la défense de la frontière, devient l'un des griefs qui alimentent la Révolution américaine une décennie plus tard.",
+            "es": "Esta frustración, sumada a los nuevos impuestos impuestos para financiar la defensa de la frontera, se convierte en uno de los agravios que alimentan la Revolución americana una década después.",
+            "ca": "Aquesta frustració, sumada als nous impostos imposats per finançar la defensa de la frontera, esdevé un dels greuges que alimenten la Revolució americana una dècada més tard."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Publiée le 7 octobre 1763, quelques jours seulement avant que Pontiac ne lève le siège de Détroit, la Proclamation royale de George III n'est pas un simple document administratif : c'est une réponse directe, presque une capitulation politique, face à l'ampleur de la résistance autochtone dans la région des Grands Lacs.",
+            "es": "Publicada el 7 de octubre de 1763, apenas unos días antes de que Pontiac levantara el sitio de Detroit, la Proclamación Real de Jorge III no es un simple documento administrativo: es una respuesta directa, casi una capitulación política, ante la magnitud de la resistencia indígena en la región de los Grandes Lagos.",
+            "ca": "Publicada el 7 d'octubre del 1763, tan sols uns dies abans que Pontiac aixequés el setge de Detroit, la Proclamació Reial de Jordi III no és un simple document administratiu: és una resposta directa, gairebé una capitulació política, davant la magnitud de la resistència indígena a la regió dels Grans Llacs."
+          },
+          {
+            "h": {
+              "fr": "Une ligne, deux mondes",
+              "es": "Una línea, dos mundos",
+              "ca": "Una línia, dos mons"
+            }
+          },
+          {
+            "fr": "Le document trace une ligne le long de la ligne de partage des eaux des Appalaches : à l'est, les treize colonies britanniques peuvent poursuivre leur expansion ; à l'ouest, un immense territoire — depuis les Grands Lacs jusqu'à la Floride — devient une « réserve indienne » où toute colonisation est interdite sans traité préalable négocié directement par la couronne avec les nations concernées.",
+            "es": "El documento traza una línea a lo largo de la divisoria de aguas de los Apalaches: al este, las trece colonias británicas pueden proseguir su expansión; al oeste, un inmenso territorio —desde los Grandes Lagos hasta Florida— se convierte en una «reserva india» donde toda colonización queda prohibida sin un tratado previo negociado directamente por la corona con las naciones afectadas.",
+            "ca": "El document traça una línia al llarg de la línia de partició d'aigües dels Apalatxes: a l'est, les tretze colònies britàniques poden prosseguir la seva expansió; a l'oest, un immens territori —des dels Grans Llacs fins a Florida— esdevé una «reserva índia» on tota colonització queda prohibida sense un tractat previ negociat directament per la corona amb les nacions afectades."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Proclamation%20of%201763.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Royal_Proclamation_of_1763.jpg",
+              "credit": {
+                "es": "La Proclamación Real de 1763 — Wikimedia Commons.",
+                "ca": "La Proclamació Reial de 1763 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un principe juridique toujours vivant",
+              "es": "Un principio jurídico todavía vivo",
+              "ca": "Un principi jurídic encara viu"
+            }
+          },
+          {
+            "fr": "Cette proclamation établit un principe fondamental encore central dans le droit canadien contemporain : celui du titre autochtone, c'est-à-dire la reconnaissance juridique que les nations autochtones détiennent des droits préexistants sur leurs terres, que la couronne doit respecter et ne peut ignorer unilatéralement. Le document interdit même explicitement aux colons privés d'acheter des terres directement aux nations autochtones — seule la couronne, via traité, en a le pouvoir.",
+            "es": "Esta proclamación establece un principio fundamental todavía central en el derecho canadiense contemporáneo: el del título indígena, es decir, el reconocimiento jurídico de que las naciones indígenas poseen derechos preexistentes sobre sus tierras, que la corona debe respetar y no puede ignorar unilateralmente. El documento incluso prohíbe explícitamente a los colonos privados comprar tierras directamente a las naciones indígenas —solo la corona, mediante tratado, tiene ese poder.",
+            "ca": "Aquesta proclamació estableix un principi fonamental encara central en el dret canadenc contemporani: el del títol indígena, és a dir, el reconeixement jurídic que les nacions indígenes tenen drets preexistents sobre les seves terres, que la corona ha de respectar i no pot ignorar unilateralment. El document fins i tot prohibeix explícitament als colons privats comprar terres directament a les nacions indígenes —només la corona, mitjançant tractat, en té el poder."
+          },
+          {
+            "h": {
+              "fr": "Une frontière qui alimente une révolution",
+              "es": "Una frontera que alimenta una revolución",
+              "ca": "Una frontera que alimenta una revolució"
+            }
+          },
+          {
+            "fr": "Pour les colons et spéculateurs fonciers des treize colonies — dont plusieurs futurs pères fondateurs des États-Unis, comme George Washington, qui possédait des intérêts dans des terres à l'ouest de la ligne —, cette restriction est perçue comme une trahison après leur contribution militaire à la victoire de la guerre de Sept Ans.",
+            "es": "Para los colonos y especuladores de tierras de las trece colonias —entre ellos varios futuros padres fundadores de Estados Unidos, como George Washington, que poseía intereses en tierras al oeste de la línea—, esta restricción se percibe como una traición tras su contribución militar a la victoria en la guerra de los Siete Años.",
+            "ca": "Per als colons i especuladors de terres de les tretze colònies —entre ells diversos futurs pares fundadors dels Estats Units, com George Washington, que tenia interessos en terres a l'oest de la línia—, aquesta restricció es percep com una traïció després de la seva contribució militar a la victòria a la guerra dels Set Anys."
+          },
+          {
+            "fr": "Combinée aux nouvelles taxes destinées à financer les troupes stationnées le long de cette frontière, la Proclamation royale devient l'un des premiers griefs majeurs entre Londres et ses colonies américaines — un ressentiment qui, additionné à d'autres, débouchera sur la Révolution américaine à partir de 1775.",
+            "es": "Combinada con los nuevos impuestos destinados a financiar las tropas apostadas a lo largo de esa frontera, la Proclamación Real se convierte en uno de los primeros grandes agravios entre Londres y sus colonias americanas —un resentimiento que, sumado a otros, desembocará en la Revolución americana a partir de 1775.",
+            "ca": "Combinada amb els nous impostos destinats a finançar les tropes apostades al llarg d'aquella frontera, la Proclamació Reial esdevé un dels primers grans greuges entre Londres i les seves colònies americanes —un ressentiment que, sumat a d'altres, desembocarà en la Revolució americana a partir del 1775."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une proclamation",
+          "es": "una proclamación",
+          "ca": "una proclamació"
+        },
+        {
+          "mot": "un titre (autochtone)",
+          "es": "un título (indígena)",
+          "ca": "un títol (indígena)"
+        },
+        {
+          "mot": "une frontière",
+          "es": "una frontera",
+          "ca": "una frontera"
+        },
+        {
+          "mot": "un(e) spéculateur(-trice)",
+          "es": "un/a especulador/a",
+          "ca": "un/a especulador/a"
+        },
+        {
+          "mot": "un grief",
+          "es": "un agravio",
+          "ca": "un greuge"
+        },
+        {
+          "mot": "unilatéralement",
+          "es": "unilateralmente",
+          "ca": "unilateralment"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuándo se publica la Proclamación Real, y qué rey la firma?",
+            "ca": "Quan es publica la Proclamació Reial, i quin rei la signa?"
+          },
+          "piste": {
+            "es": "el 7 de octubre de 1763, el rey Jorge III",
+            "ca": "el 7 d'octubre de 1763, el rei Jordi III"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué separa la línea trazada por la proclamación?",
+            "ca": "Què separa la línia traçada per la proclamació?"
+          },
+          "piste": {
+            "es": "las trece colonias al este, y una reserva indígena protegida al oeste",
+            "ca": "les tretze colònies a l'est, i una reserva indígena protegida a l'oest"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién puede comprar tierras a las naciones indígenas al oeste de la línea?",
+            "ca": "Qui pot comprar terres a les nacions indígenes a l'oest de la línia?"
+          },
+          "piste": {
+            "es": "solo la corona británica, mediante tratado",
+            "ca": "només la corona britànica, mitjançant tractat"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué esta proclamación frustra a los colonos de las trece colonias?",
+            "ca": "Per què aquesta proclamació frustra els colons de les tretze colònies?"
+          },
+          "piste": {
+            "es": "les impide expandirse hacia el oeste tras haber luchado en la guerra",
+            "ca": "els impedeix expandir-se cap a l'oest després d'haver lluitat a la guerra"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Royal Proclamation of 1763",
+          "url": "https://en.wikipedia.org/wiki/Royal_Proclamation_of_1763"
+        },
+        {
+          "titre": "The Canadian Encyclopedia — Royal Proclamation of 1763",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/royal-proclamation-of-1763"
+        }
+      ]
+    }
+  ]
+}

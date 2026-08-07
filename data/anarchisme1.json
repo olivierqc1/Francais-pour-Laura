@@ -1,0 +1,242 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_courants",
+      "emoji": "🏴",
+      "theme": "Politique",
+      "periode": "1840 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/19th%20century%20anarchists%2C%20Proudhon%2C%20Bakunin%2C%20Kropotkin.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:19th_century_anarchists,_Proudhon,_Bakunin,_Kropotkin.jpg",
+        "credit": {
+          "es": "Proudhon, Bakunin y Kropotkin, tres grandes teóricos del anarquismo del siglo XIX — Wikimedia Commons.",
+          "ca": "Proudhon, Bakunin i Kropotkin, tres grans teòrics de l'anarquisme del segle XIX — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarquismo y sus grandes corrientes",
+        "ca": "L'anarquisme i els seus grans corrents"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "L'anarchisme est une idée politique. Elle dit que l'État n'est pas nécessaire pour bien vivre ensemble.",
+            "es": "El anarquismo es una idea política. Dice que el Estado no es necesario para vivir bien juntos.",
+            "ca": "L'anarquisme és una idea política. Diu que l'Estat no és necessari per viure bé junts."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/19th%20century%20anarchists%2C%20Proudhon%2C%20Bakunin%2C%20Kropotkin.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:19th_century_anarchists,_Proudhon,_Bakunin,_Kropotkin.jpg",
+              "credit": {
+                "es": "Proudhon, Bakunin y Kropotkin, tres grandes teóricos del anarquismo del siglo XIX — Wikimedia Commons.",
+                "ca": "Proudhon, Bakunin i Kropotkin, tres grans teòrics de l'anarquisme del segle XIX — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1840, un Français, Pierre-Joseph Proudhon, écrit : « La propriété, c'est le vol ! ». C'est une phrase très célèbre.",
+            "es": "En 1840, un francés, Pierre-Joseph Proudhon, escribe: «¡La propiedad es un robo!». Es una frase muy famosa.",
+            "ca": "El 1840, un francès, Pierre-Joseph Proudhon, escriu: «La propietat és un robatori!». És una frase molt famosa."
+          },
+          {
+            "fr": "Il existe plusieurs courants anarchistes. Ils ne sont pas tous d'accord entre eux.",
+            "es": "Existen varias corrientes anarquistas. No todas están de acuerdo entre ellas.",
+            "ca": "Existeixen diversos corrents anarquistes. No totes hi estan d'acord entre elles."
+          },
+          {
+            "fr": "Le collectivisme (Bakounine) et le communisme anarchiste (Kropotkine) veulent une société sans classes et sans État.",
+            "es": "El colectivismo (Bakunin) y el comunismo anarquista (Kropotkin) quieren una sociedad sin clases y sin Estado.",
+            "ca": "El col·lectivisme (Bakunin) i el comunisme anarquista (Kropotkin) volen una societat sense classes i sense Estat."
+          },
+          {
+            "fr": "L'anarcho-syndicalisme, lui, pense que les syndicats de travailleurs peuvent changer la société par la grève générale.",
+            "es": "El anarcosindicalismo, en cambio, piensa que los sindicatos de trabajadores pueden cambiar la sociedad mediante la huelga general.",
+            "ca": "L'anarcosindicalisme, en canvi, pensa que els sindicats de treballadors poden canviar la societat mitjançant la vaga general."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "L'anarchisme est une philosophie politique qui critique toute forme de domination — celle de l'État, mais aussi celle du patron sur l'ouvrier ou du propriétaire sur le locataire. Le mot vient du grec « anarkhia », l'absence de chef.",
+            "es": "El anarquismo es una filosofía política que critica toda forma de dominación —la del Estado, pero también la del patrón sobre el obrero o del propietario sobre el inquilino. La palabra viene del griego «anarkhia», la ausencia de jefe.",
+            "ca": "L'anarquisme és una filosofia política que critica tota forma de dominació —la de l'Estat, però també la del patró sobre l'obrer o del propietari sobre l'inquilí. La paraula ve del grec «anarkhia», l'absència de cap."
+          },
+          {
+            "h": {
+              "fr": "Mutualisme et collectivisme",
+              "es": "Mutualismo y colectivismo",
+              "ca": "Mutualisme i col·lectivisme"
+            }
+          },
+          {
+            "fr": "Pierre-Joseph Proudhon, premier penseur à se dire « anarchiste », propose en 1840 le mutualisme : des coopératives de petits producteurs échangent librement, sans patron ni État, mais en gardant une forme de propriété individuelle du travail.",
+            "es": "Pierre-Joseph Proudhon, primer pensador que se autodenomina «anarquista», propone en 1840 el mutualismo: cooperativas de pequeños productores intercambian libremente, sin patrón ni Estado, pero manteniendo una forma de propiedad individual del trabajo.",
+            "ca": "Pierre-Joseph Proudhon, primer pensador que s'autoanomena «anarquista», proposa el 1840 el mutualisme: cooperatives de petits productors intercanvien lliurement, sense patró ni Estat, però mantenint una forma de propietat individual del treball."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+              "credit": {
+                "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+                "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Le Russe Mikhaïl Bakounine va plus loin avec le collectivisme : il rejette toute propriété privée des moyens de production, qui doivent appartenir collectivement aux travailleurs organisés en communes et fédérations.",
+            "es": "El ruso Mijaíl Bakunin va más lejos con el colectivismo: rechaza toda propiedad privada de los medios de producción, que deben pertenecer colectivamente a los trabajadores organizados en comunas y federaciones.",
+            "ca": "El rus Mikhail Bakunin va més lluny amb el col·lectivisme: rebutja tota propietat privada dels mitjans de producció, que han de pertànyer col·lectivament als treballadors organitzats en comunes i federacions."
+          },
+          {
+            "h": {
+              "fr": "Communisme anarchiste et syndicalisme",
+              "es": "Comunismo anarquista y sindicalismo",
+              "ca": "Comunisme anarquista i sindicalisme"
+            }
+          },
+          {
+            "fr": "Piotr Kropotkine développe ensuite le communisme anarchiste : il faut aussi abolir le salaire, chacun prenant selon ses besoins dans une production commune, basée sur l'entraide plutôt que la compétition. L'anarcho-syndicalisme, très fort en Espagne et en France au début du XXe siècle, mise sur les syndicats de travailleurs et la grève générale pour renverser le capitalisme.",
+            "es": "Piotr Kropotkin desarrolla después el comunismo anarquista: hay que abolir también el salario, tomando cada uno según sus necesidades de una producción común, basada en la ayuda mutua en lugar de la competencia. El anarcosindicalismo, muy fuerte en España y Francia a principios del siglo XX, apuesta por los sindicatos de trabajadores y la huelga general para derrocar el capitalismo.",
+            "ca": "Piotr Kropotkin desenvolupa després el comunisme anarquista: cal abolir també el salari, prenent cadascú segons les seves necessitats d'una producció comuna, basada en l'ajuda mútua en comptes de la competència. L'anarcosindicalisme, molt fort a Espanya i França a principis del segle XX, aposta pels sindicats de treballadors i la vaga general per enderrocar el capitalisme."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'anarchisme n'est pas un bloc unique mais une famille de pensées politiques qui partagent un socle commun — le rejet de toute hiérarchie de domination injustifiée, qu'elle vienne de l'État, du capital ou d'autres formes d'autorité — tout en divergeant fortement sur les moyens et l'organisation économique à privilégier.",
+            "es": "El anarquismo no es un bloque único sino una familia de pensamientos políticos que comparten un núcleo común —el rechazo de toda jerarquía de dominación injustificada, venga del Estado, del capital u otras formas de autoridad— aunque divergen fuertemente sobre los medios y la organización económica a privilegiar.",
+            "ca": "L'anarquisme no és un bloc únic sinó una família de pensaments polítics que comparteixen un nucli comú —el rebuig de tota jerarquia de dominació injustificada, vingui de l'Estat, del capital o altres formes d'autoritat— tot i que divergeixen fortament sobre els mitjans i l'organització econòmica a privilegiar."
+          },
+          {
+            "h": {
+              "fr": "Mutualisme et collectivisme",
+              "es": "Mutualismo y colectivismo",
+              "ca": "Mutualisme i col·lectivisme"
+            }
+          },
+          {
+            "fr": "Pierre-Joseph Proudhon, dans « Qu'est-ce que la propriété ? » (1840), inaugure le terme en répondant lui-même à sa question par la formule restée célèbre : « la propriété, c'est le vol ». Il propose le mutualisme, un système de coopératives et de crédit mutuel entre petits producteurs indépendants, qui conserve une forme de propriété individuelle du fruit du travail tout en abolissant la rente et l'exploitation.",
+            "es": "Pierre-Joseph Proudhon, en «¿Qué es la propiedad?» (1840), inaugura el término respondiendo él mismo a su pregunta con la fórmula que ha quedado célebre: «la propiedad es un robo». Propone el mutualismo, un sistema de cooperativas y crédito mutuo entre pequeños productores independientes, que conserva una forma de propiedad individual del fruto del trabajo mientras abole la renta y la explotación.",
+            "ca": "Pierre-Joseph Proudhon, a «Què és la propietat?» (1840), inaugura el terme responent ell mateix a la seva pregunta amb la fórmula que ha quedat cèlebre: «la propietat és un robatori». Proposa el mutualisme, un sistema de cooperatives i crèdit mutu entre petits productors independents, que conserva una forma de propietat individual del fruit del treball mentre aboleix la renda i l'explotació."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+              "credit": {
+                "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+                "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Mikhaïl Bakounine, rival de Marx au sein de la Première Internationale, radicalise cette critique avec le collectivisme : les moyens de production doivent être socialisés et gérés collectivement par des fédérations de communes et de syndicats, sans État intermédiaire — Bakounine prédisant que la « dictature du prolétariat » marxiste ne ferait que créer une nouvelle classe dirigeante bureaucratique.",
+            "es": "Mijaíl Bakunin, rival de Marx dentro de la Primera Internacional, radicaliza esta crítica con el colectivismo: los medios de producción deben ser socializados y gestionados colectivamente por federaciones de comunas y sindicatos, sin Estado intermediario —Bakunin predijo que la «dictadura del proletariado» marxista solo crearía una nueva clase dirigente burocrática.",
+            "ca": "Mikhail Bakunin, rival de Marx dins la Primera Internacional, radicalitza aquesta crítica amb el col·lectivisme: els mitjans de producció han de ser socialitzats i gestionats col·lectivament per federacions de comunes i sindicats, sense Estat intermediari —Bakunin va predir que la «dictadura del proletariat» marxista només crearia una nova classe dirigent burocràtica."
+          },
+          {
+            "h": {
+              "fr": "Communisme anarchiste et syndicalisme révolutionnaire",
+              "es": "Comunismo anarquista y sindicalismo revolucionario",
+              "ca": "Comunisme anarquista i sindicalisme revolucionari"
+            }
+          },
+          {
+            "fr": "Piotr Kropotkine, géographe et prince russe devenu révolutionnaire, développe dans « La Conquête du pain » (1892) le communisme anarchiste : au-delà de la socialisation des moyens de production, il faut abolir le salariat lui-même et organiser la répartition selon les besoins de chacun, un principe qu'il justifie scientifiquement dans « L'Entraide » en montrant que la coopération, et non seulement la compétition darwinienne, est un facteur clé de l'évolution.",
+            "es": "Piotr Kropotkin, geógrafo y príncipe ruso convertido en revolucionario, desarrolla en «La conquista del pan» (1892) el comunismo anarquista: más allá de la socialización de los medios de producción, hay que abolir el propio salario y organizar el reparto según las necesidades de cada uno, un principio que justifica científicamente en «El apoyo mutuo» mostrando que la cooperación, y no solo la competencia darwiniana, es un factor clave de la evolución.",
+            "ca": "Piotr Kropotkin, geògraf i príncep rus convertit en revolucionari, desenvolupa a «La conquesta del pa» (1892) el comunisme anarquista: més enllà de la socialització dels mitjans de producció, cal abolir el mateix salari i organitzar el repartiment segons les necessitats de cadascú, un principi que justifica científicament a «L'ajuda mútua» mostrant que la cooperació, i no només la competència darwiniana, és un factor clau de l'evolució."
+          },
+          {
+            "fr": "Enfin, l'anarcho-syndicalisme, formalisé notamment par la CGT française et la CNT espagnole au tournant du XXe siècle, mise sur l'organisation des travailleurs en syndicats révolutionnaires et sur la grève générale comme moyen concret de renverser le capitalisme — une stratégie qui trouvera son application la plus spectaculaire en Espagne en 1936.",
+            "es": "Finalmente, el anarcosindicalismo, formalizado especialmente por la CGT francesa y la CNT española a comienzos del siglo XX, apuesta por la organización de los trabajadores en sindicatos revolucionarios y por la huelga general como medio concreto de derrocar el capitalismo —una estrategia que encontrará su aplicación más espectacular en España en 1936.",
+            "ca": "Finalment, l'anarcosindicalisme, formalitzat especialment per la CGT francesa i la CNT espanyola a principis del segle XX, aposta per l'organització dels treballadors en sindicats revolucionaris i per la vaga general com a mitjà concret d'enderrocar el capitalisme —una estratègia que trobarà la seva aplicació més espectacular a Espanya el 1936."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'État",
+          "es": "el Estado",
+          "ca": "l'Estat"
+        },
+        {
+          "mot": "un syndicat",
+          "es": "un sindicato",
+          "ca": "un sindicat"
+        },
+        {
+          "mot": "une grève générale",
+          "es": "una huelga general",
+          "ca": "una vaga general"
+        },
+        {
+          "mot": "l'entraide",
+          "es": "la ayuda mutua",
+          "ca": "l'ajuda mútua"
+        },
+        {
+          "mot": "le salariat",
+          "es": "el asalariado (sistema salarial)",
+          "ca": "el salariat"
+        },
+        {
+          "mot": "une hiérarchie",
+          "es": "una jerarquía",
+          "ca": "una jerarquia"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué frase famosa escribió Proudhon en 1840?",
+            "ca": "Quina frase famosa va escriure Proudhon el 1840?"
+          },
+          "piste": {
+            "es": "«la propiedad es un robo»",
+            "ca": "«la propietat és un robatori»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es la diferencia principal entre el mutualismo y el colectivismo?",
+            "ca": "Quina és la diferència principal entre el mutualisme i el col·lectivisme?"
+          },
+          "piste": {
+            "es": "el mutualismo conserva la propiedad individual del trabajo, el colectivismo la socializa por completo",
+            "ca": "el mutualisme conserva la propietat individual del treball, el col·lectivisme la socialitza completament"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué añade Kropotkin al colectivismo de Bakunin?",
+            "ca": "Què afegeix Kropotkin al col·lectivisme de Bakunin?"
+          },
+          "piste": {
+            "es": "la abolición del propio salario, repartiendo según las necesidades de cada uno",
+            "ca": "l'abolició del mateix salari, repartint segons les necessitats de cadascú"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué se basa el anarcosindicalismo para cambiar la sociedad?",
+            "ca": "En què es basa l'anarcosindicalisme per canviar la societat?"
+          },
+          "piste": {
+            "es": "en los sindicatos de trabajadores y la huelga general",
+            "ca": "en els sindicats de treballadors i la vaga general"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Anarchism",
+          "url": "https://en.wikipedia.org/wiki/Anarchism"
+        },
+        {
+          "titre": "Encyclopédie Larousse — Anarchisme",
+          "url": "https://www.larousse.fr/encyclopedie/divers/anarchisme/24401"
+        }
+      ]
+    }
+  ]
+}

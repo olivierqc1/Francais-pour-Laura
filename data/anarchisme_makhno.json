@@ -1,0 +1,282 @@
+{
+  "textes": [
+    {
+      "id": "makhno_makhnovtchina",
+      "emoji": "⚫",
+      "theme": "Politique",
+      "periode": "1888 à 1934",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%201920.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_1920.jpg",
+        "credit": {
+          "es": "Néstor Majnó, 1920 — Wikimedia Commons.",
+          "ca": "Nestor Makhno, 1920 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Néstor Majnó y el territorio libre de Ucrania",
+        "ca": "Nestor Makhno i el territori lliure d'Ucraïna"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Nestor Makhno naît en 1888 dans une famille pauvre de paysans, en Ukraine. Il devient anarchiste très jeune.",
+            "es": "Néstor Majnó nace en 1888 en una familia pobre de campesinos, en Ucrania. Se hace anarquista muy joven.",
+            "ca": "Nestor Makhno neix el 1888 en una família pobra de pagesos, a Ucraïna. Es fa anarquista molt jove."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%201920.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_1920.jpg",
+              "credit": {
+                "es": "Néstor Majnó, 1920 — Wikimedia Commons.",
+                "ca": "Nestor Makhno, 1920 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1917, la Russie fait une révolution. En Ukraine, Makhno organise les paysans de sa région, autour de la ville de Houliaïpole.",
+            "es": "En 1917, Rusia hace una revolución. En Ucrania, Majnó organiza a los campesinos de su región, alrededor de la ciudad de Huliaipole.",
+            "ca": "El 1917, Rússia fa una revolució. A Ucraïna, Makhno organitza els pagesos de la seva regió, al voltant de la ciutat de Huliaipole."
+          },
+          {
+            "fr": "Les paysans prennent les terres des grands propriétaires et les partagent. Ils créent des conseils libres pour décider ensemble.",
+            "es": "Los campesinos toman las tierras de los grandes propietarios y las reparten. Crean consejos libres para decidir juntos.",
+            "ca": "Els pagesos prenen les terres dels grans propietaris i les reparteixen. Creen consells lliures per decidir junts."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%20au%20centre%20avec%20Fedir%20Shchus%20%C3%A0%20droite%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_au_centre_avec_Fedir_Shchus_%C3%A0_droite,_1919.jpg",
+              "credit": {
+                "es": "Néstor Majnó (centro) con comandantes majnovistas, 1919 — Wikimedia Commons.",
+                "ca": "Nestor Makhno (al centre) amb comandants makhnovistes, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Makhno crée aussi une armée, l'Armée insurrectionnelle. Elle se déplace vite, en chariots avec des mitrailleuses.",
+            "es": "Majnó también crea un ejército, el Ejército Insurgente. Se desplaza rápido, en carros con ametralladoras.",
+            "ca": "Makhno també crea un exèrcit, l'Exèrcit Insurgent. Es desplaça ràpid, en carros amb metralladores."
+          },
+          {
+            "fr": "D'abord, les bolcheviks de Lénine et Makhno sont alliés. Mais ils se trahissent plusieurs fois.",
+            "es": "Al principio, los bolcheviques de Lenin y Majnó son aliados. Pero se traicionan varias veces.",
+            "ca": "Al principi, els bolxevics de Lenin i Makhno són aliats. Però es traeixen diverses vegades."
+          },
+          {
+            "fr": "En 1921, l'Armée rouge écrase les forces de Makhno. Il doit fuir en exil et meurt à Paris en 1934, pauvre et malade.",
+            "es": "En 1921, el Ejército Rojo aplasta a las fuerzas de Majnó. Tiene que huir al exilio y muere en París en 1934, pobre y enfermo.",
+            "ca": "El 1921, l'Exèrcit Roig aixafa les forces de Makhno. Ha de fugir a l'exili i mor a París el 1934, pobre i malalt."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Nestor Makhno naît en 1888 à Houliaïpole, en Ukraine, dans une famille paysanne très pauvre. Jeune ouvrier agricole, il rejoint des groupes anarchistes locaux et participe à des actions violentes contre des propriétaires terriens, ce qui lui vaut d'être condamné à mort, puis emprisonné pendant près de dix ans.",
+            "es": "Néstor Majnó nace en 1888 en Huliaipole, Ucrania, en una familia campesina muy pobre. Joven obrero agrícola, se une a grupos anarquistas locales y participa en acciones violentas contra terratenientes, lo que le vale ser condenado a muerte, y luego encarcelado durante casi diez años.",
+            "ca": "Nestor Makhno neix el 1888 a Huliaipole, Ucraïna, en una família pagesa molt pobra. Jove obrer agrícola, s'uneix a grups anarquistes locals i participa en accions violentes contra terratinents, cosa que li val ser condemnat a mort, i després empresonat durant gairebé deu anys."
+          },
+          {
+            "h": {
+              "fr": "La révolution en Ukraine",
+              "es": "La revolución en Ucrania",
+              "ca": "La revolució a Ucraïna"
+            }
+          },
+          {
+            "fr": "Libéré par la révolution de février 1917, Makhno retourne à Houliaïpole et organise les paysans de sa région : il aide à confisquer les terres des grands propriétaires pour les redistribuer, et met en place des « soviets libres », des conseils locaux qui décident sans obéir à un parti central.",
+            "es": "Liberado por la revolución de febrero de 1917, Majnó regresa a Huliaipole y organiza a los campesinos de su región: ayuda a confiscar las tierras de los grandes propietarios para redistribuirlas, y establece «sóviets libres», consejos locales que deciden sin obedecer a un partido central.",
+            "ca": "Alliberat per la revolució de febrer de 1917, Makhno torna a Huliaipole i organitza els pagesos de la seva regió: ajuda a confiscar les terres dels grans propietaris per redistribuir-les, i estableix «soviets lliures», consells locals que decideixen sense obeir un partit central."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%20au%20centre%20avec%20Fedir%20Shchus%20%C3%A0%20droite%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_au_centre_avec_Fedir_Shchus_%C3%A0_droite,_1919.jpg",
+              "credit": {
+                "es": "Néstor Majnó (centro) con comandantes majnovistas, 1919 — Wikimedia Commons.",
+                "ca": "Nestor Makhno (al centre) amb comandants makhnovistes, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "L'Armée insurrectionnelle",
+              "es": "El Ejército Insurgente",
+              "ca": "L'Exèrcit Insurgent"
+            }
+          },
+          {
+            "fr": "Pour défendre ce territoire libre contre les armées blanches (royalistes) et les troupes allemandes, Makhno crée l'Armée insurrectionnelle révolutionnaire ukrainienne, célèbre pour ses « tatchankas » — des chariots légers équipés de mitrailleuses, très mobiles, qui donnent à ses troupes paysannes une redoutable capacité de manœuvre.",
+            "es": "Para defender este territorio libre contra los ejércitos blancos (monárquicos) y las tropas alemanas, Majnó crea el Ejército Insurgente Revolucionario de Ucrania, célebre por sus «tachankas» —carros ligeros equipados con ametralladoras, muy móviles, que dan a sus tropas campesinas una temible capacidad de maniobra.",
+            "ca": "Per defensar aquest territori lliure contra els exèrcits blancs (monàrquics) i les tropes alemanyes, Makhno crea l'Exèrcit Insurgent Revolucionari d'Ucraïna, cèlebre pels seus «tatxankas» —carros lleugers equipats amb metralladores, molt mòbils, que donen a les seves tropes pageses una temible capacitat de maniobra."
+          },
+          {
+            "fr": "Makhno s'allie à plusieurs reprises avec l'Armée rouge des bolcheviks contre l'ennemi commun blanc, une alliance essentielle à la victoire finale des rouges dans le sud de l'Ukraine.",
+            "es": "Majnó se alía en varias ocasiones con el Ejército Rojo de los bolcheviques contra el enemigo blanco común, una alianza esencial para la victoria final de los rojos en el sur de Ucrania.",
+            "ca": "Makhno s'alia en diverses ocasions amb l'Exèrcit Roig dels bolxevics contra l'enemic blanc comú, una aliança essencial per a la victòria final dels rojos al sud d'Ucraïna."
+          },
+          {
+            "h": {
+              "fr": "La trahison et la fin",
+              "es": "La traición y el final",
+              "ca": "La traïció i el final"
+            }
+          },
+          {
+            "fr": "Mais dès que la menace blanche disparaît, les bolcheviks, qui ne tolèrent aucun pouvoir régional autonome, retournent leurs armes contre les makhnovistes. Trahi à plusieurs reprises, Makhno résiste jusqu'en 1921, puis doit fuir vers la Roumanie, la Pologne, enfin la France, où il meurt en 1934, dans la pauvreté, sans jamais avoir pu rentrer chez lui.",
+            "es": "Pero en cuanto la amenaza blanca desaparece, los bolcheviques, que no toleran ningún poder regional autónomo, vuelven sus armas contra los majnovistas. Traicionado en varias ocasiones, Majnó resiste hasta 1921, y luego debe huir hacia Rumania, Polonia, y finalmente Francia, donde muere en 1934, en la pobreza, sin haber podido nunca regresar a casa.",
+            "ca": "Però tan bon punt l'amenaça blanca desapareix, els bolxevics, que no toleren cap poder regional autònom, giren les seves armes contra els makhnovistes. Traït en diverses ocasions, Makhno resisteix fins al 1921, i després ha de fugir cap a Romania, Polònia, i finalment França, on mor el 1934, en la pobresa, sense haver pogut mai tornar a casa."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1888 à Houliaïpole, dans le sud-est de l'Ukraine, Nestor Makhno grandit dans une famille paysanne d'une extrême pauvreté. Ouvrier agricole dès l'enfance, il rejoint à dix-sept ans un groupe anarchiste local qui mène des expropriations armées contre les grands propriétaires terriens de la région ; arrêté en 1908, il échappe de justesse à la peine de mort et passe près de neuf ans dans la prison de Boutyrki à Moscou, où il approfondit sa formation politique aux côtés d'anarchistes plus expérimentés.",
+            "es": "Nacido en 1888 en Huliaipole, en el sureste de Ucrania, Néstor Majnó crece en una familia campesina de extrema pobreza. Obrero agrícola desde la infancia, se une a los diecisiete años a un grupo anarquista local que lleva a cabo expropiaciones armadas contra los grandes terratenientes de la región; detenido en 1908, escapa por poco de la pena de muerte y pasa cerca de nueve años en la prisión de Butyrka en Moscú, donde profundiza su formación política junto a anarquistas más experimentados.",
+
+            "ca": "Nascut el 1888 a Huliaipole, al sud-est d'Ucraïna, Nestor Makhno creix en una família pagesa d'extrema pobresa. Obrer agrícola des de la infància, s'uneix als disset anys a un grup anarquista local que duu a terme expropiacions armades contra els grans terratinents de la regió; detingut el 1908, escapa per poc de la pena de mort i passa prop de nou anys a la presó de Butirka a Moscou, on aprofundeix la seva formació política al costat d'anarquistes més experimentats."
+          },
+          {
+            "h": {
+              "fr": "La révolution en Ukraine",
+              "es": "La revolución en Ucrania",
+              "ca": "La revolució a Ucraïna"
+            }
+          },
+          {
+            "fr": "Libéré par la révolution de février 1917, Makhno retourne immédiatement à Houliaïpole, où il prend la tête du mouvement paysan local : confiscation et redistribution des terres des grands domaines, création de « soviets libres » et de communes agricoles autogérées, en rupture radicale avec le modèle centralisé que les bolcheviks commencent à imposer ailleurs en Russie. Cette expérience, connue sous le nom de Makhnovtchina, s'étend à son apogée sur un territoire comptant plusieurs millions d'habitants dans le sud-est de l'Ukraine.",
+            "es": "Liberado por la revolución de febrero de 1917, Majnó regresa inmediatamente a Huliaipole, donde toma la cabeza del movimiento campesino local: confiscación y redistribución de las tierras de los grandes latifundios, creación de «sóviets libres» y de comunas agrícolas autogestionadas, en ruptura radical con el modelo centralizado que los bolcheviques empiezan a imponer en el resto de Rusia. Esta experiencia, conocida como Majnóvschina, se extiende en su apogeo sobre un territorio con varios millones de habitantes en el sureste de Ucrania.",
+            "ca": "Alliberat per la revolució de febrer de 1917, Makhno torna immediatament a Huliaipole, on pren el capdavant del moviment pagès local: confiscació i redistribució de les terres dels grans latifundis, creació de «soviets lliures» i de comunes agrícoles autogestionades, en ruptura radical amb el model centralitzat que els bolxevics comencen a imposar a la resta de Rússia. Aquesta experiència, coneguda com la Makhnóvxina, s'estén en el seu apogeu sobre un territori amb diversos milions d'habitants al sud-est d'Ucraïna."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%20au%20centre%20avec%20Fedir%20Shchus%20%C3%A0%20droite%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_au_centre_avec_Fedir_Shchus_%C3%A0_droite,_1919.jpg",
+              "credit": {
+                "es": "Néstor Majnó (centro) con comandantes majnovistas, 1919 — Wikimedia Commons.",
+                "ca": "Nestor Makhno (al centre) amb comandants makhnovistes, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "L'Armée insurrectionnelle",
+              "es": "El Ejército Insurgente",
+              "ca": "L'Exèrcit Insurgent"
+            }
+          },
+          {
+            "fr": "Pour défendre ce territoire contre les armées blanches contre-révolutionnaires, les troupes austro-allemandes d'occupation, puis les nationalistes ukrainiens, Makhno organise l'Armée insurrectionnelle révolutionnaire ukrainienne (souvent surnommée Makhnovtchina, comme le mouvement lui-même). Elle se distingue par l'usage massif de « tatchankas », des charrettes légères tirées par des chevaux et équipées de mitrailleuses, qui offrent une mobilité tactique inédite face à des armées plus lourdes et moins flexibles — une innovation militaire née directement de l'ingéniosité paysanne.",
+            "es": "Para defender este territorio contra los ejércitos blancos contrarrevolucionarios, las tropas austroalemanas de ocupación, y luego los nacionalistas ucranianos, Majnó organiza el Ejército Insurgente Revolucionario de Ucrania (a menudo apodado Majnóvschina, como el propio movimiento). Se distingue por el uso masivo de «tachankas», carros ligeros tirados por caballos y equipados con ametralladoras, que ofrecen una movilidad táctica inédita frente a ejércitos más pesados y menos flexibles —una innovación militar nacida directamente del ingenio campesino.",
+            "ca": "Per defensar aquest territori contra els exèrcits blancs contrarevolucionaris, les tropes austroalemanyes d'ocupació, i després els nacionalistes ucraïnesos, Makhno organitza l'Exèrcit Insurgent Revolucionari d'Ucraïna (sovint anomenat Makhnóvxina, com el mateix moviment). Es distingeix per l'ús massiu de «tatxankas», carros lleugers estirats per cavalls i equipats amb metralladores, que ofereixen una mobilitat tàctica inèdita davant exèrcits més pesants i menys flexibles —una innovació militar nascuda directament de l'enginy pagès."
+          },
+          {
+            "fr": "Makhno conclut à trois reprises des alliances tactiques avec l'Armée rouge contre l'ennemi blanc commun — notamment décisive lors de la défaite de Wrangel en Crimée fin 1920 — mais chaque fois, une fois la menace blanche écartée, les bolcheviks rompent l'accord et tentent d'éliminer le mouvement makhnoviste, incapables de tolérer un pouvoir régional autonome et anti-autoritaire au sein de ce qui deviendra l'URSS.",
+            "es": "Majnó concluye en tres ocasiones alianzas tácticas con el Ejército Rojo contra el enemigo blanco común —especialmente decisiva en la derrota de Wrangel en Crimea a finales de 1920—, pero cada vez, una vez descartada la amenaza blanca, los bolcheviques rompen el acuerdo e intentan eliminar al movimiento majnovista, incapaces de tolerar un poder regional autónomo y antiautoritario dentro de lo que se convertirá en la URSS.",
+            "ca": "Makhno conclou en tres ocasions aliances tàctiques amb l'Exèrcit Roig contra l'enemic blanc comú —especialment decisiva en la derrota de Wrangel a Crimea a finals de 1920—, però cada vegada, un cop descartada l'amenaça blanca, els bolxevics trenquen l'acord i intenten eliminar el moviment makhnovista, incapaços de tolerar un poder regional autònom i antiautoritari dins del que esdevindrà l'URSS."
+          },
+          {
+            "h": {
+              "fr": "La trahison, la défaite et l'exil",
+              "es": "La traición, la derrota y el exilio",
+              "ca": "La traïció, la derrota i l'exili"
+            }
+          },
+          {
+            "fr": "Après la dernière rupture de fin 1920, l'Armée rouge, désormais libre de concentrer toutes ses forces contre lui, écrase méthodiquement le mouvement makhnoviste au cours de l'année 1921. Blessé plusieurs fois, Makhno doit fuir avec une poignée de fidèles, traverse la frontière roumaine, puis vit en exil en Pologne — où il est brièvement emprisonné — avant de s'installer définitivement à Paris.",
+            "es": "Tras la última ruptura de finales de 1920, el Ejército Rojo, ahora libre de concentrar todas sus fuerzas contra él, aplasta metódicamente al movimiento majnovista a lo largo de 1921. Herido varias veces, Majnó debe huir con un puñado de fieles, cruza la frontera rumana, y luego vive en el exilio en Polonia —donde es brevemente encarcelado— antes de instalarse definitivamente en París.",
+            "ca": "Després de l'última ruptura de finals de 1920, l'Exèrcit Roig, ara lliure de concentrar totes les seves forces contra ell, aixafa metòdicament el moviment makhnovista al llarg del 1921. Ferit diverses vegades, Makhno ha de fugir amb un grapat de fidels, travessa la frontera romanesa, i després viu a l'exili a Polònia —on és breument empresonat— abans d'instal·lar-se definitivament a París."
+          },
+          {
+            "fr": "En exil, appauvri et miné par les séquelles de ses blessures de guerre, Makhno participe néanmoins à la rédaction de la « Plateforme d'Arshinov » (1926), un texte majeur qui propose de structurer le mouvement anarchiste en une organisation cohérente et disciplinée — une proposition très débattue, que certains jugent nécessaire après l'échec ukrainien, et d'autres contraire à l'esprit libertaire. Il meurt tuberculeux à Paris en 1934, à 45 ans, sans jamais avoir pu revoir l'Ukraine ; ses cendres reposent au cimetière du Père-Lachaise.",
+            "es": "En el exilio, empobrecido y minado por las secuelas de sus heridas de guerra, Majnó participa sin embargo en la redacción de la «Plataforma de Arshinov» (1926), un texto importante que propone estructurar el movimiento anarquista en una organización coherente y disciplinada —una propuesta muy debatida, que algunos juzgan necesaria tras el fracaso ucraniano, y otros contraria al espíritu libertario. Muere tuberculoso en París en 1934, a los 45 años, sin haber podido regresar nunca a Ucrania; sus cenizas reposan en el cementerio del Père-Lachaise.",
+            "ca": "A l'exili, empobrit i minat per les seqüeles de les seves ferides de guerra, Makhno participa tanmateix en la redacció de la «Plataforma d'Arxínov» (1926), un text important que proposa estructurar el moviment anarquista en una organització coherent i disciplinada —una proposta molt debatuda, que alguns jutgen necessària després del fracàs ucraïnès, i d'altres contrària a l'esperit llibertari. Mor tuberculós a París el 1934, als 45 anys, sense haver pogut tornar mai a Ucraïna; les seves cendres reposen al cementiri del Père-Lachaise."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un(e) paysan(ne)",
+          "es": "un/a campesino/a",
+          "ca": "un/a pagès/pagesa"
+        },
+        {
+          "mot": "confisquer",
+          "es": "confiscar",
+          "ca": "confiscar"
+        },
+        {
+          "mot": "une armée insurrectionnelle",
+          "es": "un ejército insurgente",
+          "ca": "un exèrcit insurgent"
+        },
+        {
+          "mot": "une alliance tactique",
+          "es": "una alianza táctica",
+          "ca": "una aliança tàctica"
+        },
+        {
+          "mot": "écraser (militairement)",
+          "es": "aplastar (militarmente)",
+          "ca": "aixafar (militarment)"
+        },
+        {
+          "mot": "un exil",
+          "es": "un exilio",
+          "ca": "un exili"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Dónde y en qué contexto social nace Néstor Majnó?",
+            "ca": "On i en quin context social neix Nestor Makhno?"
+          },
+          "piste": {
+            "es": "en Huliaipole, Ucrania, en una familia campesina muy pobre",
+            "ca": "a Huliaipole, Ucraïna, en una família pagesa molt pobra"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué son las «tachankas»?",
+            "ca": "Què són les «tatxankas»?"
+          },
+          "piste": {
+            "es": "carros ligeros con ametralladoras usados por el ejército majnovista",
+            "ca": "carros lleugers amb metralladores usats per l'exèrcit makhnovista"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántas veces se alía Majnó con el Ejército Rojo, y qué pasa después cada vez?",
+            "ca": "Quantes vegades s'alia Makhno amb l'Exèrcit Roig, i què passa després cada vegada?"
+          },
+          "piste": {
+            "es": "tres veces; los bolcheviques rompen el acuerdo cada vez",
+            "ca": "tres vegades; els bolxevics trenquen l'acord cada vegada"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Dónde y cuándo muere Majnó, y qué texto redacta en el exilio?",
+            "ca": "On i quan mor Makhno, i quin text redacta a l'exili?"
+          },
+          "piste": {
+            "es": "en París en 1934; la Plataforma de Arshinov",
+            "ca": "a París el 1934; la Plataforma d'Arxínov"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Nestor Makhno",
+          "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+        },
+        {
+          "titre": "Wikipedia — Makhnovshchina",
+          "url": "https://en.wikipedia.org/wiki/Makhnovshchina"
+        }
+      ]
+    }
+  ]
+}

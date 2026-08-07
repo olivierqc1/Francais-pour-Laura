@@ -1,0 +1,319 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_grande_histoire",
+      "emoji": "📖",
+      "theme": "Politique",
+      "periode": "1840 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/19th%20century%20anarchists%2C%20Proudhon%2C%20Bakunin%2C%20Kropotkin.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:19th_century_anarchists,_Proudhon,_Bakunin,_Kropotkin.jpg",
+        "credit": {
+          "es": "Proudhon, Bakunin y Kropotkin — Wikimedia Commons.",
+          "ca": "Proudhon, Bakunin i Kropotkin — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La gran historia del anarquismo, de Proudhon a hoy",
+        "ca": "La gran història de l'anarquisme, de Proudhon a avui"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "L'anarchisme naît au 19e siècle en Europe, pendant l'industrialisation. Les ouvriers travaillent beaucoup, dans de mauvaises conditions.",
+            "es": "El anarquismo nace en el siglo XIX en Europa, durante la industrialización. Los obreros trabajan mucho, en malas condiciones.",
+            "ca": "L'anarquisme neix al segle XIX a Europa, durant la industrialització. Els obrers treballen molt, en males condicions."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/19th%20century%20anarchists%2C%20Proudhon%2C%20Bakunin%2C%20Kropotkin.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:19th_century_anarchists,_Proudhon,_Bakunin,_Kropotkin.jpg",
+              "credit": {
+                "es": "Proudhon, Bakunin y Kropotkin — Wikimedia Commons.",
+                "ca": "Proudhon, Bakunin i Kropotkin — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Au début, les anarchistes et les communistes de Marx travaillent ensemble, dans une grande organisation internationale. Mais ils se disputent, et le mouvement se divise en deux.",
+            "es": "Al principio, los anarquistas y los comunistas de Marx trabajan juntos, en una gran organización internacional. Pero se pelean, y el movimiento se divide en dos.",
+            "ca": "Al principi, els anarquistes i els comunistes de Marx treballen junts, en una gran organització internacional. Però es barallen, i el moviment es divideix en dos."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HaymarketRiot-Harpers.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:HaymarketRiot-Harpers.jpg",
+              "credit": {
+                "es": "El atentado de Haymarket, Chicago, 4 de mayo de 1886 (Harper's Weekly) — Wikimedia Commons.",
+                "ca": "L'atemptat de Haymarket, Chicago, 4 de maig de 1886 (Harper's Weekly) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Vers 1880-1890, certains anarchistes utilisent la violence — des bombes, des attentats — pour attaquer des rois et des présidents. Beaucoup de gens ont peur des anarchistes après ça.",
+            "es": "Hacia 1880-1890, algunos anarquistas usan la violencia —bombas, atentados— para atacar a reyes y presidentes. Mucha gente tiene miedo de los anarquistas después de eso.",
+            "ca": "Cap al 1880-1890, alguns anarquistes usen la violència —bombes, atemptats— per atacar reis i presidents. Molta gent té por dels anarquistes després d'això."
+          },
+          {
+            "fr": "Un peu plus tard, les anarchistes changent de méthode. Ils créent de grands syndicats de travailleurs, surtout en Espagne et en France.",
+            "es": "Un poco más tarde, los anarquistas cambian de método. Crean grandes sindicatos de trabajadores, sobre todo en España y Francia.",
+            "ca": "Una mica més tard, els anarquistes canvien de mètode. Creen grans sindicats de treballadors, sobretot a Espanya i França."
+          },
+          {
+            "fr": "En 1936, les anarchistes prennent le pouvoir à Barcelone pendant quelques années. C'est un moment historique très important — tu connais déjà cette histoire.",
+            "es": "En 1936, los anarquistas toman el poder en Barcelona durante unos años. Es un momento histórico muy importante —ya conoces esta historia.",
+            "ca": "El 1936, els anarquistes prenen el poder a Barcelona durant uns anys. És un moment històric molt important —ja coneixes aquesta història."
+          },
+          {
+            "fr": "Après 1945, le mouvement anarchiste devient plus petit. Mais en 1968, une nouvelle génération redécouvre ces idées.",
+            "es": "Tras 1945, el movimiento anarquista se vuelve más pequeño. Pero en 1968, una nueva generación redescubre estas ideas.",
+            "ca": "Després del 1945, el moviment anarquista esdevé més petit. Però el 1968, una nova generació redescobreix aquestes idees."
+          },
+          {
+            "fr": "Aujourd'hui, l'anarchisme continue sous de nouvelles formes, surtout liées à l'écologie — tu as déjà lu cette partie aussi.",
+            "es": "Hoy, el anarquismo continúa bajo nuevas formas, sobre todo ligadas a la ecología —ya has leído esa parte también.",
+            "ca": "Avui, l'anarquisme continua sota noves formes, sobretot lligades a l'ecologia —ja has llegit aquesta part també."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "L'anarchisme moderne émerge en Europe au milieu du 19e siècle, dans le contexte brutal de la révolution industrielle : des ouvriers, hommes, femmes et enfants, travaillent jusqu'à 14 heures par jour dans des usines dangereuses, sans droits ni protection.",
+            "es": "El anarquismo moderno emerge en Europa a mediados del siglo XIX, en el contexto brutal de la revolución industrial: obreros, hombres, mujeres y niños, trabajan hasta 14 horas al día en fábricas peligrosas, sin derechos ni protección.",
+            "ca": "L'anarquisme modern emergeix a Europa a mitjan segle XIX, en el context brutal de la revolució industrial: obrers, homes, dones i infants, treballen fins a 14 hores al dia en fàbriques perilloses, sense drets ni protecció."
+          },
+          {
+            "h": {
+              "fr": "Une famille qui se divise",
+              "es": "Una familia que se divide",
+              "ca": "Una família que es divideix"
+            }
+          },
+          {
+            "fr": "Dans les années 1860, anarchistes et marxistes militent ensemble au sein de l'Association internationale des travailleurs (« Première Internationale »). Mais leur désaccord sur l'État — Marx veut le prendre pour construire le socialisme, Bakounine veut l'abolir immédiatement — provoque une rupture définitive en 1872. Les deux courants ne se réconcilieront jamais vraiment.",
+            "es": "En los años 1860, anarquistas y marxistas militan juntos dentro de la Asociación Internacional de Trabajadores («Primera Internacional»). Pero su desacuerdo sobre el Estado —Marx quiere tomarlo para construir el socialismo, Bakunin quiere abolirlo de inmediato— provoca una ruptura definitiva en 1872. Las dos corrientes nunca se reconciliarán realmente.",
+            "ca": "Als anys 1860, anarquistes i marxistes militen junts dins l'Associació Internacional de Treballadors («Primera Internacional»). Però el seu desacord sobre l'Estat —Marx el vol prendre per construir el socialisme, Bakunin el vol abolir immediatament— provoca una ruptura definitiva el 1872. Els dos corrents no es reconciliaran mai realment."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HaymarketRiot-Harpers.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:HaymarketRiot-Harpers.jpg",
+              "credit": {
+                "es": "El atentado de Haymarket, Chicago, 4 de mayo de 1886 (Harper's Weekly) — Wikimedia Commons.",
+                "ca": "L'atemptat de Haymarket, Chicago, 4 de maig de 1886 (Harper's Weekly) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "L'ère des attentats",
+              "es": "La era de los atentados",
+              "ca": "L'era dels atemptats"
+            }
+          },
+          {
+            "fr": "Entre 1880 et 1900 environ, une partie du mouvement adopte la stratégie de la « propagande par le fait » : des militants commettent des attentats spectaculaires contre des symboles du pouvoir — un tsar, un président, un roi. L'attentat de Haymarket à Chicago en 1886, où une bombe explose lors d'un rassemblement ouvrier, devient un symbole international, à l'origine du 1er mai comme journée des travailleurs.",
+            "es": "Entre 1880 y 1900 aproximadamente, una parte del movimiento adopta la estrategia de la «propaganda por el hecho»: militantes cometen atentados espectaculares contra símbolos del poder —un zar, un presidente, un rey. El atentado de Haymarket en Chicago en 1886, donde una bomba explota durante una concentración obrera, se convierte en un símbolo internacional, origen del 1 de mayo como día de los trabajadores.",
+            "ca": "Entre el 1880 i el 1900 aproximadament, una part del moviment adopta l'estratègia de la «propaganda pel fet»: militants cometen atemptats espectaculars contra símbols del poder —un tsar, un president, un rei. L'atemptat de Haymarket a Chicago el 1886, on una bomba explota durant una concentració obrera, esdevé un símbol internacional, origen de l'1 de maig com a dia dels treballadors."
+          },
+          {
+            "fr": "Cette période violente donne à l'anarchisme une réputation durable de terrorisme dans l'imaginaire populaire, alors que la majorité des militants s'orientent en réalité vers d'autres méthodes.",
+            "es": "Este periodo violento da al anarquismo una reputación duradera de terrorismo en el imaginario popular, aunque la mayoría de los militantes se orientan en realidad hacia otros métodos.",
+            "ca": "Aquest període violent dona a l'anarquisme una reputació duradora de terrorisme en l'imaginari popular, encara que la majoria dels militants s'orienten en realitat cap a altres mètodes."
+          },
+          {
+            "h": {
+              "fr": "Syndicats, révolutions et déclin",
+              "es": "Sindicatos, revoluciones y declive",
+              "ca": "Sindicats, revolucions i declivi"
+            }
+          },
+          {
+            "fr": "À partir des années 1900, l'anarcho-syndicalisme devient la stratégie dominante : construire de puissants syndicats de travailleurs (la CGT en France, la CNT en Espagne) pour préparer une grève générale révolutionnaire. En Ukraine, entre 1918 et 1921, le mouvement makhnoviste bâtit même un territoire libre autogéré avant d'être écrasé par l'Armée rouge.",
+            "es": "A partir de los años 1900, el anarcosindicalismo se convierte en la estrategia dominante: construir sindicatos de trabajadores poderosos (la CGT en Francia, la CNT en España) para preparar una huelga general revolucionaria. En Ucrania, entre 1918 y 1921, el movimiento majnovista construye incluso un territorio libre autogestionado antes de ser aplastado por el Ejército Rojo.",
+            "ca": "A partir dels anys 1900, l'anarcosindicalisme esdevé l'estratègia dominant: construir sindicats de treballadors poderosos (la CGT a França, la CNT a Espanya) per preparar una vaga general revolucionària. A Ucraïna, entre el 1918 i el 1921, el moviment makhnovista construeix fins i tot un territori lliure autogestionat abans de ser aixafat per l'Exèrcit Roig."
+          },
+          {
+            "fr": "L'apogée arrive en 1936 à Barcelone — l'épisode que tu connais déjà. Mais la défaite de 1939, puis la Seconde Guerre mondiale, laissent le mouvement exsangue. Il faut attendre Mai 68 pour qu'une nouvelle génération, plus intéressée par la culture, la contre-culture et la critique de l'autorité au quotidien que par l'insurrection armée, redonne un souffle nouveau à l'anarchisme.",
+            "es": "El apogeo llega en 1936 en Barcelona —el episodio que ya conoces. Pero la derrota de 1939, y luego la Segunda Guerra Mundial, dejan al movimiento exangüe. Habrá que esperar a Mayo del 68 para que una nueva generación, más interesada en la cultura, la contracultura y la crítica de la autoridad cotidiana que en la insurrección armada, dé un nuevo aliento al anarquismo.",
+            "ca": "L'apogeu arriba el 1936 a Barcelona —l'episodi que ja coneixes. Però la derrota del 1939, i després la Segona Guerra Mundial, deixen el moviment exsangüe. Caldrà esperar el Maig del 68 perquè una nova generació, més interessada en la cultura, la contracultura i la crítica de l'autoritat quotidiana que en la insurrecció armada, doni un nou alè a l'anarquisme."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'anarchisme, en tant que mouvement politique organisé, émerge en Europe au milieu du 19e siècle, porté par la brutalité sociale de la révolution industrielle : des masses ouvrières, y compris des enfants, travaillent dans des conditions extrêmes sans aucun droit collectif, tandis que l'urbanisation déracine des populations rurales entières. C'est dans ce contexte que Pierre-Joseph Proudhon, en 1840, se revendique le premier explicitement « anarchiste ».",
+            "es": "El anarquismo, como movimiento político organizado, emerge en Europa a mediados del siglo XIX, impulsado por la brutalidad social de la revolución industrial: masas obreras, incluidos niños, trabajan en condiciones extremas sin ningún derecho colectivo, mientras la urbanización desarraiga a poblaciones rurales enteras. Es en este contexto que Pierre-Joseph Proudhon, en 1840, se reivindica el primero explícitamente «anarquista».",
+            "ca": "L'anarquisme, com a moviment polític organitzat, emergeix a Europa a mitjan segle XIX, impulsat per la brutalitat social de la revolució industrial: masses obreres, inclosos infants, treballen en condicions extremes sense cap dret col·lectiu, mentre la urbanització desarrela poblacions rurals senceres. És en aquest context que Pierre-Joseph Proudhon, el 1840, es reivindica el primer explícitament «anarquista»."
+          },
+          {
+            "h": {
+              "fr": "Une famille qui se divise",
+              "es": "Una familia que se divide",
+              "ca": "Una família que es divideix"
+            }
+          },
+
+
+          {
+            "fr": "Dans les années 1860, anarchistes et marxistes coexistent au sein de l'Association internationale des travailleurs, la « Première Internationale », unis par l'objectif commun de renverser le capitalisme. Mais un désaccord stratégique fondamental les oppose : pour Marx, il faut conquérir l'État — même temporairement, via une « dictature du prolétariat » — pour organiser la transition socialiste ; pour Bakounine, tout pouvoir centralisé, même révolutionnaire, finit par créer une nouvelle classe dirigeante bureaucratique.",
+            "es": "En los años 1860, anarquistas y marxistas coexisten dentro de la Asociación Internacional de Trabajadores, la «Primera Internacional», unidos por el objetivo común de derrocar el capitalismo. Pero un desacuerdo estratégico fundamental los opone: para Marx, hay que conquistar el Estado —aunque sea temporalmente, vía una «dictadura del proletariado»— para organizar la transición socialista; para Bakunin, todo poder centralizado, incluso revolucionario, acaba creando una nueva clase dirigente burocrática.",
+            "ca": "Als anys 1860, anarquistes i marxistes coexisteixen dins l'Associació Internacional de Treballadors, la «Primera Internacional», units per l'objectiu comú d'enderrocar el capitalisme. Però un desacord estratègic fonamental els oposa: per a Marx, cal conquerir l'Estat —encara que sigui temporalment, via una «dictadura del proletariat»— per organitzar la transició socialista; per a Bakunin, tot poder centralitzat, fins i tot revolucionari, acaba creant una nova classe dirigent burocràtica."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HaymarketRiot-Harpers.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:HaymarketRiot-Harpers.jpg",
+              "credit": {
+                "es": "El atentado de Haymarket, Chicago, 4 de mayo de 1886 (Harper's Weekly) — Wikimedia Commons.",
+                "ca": "L'atemptat de Haymarket, Chicago, 4 de maig de 1886 (Harper's Weekly) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Ce désaccord provoque la scission de 1872 au congrès de La Haye, où Marx fait exclure Bakounine de l'Internationale. Les deux traditions — marxiste et libertaire — évolueront ensuite séparément, une fracture qui structure encore aujourd'hui une bonne partie de la gauche mondiale.",
+            "es": "Este desacuerdo provoca la escisión de 1872 en el congreso de La Haya, donde Marx logra expulsar a Bakunin de la Internacional. Las dos tradiciones —marxista y libertaria— evolucionarán después por separado, una fractura que todavía hoy estructura buena parte de la izquierda mundial.",
+            "ca": "Aquest desacord provoca l'escissió de 1872 al congrés de la Haia, on Marx aconsegueix expulsar Bakunin de la Internacional. Les dues tradicions —marxista i llibertària— evolucionaran després per separat, una fractura que encara avui estructura bona part de l'esquerra mundial."
+          },
+          {
+            "h": {
+              "fr": "L'ère de la « propagande par le fait »",
+              "es": "La era de la «propaganda por el hecho»",
+              "ca": "L'era de la «propaganda pel fet»"
+            }
+          },
+          {
+            "fr": "Entre les années 1880 et 1900, une frange du mouvement, désespérant de toute réforme progressive, adopte la stratégie de la « propagande par le fait » : frapper l'opinion par des attentats spectaculaires contre des figures de pouvoir. Le tsar Alexandre II de Russie (1881), le président français Sadi Carnot (1894) et le roi Humbert Ier d'Italie (1900) comptent parmi les victimes de cette vague, qui culmine symboliquement avec l'attentat de Haymarket Square à Chicago en 1886, à l'origine directe du 1er mai comme journée internationale des travailleurs.",
+            "es": "Entre los años 1880 y 1900, un sector del movimiento, desesperado de toda reforma progresiva, adopta la estrategia de la «propaganda por el hecho»: golpear la opinión pública con atentados espectaculares contra figuras de poder. El zar Alejandro II de Rusia (1881), el presidente francés Sadi Carnot (1894) y el rey Humberto I de Italia (1900) figuran entre las víctimas de esta ola, que culmina simbólicamente con el atentado de Haymarket Square en Chicago en 1886, origen directo del 1 de mayo como jornada internacional de los trabajadores.",
+            "ca": "Entre els anys 1880 i 1900, un sector del moviment, desesperat de tota reforma progressiva, adopta l'estratègia de la «propaganda pel fet»: colpejar l'opinió pública amb atemptats espectaculars contra figures de poder. El tsar Alexandre II de Rússia (1881), el president francès Sadi Carnot (1894) i el rei Humbert I d'Itàlia (1900) figuren entre les víctimes d'aquesta onada, que culmina simbòlicament amb l'atemptat de Haymarket Square a Chicago el 1886, origen directe de l'1 de maig com a jornada internacional dels treballadors."
+          },
+          {
+            "fr": "Cette période installe durablement, dans l'imaginaire populaire et médiatique, l'image de l'anarchiste comme terroriste au couteau entre les dents — une caricature qui persiste bien après que la majorité du mouvement ait abandonné cette tactique, jugée stérile et contre-productive, pour se tourner vers l'organisation syndicale de masse.",
+            "es": "Este periodo instala duraderamente, en el imaginario popular y mediático, la imagen del anarquista como terrorista con el cuchillo entre los dientes —una caricatura que persiste mucho después de que la mayoría del movimiento abandonara esta táctica, considerada estéril y contraproducente, para volcarse hacia la organización sindical de masas.",
+            "ca": "Aquest període instal·la duradorament, en l'imaginari popular i mediàtic, la imatge de l'anarquista com a terrorista amb el ganivet entre les dents —una caricatura que persisteix molt després que la majoria del moviment abandonés aquesta tàctica, considerada estèril i contraproduent, per girar-se cap a l'organització sindical de masses."
+          },
+          {
+            "h": {
+              "fr": "L'ère syndicale et les révolutions",
+              "es": "La era sindical y las revoluciones",
+              "ca": "L'era sindical i les revolucions"
+            }
+          },
+          {
+            "fr": "À partir des années 1900, l'anarcho-syndicalisme structure de puissantes organisations ouvrières — la CGT en France, l'IWW aux États-Unis, et surtout la CNT en Espagne, qui compte plus d'un million de membres dans les années 1930. En Ukraine, entre 1918 et 1921, dans le chaos de la guerre civile russe, le mouvement paysan et anarchiste dirigé par Nestor Makhno bâtit un territoire libre autogéré — la Makhnovtchina — avant d'être écrasé par l'Armée rouge de Trotsky, un épisode révélateur des tensions profondes entre anarchistes et bolcheviks après 1917, confirmées ensuite par la répression sanglante de la révolte de Kronstadt en 1921.",
+            "es": "A partir de los años 1900, el anarcosindicalismo estructura poderosas organizaciones obreras —la CGT en Francia, la IWW en Estados Unidos, y sobre todo la CNT en España, que cuenta con más de un millón de miembros en los años 1930. En Ucrania, entre 1918 y 1921, en el caos de la guerra civil rusa, el movimiento campesino y anarquista dirigido por Néstor Majnó construye un territorio libre autogestionado —la Majnóvschina— antes de ser aplastado por el Ejército Rojo de Trotsky, un episodio revelador de las tensiones profundas entre anarquistas y bolcheviques tras 1917, confirmadas después por la sangrienta represión de la revuelta de Kronstadt en 1921.",
+            "ca": "A partir dels anys 1900, l'anarcosindicalisme estructura poderoses organitzacions obreres —la CGT a França, la IWW als Estats Units, i sobretot la CNT a Espanya, que compta amb més d'un milió de membres als anys 1930. A Ucraïna, entre el 1918 i el 1921, en el caos de la guerra civil russa, el moviment pagès i anarquista dirigit per Nestor Makhno construeix un territori lliure autogestionat —la Makhnóvxina— abans de ser aixafat per l'Exèrcit Roig de Trotski, un episodi revelador de les tensions profundes entre anarquistes i bolxevics després de 1917, confirmades després per la sagnant repressió de la revolta de Kronstadt el 1921."
+          },
+          {
+            "fr": "L'apogée de ce cycle survient à Barcelone en 1936 — l'épisode que tu connais déjà en détail. Sa défaite en 1939, suivie de près par la Seconde Guerre mondiale et par des décennies de dictatures ou de répression anticommuniste en Europe de l'Ouest, laisse le mouvement anarchiste exsangue et marginal pendant près de trente ans.",
+            "es": "El apogeo de este ciclo llega en Barcelona en 1936 —el episodio que ya conoces en detalle. Su derrota en 1939, seguida de cerca por la Segunda Guerra Mundial y por décadas de dictaduras o represión anticomunista en Europa Occidental, deja al movimiento anarquista exangüe y marginal durante casi treinta años.",
+            "ca": "L'apogeu d'aquest cicle arriba a Barcelona el 1936 —l'episodi que ja coneixes en detall. La seva derrota el 1939, seguida de prop per la Segona Guerra Mundial i per dècades de dictadures o repressió anticomunista a l'Europa Occidental, deixa el moviment anarquista exsangüe i marginal durant gairebé trenta anys."
+          },
+          {
+            "h": {
+              "fr": "Renaissance et mutations contemporaines",
+              "es": "Renacimiento y mutaciones contemporáneas",
+              "ca": "Renaixement i mutacions contemporànies"
+            }
+          },
+          {
+            "fr": "Mai 68 marque un tournant : une nouvelle génération, moins intéressée par l'insurrection armée que par la critique de l'autorité au quotidien — dans la famille, l'école, l'usine, la sexualité — redécouvre l'anarchisme à travers un prisme culturel et existentiel plutôt que strictement syndical. Cette matrice irrigue ensuite les mouvements punk, féministes radicaux et altermondialistes des décennies suivantes.",
+            "es": "Mayo del 68 marca un punto de inflexión: una nueva generación, menos interesada en la insurrección armada que en la crítica de la autoridad cotidiana —en la familia, la escuela, la fábrica, la sexualidad— redescubre el anarquismo a través de un prisma cultural y existencial más que estrictamente sindical. Esta matriz irriga después los movimientos punk, feministas radicales y altermundialistas de las décadas siguientes.",
+            "ca": "El Maig del 68 marca un punt d'inflexió: una nova generació, menys interessada en la insurrecció armada que en la crítica de l'autoritat quotidiana —a la família, l'escola, la fàbrica, la sexualitat— redescobreix l'anarquisme a través d'un prisma cultural i existencial més que estrictament sindical. Aquesta matriu irriga després els moviments punk, feministes radicals i altermundialistes de les dècades següents."
+          },
+          {
+            "fr": "Depuis les années 1990-2000, le mouvement se recompose encore une fois autour de l'écologie, de l'autogestion territoriale et de nouvelles formes d'organisation horizontale — un chapitre que tu connais déjà, du Rojava aux ZAD françaises. L'anarchisme, loin d'être une relique du 19e siècle, continue ainsi de se réinventer face à chaque nouvelle crise du capitalisme et de l'autorité étatique.",
+            "es": "Desde los años 1990-2000, el movimiento se recompone una vez más en torno a la ecología, la autogestión territorial y nuevas formas de organización horizontal —un capítulo que ya conoces, de Rojava a las ZAD francesas. El anarquismo, lejos de ser una reliquia del siglo XIX, continúa así reinventándose ante cada nueva crisis del capitalismo y de la autoridad estatal.",
+            "ca": "Des dels anys 1990-2000, el moviment es recomposa una vegada més al voltant de l'ecologia, l'autogestió territorial i noves formes d'organització horitzontal —un capítol que ja coneixes, de Rojava a les ZAD franceses. L'anarquisme, lluny de ser una relíquia del segle XIX, continua així reinventant-se davant cada nova crisi del capitalisme i de l'autoritat estatal."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une scission",
+          "es": "una escisión",
+          "ca": "una escissió"
+        },
+        {
+          "mot": "un attentat",
+          "es": "un atentado",
+          "ca": "un atemptat"
+        },
+        {
+          "mot": "s'autogérer",
+          "es": "autogestionarse",
+          "ca": "autogestionar-se"
+        },
+        {
+          "mot": "écraser (réprimer)",
+          "es": "aplastar (reprimir)",
+          "ca": "aixafar (reprimir)"
+        },
+        {
+          "mot": "exsangue",
+          "es": "exangüe",
+          "ca": "exsangüe"
+        },
+        {
+          "mot": "se réinventer",
+          "es": "reinventarse",
+          "ca": "reinventar-se"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué año se separan definitivamente anarquistas y marxistas dentro de la Primera Internacional?",
+            "ca": "En quin any se separen definitivament anarquistes i marxistes dins la Primera Internacional?"
+          },
+          "piste": {
+            "es": "en 1872",
+            "ca": "el 1872"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «propaganda por el hecho»?",
+            "ca": "Què és la «propaganda pel fet»?"
+          },
+          "piste": {
+            "es": "una estrategia de atentados espectaculares contra figuras de poder",
+            "ca": "una estratègia d'atemptats espectaculars contra figures de poder"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasa al movimiento majnovista en Ucrania hacia 1921?",
+            "ca": "Què li passa al moviment makhnovista a Ucraïna cap al 1921?"
+          },
+          "piste": {
+            "es": "es aplastado por el Ejército Rojo",
+            "ca": "és aixafat per l'Exèrcit Roig"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué evento de 1968 da un nuevo impulso al anarquismo?",
+            "ca": "Quin esdeveniment de 1968 dona un nou impuls a l'anarquisme?"
+          },
+          "piste": {
+            "es": "Mayo del 68",
+            "ca": "el Maig del 68"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Anarchism",
+          "url": "https://en.wikipedia.org/wiki/Anarchism"
+        },
+        {
+          "titre": "Wikipedia — Haymarket affair",
+          "url": "https://en.wikipedia.org/wiki/Haymarket_affair"
+        },
+        {
+          "titre": "Wikipedia — Makhnovshchina",
+          "url": "https://en.wikipedia.org/wiki/Makhnovshchina"
+        }
+      ]
+    }
+  ]
+}

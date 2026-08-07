@@ -1,0 +1,246 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_espagne_1936",
+      "emoji": "✊",
+      "theme": "Politique",
+      "periode": "1936 à 1939",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+        "credit": {
+          "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+          "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La revolución anarquista de 1936 en Barcelona",
+        "ca": "La revolució anarquista de 1936 a Barcelona"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En juillet 1936, des militaires se révoltent contre le gouvernement espagnol. C'est le début de la guerre civile.",
+            "es": "En julio de 1936, unos militares se rebelan contra el gobierno español. Es el inicio de la guerra civil.",
+            "ca": "El juliol de 1936, uns militars es rebel·len contra el govern espanyol. És l'inici de la guerra civil."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+              "credit": {
+                "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+                "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "À Barcelone, les travailleurs, organisés par le syndicat anarchiste CNT, arrêtent les militaires. Puis ils prennent le contrôle de la ville.",
+            "es": "En Barcelona, los trabajadores, organizados por el sindicato anarquista CNT, detienen a los militares. Luego toman el control de la ciudad.",
+            "ca": "A Barcelona, els treballadors, organitzats pel sindicat anarquista CNT, aturen els militars. Després prenen el control de la ciutat."
+          },
+          {
+            "fr": "Les usines, les trams et les commerces deviennent collectifs. Ce ne sont plus des patrons, mais les travailleurs eux-mêmes qui décident.",
+            "es": "Las fábricas, los tranvías y los comercios se vuelven colectivos. Ya no son los patrones, sino los propios trabajadores quienes deciden.",
+            "ca": "Les fàbriques, els tramvies i els comerços esdevenen col·lectius. Ja no són els patrons, sinó els propis treballadors qui decideixen."
+          },
+          {
+            "fr": "C'est un moment unique dans l'histoire : une grande ville vit selon les idées anarchistes.",
+            "es": "Es un momento único en la historia: una gran ciudad vive según las ideas anarquistas.",
+            "ca": "És un moment únic en la història: una gran ciutat viu segons les idees anarquistes."
+          },
+          {
+            "fr": "Mais en 1939, les militaires, menés par Franco, gagnent la guerre. La révolution se termine.",
+            "es": "Pero en 1939, los militares, liderados por Franco, ganan la guerra. La revolución termina.",
+            "ca": "Però el 1939, els militars, liderats per Franco, guanyen la guerra. La revolució s'acaba."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le 19 juillet 1936, quand des généraux se soulèvent contre la République espagnole, la CNT (syndicat anarcho-syndicaliste) et la FAI (Fédération anarchiste ibérique) organisent la résistance à Barcelone. En quelques heures, les ouvriers armés défont la garnison militaire dans les rues.",
+            "es": "El 19 de julio de 1936, cuando unos generales se sublevan contra la República española, la CNT (sindicato anarcosindicalista) y la FAI (Federación Anarquista Ibérica) organizan la resistencia en Barcelona. En pocas horas, los obreros armados derrotan a la guarnición militar en las calles.",
+            "ca": "El 19 de juliol de 1936, quan uns generals s'aixequen contra la República espanyola, la CNT (sindicat anarcosindicalista) i la FAI (Federació Anarquista Ibèrica) organitzen la resistència a Barcelona. En poques hores, els obrers armats derroten la guarnició militar als carrers."
+          },
+          {
+            "h": {
+              "fr": "Une ville collectivisée",
+              "es": "Una ciudad colectivizada",
+              "ca": "Una ciutat col·lectivitzada"
+            }
+          },
+          {
+            "fr": "La victoire donne aux syndicats un pouvoir réel sur la ville. Environ 70% des entreprises industrielles et commerciales de Catalogne sont collectivisées : les trams, les taxis, les usines textiles et même certains hôtels (dont le Ritz) sont gérés par leurs travailleurs.",
+            "es": "La victoria da a los sindicatos un poder real sobre la ciudad. Cerca del 70% de las empresas industriales y comerciales de Cataluña se colectivizan: los tranvías, los taxis, las fábricas textiles e incluso algunos hoteles (entre ellos el Ritz) son gestionados por sus trabajadores.",
+            "ca": "La victòria dona als sindicats un poder real sobre la ciutat. Prop del 70% de les empreses industrials i comercials de Catalunya es col·lectivitzen: els tramvies, els taxis, les fàbriques tèxtils i fins i tot alguns hotels (entre ells el Ritz) són gestionats pels seus treballadors."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+              "credit": {
+                "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+                "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Buenaventura Durruti, figure emblématique de la CNT-FAI, mène une colonne de miliciens vers le front d'Aragon, où la terre est aussi collectivisée dans de nombreux villages.",
+            "es": "Buenaventura Durruti, figura emblemática de la CNT-FAI, lidera una columna de milicianos hacia el frente de Aragón, donde la tierra también se colectiviza en numerosos pueblos.",
+            "ca": "Buenaventura Durruti, figura emblemàtica de la CNT-FAI, lidera una columna de milicians cap al front d'Aragó, on la terra també es col·lectivitza en nombrosos pobles."
+          },
+          {
+            "h": {
+              "fr": "Une fin brutale",
+              "es": "Un final brutal",
+              "ca": "Un final brutal"
+            }
+          },
+          {
+            "fr": "Mais l'unité des forces antifascistes se fissure : en mai 1937, des combats de rue éclatent à Barcelone entre anarchistes et communistes, ces derniers cherchant à reprendre le contrôle des institutions. La CNT-FAI perd progressivement son pouvoir, et la victoire franquiste de 1939 met fin à toute forme de collectivisation.",
+            "es": "Pero la unidad de las fuerzas antifascistas se resquebraja: en mayo de 1937, estallan combates callejeros en Barcelona entre anarquistas y comunistas, estos últimos buscando recuperar el control de las instituciones. La CNT-FAI pierde progresivamente su poder, y la victoria franquista de 1939 pone fin a toda forma de colectivización.",
+            "ca": "Però la unitat de les forces antifeixistes s'esquerda: el maig de 1937, esclaten combats de carrer a Barcelona entre anarquistes i comunistes, aquests últims buscant recuperar el control de les institucions. La CNT-FAI perd progressivament el seu poder, i la victòria franquista de 1939 posa fi a tota forma de col·lectivització."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le 19 juillet 1936, au lendemain du soulèvement militaire mené par Franco et d'autres généraux, Barcelone devient le théâtre d'un affrontement décisif : la CNT (Confederación Nacional del Trabajo, syndicat anarcho-syndicaliste fort de centaines de milliers de membres en Catalogne) et la FAI (Federación Anarquista Ibérica) mobilisent leurs comités de défense de quartier et repoussent la garnison militaire en moins de vingt-quatre heures, aux côtés de forces loyalistes réduites.",
+            "es": "El 19 de julio de 1936, al día siguiente del levantamiento militar liderado por Franco y otros generales, Barcelona se convierte en el escenario de un enfrentamiento decisivo: la CNT (Confederación Nacional del Trabajo, sindicato anarcosindicalista con cientos de miles de miembros en Cataluña) y la FAI (Federación Anarquista Ibérica) movilizan sus comités de defensa de barrio y rechazan a la guarnición militar en menos de veinticuatro horas, junto a fuerzas leales reducidas.",
+            "ca": "El 19 de juliol de 1936, l'endemà de l'aixecament militar liderat per Franco i altres generals, Barcelona esdevé l'escenari d'un enfrontament decisiu: la CNT (Confederación Nacional del Trabajo, sindicat anarcosindicalista amb centenars de milers de membres a Catalunya) i la FAI (Federació Anarquista Ibèrica) mobilitzen els seus comitès de defensa de barri i rebutgen la guarnició militar en menys de vint-i-quatre hores, al costat de forces lleials reduïdes."
+          },
+          {
+            "h": {
+              "fr": "Une ville collectivisée",
+              "es": "Una ciudad colectivizada",
+              "ca": "Una ciutat col·lectivitzada"
+            }
+          },
+          {
+            "fr": "Cette victoire ouvrière transforme radicalement l'organisation économique de la Catalogne : environ 70% des entreprises industrielles et commerciales sont collectivisées, des grandes usines textiles aux petits commerces, en passant par les tramways, les taxis et même l'hôtel Ritz, rebaptisé « Hôtel Gastronomique n°1 » et transformé en cantine populaire gérée par les syndicats.",
+            "es": "Esta victoria obrera transforma radicalmente la organización económica de Cataluña: cerca del 70% de las empresas industriales y comerciales se colectivizan, desde las grandes fábricas textiles hasta los pequeños comercios, pasando por los tranvías, los taxis e incluso el hotel Ritz, rebautizado «Hotel Gastronómico n.º 1» y transformado en cantina popular gestionada por los sindicatos.",
+            "ca": "Aquesta victòria obrera transforma radicalment l'organització econòmica de Catalunya: prop del 70% de les empreses industrials i comercials es col·lectivitzen, des de les grans fàbriques tèxtils fins als petits comerços, passant pels tramvies, els taxis i fins i tot l'hotel Ritz, rebatejat «Hotel Gastronòmic núm. 1» i transformat en cantina popular gestionada pels sindicats."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Millicians%20a%20Barcelona%20ell%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Millicians_a_Barcelona_ell_1936.jpg",
+              "credit": {
+                "es": "Milicianos en Barcelona, verano de 1936 — Wikimedia Commons.",
+                "ca": "Milicians a Barcelona, estiu del 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Le 24 octobre 1936, la Generalitat officialise en partie cette réalité par un décret de collectivisation, tout en cherchant à réaffirmer son autorité face au Comité central des milices antifascistes, dominé par la CNT-FAI, qui avait de facto partagé le pouvoir avec le gouvernement catalan depuis juillet. Sur le front d'Aragon, Buenaventura Durruti mène sa célèbre colonne de miliciens, tandis que la collectivisation agraire touche de nombreux villages aragonais.",
+            "es": "El 24 de octubre de 1936, la Generalitat oficializa en parte esta realidad mediante un decreto de colectivización, buscando a la vez reafirmar su autoridad frente al Comité Central de Milicias Antifascistas, dominado por la CNT-FAI, que había compartido de facto el poder con el gobierno catalán desde julio. En el frente de Aragón, Buenaventura Durruti lidera su célebre columna de milicianos, mientras la colectivización agraria afecta a numerosos pueblos aragoneses.",
+            "ca": "El 24 d'octubre de 1936, la Generalitat oficialitza en part aquesta realitat mitjançant un decret de col·lectivització, buscant alhora reafirmar la seva autoritat davant el Comitè Central de Milícies Antifeixistes, dominat per la CNT-FAI, que havia compartit de facto el poder amb el govern català des del juliol. Al front d'Aragó, Buenaventura Durruti lidera la seva cèlebre columna de milicians, mentre la col·lectivització agrària afecta nombrosos pobles aragonesos."
+          },
+          {
+            "h": {
+              "fr": "Une fin brutale",
+              "es": "Un final brutal",
+              "ca": "Un final brutal"
+            }
+          },
+          {
+            "fr": "Cette expérience révolutionnaire reste fragile et contestée : les communistes du PSUC, soutenus par l'Union soviétique qui fournit l'essentiel de l'armement républicain, cherchent à recentraliser le pouvoir et à subordonner la révolution sociale à l'effort de guerre. En mai 1937, ces tensions dégénèrent en combats de rue à Barcelone — les « journées de mai » — opposant anarchistes et militants du POUM aux forces gouvernementales et communistes.",
+            "es": "Esta experiencia revolucionaria sigue siendo frágil y disputada: los comunistas del PSUC, apoyados por la Unión Soviética, que suministra la mayor parte del armamento republicano, buscan recentralizar el poder y subordinar la revolución social al esfuerzo de guerra. En mayo de 1937, estas tensiones degeneran en combates callejeros en Barcelona —las «jornadas de mayo»— que enfrentan a anarquistas y militantes del POUM contra las fuerzas gubernamentales y comunistas.",
+            "ca": "Aquesta experiència revolucionària continua sent fràgil i disputada: els comunistes del PSUC, recolzats per la Unió Soviètica, que subministra la major part de l'armament republicà, busquen recentralitzar el poder i subordinar la revolució social a l'esforç de guerra. El maig de 1937, aquestes tensions degeneren en combats de carrer a Barcelona —les «jornades de maig»— que enfronten anarquistes i militants del POUM contra les forces governamentals i comunistes."
+          },
+          {
+            "fr": "Après ces affrontements, la CNT-FAI perd progressivement son influence institutionnelle, et le processus de collectivisation est peu à peu démantelé. La victoire franquiste de 1939 met un terme définitif et brutal à cette expérience — près de quarante ans de dictature suivront, pendant lesquels la mémoire de cette révolution reste largement effacée de l'histoire officielle espagnole.",
+            "es": "Tras estos enfrentamientos, la CNT-FAI pierde progresivamente su influencia institucional, y el proceso de colectivización se desmantela poco a poco. La victoria franquista de 1939 pone un fin definitivo y brutal a esta experiencia —casi cuarenta años de dictadura seguirán, durante los cuales la memoria de esta revolución permanece en gran parte borrada de la historia oficial española.",
+            "ca": "Després d'aquests enfrontaments, la CNT-FAI perd progressivament la seva influència institucional, i el procés de col·lectivització es desmantella a poc a poc. La victòria franquista de 1939 posa fi definitiu i brutal a aquesta experiència —gairebé quaranta anys de dictadura seguiran, durant els quals la memòria d'aquesta revolució roman en gran part esborrada de la història oficial espanyola."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: la guerra civil española sigue siendo un tema de memoria viva y a veces divisivo en España hoy.",
+        "ca": "Tema sensible: la guerra civil espanyola continua sent un tema de memòria viva i a vegades divisiu a Espanya avui."
+      },
+      "mots_cles": [
+        {
+          "mot": "un soulèvement",
+          "es": "un levantamiento",
+          "ca": "un aixecament"
+        },
+        {
+          "mot": "collectiviser",
+          "es": "colectivizar",
+          "ca": "col·lectivitzar"
+        },
+        {
+          "mot": "une milice",
+          "es": "una milicia",
+          "ca": "una milícia"
+        },
+        {
+          "mot": "un décret",
+          "es": "un decreto",
+          "ca": "un decret"
+        },
+        {
+          "mot": "subordonner",
+          "es": "subordinar",
+          "ca": "subordinar"
+        },
+        {
+          "mot": "démanteler",
+          "es": "desmantelar",
+          "ca": "desmantellar"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué dos organizaciones anarquistas organizan la resistencia en Barcelona en julio de 1936?",
+            "ca": "Quines dues organitzacions anarquistes organitzen la resistència a Barcelona el juliol de 1936?"
+          },
+          "piste": {
+            "es": "la CNT y la FAI",
+            "ca": "la CNT i la FAI"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué porcentaje de las empresas catalanas se colectiviza aproximadamente?",
+            "ca": "Quin percentatge de les empreses catalanes es col·lectivitza aproximadament?"
+          },
+          "piste": {
+            "es": "cerca del 70%",
+            "ca": "prop del 70%"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasó en mayo de 1937 en Barcelona?",
+            "ca": "Què va passar el maig de 1937 a Barcelona?"
+          },
+          "piste": {
+            "es": "combates callejeros entre anarquistas/POUM y comunistas/gobierno",
+            "ca": "combats de carrer entre anarquistes/POUM i comunistes/govern"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pone fin a la experiencia colectivista en 1939?",
+            "ca": "Què posa fi a l'experiència col·lectivista el 1939?"
+          },
+          "piste": {
+            "es": "la victoria franquista",
+            "ca": "la victòria franquista"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Spanish Revolution of 1936",
+          "url": "https://en.wikipedia.org/wiki/Spanish_Revolution_of_1936"
+        },
+        {
+          "titre": "Virtual Spanish Civil War — Collectivization and Worker Control in Catalonia",
+          "url": "https://www.vscw.ca/en/node/16"
+        }
+      ]
+    }
+  ]
+}

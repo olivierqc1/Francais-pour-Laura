@@ -1,0 +1,316 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_ecologie_recent",
+      "emoji": "🌱",
+      "theme": "Politique",
+      "periode": "1962 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Murray%20Bookchin.JPG?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Murray_Bookchin.JPG",
+        "credit": {
+          "es": "Murray Bookchin, teórico de la ecología social — Wikimedia Commons.",
+          "ca": "Murray Bookchin, teòric de l'ecologia social — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarquismo reciente: ecología social, Rojava y las ZAD",
+        "ca": "L'anarquisme recent: ecologia social, Rojava i les ZAD"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Aujourd'hui, une grande partie de l'anarchisme parle d'écologie. On appelle ça l'anarchisme vert.",
+            "es": "Hoy, una gran parte del anarquismo habla de ecología. Se llama anarquismo verde.",
+            "ca": "Avui, una gran part de l'anarquisme parla d'ecologia. Se'n diu anarquisme verd."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Murray%20Bookchin.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Murray_Bookchin.JPG",
+              "credit": {
+                "es": "Murray Bookchin, teórico de la ecología social — Wikimedia Commons.",
+                "ca": "Murray Bookchin, teòric de l'ecologia social — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Dans les années 1960, un Américain, Murray Bookchin, a une idée importante : la destruction de la nature et la domination entre humains viennent de la même cause, la hiérarchie.",
+            "es": "En los años 1960, un estadounidense, Murray Bookchin, tiene una idea importante: la destrucción de la naturaleza y la dominación entre humanos vienen de la misma causa, la jerarquía.",
+            "ca": "Als anys 1960, un nord-americà, Murray Bookchin, té una idea important: la destrucció de la natura i la dominació entre humans vénen de la mateixa causa, la jerarquia."
+          },
+          {
+            "fr": "Il pense qu'il faut organiser la société en petites communes, où les gens décident ensemble, sans État. Ça s'appelle « l'écologie sociale ».",
+            "es": "Piensa que hay que organizar la sociedad en pequeñas comunas, donde la gente decide junta, sin Estado. Eso se llama «la ecología social».",
+            "ca": "Pensa que cal organitzar la societat en petites comunes, on la gent decideix junta, sense Estat. Allò es diu «l'ecologia social»."
+          },
+          {
+            "fr": "Ses idées inspirent aujourd'hui un mouvement au Kurdistan syrien, appelé le Rojava. Les gens y organisent des conseils locaux avec beaucoup de femmes en position de pouvoir.",
+            "es": "Sus ideas inspiran hoy un movimiento en el Kurdistán sirio, llamado Rojava. Allí la gente organiza consejos locales con muchas mujeres en posiciones de poder.",
+            "ca": "Les seves idees inspiren avui un moviment al Kurdistan sirià, anomenat Rojava. Allà la gent organitza consells locals amb moltes dones en posicions de poder."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/W0129-NDdL%20ZaD%20Cabanes%2056942.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:W0129-NDdL_ZaD_Cabanes_56942.JPG",
+              "credit": {
+                "es": "Cabañas construidas por los ocupantes de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons.",
+                "ca": "Cabanes construïdes pels ocupants de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En France, des militants occupent des terres pour empêcher de grands projets — comme un aéroport à Notre-Dame-des-Landes. Ces zones s'appellent des « ZAD » (zones à défendre).",
+            "es": "En Francia, unos militantes ocupan tierras para impedir grandes proyectos —como un aeropuerto en Notre-Dame-des-Landes. Esas zonas se llaman «ZAD» (zonas a defender).",
+            "ca": "A França, uns militants ocupen terres per impedir grans projectes —com un aeroport a Notre-Dame-des-Landes. Aquestes zones es diuen «ZAD» (zones a defensar)."
+          },
+          {
+            "fr": "En 2018, après presque 50 ans de lutte, le gouvernement français abandonne le projet d'aéroport. C'est une victoire pour les militants.",
+            "es": "En 2018, tras casi 50 años de lucha, el gobierno francés abandona el proyecto de aeropuerto. Es una victoria para los militantes.",
+            "ca": "El 2018, després de gairebé 50 anys de lluita, el govern francès abandona el projecte d'aeroport. És una victòria per als militants."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Depuis les années 1970, une part croissante de l'anarchisme se concentre sur l'écologie, à mesure que la crise climatique devient centrale dans les débats politiques. On parle d'écologie sociale, d'anarchisme vert, ou de municipalisme libertaire selon les courants.",
+            "es": "Desde los años 1970, una parte creciente del anarquismo se centra en la ecología, a medida que la crisis climática se vuelve central en los debates políticos. Se habla de ecología social, anarquismo verde o municipalismo libertario según las corrientes.",
+            "ca": "Des dels anys 1970, una part creixent de l'anarquisme se centra en l'ecologia, a mesura que la crisi climàtica esdevé central en els debats polítics. Es parla d'ecologia social, anarquisme verd o municipalisme llibertari segons els corrents."
+          },
+          {
+            "h": {
+              "fr": "Murray Bookchin et l'écologie sociale",
+              "es": "Murray Bookchin y la ecología social",
+              "ca": "Murray Bookchin i l'ecologia social"
+            }
+          },
+          {
+            "fr": "Le penseur américain Murray Bookchin développe, dès 1962, l'idée que la crise écologique n'est pas d'abord un problème technique, mais un problème social : c'est la domination de certains humains sur d'autres — les hiérarchies de classe, de genre, de race — qui a produit, historiquement, l'idée même que la nature puisse être dominée et exploitée sans limite.",
+            "es": "El pensador estadounidense Murray Bookchin desarrolla, desde 1962, la idea de que la crisis ecológica no es ante todo un problema técnico, sino un problema social: es la dominación de unos humanos sobre otros —las jerarquías de clase, género, raza— la que ha producido, históricamente, la propia idea de que la naturaleza pueda ser dominada y explotada sin límite.",
+            "ca": "El pensador nord-americà Murray Bookchin desenvolupa, des del 1962, la idea que la crisi ecològica no és primerament un problema tècnic, sinó un problema social: és la dominació d'uns humans sobre altres —les jerarquies de classe, de gènere, de raça— la que ha produït, històricament, la mateixa idea que la natura pugui ser dominada i explotada sense límit."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Murray%20Bookchin.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Murray_Bookchin.JPG",
+              "credit": {
+                "es": "Murray Bookchin, teórico de la ecología social — Wikimedia Commons.",
+                "ca": "Murray Bookchin, teòric de l'ecologia social — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Sa solution s'appelle le « municipalisme libertaire » : remplacer les États centralisés par des réseaux de communes locales, où les habitants décident ensemble en assemblées, tout en se coordonnant à plus grande échelle par des délégués révocables — pas des représentants permanents.",
+            "es": "Su solución se llama «municipalismo libertario»: reemplazar los Estados centralizados por redes de comunas locales, donde los habitantes deciden juntos en asambleas, coordinándose a mayor escala mediante delegados revocables —no representantes permanentes.",
+            "ca": "La seva solució es diu «municipalisme llibertari»: substituir els Estats centralitzats per xarxes de comunes locals, on els habitants decideixen junts en assemblees, coordinant-se a més gran escala mitjançant delegats revocables —no representants permanents."
+          },
+          {
+            "h": {
+              "fr": "Le Rojava, une expérience concrète",
+              "es": "Rojava, una experiencia concreta",
+              "ca": "Rojava, una experiència concreta"
+            }
+          },
+          {
+            "fr": "Les idées de Bookchin trouvent une application surprenante au Rojava, la région kurde du nord de la Syrie, où le mouvement politique kurde s'en inspire directement à partir de 2012 pour bâtir le « confédéralisme démocratique » : des conseils de quartier et de village, une place centrale accordée aux femmes dans toutes les instances de pouvoir, et une économie mêlant coopératives et propriété collective.",
+            "es": "Las ideas de Bookchin encuentran una aplicación sorprendente en Rojava, la región kurda del norte de Siria, donde el movimiento político kurdo se inspira directamente en ellas a partir de 2012 para construir el «confederalismo democrático»: consejos de barrio y de aldea, un lugar central otorgado a las mujeres en todas las instancias de poder, y una economía que mezcla cooperativas y propiedad colectiva.",
+            "ca": "Les idees de Bookchin troben una aplicació sorprenent a Rojava, la regió kurda del nord de Síria, on el moviment polític kurd s'hi inspira directament a partir del 2012 per construir el «confederalisme democràtic»: consells de barri i de poble, un lloc central atorgat a les dones en totes les instàncies de poder, i una economia que barreja cooperatives i propietat col·lectiva."
+          },
+          {
+            "h": {
+              "fr": "Les ZAD françaises",
+              "es": "Las ZAD francesas",
+              "ca": "Les ZAD franceses"
+            }
+          },
+          {
+            "fr": "En France, une tactique différente se développe : l'occupation directe du territoire pour bloquer des projets jugés destructeurs, appelée « zone à défendre » (ZAD). La plus célèbre, à Notre-Dame-des-Landes près de Nantes, s'oppose pendant des années à un projet d'aéroport, avec des habitants qui construisent des cabanes, cultivent la terre collectivement et s'organisent en assemblées.",
+            "es": "En Francia, se desarrolla una táctica diferente: la ocupación directa del territorio para bloquear proyectos considerados destructivos, llamada «zona a defender» (ZAD). La más célebre, en Notre-Dame-des-Landes cerca de Nantes, se opone durante años a un proyecto de aeropuerto, con habitantes que construyen cabañas, cultivan la tierra colectivamente y se organizan en asambleas.",
+            "ca": "A França, es desenvolupa una tàctica diferent: l'ocupació directa del territori per bloquejar projectes considerats destructius, anomenada «zona a defensar» (ZAD). La més cèlebre, a Notre-Dame-des-Landes prop de Nantes, s'oposa durant anys a un projecte d'aeroport, amb habitants que construeixen cabanes, conreen la terra col·lectivament i s'organitzen en assemblees."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/W0129-NDdL%20ZaD%20Cabanes%2056942.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:W0129-NDdL_ZaD_Cabanes_56942.JPG",
+              "credit": {
+                "es": "Cabañas construidas por los ocupantes de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons.",
+                "ca": "Cabanes construïdes pels ocupants de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En janvier 2018, après près de 50 ans de résistance locale, le gouvernement français annule définitivement le projet — une victoire rare pour un mouvement de ce type, même si les habitants doivent ensuite négocier durement leur droit à rester sur place.",
+            "es": "En enero de 2018, tras casi 50 años de resistencia local, el gobierno francés cancela definitivamente el proyecto —una victoria poco común para un movimiento de este tipo, aunque los habitantes deben luego negociar duramente su derecho a quedarse.",
+            "ca": "El gener del 2018, després de gairebé 50 anys de resistència local, el govern francès cancel·la definitivament el projecte —una victòria poc habitual per a un moviment d'aquest tipus, encara que els habitants han de negociar després durament el seu dret a quedar-s'hi."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "À partir des années 1960, une part croissante de la pensée anarchiste se réoriente vers l'écologie, portée par le constat que la crise environnementale et les rapports de domination sociale partagent une origine commune. Cette évolution donne naissance à plusieurs courants — écologie sociale, anarchisme vert, municipalisme libertaire, écologie profonde — qui ne s'accordent pas toujours entre eux sur les solutions à apporter.",
+            "es": "A partir de los años 1960, una parte creciente del pensamiento anarquista se reorienta hacia la ecología, impulsada por la constatación de que la crisis ambiental y las relaciones de dominación social comparten un origen común. Esta evolución da lugar a varias corrientes —ecología social, anarquismo verde, municipalismo libertario, ecología profunda— que no siempre concuerdan entre sí sobre las soluciones a aportar.",
+            "ca": "A partir dels anys 1960, una part creixent del pensament anarquista es reorienta cap a l'ecologia, impulsada per la constatació que la crisi ambiental i les relacions de dominació social comparteixen un origen comú. Aquesta evolució dona lloc a diversos corrents —ecologia social, anarquisme verd, municipalisme llibertari, ecologia profunda— que no sempre concorden entre ells sobre les solucions a aportar."
+          },
+          {
+            "h": {
+              "fr": "Murray Bookchin et l'écologie sociale",
+              "es": "Murray Bookchin y la ecología social",
+              "ca": "Murray Bookchin i l'ecologia social"
+            }
+          },
+
+          {
+            "fr": "Le théoricien américain Murray Bookchin formule, dans « Écologie et pensée révolutionnaire » (1964) puis dans « L'Écologie de la liberté » (1982), la thèse centrale de l'écologie sociale : l'idée même que l'humain puisse « dominer » la nature découle historiquement de la domination de certains humains sur d'autres — l'homme sur la femme, le maître sur l'esclave, l'État sur le citoyen. Résoudre la crise écologique exige donc, selon lui, d'abolir simultanément toutes les hiérarchies sociales, et non seulement de changer nos technologies ou nos comportements individuels.",
+            "es": "El teórico estadounidense Murray Bookchin formula, en «Ecología y pensamiento revolucionario» (1964) y luego en «La ecología de la libertad» (1982), la tesis central de la ecología social: la idea misma de que el humano pueda «dominar» la naturaleza deriva históricamente de la dominación de unos humanos sobre otros —el hombre sobre la mujer, el amo sobre el esclavo, el Estado sobre el ciudadano. Resolver la crisis ecológica exige, por tanto, según él, abolir simultáneamente todas las jerarquías sociales, y no solo cambiar nuestras tecnologías o comportamientos individuales.",
+            "ca": "El teòric nord-americà Murray Bookchin formula, a «Ecologia i pensament revolucionari» (1964) i després a «L'ecologia de la llibertat» (1982), la tesi central de l'ecologia social: la mateixa idea que l'humà pugui «dominar» la natura deriva històricament de la dominació d'uns humans sobre altres —l'home sobre la dona, l'amo sobre l'esclau, l'Estat sobre el ciutadà. Resoldre la crisi ecològica exigeix, doncs, segons ell, abolir simultàniament totes les jerarquies socials, i no només canviar les nostres tecnologies o comportaments individuals."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Murray%20Bookchin.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Murray_Bookchin.JPG",
+              "credit": {
+                "es": "Murray Bookchin, teórico de la ecología social — Wikimedia Commons.",
+                "ca": "Murray Bookchin, teòric de l'ecologia social — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Bookchin propose comme alternative le « municipalisme libertaire » : une confédération de communes locales où les décisions sont prises en assemblées populaires directes, coordonnées à plus grande échelle par des délégués mandatés et révocables à tout moment — une structure pensée pour empêcher toute concentration durable du pouvoir. Il se distingue nettement des courants « d'écologie profonde » et du primitivisme (défendu notamment par John Zerzan), qu'il juge misanthropes pour leur tendance à blâmer l'humanité en général plutôt que des structures de pouvoir spécifiques, et à rejeter la civilisation et la technique en bloc.",
+            "es": "Bookchin propone como alternativa el «municipalismo libertario»: una confederación de comunas locales donde las decisiones se toman en asambleas populares directas, coordinadas a mayor escala por delegados mandatados y revocables en cualquier momento —una estructura pensada para impedir toda concentración duradera del poder. Se distingue claramente de las corrientes de «ecología profunda» y del primitivismo (defendido especialmente por John Zerzan), que juzga misántropas por su tendencia a culpar a la humanidad en general en lugar de estructuras de poder específicas, y a rechazar la civilización y la técnica en bloque.",
+            "ca": "Bookchin proposa com a alternativa el «municipalisme llibertari»: una confederació de comunes locals on les decisions es prenen en assemblees populars directes, coordinades a més gran escala per delegats mandatats i revocables en qualsevol moment —una estructura pensada per impedir tota concentració duradora del poder. Es distingeix clarament dels corrents d'«ecologia profunda» i del primitivisme (defensat especialment per John Zerzan), que jutja misàntrops per la seva tendència a culpar la humanitat en general en comptes d'estructures de poder específiques, i a rebutjar la civilització i la tècnica en bloc."
+          },
+          {
+            "h": {
+              "fr": "Le Rojava, une expérience concrète",
+              "es": "Rojava, una experiencia concreta",
+              "ca": "Rojava, una experiència concreta"
+            }
+          },
+          {
+            "fr": "L'application la plus significative des idées de Bookchin se produit de façon inattendue au Rojava, la région à majorité kurde du nord-est de la Syrie. Abdullah Öcalan, leader emprisonné du mouvement kurde PKK, lit les œuvres de Bookchin en détention et les intègre à sa propre doctrine du « confédéralisme démocratique », adoptée à partir de 2012 par les structures d'autogouvernement kurdes créées dans le chaos de la guerre civile syrienne.",
+            "es": "La aplicación más significativa de las ideas de Bookchin se produce de forma inesperada en Rojava, la región de mayoría kurda del noreste de Siria. Abdullah Öcalan, líder encarcelado del movimiento kurdo PKK, lee las obras de Bookchin en prisión y las integra en su propia doctrina del «confederalismo democrático», adoptada desde 2012 por las estructuras de autogobierno kurdas creadas en el caos de la guerra civil siria.",
+            "ca": "L'aplicació més significativa de les idees de Bookchin es produeix de manera inesperada a Rojava, la regió de majoria kurda del nord-est de Síria. Abdullah Öcalan, líder empresonat del moviment kurd PKK, llegeix les obres de Bookchin a la presó i les integra en la seva pròpia doctrina del «confederalisme democràtic», adoptada des del 2012 per les estructures d'autogovern kurdes creades en el caos de la guerra civil síria."
+          },
+          {
+            "fr": "Concrètement, le Rojava met en place des conseils de quartier et de commune où chaque poste de direction est occupé conjointement par un homme et une femme (le principe de « co-présidence »), des milices d'autodéfense féminines comme les YPJ, et une économie mêlant coopératives agricoles et industrielles à une propriété toujours largement privée — une expérience saluée par de nombreux anarchistes internationaux, mais aussi critiquée pour ses compromis avec des acteurs étatiques (dont les États-Unis, alliés militaires du Rojava contre l'État islamique) et pour la répression que le mouvement kurde exerce parfois contre ses propres opposants internes.",
+            "es": "Concretamente, Rojava establece consejos de barrio y de comuna donde cada puesto de dirección lo ocupan conjuntamente un hombre y una mujer (el principio de «copresidencia»), milicias de autodefensa femeninas como las YPJ, y una economía que mezcla cooperativas agrícolas e industriales con una propiedad todavía en gran parte privada —una experiencia elogiada por numerosos anarquistas internacionales, pero también criticada por sus compromisos con actores estatales (entre ellos Estados Unidos, aliado militar de Rojava contra el Estado Islámico) y por la represión que el movimiento kurdo ejerce a veces contra sus propios opositores internos.",
+            "ca": "Concretament, Rojava estableix consells de barri i de comuna on cada càrrec de direcció l'ocupen conjuntament un home i una dona (el principi de «copresidència»), milícies d'autodefensa femenines com les YPJ, i una economia que barreja cooperatives agrícoles i industrials amb una propietat encara en gran part privada —una experiència lloada per nombrosos anarquistes internacionals, però també criticada pels seus compromisos amb actors estatals (entre ells els Estats Units, aliat militar de Rojava contra l'Estat Islàmic) i per la repressió que el moviment kurd exerceix de vegades contra els seus propis oposants interns."
+          },
+          {
+            "h": {
+              "fr": "Les ZAD françaises : la défense directe du territoire",
+              "es": "Las ZAD francesas: la defensa directa del territorio",
+              "ca": "Les ZAD franceses: la defensa directa del territori"
+            }
+          },
+          {
+            "fr": "En France, une tactique plus locale se développe à partir des années 2000 : l'occupation physique et durable d'un territoire menacé par un grand projet d'aménagement, rebaptisée par les militants « zone à défendre » (ZAD) — un détournement ironique du sigle officiel « zone d'aménagement différé ». La plus emblématique, à Notre-Dame-des-Landes près de Nantes, s'oppose pendant près de cinquante ans à un projet d'aéroport, réunissant agriculteurs historiques, écologistes et militants libertaires venus construire des cabanes, cultiver la terre en collectif et s'organiser par assemblées, sans structure hiérarchique fixe.",
+            "es": "En Francia, se desarrolla a partir de los años 2000 una táctica más local: la ocupación física y duradera de un territorio amenazado por un gran proyecto de urbanismo, rebautizada por los militantes «zona a defender» (ZAD) —una apropiación irónica de la sigla oficial «zona de urbanización diferida». La más emblemática, en Notre-Dame-des-Landes cerca de Nantes, se opone durante casi cincuenta años a un proyecto de aeropuerto, reuniendo a agricultores históricos, ecologistas y militantes libertarios que construyen cabañas, cultivan la tierra en colectivo y se organizan por asambleas, sin estructura jerárquica fija.",
+            "ca": "A França, es desenvolupa a partir dels anys 2000 una tàctica més local: l'ocupació física i duradora d'un territori amenaçat per un gran projecte d'urbanisme, rebatejada pels militants «zona a defensar» (ZAD) —una apropiació irònica de la sigla oficial «zona d'urbanització diferida». La més emblemàtica, a Notre-Dame-des-Landes prop de Nantes, s'oposa durant gairebé cinquanta anys a un projecte d'aeroport, reunint agricultors històrics, ecologistes i militants llibertaris que construeixen cabanes, conreen la terra en col·lectiu i s'organitzen per assemblees, sense estructura jeràrquica fixa."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/W0129-NDdL%20ZaD%20Cabanes%2056942.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:W0129-NDdL_ZaD_Cabanes_56942.JPG",
+              "credit": {
+                "es": "Cabañas construidas por los ocupantes de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons.",
+                "ca": "Cabanes construïdes pels ocupants de la ZAD de Notre-Dame-des-Landes, 2012 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En janvier 2018, le gouvernement d'Emmanuel Macron annonce l'abandon définitif du projet — une victoire majeure pour ce type de mobilisation. Mais la suite révèle les tensions propres à ces expériences : quelques mois plus tard, l'État lance une vaste opération d'expulsion pour forcer les occupants restants à régulariser leur situation individuellement, brisant en partie la dimension collective du mouvement. D'autres ZAD suivent le même modèle en France, contre des barrages, des lignes à haute tension ou des sites de stockage de déchets nucléaires, avec des succès et des échecs variables.",
+            "es": "En enero de 2018, el gobierno de Emmanuel Macron anuncia el abandono definitivo del proyecto —una victoria importante para este tipo de movilización. Pero lo que sigue revela las tensiones propias de estas experiencias: unos meses después, el Estado lanza una amplia operación de desalojo para forzar a los ocupantes restantes a regularizar su situación individualmente, rompiendo en parte la dimensión colectiva del movimiento. Otras ZAD siguen el mismo modelo en Francia, contra represas, líneas de alta tensión o sitios de almacenamiento de residuos nucleares, con éxitos y fracasos variables.",
+            "ca": "El gener del 2018, el govern d'Emmanuel Macron anuncia l'abandonament definitiu del projecte —una victòria important per a aquest tipus de mobilització. Però el que segueix revela les tensions pròpies d'aquestes experiències: uns mesos després, l'Estat llança una àmplia operació de desallotjament per forçar els ocupants restants a regularitzar la seva situació individualment, trencant en part la dimensió col·lectiva del moviment. Altres ZAD segueixen el mateix model a França, contra preses, línies d'alta tensió o llocs d'emmagatzematge de residus nuclears, amb èxits i fracassos variables."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une hiérarchie",
+          "es": "una jerarquía",
+          "ca": "una jerarquia"
+        },
+        {
+          "mot": "une commune (municipalité)",
+          "es": "una comuna (municipio)",
+          "ca": "una comuna (municipi)"
+        },
+        {
+          "mot": "révocable",
+          "es": "revocable",
+          "ca": "revocable"
+        },
+        {
+          "mot": "une confédération",
+          "es": "una confederación",
+          "ca": "una confederació"
+        },
+        {
+          "mot": "occuper (un territoire)",
+          "es": "ocupar (un territorio)",
+          "ca": "ocupar (un territori)"
+        },
+        {
+          "mot": "une expulsion",
+          "es": "un desalojo",
+          "ca": "un desallotjament"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuál es la tesis central de la ecología social de Bookchin?",
+            "ca": "Quina és la tesi central de l'ecologia social de Bookchin?"
+          },
+          "piste": {
+            "es": "que la dominación de la naturaleza viene de la dominación entre humanos",
+            "ca": "que la dominació de la natura ve de la dominació entre humans"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es el municipalismo libertario?",
+            "ca": "Què és el municipalisme llibertari?"
+          },
+          "piste": {
+            "es": "una confederación de comunas locales con decisiones en asamblea y delegados revocables",
+            "ca": "una confederació de comunes locals amb decisions en assemblea i delegats revocables"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién introduce las ideas de Bookchin en el movimiento kurdo, y cómo se llama el sistema resultante?",
+            "ca": "Qui introdueix les idees de Bookchin al moviment kurd, i com es diu el sistema resultant?"
+          },
+          "piste": {
+            "es": "Abdullah Öcalan; el confederalismo democrático",
+            "ca": "Abdullah Öcalan; el confederalisme democràtic"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué proyecto se cancela en Francia en 2018 gracias a la ZAD de Notre-Dame-des-Landes?",
+            "ca": "Quin projecte es cancel·la a França el 2018 gràcies a la ZAD de Notre-Dame-des-Landes?"
+          },
+          "piste": {
+            "es": "un proyecto de aeropuerto",
+            "ca": "un projecte d'aeroport"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Murray Bookchin",
+          "url": "https://en.wikipedia.org/wiki/Murray_Bookchin"
+        },
+        {
+          "titre": "Wikipedia — Rojava",
+          "url": "https://en.wikipedia.org/wiki/Rojava"
+        },
+        {
+          "titre": "Wikipedia — ZAD de Notre-Dame-des-Landes",
+          "url": "https://en.wikipedia.org/wiki/ZAD_de_Notre-Dame-des-Landes"
+        }
+      ]
+    }
+  ]
+}

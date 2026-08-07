@@ -1,0 +1,247 @@
+{
+  "textes": [
+    {
+      "id": "revolution_americaine_confederation_dechiree",
+      "emoji": "🗽",
+      "theme": "Histoire",
+      "periode": "1775 à 1784",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Brant%20by%20William%20Berczy%20c.1807.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Joseph_Brant_by_William_Berczy_c.1807.jpg",
+        "credit": {
+          "es": "Thayendanegea (Joseph Brant), retrato de William Berczy, hacia 1807 — Wikimedia Commons.",
+          "ca": "Thayendanegea (Joseph Brant), retrat de William Berczy, cap al 1807 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La Revolución americana: la Confederación haudenosaunee dividida",
+        "ca": "La Revolució americana: la Confederació haudenosaunee dividida"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1775, les treize colonies anglaises se révoltent contre le roi d'Angleterre. C'est le début de la Révolution américaine.",
+            "es": "En 1775, las trece colonias inglesas se rebelan contra el rey de Inglaterra. Es el inicio de la Revolución americana.",
+            "ca": "El 1775, les tretze colònies angleses es revolten contra el rei d'Anglaterra. És l'inici de la Revolució americana."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Brant%20by%20William%20Berczy%20c.1807.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Joseph_Brant_by_William_Berczy_c.1807.jpg",
+              "credit": {
+                "es": "Thayendanegea (Joseph Brant), retrato de William Berczy, hacia 1807 — Wikimedia Commons.",
+                "ca": "Thayendanegea (Joseph Brant), retrat de William Berczy, cap al 1807 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Les Haudenosaunee (Iroquois), alliés des Anglais depuis longtemps, doivent choisir un camp. Mais ils ne sont pas tous d'accord.",
+            "es": "Los haudenosaunee (iroqueses), aliados de los ingleses desde hace mucho tiempo, deben elegir un bando. Pero no todos están de acuerdo.",
+            "ca": "Els haudenosaunee (iroquesos), aliats dels anglesos des de fa temps, han de triar un bàndol. Però no tots hi estan d'acord."
+          },
+          {
+            "fr": "Un chef mohawk, Joseph Brant (Thayendanegea), choisit le camp anglais. Mais les Oneidas choisissent le camp américain.",
+            "es": "Un jefe mohawk, Joseph Brant (Thayendanegea), elige el bando inglés. Pero los oneida eligen el bando americano.",
+            "ca": "Un cap mohawk, Joseph Brant (Thayendanegea), tria el bàndol anglès. Però els oneida trien el bàndol americà."
+          },
+          {
+            "fr": "Pour la première fois, la Confédération haudenosaunee se divise : des nations se battent l'une contre l'autre.",
+            "es": "Por primera vez, la Confederación haudenosaunee se divide: naciones combaten unas contra otras.",
+            "ca": "Per primera vegada, la Confederació haudenosaunee es divideix: nacions combaten l'una contra l'altra."
+          },
+          {
+            "fr": "Après la guerre, les Anglais perdent. Beaucoup de Haudenosaunee alliés des Anglais doivent fuir vers le Canada.",
+            "es": "Tras la guerra, los ingleses pierden. Muchos haudenosaunee aliados de los ingleses tienen que huir a Canadá.",
+            "ca": "Després de la guerra, els anglesos perden. Molts haudenosaunee aliats dels anglesos han de fugir al Canadà."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Quand la Révolution américaine éclate en 1775, la Confédération haudenosaunee (les Six Nations) se retrouve dans une position délicate : alliée aux Britanniques depuis plus d'un siècle via la Covenant Chain, elle doit désormais choisir entre la couronne et les colons rebelles.",
+            "es": "Cuando estalla la Revolución americana en 1775, la Confederación haudenosaunee (las Seis Naciones) se encuentra en una posición delicada: aliada de los británicos desde hace más de un siglo mediante la Covenant Chain, ahora debe elegir entre la corona y los colonos rebeldes.",
+            "ca": "Quan esclata la Revolució americana el 1775, la Confederació haudenosaunee (les Sis Nacions) es troba en una posició delicada: aliada dels britànics des de fa més d'un segle mitjançant la Covenant Chain, ara ha de triar entre la corona i els colons rebels."
+          },
+          {
+            "h": {
+              "fr": "Une confédération divisée",
+              "es": "Una confederación dividida",
+              "ca": "Una confederació dividida"
+            }
+          },
+          {
+            "fr": "Le conseil des Six Nations ne parvient pas à s'entendre. Le chef mohawk Joseph Brant (Thayendanegea), éduqué en anglais et proche de l'administration britannique, mène la majorité des Mohawks, Sénécas, Cayugas et Onondagas du côté anglais.",
+            "es": "El consejo de las Seis Naciones no logra ponerse de acuerdo. El jefe mohawk Joseph Brant (Thayendanegea), educado en inglés y cercano a la administración británica, lleva a la mayoría de los mohawk, seneca, cayuga y onondaga al lado inglés.",
+            "ca": "El consell de les Sis Nacions no aconsegueix posar-se d'acord. El cap mohawk Joseph Brant (Thayendanegea), educat en anglès i proper a l'administració britànica, porta la majoria dels mohawk, seneca, cayuga i onondaga al costat anglès."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Brant%20by%20William%20Berczy%20c.1807.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Joseph_Brant_by_William_Berczy_c.1807.jpg",
+              "credit": {
+                "es": "Thayendanegea (Joseph Brant), retrato de William Berczy, hacia 1807 — Wikimedia Commons.",
+                "ca": "Thayendanegea (Joseph Brant), retrat de William Berczy, cap al 1807 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Mais les Oneidas et une partie des Tuscaroras, influencés par le missionnaire Samuel Kirkland, choisissent de soutenir les Américains. Pour la première fois en plusieurs siècles, la Confédération se déchire de l'intérieur.",
+            "es": "Pero los oneida y parte de los tuscarora, influidos por el misionero Samuel Kirkland, eligen apoyar a los americanos. Por primera vez en varios siglos, la Confederación se desgarra desde dentro.",
+            "ca": "Però els oneida i part dels tuscarora, influïts pel missioner Samuel Kirkland, trien donar suport als americans. Per primera vegada en diversos segles, la Confederació s'esquinça des de dins."
+          },
+          {
+            "h": {
+              "fr": "Une guerre dévastatrice",
+              "es": "Una guerra devastadora",
+              "ca": "Una guerra devastadora"
+            }
+          },
+          {
+            "fr": "Des raids sanglants opposent les deux camps, y compris entre Haudenosaunee. En 1779, l'armée américaine lance l'expédition Sullivan, qui détruit systématiquement des dizaines de villages et de récoltes haudenosaunee pour punir leurs alliés des Britanniques. Après la défaite anglaise, beaucoup de partisans de Brant s'exilent au Canada, où la couronne leur offre des terres près du lac Ontario.",
+            "es": "Redadas sangrientas enfrentan a ambos bandos, incluso entre haudenosaunee. En 1779, el ejército americano lanza la expedición Sullivan, que destruye sistemáticamente decenas de pueblos y cosechas haudenosaunee para castigar a sus aliados de los británicos. Tras la derrota inglesa, muchos partidarios de Brant se exilian en Canadá, donde la corona les ofrece tierras cerca del lago Ontario.",
+            "ca": "Ràtzies sagnants enfronten tots dos bàndols, fins i tot entre haudenosaunee. El 1779, l'exèrcit americà llança l'expedició Sullivan, que destrueix sistemàticament desenes de pobles i collites haudenosaunee per castigar els seus aliats dels britànics. Després de la derrota anglesa, molts partidaris de Brant s'exilien al Canadà, on la corona els ofereix terres a prop del llac Ontario."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "La Révolution américaine (1775-1783) place la Confédération haudenosaunee devant un dilemme sans précédent. Depuis plus d'un siècle, sa relation avec la couronne britannique repose sur la Covenant Chain : un partenariat d'égal à égal, pas une soumission. Mais cette fois, ce n'est plus un conflit entre deux empires étrangers — c'est une guerre civile au sein même de l'allié britannique, qui divise profondément le conseil des Six Nations.",
+            "es": "La Revolución americana (1775-1783) coloca a la Confederación haudenosaunee ante un dilema sin precedentes. Desde hace más de un siglo, su relación con la corona británica se basa en la Covenant Chain: una asociación de igual a igual, no una sumisión. Pero esta vez, ya no es un conflicto entre dos imperios extranjeros —es una guerra civil dentro del propio aliado británico, que divide profundamente al consejo de las Seis Naciones.",
+            "ca": "La Revolució americana (1775-1783) col·loca la Confederació haudenosaunee davant un dilema sense precedents. Des de fa més d'un segle, la seva relació amb la corona britànica es basa en la Covenant Chain: una associació d'igual a igual, no una submissió. Però aquesta vegada, ja no és un conflicte entre dos imperis estrangers —és una guerra civil dins del mateix aliat britànic, que divideix profundament el consell de les Sis Nacions."
+          },
+          {
+            "h": {
+              "fr": "Une confédération divisée",
+              "es": "Una confederación dividida",
+              "ca": "Una confederació dividida"
+            }
+          },
+          {
+            "fr": "Le conseil traditionnel, réuni à Onondaga, échoue à maintenir un consensus, rompant symboliquement le feu central de la Confédération. Le chef mohawk Joseph Brant, dit Thayendanegea — éduqué à l'anglaise, converti à l'anglicanisme et beau-frère de l'agent britannique William Johnson — convainc la majorité des Mohawks, Sénécas, Cayugas et Onondagas de soutenir la couronne, qu'il juge plus fiable pour protéger les terres autochtones que des colons avides d'expansion territoriale.",
+            "es": "El consejo tradicional, reunido en Onondaga, fracasa en mantener un consenso, rompiendo simbólicamente el fuego central de la Confederación. El jefe mohawk Joseph Brant, llamado Thayendanegea —educado a la inglesa, convertido al anglicanismo y cuñado del agente británico William Johnson—, convence a la mayoría de los mohawk, seneca, cayuga y onondaga de apoyar a la corona, a la que considera más fiable para proteger las tierras indígenas que unos colonos ávidos de expansión territorial.",
+            "ca": "El consell tradicional, reunit a Onondaga, fracassa a mantenir un consens, trencant simbòlicament el foc central de la Confederació. El cap mohawk Joseph Brant, dit Thayendanegea —educat a l'anglesa, convertit a l'anglicanisme i cunyat de l'agent britànic William Johnson—, convenç la majoria dels mohawk, seneca, cayuga i onondaga de donar suport a la corona, que considera més fiable per protegir les terres indígenes que uns colons àvids d'expansió territorial."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Brant%20by%20William%20Berczy%20c.1807.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Joseph_Brant_by_William_Berczy_c.1807.jpg",
+              "credit": {
+                "es": "Thayendanegea (Joseph Brant), retrato de William Berczy, hacia 1807 — Wikimedia Commons.",
+                "ca": "Thayendanegea (Joseph Brant), retrat de William Berczy, cap al 1807 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Face à lui, les Oneidas et une partie des Tuscaroras, sous l'influence du missionnaire presbytérien Samuel Kirkland, choisissent de soutenir la cause américaine — devenant, pour beaucoup d'historiens, des alliés décisifs des insurgés dans le Nord-Est, notamment lors de la famine de Valley Forge, où des vivres oneidas soutiennent l'armée continentale.",
+            "es": "Frente a él, los oneida y parte de los tuscarora, bajo la influencia del misionero presbiteriano Samuel Kirkland, eligen apoyar la causa americana —convirtiéndose, para muchos historiadores, en aliados decisivos de los insurgentes en el noreste, especialmente durante la hambruna de Valley Forge, donde provisiones oneida sostienen al ejército continental.",
+            "ca": "Davant seu, els oneida i part dels tuscarora, sota la influència del missioner presbiterià Samuel Kirkland, trien donar suport a la causa americana —esdevenint, per a molts historiadors, aliats decisius dels insurgents al nord-est, especialment durant la fam de Valley Forge, on provisions oneida sostenen l'exèrcit continental."
+          },
+          {
+            "h": {
+              "fr": "Une guerre civile dévastatrice",
+              "es": "Una guerra civil devastadora",
+              "ca": "Una guerra civil devastadora"
+            }
+          },
+          {
+            "fr": "Le conflit dégénère en guerre fratricide : des raids sanglants, comme ceux de Cherry Valley et de Wyoming Valley menés par les forces de Brant, opposent Haudenosaunee à Haudenosaunee. En représailles, l'armée continentale lance en 1779 l'expédition Sullivan-Clinton sur ordre direct de George Washington — que les Haudenosaunee surnommeront « Destructeur de villages » — qui rase méthodiquement plus de 40 villages sénécas et cayugas ainsi que leurs réserves de nourriture, provoquant une famine dévastatrice l'hiver suivant.",
+            "es": "El conflicto degenera en guerra fratricida: incursiones sangrientas, como las de Cherry Valley y Wyoming Valley dirigidas por las fuerzas de Brant, enfrentan a haudenosaunee contra haudenosaunee. En represalia, el ejército continental lanza en 1779 la expedición Sullivan-Clinton por orden directa de George Washington —a quien los haudenosaunee apodarán «Destructor de pueblos»— que arrasa metódicamente más de 40 pueblos seneca y cayuga junto con sus reservas de alimentos, provocando una hambruna devastadora el invierno siguiente.",
+            "ca": "El conflicte degenera en guerra fratricida: incursions sagnants, com les de Cherry Valley i Wyoming Valley dirigides per les forces de Brant, enfronten haudenosaunee contra haudenosaunee. En represàlia, l'exèrcit continental llança el 1779 l'expedició Sullivan-Clinton per ordre directa de George Washington —a qui els haudenosaunee anomenaran «Destructor de pobles»— que arrasa metòdicament més de 40 pobles seneca i cayuga juntament amb les seves reserves d'aliments, provocant una fam devastadora l'hivern següent."
+          },
+          {
+            "h": {
+              "fr": "Un exil et une confédération affaiblie",
+              "es": "Un exilio y una confederación debilitada",
+              "ca": "Un exili i una confederació afeblida"
+            }
+          },
+          {
+            "fr": "La défaite britannique en 1783 laisse les partisans de Brant dans une position tragique : le traité de Paris ne mentionne même pas leurs droits territoriaux. Beaucoup s'exilent au Canada, où la couronne leur accorde des terres le long de la rivière Grand, en Ontario — territoire toujours habité aujourd'hui par les Six Nations of the Grand River. Même les Oneidas, pourtant alliés des vainqueurs américains, voient leurs terres progressivement rognées dans les décennies suivantes, un rappel amer que la loyauté à l'un ou l'autre camp n'a garanti la sécurité territoriale d'aucune nation.",
+            "es": "La derrota británica en 1783 deja a los partidarios de Brant en una posición trágica: el tratado de París ni siquiera menciona sus derechos territoriales. Muchos se exilian en Canadá, donde la corona les concede tierras a lo largo del río Grand, en Ontario —territorio todavía habitado hoy por las Seis Naciones del río Grand. Incluso los oneida, pese a ser aliados de los vencedores americanos, ven sus tierras progresivamente recortadas en las décadas siguientes, un recordatorio amargo de que la lealtad a uno u otro bando no garantizó la seguridad territorial de ninguna nación.",
+            "ca": "La derrota britànica el 1783 deixa els partidaris de Brant en una posició tràgica: el tractat de París ni tan sols esmenta els seus drets territorials. Molts s'exilien al Canadà, on la corona els concedeix terres al llarg del riu Grand, a Ontario —territori encara habitat avui per les Sis Nacions del riu Grand. Fins i tot els oneida, malgrat ser aliats dels vencedors americans, veuen les seves terres progressivament retallades en les dècades següents, un recordatori amarg que la lleialtat a un bàndol o l'altre no va garantir la seguretat territorial de cap nació."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: la expedición Sullivan-Clinton de 1779 y sus consecuencias sobre la población seneca y cayuga siguen siendo un tema de memoria dolorosa para los haudenosaunee hoy.",
+        "ca": "Tema sensible: l'expedició Sullivan-Clinton de 1779 i les seves conseqüències sobre la població seneca i cayuga continuen sent un tema de memòria dolorosa per als haudenosaunee avui."
+      },
+      "mots_cles": [
+        {
+          "mot": "un dilemme",
+          "es": "un dilema",
+          "ca": "un dilema"
+        },
+        {
+          "mot": "un consensus",
+          "es": "un consenso",
+          "ca": "un consens"
+        },
+        {
+          "mot": "fratricide",
+          "es": "fratricida",
+          "ca": "fratricida"
+        },
+        {
+          "mot": "des représailles",
+          "es": "represalias",
+          "ca": "represàlies"
+        },
+        {
+          "mot": "un exil",
+          "es": "un exilio",
+          "ca": "un exili"
+        },
+        {
+          "mot": "un traité (de paix)",
+          "es": "un tratado (de paz)",
+          "ca": "un tractat (de pau)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué chef mohawk lidera a la mayoría de los haudenosaunee del lado británico?",
+            "ca": "Quin cap mohawk lidera la majoria dels haudenosaunee del costat britànic?"
+          },
+          "piste": {
+            "es": "Joseph Brant (Thayendanegea)",
+            "ca": "Joseph Brant (Thayendanegea)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué nación haudenosaunee apoya a los americanos?",
+            "ca": "Quina nació haudenosaunee dona suport als americans?"
+          },
+          "piste": {
+            "es": "los oneida (y parte de los tuscarora)",
+            "ca": "els oneida (i part dels tuscarora)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué hace la expedición Sullivan-Clinton en 1779?",
+            "ca": "Què fa l'expedició Sullivan-Clinton el 1779?"
+          },
+          "piste": {
+            "es": "destruye más de 40 pueblos seneca y cayuga y sus reservas de comida",
+            "ca": "destrueix més de 40 pobles seneca i cayuga i les seves reserves de menjar"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Adónde se exilian muchos partidarios de Brant tras la derrota británica?",
+            "ca": "On s'exilien molts partidaris de Brant després de la derrota britànica?"
+          },
+          "piste": {
+            "es": "a Canadá, cerca del río Grand en Ontario",
+            "ca": "al Canadà, a prop del riu Grand a Ontario"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Joseph Brant",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Brant"
+        },
+        {
+          "titre": "Wikipedia — Su

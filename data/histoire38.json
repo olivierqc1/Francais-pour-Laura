@@ -1,0 +1,253 @@
+{
+  "textes": [
+    {
+      "id": "indian_removal_piste_larmes",
+      "emoji": "🍂",
+      "theme": "Histoire",
+      "periode": "1830 à 1839",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trail%20of%20tears%20map%20NPS.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Trail_of_tears_map_NPS.jpg",
+        "credit": {
+          "es": "Mapa de las rutas de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons.",
+          "ca": "Mapa de les rutes de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La Piste des Larmes: el desplazamiento forzado de las Cinco Naciones Civilizadas",
+        "ca": "La Piste des Larmes: el desplaçament forçat de les Cinc Nacions Civilitzades"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Après la mort de Tecumseh, les États-Unis grandissent encore plus. Le président Andrew Jackson veut toutes les terres à l'est du Mississippi.",
+            "es": "Tras la muerte de Tecumseh, Estados Unidos crece todavía más. El presidente Andrew Jackson quiere todas las tierras al este del Misisipi.",
+            "ca": "Després de la mort de Tecumseh, els Estats Units creix encara més. El president Andrew Jackson vol totes les terres a l'est del Mississipí."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trail%20of%20tears%20map%20NPS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Trail_of_tears_map_NPS.jpg",
+              "credit": {
+                "es": "Mapa de las rutas de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons.",
+                "ca": "Mapa de les rutes de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1830, il fait voter une loi : l'Indian Removal Act. Elle force les nations autochtones à partir vers l'ouest.",
+            "es": "En 1830, hace votar una ley: la Indian Removal Act. Obliga a las naciones indígenas a irse hacia el oeste.",
+            "ca": "El 1830, fa votar una llei: la Indian Removal Act. Obliga les nacions indígenes a marxar cap a l'oest."
+          },
+          {
+            "fr": "Les Cherokees se battent devant les tribunaux et gagnent leur procès. Mais Jackson ignore la décision de la Cour suprême.",
+            "es": "Los cherokee luchan en los tribunales y ganan su juicio. Pero Jackson ignora la decisión de la Corte Suprema.",
+            "ca": "Els cherokee lluiten davant els tribunals i guanyen el seu judici. Però Jackson ignora la decisió de la Cort Suprema."
+          },
+          {
+            "fr": "En 1838, l'armée force environ 16 000 Cherokees à marcher vers l'Oklahoma. C'est la Piste des Larmes.",
+            "es": "En 1838, el ejército obliga a unos 16 000 cherokee a marchar hacia Oklahoma. Es la Piste des Larmes.",
+            "ca": "El 1838, l'exèrcit obliga uns 16.000 cherokee a marxar cap a Oklahoma. És la Piste des Larmes."
+          },
+          {
+            "fr": "Environ 4 000 Cherokees meurent pendant le voyage, de faim, de froid et de maladie.",
+            "es": "Unos 4000 cherokee mueren durante el viaje, de hambre, frío y enfermedad.",
+            "ca": "Uns 4.000 cherokee moren durant el viatge, de fam, fred i malaltia."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Après la mort de Tecumseh en 1813, plus aucune résistance armée unifiée ne s'oppose à l'expansion américaine à l'est du Mississippi. Le président Andrew Jackson, élu en 1828, fait de l'expulsion des nations autochtones une priorité de son mandat.",
+            "es": "Tras la muerte de Tecumseh en 1813, ninguna resistencia armada unificada se opone ya a la expansión americana al este del Misisipi. El presidente Andrew Jackson, elegido en 1828, hace de la expulsión de las naciones indígenas una prioridad de su mandato.",
+            "ca": "Després de la mort de Tecumseh el 1813, cap resistència armada unificada s'oposa ja a l'expansió americana a l'est del Mississipí. El president Andrew Jackson, elegit el 1828, fa de l'expulsió de les nacions indígenes una prioritat del seu mandat."
+          },
+          {
+            "h": {
+              "fr": "Une résistance légale, mais ignorée",
+              "es": "Una resistencia legal, pero ignorada",
+              "ca": "Una resistència legal, però ignorada"
+            }
+          },
+          {
+            "fr": "En 1830, le Congrès vote l'Indian Removal Act, autorisant le gouvernement à échanger de force les terres autochtones à l'est contre des territoires à l'ouest du Mississippi. Les Cherokees, qui se sont adaptés à de nombreuses institutions américaines, contestent la loi devant les tribunaux et obtiennent gain de cause en 1832 dans l'affaire Worcester v. Georgia. Jackson refuse simplement d'appliquer la décision.",
+            "es": "En 1830, el Congreso vota la Indian Removal Act, autorizando al gobierno a intercambiar por la fuerza las tierras indígenas al este por territorios al oeste del Misisipi. Los cherokee, que se han adaptado a muchas instituciones americanas, impugnan la ley ante los tribunales y ganan en 1832 en el caso Worcester contra Georgia. Jackson simplemente se niega a aplicar la decisión.",
+            "ca": "El 1830, el Congrés vota la Indian Removal Act, autoritzant el govern a intercanviar per la força les terres indígenes a l'est per territoris a l'oest del Mississipí. Els cherokee, que s'han adaptat a moltes institucions americanes, impugnen la llei davant els tribunals i guanyen el 1832 en el cas Worcester contra Geòrgia. Jackson simplement es nega a aplicar la decisió."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trail%20of%20tears%20map%20NPS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Trail_of_tears_map_NPS.jpg",
+              "credit": {
+                "es": "Mapa de las rutas de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons.",
+                "ca": "Mapa de les rutes de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La marche forcée",
+              "es": "La marcha forzada",
+              "ca": "La marxa forçada"
+            }
+          },
+          {
+            "fr": "En 1838, l'armée américaine rassemble de force environ 16 000 Cherokees dans des camps, puis les fait marcher plus de 1 600 kilomètres vers l'Oklahoma actuel, en plein hiver et avec des vivres insuffisants. Environ 4 000 personnes meurent en chemin de faim, de froid ou de maladie.",
+            "es": "En 1838, el ejército americano reúne por la fuerza a unos 16 000 cherokee en campamentos, y luego los hace marchar más de 1600 kilómetros hacia el actual Oklahoma, en pleno invierno y con provisiones insuficientes. Unas 4000 personas mueren en el camino de hambre, frío o enfermedad.",
+            "ca": "El 1838, l'exèrcit americà reuneix per la força uns 16.000 cherokee en campaments, i després els fa marxar més de 1.600 quilòmetres cap a l'actual Oklahoma, en ple hivern i amb provisions insuficients. Unes 4.000 persones moren pel camí de fam, fred o malaltia."
+          },
+          {
+            "fr": "Les Cherokees ne sont pas les seuls : les Choctaws, Chickasaws, Muscogee-Creeks et Séminoles subissent aussi des déplacements forcés similaires, formant ensemble ce qu'on appelle plus tard les « Cinq Nations civilisées ».",
+            "es": "Los cherokee no son los únicos: los choctaw, chickasaw, muscogee-creek y seminole también sufren desplazamientos forzados similares, formando juntos lo que más tarde se llamará las «Cinco Naciones Civilizadas».",
+            "ca": "Els cherokee no són els únics: els choctaw, chickasaw, muscogee-creek i seminole també pateixen desplaçaments forçats similars, formant junts el que més tard s'anomenarà les «Cinc Nacions Civilitzades»."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "La mort de Tecumseh en 1813 met fin à la dernière résistance armée continentale capable de freiner l'expansion américaine à l'est du Mississippi. Quinze ans plus tard, l'élection d'Andrew Jackson, ancien général connu pour sa brutalité envers les nations autochtones, marque un tournant décisif : l'expulsion des nations du Sud-Est devient une priorité fédérale assumée.",
+            "es": "La muerte de Tecumseh en 1813 pone fin a la última resistencia armada continental capaz de frenar la expansión americana al este del Misisipi. Quince años después, la elección de Andrew Jackson, antiguo general conocido por su brutalidad hacia las naciones indígenas, marca un punto de inflexión decisivo: la expulsión de las naciones del Sureste se convierte en una prioridad federal asumida.",
+            "ca": "La mort de Tecumseh el 1813 posa fi a l'última resistència armada continental capaç de frenar l'expansió americana a l'est del Mississipí. Quinze anys després, l'elecció d'Andrew Jackson, antic general conegut per la seva brutalitat envers les nacions indígenes, marca un punt d'inflexió decisiu: l'expulsió de les nacions del Sud-est esdevé una prioritat federal assumida."
+          },
+          {
+            "h": {
+              "fr": "Une résistance légale, mais ignorée",
+              "es": "Una resistencia legal, pero ignorada",
+              "ca": "Una resistència legal, però ignorada"
+            }
+          },
+          {
+            "fr": "L'Indian Removal Act de 1830 autorise le gouvernement fédéral à négocier — souvent sous la contrainte — l'échange des terres autochtones de l'Est contre des territoires situés à l'ouest du Mississippi, dans l'actuel Oklahoma. Les Cherokees, qui ont développé une constitution écrite, un système judiciaire et une presse en langue cherokee grâce au syllabaire de Sequoyah, contestent la légalité de cette expulsion devant la Cour suprême. En 1832, dans l'arrêt Worcester v. Georgia, le juge en chef John Marshall leur donne raison, reconnaissant la souveraineté de la nation cherokee. Jackson refuse ouvertement d'appliquer la décision, déclarant selon la légende : « John Marshall a rendu sa décision, maintenant qu'il la fasse respecter. »",
+            "es": "La Indian Removal Act de 1830 autoriza al gobierno federal a negociar —a menudo bajo coacción— el intercambio de las tierras indígenas del Este por territorios situados al oeste del Misisipi, en el actual Oklahoma. Los cherokee, que han desarrollado una constitución escrita, un sistema judicial y una prensa en lengua cherokee gracias al silabario de Sequoyah, impugnan la legalidad de esta expulsión ante la Corte Suprema. En 1832, en el fallo Worcester contra Georgia, el juez presidente John Marshall les da la razón, reconociendo la soberanía de la nación cherokee. Jackson se niega abiertamente a aplicar la decisión, declarando según la leyenda: «John Marshall ha dictado su sentencia, ahora que la haga cumplir».",
+            "ca": "La Indian Removal Act del 1830 autoritza el govern federal a negociar —sovint sota coacció— l'intercanvi de les terres indígenes de l'Est per territoris situats a l'oest del Mississipí, a l'actual Oklahoma. Els cherokee, que han desenvolupat una constitució escrita, un sistema judicial i una premsa en llengua cherokee gràcies al sil·labari de Sequoyah, impugnen la legalitat d'aquesta expulsió davant la Cort Suprema. El 1832, en la sentència Worcester contra Geòrgia, el jutge president John Marshall els dona la raó, reconeixent la sobirania de la nació cherokee. Jackson es nega obertament a aplicar la decisió, declarant segons la llegenda: «John Marshall ha dictat la seva sentència, ara que la faci complir»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trail%20of%20tears%20map%20NPS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Trail_of_tears_map_NPS.jpg",
+              "credit": {
+                "es": "Mapa de las rutas de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons.",
+                "ca": "Mapa de les rutes de la Piste des Larmes (Trail of Tears), National Park Service — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La marche forcée",
+              "es": "La marcha forzada",
+              "ca": "La marxa forçada"
+            }
+          },
+          {
+            "fr": "En 1838, faute de départ volontaire suffisant, le général Winfield Scott mène une opération militaire pour rassembler de force environ 16 000 Cherokees dans des camps insalubres, avant de les faire marcher sur plus de 1 600 kilomètres vers l'Oklahoma, en plein hiver, avec des rations insuffisantes et un encadrement médical quasi inexistant.",
+            "es": "En 1838, ante la falta de salida voluntaria suficiente, el general Winfield Scott dirige una operación militar para reunir por la fuerza a unos 16 000 cherokee en campamentos insalubres, antes de hacerlos marchar más de 1600 kilómetros hacia Oklahoma, en pleno invierno, con raciones insuficientes y una atención médica casi inexistente.",
+            "ca": "El 1838, davant la manca de sortida voluntària suficient, el general Winfield Scott dirigeix una operació militar per reunir per la força uns 16.000 cherokee en campaments insalubres, abans de fer-los marxar més de 1.600 quilòmetres cap a Oklahoma, en ple hivern, amb racions insuficients i una atenció mèdica gairebé inexistent."
+          },
+          {
+            "fr": "Environ 4 000 Cherokees — près d'un quart de la nation — meurent durant le trajet ou dans les camps, de faim, de froid, d'épuisement ou de maladie. Les Cherokees appellent cet épisode Nunna daul Isunyi, « la piste où ils ont pleuré ».",
+            "es": "Unos 4000 cherokee —casi una cuarta parte de la nación— mueren durante el trayecto o en los campamentos, de hambre, frío, agotamiento o enfermedad. Los cherokee llaman a este episodio Nunna daul Isunyi, «el sendero donde lloraron».",
+            "ca": "Uns 4.000 cherokee —gairebé una quarta part de la nació— moren durant el trajecte o als campaments, de fam, fred, esgotament o malaltia. Els cherokee anomenen aquest episodi Nunna daul Isunyi, «el sender on van plorar»."
+          },
+          {
+            "h": {
+              "fr": "Un déplacement à l'échelle du Sud-Est",
+              "es": "Un desplazamiento a escala del Sureste",
+              "ca": "Un desplaçament a escala del Sud-est"
+            }
+          },
+          {
+            "fr": "Les Cherokees ne sont qu'une des cinq grandes nations touchées, aux côtés des Choctaws (dès 1831), des Muscogee-Creeks, des Chickasaws et des Séminoles, qui résistent militairement pendant des années lors des guerres séminoles en Floride. Ensemble, ces déplacements forcés — regroupés sous le nom de « Trail of Tears » (Piste des Larmes) — touchent près de 60 000 personnes et redessinent radicalement la carte humaine du Sud-Est des États-Unis, ouvrant ces terres à l'expansion de l'économie esclavagiste du coton.",
+            "es": "Los cherokee no son más que una de las cinco grandes naciones afectadas, junto con los choctaw (desde 1831), los muscogee-creek, los chickasaw y los seminole, que resisten militarmente durante años en las guerras seminolas en Florida. Juntos, estos desplazamientos forzados —agrupados bajo el nombre de «Trail of Tears» (Piste des Larmes)— afectan a cerca de 60 000 personas y redibujan radicalmente el mapa humano del Sureste de Estados Unidos, abriendo esas tierras a la expansión de la economía esclavista del algodón.",
+            "ca": "Els cherokee no són més que una de les cinc grans nacions afectades, juntament amb els choctaw (des del 1831), els muscogee-creek, els chickasaw i els seminole, que resisteixen militarment durant anys a les guerres seminoles a Florida. Junts, aquests desplaçaments forçats —agrupats sota el nom de «Trail of Tears» (Piste des Larmes)— afecten prop de 60.000 persones i redibuixen radicalment el mapa humà del Sud-est dels Estats Units, obrint aquestes terres a l'expansió de l'economia esclavista del cotó."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: la Piste des Larmes es una de las páginas más dolorosas de la historia de Estados Unidos; se aborda aquí con la seriedad que merece.",
+        "ca": "Tema sensible: la Piste des Larmes és una de les pàgines més doloroses de la història dels Estats Units; s'aborda aquí amb la serietat que mereix."
+      },
+      "mots_cles": [
+        {
+          "mot": "expulser",
+          "es": "expulsar",
+          "ca": "expulsar"
+        },
+        {
+          "mot": "une souveraineté",
+          "es": "una soberanía",
+          "ca": "una sobirania"
+        },
+        {
+          "mot": "insalubre",
+          "es": "insalubre",
+          "ca": "insalubre"
+        },
+        {
+          "mot": "un encadrement (médical)",
+          "es": "una atención (médica)",
+          "ca": "una atenció (mèdica)"
+        },
+        {
+          "mot": "résister",
+          "es": "resistir",
+          "ca": "resistir"
+        },
+        {
+          "mot": "redessiner",
+          "es": "redibujar",
+          "ca": "redibuixar"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué ley vota el Congreso en 1830?",
+            "ca": "Quina llei vota el Congrés el 1830?"
+          },
+          "piste": {
+            "es": "la Indian Removal Act",
+            "ca": "la Indian Removal Act"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué decide la Corte Suprema en 1832, y qué hace Jackson?",
+            "ca": "Què decideix la Cort Suprema el 1832, i què fa Jackson?"
+          },
+          "piste": {
+            "es": "reconoce la soberanía cherokee; Jackson se niega a aplicar la decisión",
+            "ca": "reconeix la sobirania cherokee; Jackson es nega a aplicar la decisió"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántos cherokee mueren durante la Piste des Larmes?",
+            "ca": "Quants cherokee moren durant la Piste des Larmes?"
+          },
+          "piste": {
+            "es": "unos 4000, casi una cuarta parte de la nación",
+            "ca": "uns 4.000, gairebé una quarta part de la nació"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué otras naciones sufren desplazamientos forzados similares?",
+            "ca": "Quines altres nacions pateixen desplaçaments forçats similars?"
+          },
+          "piste": {
+            "es": "los choctaw, chickasaw, muscogee-creek y seminole",
+            "ca": "els choctaw, chickasaw, muscogee-creek i seminole"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Trail of Tears",
+          "url": "https://en.wikipedia.org/wiki/Trail_of_Tears"
+        },
+        {
+          "titre": "National Park Service — Trail of Tears",
+          "url": "https://www.nps.gov/trte/index.htm"
+        }
+      ]
+    }
+  ]
+}

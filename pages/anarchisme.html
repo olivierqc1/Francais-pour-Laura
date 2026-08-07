@@ -96,7 +96,7 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const FILES = ['../data/anarchisme1.json','../data/anarchisme2.json'];
+  const FILES = ['../data/anarchisme0_histoire.json','../data/anarchisme1.json','../data/anarchisme2.json','../data/anarchisme3.json'];
   const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
   textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
   if (!textes.length){

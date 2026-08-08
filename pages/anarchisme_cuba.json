@@ -1,0 +1,277 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_cuba_lector",
+      "emoji": "🇨🇺",
+      "theme": "Politique",
+      "periode": "1865 à 1961",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ybor%20Cigar%20workers.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Ybor_Cigar_workers.jpg",
+        "credit": {
+          "es": "Interior de una fábrica de cigarros de tradición cubana, Ybor City, hacia 1920 — Wikimedia Commons.",
+          "ca": "Interior d'una fàbrica de cigars de tradició cubana, Ybor City, cap al 1920 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarquismo en Cuba: del lector de tabaquería a la Revolución",
+        "ca": "L'anarquisme a Cuba: del lector de tabaqueria a la Revolució"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Dans les usines de tabac cubaines du 19e siècle, les ouvriers travaillent en silence, en roulant des cigares toute la journée.",
+            "es": "En las fábricas de tabaco cubanas del siglo XIX, los obreros trabajan en silencio, enrollando cigarros todo el día.",
+            "ca": "A les fàbriques de tabac cubanes del segle XIX, els obrers treballen en silenci, enrotllant cigars tot el dia."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ybor%20Cigar%20workers.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Ybor_Cigar_workers.jpg",
+              "credit": {
+                "es": "Interior de una fábrica de cigarros de tradición cubana, Ybor City, hacia 1920 — Wikimedia Commons.",
+                "ca": "Interior d'una fàbrica de cigars de tradició cubana, Ybor City, cap al 1920 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1865, les ouvriers ont une idée : payer quelqu'un pour leur faire la lecture à voix haute pendant qu'ils travaillent. C'est le « lector ».",
+            "es": "En 1865, los obreros tienen una idea: pagar a alguien para que les lea en voz alta mientras trabajan. Es el «lector».",
+            "ca": "El 1865, els obrers tenen una idea: pagar algú perquè els llegeixi en veu alta mentre treballen. És el «lector»."
+          },
+          {
+            "fr": "Le lector lit des romans, mais aussi des journaux anarchistes. C'est comme ça que les idées anarchistes se répandent dans les usines.",
+            "es": "El lector lee novelas, pero también periódicos anarquistas. Así es como se difunden las ideas anarquistas en las fábricas.",
+            "ca": "El lector llegeix novel·les, però també diaris anarquistes. Així és com es difonen les idees anarquistes a les fàbriques."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuban%20cigar%20factory.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Cuban_cigar_factory.jpg",
+              "credit": {
+                "es": "Fábrica de tabaco cubana — Wikimedia Commons.",
+                "ca": "Fàbrica de tabac cubana — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Enrique Roig San Martín fonde en 1887 le journal « El Productor », qui devient très important pour les travailleurs cubains.",
+            "es": "Enrique Roig San Martín funda en 1887 el periódico «El Productor», que se vuelve muy importante para los trabajadores cubanos.",
+            "ca": "Enrique Roig San Martín funda el 1887 el diari «El Productor», que esdevé molt important per als treballadors cubans."
+          },
+          {
+            "fr": "L'anarchisme reste fort à Cuba pendant des décennies, même après l'indépendance en 1902.",
+            "es": "El anarquismo sigue siendo fuerte en Cuba durante décadas, incluso después de la independencia en 1902.",
+            "ca": "L'anarquisme continua sent fort a Cuba durant dècades, fins i tot després de la independència el 1902."
+          },
+          {
+            "fr": "Après la révolution de Castro en 1959, le nouveau gouvernement communiste interdit l'anarchisme, comme en Chine.",
+            "es": "Tras la revolución de Castro en 1959, el nuevo gobierno comunista prohíbe el anarquismo, como en China.",
+            "ca": "Després de la revolució de Castro el 1959, el nou govern comunista prohibeix l'anarquisme, com a la Xina."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Dans les usines de tabac cubaines du 19e siècle, des centaines d'ouvriers roulent des cigares en silence pendant de longues heures, un travail répétitif qui laisse leurs mains occupées mais leur esprit libre. En 1865, à la manufacture El Fígaro de La Havane, les ouvriers ont l'idée de payer collectivement l'un des leurs pour leur faire la lecture à voix haute pendant le travail.",
+            "es": "En las fábricas de tabaco cubanas del siglo XIX, cientos de obreros enrollan cigarros en silencio durante largas horas, un trabajo repetitivo que deja las manos ocupadas pero la mente libre. En 1865, en la manufactura El Fígaro de La Habana, los obreros tienen la idea de pagar colectivamente a uno de los suyos para que les lea en voz alta durante el trabajo.",
+            "ca": "A les fàbriques de tabac cubanes del segle XIX, centenars d'obrers enrotllen cigars en silenci durant llargues hores, una feina repetitiva que deixa les mans ocupades però la ment lliure. El 1865, a la manufactura El Fígaro de l'Havana, els obrers tenen la idea de pagar col·lectivament un dels seus perquè els llegeixi en veu alta durant la feina."
+          },
+          {
+            "h": {
+              "fr": "Le lector, une école ambulante",
+              "es": "El lector, una escuela ambulante",
+              "ca": "El lector, una escola ambulant"
+            }
+          },
+          {
+            "fr": "Cette institution du « lector », perché sur une estrade au milieu de l'atelier, devient rapidement centrale dans la culture ouvrière cubaine : romans, journaux, mais aussi textes politiques choisis démocratiquement par les travailleurs eux-mêmes. Des immigrants anarchistes espagnols, nombreux à Cuba dans cette période, contribuent à répandre les idées de Bakounine et Kropotkine via cette pratique — une méthode de propagande particulièrement efficace dans une population où l'analphabétisme reste répandu.",
+            "es": "Esta institución del «lector», encaramado en una tarima en medio del taller, se convierte rápidamente en central en la cultura obrera cubana: novelas, periódicos, pero también textos políticos elegidos democráticamente por los propios trabajadores. Inmigrantes anarquistas españoles, numerosos en Cuba en esa época, contribuyen a difundir las ideas de Bakunin y Kropotkin mediante esta práctica —un método de propaganda particularmente eficaz en una población donde el analfabetismo sigue siendo generalizado.",
+            "ca": "Aquesta institució del «lector», enfilat en una tarima enmig del taller, esdevé ràpidament central en la cultura obrera cubana: novel·les, diaris, però també textos polítics triats democràticament pels mateixos treballadors. Immigrants anarquistes espanyols, nombrosos a Cuba en aquella època, contribueixen a difondre les idees de Bakunin i Kropotkin mitjançant aquesta pràctica —un mètode de propaganda particularment eficaç en una població on l'analfabetisme continua sent generalitzat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuban%20cigar%20factory.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Cuban_cigar_factory.jpg",
+              "credit": {
+                "es": "Fábrica de tabaco cubana — Wikimedia Commons.",
+                "ca": "Fàbrica de tabac cubana — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "El Productor et l'organisation ouvrière",
+              "es": "El Productor y la organización obrera",
+              "ca": "El Productor i l'organització obrera"
+            }
+          },
+          {
+            "fr": "En 1887, Enrique Roig San Martín, lui-même ouvrier du tabac, fonde le journal « El Productor », qui devient l'organe principal de l'anarcho-syndicalisme cubain. Sous l'influence anarchiste, le premier Congrès ouvrier de Cuba se réunit en 1892 et adopte des positions radicales, associant explicitement l'émancipation des travailleurs à la lutte pour l'indépendance de l'île face à l'Espagne coloniale.",
+            "es": "En 1887, Enrique Roig San Martín, él mismo obrero del tabaco, funda el periódico «El Productor», que se convierte en el órgano principal del anarcosindicalismo cubano. Bajo la influencia anarquista, el primer Congreso Obrero de Cuba se reúne en 1892 y adopta posiciones radicales, asociando explícitamente la emancipación de los trabajadores a la lucha por la independencia de la isla frente a la España colonial.",
+            "ca": "El 1887, Enrique Roig San Martín, ell mateix obrer del tabac, funda el diari «El Productor», que esdevé l'òrgan principal de l'anarcosindicalisme cubà. Sota la influència anarquista, el primer Congrés Obrer de Cuba es reuneix el 1892 i adopta posicions radicals, associant explícitament l'emancipació dels treballadors a la lluita per la independència de l'illa davant l'Espanya colonial."
+          },
+          {
+            "h": {
+              "fr": "Un mouvement qui traverse le siècle",
+              "es": "Un movimiento que atraviesa el siglo",
+              "ca": "Un moviment que travessa el segle"
+            }
+          },
+          {
+            "fr": "Après l'indépendance de 1902, l'anarcho-syndicalisme reste une force sociale majeure à Cuba pendant des décennies, porté par des figures comme Alfredo López, fondateur de la Confédération nationale ouvrière de Cuba. Mais après la révolution castriste de 1959, le nouveau régime communiste interdit progressivement toute organisation anarchiste indépendante, un sort partagé avec le mouvement anarchiste chinois après 1949.",
+            "es": "Tras la independencia de 1902, el anarcosindicalismo sigue siendo una fuerza social importante en Cuba durante décadas, impulsado por figuras como Alfredo López, fundador de la Confederación Nacional Obrera de Cuba. Pero tras la revolución castrista de 1959, el nuevo régimen comunista prohíbe progresivamente toda organización anarquista independiente, un destino compartido con el movimiento anarquista chino después de 1949.",
+            "ca": "Després de la independència de 1902, l'anarcosindicalisme continua sent una força social important a Cuba durant dècades, impulsat per figures com Alfredo López, fundador de la Confederació Nacional Obrera de Cuba. Però després de la revolució castrista de 1959, el nou règim comunista prohibeix progressivament tota organització anarquista independent, un destí compartit amb el moviment anarquista xinès després del 1949."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Dans les manufactures de tabac cubaines du milieu du 19e siècle, où des centaines d'ouvriers roulent des cigares en silence durant de longues journées, une tradition remarquable émerge en 1865 à l'atelier El Fígaro de La Havane : lassés de la monotonie du travail, les ouvriers décident de cotiser collectivement pour rémunérer l'un d'entre eux, le « lector », chargé de leur faire la lecture à voix haute depuis une estrade surélevée pendant qu'ils travaillent de leurs mains.",
+            "es": "En las manufacturas de tabaco cubanas de mediados del siglo XIX, donde cientos de obreros enrollan cigarros en silencio durante largas jornadas, emerge en 1865 en el taller El Fígaro de La Habana una tradición notable: cansados de la monotonía del trabajo, los obreros deciden cotizar colectivamente para remunerar a uno de ellos, el «lector», encargado de hacerles la lectura en voz alta desde una tarima elevada mientras trabajan con sus manos.",
+            "ca": "A les manufactures de tabac cubanes de mitjan segle XIX, on centenars d'obrers enrotllen cigars en silenci durant llargues jornades, emergeix el 1865 al taller El Fígaro de l'Havana una tradició notable: cansats de la monotonia del treball, els obrers decideixen cotitzar col·lectivament per remunerar un d'ells, el «lector», encarregat de fer-los la lectura en veu alta des d'una tarima elevada mentre treballen amb les mans."
+          },
+          {
+            "h": {
+              "fr": "Le lector, une école ambulante",
+              "es": "El lector, una escuela ambulante",
+              "ca": "El lector, una escola ambulant"
+            }
+          },
+
+{
+            "fr": "Cette institution unique au monde devient rapidement un pilier de la culture ouvrière cubaine, gérée démocratiquement par les travailleurs eux-mêmes, qui votent le programme de lecture, engagent et rémunèrent directement le lector, indépendamment des patrons d'usine. Le répertoire mêle grands romans populaires — Alexandre Dumas, Victor Hugo — et presse politique, notamment les journaux anarchistes que de nombreux immigrants espagnols, fuyant la répression en Espagne ou attirés par l'essor économique cubain, apportent avec eux dans l'île à partir des années 1870-1880.",
+            "es": "Esta institución única en el mundo se convierte rápidamente en un pilar de la cultura obrera cubana, gestionada democráticamente por los propios trabajadores, que votan el programa de lectura, contratan y remuneran directamente al lector, independientemente de los dueños de fábrica. El repertorio mezcla grandes novelas populares —Alejandro Dumas, Victor Hugo— y prensa política, especialmente los periódicos anarquistas que numerosos inmigrantes españoles, huyendo de la represión en España o atraídos por el auge económico cubano, traen consigo a la isla a partir de los años 1870-1880.",
+            "ca": "Aquesta institució única al món esdevé ràpidament un pilar de la cultura obrera cubana, gestionada democràticament pels mateixos treballadors, que voten el programa de lectura, contracten i remuneren directament el lector, independentment dels amos de fàbrica. El repertori barreja grans novel·les populars —Alexandre Dumas, Victor Hugo— i premsa política, especialment els diaris anarquistes que nombrosos immigrants espanyols, fugint de la repressió a Espanya o atrets per l'auge econòmic cubà, porten amb ells a l'illa a partir dels anys 1870-1880."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuban%20cigar%20factory.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Cuban_cigar_factory.jpg",
+              "credit": {
+                "es": "Fábrica de tabaco cubana — Wikimedia Commons.",
+                "ca": "Fàbrica de tabac cubana — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Cette pratique fait des ateliers de tabac un vecteur de politisation exceptionnel dans une population où l'analphabétisme reste très répandu : les idées de Bakounine et Kropotkine circulent ainsi oralement, quotidiennement, au rythme même du travail manuel, une forme de propagande d'une efficacité rarement égalée ailleurs dans le monde anarchiste.",
+            "es": "Esta práctica convierte los talleres de tabaco en un vector de politización excepcional en una población donde el analfabetismo sigue siendo muy extendido: las ideas de Bakunin y Kropotkin circulan así oralmente, cotidianamente, al ritmo mismo del trabajo manual, una forma de propaganda de una eficacia rara vez igualada en otras partes del mundo anarquista.",
+            "ca": "Aquesta pràctica converteix els tallers de tabac en un vector de politització excepcional en una població on l'analfabetisme continua sent molt estès: les idees de Bakunin i Kropotkin circulen així oralment, quotidianament, al ritme mateix del treball manual, una forma de propaganda d'una eficàcia rarament igualada en altres parts del món anarquista."
+          },
+          {
+            "h": {
+              "fr": "El Productor et l'organisation ouvrière",
+              "es": "El Productor y la organización obrera",
+              "ca": "El Productor i l'organització obrera"
+            }
+          },
+          {
+            "fr": "En 1887, Enrique Roig San Martín, lui-même ancien ouvrier du tabac devenu rédacteur en chef, fonde le journal « El Productor », qui devient rapidement le principal organe de l'anarcho-syndicalisme cubain jusqu'à sa mort prématurée en 1889. Sous l'influence croissante des idées anarchistes, le premier Congrès ouvrier de Cuba, réuni en 1892, adopte des résolutions particulièrement radicales pour l'époque, rédigées notamment par les militants Enrique Creci et Eduardo González : elles associent explicitement l'émancipation sociale des travailleurs à la lutte pour l'indépendance nationale face à la couronne espagnole, une articulation originale entre libération de classe et libération coloniale qui distingue nettement l'anarchisme cubain de ses équivalents européens.",
+            "es": "En 1887, Enrique Roig San Martín, él mismo antiguo obrero del tabaco convertido en redactor jefe, funda el periódico «El Productor», que se convierte rápidamente en el principal órgano del anarcosindicalismo cubano hasta su muerte prematura en 1889. Bajo la creciente influencia de las ideas anarquistas, el primer Congreso Obrero de Cuba, reunido en 1892, adopta resoluciones particularmente radicales para la época, redactadas especialmente por los militantes Enrique Creci y Eduardo González: asocian explícitamente la emancipación social de los trabajadores con la lucha por la independencia nacional frente a la corona española, una articulación original entre liberación de clase y liberación colonial que distingue claramente al anarquismo cubano de sus equivalentes europeos.",
+            "ca": "El 1887, Enrique Roig San Martín, ell mateix antic obrer del tabac convertit en redactor en cap, funda el diari «El Productor», que esdevé ràpidament el principal òrgan de l'anarcosindicalisme cubà fins a la seva mort prematura el 1889. Sota la creixent influència de les idees anarquistes, el primer Congrés Obrer de Cuba, reunit el 1892, adopta resolucions particularment radicals per a l'època, redactades especialment pels militants Enrique Creci i Eduardo González: associen explícitament l'emancipació social dels treballadors amb la lluita per la independència nacional davant la corona espanyola, una articulació original entre alliberament de classe i alliberament colonial que distingeix clarament l'anarquisme cubà dels seus equivalents europeus."
+          },
+          {
+            "h": {
+              "fr": "Un mouvement qui traverse le siècle",
+              "es": "Un movimiento que atraviesa el siglo",
+              "ca": "Un moviment que travessa el segle"
+            }
+          },
+          {
+            "fr": "Après l'indépendance formelle de 1902 — largement compromise par l'influence tutélaire des États-Unis via l'amendement Platt — l'anarcho-syndicalisme demeure une force sociale de premier plan à Cuba pendant plusieurs décennies, porté notamment par Alfredo López, fondateur de la Fédération ouvrière de La Havane puis de la Confédération nationale ouvrière de Cuba (CNOC) en 1925, avant d'être assassiné par la dictature de Machado en 1926. Le mouvement traverse ensuite la période républicaine, participant activement aux luttes sociales des années 1920-1930.",
+            "es": "Tras la independencia formal de 1902 —ampliamente comprometida por la influencia tutelar de Estados Unidos vía la Enmienda Platt—, el anarcosindicalismo sigue siendo una fuerza social de primer orden en Cuba durante varias décadas, impulsado especialmente por Alfredo López, fundador de la Federación Obrera de La Habana y luego de la Confederación Nacional Obrera de Cuba (CNOC) en 1925, antes de ser asesinado por la dictadura de Machado en 1926. El movimiento atraviesa después el período republicano, participando activamente en las luchas sociales de los años 1920-1930.",
+            "ca": "Després de la independència formal de 1902 —àmpliament compromesa per la influència tutelar dels Estats Units via l'Esmena Platt—, l'anarcosindicalisme continua sent una força social de primer ordre a Cuba durant diverses dècades, impulsat especialment per Alfredo López, fundador de la Federació Obrera de l'Havana i després de la Confederació Nacional Obrera de Cuba (CNOC) el 1925, abans de ser assassinat per la dictadura de Machado el 1926. El moviment travessa després el període republicà, participant activament en les lluites socials dels anys 1920-1930."
+          },
+          {
+            "fr": "Mais après le triomphe de la révolution castriste en 1959, le nouveau régime communiste, à mesure qu'il se rapproche de l'Union soviétique, interdit progressivement toute organisation anarchiste indépendante au nom de l'unité révolutionnaire, contraignant les derniers militants à l'exil ou à la clandestinité — un sort qui fait écho, à quelques années d'intervalle et sur un autre continent, à celui du mouvement anarchiste chinois après 1949, deux traditions anarcho-syndicalistes puissamment enracinées dans leur société respective, mais finalement écrasées par des révolutions communistes qui avaient d'abord compté sur leur soutien.",
+            "es": "Pero tras el triunfo de la revolución castrista en 1959, el nuevo régimen comunista, a medida que se acerca a la Unión Soviética, prohíbe progresivamente toda organización anarquista independiente en nombre de la unidad revolucionaria, obligando a los últimos militantes al exilio o la clandestinidad —un destino que hace eco, con pocos años de diferencia y en otro continente, al del movimiento anarquista chino tras 1949, dos tradiciones anarcosindicalistas poderosamente arraigadas en su sociedad respectiva, pero finalmente aplastadas por revoluciones comunistas que primero habían contado con su apoyo.",
+            "ca": "Però després del triomf de la revolució castrista el 1959, el nou règim comunista, a mesura que s'apropa a la Unió Soviètica, prohibeix progressivament tota organització anarquista independent en nom de la unitat revolucionària, obligant els últims militants a l'exili o la clandestinitat —un destí que fa ressò, amb pocs anys de diferència i en un altre continent, al del moviment anarquista xinès després del 1949, dues tradicions anarcosindicalistes poderosament arrelades en la seva societat respectiva, però finalment aixafades per revolucions comunistes que primer havien comptat amb el seu suport."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une estrade",
+          "es": "una tarima",
+          "ca": "una tarima"
+        },
+        {
+          "mot": "cotiser (collectivement)",
+          "es": "cotizar (colectivamente)",
+          "ca": "cotitzar (col·lectivament)"
+        },
+        {
+          "mot": "l'analphabétisme",
+          "es": "el analfabetismo",
+          "ca": "l'analfabetisme"
+        },
+        {
+          "mot": "une résolution (de congrès)",
+          "es": "una resolución (de congreso)",
+          "ca": "una resolució (de congrés)"
+        },
+        {
+          "mot": "une tutelle (politique)",
+          "es": "una tutela (política)",
+          "ca": "una tutela (política)"
+        },
+        {
+          "mot": "la clandestinité",
+          "es": "la clandestinidad",
+          "ca": "la clandestinitat"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué es un «lector» en las fábricas de tabaco cubanas?",
+            "ca": "Què és un «lector» a les fàbriques de tabac cubanes?"
+          },
+          "piste": {
+            "es": "un trabajador pagado por sus colegas para leer en voz alta mientras trabajan",
+            "ca": "un treballador pagat pels seus col·legues per llegir en veu alta mentre treballen"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué periódico funda Enrique Roig San Martín en 1887?",
+            "ca": "Quin diari funda Enrique Roig San Martín el 1887?"
+          },
+          "piste": {
+            "es": "«El Productor»",
+            "ca": "«El Productor»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué asocia el primer Congreso Obrero de Cuba en 1892?",
+            "ca": "Què associa el primer Congrés Obrer de Cuba el 1892?"
+          },
+          "piste": {
+            "es": "la emancipación de los trabajadores y la lucha por la independencia frente a España",
+            "ca": "l'emancipació dels treballadors i la lluita per la independència davant Espanya"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasa con el anarquismo cubano tras 1959?",
+            "ca": "Què li passa a l'anarquisme cubà després del 1959?"
+          },
+          "piste": {
+            "es": "es progresivamente prohibido por el nuevo régimen comunista",
+            "ca": "és progressivament prohibit pel nou règim comunista"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Anarchism in Cuba",
+          "url": "https://en.wikipedia.org/wiki/Anarchism_in_Cuba"
+        },
+        {
+          "titre": "Wikipedia — Lector (cigar manufacture)",
+          "url": "https://en.wikipedia.org/wiki/Lector_(cigar_manufacture)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "textes": [
+    {
+      "id": "emma_goldman_feminisme",
+      "emoji": "🚩",
+      "theme": "Politique",
+      "periode": "1869 à 1940",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Emma%20Goldman.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_Emma_Goldman.jpg",
+        "credit": {
+          "es": "Emma Goldman, retrato publicado en «Anarchism and Other Essays», 1910 — Wikimedia Commons.",
+          "ca": "Emma Goldman, retrat publicat a «Anarchism and Other Essays», 1910 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Emma Goldman: anarquismo y emancipación de las mujeres",
+        "ca": "Emma Goldman: anarquisme i emancipació de les dones"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Emma Goldman naît en 1869 en Lituanie, dans une famille juive. À 16 ans, elle émigre aux États-Unis.",
+            "es": "Emma Goldman nace en 1869 en Lituania, en una familia judía. A los 16 años, emigra a Estados Unidos.",
+            "ca": "Emma Goldman neix el 1869 a Lituània, en una família jueva. Als 16 anys, emigra als Estats Units."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Emma%20Goldman.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Portrait_Emma_Goldman.jpg",
+              "credit": {
+                "es": "Emma Goldman, retrato publicado en «Anarchism and Other Essays», 1910 — Wikimedia Commons.",
+                "ca": "Emma Goldman, retrat publicat a «Anarchism and Other Essays», 1910 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Elle travaille dans des usines de textile, dans des conditions très dures. Ça la rend anarchiste.",
+            "es": "Trabaja en fábricas textiles, en condiciones muy duras. Eso la vuelve anarquista.",
+            "ca": "Treballa en fàbriques tèxtils, en condicions molt dures. Això la fa esdevenir anarquista."
+          },
+          {
+            "fr": "Elle devient une conférencière très connue. Elle parle de choses considérées scandaleuses pour l'époque : le contrôle des naissances, l'amour libre, les droits des femmes.",
+            "es": "Se convierte en una conferenciante muy conocida. Habla de cosas consideradas escandalosas para la época: el control de la natalidad, el amor libre, los derechos de las mujeres.",
+            "ca": "Es converteix en una conferenciant molt coneguda. Parla de coses considerades escandaloses per a l'època: el control de la natalitat, l'amor lliure, els drets de les dones."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Goldman's%20deportation%20photo%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Emma_Goldman's_deportation_photo,_1919.jpg",
+              "credit": {
+                "es": "Foto de Emma Goldman en el momento de su deportación, 1919 — Wikimedia Commons.",
+                "ca": "Foto d'Emma Goldman en el moment de la seva deportació, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Elle pense que le mariage traditionnel est une prison pour les femmes, pas juste le capitalisme ou l'État.",
+            "es": "Piensa que el matrimonio tradicional es una prisión para las mujeres, no solo el capitalismo o el Estado.",
+            "ca": "Pensa que el matrimoni tradicional és una presó per a les dones, no només el capitalisme o l'Estat."
+          },
+          {
+            "fr": "En 1919, le gouvernement américain l'expulse du pays à cause de ses idées. Elle continue à militer en Europe.",
+            "es": "En 1919, el gobierno estadounidense la expulsa del país por sus ideas. Continúa militando en Europa.",
+            "ca": "El 1919, el govern nord-americà l'expulsa del país per les seves idees. Continua militant a Europa."
+          },
+          {
+            "fr": "Elle meurt en 1940 au Canada. Aujourd'hui, elle est une figure importante du féminisme anarchiste.",
+            "es": "Muere en 1940 en Canadá. Hoy, es una figura importante del feminismo anarquista.",
+            "ca": "Mor el 1940 al Canadà. Avui, és una figura important del feminisme anarquista."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Née en 1869 dans une famille juive pauvre de l'actuelle Lituanie, alors dans l'Empire russe, Emma Goldman émigre à 16 ans aux États-Unis pour fuir un mariage arrangé. Elle travaille en usine textile à Rochester, dans des conditions d'exploitation qui nourrissent sa radicalisation politique, accélérée par l'exécution des militants de Haymarket en 1887.",
+            "es": "Nacida en 1869 en una familia judía pobre de la actual Lituania, entonces en el Imperio ruso, Emma Goldman emigra a los 16 años a Estados Unidos para huir de un matrimonio arreglado. Trabaja en una fábrica textil en Rochester, en condiciones de explotación que alimentan su radicalización política, acelerada por la ejecución de los militantes de Haymarket en 1887.",
+            "ca": "Nascuda el 1869 en una família jueva pobra de l'actual Lituània, aleshores a l'Imperi rus, Emma Goldman emigra als 16 anys als Estats Units per fugir d'un matrimoni concertat. Treballa en una fàbrica tèxtil a Rochester, en condicions d'explotació que alimenten la seva radicalització política, accelerada per l'execució dels militants de Haymarket el 1887."
+          },
+          {
+            "h": {
+              "fr": "Au-delà de l'État et du capital",
+              "es": "Más allá del Estado y el capital",
+              "ca": "Més enllà de l'Estat i el capital"
+            }
+          },
+          {
+            "fr": "Devenue une oratrice redoutable et une figure centrale de l'anarchisme américain, Goldman élargit la critique anarchiste classique — centrée sur l'État et le capitalisme — à des sujets que même de nombreux camarades anarchistes jugent trop sulfureux : le mariage traditionnel, qu'elle décrit comme une forme d'esclavage économique et sexuel pour les femmes, l'accès à la contraception, alors largement interdit et tabou, et la liberté d'aimer hors des cadres légaux du mariage.",
+            "es": "Convertida en una oradora formidable y una figura central del anarquismo estadounidense, Goldman amplía la crítica anarquista clásica —centrada en el Estado y el capitalismo— a temas que incluso muchos compañeros anarquistas consideran demasiado escabrosos: el matrimonio tradicional, que describe como una forma de esclavitud económica y sexual para las mujeres, el acceso a la anticoncepción, entonces ampliamente prohibida y tabú, y la libertad de amar fuera de los marcos legales del matrimonio.",
+            "ca": "Convertida en una oradora formidable i una figura central de l'anarquisme nord-americà, Goldman amplia la crítica anarquista clàssica —centrada en l'Estat i el capitalisme— a temes que fins i tot molts companys anarquistes consideren massa sulfurosos: el matrimoni tradicional, que descriu com una forma d'esclavitud econòmica i sexual per a les dones, l'accés a l'anticoncepció, aleshores àmpliament prohibida i tabú, i la llibertat d'estimar fora dels marcs legals del matrimoni."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Goldman's%20deportation%20photo%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Emma_Goldman's_deportation_photo,_1919.jpg",
+              "credit": {
+                "es": "Foto de Emma Goldman en el momento de su deportación, 1919 — Wikimedia Commons.",
+                "ca": "Foto d'Emma Goldman en el moment de la seva deportació, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Elle est arrêtée à plusieurs reprises, notamment pour avoir distribué publiquement des informations sur la contraception, à une époque où cela constitue un délit fédéral aux États-Unis.",
+            "es": "Es arrestada en varias ocasiones, especialmente por haber distribuido públicamente información sobre la anticoncepción, en una época en que eso constituye un delito federal en Estados Unidos.",
+            "ca": "És arrestada en diverses ocasions, especialment per haver distribuït públicament informació sobre l'anticoncepció, en una època en què això constitueix un delicte federal als Estats Units."
+          },
+          {
+            "h": {
+              "fr": "Expulsion et exil",
+              "es": "Expulsión y exilio",
+              "ca": "Expulsió i exili"
+            }
+          },
+          {
+            "fr": "Opposée à la conscription pendant la Première Guerre mondiale, elle est arrêtée puis, en 1919, déchue de sa citoyenneté américaine et déportée vers la Russie soviétique avec des centaines d'autres militants radicaux lors de la « Peur rouge ». Rapidement déçue par l'autoritarisme bolchevique — elle documente notamment la répression sanglante de la révolte de Kronstadt en 1921 — elle vit ensuite en exil à travers l'Europe, continuant d'écrire et de militer jusqu'à sa mort au Canada en 1940.",
+            "es": "Opuesta a la conscripción durante la Primera Guerra Mundial, es arrestada y luego, en 1919, despojada de su ciudadanía estadounidense y deportada a la Rusia soviética junto con cientos de otros militantes radicales durante el «Miedo Rojo». Rápidamente decepcionada por el autoritarismo bolchevique —documenta especialmente la sangrienta represión de la revuelta de Kronstadt en 1921—, vive luego en el exilio por toda Europa, continuando escribiendo y militando hasta su muerte en Canadá en 1940.",
+            "ca": "Oposada a la conscripció durant la Primera Guerra Mundial, és arrestada i després, el 1919, desposseïda de la seva ciutadania nord-americana i deportada a la Rússia soviètica juntament amb centenars d'altres militants radicals durant la «Por Roja». Ràpidament decebuda per l'autoritarisme bolxevic —documenta especialment la sagnant repressió de la revolta de Kronstadt el 1921—, viu després a l'exili per tota Europa, continuant escrivint i militant fins a la seva mort al Canadà el 1940."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Née Emma Goldman en 1869 à Kaunas, dans une famille juive pauvre de l'Empire russe (l'actuelle Lituanie), elle grandit dans un climat de violence domestique et de pogroms antisémites qui marquent durablement sa méfiance envers toute forme d'autorité. Émigrée à 16 ans aux États-Unis pour échapper à un mariage arrangé, elle travaille en usine textile à Rochester dans des conditions d'exploitation qui, combinées au choc de l'exécution des militants anarchistes de Haymarket en 1887, achèvent sa radicalisation politique.",
+            "es": "Nacida Emma Goldman en 1869 en Kaunas, en una familia judía pobre del Imperio ruso (la actual Lituania), crece en un clima de violencia doméstica y pogromos antisemitas que marcan duraderamente su desconfianza hacia toda forma de autoridad. Emigrada a los 16 años a Estados Unidos para escapar de un matrimonio arreglado, trabaja en una fábrica textil en Rochester en condiciones de explotación que, combinadas con el impacto de la ejecución de los militantes anarquistas de Haymarket en 1887, completan su radicalización política.",
+
+            "ca": "Nascuda Emma Goldman el 1869 a Kaunas, en una família jueva pobra de l'Imperi rus (l'actual Lituània), creix en un clima de violència domèstica i pogroms antisemites que marquen duradorament la seva desconfiança envers tota forma d'autoritat. Emigrada als 16 anys als Estats Units per escapar d'un matrimoni concertat, treballa en una fàbrica tèxtil a Rochester en condicions d'explotació que, combinades amb l'impacte de l'execució dels militants anarquistes de Haymarket el 1887, completen la seva radicalització política."
+          },
+          {
+            "h": {
+              "fr": "Au-delà de l'État et du capital",
+              "es": "Más allá del Estado y el capital",
+              "ca": "Més enllà de l'Estat i el capital"
+            }
+          },
+          {
+            "fr": "Devenue une oratrice redoutée — surnommée « Red Emma » par une presse hostile — et une figure centrale de l'anarchisme nord-américain, notamment via sa revue « Mother Earth » (1906-1917), Goldman élargit considérablement le champ de la critique anarchiste classique, jusque-là surtout centrée sur l'État et le capital, à la sphère intime et domestique : elle dénonce le mariage bourgeois traditionnel comme une forme d'esclavage économique et sexuel imposée aux femmes, revendique l'accès libre à la contraception — alors interdite par les lois fédérales dites « Comstock » — et défend le droit à des relations amoureuses hors des cadres légaux du mariage, ce qu'elle nomme « l'amour libre ».",
+            "es": "Convertida en una oradora temida —apodada «Red Emma» por una prensa hostil— y una figura central del anarquismo norteamericano, especialmente a través de su revista «Mother Earth» (1906-1917), Goldman amplía considerablemente el campo de la crítica anarquista clásica, hasta entonces centrada sobre todo en el Estado y el capital, a la esfera íntima y doméstica: denuncia el matrimonio burgués tradicional como una forma de esclavitud económica y sexual impuesta a las mujeres, reivindica el acceso libre a la anticoncepción —entonces prohibida por las leyes federales llamadas «Comstock»— y defiende el derecho a relaciones amorosas fuera de los marcos legales del matrimonio, lo que ella llama «el amor libre».",
+            "ca": "Convertida en una oradora temuda —anomenada «Red Emma» per una premsa hostil— i una figura central de l'anarquisme nord-americà, especialment a través de la seva revista «Mother Earth» (1906-1917), Goldman amplia considerablement el camp de la crítica anarquista clàssica, fins llavors centrada sobretot en l'Estat i el capital, a l'esfera íntima i domèstica: denuncia el matrimoni burgès tradicional com una forma d'esclavitud econòmica i sexual imposada a les dones, reivindica l'accés lliure a l'anticoncepció —aleshores prohibida per les lleis federals dites «Comstock»— i defensa el dret a relacions amoroses fora dels marcs legals del matrimoni, el que ella anomena «l'amor lliure»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Goldman's%20deportation%20photo%2C%201919.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Emma_Goldman's_deportation_photo,_1919.jpg",
+              "credit": {
+                "es": "Foto de Emma Goldman en el momento de su deportación, 1919 — Wikimedia Commons.",
+                "ca": "Foto d'Emma Goldman en el moment de la seva deportació, 1919 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Cette position lui vaut d'être arrêtée à plusieurs reprises, notamment en 1916 pour avoir distribué publiquement des informations contraceptives, un délit fédéral à l'époque, et de se heurter parfois à l'incompréhension d'une partie du mouvement anarchiste lui-même, encore largement structuré autour des seules questions de classe. Elle articule ainsi, plusieurs décennies avant l'émergence formelle de l'anarcho-féminisme comme courant distinct, l'idée que la libération individuelle des femmes ne peut être un simple sous-produit de la révolution sociale, mais doit être combattue pour elle-même.",
+            "es": "Esta posición le vale ser arrestada en varias ocasiones, especialmente en 1916 por haber distribuido públicamente información anticonceptiva, un delito federal en la época, y chocar a veces con la incomprensión de una parte del propio movimiento anarquista, todavía ampliamente estructurado en torno a las solas cuestiones de clase. Articula así, varias décadas antes de la aparición formal del anarcofeminismo como corriente distinta, la idea de que la liberación individual de las mujeres no puede ser un simple subproducto de la revolución social, sino que debe combatirse por sí misma.",
+            "ca": "Aquesta posició li val ser arrestada en diverses ocasions, especialment el 1916 per haver distribuït públicament informació anticonceptiva, un delicte federal en l'època, i xocar de vegades amb la incomprensió d'una part del mateix moviment anarquista, encara àmpliament estructurat al voltant de les úniques qüestions de classe. Articula així, diverses dècades abans de l'aparició formal de l'anarcofeminisme com a corrent distint, la idea que l'alliberament individual de les dones no pot ser un simple subproducte de la revolució social, sinó que ha de combatre's per si mateixa."
+          },
+          {
+            "h": {
+              "fr": "Expulsion et désillusion bolchevique",
+              "es": "Expulsión y desilusión bolchevique",
+              "ca": "Expulsió i desil·lusió bolxevic"
+            }
+          },
+          {
+            "fr": "Farouchement opposée à la conscription pendant la Première Guerre mondiale, elle est emprisonnée deux ans, puis, en décembre 1919, déchue de sa citoyenneté américaine et déportée vers la Russie soviétique avec plus de 200 autres militants radicaux à bord d'un navire surnommé le « Soviet Ark », lors de la vague répressive connue sous le nom de « Peur rouge ».",
+            "es": "Ferozmente opuesta a la conscripción durante la Primera Guerra Mundial, es encarcelada dos años, y luego, en diciembre de 1919, despojada de su ciudadanía estadounidense y deportada a la Rusia soviética junto con más de 200 otros militantes radicales a bordo de un barco apodado el «Soviet Ark», durante la ola represiva conocida como el «Miedo Rojo».",
+            "ca": "Ferotgement oposada a la conscripció durant la Primera Guerra Mundial, és empresonada dos anys, i després, el desembre del 1919, desposseïda de la seva ciutadania nord-americana i deportada a la Rússia soviètica juntament amb més de 200 altres militants radicals a bord d'un vaixell anomenat el «Soviet Ark», durant l'onada repressiva coneguda com la «Por Roja»."
+          },
+          {
+            "fr": "Son enthousiasme initial pour la révolution russe s'effondre rapidement face à la centralisation croissante du pouvoir bolchevique : elle documente notamment, aux côtés de son compagnon Alexander Berkman, la répression sanglante de la révolte des marins de Kronstadt en 1921, qui réclamaient pourtant davantage de démocratie soviétique plutôt que sa suppression. Désillusionnée, elle quitte la Russie et vit ensuite en exil à travers l'Europe — Allemagne, Angleterre, Canada, brièvement en Espagne où elle soutient les collectivisations anarchistes de 1936 — jusqu'à sa mort au Canada en 1940. Son œuvre reste aujourd'hui une référence majeure pour l'anarcho-féminisme contemporain, qui la considère comme une pionnière ayant articulé, bien avant l'heure, les liens entre émancipation de classe et émancipation des femmes.",
+            "es": "Su entusiasmo inicial por la revolución rusa se derrumba rápidamente ante la creciente centralización del poder bolchevique: documenta, junto a su compañero Alexander Berkman, la sangrienta represión de la revuelta de los marineros de Kronstadt en 1921, que sin embargo reclamaban más democracia soviética en lugar de su supresión. Desilusionada, abandona Rusia y vive luego en el exilio por toda Europa —Alemania, Inglaterra, Canadá, brevemente en España donde apoya las colectivizaciones anarquistas de 1936— hasta su muerte en Canadá en 1940. Su obra sigue siendo hoy una referencia mayor para el anarcofeminismo contemporáneo, que la considera una pionera que articuló, mucho antes de tiempo, los vínculos entre emancipación de clase y emancipación de las mujeres.",
+            "ca": "El seu entusiasme inicial per la revolució russa s'esfondra ràpidament davant la creixent centralització del poder bolxevic: documenta, al costat del seu company Alexander Berkman, la sagnant repressió de la revolta dels mariners de Kronstadt el 1921, que tanmateix reclamaven més democràcia soviètica en comptes de la seva supressió. Desil·lusionada, abandona Rússia i viu després a l'exili per tota Europa —Alemanya, Anglaterra, Canadà, breument a Espanya on recolza les col·lectivitzacions anarquistes de 1936— fins a la seva mort al Canadà el 1940. La seva obra continua sent avui una referència major per a l'anarcofeminisme contemporani, que la considera una pionera que va articular, molt abans d'hora, els vincles entre alliberament de classe i alliberament de les dones."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un mariage arrangé",
+          "es": "un matrimonio arreglado",
+          "ca": "un matrimoni concertat"
+        },
+        {
+          "mot": "la contraception",
+          "es": "la anticoncepción",
+          "ca": "l'anticoncepció"
+        },
+        {
+          "mot": "l'amour libre",
+          "es": "el amor libre",
+          "ca": "l'amor lliure"
+        },
+        {
+          "mot": "déchoir (de la citoyenneté)",
+          "es": "despojar (de la ciudadanía)",
+          "ca": "desposseir (de la ciutadania)"
+        },
+        {
+          "mot": "une conscription",
+          "es": "una conscripción",
+          "ca": "una conscripció"
+        },
+        {
+          "mot": "une désillusion",
+          "es": "una desilusión",
+          "ca": "una desil·lusió"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué la radicaliza a Emma Goldman, además de las condiciones en la fábrica?",
+            "ca": "Què radicalitza Emma Goldman, a més de les condicions a la fàbrica?"
+          },
+          "piste": {
+            "es": "la ejecución de los militantes de Haymarket en 1887",
+            "ca": "l'execució dels militants de Haymarket el 1887"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué temas añade Goldman a la crítica anarquista clásica?",
+            "ca": "Quins temes afegeix Goldman a la crítica anarquista clàssica?"
+          },
+          "piste": {
+            "es": "el matrimonio, la anticoncepción, el amor libre",
+            "ca": "el matrimoni, l'anticoncepció, l'amor lliure"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasa en 1919?",
+            "ca": "Què li passa el 1919?"
+          },
+          "piste": {
+            "es": "es despojada de su ciudadanía y deportada a la Rusia soviética",
+            "ca": "és desposseïda de la seva ciutadania i deportada a la Rússia soviètica"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué evento la desilusiona del bolchevismo?",
+            "ca": "Quin esdeveniment la desil·lusiona del bolxevisme?"
+          },
+          "piste": {
+            "es": "la represión de la revuelta de Kronstadt en 1921",
+            "ca": "la repressió de la revolta de Kronstadt el 1921"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Emma Goldman",
+          "url": "https://en.wikipedia.org/wiki/Emma_Goldman"
+        },
+        {
+          "titre": "Jewish Women's Archive — Emma Goldman",
+          "url": "https://jwa.org/encyclopedia/article/goldman-emma"
+        }
+      ]
+    }
+  ]
+}

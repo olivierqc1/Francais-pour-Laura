@@ -1,0 +1,278 @@
+{
+  "textes": [
+    {
+      "id": "mai68_renaissance_anarchisme",
+      "emoji": "🚧",
+      "theme": "Politique",
+      "periode": "1968",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/11-12.06.68%20Mai%2068.%20Nuit%20d%27%C3%A9meutes.%20Manif.%20Barricades.D%C3%A9g%C3%A2ts%20(1968)%20-%2053Fi1037.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:11-12.06.68_Mai_68._Nuit_d'%C3%A9meutes._Manif._Barricades.D%C3%A9g%C3%A2ts_(1968)_-_53Fi1037.jpg",
+        "credit": {
+          "es": "Barricadas durante la noche de disturbios, Mayo del 68, París — Wikimedia Commons.",
+          "ca": "Barricades durant la nit de disturbis, Maig del 68, París — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Mayo del 68: el anarquismo entra por la ventana",
+        "ca": "El Maig del 68: l'anarquisme entra per la finestra"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En mai 1968, des étudiants commencent à manifester à Paris. Ils critiquent l'université, mais aussi toute la société.",
+            "es": "En mayo de 1968, unos estudiantes empiezan a manifestarse en París. Critican la universidad, pero también toda la sociedad.",
+            "ca": "El maig de 1968, uns estudiants comencen a manifestar-se a París. Critiquen la universitat, però també tota la societat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/11-12.06.68%20Mai%2068.%20Nuit%20d%27%C3%A9meutes.%20Manif.%20Barricades.D%C3%A9g%C3%A2ts%20(1968)%20-%2053Fi1037.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:11-12.06.68_Mai_68._Nuit_d'%C3%A9meutes._Manif._Barricades.D%C3%A9g%C3%A2ts_(1968)_-_53Fi1037.jpg",
+              "credit": {
+                "es": "Barricadas durante la noche de disturbios, Mayo del 68, París — Wikimedia Commons.",
+                "ca": "Barricades durant la nit de disturbis, Maig del 68, París — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Très vite, les travailleurs se joignent au mouvement. En quelques jours, environ 9 millions de personnes sont en grève en France.",
+            "es": "Muy rápido, los trabajadores se unen al movimiento. En pocos días, unos 9 millones de personas están en huelga en Francia.",
+            "ca": "Molt ràpid, els treballadors s'uneixen al moviment. En pocs dies, uns 9 milions de persones estan en vaga a França."
+          },
+          {
+            "fr": "Les étudiants écrivent des slogans sur les murs de Paris, souvent inspirés d'idées anarchistes.",
+            "es": "Los estudiantes escriben eslóganes en las paredes de París, a menudo inspirados en ideas anarquistas.",
+            "ca": "Els estudiants escriuen eslògans a les parets de París, sovint inspirats en idees anarquistes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20July%201968.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Paris_July_1968.jpg",
+              "credit": {
+                "es": "Graffiti y carteles de Mayo del 68, París — Wikimedia Commons.",
+                "ca": "Grafits i cartells del Maig del 68, París — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Un slogan célèbre : « Il est interdit d'interdire ». Un autre : « Sous les pavés, la plage ».",
+            "es": "Un eslogan famoso: «Está prohibido prohibir». Otro: «Bajo los adoquines, la playa».",
+            "ca": "Un eslògan famós: «Està prohibit prohibir». Un altre: «Sota els llambordes, la platja»."
+          },
+          {
+            "fr": "Le mouvement s'arrête après quelques semaines, sans révolution. Mais il change profondément la société française.",
+            "es": "El movimiento se detiene tras unas semanas, sin revolución. Pero cambia profundamente la sociedad francesa.",
+            "ca": "El moviment s'atura després d'unes setmanes, sense revolució. Però canvia profundament la societat francesa."
+          },
+          {
+            "fr": "Après 1968, une nouvelle génération redécouvre l'anarchisme, plus intéressée par la liberté au quotidien que par la révolution armée.",
+            "es": "Tras 1968, una nueva generación redescubre el anarquismo, más interesada en la libertad cotidiana que en la revolución armada.",
+            "ca": "Després del 1968, una nova generació redescobreix l'anarquisme, més interessada en la llibertat quotidiana que en la revolució armada."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En mars 1968, des tensions éclatent à l'université de Nanterre, près de Paris, autour de revendications étudiantes (mixité des résidences, critique de l'enseignement autoritaire). Le mouvement s'étend rapidement à la Sorbonne, puis à tout Paris, avant de se transformer en crise nationale.",
+            "es": "En marzo de 1968, estallan tensiones en la universidad de Nanterre, cerca de París, en torno a reivindicaciones estudiantiles (mixtura de residencias, crítica de la enseñanza autoritaria). El movimiento se extiende rápidamente a la Sorbona, y luego a todo París, antes de transformarse en crisis nacional.",
+            "ca": "El març de 1968, esclaten tensions a la universitat de Nanterre, a prop de París, al voltant de reivindicacions estudiantils (mixtura de residències, crítica de l'ensenyament autoritari). El moviment s'estén ràpidament a la Sorbona, i després a tot París, abans de transformar-se en crisi nacional."
+          },
+          {
+            "h": {
+              "fr": "Une grève générale spontanée",
+              "es": "Una huelga general espontánea",
+              "ca": "Una vaga general espontània"
+            }
+          },
+          {
+            "fr": "Après une répression policière brutale contre les étudiants le 10 mai (la « nuit des barricades »), les syndicats appellent à une grève générale par solidarité. Le mouvement échappe vite à leur contrôle : environ 9 millions de travailleurs se mettent en grève, souvent en occupant les usines, dans le plus grand mouvement social qu'ait connu la France au 20e siècle.",
+            "es": "Tras una represión policial brutal contra los estudiantes el 10 de mayo (la «noche de las barricadas»), los sindicatos convocan una huelga general por solidaridad. El movimiento escapa rápidamente a su control: unos 9 millones de trabajadores entran en huelga, a menudo ocupando las fábricas, en el mayor movimiento social que ha conocido Francia en el siglo XX.",
+            "ca": "Després d'una repressió policial brutal contra els estudiants el 10 de maig (la «nit de les barricades»), els sindicats criden a una vaga general per solidaritat. El moviment escapa ràpidament al seu control: uns 9 milions de treballadors entren en vaga, sovint ocupant les fàbriques, en el més gran moviment social que ha conegut França al segle XX."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20July%201968.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Paris_July_1968.jpg",
+              "credit": {
+                "es": "Graffiti y carteles de Mayo del 68, París — Wikimedia Commons.",
+                "ca": "Grafits i cartells del Maig del 68, París — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une critique inspirée par l'anarchisme",
+              "es": "Una crítica inspirada en el anarquismo",
+              "ca": "Una crítica inspirada en l'anarquisme"
+            }
+          },
+          {
+            "fr": "Contrairement aux grèves classiques centrées sur les salaires, une grande partie des slogans de Mai 68 reprend des thèmes profondément anarchistes : la critique de toute hiérarchie (pas seulement patronale, mais aussi familiale, universitaire, sexuelle), le refus des partis traditionnels (y compris le Parti communiste français, jugé trop institutionnel), et l'idée que la révolution doit transformer la vie quotidienne, pas seulement les structures économiques. Des figures comme Daniel Cohn-Bendit, souvent qualifié de « libertaire », incarnent cette sensibilité.",
+            "es": "A diferencia de las huelgas clásicas centradas en los salarios, gran parte de los eslóganes de Mayo del 68 retoma temas profundamente anarquistas: la crítica de toda jerarquía (no solo patronal, sino también familiar, universitaria, sexual), el rechazo de los partidos tradicionales (incluido el Partido Comunista Francés, considerado demasiado institucional), y la idea de que la revolución debe transformar la vida cotidiana, no solo las estructuras económicas. Figuras como Daniel Cohn-Bendit, a menudo calificado de «libertario», encarnan esta sensibilidad.",
+            "ca": "A diferència de les vagues clàssiques centrades en els salaris, gran part dels eslògans del Maig del 68 reprèn temes profundament anarquistes: la crítica de tota jerarquia (no només patronal, sinó també familiar, universitària, sexual), el rebuig dels partits tradicionals (inclòs el Partit Comunista Francès, considerat massa institucional), i la idea que la revolució ha de transformar la vida quotidiana, no només les estructures econòmiques. Figures com Daniel Cohn-Bendit, sovint qualificat de «llibertari», encarnen aquesta sensibilitat."
+          },
+          {
+            "h": {
+              "fr": "Un héritage culturel plus que politique",
+              "es": "Un legado cultural más que político",
+              "ca": "Un llegat cultural més que polític"
+            }
+          },
+          {
+            "fr": "Le mouvement s'essouffle fin mai après des concessions salariales importantes (les accords de Grenelle) et une victoire électorale du camp gaulliste en juin. Mais il transforme durablement la société française — mœurs, rapport à l'autorité, culture — et provoque une redécouverte massive de l'anarchisme par une nouvelle génération, plus attirée par la critique du quotidien que par le vieux modèle de la grève générale révolutionnaire.",
+            "es": "El movimiento se agota a finales de mayo tras concesiones salariales importantes (los acuerdos de Grenelle) y una victoria electoral del bando gaullista en junio. Pero transforma duraderamente la sociedad francesa —costumbres, relación con la autoridad, cultura— y provoca un redescubrimiento masivo del anarquismo por parte de una nueva generación, más atraída por la crítica de lo cotidiano que por el viejo modelo de la huelga general revolucionaria.",
+            "ca": "El moviment s'esgota a finals de maig després de concessions salarials importants (els acords de Grenelle) i una victòria electoral del bàndol gaullista al juny. Però transforma duradorament la societat francesa —costums, relació amb l'autoritat, cultura— i provoca un redescobriment massiu de l'anarquisme per part d'una nova generació, més atreta per la crítica del quotidià que pel vell model de la vaga general revolucionària."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "En mars 1968, un mouvement de contestation étudiante émerge à la faculté de Nanterre, en banlieue parisienne, autour de revendications initialement modestes — mixité des résidences universitaires, critique d'un enseignement jugé rigide et déconnecté — avant de se radicaliser rapidement sous l'influence de groupes gauchistes, dont des composantes anarchistes et situationnistes. Le mouvement gagne la Sorbonne début mai, où sa répression policière brutale, en particulier lors de la « nuit des barricades » du 10 mai, provoque une vague de solidarité qui dépasse largement le cadre étudiant initial.",
+            "es": "En marzo de 1968, un movimiento de protesta estudiantil emerge en la facultad de Nanterre, en la periferia parisina, en torno a reivindicaciones inicialmente modestas —mixtura de residencias universitarias, crítica de una enseñanza considerada rígida y desconectada— antes de radicalizarse rápidamente bajo la influencia de grupos izquierdistas, incluidos componentes anarquistas y situacionistas. El movimiento gana la Sorbona a principios de mayo, donde su represión policial brutal, especialmente durante la «noche de las barricadas» del 10 de mayo, provoca una oleada de solidaridad que supera ampliamente el marco estudiantil inicial.",
+            "ca": "El març de 1968, un moviment de protesta estudiantil emergeix a la facultat de Nanterre, a la perifèria parisenca, al voltant de reivindicacions inicialment modestes —mixtura de residències universitàries, crítica d'un ensenyament considerat rígid i desconnectat— abans de radicalitzar-se ràpidament sota la influència de grups esquerranosos, inclosos components anarquistes i situacionistes. El moviment guanya la Sorbona a principis de maig, on la seva repressió policial brutal, especialment durant la «nit de les barricades» del 10 de maig, provoca una onada de solidaritat que supera àmpliament el marc estudiantil inicial."
+          },
+          {
+            "h": {
+              "fr": "Une grève générale spontanée",
+
+
+              "es": "Una huelga general espontánea",
+              "ca": "Una vaga general espontània"
+            }
+          },
+          {
+            "fr": "Face à cette solidarité montante, les centrales syndicales, en particulier la CGT proche du Parti communiste, appellent le 13 mai à une journée de grève générale, espérant canaliser et contrôler un mouvement dont elles perçoivent déjà le potentiel déstabilisant. Mais le mouvement leur échappe presque immédiatement : dans les jours suivants, des usines sont occupées spontanément à travers tout le pays — la première étant Sud-Aviation à Nantes le 14 mai — et le nombre de grévistes atteint environ 9 à 10 millions de personnes fin mai, un chiffre sans précédent dans l'histoire sociale française, paralysant totalement le pays pendant plusieurs semaines.",
+            "es": "Ante esta solidaridad creciente, las centrales sindicales, especialmente la CGT cercana al Partido Comunista, convocan el 13 de mayo una jornada de huelga general, esperando canalizar y controlar un movimiento cuyo potencial desestabilizador ya perciben. Pero el movimiento se les escapa casi de inmediato: en los días siguientes, fábricas son ocupadas espontáneamente por todo el país —la primera siendo Sud-Aviation en Nantes el 14 de mayo— y el número de huelguistas alcanza unos 9 a 10 millones de personas a finales de mayo, una cifra sin precedentes en la historia social francesa, paralizando totalmente el país durante varias semanas.",
+            "ca": "Davant aquesta solidaritat creixent, les centrals sindicals, especialment la CGT propera al Partit Comunista, criden el 13 de maig a una jornada de vaga general, esperant canalitzar i controlar un moviment el potencial desestabilitzador del qual ja perceben. Però el moviment se'ls escapa gairebé immediatament: en els dies següents, fàbriques són ocupades espontàniament per tot el país —la primera sent Sud-Aviation a Nantes el 14 de maig— i el nombre de vaguistes arriba a uns 9 a 10 milions de persones a finals de maig, una xifra sense precedents en la història social francesa, paralitzant totalment el país durant diverses setmanes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20July%201968.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Paris_July_1968.jpg",
+              "credit": {
+                "es": "Graffiti y carteles de Mayo del 68, París — Wikimedia Commons.",
+                "ca": "Grafits i cartells del Maig del 68, París — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une critique inspirée par l'anarchisme et le situationnisme",
+              "es": "Una crítica inspirada en el anarquismo y el situacionismo",
+              "ca": "Una crítica inspirada en l'anarquisme i el situacionisme"
+            }
+          },
+          {
+            "fr": "Contrairement aux mouvements sociaux classiques centrés sur des revendications salariales et matérielles, une grande partie de l'imaginaire de Mai 68 — slogans peints sur les murs, tracts, affiches produites par l'Atelier populaire des Beaux-Arts occupé — reprend des thèmes directement issus de la tradition anarchiste et du courant situationniste de Guy Debord : critique de toute hiérarchie, qu'elle soit patronale, familiale, universitaire ou sexuelle ; défiance envers les partis traditionnels, y compris et surtout le Parti communiste français, jugé trop institutionnel et bureaucratique pour porter une véritable rupture ; et surtout l'idée, radicalement nouvelle pour l'époque, que la révolution doit transformer la vie quotidienne dans tous ses aspects, et pas seulement les rapports de production économiques.",
+            "es": "A diferencia de los movimientos sociales clásicos centrados en reivindicaciones salariales y materiales, gran parte del imaginario de Mayo del 68 —eslóganes pintados en las paredes, panfletos, carteles producidos por el Taller Popular de Bellas Artes ocupado— retoma temas directamente surgidos de la tradición anarquista y de la corriente situacionista de Guy Debord: crítica de toda jerarquía, sea patronal, familiar, universitaria o sexual; desconfianza hacia los partidos tradicionales, incluido y sobre todo el Partido Comunista Francés, considerado demasiado institucional y burocrático para portar una verdadera ruptura; y sobre todo la idea, radicalmente nueva para la época, de que la revolución debe transformar la vida cotidiana en todos sus aspectos, y no solo las relaciones de producción económicas.",
+            "ca": "A diferència dels moviments socials clàssics centrats en reivindicacions salarials i materials, gran part de l'imaginari del Maig del 68 —eslògans pintats a les parets, fulletons, cartells produïts pel Taller Popular de Belles Arts ocupat— reprèn temes directament sorgits de la tradició anarquista i del corrent situacionista de Guy Debord: crítica de tota jerarquia, sigui patronal, familiar, universitària o sexual; desconfiança envers els partits tradicionals, inclòs i sobretot el Partit Comunista Francès, considerat massa institucional i burocràtic per portar una veritable ruptura; i sobretot la idea, radicalment nova per a l'època, que la revolució ha de transformar la vida quotidiana en tots els seus aspectes, i no només les relacions de producció econòmiques."
+          },
+          {
+            "fr": "Des figures comme Daniel Cohn-Bendit, étudiant de Nanterre souvent surnommé « Dany le Rouge » et associé publiquement à une sensibilité libertaire, incarnent cette dimension du mouvement — même si Mai 68 reste, dans son ensemble, une mosaïque de courants (trotskistes, maoïstes, anarchistes, situationnistes) souvent en rivalité les uns avec les autres plus qu'unis par une idéologie commune.",
+            "es": "Figuras como Daniel Cohn-Bendit, estudiante de Nanterre a menudo apodado «Dany el Rojo» y asociado públicamente con una sensibilidad libertaria, encarnan esta dimensión del movimiento —aunque Mayo del 68 sigue siendo, en su conjunto, un mosaico de corrientes (trotskistas, maoístas, anarquistas, situacionistas) a menudo en rivalidad entre sí más que unidos por una ideología común.",
+            "ca": "Figures com Daniel Cohn-Bendit, estudiant de Nanterre sovint anomenat «Dany el Roig» i associat públicament amb una sensibilitat llibertària, encarnen aquesta dimensió del moviment —encara que el Maig del 68 continua sent, en el seu conjunt, un mosaic de corrents (trotskistes, maoistes, anarquistes, situacionistes) sovint en rivalitat entre ells més que units per una ideologia comuna."
+          },
+          {
+            "h": {
+              "fr": "Un héritage culturel plus que politique",
+              "es": "Un legado cultural más que político",
+              "ca": "Un llegat cultural més que polític"
+            }
+          },
+          {
+            "fr": "Le mouvement s'essouffle rapidement fin mai : les accords de Grenelle, négociés entre gouvernement, patronat et syndicats, offrent d'importantes concessions salariales (hausse du SMIC de 35%) qui satisfont une bonne partie de la base ouvrière, tandis que le général de Gaulle, après une brève disparition stratégique qui inquiète le pays, dissout l'Assemblée nationale et remporte une victoire électorale écrasante en juin, siphonnant l'élan révolutionnaire par la voie des urnes.",
+            "es": "El movimiento se agota rápidamente a finales de mayo: los acuerdos de Grenelle, negociados entre gobierno, patronal y sindicatos, ofrecen importantes concesiones salariales (aumento del salario mínimo del 35%) que satisfacen a buena parte de la base obrera, mientras que el general de Gaulle, tras una breve desaparición estratégica que inquieta al país, disuelve la Asamblea Nacional y obtiene una victoria electoral aplastante en junio, drenando el impulso revolucionario por la vía de las urnas.",
+            "ca": "El moviment s'esgota ràpidament a finals de maig: els acords de Grenelle, negociats entre govern, patronal i sindicats, ofereixen importants concessions salarials (augment del salari mínim del 35%) que satisfan bona part de la base obrera, mentre que el general de Gaulle, després d'una breu desaparició estratègica que inquieta el país, dissol l'Assemblea Nacional i obté una victòria electoral aclaparadora al juny, drenant l'impuls revolucionari per la via de les urnes."
+          },
+          {
+            "fr": "Mais l'héritage de Mai 68 dépasse largement son échec politique immédiat : le mouvement provoque une transformation culturelle et sociale durable de la France — évolution des mœurs, remise en cause de l'autorité traditionnelle dans la famille et l'école, essor du féminisme et de l'écologie politique — et surtout une redécouverte massive, par toute une génération, de l'anarchisme envisagé non plus principalement comme une stratégie insurrectionnelle ou syndicale, mais comme une critique existentielle et quotidienne de toutes les formes de domination, une matrice qui irriguera directement les mouvements punk, féministes radicaux et altermondialistes des décennies suivantes.",
+            "es": "Pero el legado de Mayo del 68 supera ampliamente su fracaso político inmediato: el movimiento provoca una transformación cultural y social duradera de Francia —evolución de las costumbres, cuestionamiento de la autoridad tradicional en la familia y la escuela, auge del feminismo y la ecología política— y sobre todo un redescubrimiento masivo, por toda una generación, del anarquismo concebido ya no principalmente como una estrategia insurreccional o sindical, sino como una crítica existencial y cotidiana de todas las formas de dominación, una matriz que irrigará directamente los movimientos punk, feministas radicales y altermundialistas de las décadas siguientes.",
+            "ca": "Però el llegat del Maig del 68 supera àmpliament el seu fracàs polític immediat: el moviment provoca una transformació cultural i social duradora de França —evolució dels costums, qüestionament de l'autoritat tradicional a la família i l'escola, auge del feminisme i l'ecologia política— i sobretot un redescobriment massiu, per tota una generació, de l'anarquisme concebut ja no principalment com una estratègia insurreccional o sindical, sinó com una crítica existencial i quotidiana de totes les formes de dominació, una matriu que irrigarà directament els moviments punk, feministes radicals i altermundialistes de les dècades següents."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une occupation (d'usine)",
+          "es": "una ocupación (de fábrica)",
+          "ca": "una ocupació (de fàbrica)"
+        },
+        {
+          "mot": "un tract",
+          "es": "un panfleto",
+          "ca": "un fullet"
+        },
+        {
+          "mot": "s'essouffler",
+          "es": "agotarse",
+          "ca": "esgotar-se"
+        },
+        {
+          "mot": "une concession (salariale)",
+          "es": "una concesión (salarial)",
+          "ca": "una concessió (salarial)"
+        },
+        {
+          "mot": "dissoudre (une assemblée)",
+          "es": "disolver (una asamblea)",
+          "ca": "dissoldre (una assemblea)"
+        },
+        {
+          "mot": "un héritage (culturel)",
+          "es": "un legado (cultural)",
+          "ca": "un llegat (cultural)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué pasa el 10 de mayo de 1968?",
+            "ca": "Què passa el 10 de maig de 1968?"
+          },
+          "piste": {
+            "es": "la «noche de las barricadas», represión policial brutal",
+            "ca": "la «nit de les barricades», repressió policial brutal"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántos huelguistas hay en Francia a finales de mayo de 1968?",
+            "ca": "Quants vaguistes hi ha a França a finals de maig de 1968?"
+          },
+          "piste": {
+            "es": "unos 9 a 10 millones",
+            "ca": "uns 9 a 10 milions"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué temas anarquistas retoman los eslóganes de Mayo del 68?",
+            "ca": "Quins temes anarquistes reprenen els eslògans del Maig del 68?"
+          },
+          "piste": {
+            "es": "la crítica de toda jerarquía y la idea de que la revolución debe transformar la vida cotidiana",
+            "ca": "la crítica de tota jerarquia i la idea que la revolució ha de transformar la vida quotidiana"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué frena el movimiento a finales de mayo-junio de 1968?",
+            "ca": "Què frena el moviment a finals de maig-juny de 1968?"
+          },
+          "piste": {
+            "es": "los acuerdos de Grenelle y la victoria electoral gaullista",
+            "ca": "els acords de Grenelle i la victòria electoral gaullista"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — May 68",
+          "url": "https://en.wikipedia.org/wiki/May_68"
+        },
+        {
+          "titre": "Encyclopédie Larousse — Mai 68",
+          "url": "https://www.larousse.fr/encyclopedie/divers/Mai_68/142961"
+        }
+      ]
+    }
+  ]
+}

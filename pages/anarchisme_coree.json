@@ -1,0 +1,267 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_coree_shinchaeho",
+      "emoji": "🇰🇷",
+      "theme": "Politique",
+      "periode": "1880 à 1936",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%8B%A8%EC%9E%AC%EC%8B%A0%EC%B1%84%ED%98%B8.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Shin_Chae-ho",
+        "credit": {
+          "es": "Shin Chae-ho (1880-1936) — Wikimedia Commons.",
+          "ca": "Shin Chae-ho (1880-1936) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarquismo en Corea: Shin Chae-ho contra el imperio japonés",
+        "ca": "L'anarquisme a Corea: Shin Chae-ho contra l'imperi japonès"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1910, le Japon annexe complètement la Corée. Le pays perd son indépendance.",
+            "es": "En 1910, Japón anexiona completamente Corea. El país pierde su independencia.",
+            "ca": "El 1910, el Japó annexiona completament Corea. El país perd la seva independència."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%8B%A8%EC%9E%AC%EC%8B%A0%EC%B1%84%ED%98%B8.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Shin_Chae-ho",
+              "credit": {
+                "es": "Shin Chae-ho (1880-1936) — Wikimedia Commons.",
+                "ca": "Shin Chae-ho (1880-1936) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Shin Chae-ho est un historien et journaliste coréen. Il refuse de vivre sous le contrôle japonais et part en exil.",
+            "es": "Shin Chae-ho es un historiador y periodista coreano. Se niega a vivir bajo el control japonés y se va al exilio.",
+            "ca": "Shin Chae-ho és un historiador i periodista coreà. Es nega a viure sota el control japonès i marxa a l'exili."
+          },
+          {
+            "fr": "En Chine, il devient anarchiste. Pour lui, l'indépendance de la Corée et l'anarchisme vont ensemble.",
+            "es": "En China, se hace anarquista. Para él, la independencia de Corea y el anarquismo van juntos.",
+            "ca": "A la Xina, es fa anarquista. Per a ell, la independència de Corea i l'anarquisme van junts."
+          },
+          {
+            "fr": "En 1923, il écrit un texte important : la « Déclaration de la révolution coréenne ».",
+            "es": "En 1923, escribe un texto importante: la «Declaración de la revolución coreana».",
+            "ca": "El 1923, escriu un text important: la «Declaració de la revolució coreana»."
+          },
+          {
+            "fr": "En 1929, il est arrêté par la police japonaise à Taïwan. Il est condamné à 10 ans de prison.",
+            "es": "En 1929, es arrestado por la policía japonesa en Taiwán. Es condenado a 10 años de prisión.",
+            "ca": "El 1929, és arrestat per la policia japonesa a Taiwan. És condemnat a 10 anys de presó."
+          },
+          {
+            "fr": "Il meurt en prison en 1936. Aujourd'hui, il est respecté à la fois en Corée du Nord et en Corée du Sud.",
+            "es": "Muere en prisión en 1936. Hoy, es respetado tanto en Corea del Norte como en Corea del Sur.",
+            "ca": "Mor a la presó el 1936. Avui, és respectat tant a Corea del Nord com a Corea del Sud."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1910, l'annexion complète de la Corée par le Japon met fin à des siècles d'indépendance coréenne. Shin Chae-ho, déjà journaliste et historien reconnu, refuse de vivre sous domination japonaise et part en exil volontaire, d'abord vers Vladivostok, puis vers la Chine, où il passe l'essentiel du reste de sa vie.",
+            "es": "En 1910, la anexión completa de Corea por Japón pone fin a siglos de independencia coreana. Shin Chae-ho, ya periodista e historiador reconocido, se niega a vivir bajo dominación japonesa y parte al exilio voluntario, primero hacia Vladivostok, luego hacia China, donde pasa la mayor parte del resto de su vida.",
+            "ca": "El 1910, l'annexió completa de Corea pel Japó posa fi a segles d'independència coreana. Shin Chae-ho, ja periodista i historiador reconegut, es nega a viure sota dominació japonesa i marxa a l'exili voluntari, primer cap a Vladivostok, després cap a la Xina, on passa la major part de la resta de la seva vida."
+          },
+          {
+            "h": {
+              "fr": "Histoire et lutte anticoloniale",
+              "es": "Historia y lucha anticolonial",
+              "ca": "Història i lluita anticolonial"
+            }
+          },
+          {
+            "fr": "En exil, Shin Chae-ho développe une œuvre historique majeure visant à retracer une identité coréenne ancienne et fière, en réaction directe contre les récits historiques japonais qui cherchaient à minimiser la civilisation coréenne. Cette démarche historiographique reste inséparable, chez lui, de son engagement politique : comprendre l'histoire du peuple coréen sert directement à nourrir sa résistance présente contre l'impérialisme japonais.",
+            "es": "En el exilio, Shin Chae-ho desarrolla una obra histórica importante orientada a trazar una identidad coreana antigua y orgullosa, en reacción directa contra los relatos históricos japoneses que buscaban minimizar la civilización coreana. Este trabajo historiográfico permanece inseparable, en él, de su compromiso político: comprender la historia del pueblo coreano sirve directamente para alimentar su resistencia presente contra el imperialismo japonés.",
+            "ca": "A l'exili, Shin Chae-ho desenvolupa una obra històrica important orientada a traçar una identitat coreana antiga i orgullosa, en reacció directa contra els relats històrics japonesos que buscaven minimitzar la civilització coreana. Aquest treball historiogràfic roman inseparable, en ell, del seu compromís polític: comprendre la història del poble coreà serveix directament per alimentar la seva resistència present contra l'imperialisme japonès."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%8B%A8%EC%9E%AC%EC%8B%A0%EC%B1%84%ED%98%B8.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Shin_Chae-ho",
+              "credit": {
+                "es": "Shin Chae-ho (1880-1936) — Wikimedia Commons.",
+                "ca": "Shin Chae-ho (1880-1936) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "De l'indépendantisme à l'anarchisme",
+              "es": "Del independentismo al anarquismo",
+              "ca": "De l'independentisme a l'anarquisme"
+            }
+          },
+          {
+            "fr": "Au contact d'autres révolutionnaires asiatiques en Chine, Shin Chae-ho se rapproche progressivement de l'anarchisme, qu'il perçoit comme complémentaire à la lutte indépendantiste : selon lui, il ne suffit pas de chasser les Japonais, il faut aussi empêcher qu'une nouvelle élite coréenne autoritaire ne prenne simplement leur place. En 1923, il rédige la « Déclaration de la révolution coréenne », un texte fondateur qui appelle à une résistance directe et populaire, plutôt qu'à une diplomatie internationale jugée inefficace.",
+            "es": "En contacto con otros revolucionarios asiáticos en China, Shin Chae-ho se acerca progresivamente al anarquismo, que percibe como complementario a la lucha independentista: según él, no basta con expulsar a los japoneses, hay que impedir también que una nueva élite coreana autoritaria simplemente ocupe su lugar. En 1923, redacta la «Declaración de la revolución coreana», un texto fundacional que llama a una resistencia directa y popular, en lugar de una diplomacia internacional considerada ineficaz.",
+            "ca": "En contacte amb altres revolucionaris asiàtics a la Xina, Shin Chae-ho s'apropa progressivament a l'anarquisme, que percep com a complementari a la lluita independentista: segons ell, no n'hi ha prou d'expulsar els japonesos, cal impedir també que una nova elit coreana autoritària simplement ocupi el seu lloc. El 1923, redacta la «Declaració de la revolució coreana», un text fundacional que crida a una resistència directa i popular, en comptes d'una diplomàcia internacional considerada ineficaç."
+          },
+          {
+            "h": {
+              "fr": "Arrestation et mort en prison",
+              "es": "Arresto y muerte en prisión",
+              "ca": "Arrest i mort a la presó"
+            }
+          },
+          {
+            "fr": "En 1929, alors qu'il tente de faire passer des fonds destinés à l'organisation anarchiste anti-japonaise, il est arrêté par la police japonaise à Taïwan et condamné à dix ans de prison. Il meurt en détention en 1936, avant la fin de sa peine. Fait rare pour une figure ouvertement anarchiste, il reste aujourd'hui honoré à la fois en Corée du Sud et en Corée du Nord comme un héros de l'indépendance nationale.",
+            "es": "En 1929, mientras intentaba hacer pasar fondos destinados a la organización anarquista antijaponesa, es arrestado por la policía japonesa en Taiwán y condenado a diez años de prisión. Muere en detención en 1936, antes de terminar su condena. Hecho poco común para una figura abiertamente anarquista, sigue siendo honrado hoy tanto en Corea del Sur como en Corea del Norte como un héroe de la independencia nacional.",
+            "ca": "El 1929, mentre intentava fer passar fons destinats a l'organització anarquista antijaponesa, és arrestat per la policia japonesa a Taiwan i condemnat a deu anys de presó. Mor en detenció el 1936, abans d'acabar la seva condemna. Fet poc habitual per a una figura obertament anarquista, continua sent honrat avui tant a Corea del Sud com a Corea del Nord com un heroi de la independència nacional."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'annexion complète de la Corée par le Japon en 1910 met fin à des siècles de souveraineté coréenne et transforme radicalement la trajectoire de Shin Chae-ho, déjà connu comme journaliste, historien et intellectuel nationaliste de premier plan. Refusant de collaborer, même passivement, avec l'occupant, il choisit l'exil volontaire — d'abord à Vladivostok, où il travaille pour la presse coréenne de la diaspora, puis en Chine à partir de 1913, où il passera l'essentiel du reste de sa vie sans jamais revoir sa patrie.",
+            "es": "La anexión completa de Corea por Japón en 1910 pone fin a siglos de soberanía coreana y transforma radicalmente la trayectoria de Shin Chae-ho, ya conocido como periodista, historiador e intelectual nacionalista de primer plano. Negándose a colaborar, aunque sea pasivamente, con el ocupante, elige el exilio voluntario —primero en Vladivostok, donde trabaja para la prensa coreana de la diáspora, y luego en China a partir de 1913, donde pasará la mayor parte del resto de su vida sin volver a ver su patria.",
+            "ca": "L'annexió completa de Corea pel Japó el 1910 posa fi a segles de sobirania coreana i transforma radicalment la trajectòria de Shin Chae-ho, ja conegut com a periodista, historiador i intel·lectual nacionalista de primer nivell. Negant-se a col·laborar, encara que sigui passivament, amb l'ocupant, tria l'exili voluntari —primer a Vladivostok, on treballa per a la premsa coreana de la diàspora, i després a la Xina a partir de 1913, on passarà la major part de la resta de la seva vida sense tornar a veure la seva pàtria."
+          },
+          {
+            "h": {
+              "fr": "Histoire et lutte anticoloniale",
+              "es": "Historia y lucha anticolonial",
+              "ca": "Història i lluita anticolonial"
+            }
+          },
+
+          {
+            "fr": "En exil, Shin Chae-ho produit une œuvre historiographique considérable, dont « Une nouvelle lecture de l'histoire » (1908) et « L'Histoire ancienne de Joseon » (1931), qui cherchent à établir une continuité historique fière et indépendante entre les royaumes coréens anciens et la nation moderne, en réaction directe contre l'historiographie coloniale japonaise qui présentait la Corée comme une périphérie mineure et arriérée de la civilisation chinoise. Cette entreprise intellectuelle n'est jamais séparée, chez lui, de son combat politique immédiat : reconstruire une mémoire historique fière constitue un acte de résistance à part entière face à une occupation qui cherche justement à effacer l'identité nationale coréenne.",
+            "es": "En el exilio, Shin Chae-ho produce una obra historiográfica considerable, entre ella «Una nueva lectura de la historia» (1908) y «La historia antigua de Joseon» (1931), que buscan establecer una continuidad histórica orgullosa e independiente entre los antiguos reinos coreanos y la nación moderna, en reacción directa contra la historiografía colonial japonesa que presentaba a Corea como una periferia menor y atrasada de la civilización china. Esta labor intelectual nunca está separada, en él, de su combate político inmediato: reconstruir una memoria histórica orgullosa constituye un acto de resistencia por derecho propio frente a una ocupación que busca precisamente borrar la identidad nacional coreana.",
+            "ca": "A l'exili, Shin Chae-ho produeix una obra historiogràfica considerable, entre ella «Una nova lectura de la història» (1908) i «La història antiga de Joseon» (1931), que busquen establir una continuïtat històrica orgullosa i independent entre els antics regnes coreans i la nació moderna, en reacció directa contra la historiografia colonial japonesa que presentava Corea com una perifèria menor i endarrerida de la civilització xinesa. Aquesta tasca intel·lectual mai no està separada, en ell, del seu combat polític immediat: reconstruir una memòria històrica orgullosa constitueix un acte de resistència per dret propi davant una ocupació que busca precisament esborrar la identitat nacional coreana."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EB%8B%A8%EC%9E%AC%EC%8B%A0%EC%B1%84%ED%98%B8.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Shin_Chae-ho",
+              "credit": {
+                "es": "Shin Chae-ho (1880-1936) — Wikimedia Commons.",
+                "ca": "Shin Chae-ho (1880-1936) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "De l'indépendantisme à l'anarchisme",
+              "es": "Del independentismo al anarquismo",
+              "ca": "De l'independentisme a l'anarquisme"
+            }
+          },
+          {
+            "fr": "Au contact de révolutionnaires chinois, japonais et taïwanais exilés à Pékin et Shanghai, Shin Chae-ho se rapproche à partir du début des années 1920 de l'anarchisme, qu'il perçoit comme un cadre théorique complémentaire — et non contradictoire — à son nationalisme anticolonial : chasser l'occupant japonais ne suffit pas si c'est pour laisser émerger une nouvelle élite coréenne autoritaire calquée sur les structures de pouvoir déjà existantes. En 1923, il rédige à la demande d'un groupe d'activistes radicaux la « Déclaration de la révolution coréenne » (Joseon Hyeongmyeong Seoneon), un texte fondateur qui rejette explicitement la voie diplomatique — jugée illusoire face à une puissance impériale — au profit d'une résistance directe et populaire, incluant potentiellement la violence armée contre les institutions coloniales.",
+            "es": "En contacto con revolucionarios chinos, japoneses y taiwaneses exiliados en Pekín y Shanghái, Shin Chae-ho se acerca a partir de principios de los años 1920 al anarquismo, que percibe como un marco teórico complementario —y no contradictorio— con su nacionalismo anticolonial: expulsar al ocupante japonés no basta si es para dejar emerger una nueva élite coreana autoritaria calcada sobre las estructuras de poder ya existentes. En 1923, redacta a petición de un grupo de activistas radicales la «Declaración de la revolución coreana» (Joseon Hyeongmyeong Seoneon), un texto fundacional que rechaza explícitamente la vía diplomática —considerada ilusoria frente a una potencia imperial— en favor de una resistencia directa y popular, incluyendo potencialmente la violencia armada contra las instituciones coloniales.",
+            "ca": "En contacte amb revolucionaris xinesos, japonesos i taiwanesos exiliats a Pequín i Xangai, Shin Chae-ho s'apropa a partir de principis dels anys 1920 a l'anarquisme, que percep com un marc teòric complementari —i no contradictori— amb el seu nacionalisme anticolonial: expulsar l'ocupant japonès no n'hi ha prou si és per deixar emergir una nova elit coreana autoritària calcada sobre les estructures de poder ja existents. El 1923, redacta a petició d'un grup d'activistes radicals la «Declaració de la revolució coreana» (Joseon Hyeongmyeong Seoneon), un text fundacional que rebutja explícitament la via diplomàtica —considerada il·lusòria davant una potència imperial— en favor d'una resistència directa i popular, incloent-hi potencialment la violència armada contra les institucions colonials."
+          },
+          {
+            "fr": "En 1927, il rejoint formellement l'Association anarchiste orientale (Dongbang Mujeongbu-juuija Yeonmaeng), un réseau régional reliant militants coréens, chinois et japonais autour d'une lutte commune contre l'impérialisme japonais — une solidarité transnationale remarquable dans un contexte de tensions nationalistes croissantes en Asie de l'Est.",
+            "es": "En 1927, se une formalmente a la Asociación Anarquista Oriental (Dongbang Mujeongbu-juuija Yeonmaeng), una red regional que une a militantes coreanos, chinos y japoneses en torno a una lucha común contra el imperialismo japonés —una solidaridad transnacional notable en un contexto de tensiones nacionalistas crecientes en Asia Oriental.",
+            "ca": "El 1927, s'uneix formalment a l'Associació Anarquista Oriental (Dongbang Mujeongbu-juuija Yeonmaeng), una xarxa regional que uneix militants coreans, xinesos i japonesos al voltant d'una lluita comuna contra l'imperialisme japonès —una solidaritat transnacional notable en un context de tensions nacionalistes creixents a l'Àsia Oriental."
+          },
+          {
+            "h": {
+              "fr": "Arrestation et mort en prison",
+              "es": "Arresto y muerte en prisión",
+              "ca": "Arrest i mort a la presó"
+            }
+          },
+          {
+            "fr": "En 1928, alors qu'il tente de faire transiter des fonds falsifiés destinés à financer les activités de l'organisation anarchiste, il est arrêté par la police japonaise à Keelung, à Taïwan (alors elle-même colonie japonaise), et condamné en 1930 à dix ans de prison ferme, purgée dans la prison de Lüshun, en Mandchourie occupée. Affaibli par des années de détention difficile, il meurt en cellule en février 1936, avant d'avoir pu bénéficier d'une libération anticipée pourtant envisagée en raison de son état de santé dégradé.",
+            "es": "En 1928, mientras intentaba hacer transitar fondos falsificados destinados a financiar las actividades de la organización anarquista, es arrestado por la policía japonesa en Keelung, Taiwán (entonces también colonia japonesa), y condenado en 1930 a diez años de prisión firme, cumplida en la prisión de Lüshun, en la Manchuria ocupada. Debilitado por años de detención difícil, muere en su celda en febrero de 1936, antes de poder beneficiarse de una liberación anticipada que sin embargo se contemplaba debido a su deteriorado estado de salud.",
+            "ca": "El 1928, mentre intentava fer transitar fons falsificats destinats a finançar les activitats de l'organització anarquista, és arrestat per la policia japonesa a Keelung, Taiwan (aleshores també colònia japonesa), i condemnat el 1930 a deu anys de presó ferma, complerta a la presó de Lüshun, a la Manxúria ocupada. Afeblit per anys de detenció difícil, mor a la seva cel·la el febrer del 1936, abans de poder beneficiar-se d'un alliberament anticipat que tanmateix es contemplava a causa del seu deteriorat estat de salut."
+          },
+          {
+            "fr": "Fait rare pour une figure ouvertement anarchiste et parfois partisane de la violence révolutionnaire, Shin Chae-ho reste aujourd'hui honoré de façon quasi unanime, à la fois en Corée du Sud, où il est célébré comme un père de l'historiographie nationaliste moderne, et en Corée du Nord, où son rejet de l'impérialisme japonais et sa dimension anticoloniale sont mis en avant — un cas rare de figure historique consensuelle des deux côtés de la péninsule divisée, même si sa dimension proprement anarchiste reste, elle, largement passée sous silence dans les deux récits officiels.",
+            "es": "Hecho poco común para una figura abiertamente anarquista y a veces partidaria de la violencia revolucionaria, Shin Chae-ho sigue siendo honrado hoy de forma casi unánime, tanto en Corea del Sur, donde es celebrado como un padre de la historiografía nacionalista moderna, como en Corea del Norte, donde se destaca su rechazo del imperialismo japonés y su dimensión anticolonial —un caso poco común de figura histórica consensuada a ambos lados de la península dividida, aunque su dimensión propiamente anarquista sigue estando, en cambio, ampliamente silenciada en ambos relatos oficiales.",
+            "ca": "Fet poc habitual per a una figura obertament anarquista i de vegades partidària de la violència revolucionària, Shin Chae-ho continua sent honrat avui de forma gairebé unànime, tant a Corea del Sud, on és celebrat com un pare de la historiografia nacionalista moderna, com a Corea del Nord, on es destaca el seu rebuig de l'imperialisme japonès i la seva dimensió anticolonial —un cas poc habitual de figura històrica consensuada a banda i banda de la península dividida, encara que la seva dimensió pròpiament anarquista continua estant, en canvi, àmpliament silenciada en tots dos relats oficials."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une annexion",
+          "es": "una anexión",
+          "ca": "una annexió"
+        },
+        {
+          "mot": "un exil volontaire",
+          "es": "un exilio voluntario",
+          "ca": "un exili voluntari"
+        },
+        {
+          "mot": "l'historiographie",
+          "es": "la historiografía",
+          "ca": "la historiografia"
+        },
+        {
+          "mot": "anticolonial(e)",
+          "es": "anticolonial",
+          "ca": "anticolonial"
+        },
+        {
+          "mot": "une déclaration (fondatrice)",
+          "es": "una declaración (fundacional)",
+          "ca": "una declaració (fundacional)"
+        },
+        {
+          "mot": "purger (une peine)",
+          "es": "cumplir (una condena)",
+          "ca": "complir (una condemna)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué pasa en Corea en 1910?",
+            "ca": "Què passa a Corea el 1910?"
+          },
+          "piste": {
+            "es": "el Japón la anexiona completamente",
+            "ca": "el Japó l'annexiona completament"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué escribe Shin Chae-ho sobre la historia antigua de Corea?",
+            "ca": "Per què escriu Shin Chae-ho sobre la història antiga de Corea?"
+          },
+          "piste": {
+            "es": "para contrarrestar la historiografía colonial japonesa y afirmar la identidad coreana",
+            "ca": "per contrarestar la historiografia colonial japonesa i afirmar la identitat coreana"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué declara Shin Chae-ho en 1923?",
+            "ca": "Què declara Shin Chae-ho el 1923?"
+          },
+          "piste": {
+            "es": "la Declaración de la revolución coreana, a favor de la resistencia directa",
+            "ca": "la Declaració de la revolució coreana, a favor de la resistència directa"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo es recordado hoy en las dos Coreas?",
+            "ca": "Com és recordat avui a les dues Corees?"
+          },
+          "piste": {
+            "es": "como un héroe de la independencia, honrado tanto en el Norte como en el Sur",
+            "ca": "com un heroi de la independència, honrat tant al Nord com al Sud"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Shin Chae-ho",
+          "url": "https://en.wikipedia.org/wiki/Shin_Chae-ho"
+        },
+        {
+          "titre": "The Anarchist Library — Shin Chae-ho",
+          "url": "https://theanarchistlibrary.org/library/cira-nippon-shin-chae-ho"
+        }
+      ]
+    }
+  ]
+}

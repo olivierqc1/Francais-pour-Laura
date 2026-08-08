@@ -1,0 +1,268 @@
+{
+  "textes": [
+    {
+      "id": "anarchosyndicalisme_strategie",
+      "emoji": "⚙️",
+      "theme": "Politique",
+      "periode": "1895 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bakery%20Workers%20Union%20Local%2046%2C%20IWW%20(Industrial%20Workers%20of%20the%20World)%20sign%20and%20Hebrew%20language%20sign%20in%20New%20York%20City%20parade%20participants%20holding%20aloft%20a%20loaf%20of%20bread%20on%20May%201%2C%201908%20-%20LCCN2014680338%20(cropped).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Industrial_Workers_of_the_World",
+        "credit": {
+          "es": "Desfile del 1 de mayo de 1908 con miembros del sindicato IWW, Nueva York — Wikimedia Commons.",
+          "ca": "Desfilada de l'1 de maig de 1908 amb membres del sindicat IWW, Nova York — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarcosindicalismo: una estrategia, no solo una idea",
+        "ca": "L'anarcosindicalisme: una estratègia, no només una idea"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Les idées qu'on a vues avant (Proudhon, Bakounine, Kropotkine) répondent à la question : « comment devrait être la société ? »",
+            "es": "Las ideas que hemos visto antes (Proudhon, Bakunin, Kropotkin) responden a la pregunta: «¿cómo debería ser la sociedad?»",
+            "ca": "Les idees que hem vist abans (Proudhon, Bakunin, Kropotkin) responen a la pregunta: «com hauria de ser la societat?»"
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bakery%20Workers%20Union%20Local%2046%2C%20IWW%20(Industrial%20Workers%20of%20the%20World)%20sign%20and%20Hebrew%20language%20sign%20in%20New%20York%20City%20parade%20participants%20holding%20aloft%20a%20loaf%20of%20bread%20on%20May%201%2C%201908%20-%20LCCN2014680338%20(cropped).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Industrial_Workers_of_the_World",
+              "credit": {
+                "es": "Desfile del 1 de mayo de 1908 con miembros del sindicato IWW, Nueva York — Wikimedia Commons.",
+                "ca": "Desfilada de l'1 de maig de 1908 amb membres del sindicat IWW, Nova York — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "L'anarcho-syndicalisme répond à une autre question : « comment on y arrive concrètement ? » C'est une stratégie, pas juste une idée.",
+            "es": "El anarcosindicalismo responde a otra pregunta: «¿cómo se llega concretamente?» Es una estrategia, no solo una idea.",
+            "ca": "L'anarcosindicalisme respon a una altra pregunta: «com s'hi arriba concretament?» És una estratègia, no només una idea."
+          },
+          {
+            "fr": "La réponse : organiser les travailleurs en syndicats forts, dans chaque usine, chaque métier.",
+            "es": "La respuesta: organizar a los trabajadores en sindicatos fuertes, en cada fábrica, cada oficio.",
+            "ca": "La resposta: organitzar els treballadors en sindicats forts, a cada fàbrica, cada ofici."
+          },
+          {
+            "fr": "Ces syndicats utilisent l'action directe : la grève, mais aussi le sabotage ou le boycott — sans passer par des élections ou des politiciens.",
+            "es": "Estos sindicatos usan la acción directa: la huelga, pero también el sabotaje o el boicot —sin pasar por elecciones o políticos.",
+            "ca": "Aquests sindicats usen l'acció directa: la vaga, però també el sabotatge o el boicot —sense passar per eleccions o polítics."
+          },
+          {
+            "fr": "Le but final, c'est la grève générale : tous les travailleurs arrêtent de travailler en même temps, partout, pour renverser le capitalisme.",
+            "es": "El objetivo final es la huelga general: todos los trabajadores dejan de trabajar al mismo tiempo, en todas partes, para derrocar el capitalismo.",
+            "ca": "L'objectiu final és la vaga general: tots els treballadors deixen de treballar al mateix temps, arreu, per enderrocar el capitalisme."
+          },
+          {
+            "fr": "Cette stratégie a été très forte en France (la CGT), en Espagne (la CNT, que tu connais déjà) et aux États-Unis (les IWW, surnommés « Wobblies »).",
+            "es": "Esta estrategia fue muy fuerte en Francia (la CGT), en España (la CNT, que ya conoces) y en Estados Unidos (los IWW, apodados «Wobblies»).",
+            "ca": "Aquesta estratègia va ser molt forta a França (la CGT), a Espanya (la CNT, que ja coneixes) i als Estats Units (els IWW, anomenats «Wobblies»)."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Les théoriciens qu'on a étudiés — Proudhon, Bakounine, Kropotkine — proposent des visions de la société future, mais assez peu de méthode concrète pour y parvenir. L'anarcho-syndicalisme comble ce vide : c'est avant tout une stratégie d'organisation, centrée sur le syndicat de travailleurs comme outil de transformation sociale.",
+            "es": "Los teóricos que hemos estudiado —Proudhon, Bakunin, Kropotkin— proponen visiones de la sociedad futura, pero bastante poco método concreto para llegar a ella. El anarcosindicalismo llena ese vacío: es ante todo una estrategia de organización, centrada en el sindicato de trabajadores como herramienta de transformación social.",
+            "ca": "Els teòrics que hem estudiat —Proudhon, Bakunin, Kropotkin— proposen visions de la societat futura, però força poc mètode concret per arribar-hi. L'anarcosindicalisme omple aquest buit: és sobretot una estratègia d'organització, centrada en el sindicat de treballadors com a eina de transformació social."
+          },
+          {
+            "h": {
+              "fr": "L'action directe plutôt que les élections",
+              "es": "La acción directa en lugar de las elecciones",
+              "ca": "L'acció directa en comptes de les eleccions"
+            }
+          },
+          {
+            "fr": "Contrairement aux socialistes parlementaires, les anarcho-syndicalistes rejettent la voie électorale, jugée corruptrice et illusoire : selon eux, aucun politicien élu, même sincère, ne peut changer un système dont il devient lui-même partie prenante. Ils privilégient l'« action directe » : la grève, bien sûr, mais aussi le sabotage discret d'outils de production, le boycott de produits, ou le « travail au ralenti » qui affaiblit l'employeur sans perte de salaire.",
+            "es": "A diferencia de los socialistas parlamentarios, los anarcosindicalistas rechazan la vía electoral, considerada corruptora e ilusoria: según ellos, ningún político electo, por sincero que sea, puede cambiar un sistema del que él mismo se vuelve parte interesada. Privilegian la «acción directa»: la huelga, por supuesto, pero también el sabotaje discreto de herramientas de producción, el boicot de productos, o el «trabajo a ritmo lento» que debilita al empleador sin pérdida de salario.",
+            "ca": "A diferència dels socialistes parlamentaris, els anarcosindicalistes rebutgen la via electoral, considerada corruptora i il·lusòria: segons ells, cap polític electe, per sincer que sigui, pot canviar un sistema del qual ell mateix esdevé part interessada. Privilegien l'«acció directa»: la vaga, és clar, però també el sabotatge discret d'eines de producció, el boicot de productes, o el «treball a ritme lent» que afebleix l'empresari sense pèrdua de salari."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bakery%20Workers%20Union%20Local%2046%2C%20IWW%20(Industrial%20Workers%20of%20the%20World)%20sign%20and%20Hebrew%20language%20sign%20in%20New%20York%20City%20parade%20participants%20holding%20aloft%20a%20loaf%20of%20bread%20on%20May%201%2C%201908%20-%20LCCN2014680338%20(cropped).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Industrial_Workers_of_the_World",
+              "credit": {
+                "es": "Desfile del 1 de mayo de 1908 con miembros del sindicato IWW, Nueva York — Wikimedia Commons.",
+                "ca": "Desfilada de l'1 de maig de 1908 amb membres del sindicat IWW, Nova York — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La CGT et la Charte d'Amiens",
+              "es": "La CGT y la Carta de Amiens",
+              "ca": "La CGT i la Carta d'Amiens"
+            }
+          },
+          {
+            "fr": "En France, la Confédération générale du travail (CGT), fondée en 1895, adopte en 1906 la fameuse « Charte d'Amiens », qui proclame l'indépendance totale du syndicat vis-à-vis des partis politiques : le syndicat doit rester l'outil de tous les travailleurs, quelles que soient leurs opinions, unis par leur seule condition de classe.",
+            "es": "En Francia, la Confederación General del Trabajo (CGT), fundada en 1895, adopta en 1906 la famosa «Carta de Amiens», que proclama la independencia total del sindicato respecto a los partidos políticos: el sindicato debe seguir siendo la herramienta de todos los trabajadores, sean cuales sean sus opiniones, unidos únicamente por su condición de clase.",
+            "ca": "A França, la Confederació General del Treball (CGT), fundada el 1895, adopta el 1906 la famosa «Carta d'Amiens», que proclama la independència total del sindicat respecte als partits polítics: el sindicat ha de continuar sent l'eina de tots els treballadors, siguin quines siguin les seves opinions, units únicament per la seva condició de classe."
+          },
+          {
+            "h": {
+              "fr": "Les Wobblies américains",
+              "es": "Los Wobblies americanos",
+              "ca": "Els Wobblies americans"
+            }
+          },
+          {
+            "fr": "Aux États-Unis, l'Industrial Workers of the World (IWW), fondé en 1905 et surnommé les « Wobblies », se distingue par son slogan « An injury to one is an injury to all » et par son ambition d'organiser « un seul grand syndicat » regroupant tous les métiers, y compris les travailleurs migrants et non qualifiés que les syndicats traditionnels refusaient souvent. Confrontés à une répression très dure — arrestations, lynchages, lois anti-syndicales — les Wobblies déclinent après la Première Guerre mondiale, mais restent un symbole culturel fort du syndicalisme radical.",
+            "es": "En Estados Unidos, la Industrial Workers of the World (IWW), fundada en 1905 y apodada los «Wobblies», se distingue por su lema «An injury to one is an injury to all» (un daño a uno es un daño a todos) y por su ambición de organizar «un solo gran sindicato» que agrupe todos los oficios, incluidos los trabajadores migrantes y no cualificados que los sindicatos tradicionales solían rechazar. Enfrentados a una represión muy dura —arrestos, linchamientos, leyes antisindicales—, los Wobblies declinan tras la Primera Guerra Mundial, pero siguen siendo un símbolo cultural fuerte del sindicalismo radical.",
+            "ca": "Als Estats Units, la Industrial Workers of the World (IWW), fundada el 1905 i anomenada els «Wobblies», es distingeix pel seu lema «An injury to one is an injury to all» (un dany a un és un dany a tots) i per la seva ambició d'organitzar «un sol gran sindicat» que agrupi tots els oficis, inclosos els treballadors migrants i no qualificats que els sindicats tradicionals solien rebutjar. Enfrontats a una repressió molt dura —arrestos, linxaments, lleis antisindicals—, els Wobblies declinen després de la Primera Guerra Mundial, però continuen sent un símbol cultural fort del sindicalisme radical."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Les grands théoriciens du 19e siècle — Proudhon, Bakounine, Kropotkine — élaborent des visions détaillées de la société post-capitaliste, mais laissent relativement ouverte la question centrale de la stratégie : comment, concrètement, passer de la société actuelle à cette société libérée ? L'anarcho-syndicalisme, qui se développe surtout à partir des années 1890-1900, apporte une réponse précise à cette question en plaçant le syndicat de travailleurs — et non le parti politique ni l'insurrection spontanée — au centre du processus révolutionnaire.",
+            "es": "Los grandes teóricos del siglo XIX —Proudhon, Bakunin, Kropotkin— elaboran visiones detalladas de la sociedad postcapitalista, pero dejan relativamente abierta la cuestión central de la estrategia: ¿cómo, concretamente, pasar de la sociedad actual a esa sociedad liberada? El anarcosindicalismo, que se desarrolla sobre todo a partir de los años 1890-1900, aporta una respuesta precisa a esta cuestión al situar el sindicato de trabajadores —y no el partido político ni la insurrección espontánea— en el centro del proceso revolucionario.",
+            "ca": "Els grans teòrics del segle XIX —Proudhon, Bakunin, Kropotkin— elaboren visions detallades de la societat postcapitalista, però deixen relativament oberta la qüestió central de l'estratègia: com, concretament, passar de la societat actual a aquesta societat alliberada? L'anarcosindicalisme, que es desenvolupa sobretot a partir dels anys 1890-1900, aporta una resposta precisa a aquesta qüestió situant el sindicat de treballadors —i no el partit polític ni la insurrecció espontània— al centre del procés revolucionari."
+          },
+
+
+          {
+            "h": {
+              "fr": "L'action directe plutôt que les élections",
+              "es": "La acción directa en lugar de las elecciones",
+              "ca": "L'acció directa en comptes de les eleccions"
+            }
+          },
+          {
+            "fr": "Le principe fondamental est le rejet de la voie électorale et parlementaire, jugée structurellement corruptrice : un élu, même sincère au départ, se retrouve pris dans les logiques institutionnelles (carrière, compromis, dépendance à l'appareil du parti) qui finissent par le couper de sa base sociale. À la place, les anarcho-syndicalistes prônent l'« action directe », un répertoire tactique large qui va de la grève classique au sabotage discret des machines, en passant par le boycott de produits ou le « freinage » — un ralentissement délibéré et difficile à prouver du rythme de travail.",
+            "es": "El principio fundamental es el rechazo de la vía electoral y parlamentaria, considerada estructuralmente corruptora: un electo, aunque sincero al principio, acaba atrapado en las lógicas institucionales (carrera, compromiso, dependencia del aparato del partido) que terminan por desconectarlo de su base social. En su lugar, los anarcosindicalistas defienden la «acción directa», un repertorio táctico amplio que va desde la huelga clásica hasta el sabotaje discreto de las máquinas, pasando por el boicot de productos o el «frenado» —una ralentización deliberada y difícil de probar del ritmo de trabajo.",
+            "ca": "El principi fonamental és el rebuig de la via electoral i parlamentària, considerada estructuralment corruptora: un elegit, encara que sincer al principi, acaba atrapat en les lògiques institucionals (carrera, compromís, dependència de l'aparell del partit) que acaben desconnectant-lo de la seva base social. En el seu lloc, els anarcosindicalistes defensen l'«acció directa», un repertori tàctic ampli que va des de la vaga clàssica fins al sabotatge discret de les màquines, passant pel boicot de productes o el «frenat» —una ralentització deliberada i difícil de provar del ritme de treball."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bakery%20Workers%20Union%20Local%2046%2C%20IWW%20(Industrial%20Workers%20of%20the%20World)%20sign%20and%20Hebrew%20language%20sign%20in%20New%20York%20City%20parade%20participants%20holding%20aloft%20a%20loaf%20of%20bread%20on%20May%201%2C%201908%20-%20LCCN2014680338%20(cropped).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Industrial_Workers_of_the_World",
+              "credit": {
+                "es": "Desfile del 1 de mayo de 1908 con miembros del sindicato IWW, Nueva York — Wikimedia Commons.",
+                "ca": "Desfilada de l'1 de maig de 1908 amb membres del sindicat IWW, Nova York — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "L'objectif final reste la grève générale révolutionnaire : un arrêt total et simultané du travail, dans tous les secteurs, qui rendrait le fonctionnement du capitalisme matériellement impossible et permettrait aux travailleurs de prendre directement le contrôle des moyens de production — sans passer par la conquête préalable de l'État.",
+            "es": "El objetivo final sigue siendo la huelga general revolucionaria: una parada total y simultánea del trabajo, en todos los sectores, que haría materialmente imposible el funcionamiento del capitalismo y permitiría a los trabajadores tomar directamente el control de los medios de producción —sin pasar por la conquista previa del Estado.",
+            "ca": "L'objectiu final continua sent la vaga general revolucionària: una aturada total i simultània del treball, en tots els sectors, que faria materialment impossible el funcionament del capitalisme i permetria als treballadors prendre directament el control dels mitjans de producció —sense passar per la conquesta prèvia de l'Estat."
+          },
+          {
+            "h": {
+              "fr": "La CGT et la Charte d'Amiens",
+              "es": "La CGT y la Carta de Amiens",
+              "ca": "La CGT i la Carta d'Amiens"
+            }
+          },
+          {
+            "fr": "En France, la Confédération générale du travail (CGT), fondée en 1895, devient le laboratoire principal de cette stratégie en Europe occidentale. Son congrès d'Amiens en 1906 adopte une charte fondatrice qui affirme l'indépendance totale du syndicalisme vis-à-vis des partis politiques et des courants religieux : le syndicat doit demeurer l'outil de tous les travailleurs, quelles que soient leurs opinions individuelles, unis par leur seule condition de classe — un principe, dit de la « double besogne », qui distingue l'activité syndicale quotidienne (revendications immédiates) de son objectif révolutionnaire à long terme (l'expropriation du capital par la grève générale).",
+            "es": "En Francia, la Confederación General del Trabajo (CGT), fundada en 1895, se convierte en el principal laboratorio de esta estrategia en Europa occidental. Su congreso de Amiens en 1906 adopta una carta fundadora que afirma la independencia total del sindicalismo respecto a los partidos políticos y las corrientes religiosas: el sindicato debe seguir siendo la herramienta de todos los trabajadores, sean cuales sean sus opiniones individuales, unidos únicamente por su condición de clase —un principio, llamado de la «doble tarea», que distingue la actividad sindical cotidiana (reivindicaciones inmediatas) de su objetivo revolucionario a largo plazo (la expropiación del capital mediante la huelga general).",
+            "ca": "A França, la Confederació General del Treball (CGT), fundada el 1895, esdevé el principal laboratori d'aquesta estratègia a l'Europa occidental. El seu congrés d'Amiens el 1906 adopta una carta fundadora que afirma la independència total del sindicalisme respecte als partits polítics i els corrents religiosos: el sindicat ha de continuar sent l'eina de tots els treballadors, siguin quines siguin les seves opinions individuals, units únicament per la seva condició de classe —un principi, dit de la «doble tasca», que distingeix l'activitat sindical quotidiana (reivindicacions immediates) del seu objectiu revolucionari a llarg termini (l'expropiació del capital mitjançant la vaga general)."
+          },
+          {
+            "h": {
+              "fr": "Les Wobblies américains",
+              "es": "Los Wobblies americanos",
+              "ca": "Els Wobblies americans"
+            }
+          },
+          {
+            "fr": "Aux États-Unis, l'Industrial Workers of the World (IWW), fondé en 1905 à Chicago et surnommé les « Wobblies », pousse la logique syndicale plus loin encore avec le projet du « One Big Union » (un seul grand syndicat) : organiser tous les travailleurs, quel que soit leur métier, leur origine ethnique ou leur statut migratoire, dans une structure industrielle unique plutôt que dans des syndicats de métiers séparés — une approche particulièrement inclusive pour l'époque, incluant activement les travailleuses, les migrants et les travailleurs noirs souvent exclus des syndicats traditionnels de l'American Federation of Labor.",
+            "es": "En Estados Unidos, la Industrial Workers of the World (IWW), fundada en 1905 en Chicago y apodada los «Wobblies», lleva la lógica sindical todavía más lejos con el proyecto del «One Big Union» (un solo gran sindicato): organizar a todos los trabajadores, cualquiera que sea su oficio, su origen étnico o su estatus migratorio, en una estructura industrial única en lugar de sindicatos de oficios separados —un enfoque particularmente inclusivo para la época, que incluía activamente a las trabajadoras, los migrantes y los trabajadores negros a menudo excluidos de los sindicatos tradicionales de la American Federation of Labor.",
+            "ca": "Als Estats Units, la Industrial Workers of the World (IWW), fundada el 1905 a Chicago i anomenada els «Wobblies», porta la lògica sindical encara més lluny amb el projecte del «One Big Union» (un sol gran sindicat): organitzar tots els treballadors, sigui quin sigui el seu ofici, el seu origen ètnic o el seu estatus migratori, en una estructura industrial única en comptes de sindicats d'oficis separats —un enfocament particularment inclusiu per a l'època, que incloïa activament les treballadores, els migrants i els treballadors negres sovint exclosos dels sindicats tradicionals de l'American Federation of Labor."
+          },
+          {
+            "fr": "Confrontés à une répression étatique et patronale d'une violence extrême — assassinats de militants comme le chanteur Joe Hill (exécuté en 1915 dans un procès contesté), lynchages, lois de « criminal syndicalism » votées dans plusieurs États pour interdire de facto leur existence, et une vague d'arrestations massives lors de la « Peur rouge » de 1919-1920 — les Wobblies déclinent fortement après la Première Guerre mondiale, mais l'organisation continue d'exister aujourd'hui, à une échelle bien plus modeste, et demeure une référence culturelle et musicale importante du syndicalisme radical, à travers notamment son célèbre recueil de chants, le « Little Red Songbook ».",
+            "es": "Enfrentados a una represión estatal y patronal de una violencia extrema —asesinatos de militantes como el cantante Joe Hill (ejecutado en 1915 en un juicio disputado), linchamientos, leyes de «criminal syndicalism» votadas en varios estados para prohibir de facto su existencia, y una oleada de arrestos masivos durante el «Miedo Rojo» de 1919-1920—, los Wobblies declinan fuertemente tras la Primera Guerra Mundial, pero la organización sigue existiendo hoy, a una escala mucho más modesta, y sigue siendo una referencia cultural y musical importante del sindicalismo radical, especialmente a través de su célebre cancionero, el «Little Red Songbook».",
+            "ca": "Enfrontats a una repressió estatal i patronal d'una violència extrema —assassinats de militants com el cantant Joe Hill (executat el 1915 en un judici disputat), linxaments, lleis de «criminal syndicalism» votades en diversos estats per prohibir de facto la seva existència, i una onada d'arrestos massius durant la «Por Roja» de 1919-1920—, els Wobblies declinen fortament després de la Primera Guerra Mundial, però l'organització continua existint avui, a una escala molt més modesta, i continua sent una referència cultural i musical important del sindicalisme radical, especialment a través del seu cèlebre cançoner, el «Little Red Songbook»."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'action directe",
+          "es": "la acción directa",
+          "ca": "l'acció directa"
+        },
+        {
+          "mot": "le sabotage",
+          "es": "el sabotaje",
+          "ca": "el sabotatge"
+        },
+        {
+          "mot": "une grève générale",
+          "es": "una huelga general",
+          "ca": "una vaga general"
+        },
+        {
+          "mot": "un(e) élu(e)",
+          "es": "un/a electo/a",
+          "ca": "un/a elegit/da"
+        },
+        {
+          "mot": "l'expropriation",
+          "es": "la expropiación",
+          "ca": "l'expropiació"
+        },
+        {
+          "mot": "réprimer (une répression)",
+          "es": "reprimir (una represión)",
+          "ca": "reprimir (una repressió)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿En qué se diferencia el anarcosindicalismo de teóricos como Bakunin o Kropotkin?",
+            "ca": "En què es diferencia l'anarcosindicalisme dels teòrics com Bakunin o Kropotkin?"
+          },
+          "piste": {
+            "es": "es sobre todo una estrategia concreta (el sindicato), no solo una visión de la sociedad",
+            "ca": "és sobretot una estratègia concreta (el sindicat), no només una visió de la societat"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «acción directa»?",
+            "ca": "Què és l'«acció directa»?"
+          },
+          "piste": {
+            "es": "huelgas, sabotaje, boicot, sin pasar por elecciones o políticos",
+            "ca": "vagues, sabotatge, boicot, sense passar per eleccions o polítics"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué proclama la Carta de Amiens de 1906?",
+            "ca": "Què proclama la Carta d'Amiens de 1906?"
+          },
+          "piste": {
+            "es": "la independencia total del sindicato respecto a los partidos políticos",
+            "ca": "la independència total del sindicat respecte als partits polítics"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué proyecto defiende la IWW estadounidense, y a quién incluye activamente?",
+            "ca": "Quin projecte defensa la IWW nord-americana, i a qui inclou activament?"
+          },
+          "piste": {
+            "es": "el «One Big Union»; a migrantes, mujeres y trabajadores negros",
+            "ca": "el «One Big Union»; a migrants, dones i treballadors negres"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Anarcho-syndicalism",
+          "url": "https://en.wikipedia.org/wiki/Anarcho-syndicalism"
+        },
+        {
+          "titre": "Wikipedia — Industrial Workers of the World",
+          "url": "https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World"
+        }
+      ]
+    }
+  ]
+}

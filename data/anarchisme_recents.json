@@ -1,0 +1,264 @@
+{
+  "textes": [
+    {
+      "id": "zapatistes_occupy_recents",
+      "emoji": "✊🏽",
+      "theme": "Politique",
+      "periode": "1994 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Subcomandante%20Marcos.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Subcomandante_Marcos.jpg",
+        "credit": {
+          "es": "El subcomandante Marcos, portavoz del EZLN — Wikimedia Commons.",
+          "ca": "El subcomandant Marcos, portaveu de l'EZLN — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Movimientos recientes: zapatistas y Occupy",
+        "ca": "Moviments recents: zapatistes i Occupy"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Le 1er janvier 1994, un groupe indigène masqué se soulève dans le Chiapas, au Mexique. Ils s'appellent les zapatistes (EZLN).",
+            "es": "El 1 de enero de 1994, un grupo indígena enmascarado se levanta en Chiapas, México. Se llaman zapatistas (EZLN).",
+            "ca": "L'1 de gener de 1994, un grup indígena emmascarat s'aixeca a Chiapas, Mèxic. Es diuen zapatistes (EZLN)."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Subcomandante%20Marcos.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Subcomandante_Marcos.jpg",
+              "credit": {
+                "es": "El subcomandante Marcos, portavoz del EZLN — Wikimedia Commons.",
+                "ca": "El subcomandant Marcos, portaveu de l'EZLN — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Leur porte-parole, le Sous-commandant Marcos, porte toujours un masque noir. Les zapatistes défendent les droits des peuples mayas.",
+            "es": "Su portavoz, el Subcomandante Marcos, siempre lleva una máscara negra. Los zapatistas defienden los derechos de los pueblos mayas.",
+            "ca": "El seu portaveu, el Subcomandant Marcos, sempre porta una màscara negra. Els zapatistes defensen els drets dels pobles maies."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zapatista%20Army%20of%20National%20Liberation%20(EZLN)%20graffiti%20in%20Chiapas%2C%20Mexico.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Zapatista_Army_of_National_Liberation_(EZLN)_graffiti_in_Chiapas,_Mexico.jpg",
+              "credit": {
+                "es": "Graffiti zapatista en Chiapas, México — Wikimedia Commons.",
+                "ca": "Grafit zapatista a Chiapas, Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Aujourd'hui encore, les zapatistes contrôlent des villages au Chiapas. Ils s'organisent sans État, avec des conseils locaux.",
+            "es": "Todavía hoy, los zapatistas controlan pueblos en Chiapas. Se organizan sin Estado, con consejos locales.",
+            "ca": "Encara avui, els zapatistes controlen pobles a Chiapas. S'organitzen sense Estat, amb consells locals."
+          },
+          {
+            "fr": "En 2011, un autre mouvement, Occupy Wall Street, commence à New York. Des gens campent pour protester contre les inégalités.",
+            "es": "En 2011, otro movimiento, Occupy Wall Street, empieza en Nueva York. La gente acampa para protestar contra las desigualdades.",
+            "ca": "El 2011, un altre moviment, Occupy Wall Street, comença a Nova York. La gent acampa per protestar contra les desigualtats."
+          },
+          {
+            "fr": "Occupy n'a pas de chef. Les décisions se prennent en grandes assemblées, avec des gestes de mains pour voter.",
+            "es": "Occupy no tiene jefe. Las decisiones se toman en grandes asambleas, con gestos de manos para votar.",
+            "ca": "Occupy no té cap. Les decisions es prenen en grans assemblees, amb gestos de mans per votar."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le 1er janvier 1994, le jour même de l'entrée en vigueur de l'accord de libre-échange nord-américain (ALENA), l'Armée zapatiste de libération nationale (EZLN) prend plusieurs villes du Chiapas, dans le sud du Mexique. Ce n'est pas une coïncidence : les zapatistes dénoncent l'ALENA comme une menace pour les terres et les modes de vie indigènes.",
+            "es": "El 1 de enero de 1994, el mismo día de la entrada en vigor del tratado de libre comercio norteamericano (TLCAN), el Ejército Zapatista de Liberación Nacional (EZLN) toma varias ciudades de Chiapas, en el sur de México. No es una coincidencia: los zapatistas denuncian el TLCAN como una amenaza para las tierras y los modos de vida indígenas.",
+            "ca": "L'1 de gener de 1994, el mateix dia de l'entrada en vigor del tractat de lliure comerç nord-americà (TLCAN), l'Exèrcit Zapatista d'Alliberament Nacional (EZLN) pren diverses ciutats de Chiapas, al sud de Mèxic. No és una coincidència: els zapatistes denuncien el TLCAN com una amenaça per a les terres i les maneres de viure indígenes."
+          },
+          {
+            "h": {
+              "fr": "Un mouvement maya, pas seulement anarchiste",
+              "es": "Un movimiento maya, no solo anarquista",
+              "ca": "Un moviment maia, no només anarquista"
+            }
+          },
+          {
+            "fr": "Le mouvement, dirigé politiquement par des communautés mayas et représenté publiquement par le Sous-commandant Marcos (toujours masqué, pour incarner un « nous » collectif plutôt qu'un chef individuel), n'est pas officiellement anarchiste, mais partage avec l'anarchisme le rejet de la prise du pouvoir d'État et une organisation profondément horizontale.",
+            "es": "El movimiento, dirigido políticamente por comunidades mayas y representado públicamente por el Subcomandante Marcos (siempre enmascarado, para encarnar un «nosotros» colectivo en lugar de un jefe individual), no es oficialmente anarquista, pero comparte con el anarquismo el rechazo a la toma del poder estatal y una organización profundamente horizontal.",
+            "ca": "El moviment, dirigit políticament per comunitats maies i representat públicament pel Subcomandant Marcos (sempre emmascarat, per encarnar un «nosaltres» col·lectiu en comptes d'un cap individual), no és oficialment anarquista, però comparteix amb l'anarquisme el rebuig a la presa del poder estatal i una organització profundament horitzontal."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zapatista%20Army%20of%20National%20Liberation%20(EZLN)%20graffiti%20in%20Chiapas%2C%20Mexico.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Zapatista_Army_of_National_Liberation_(EZLN)_graffiti_in_Chiapas,_Mexico.jpg",
+              "credit": {
+                "es": "Graffiti zapatista en Chiapas, México — Wikimedia Commons.",
+                "ca": "Grafit zapatista a Chiapas, Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Après des négociations ratées avec le gouvernement mexicain, les zapatistes choisissent de construire leur autonomie sur le terrain plutôt que de continuer le combat armé : des « caracoles » (conseils de bon gouvernement) administrent aujourd'hui des dizaines de municipalités autonomes, avec écoles, cliniques et coopératives gérées collectivement, sans reconnaissance officielle de l'État mexicain.",
+            "es": "Tras fracasadas negociaciones con el gobierno mexicano, los zapatistas eligen construir su autonomía sobre el terreno en lugar de continuar el combate armado: unos «caracoles» (consejos de buen gobierno) administran hoy decenas de municipios autónomos, con escuelas, clínicas y cooperativas gestionadas colectivamente, sin reconocimiento oficial del Estado mexicano.",
+            "ca": "Després de negociacions fracassades amb el govern mexicà, els zapatistes trien construir la seva autonomia sobre el terreny en comptes de continuar el combat armat: uns «caragols» (consells de bon govern) administren avui desenes de municipis autònoms, amb escoles, clíniques i cooperatives gestionades col·lectivament, sense reconeixement oficial de l'Estat mexicà."
+          },
+          {
+            "h": {
+              "fr": "Occupy Wall Street",
+              "es": "Occupy Wall Street",
+              "ca": "Occupy Wall Street"
+            }
+          },
+          {
+            "fr": "En septembre 2011, dans le sillage de la crise financière de 2008, des militants occupent Zuccotti Park près de Wall Street à New York, sous le slogan « Nous sommes les 99% », dénonçant les inégalités extrêmes entre une minorité de très riches et le reste de la population.",
+            "es": "En septiembre de 2011, en la estela de la crisis financiera de 2008, unos militantes ocupan Zuccotti Park cerca de Wall Street en Nueva York, bajo el lema «Somos el 99%», denunciando las desigualdades extremas entre una minoría de muy ricos y el resto de la población.",
+            "ca": "El setembre del 2011, en l'estela de la crisi financera del 2008, uns militants ocupen Zuccotti Park a prop de Wall Street a Nova York, sota el lema «Som el 99%», denunciant les desigualtats extremes entre una minoria de molt rics i la resta de la població."
+          },
+          {
+            "fr": "Le mouvement fonctionne sans porte-parole ni leader officiel, par assemblées générales où chacun peut prendre la parole, avec des gestes de mains codifiés pour voter sans applaudir (le bruit gênant la discussion). Il se répand rapidement dans des centaines de villes à travers le monde, avant de décliner progressivement, en partie à cause d'évacuations policières et de l'absence de revendications précises et unifiées.",
+            "es": "El movimiento funciona sin portavoz ni líder oficial, mediante asambleas generales donde cualquiera puede tomar la palabra, con gestos de manos codificados para votar sin aplaudir (el ruido dificulta la discusión). Se extiende rápidamente por cientos de ciudades en todo el mundo, antes de declinar progresivamente, en parte debido a desalojos policiales y a la ausencia de reivindicaciones precisas y unificadas.",
+            "ca": "El moviment funciona sense portaveu ni líder oficial, mitjançant assemblees generals on qualsevol pot prendre la paraula, amb gestos de mans codificats per votar sense aplaudir (el soroll dificulta la discussió). S'estén ràpidament per centenars de ciutats arreu del món, abans de declinar progressivament, en part a causa de desallotjaments policials i de l'absència de reivindicacions precises i unificades."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le 1er janvier 1994, jour même de l'entrée en vigueur de l'Accord de libre-échange nord-américain (ALENA), l'Armée zapatiste de libération nationale (EZLN) prend par surprise plusieurs villes du Chiapas, dans le sud du Mexique, dont San Cristóbal de las Casas. Ce timing n'est pas fortuit : les zapatistes voient dans l'ALENA une menace directe pour les terres communales indigènes, dont la protection constitutionnelle venait d'être affaiblie par une réforme controversée quelques mois plus tôt.",
+            "es": "El 1 de enero de 1994, el mismo día de la entrada en vigor del Tratado de Libre Comercio de América del Norte (TLCAN), el Ejército Zapatista de Liberación Nacional (EZLN) toma por sorpresa varias ciudades de Chiapas, en el sur de México, entre ellas San Cristóbal de las Casas. Este momento no es fortuito: los zapatistas ven en el TLCAN una amenaza directa para las tierras comunales indígenas, cuya protección constitucional acababa de ser debilitada por una reforma controvertida pocos meses antes.",
+
+
+            "ca": "L'1 de gener de 1994, el mateix dia de l'entrada en vigor del Tractat de Lliure Comerç d'Amèrica del Nord (TLCAN), l'Exèrcit Zapatista d'Alliberament Nacional (EZLN) pren per sorpresa diverses ciutats de Chiapas, al sud de Mèxic, entre elles San Cristóbal de las Casas. Aquest moment no és fortuït: els zapatistes veuen en el TLCAN una amenaça directa per a les terres comunals indígenes, la protecció constitucional de les quals acabava de ser afeblida per una reforma controvertida pocs mesos abans."
+          },
+          {
+            "h": {
+              "fr": "Un mouvement maya, pas seulement anarchiste",
+              "es": "Un movimiento maya, no solo anarquista",
+              "ca": "Un moviment maia, no només anarquista"
+            }
+          },
+          {
+            "fr": "Bien que le mouvement soit souvent associé à son porte-parole médiatique, le Sous-commandant Marcos — intellectuel non-indigène venu rejoindre la guérilla, toujours masqué pour dissoudre son individualité dans un « nous » collectif — la direction politique réelle appartient au Comité clandestin révolutionnaire indigène, composé de représentants des communautés mayas tzotzil, tzeltal, tojolabal et choles. Le mouvement articule ainsi des revendications indigènes spécifiques (terre, langue, autonomie culturelle) à une critique plus large du néolibéralisme et du pouvoir étatique, sans jamais chercher à prendre le pouvoir national.",
+            "es": "Aunque el movimiento se asocia a menudo con su portavoz mediático, el Subcomandante Marcos —intelectual no indígena que se unió a la guerrilla, siempre enmascarado para disolver su individualidad en un «nosotros» colectivo—, la dirección política real pertenece al Comité Clandestino Revolucionario Indígena, compuesto por representantes de las comunidades mayas tzotzil, tzeltal, tojolabal y chol. El movimiento articula así reivindicaciones indígenas específicas (tierra, lengua, autonomía cultural) con una crítica más amplia del neoliberalismo y del poder estatal, sin buscar nunca tomar el poder nacional.",
+            "ca": "Encara que el moviment s'associa sovint amb el seu portaveu mediàtic, el Subcomandant Marcos —intel·lectual no indígena que es va unir a la guerrilla, sempre emmascarat per dissoldre la seva individualitat en un «nosaltres» col·lectiu—, la direcció política real pertany al Comitè Clandestí Revolucionari Indígena, compost per representants de les comunitats maies tzotzil, tzeltal, tojolabal i chol. El moviment articula així reivindicacions indígenes específiques (terra, llengua, autonomia cultural) amb una crítica més àmplia del neoliberalisme i del poder estatal, sense buscar mai prendre el poder nacional."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zapatista%20Army%20of%20National%20Liberation%20(EZLN)%20graffiti%20in%20Chiapas%2C%20Mexico.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Zapatista_Army_of_National_Liberation_(EZLN)_graffiti_in_Chiapas,_Mexico.jpg",
+              "credit": {
+                "es": "Graffiti zapatista en Chiapas, México — Wikimedia Commons.",
+                "ca": "Grafit zapatista a Chiapas, Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Après l'échec des accords de San Andrés (1996), jamais appliqués par l'État mexicain, les zapatistes abandonnent progressivement la voie de la négociation officielle pour construire une autonomie concrète sur le terrain : depuis 2003, des « caracoles » (littéralement « escargots », symbole de la spirale et de la lenteur assumée) organisent des Conseils de bon gouvernement qui administrent des dizaines de municipalités autonomes — écoles bilingues, cliniques de santé communautaire, systèmes de justice locale et coopératives agricoles — sans reconnaissance officielle, mais avec une remarquable stabilité institutionnelle depuis maintenant trois décennies.",
+            "es": "Tras el fracaso de los Acuerdos de San Andrés (1996), nunca aplicados por el Estado mexicano, los zapatistas abandonan progresivamente la vía de la negociación oficial para construir una autonomía concreta sobre el terreno: desde 2003, unos «caracoles» (literalmente «caracoles», símbolo de la espiral y la lentitud asumida) organizan Consejos de Buen Gobierno que administran decenas de municipios autónomos —escuelas bilingües, clínicas de salud comunitaria, sistemas de justicia local y cooperativas agrícolas— sin reconocimiento oficial, pero con una notable estabilidad institucional desde hace ya tres décadas.",
+            "ca": "Després del fracàs dels Acords de San Andrés (1996), mai aplicats per l'Estat mexicà, els zapatistes abandonen progressivament la via de la negociació oficial per construir una autonomia concreta sobre el terreny: des del 2003, uns «caragols» (literalment «cargols», símbol de l'espiral i la lentitud assumida) organitzen Consells de Bon Govern que administren desenes de municipis autònoms —escoles bilingües, clíniques de salut comunitària, sistemes de justícia local i cooperatives agrícoles— sense reconeixement oficial, però amb una notable estabilitat institucional des de fa ja tres dècades."
+          },
+          {
+            "h": {
+              "fr": "Occupy Wall Street : l'horizontalité à l'épreuve",
+              "es": "Occupy Wall Street: la horizontalidad a prueba",
+              "ca": "Occupy Wall Street: l'horitzontalitat a prova"
+            }
+          },
+          {
+            "fr": "En septembre 2011, dans le sillage prolongé de la crise financière de 2008 et inspirés en partie par le Printemps arabe et le mouvement des Indignados espagnols, des militants occupent Zuccotti Park près de Wall Street, sous le slogan devenu emblématique « Nous sommes les 99% », qui dénonce la concentration extrême des richesses entre les mains d'une infime minorité.",
+            "es": "En septiembre de 2011, en la estela prolongada de la crisis financiera de 2008 e inspirados en parte por la Primavera Árabe y el movimiento de los Indignados españoles, unos militantes ocupan Zuccotti Park cerca de Wall Street, bajo el lema convertido en emblemático «Somos el 99%», que denuncia la concentración extrema de la riqueza en manos de una ínfima minoría.",
+            "ca": "El setembre del 2011, en l'estela prolongada de la crisi financera del 2008 i inspirats en part per la Primavera Àrab i el moviment dels Indignats espanyols, uns militants ocupen Zuccotti Park a prop de Wall Street, sota el lema esdevingut emblemàtic «Som el 99%», que denuncia la concentració extrema de la riquesa en mans d'una ínfima minoria."
+          },
+          {
+            "fr": "Fidèle à une éthique directement héritée de la tradition anarchiste, le mouvement refuse tout porte-parole officiel ou structure de leadership : les décisions se prennent en assemblées générales ouvertes, où chacun peut s'exprimer, avec un système de gestes de mains codifiés (le « human microphone », où la foule répète les paroles de l'orateur faute de sonorisation autorisée, et des signes silencieux pour approuver ou désapprouver sans interrompre le débat).",
+            "es": "Fiel a una ética directamente heredada de la tradición anarquista, el movimiento rechaza todo portavoz oficial o estructura de liderazgo: las decisiones se toman en asambleas generales abiertas, donde cualquiera puede expresarse, con un sistema de gestos de manos codificados (el «micrófono humano», donde la multitud repite las palabras del orador ante la falta de sonorización autorizada, y señales silenciosas para aprobar o desaprobar sin interrumpir el debate).",
+            "ca": "Fidel a una ètica directament heretada de la tradició anarquista, el moviment rebutja tot portaveu oficial o estructura de lideratge: les decisions es prenen en assemblees generals obertes, on qualsevol es pot expressar, amb un sistema de gestos de mans codificats (el «micròfon humà», on la multitud repeteix les paraules de l'orador davant la manca de sonorització autoritzada, i senyals silencioses per aprovar o desaprovar sense interrompre el debat)."
+          },
+          {
+            "fr": "Le mouvement essaime rapidement dans des centaines de villes à travers le monde durant l'automne 2011, avant de décliner face à des évacuations policières coordonnées et à des critiques internes récurrentes sur l'absence de revendications précises — un débat classique entre horizontalité radicale et efficacité politique qui traverse tout l'anarchisme contemporain, des ZAD françaises au Rojava. Son héritage reste néanmoins réel : le slogan des « 99% » a durablement marqué le débat public sur les inégalités, et plusieurs figures du mouvement se retrouvent ensuite actives dans des campagnes politiques ou syndicales aux États-Unis.",
+            "es": "El movimiento se propaga rápidamente a cientos de ciudades por todo el mundo durante el otoño de 2011, antes de declinar ante desalojos policiales coordinados y críticas internas recurrentes sobre la ausencia de reivindicaciones precisas —un debate clásico entre horizontalidad radical y eficacia política que atraviesa todo el anarquismo contemporáneo, desde las ZAD francesas hasta Rojava. Su legado sigue siendo real: el lema del «99%» ha marcado duraderamente el debate público sobre las desigualdades, y varias figuras del movimiento se encuentran después activas en campañas políticas o sindicales en Estados Unidos.",
+            "ca": "El moviment es propaga ràpidament a centenars de ciutats arreu del món durant la tardor del 2011, abans de declinar davant desallotjaments policials coordinats i crítiques internes recurrents sobre l'absència de reivindicacions precises —un debat clàssic entre horitzontalitat radical i eficàcia política que travessa tot l'anarquisme contemporani, des de les ZAD franceses fins a Rojava. El seu llegat continua sent real: el lema del «99%» ha marcat duradorament el debat públic sobre les desigualtats, i diverses figures del moviment es troben després actives en campanyes polítiques o sindicals als Estats Units."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une autonomie",
+          "es": "una autonomía",
+          "ca": "una autonomia"
+        },
+        {
+          "mot": "une occupation (de terrain)",
+          "es": "una ocupación (de terreno)",
+          "ca": "una ocupació (de terreny)"
+        },
+        {
+          "mot": "une assemblée générale",
+          "es": "una asamblea general",
+          "ca": "una assemblea general"
+        },
+        {
+          "mot": "un(e) porte-parole",
+          "es": "un/a portavoz",
+          "ca": "un/a portaveu"
+        },
+        {
+          "mot": "un désaccord (interne)",
+          "es": "un desacuerdo (interno)",
+          "ca": "un desacord (intern)"
+        },
+        {
+          "mot": "essaimer (se répandre)",
+          "es": "propagarse",
+          "ca": "propagar-se"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué día se levanta el EZLN, y por qué esa fecha no es casual?",
+            "ca": "Quin dia s'aixeca l'EZLN, i per què aquesta data no és casual?"
+          },
+          "piste": {
+            "es": "el 1 de enero de 1994, el mismo día de entrada en vigor del TLCAN",
+            "ca": "l'1 de gener de 1994, el mateix dia d'entrada en vigor del TLCAN"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué son los «caracoles» zapatistas?",
+            "ca": "Què són els «caragols» zapatistes?"
+          },
+          "piste": {
+            "es": "consejos de buen gobierno que administran municipios autónomos",
+            "ca": "consells de bon govern que administren municipis autònoms"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es el lema emblemático de Occupy Wall Street?",
+            "ca": "Quin és el lema emblemàtic d'Occupy Wall Street?"
+          },
+          "piste": {
+            "es": "«Somos el 99%»",
+            "ca": "«Som el 99%»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo toma decisiones Occupy sin líder oficial?",
+            "ca": "Com pren decisions Occupy sense líder oficial?"
+          },
+          "piste": {
+            "es": "en asambleas generales abiertas con gestos de manos codificados",
+            "ca": "en assemblees generals obertes amb gestos de mans codificats"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Zapatista Army of National Liberation",
+          "url": "https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation"
+        },
+        {
+          "titre": "Wikipedia — Occupy Wall Street",
+          "url": "https://en.wikipedia.org/wiki/Occupy_Wall_Street"
+        }
+      ]
+    }
+  ]
+}

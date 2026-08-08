@@ -1,0 +1,253 @@
+{
+  "textes": [
+    {
+      "id": "primitivisme_zerzan",
+      "emoji": "🌲",
+      "theme": "Politique",
+      "periode": "1988 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+        "credit": {
+          "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+          "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El primitivismo: John Zerzan contra la civilización",
+        "ca": "El primitivisme: John Zerzan contra la civilització"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Tu te souviens qu'on a parlé de Murray Bookchin et de l'écologie sociale ? Il critiquait fortement un autre courant : le primitivisme.",
+            "es": "¿Te acuerdas de que hablamos de Murray Bookchin y la ecología social? Criticaba fuertemente otra corriente: el primitivismo.",
+            "ca": "Et recordes que vam parlar de Murray Bookchin i l'ecologia social? Criticava fortament un altre corrent: el primitivisme."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+              "credit": {
+                "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+                "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Le primitivisme est porté surtout par un Américain, John Zerzan. Il pense que la civilisation elle-même est le problème.",
+            "es": "El primitivismo es defendido sobre todo por un estadounidense, John Zerzan. Piensa que la propia civilización es el problema.",
+            "ca": "El primitivisme és defensat sobretot per un nord-americà, John Zerzan. Pensa que la mateixa civilització és el problema."
+          },
+          {
+            "fr": "Pour lui, même l'agriculture est une erreur : elle a créé la propriété, la hiérarchie et le travail forcé.",
+            "es": "Para él, incluso la agricultura es un error: creó la propiedad, la jerarquía y el trabajo forzado.",
+            "ca": "Per a ell, fins i tot l'agricultura és un error: va crear la propietat, la jerarquia i el treball forçat."
+          },
+          {
+            "fr": "Il pense qu'avant l'agriculture, les humains chasseurs-cueilleurs vivaient plus libres et plus égaux.",
+            "es": "Piensa que antes de la agricultura, los humanos cazadores-recolectores vivían más libres e iguales.",
+            "ca": "Pensa que abans de l'agricultura, els humans caçadors-recol·lectors vivien més lliures i iguals."
+          },
+          {
+            "fr": "En 1995, un homme appelé « Unabomber » envoie des colis piégés aux États-Unis. Il partage certaines idées de Zerzan.",
+            "es": "En 1995, un hombre llamado «Unabomber» envía paquetes bomba en Estados Unidos. Comparte algunas ideas de Zerzan.",
+            "ca": "El 1995, un home anomenat «Unabomber» envia paquets bomba als Estats Units. Comparteix algunes idees de Zerzan."
+          },
+          {
+            "fr": "Zerzan parle publiquement avec lui, sans jamais soutenir la violence. Ça crée une grande polémique autour de lui.",
+            "es": "Zerzan habla públicamente con él, sin apoyar nunca la violencia. Eso crea una gran polémica en torno a él.",
+            "ca": "Zerzan parla públicament amb ell, sense recolzar mai la violència. Això crea una gran polèmica al seu voltant."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le primitivisme, ou anarcho-primitivisme, émerge à la fin des années 1980 autour du travail de John Zerzan, un intellectuel américain qui publie en 1988 un premier recueil d'essais intitulé « Elements of Refusal ». Contrairement à la plupart des courants anarchistes, qui critiquent le capitalisme et l'État mais restent attachés à un certain progrès technique, Zerzan élargit sa critique à la civilisation elle-même.",
+            "es": "El primitivismo, o anarcoprimitivismo, emerge a finales de los años 1980 en torno a la obra de John Zerzan, un intelectual estadounidense que publica en 1988 una primera colección de ensayos titulada «Elements of Refusal». A diferencia de la mayoría de las corrientes anarquistas, que critican el capitalismo y el Estado pero siguen apegadas a cierto progreso técnico, Zerzan amplía su crítica a la propia civilización.",
+            "ca": "El primitivisme, o anarcoprimitivisme, emergeix a finals dels anys 1980 al voltant de l'obra de John Zerzan, un intel·lectual nord-americà que publica el 1988 una primera col·lecció d'assajos titulada «Elements of Refusal». A diferència de la majoria dels corrents anarquistes, que critiquen el capitalisme i l'Estat però continuen lligats a cert progrés tècnic, Zerzan amplia la seva crítica a la mateixa civilització."
+          },
+          {
+            "h": {
+              "fr": "L'agriculture comme origine du problème",
+              "es": "La agricultura como origen del problema",
+              "ca": "L'agricultura com a origen del problema"
+            }
+          },
+          {
+            "fr": "Sa thèse centrale, développée dans « Future Primitive » (1994), remonte l'origine de la domination bien avant le capitalisme ou même l'État : c'est l'adoption de l'agriculture, il y a environ 10 000 ans, qui aurait créé pour la première fois l'excédent alimentaire stockable, donc la propriété, donc la hiérarchie sociale et le travail contraint. Il critique également le langage symbolique et la mesure du temps comme des formes d'abstraction qui éloignent l'être humain d'un rapport direct et sensoriel au monde.",
+            "es": "Su tesis central, desarrollada en «Future Primitive» (1994), remonta el origen de la dominación mucho antes del capitalismo o incluso del Estado: fue la adopción de la agricultura, hace unos 10 000 años, la que habría creado por primera vez el excedente alimentario almacenable, y por tanto la propiedad, y por tanto la jerarquía social y el trabajo forzado. También critica el lenguaje simbólico y la medición del tiempo como formas de abstracción que alejan al ser humano de una relación directa y sensorial con el mundo.",
+            "ca": "La seva tesi central, desenvolupada a «Future Primitive» (1994), remunta l'origen de la dominació molt abans del capitalisme o fins i tot de l'Estat: va ser l'adopció de l'agricultura, fa uns 10.000 anys, la que hauria creat per primera vegada l'excedent alimentari emmagatzemable, i per tant la propietat, i per tant la jerarquia social i el treball forçat. També critica el llenguatge simbòlic i la mesura del temps com a formes d'abstracció que allunyen l'ésser humà d'una relació directa i sensorial amb el món."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+              "credit": {
+                "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+                "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La controverse de l'Unabomber",
+              "es": "La controversia del Unabomber",
+              "ca": "La controvèrsia de l'Unabomber"
+            }
+          },
+          {
+            "fr": "En 1995, Theodore Kaczynski, connu sous le nom d'« Unabomber », est arrêté après une campagne de colis piégés menée pendant près de 20 ans contre des scientifiques et des entrepreneurs, ayant fait trois morts. Son manifeste, qui critique la technologie industrielle en des termes proches de ceux de Zerzan, crée un lien médiatique embarrassant entre les deux hommes.",
+            "es": "En 1995, Theodore Kaczynski, conocido como «Unabomber», es arrestado tras una campaña de paquetes bomba llevada a cabo durante casi 20 años contra científicos y empresarios, causando tres muertos. Su manifiesto, que critica la tecnología industrial en términos cercanos a los de Zerzan, crea un vínculo mediático embarazoso entre los dos hombres.",
+            "ca": "El 1995, Theodore Kaczynski, conegut com a «Unabomber», és arrestat després d'una campanya de paquets bomba duta a terme durant gairebé 20 anys contra científics i empresaris, causant tres morts. El seu manifest, que critica la tecnologia industrial en termes propers als de Zerzan, crea un vincle mediàtic incòmode entre els dos homes."
+          },
+          {
+            "fr": "Zerzan correspond et rend visite à Kaczynski en prison, défendant publiquement certaines de ses idées tout en rejetant explicitement le recours au meurtre. Cette proximité, même critique, ternit durablement sa réputation aux yeux d'une partie du mouvement anarchiste, tout en attirant paradoxalement une attention médiatique nouvelle sur le primitivisme.",
+            "es": "Zerzan se cartea y visita a Kaczynski en prisión, defendiendo públicamente algunas de sus ideas mientras rechaza explícitamente el recurso al asesinato. Esta cercanía, aunque crítica, empaña duraderamente su reputación a ojos de una parte del movimiento anarquista, aunque paradójicamente atrae una nueva atención mediática hacia el primitivismo.",
+            "ca": "Zerzan es cartea i visita Kaczynski a la presó, defensant públicament algunes de les seves idees mentre rebutja explícitament el recurs a l'assassinat. Aquesta proximitat, encara que crítica, entela duradorament la seva reputació als ulls d'una part del moviment anarquista, encara que paradoxalment atreu una nova atenció mediàtica cap al primitivisme."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le primitivisme, ou anarcho-primitivisme, s'affirme comme courant distinct à la fin des années 1980 autour de l'œuvre de John Zerzan, historien de formation devenu théoricien radical après un passage par le syndicalisme dans les années 1960-1970 à San Francisco. Son premier recueil, « Elements of Refusal » (1988), pose les bases d'une critique qui dépasse largement le cadre habituel de l'anarchisme : là où la plupart des courants — même l'écologie sociale de Bookchin — restent attachés à une forme de progrès technique et social, Zerzan étend sa critique à la civilisation industrielle et agricole dans son ensemble.",
+            "es": "El primitivismo, o anarcoprimitivismo, se afirma como corriente distinta a finales de los años 1980 en torno a la obra de John Zerzan, historiador de formación convertido en teórico radical tras un paso por el sindicalismo en los años 1960-1970 en San Francisco. Su primera colección, «Elements of Refusal» (1988), sienta las bases de una crítica que supera ampliamente el marco habitual del anarquismo: donde la mayoría de las corrientes —incluso la ecología social de Bookchin— siguen apegadas a una forma de progreso técnico y social, Zerzan extiende su crítica a la civilización industrial y agrícola en su conjunto.",
+            "ca": "El primitivisme, o anarcoprimitivisme, s'afirma com a corrent distint a finals dels anys 1980 al voltant de l'obra de John Zerzan, historiador de formació convertit en teòric radical després d'un pas pel sindicalisme als anys 1960-1970 a San Francisco. La seva primera col·lecció, «Elements of Refusal» (1988), posa les bases d'una crítica que supera àmpliament el marc habitual de l'anarquisme: on la majoria dels corrents —fins i tot l'ecologia social de Bookchin— continuen lligats a una forma de progrés tècnic i social, Zerzan estén la seva crítica a la civilització industrial i agrícola en el seu conjunt."
+          },
+          {
+            "h": {
+              "fr": "L'agriculture comme origine du problème",
+              "es": "La agricultura como origen del problema",
+
+
+              "ca": "L'agricultura com a origen del problema"
+            }
+          },
+          {
+            "fr": "Sa thèse centrale, exposée notamment dans « Future Primitive and Other Essays » (1994), fait remonter l'origine de toute domination — bien avant le capitalisme ou même l'apparition de l'État — à la révolution néolithique et à l'adoption de l'agriculture il y a environ 10 000 ans : la production d'un surplus alimentaire stockable aurait créé pour la première fois les conditions matérielles de la propriété, de l'accumulation, puis de la hiérarchie sociale et du travail contraint, rompant un équilibre égalitaire que Zerzan attribue aux sociétés de chasseurs-cueilleurs sur la foi de certains travaux anthropologiques (une lecture aujourd'hui débattue et parfois jugée trop idéalisée par une partie des spécialistes).",
+            "es": "Su tesis central, expuesta especialmente en «Future Primitive and Other Essays» (1994), remonta el origen de toda dominación —mucho antes del capitalismo o incluso de la aparición del Estado— a la revolución neolítica y a la adopción de la agricultura hace unos 10 000 años: la producción de un excedente alimentario almacenable habría creado por primera vez las condiciones materiales de la propiedad, de la acumulación, y luego de la jerarquía social y el trabajo forzado, rompiendo un equilibrio igualitario que Zerzan atribuye a las sociedades de cazadores-recolectores basándose en ciertos trabajos antropológicos (una lectura hoy debatida y a veces considerada demasiado idealizada por parte de los especialistas).",
+            "ca": "La seva tesi central, exposada especialment a «Future Primitive and Other Essays» (1994), remunta l'origen de tota dominació —molt abans del capitalisme o fins i tot de l'aparició de l'Estat— a la revolució neolítica i a l'adopció de l'agricultura fa uns 10.000 anys: la producció d'un excedent alimentari emmagatzemable hauria creat per primera vegada les condicions materials de la propietat, de l'acumulació, i després de la jerarquia social i el treball forçat, trencant un equilibri igualitari que Zerzan atribueix a les societats de caçadors-recol·lectors basant-se en certs treballs antropològics (una lectura avui debatuda i de vegades considerada massa idealitzada per part dels especialistes)."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+              "credit": {
+                "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+                "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Zerzan pousse la critique plus loin que la simple organisation économique : il remet en cause le langage symbolique, la numération, l'art représentatif et la mesure abstraite du temps eux-mêmes, qu'il considère comme des médiations qui éloignent progressivement l'être humain d'un rapport direct, immédiat et sensoriel au monde — une position radicale qui le distingue nettement de courants comme l'écologie sociale de Bookchin, lequel accusait justement les primitivistes de « misanthropie » et de nostalgie régressive plutôt que de proposer une alternative politique constructive.",
+            "es": "Zerzan lleva la crítica más lejos que la simple organización económica: cuestiona el propio lenguaje simbólico, la numeración, el arte representativo y la medición abstracta del tiempo, que considera mediaciones que alejan progresivamente al ser humano de una relación directa, inmediata y sensorial con el mundo —una posición radical que lo distingue claramente de corrientes como la ecología social de Bookchin, quien precisamente acusaba a los primitivistas de «misantropía» y nostalgia regresiva en lugar de proponer una alternativa política constructiva.",
+            "ca": "Zerzan porta la crítica més lluny que la simple organització econòmica: qüestiona el mateix llenguatge simbòlic, la numeració, l'art representatiu i la mesura abstracta del temps, que considera mediacions que allunyen progressivament l'ésser humà d'una relació directa, immediata i sensorial amb el món —una posició radical que el distingeix clarament de corrents com l'ecologia social de Bookchin, qui precisament acusava els primitivistes de «misantropia» i nostàlgia regressiva en comptes de proposar una alternativa política constructiva."
+          },
+          {
+            "h": {
+              "fr": "La controverse de l'Unabomber",
+              "es": "La controversia del Unabomber",
+              "ca": "La controvèrsia de l'Unabomber"
+            }
+          },
+          {
+            "fr": "En avril 1995, l'arrestation de Theodore Kaczynski, mathématicien devenu ermite connu sous le pseudonyme d'« Unabomber » après une campagne de colis piégés menée pendant dix-sept ans contre des universitaires et des chefs d'entreprise (trois morts, plusieurs blessés graves), place brutalement Zerzan sous le feu des projecteurs médiatiques : le manifeste de Kaczynski, publié la même année sous la menace de nouveaux attentats, reprend en effet une critique de la technologie industrielle qui recoupe largement les thèses primitivistes développées par Zerzan depuis près d'une décennie.",
+            "es": "En abril de 1995, el arresto de Theodore Kaczynski, matemático convertido en ermitaño conocido con el seudónimo de «Unabomber» tras una campaña de paquetes bomba llevada a cabo durante diecisiete años contra académicos y empresarios (tres muertos, varios heridos graves), coloca bruscamente a Zerzan bajo los focos mediáticos: el manifiesto de Kaczynski, publicado ese mismo año bajo amenaza de nuevos atentados, retoma en efecto una crítica de la tecnología industrial que coincide ampliamente con las tesis primitivistas desarrolladas por Zerzan desde hacía casi una década.",
+            "ca": "L'abril del 1995, l'arrest de Theodore Kaczynski, matemàtic convertit en ermità conegut amb el pseudònim d'«Unabomber» després d'una campanya de paquets bomba duta a terme durant disset anys contra acadèmics i empresaris (tres morts, diversos ferits greus), col·loca bruscament Zerzan sota els focus mediàtics: el manifest de Kaczynski, publicat aquell mateix any sota amenaça de nous atemptats, reprèn en efecte una crítica de la tecnologia industrial que coincideix àmpliament amb les tesis primitivistes desenvolupades per Zerzan des de feia gairebé una dècada."
+          },
+          {
+            "fr": "Zerzan entretient une correspondance avec Kaczynski et lui rend visite en prison, défendant publiquement dans les médias nationaux certains aspects de son analyse de la société industrielle tout en rejetant explicitement et à plusieurs reprises le recours au meurtre comme méthode politique. Cette proximité intellectuelle, même nuancée par une condamnation claire de la violence, ternit durablement sa réputation auprès d'une large partie du mouvement anarchiste, qui craint une association publique entre critique de la civilisation et terrorisme — tout en propulsant paradoxalement le primitivisme sur le devant de la scène médiatique et en lui valant, quelques années plus tard, une nouvelle visibilité lors des manifestations contre l'OMC à Seattle en 1999, où des militants du primitivisme et du « black bloc » originaires d'Eugene, dans l'Oregon (ville où réside Zerzan), jouent un rôle très remarqué.",
+            "es": "Zerzan mantiene correspondencia con Kaczynski y lo visita en prisión, defendiendo públicamente en los medios nacionales ciertos aspectos de su análisis de la sociedad industrial mientras rechaza explícita y repetidamente el recurso al asesinato como método político. Esta cercanía intelectual, aunque matizada por una condena clara de la violencia, empaña duraderamente su reputación ante una amplia parte del movimiento anarquista, que teme una asociación pública entre crítica de la civilización y terrorismo —al tiempo que propulsa paradójicamente el primitivismo a la escena mediática y le vale, unos años después, una nueva visibilidad durante las manifestaciones contra la OMC en Seattle en 1999, donde militantes del primitivismo y del «black bloc» originarios de Eugene, Oregón (ciudad donde reside Zerzan), juegan un papel muy destacado.",
+            "ca": "Zerzan manté correspondència amb Kaczynski i el visita a la presó, defensant públicament en els mitjans nacionals certs aspectes de la seva anàlisi de la societat industrial mentre rebutja explícitament i repetidament el recurs a l'assassinat com a mètode polític. Aquesta proximitat intel·lectual, encara que matisada per una condemna clara de la violència, entela duradorament la seva reputació davant una àmplia part del moviment anarquista, que tem una associació pública entre crítica de la civilització i terrorisme —alhora que propulsa paradoxalment el primitivisme a l'escena mediàtica i li val, uns anys després, una nova visibilitat durant les manifestacions contra l'OMC a Seattle el 1999, on militants del primitivisme i del «black bloc» originaris d'Eugene, Oregon (ciutat on resideix Zerzan), juguen un paper molt destacat."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: este texto menciona el caso del Unabomber (tres asesinatos) en un contexto estrictamente histórico y crítico, sin justificar en ningún caso la violencia.",
+        "ca": "Tema sensible: aquest text esmenta el cas de l'Unabomber (tres assassinats) en un context estrictament històric i crític, sense justificar en cap cas la violència."
+      },
+      "mots_cles": [
+        {
+          "mot": "la domestication",
+          "es": "la domesticación",
+          "ca": "la domesticació"
+        },
+        {
+          "mot": "un excédent (alimentaire)",
+          "es": "un excedente (alimentario)",
+          "ca": "un excedent (alimentari)"
+        },
+        {
+          "mot": "un chasseur-cueilleur",
+          "es": "un cazador-recolector",
+          "ca": "un caçador-recol·lector"
+        },
+        {
+          "mot": "un colis piégé",
+          "es": "un paquete bomba",
+          "ca": "un paquet bomba"
+        },
+        {
+          "mot": "ternir (une réputation)",
+          "es": "empañar (una reputación)",
+          "ca": "entelar (una reputació)"
+        },
+        {
+          "mot": "un manifeste",
+          "es": "un manifiesto",
+          "ca": "un manifest"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuál es la tesis central de Zerzan sobre el origen de la dominación?",
+            "ca": "Quina és la tesi central de Zerzan sobre l'origen de la dominació?"
+          },
+          "piste": {
+            "es": "que viene de la adopción de la agricultura hace unos 10.000 años",
+            "ca": "que ve de l'adopció de l'agricultura fa uns 10.000 anys"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué critica Zerzan además de la organización económica?",
+            "ca": "Què critica Zerzan a més de l'organització econòmica?"
+          },
+          "piste": {
+            "es": "el lenguaje simbólico, la numeración y la medición del tiempo",
+            "ca": "el llenguatge simbòlic, la numeració i la mesura del temps"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le reprocha Bookchin al primitivismo?",
+            "ca": "Què retreu Bookchin al primitivisme?"
+          },
+          "piste": {
+            "es": "misantropía y nostalgia regresiva",
+            "ca": "misantropia i nostàlgia regressiva"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué relación tiene Zerzan con Theodore Kaczynski (el Unabomber)?",
+            "ca": "Quina relació té Zerzan amb Theodore Kaczynski (l'Unabomber)?"
+          },
+          "piste": {
+            "es": "le escribe y lo visita, defendiendo parte de su análisis pero rechazando el asesinato",
+            "ca": "li escriu i el visita, defensant part de la seva anàlisi però rebutjant l'assassinat"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — John Zerzan",
+          "url": "https://en.wikipedia.org/wiki/John_Zerzan"
+        },
+        {
+          "titre": "Wikipedia — Anarcho-primitivism",
+          "url": "https://en.wikipedia.org/wiki/Anarcho-primitivism"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "textes": [
+    {
+      "id": "proudhon_mutualisme",
+      "emoji": "⚖️",
+      "theme": "Politique",
+      "periode": "1809 à 1865",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Joseph%20Proudhon%20(cropped).jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Pierre-Joseph_Proudhon_(cropped).jpg",
+        "credit": {
+          "es": "Pierre-Joseph Proudhon, fotografiado por Nadar, 1862 — Wikimedia Commons.",
+          "ca": "Pierre-Joseph Proudhon, fotografiat per Nadar, 1862 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Proudhon y el mutualismo: «la propiedad es un robo»",
+        "ca": "Proudhon i el mutualisme: «la propietat és un robatori»"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Pierre-Joseph Proudhon naît en 1809 à Besançon, en France, dans une famille très pauvre. Il devient ouvrier imprimeur.",
+            "es": "Pierre-Joseph Proudhon nace en 1809 en Besanzón, Francia, en una familia muy pobre. Se hace obrero impresor.",
+            "ca": "Pierre-Joseph Proudhon neix el 1809 a Besançon, França, en una família molt pobra. Es fa obrer impressor."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Joseph%20Proudhon%20(cropped).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Pierre-Joseph_Proudhon_(cropped).jpg",
+              "credit": {
+                "es": "Pierre-Joseph Proudhon, fotografiado por Nadar, 1862 — Wikimedia Commons.",
+                "ca": "Pierre-Joseph Proudhon, fotografiat per Nadar, 1862 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1840, il écrit un livre important : « Qu'est-ce que la propriété ? ». Il répond lui-même : « La propriété, c'est le vol ! ».",
+            "es": "En 1840, escribe un libro importante: «¿Qué es la propiedad?». Él mismo responde: «¡La propiedad es un robo!».",
+            "ca": "El 1840, escriu un llibre important: «Què és la propietat?». Ell mateix respon: «La propietat és un robatori!»."
+          },
+          {
+            "fr": "Attention : Proudhon n'est pas contre toute propriété. Il est contre la grande propriété qui permet d'exploiter les autres — pas contre la petite maison d'une famille.",
+            "es": "Ojo: Proudhon no está en contra de toda propiedad. Está en contra de la gran propiedad que permite explotar a los demás —no en contra de la pequeña casa de una familia.",
+            "ca": "Compte: Proudhon no està en contra de tota propietat. Està en contra de la gran propietat que permet explotar els altres —no en contra de la petita casa d'una família."
+          },
+          {
+            "fr": "Son idée s'appelle le mutualisme. Les travailleurs échangent entre eux, sans patron, grâce à des banques du peuple qui prêtent de l'argent sans intérêt.",
+            "es": "Su idea se llama mutualismo. Los trabajadores intercambian entre ellos, sin patrón, gracias a bancos del pueblo que prestan dinero sin interés.",
+            "ca": "La seva idea es diu mutualisme. Els treballadors intercanvien entre ells, sense patró, gràcies a bancs del poble que presten diners sense interès."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Proudhon%20%C3%A0%20l%27assembl%C3%A9e%20en%201848.png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Proudhon_%C3%A0_l%27assembl%C3%A9e_en_1848.png",
+              "credit": {
+                "es": "Proudhon en la Asamblea Nacional francesa, 1848 — Wikimedia Commons.",
+                "ca": "Proudhon a l'Assemblea Nacional francesa, 1848 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1848, Proudhon devient même député en France. Mais il est vite emprisonné pour ses écrits contre le président.",
+            "es": "En 1848, Proudhon incluso se convierte en diputado en Francia. Pero es rápidamente encarcelado por sus escritos contra el presidente.",
+            "ca": "El 1848, Proudhon fins i tot esdevé diputat a França. Però és ràpidament empresonat pels seus escrits contra el president."
+          },
+          {
+            "fr": "Il meurt en 1865. Beaucoup d'anarchistes plus tard, comme Bakounine, se disent inspirés par lui — même s'ils ne sont pas d'accord sur tout.",
+            "es": "Muere en 1865. Muchos anarquistas más tarde, como Bakunin, se dicen inspirados por él —aunque no estén de acuerdo en todo.",
+            "ca": "Mor el 1865. Molts anarquistes més tard, com Bakunin, es diuen inspirats per ell —encara que no hi estiguin d'acord en tot."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1809 à Besançon dans une famille paysanne et artisane très modeste, Pierre-Joseph Proudhon connaît une enfance marquée par la pauvreté. Autodidacte brillant, il devient ouvrier typographe puis, grâce à une bourse, poursuit des études qui lui permettent de développer une pensée philosophique originale.",
+            "es": "Nacido en 1809 en Besanzón en una familia campesina y artesana muy modesta, Pierre-Joseph Proudhon conoce una infancia marcada por la pobreza. Autodidacta brillante, se convierte en obrero tipógrafo y luego, gracias a una beca, prosigue estudios que le permiten desarrollar un pensamiento filosófico original.",
+            "ca": "Nascut el 1809 a Besançon en una família pagesa i artesana molt modesta, Pierre-Joseph Proudhon coneix una infància marcada per la pobresa. Autodidacte brillant, es fa obrer tipògraf i després, gràcies a una beca, prossegueix estudis que li permeten desenvolupar un pensament filosòfic original."
+          },
+          {
+            "h": {
+              "fr": "« La propriété, c'est le vol »",
+              "es": "«La propiedad es un robo»",
+              "ca": "«La propietat és un robatori»"
+            }
+          },
+          {
+            "fr": "En 1840, son ouvrage « Qu'est-ce que la propriété ? » le rend célèbre — et scandaleux — d'un coup, avec sa formule choc. Mais Proudhon nuance vite : il ne critique pas la propriété du fruit de son propre travail (la maison, l'outil), mais la propriété qui permet de faire produire les autres pour soi sans travailler — la rente, le profit du capital, la spéculation foncière.",
+            "es": "En 1840, su obra «¿Qué es la propiedad?» lo hace célebre —y escandaloso— de golpe, con su fórmula impactante. Pero Proudhon matiza rápido: no critica la propiedad del fruto del propio trabajo (la casa, la herramienta), sino la propiedad que permite hacer producir a otros para uno mismo sin trabajar —la renta, el beneficio del capital, la especulación inmobiliaria.",
+            "ca": "El 1840, la seva obra «Què és la propietat?» el fa cèlebre —i escandalós— de cop, amb la seva fórmula impactant. Però Proudhon matisa ràpid: no critica la propietat del fruit del propi treball (la casa, l'eina), sinó la propietat que permet fer produir els altres per a un mateix sense treballar —la renda, el benefici del capital, l'especulació immobiliària."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Proudhon%20%C3%A0%20l%27assembl%C3%A9e%20en%201848.png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Proudhon_%C3%A0_l%27assembl%C3%A9e_en_1848.png",
+              "credit": {
+                "es": "Proudhon en la Asamblea Nacional francesa, 1848 — Wikimedia Commons.",
+                "ca": "Proudhon a l'Assemblea Nacional francesa, 1848 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le mutualisme : ni capitalisme, ni État",
+              "es": "El mutualismo: ni capitalismo, ni Estado",
+              "ca": "El mutualisme: ni capitalisme, ni Estat"
+            }
+          },
+          {
+            "fr": "Sa proposition positive, le mutualisme, imagine une société de petits producteurs indépendants — artisans, paysans, ouvriers organisés en coopératives — qui échangent leurs biens et services à leur juste valeur, sans intermédiaire capitaliste qui prélève un profit. Une « banque du peuple » offrirait du crédit gratuit ou à très faible intérêt, cassant ainsi le pouvoir des banquiers traditionnels.",
+            "es": "Su propuesta positiva, el mutualismo, imagina una sociedad de pequeños productores independientes —artesanos, campesinos, obreros organizados en cooperativas— que intercambian sus bienes y servicios a su justo valor, sin intermediario capitalista que se lleve un beneficio. Un «banco del pueblo» ofrecería crédito gratuito o a muy bajo interés, rompiendo así el poder de los banqueros tradicionales.",
+            "ca": "La seva proposta positiva, el mutualisme, imagina una societat de petits productors independents —artesans, pagesos, obrers organitzats en cooperatives— que intercanvien els seus béns i serveis al seu just valor, sense intermediari capitalista que es quedi un benefici. Un «banc del poble» oferiria crèdit gratuït o a molt baix interès, trencant així el poder dels banquers tradicionals."
+          },
+          {
+            "fr": "Proudhon rejette aussi bien le capitalisme que le communisme autoritaire : il préfère un fédéralisme de petites unités — ateliers, communes, régions — reliées librement entre elles, plutôt qu'un grand État centralisé, même socialiste.",
+            "es": "Proudhon rechaza tanto el capitalismo como el comunismo autoritario: prefiere un federalismo de pequeñas unidades —talleres, comunas, regiones— unidas libremente entre sí, en lugar de un gran Estado centralizado, incluso socialista.",
+            "ca": "Proudhon rebutja tant el capitalisme com el comunisme autoritari: prefereix un federalisme de petites unitats —tallers, comunes, regions— unides lliurement entre elles, en comptes d'un gran Estat centralitzat, fins i tot socialista."
+          },
+          {
+            "h": {
+              "fr": "Une vie de conflits",
+              "es": "Una vida de conflictos",
+              "ca": "Una vida de conflictes"
+            }
+          },
+          {
+            "fr": "Élu député en 1848 après la révolution, Proudhon tente sans succès de faire adopter sa Banque du peuple, puis est emprisonné trois ans pour avoir critiqué durement le président Louis-Napoléon Bonaparte. Il meurt en 1865, laissant une œuvre immense mais aussi contradictoire, entachée par des propos antisémites et misogynes qui font aujourd'hui l'objet de critiques importantes, même chez ses admirateurs.",
+            "es": "Elegido diputado en 1848 tras la revolución, Proudhon intenta sin éxito hacer adoptar su Banco del Pueblo, y luego es encarcelado tres años por haber criticado duramente al presidente Luis Napoleón Bonaparte. Muere en 1865, dejando una obra inmensa pero también contradictoria, empañada por comentarios antisemitas y misóginos que hoy son objeto de críticas importantes, incluso entre sus admiradores.",
+            "ca": "Elegit diputat el 1848 després de la revolució, Proudhon intenta sense èxit fer adoptar el seu Banc del Poble, i després és empresonat tres anys per haver criticat durament el president Lluís Napoleó Bonaparte. Mor el 1865, deixant una obra immensa però també contradictòria, tacada per comentaris antisemites i misògins que avui són objecte de crítiques importants, fins i tot entre els seus admiradors."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Pierre-Joseph Proudhon naît en 1809 à Besançon dans une famille d'artisans tonneliers frappée par la pauvreté ; enfant, il garde lui-même les vaches et n'apprend à lire qu'assez tardivement, une origine sociale qu'il revendiquera toute sa vie face aux intellectuels bourgeois de son époque. Ouvrier typographe, il obtient en 1838 une bourse d'études qui lui permet de développer, en autodidacte, une œuvre philosophique et économique considérable.",
+            "es": "Pierre-Joseph Proudhon nace en 1809 en Besanzón en una familia de artesanos toneleros golpeada por la pobreza; de niño, él mismo cuida las vacas y aprende a leer bastante tarde, un origen social que reivindicará toda su vida frente a los intelectuales burgueses de su época. Obrero tipógrafo, obtiene en 1838 una beca de estudios que le permite desarrollar, como autodidacta, una obra filosófica y económica considerable.",
+
+            "ca": "Pierre-Joseph Proudhon neix el 1809 a Besançon en una família d'artesans boters colpejada per la pobresa; de nen, ell mateix cuida les vaques i aprèn a llegir força tard, un origen social que reivindicarà tota la seva vida davant els intel·lectuals burgesos de la seva època. Obrer tipògraf, obté el 1838 una beca d'estudis que li permet desenvolupar, com a autodidacte, una obra filosòfica i econòmica considerable."
+          },
+          {
+            "h": {
+              "fr": "« La propriété, c'est le vol »",
+              "es": "«La propiedad es un robo»",
+              "ca": "«La propietat és un robatori»"
+            }
+          },
+          {
+            "fr": "Son ouvrage fondateur, « Qu'est-ce que la propriété ? » (1840), le propulse d'un coup sur la scène intellectuelle européenne grâce à sa formule devenue proverbiale. Mais la nuance de sa pensée est souvent perdue : Proudhon distingue explicitement la « possession » — l'usage légitime d'un bien par celui qui le travaille, qu'il juge nécessaire et défend — de la « propriété » au sens capitaliste, celle qui permet à un propriétaire absent de tirer un revenu (rente, intérêt, profit) du travail d'autrui sans y contribuer lui-même.",
+            "es": "Su obra fundacional, «¿Qué es la propiedad?» (1840), lo propulsa de golpe a la escena intelectual europea gracias a su fórmula convertida en proverbial. Pero el matiz de su pensamiento a menudo se pierde: Proudhon distingue explícitamente la «posesión» —el uso legítimo de un bien por quien lo trabaja, que juzga necesario y defiende— de la «propiedad» en sentido capitalista, la que permite a un propietario ausente obtener una renta (renta, interés, beneficio) del trabajo ajeno sin contribuir él mismo.",
+            "ca": "La seva obra fundacional, «Què és la propietat?» (1840), el propulsa de cop a l'escena intel·lectual europea gràcies a la seva fórmula esdevinguda proverbial. Però el matís del seu pensament sovint es perd: Proudhon distingeix explícitament la «possessió» —l'ús legítim d'un bé per qui el treballa, que jutja necessari i defensa— de la «propietat» en sentit capitalista, la que permet a un propietari absent obtenir una renda (renda, interès, benefici) del treball d'altri sense contribuir-hi ell mateix."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Proudhon%20%C3%A0%20l%27assembl%C3%A9e%20en%201848.png?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Proudhon_%C3%A0_l%27assembl%C3%A9e_en_1848.png",
+              "credit": {
+                "es": "Proudhon en la Asamblea Nacional francesa, 1848 — Wikimedia Commons.",
+                "ca": "Proudhon a l'Assemblea Nacional francesa, 1848 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le mutualisme : ni capitalisme, ni communisme d'État",
+              "es": "El mutualismo: ni capitalismo, ni comunismo de Estado",
+              "ca": "El mutualisme: ni capitalisme, ni comunisme d'Estat"
+            }
+          },
+          {
+            "fr": "Sa proposition constructive, le mutualisme, esquisse une économie de petits producteurs indépendants — artisans, paysans, ouvriers regroupés en associations coopératives — échangeant biens et services selon le principe du « prix de revient », c'est-à-dire la valeur du travail réellement incorporé, sans marge de profit prélevée par un intermédiaire. Il propose la création d'une « banque du peuple » offrant du crédit mutuel gratuit ou quasi gratuit, permettant aux travailleurs de s'affranchir de la dépendance aux banquiers et aux grands propriétaires capitalistes.",
+            "es": "Su propuesta constructiva, el mutualismo, esboza una economía de pequeños productores independientes —artesanos, campesinos, obreros agrupados en asociaciones cooperativas— que intercambian bienes y servicios según el principio del «precio de coste», es decir, el valor del trabajo realmente incorporado, sin margen de beneficio cobrado por un intermediario. Propone la creación de un «banco del pueblo» que ofrezca crédito mutuo gratuito o casi gratuito, permitiendo a los trabajadores liberarse de la dependencia de los banqueros y de los grandes propietarios capitalistas.",
+            "ca": "La seva proposta constructiva, el mutualisme, esbossa una economia de petits productors independents —artesans, pagesos, obrers agrupats en associacions cooperatives— que intercanvien béns i serveis segons el principi del «preu de cost», és a dir, el valor del treball realment incorporat, sense marge de benefici cobrat per un intermediari. Proposa la creació d'un «banc del poble» que ofereixi crèdit mutu gratuït o gairebé gratuït, permetent als treballadors alliberar-se de la dependència dels banquers i dels grans propietaris capitalistes."
+          },
+          {
+            "fr": "Sur le plan politique, Proudhon développe une théorie fédéraliste originale : plutôt qu'un État centralisé, même socialiste, il défend une organisation en cercles concentriques d'unités autonomes — l'atelier, la commune, la région, la nation — reliées par des pactes librement consentis et révocables, chaque échelon conservant son autonomie tant qu'il n'empiète pas sur les autres. Cette vision fédéraliste influencera profondément, plus tard, aussi bien l'anarchisme que certains courants du régionalisme européen.",
+            "es": "En el plano político, Proudhon desarrolla una teoría federalista original: en lugar de un Estado centralizado, incluso socialista, defiende una organización en círculos concéntricos de unidades autónomas —el taller, la comuna, la región, la nación— unidas por pactos libremente consentidos y revocables, conservando cada nivel su autonomía mientras no invada a los demás. Esta visión federalista influirá profundamente, más tarde, tanto en el anarquismo como en ciertas corrientes del regionalismo europeo.",
+            "ca": "En el pla polític, Proudhon desenvolupa una teoria federalista original: en comptes d'un Estat centralitzat, fins i tot socialista, defensa una organització en cercles concèntrics d'unitats autònomes —el taller, la comuna, la regió, la nació— unides per pactes lliurement consentits i revocables, conservant cada nivell la seva autonomia mentre no envaeixi els altres. Aquesta visió federalista influirà profundament, més tard, tant l'anarquisme com certs corrents del regionalisme europeu."
+          },
+          {
+            "h": {
+              "fr": "Une vie de conflits, un héritage contesté",
+              "es": "Una vida de conflictos, un legado disputado",
+              "ca": "Una vida de conflictes, un llegat disputat"
+            }
+          },
+          {
+            "fr": "Élu député après la révolution de 1848, Proudhon échoue à faire adopter son projet de Banque du peuple par l'Assemblée, puis est condamné à trois ans de prison pour avoir violemment critiqué le président Louis-Napoléon Bonaparte, futur Napoléon III. Ses années suivantes alternent exil, procès et écriture prolifique, jusqu'à sa mort en 1865.",
+            "es": "Elegido diputado tras la revolución de 1848, Proudhon fracasa en hacer adoptar su proyecto de Banco del Pueblo por la Asamblea, y luego es condenado a tres años de prisión por haber criticado violentamente al presidente Luis Napoleón Bonaparte, futuro Napoleón III. Sus años siguientes alternan exilio, juicios y escritura prolífica, hasta su muerte en 1865.",
+            "ca": "Elegit diputat després de la revolució de 1848, Proudhon fracassa a fer adoptar el seu projecte de Banc del Poble per l'Assemblea, i després és condemnat a tres anys de presó per haver criticat violentament el president Lluís Napoleó Bonaparte, futur Napoleó III. Els seus anys següents alternen exili, judicis i escriptura prolífica, fins a la seva mort el 1865."
+          },
+          {
+            "fr": "Son héritage reste ambivalent : premier à revendiquer explicitement le terme « anarchiste », il inspire directement Bakounine (qui radicalise ses idées en collectivisme) et influence tout le courant mutualiste encore actif aujourd'hui, notamment aux États-Unis. Mais son œuvre contient aussi des passages ouvertement antisémites et des positions profondément misogynes sur la place des femmes, qui font l'objet de débats critiques importants au sein même du mouvement anarchiste contemporain — un rappel que les pères fondateurs d'une idée ne sont jamais des figures sans contradictions.",
+            "es": "Su legado sigue siendo ambivalente: primero en reivindicar explícitamente el término «anarquista», inspira directamente a Bakunin (que radicaliza sus ideas en colectivismo) e influye en toda la corriente mutualista todavía activa hoy, especialmente en Estados Unidos. Pero su obra también contiene pasajes abiertamente antisemitas y posiciones profundamente misóginas sobre el lugar de las mujeres, que son objeto de debates críticos importantes dentro del propio movimiento anarquista contemporáneo —un recordatorio de que los padres fundadores de una idea nunca son figuras sin contradicciones.",
+            "ca": "El seu llegat continua sent ambivalent: primer a reivindicar explícitament el terme «anarquista», inspira directament Bakunin (que radicalitza les seves idees en col·lectivisme) i influeix en tot el corrent mutualista encara actiu avui, especialment als Estats Units. Però la seva obra també conté passatges obertament antisemites i posicions profundament misògines sobre el lloc de les dones, que són objecte de debats crítics importants dins el mateix moviment anarquista contemporani —un recordatori que els pares fundadors d'una idea no són mai figures sense contradiccions."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "la possession",
+          "es": "la posesión",
+          "ca": "la possessió"
+        },
+        {
+          "mot": "une rente",
+          "es": "una renta",
+          "ca": "una renda"
+        },
+        {
+          "mot": "un crédit mutuel",
+          "es": "un crédito mutuo",
+          "ca": "un crèdit mutu"
+        },
+        {
+          "mot": "le fédéralisme",
+          "es": "el federalismo",
+          "ca": "el federalisme"
+        },
+        {
+          "mot": "révocable",
+          "es": "revocable",
+          "ca": "revocable"
+        },
+        {
+          "mot": "un héritage (contesté)",
+          "es": "un legado (disputado)",
+          "ca": "un llegat (disputat)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué distingue Proudhon entre «posesión» y «propiedad»?",
+            "ca": "Què distingeix Proudhon entre «possessió» i «propietat»?"
+          },
+          "piste": {
+            "es": "la posesión es el uso legítimo del propio trabajo; la propiedad capitalista permite vivir del trabajo ajeno",
+            "ca": "la possessió és l'ús legítim del propi treball; la propietat capitalista permet viure del treball d'altri"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «banca del pueblo» que propone Proudhon?",
+            "ca": "Què és el «banc del poble» que proposa Proudhon?"
+          },
+          "piste": {
+            "es": "un banco de crédito mutuo gratuito o casi gratuito para los trabajadores",
+            "ca": "un banc de crèdit mutu gratuït o gairebé gratuït per als treballadors"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasa a Proudhon tras criticar a Luis Napoleón Bonaparte?",
+            "ca": "Què li passa a Proudhon després de criticar Lluís Napoleó Bonaparte?"
+          },
+          "piste": {
+            "es": "es condenado a tres años de prisión",
+            "ca": "és condemnat a tres anys de presó"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué aspectos de la obra de Proudhon son hoy criticados?",
+            "ca": "Quins aspectes de l'obra de Proudhon són avui criticats?"
+          },
+          "piste": {
+            "es": "pasajes antisemitas y posiciones misóginas",
+            "ca": "passatges antisemites i posicions misògines"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Pierre-Joseph Proudhon",
+          "url": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon"
+        },
+        {
+          "titre": "Wikipedia — Mutualism (economic theory)",
+          "url": "https://en.wikipedia.org/wiki/Mutualism_(economic_theory)"
+        }
+      ]
+    }
+  ]
+}

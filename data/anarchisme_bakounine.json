@@ -1,0 +1,138 @@
+{
+  "textes": [
+    {
+      "id": "bakounine_collectivisme",
+      "emoji": "🔥",
+      "theme": "Politique",
+      "periode": "1814 à 1876",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Bakunin.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Mikhail_Bakunin.jpg",
+        "credit": {
+          "es": "Mijaíl Bakunin (1814-1876) — Wikimedia Commons.",
+          "ca": "Mikhail Bakunin (1814-1876) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Bakunin y el colectivismo: la rivalidad con Marx",
+        "ca": "Bakunin i el col·lectivisme: la rivalitat amb Marx"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Mikhaïl Bakounine naît en 1814 en Russie, dans une famille noble. C'est le contraire de Proudhon, qui était très pauvre.",
+            "es": "Mijaíl Bakunin nace en 1814 en Rusia, en una familia noble. Es lo contrario de Proudhon, que era muy pobre.",
+            "ca": "Mikhail Bakunin neix el 1814 a Rússia, en una família noble. És el contrari de Proudhon, que era molt pobre."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Young%20Bakunin.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Young_Bakunin.jpg",
+              "credit": {
+                "es": "Retrato del joven Bakunin, 1843 — Wikimedia Commons.",
+                "ca": "Retrat del jove Bakunin, 1843 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il quitte la Russie et voyage en Europe. Il participe à plusieurs révolutions, en Allemagne, en France.",
+            "es": "Deja Rusia y viaja por Europa. Participa en varias revoluciones, en Alemania, en Francia.",
+            "ca": "Deixa Rússia i viatja per Europa. Participa en diverses revolucions, a Alemanya, a França."
+          },
+          {
+            "fr": "Il est arrêté plusieurs fois et passe des années en prison, puis en exil forcé en Sibérie. Il réussit à s'échapper !",
+            "es": "Es arrestado varias veces y pasa años en prisión, luego en exilio forzado en Siberia. ¡Consigue escaparse!",
+            "ca": "És arrestat diverses vegades i passa anys a la presó, després en exili forçat a Sibèria. Aconsegueix escapar-se!"
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Bakunin.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mikhail_Bakunin.jpg",
+              "credit": {
+                "es": "Mijaíl Bakunin (1814-1876) — Wikimedia Commons.",
+                "ca": "Mikhail Bakunin (1814-1876) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Bakounine pense que toute propriété privée des usines et des terres doit devenir collective — c'est le collectivisme.",
+            "es": "Bakunin piensa que toda propiedad privada de las fábricas y las tierras debe volverse colectiva —es el colectivismo.",
+            "ca": "Bakunin pensa que tota propietat privada de les fàbriques i les terres ha d'esdevenir col·lectiva —és el col·lectivisme."
+          },
+          {
+            "fr": "Il travaille avec Karl Marx dans une même organisation. Mais ils ne sont pas d'accord sur l'État, et ça finit très mal entre eux.",
+            "es": "Trabaja con Karl Marx en una misma organización. Pero no están de acuerdo sobre el Estado, y eso termina muy mal entre ellos.",
+            "ca": "Treballa amb Karl Marx en una mateixa organització. Però no estan d'acord sobre l'Estat, i això acaba molt malament entre ells."
+          },
+          {
+            "fr": "Bakounine meurt en 1876 à Berne, en Suisse. Ses idées inspirent ensuite beaucoup de mouvements anarchistes, surtout en Espagne.",
+            "es": "Bakunin muere en 1876 en Berna, Suiza. Sus ideas inspiran después a muchos movimientos anarquistas, sobre todo en España.",
+            "ca": "Bakunin mor el 1876 a Berna, Suïssa. Les seves idees inspiren després molts moviments anarquistes, sobretot a Espanya."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1814 dans une famille de la petite noblesse russe, Mikhaïl Bakounine suit d'abord une carrière militaire avant de se tourner vers la philosophie à Moscou puis à Berlin, où il découvre les idées de Hegel. Sa rencontre avec des révolutionnaires européens transforme rapidement le jeune aristocrate en militant radical.",
+            "es": "Nacido en 1814 en una familia de la pequeña nobleza rusa, Mijaíl Bakunin sigue primero una carrera militar antes de volcarse hacia la filosofía en Moscú y luego en Berlín, donde descubre las ideas de Hegel. Su encuentro con revolucionarios europeos transforma rápidamente al joven aristócrata en militante radical.",
+            "ca": "Nascut el 1814 en una família de la petita noblesa russa, Mikhail Bakunin segueix primer una carrera militar abans de girar-se cap a la filosofia a Moscou i després a Berlín, on descobreix les idees de Hegel. La seva trobada amb revolucionaris europeus transforma ràpidament el jove aristòcrata en militant radical."
+          },
+          {
+            "h": {
+              "fr": "Une vie de révolutions et de prisons",
+              "es": "Una vida de revoluciones y prisiones",
+              "ca": "Una vida de revolucions i presons"
+            }
+          },
+          {
+            "fr": "Bakounine participe activement aux révolutions de 1848 en France et en Allemagne, puis à un soulèvement à Dresde en 1849. Arrêté, condamné à mort, gracié, il est finalement livré aux autorités russes qui l'exilent en Sibérie. En 1861, après des années de captivité, il s'évade dans des conditions rocambolesques et fait le tour du monde par le Japon et les États-Unis pour rejoindre l'Europe.",
+            "es": "Bakunin participa activamente en las revoluciones de 1848 en Francia y Alemania, y luego en un levantamiento en Dresde en 1849. Arrestado, condenado a muerte, indultado, finalmente es entregado a las autoridades rusas que lo exilian a Siberia. En 1861, tras años de cautiverio, se escapa en circunstancias rocambolescas y da la vuelta al mundo pasando por Japón y Estados Unidos para regresar a Europa.",
+            "ca": "Bakunin participa activament en les revolucions de 1848 a França i Alemanya, i després en un aixecament a Dresden el 1849. Arrestat, condemnat a mort, indultat, finalment és lliurat a les autoritats russes que l'exilien a Sibèria. El 1861, després d'anys de captiveri, s'escapa en circumstàncies rocambolesques i fa la volta al món passant pel Japó i els Estats Units per tornar a Europa."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Young%20Bakunin.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Young_Bakunin.jpg",
+              "credit": {
+                "es": "Retrato del joven Bakunin, 1843 — Wikimedia Commons.",
+                "ca": "Retrat del jove Bakunin, 1843 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le collectivisme et la critique de l'État",
+              "es": "El colectivismo y la crítica del Estado",
+              "ca": "El col·lectivisme i la crítica de l'Estat"
+            }
+          },
+          {
+            "fr": "Politiquement, Bakounine radicalise les idées de Proudhon : il ne suffit pas de limiter la propriété capitaliste, il faut socialiser collectivement les moyens de production — usines, terres, outils — gérés par des fédérations de travailleurs. Contrairement à Marx, il rejette absolument l'idée d'un État transitoire, même « ouvrier » : pour lui, tout pouvoir centralisé, une fois installé, cherche à se perpétuer et finit par créer une nouvelle classe de dirigeants.",
+            "es": "Políticamente, Bakunin radicaliza las ideas de Proudhon: no basta con limitar la propiedad capitalista, hay que socializar colectivamente los medios de producción —fábricas, tierras, herramientas— gestionados por federaciones de trabajadores. A diferencia de Marx, rechaza absolutamente la idea de un Estado transitorio, incluso «obrero»: para él, todo poder centralizado, una vez instalado, busca perpetuarse y acaba creando una nueva clase de dirigentes.",
+            "ca": "Políticament, Bakunin radicalitza les idees de Proudhon: no n'hi ha prou de limitar la propietat capitalista, cal socialitzar col·lectivament els mitjans de producció —fàbriques, terres, eines— gestionats per federacions de treballadors. A diferència de Marx, rebutja absolutament la idea d'un Estat transitori, fins i tot «obrer»: per a ell, tot poder centralitzat, un cop instal·lat, busca perpetuar-se i acaba creant una nova classe de dirigents."
+          },
+          {
+            "h": {
+              "fr": "La rupture avec Marx",
+              "es": "La ruptura con Marx",
+              "ca": "La ruptura amb Marx"
+            }
+          },
+          {
+            "fr": "Les deux hommes militent ensemble dans la Première Internationale à partir de 1868, mais leur rivalité personnelle et théorique s'envenime rapidement. En 1872, au congrès de La Haye, Marx manœuvre pour faire exclure Bakounine de l'organisation, provoquant la scission définitive entre marxisme et anarchisme. Bakounine meurt quatre ans plus tard à Berne, en Suisse, laissant une influence considérable sur le mouvement ouvrier du sud de l'Europe, notamment en Espagne et en Italie.",
+            "es": "Los dos hombres militan juntos en la Primera Internacional a partir de 1868, pero su rivalidad personal y teórica se envenena rápidamente. En 1872, en el congreso de La Haya, Marx maniobra para hacer expulsar a Bakunin de la organización, provocando la escisión definitiva entre marxismo y anarquismo. Bakunin muere cuatro años después en Berna, Suiza, dejando una influencia considerable en el movimiento obrero del sur de Europa, especialmente en España e Italia.",
+            "ca": "Els dos homes militen junts a la Primera Internacional a partir de 1868, però la seva rivalitat personal i teòrica s'enverina ràpidament. El 1872, al congrés de la Haia, Marx maniobra per fer expulsar Bakunin de l'organització, provocant l'escissió definitiva entre marxisme i anarquisme. Bakunin mor quatre anys després a Berna, Suïssa, deixant una influència considerable en el moviment obrer del sud d'Europa, especialment a Espanya i Itàlia."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1814 à Pryamoukhino, dans une famille de la petite noblesse terrienne russe, Mikhaïl Bakounine embrasse d'abord une carrière militaire avant de démissionner pour se consacrer à la philosophie, d'abord à Moscou dans les cercles hégéliens, puis à Berlin où il approfondit sa formation intellectuelle. Ses rencontres avec Marx et Proudhon à Paris au début des années 1840 marquent un tournant décisif, transformant progressivement le jeune aristocrate désabusé en révolutionnaire professionnel.",
+            "es": "Nacido en 1814 en Pryamujino, en una familia de la pequeña nobleza terrateniente rusa, Mijaíl Bakunin abraza primero una carrera militar antes de dimitir para dedicarse a la filosofía, primero en Moscú en los círculos hegelianos, y luego en Berlín donde profundiza su formación intelectual. Sus encuentros con Marx y Proudhon en París a principios de los años 1840 marcan un giro decisivo, transformando progresivamente al joven aristócrata desencantado en revolucionario profesional.",
+            "ca": "Nascut el 1814 a Priamukhino, en una família de la petita noblesa terratinent russa, Mikhail Bakunin abraça primer una carrera militar abans de dimitir per dedicar-se a la filosofia, primer a Moscou en els cercles hegelians, i després a Berlín on aprofundeix la seva formació intel·lectual. Les seves trobades amb Marx i Proudhon a París a principis dels anys 1840 marquen un gir decisiu, transformant progressivament el jove aristòcrata desencantat en revolucionari professional."
+          },
+          {
+            "h": {
+              "fr": "Une vie de révolutions et de prisons",
+              "es": "Una vida de revoluciones y prisiones",
+              "ca": "Una vida de revolucions i presons"
+            }
+          },

@@ -1,0 +1,273 @@
+{
+  "textes": [
+    {
+      "id": "malatesta_insurrectionnalisme_italie",
+      "emoji": "🇮🇹",
+      "theme": "Politique",
+      "periode": "1853 à 1932",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Errico-malatesta.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Errico_Malatesta",
+        "credit": {
+          "es": "Errico Malatesta — Wikimedia Commons.",
+          "ca": "Errico Malatesta — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Malatesta y el insurreccionalismo: el anarquismo italiano",
+        "ca": "Malatesta i l'insurreccionalisme: l'anarquisme italià"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Errico Malatesta naît en 1853 dans le sud de l'Italie. Il devient médecin, mais choisit une vie de révolutionnaire.",
+            "es": "Errico Malatesta nace en 1853 en el sur de Italia. Se hace médico, pero elige una vida de revolucionario.",
+            "ca": "Errico Malatesta neix el 1853 al sud d'Itàlia. Es fa metge, però tria una vida de revolucionari."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Errico-malatesta.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Errico_Malatesta",
+              "credit": {
+                "es": "Errico Malatesta — Wikimedia Commons.",
+                "ca": "Errico Malatesta — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Au début, il pense que de petits groupes doivent déclencher des insurrections pour réveiller le peuple. C'est l'insurrectionnalisme.",
+            "es": "Al principio, piensa que pequeños grupos deben desencadenar insurrecciones para despertar al pueblo. Es el insurreccionalismo.",
+            "ca": "Al principi, pensa que petits grups han de desencadenar insurreccions per despertar el poble. És l'insurreccionalisme."
+          },
+          {
+            "fr": "Il passe presque toute sa vie en prison ou en exil. Il vit même 12 ans en Argentine !",
+            "es": "Pasa casi toda su vida en prisión o en el exilio. ¡Vive incluso 12 años en Argentina!",
+            "ca": "Passa gairebé tota la seva vida a la presó o a l'exili. Viu fins i tot 12 anys a l'Argentina!"
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fotografia%20malatesta%20arditi%20del%20popolo.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Fotografia_malatesta_arditi_del_popolo.jpg",
+              "credit": {
+                "es": "Malatesta con un grupo de los Arditi del Popolo, milicia antifascista, 1921 — Wikimedia Commons.",
+                "ca": "Malatesta amb un grup dels Arditi del Popolo, milícia antifeixista, 1921 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Plus tard, il change d'avis : il pense que les petites insurrections ne suffisent pas, il faut aussi organiser les travailleurs.",
+            "es": "Más tarde, cambia de opinión: piensa que las pequeñas insurrecciones no bastan, hay que organizar también a los trabajadores.",
+            "ca": "Més tard, canvia d'opinió: pensa que les petites insurreccions no basten, cal organitzar també els treballadors."
+          },
+          {
+            "fr": "Quand Mussolini prend le pouvoir en Italie, Malatesta reste dans le pays, mais il est surveillé sans arrêt par la police fasciste.",
+            "es": "Cuando Mussolini toma el poder en Italia, Malatesta se queda en el país, pero es vigilado sin cesar por la policía fascista.",
+            "ca": "Quan Mussolini pren el poder a Itàlia, Malatesta es queda al país, però és vigilat sense parar per la policia feixista."
+          },
+          {
+            "fr": "Il meurt en 1932, presque en prisonnier chez lui. Il reste une figure très respectée de l'anarchisme italien.",
+            "es": "Muere en 1932, casi prisionero en su propia casa. Sigue siendo una figura muy respetada del anarquismo italiano.",
+            "ca": "Mor el 1932, gairebé presoner a casa seva. Continua sent una figura molt respectada de l'anarquisme italià."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1853 près de Naples dans une famille de propriétaires terriens, Errico Malatesta abandonne ses études de médecine pour se consacrer entièrement à la révolution, rencontrant Bakounine dès 1872 et devenant l'une des figures majeures de l'anarchisme italien.",
+            "es": "Nacido en 1853 cerca de Nápoles en una familia de terratenientes, Errico Malatesta abandona sus estudios de medicina para dedicarse por completo a la revolución, conociendo a Bakunin ya en 1872 y convirtiéndose en una de las figuras principales del anarquismo italiano.",
+            "ca": "Nascut el 1853 a prop de Nàpols en una família de terratinents, Errico Malatesta abandona els seus estudis de medicina per dedicar-se completament a la revolució, coneixent Bakunin ja el 1872 i convertint-se en una de les figures principals de l'anarquisme italià."
+          },
+          {
+            "h": {
+              "fr": "L'insurrectionnalisme des débuts",
+              "es": "El insurreccionalismo de los inicios",
+              "ca": "L'insurreccionalisme dels inicis"
+            }
+          },
+          {
+            "fr": "Dans sa jeunesse, Malatesta soutient l'insurrectionnalisme : il faut déclencher des soulèvements locaux, même minoritaires, pour montrer par l'exemple qu'un autre monde est possible et provoquer un effet d'entraînement. En 1877, il participe à un soulèvement raté dans les Pouilles, occupant brièvement deux villages avant l'arrestation du groupe entier.",
+            "es": "En su juventud, Malatesta apoya el insurreccionalismo: hay que desencadenar levantamientos locales, aunque minoritarios, para mostrar con el ejemplo que otro mundo es posible y provocar un efecto de arrastre. En 1877, participa en un levantamiento fallido en Apulia, ocupando brevemente dos pueblos antes del arresto de todo el grupo.",
+            "ca": "En la seva joventut, Malatesta recolza l'insurreccionalisme: cal desencadenar aixecaments locals, encara que minoritaris, per mostrar amb l'exemple que un altre món és possible i provocar un efecte d'arrossegament. El 1877, participa en un aixecament fallit a la Pulla, ocupant breument dos pobles abans de l'arrest de tot el grup."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fotografia%20malatesta%20arditi%20del%20popolo.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Fotografia_malatesta_arditi_del_popolo.jpg",
+              "credit": {
+                "es": "Malatesta con un grupo de los Arditi del Popolo, milicia antifascista, 1921 — Wikimedia Commons.",
+                "ca": "Malatesta amb un grup dels Arditi del Popolo, milícia antifeixista, 1921 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une vie d'exils et de prisons",
+              "es": "Una vida de exilios y prisiones",
+              "ca": "Una vida d'exilis i presons"
+            }
+          },
+          {
+            "fr": "Sa vie est marquée par un exil quasi permanent : expulsé successivement de plusieurs pays européens, il passe notamment douze ans en Argentine, où il contribue à structurer le mouvement anarchiste naissant, avant de repartir en Angleterre, où il vit l'essentiel de son exil, exerçant divers petits métiers pour survivre.",
+            "es": "Su vida está marcada por un exilio casi permanente: expulsado sucesivamente de varios países europeos, pasa especialmente doce años en Argentina, donde contribuye a estructurar el naciente movimiento anarquista, antes de partir hacia Inglaterra, donde vive la mayor parte de su exilio, ejerciendo diversos oficios menores para sobrevivir.",
+            "ca": "La seva vida està marcada per un exili gairebé permanent: expulsat successivament de diversos països europeus, passa especialment dotze anys a l'Argentina, on contribueix a estructurar el naixent moviment anarquista, abans de marxar cap a Anglaterra, on viu la major part del seu exili, exercint diversos oficis menors per sobreviure."
+          },
+          {
+            "h": {
+              "fr": "Un tournant stratégique",
+              "es": "Un giro estratégico",
+              "ca": "Un gir estratègic"
+            }
+          },
+          {
+            "fr": "Avec l'âge et l'expérience, Malatesta révise sa stratégie : les insurrections isolées, sans base sociale organisée, mènent surtout à la répression et à l'épuisement des militants. Il se rapproche alors du syndicalisme comme moyen de construire une force collective durable, sans jamais renoncer totalement à l'idée que l'action directe reste nécessaire. De retour en Italie après la Première Guerre mondiale, il anime le journal « Umanità Nova », mais la montée du fascisme mussolinien le réduit rapidement au silence : surveillé en permanence, il meurt en 1932, quasi assigné à résidence.",
+            "es": "Con la edad y la experiencia, Malatesta revisa su estrategia: las insurrecciones aisladas, sin base social organizada, llevan sobre todo a la represión y al agotamiento de los militantes. Se acerca entonces al sindicalismo como medio de construir una fuerza colectiva duradera, sin renunciar nunca del todo a la idea de que la acción directa sigue siendo necesaria. De vuelta en Italia tras la Primera Guerra Mundial, dirige el periódico «Umanità Nova», pero el ascenso del fascismo mussoliniano lo reduce rápidamente al silencio: vigilado permanentemente, muere en 1932, casi confinado en su domicilio.",
+            "ca": "Amb l'edat i l'experiència, Malatesta revisa la seva estratègia: les insurreccions aïllades, sense base social organitzada, porten sobretot a la repressió i a l'esgotament dels militants. S'apropa llavors al sindicalisme com a mitjà de construir una força col·lectiva duradora, sense renunciar mai del tot a la idea que l'acció directa continua sent necessària. De tornada a Itàlia després de la Primera Guerra Mundial, dirigeix el diari «Umanità Nova», però l'ascens del feixisme mussolinià el redueix ràpidament al silenci: vigilat permanentment, mor el 1932, gairebé confinat al seu domicili."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1853 près de Caserte, dans le sud de l'Italie, dans une famille de propriétaires terriens de tendance libérale, Errico Malatesta abandonne ses études de médecine à l'université de Naples pour rejoindre le mouvement révolutionnaire naissant, rencontrant Mikhaïl Bakounine dès 1872, qui exerce sur lui une influence déterminante et durable.",
+            "es": "Nacido en 1853 cerca de Caserta, en el sur de Italia, en una familia de terratenientes de tendencia liberal, Errico Malatesta abandona sus estudios de medicina en la universidad de Nápoles para unirse al naciente movimiento revolucionario, conociendo a Mijaíl Bakunin ya en 1872, quien ejerce sobre él una influencia determinante y duradera.",
+            "ca": "Nascut el 1853 a prop de Caserta, al sud d'Itàlia, en una família de terratinents de tendència liberal, Errico Malatesta abandona els seus estudis de medicina a la universitat de Nàpols per unir-se al naixent moviment revolucionari, coneixent Mikhail Bakunin ja el 1872, qui exerceix sobre ell una influència determinant i duradora."
+          },
+          {
+            "h": {
+              "fr": "L'insurrectionnalisme des débuts",
+              "es": "El insurreccionalismo de los inicios",
+              "ca": "L'insurreccionalisme dels inicis"
+            }
+          },
+
+
+          {
+            "fr": "Dans sa jeunesse, Malatesta est l'un des principaux théoriciens et praticiens de l'insurrectionnalisme : contrairement à l'anarcho-syndicalisme qui mise sur l'organisation patiente des masses, cette approche défend que de petites minorités révolutionnaires déterminées peuvent, par l'exemple d'un soulèvement local même bref et voué à l'échec militaire, révéler la fragilité de l'ordre établi et déclencher une prise de conscience révolutionnaire plus large. En avril 1877, avec une trentaine de compagnons dont le géographe Élisée Reclus, il occupe brièvement deux villages des Pouilles, brûlant les registres fiscaux et distribuant des armes aux paysans, avant d'être arrêté par l'armée en quelques jours.",
+            "es": "En su juventud, Malatesta es uno de los principales teóricos y practicantes del insurreccionalismo: a diferencia del anarcosindicalismo que apuesta por la organización paciente de las masas, este enfoque defiende que pequeñas minorías revolucionarias decididas pueden, mediante el ejemplo de un levantamiento local aunque breve y condenado al fracaso militar, revelar la fragilidad del orden establecido y desencadenar una toma de conciencia revolucionaria más amplia. En abril de 1877, con una treintena de compañeros entre los que se encontraba el geógrafo Élisée Reclus, ocupa brevemente dos pueblos de Apulia, quemando los registros fiscales y distribuyendo armas a los campesinos, antes de ser arrestado por el ejército en pocos días.",
+            "ca": "En la seva joventut, Malatesta és un dels principals teòrics i practicants de l'insurreccionalisme: a diferència de l'anarcosindicalisme que aposta per l'organització pacient de les masses, aquest enfocament defensa que petites minories revolucionàries decidides poden, mitjançant l'exemple d'un aixecament local encara que breu i condemnat al fracàs militar, revelar la fragilitat de l'ordre establert i desencadenar una presa de consciència revolucionària més àmplia. L'abril del 1877, amb una trentena de companys entre els quals el geògraf Élisée Reclus, ocupa breument dos pobles de la Pulla, cremant els registres fiscals i distribuint armes als pagesos, abans de ser arrestat per l'exèrcit en pocs dies."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fotografia%20malatesta%20arditi%20del%20popolo.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Fotografia_malatesta_arditi_del_popolo.jpg",
+              "credit": {
+                "es": "Malatesta con un grupo de los Arditi del Popolo, milicia antifascista, 1921 — Wikimedia Commons.",
+                "ca": "Malatesta amb un grup dels Arditi del Popolo, milícia antifeixista, 1921 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une vie d'exils et de prisons",
+              "es": "Una vida de exilios y prisiones",
+              "ca": "Una vida d'exilis i presons"
+            }
+          },
+          {
+            "fr": "Cet épisode inaugure une existence marquée par un exil quasi permanent : expulsé successivement de France, de Suisse et d'autres pays européens, Malatesta passe environ douze ans en Argentine à partir de 1885, où son influence contribue significativement à structurer le mouvement anarchiste local qui deviendra, une génération plus tard, l'un des plus puissants du continent américain. Il vit ensuite l'essentiel de son exil ultérieur à Londres, gagnant sa vie comme électricien et mécanicien tout en continuant à écrire et à correspondre avec le mouvement international, échappant de peu à une tentative d'assassinat orchestrée par un agent infiltré du gouvernement italien en 1898.",
+            "es": "Este episodio inaugura una existencia marcada por un exilio casi permanente: expulsado sucesivamente de Francia, Suiza y otros países europeos, Malatesta pasa unos doce años en Argentina a partir de 1885, donde su influencia contribuye significativamente a estructurar el movimiento anarquista local que se convertirá, una generación después, en uno de los más poderosos del continente americano. Vive luego la mayor parte de su exilio posterior en Londres, ganándose la vida como electricista y mecánico mientras continúa escribiendo y correspondiendo con el movimiento internacional, escapando por poco de un intento de asesinato orquestado por un agente infiltrado del gobierno italiano en 1898.",
+            "ca": "Aquest episodi inaugura una existència marcada per un exili gairebé permanent: expulsat successivament de França, Suïssa i altres països europeus, Malatesta passa uns dotze anys a l'Argentina a partir del 1885, on la seva influència contribueix significativament a estructurar el moviment anarquista local que esdevindrà, una generació més tard, un dels més poderosos del continent americà. Viu després la major part del seu exili posterior a Londres, guanyant-se la vida com a electricista i mecànic mentre continua escrivint i corresponent-se amb el moviment internacional, escapant per poc d'un intent d'assassinat orquestrat per un agent infiltrat del govern italià el 1898."
+          },
+          {
+            "h": {
+              "fr": "Un tournant stratégique vers l'organisation",
+              "es": "Un giro estratégico hacia la organización",
+              "ca": "Un gir estratègic cap a l'organització"
+            }
+          },
+          {
+            "fr": "Avec l'expérience accumulée sur plusieurs décennies, Malatesta révise progressivement sa position sur l'insurrectionnalisme : les soulèvements isolés, sans ancrage social durable, épuisent les militants les plus déterminés en pure perte et offrent à l'État des prétextes commodes pour une répression généralisée. Sans renoncer à l'idée que l'action directe et, si nécessaire, la violence révolutionnaire restent légitimes, il se rapproche du syndicalisme et défend, dans des textes comme « Un projet d'organisation anarchiste » (1927), la nécessité d'une organisation anarchiste structurée et durable — une position qui l'oppose à la fois aux insurrectionnalistes purs et aux anarcho-syndicalistes qui subordonnent trop, selon lui, l'objectif révolutionnaire aux revendications syndicales immédiates.",
+            "es": "Con la experiencia acumulada durante varias décadas, Malatesta revisa progresivamente su posición sobre el insurreccionalismo: los levantamientos aislados, sin arraigo social duradero, agotan a los militantes más decididos en vano y ofrecen al Estado pretextos cómodos para una represión generalizada. Sin renunciar a la idea de que la acción directa y, si es necesario, la violencia revolucionaria siguen siendo legítimas, se acerca al sindicalismo y defiende, en textos como «Un proyecto de organización anarquista» (1927), la necesidad de una organización anarquista estructurada y duradera —una posición que lo enfrenta tanto a los insurreccionalistas puros como a los anarcosindicalistas que subordinan demasiado, según él, el objetivo revolucionario a las reivindicaciones sindicales inmediatas.",
+            "ca": "Amb l'experiència acumulada durant diverses dècades, Malatesta revisa progressivament la seva posició sobre l'insurreccionalisme: els aixecaments aïllats, sense arrelament social durador, esgoten els militants més decidits en va i ofereixen a l'Estat pretextos còmodes per a una repressió generalitzada. Sense renunciar a la idea que l'acció directa i, si cal, la violència revolucionària continuen sent legítimes, s'apropa al sindicalisme i defensa, en textos com «Un projecte d'organització anarquista» (1927), la necessitat d'una organització anarquista estructurada i duradora —una posició que l'enfronta tant als insurreccionalistes purs com als anarcosindicalistes que subordinen massa, segons ell, l'objectiu revolucionari a les reivindicacions sindicals immediates."
+          },
+          {
+            "fr": "De retour définitivement en Italie après la Première Guerre mondiale, il fonde et anime le journal « Umanità Nova », qui connaît un succès rapide durant le « Biennio Rosso » (1919-1920), période d'agitation ouvrière intense. Mais la montée fulgurante du fascisme mussolinien à partir de 1922 réduit progressivement au silence tout le mouvement anarchiste italien : Malatesta, désormais âgé, choisit de rester en Italie plutôt que de repartir en exil, mais vit ses dix dernières années sous surveillance policière constante, pratiquement assigné à résidence, jusqu'à sa mort en 1932 — un an avant que son ancien camarade de jeunesse Mussolini ne consolide définitivement sa dictature totalitaire.",
+            "es": "De vuelta definitivamente en Italia tras la Primera Guerra Mundial, funda y dirige el periódico «Umanità Nova», que conoce un éxito rápido durante el «Bienio Rojo» (1919-1920), período de intensa agitación obrera. Pero el fulgurante ascenso del fascismo mussoliniano a partir de 1922 reduce progresivamente al silencio a todo el movimiento anarquista italiano: Malatesta, ya de edad avanzada, elige quedarse en Italia en lugar de volver al exilio, pero vive sus últimos diez años bajo vigilancia policial constante, prácticamente confinado en su domicilio, hasta su muerte en 1932 —un año antes de que su antiguo compañero de juventud Mussolini consolidara definitivamente su dictadura totalitaria.",
+            "ca": "De tornada definitivament a Itàlia després de la Primera Guerra Mundial, funda i dirigeix el diari «Umanità Nova», que coneix un èxit ràpid durant el «Biennio Rosso» (1919-1920), període d'intensa agitació obrera. Però el fulgurant ascens del feixisme mussolinià a partir del 1922 redueix progressivament al silenci tot el moviment anarquista italià: Malatesta, ja d'edat avançada, tria quedar-se a Itàlia en comptes de tornar a l'exili, però viu els seus últims deu anys sota vigilància policial constant, pràcticament confinat al seu domicili, fins a la seva mort el 1932 —un any abans que el seu antic company de joventut Mussolini consolidés definitivament la seva dictadura totalitària."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un soulèvement (local)",
+          "es": "un levantamiento (local)",
+          "ca": "un aixecament (local)"
+        },
+        {
+          "mot": "un effet d'entraînement",
+          "es": "un efecto de arrastre",
+          "ca": "un efecte d'arrossegament"
+        },
+        {
+          "mot": "un exil (permanent)",
+          "es": "un exilio (permanente)",
+          "ca": "un exili (permanent)"
+        },
+        {
+          "mot": "un ancrage social",
+          "es": "un arraigo social",
+          "ca": "un arrelament social"
+        },
+        {
+          "mot": "une surveillance (policière)",
+          "es": "una vigilancia (policial)",
+          "ca": "una vigilància (policial)"
+        },
+        {
+          "mot": "assigné(e) à résidence",
+          "es": "confinado/a en el domicilio",
+          "ca": "confinat/ada al domicili"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué defiende el insurreccionalismo joven de Malatesta?",
+            "ca": "Què defensa l'insurreccionalisme jove de Malatesta?"
+          },
+          "piste": {
+            "es": "que pequeños levantamientos locales pueden despertar una conciencia revolucionaria más amplia",
+            "ca": "que petits aixecaments locals poden despertar una consciència revolucionària més àmplia"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué país latinoamericano pasa Malatesta unos doce años en el exilio?",
+            "ca": "En quin país llatinoamericà passa Malatesta uns dotze anys a l'exili?"
+          },
+          "piste": {
+            "es": "en Argentina",
+            "ca": "a l'Argentina"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué Malatesta revisa su posición sobre el insurreccionalismo con el tiempo?",
+            "ca": "Per què Malatesta revisa la seva posició sobre l'insurreccionalisme amb el temps?"
+          },
+          "piste": {
+            "es": "porque los levantamientos aislados agotan a los militantes y facilitan la represión",
+            "ca": "perquè els aixecaments aïllats esgoten els militants i faciliten la repressió"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo vive sus últimos años bajo el fascismo?",
+            "ca": "Com viu els seus últims anys sota el feixisme?"
+          },
+          "piste": {
+            "es": "bajo vigilancia policial constante, casi confinado en su domicilio",
+            "ca": "sota vigilància policial constant, gairebé confinat al seu domicili"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Errico Malatesta",
+          "url": "https://en.wikipedia.org/wiki/Errico_Malatesta"
+        },
+        {
+          "titre": "Wikipedia — Insurrectionary anarchism",
+          "url": "https://en.wikipedia.org/wiki/Insurrectionary_anarchism"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_allemagne_landauer",
+      "emoji": "🇩🇪",
+      "theme": "Politique",
+      "periode": "1870 à 1919",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Landauer.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Gustav_Landauer.jpg",
+        "credit": {
+          "es": "Gustav Landauer (1870-1919) — Wikimedia Commons.",
+          "ca": "Gustav Landauer (1870-1919) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Gustav Landauer y la República de los Consejos de Baviera",
+        "ca": "Gustav Landauer i la República dels Consells de Baviera"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Gustav Landauer naît en 1870 en Allemagne, dans une famille juive de la classe moyenne. Il devient écrivain et penseur anarchiste.",
+            "es": "Gustav Landauer nace en 1870 en Alemania, en una familia judía de clase media. Se hace escritor y pensador anarquista.",
+            "ca": "Gustav Landauer neix el 1870 a Alemanya, en una família jueva de classe mitjana. Es fa escriptor i pensador anarquista."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Landauer.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Gustav_Landauer.jpg",
+              "credit": {
+                "es": "Gustav Landauer (1870-1919) — Wikimedia Commons.",
+                "ca": "Gustav Landauer (1870-1919) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Pour lui, l'État n'est pas juste une institution — c'est une façon de vivre ensemble qu'on peut changer si les gens changent leurs propres relations.",
+            "es": "Para él, el Estado no es solo una institución —es una forma de convivir que se puede cambiar si la gente cambia sus propias relaciones.",
+            "ca": "Per a ell, l'Estat no és només una institució —és una manera de conviure que es pot canviar si la gent canvia les seves pròpies relacions."
+          },
+          {
+            "fr": "En novembre 1918, l'Allemagne perd la Première Guerre mondiale. Une révolution commence, et la Bavière devient une république.",
+            "es": "En noviembre de 1918, Alemania pierde la Primera Guerra Mundial. Empieza una revolución, y Baviera se convierte en una república.",
+            "ca": "El novembre de 1918, Alemanya perd la Primera Guerra Mundial. Comença una revolució, i Baviera esdevé una república."
+          },
+          {
+            "fr": "En avril 1919, des anarchistes et des socialistes proclament une « République des conseils » à Munich. Landauer devient ministre de l'Éducation.",
+            "es": "En abril de 1919, unos anarquistas y socialistas proclaman una «República de los Consejos» en Múnich. Landauer se convierte en ministro de Educación.",
+            "ca": "L'abril de 1919, uns anarquistes i socialistes proclamen una «República dels Consells» a Munic. Landauer esdevé ministre d'Educació."
+          },
+          {
+            "fr": "Mais cette expérience dure seulement quelques semaines. Une armée de droite, les Corps francs, écrase la révolution avec beaucoup de violence.",
+            "es": "Pero esta experiencia dura solo unas semanas. Un ejército de derecha, los Cuerpos Francos, aplasta la revolución con mucha violencia.",
+            "ca": "Però aquesta experiència dura només unes setmanes. Un exèrcit de dreta, els Cossos Francs, aixafa la revolució amb molta violència."
+          },
+          {
+            "fr": "En mai 1919, Landauer est capturé et tué par des soldats. Il meurt d'une façon très brutale.",
+            "es": "En mayo de 1919, Landauer es capturado y asesinado por soldados. Muere de una manera muy brutal.",
+            "ca": "El maig de 1919, Landauer és capturat i assassinat per soldats. Mor d'una manera molt brutal."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1870 à Karlsruhe dans une famille juive de la bourgeoisie, Gustav Landauer développe une pensée anarchiste originale, fortement marquée par le romantisme allemand et une sensibilité mystique, qui le distingue des courants plus matérialistes de Bakounine ou Kropotkine.",
+            "es": "Nacido en 1870 en Karlsruhe en una familia judía de la burguesía, Gustav Landauer desarrolla un pensamiento anarquista original, fuertemente marcado por el romanticismo alemán y una sensibilidad mística, que lo distingue de las corrientes más materialistas de Bakunin o Kropotkin.",
+            "ca": "Nascut el 1870 a Karlsruhe en una família jueva de la burgesia, Gustav Landauer desenvolupa un pensament anarquista original, fortament marcat pel romanticisme alemany i una sensibilitat mística, que el distingeix dels corrents més materialistes de Bakunin o Kropotkin."
+          },
+          {
+            "h": {
+              "fr": "L'État comme relation, pas comme institution",
+              "es": "El Estado como relación, no como institución",
+              "ca": "L'Estat com a relació, no com a institució"
+            }
+          },
+          {
+            "fr": "Sa thèse la plus célèbre, exposée dans « Appel au socialisme » (1911), affirme que l'État n'est pas une chose extérieure aux individus mais une relation sociale que nous reproduisons collectivement chaque jour : « L'État est un rapport entre les êtres humains », écrit-il, ce qui implique qu'on peut le dissoudre non par la violence révolutionnaire seule, mais en tissant progressivement d'autres formes de relations, plus coopératives, à travers des communautés volontaires.",
+            "es": "Su tesis más célebre, expuesta en «Llamada al socialismo» (1911), afirma que el Estado no es algo exterior a los individuos sino una relación social que reproducimos colectivamente cada día: «El Estado es una relación entre seres humanos», escribe, lo que implica que se puede disolver no solo mediante la violencia revolucionaria, sino tejiendo progresivamente otras formas de relaciones, más cooperativas, a través de comunidades voluntarias.",
+            "ca": "La seva tesi més cèlebre, exposada a «Crida al socialisme» (1911), afirma que l'Estat no és una cosa exterior als individus sinó una relació social que reproduïm col·lectivament cada dia: «L'Estat és una relació entre éssers humans», escriu, cosa que implica que es pot dissoldre no només mitjançant la violència revolucionària, sinó teixint progressivament altres formes de relacions, més cooperatives, a través de comunitats voluntàries."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Landauer.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Gustav_Landauer.jpg",
+              "credit": {
+                "es": "Gustav Landauer (1870-1919) — Wikimedia Commons.",
+                "ca": "Gustav Landauer (1870-1919) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La révolution bavaroise",
+              "es": "La revolución bávara",
+              "ca": "La revolució bavaresa"
+            }
+          },
+          {
+            "fr": "Pacifiste, Landauer s'oppose à la Première Guerre mondiale. Quand l'Allemagne s'effondre militairement en novembre 1918, une révolution éclate à Munich, où le socialiste Kurt Eisner proclame une République de Bavière. Après l'assassinat d'Eisner en février 1919, des anarchistes et des socialistes indépendants, dont Landauer, proclament en avril une « République des conseils » plus radicale, où Landauer devient commissaire à l'Éducation, avec l'ambition de réformer profondément l'école dans un sens libertaire.",
+            "es": "Pacifista, Landauer se opone a la Primera Guerra Mundial. Cuando Alemania se derrumba militarmente en noviembre de 1918, estalla una revolución en Múnich, donde el socialista Kurt Eisner proclama una República de Baviera. Tras el asesinato de Eisner en febrero de 1919, unos anarquistas y socialistas independientes, entre ellos Landauer, proclaman en abril una «República de los Consejos» más radical, donde Landauer se convierte en comisario de Educación, con la ambición de reformar profundamente la escuela en un sentido libertario.",
+            "ca": "Pacifista, Landauer s'oposa a la Primera Guerra Mundial. Quan Alemanya s'esfondra militarment el novembre del 1918, esclata una revolució a Munic, on el socialista Kurt Eisner proclama una República de Baviera. Després de l'assassinat d'Eisner el febrer del 1919, uns anarquistes i socialistes independents, entre ells Landauer, proclamen a l'abril una «República dels Consells» més radical, on Landauer esdevé comissari d'Educació, amb l'ambició de reformar profundament l'escola en un sentit llibertari."
+          },
+          {
+            "h": {
+              "fr": "Une mort brutale",
+              "es": "Una muerte brutal",
+              "ca": "Una mort brutal"
+            }
+          },
+          {
+            "fr": "Cette expérience anarchiste dure à peine une semaine avant d'être remplacée par un gouvernement communiste plus autoritaire. Trois semaines plus tard, l'armée régulière et des milices paramilitaires de droite, les Corps francs, écrasent la République des conseils dans le sang. Landauer est capturé le 1er mai 1919 et battu à mort par des soldats le lendemain, dans des conditions d'une extrême brutalité qui font de lui l'un des martyrs les plus connus de l'anarchisme allemand.",
+            "es": "Esta experiencia anarquista dura apenas una semana antes de ser reemplazada por un gobierno comunista más autoritario. Tres semanas después, el ejército regular y milicias paramilitares de derecha, los Cuerpos Francos, aplastan la República de los Consejos a sangre y fuego. Landauer es capturado el 1 de mayo de 1919 y golpeado hasta la muerte por soldados al día siguiente, en condiciones de extrema brutalidad que hacen de él uno de los mártires más conocidos del anarquismo alemán.",
+            "ca": "Aquesta experiència anarquista dura amb prou feines una setmana abans de ser reemplaçada per un govern comunista més autoritari. Tres setmanes després, l'exèrcit regular i milícies paramilitars de dreta, els Cossos Francs, aixafen la República dels Consells a sang i foc. Landauer és capturat l'1 de maig del 1919 i colpejat fins a la mort per soldats l'endemà, en condicions d'extrema brutalitat que en fan un dels màrtirs més coneguts de l'anarquisme alemany."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1870 à Karlsruhe dans une famille juive de la bourgeoisie moyenne, Gustav Landauer développe, au fil d'études de philologie et de philosophie interrompues à plusieurs reprises par son engagement politique, une pensée anarchiste résolument singulière au sein du mouvement, marquée par le romantisme allemand, la philosophie de Spinoza et de Nietzsche, et une sensibilité mystique assumée qui tranche nettement avec le matérialisme plus classique de Bakounine ou Kropotkine.",
+            "es": "Nacido en 1870 en Karlsruhe en una familia judía de la burguesía media, Gustav Landauer desarrolla, a lo largo de estudios de filología y filosofía interrumpidos varias veces por su compromiso político, un pensamiento anarquista resueltamente singular dentro del movimiento, marcado por el romanticismo alemán, la filosofía de Spinoza y Nietzsche, y una sensibilidad mística asumida que contrasta claramente con el materialismo más clásico de Bakunin o Kropotkin.",
+            "ca": "Nascut el 1870 a Karlsruhe en una família jueva de la burgesia mitjana, Gustav Landauer desenvolupa, al llarg d'estudis de filologia i filosofia interromputs diverses vegades pel seu compromís polític, un pensament anarquista resoltament singular dins el moviment, marcat pel romanticisme alemany, la filosofia d'Spinoza i Nietzsche, i una sensibilitat mística assumida que contrasta clarament amb el materialisme més clàssic de Bakunin o Kropotkin."
+          },
+          {
+            "h": {
+              "fr": "L'État comme relation, pas comme institution",
+              "es": "El Estado como relación, no como institución",
+              "ca": "L'Estat com a relació, no com a institució"
+            }
+          },
+          {
+            "fr": "Sa contribution théorique la plus durable, développée notamment dans « Aufruf zum Sozialismus » (Appel au socialisme, 1911), repose sur une redéfinition radicale de la nature de l'État : plutôt qu'une institution extérieure et fixe qu'il faudrait détruire par un acte révolutionnaire unique, Landauer le conçoit comme un ensemble de relations sociales que les individus reproduisent quotidiennement par leurs comportements et leurs habitudes de soumission. Sa formule la plus citée — « L'État est un rapport entre les êtres humains, une manière dont les hommes se comportent les uns envers les autres ; on le détruit en contractant d'autres relations, en se comportant autrement » — implique une stratégie de transformation graduelle plutôt qu'insurrectionnelle : bâtir, dès maintenant et en marge du capitalisme, des coopératives, des communautés volontaires et des réseaux d'entraide qui rendent progressivement l'État superflu plutôt que de chercher à le renverser frontalement.",
+
+
+            "es": "Su contribución teórica más duradera, desarrollada especialmente en «Aufruf zum Sozialismus» (Llamada al socialismo, 1911), se basa en una redefinición radical de la naturaleza del Estado: en lugar de una institución exterior y fija que habría que destruir mediante un acto revolucionario único, Landauer lo concibe como un conjunto de relaciones sociales que los individuos reproducen cotidianamente mediante sus comportamientos y hábitos de sumisión. Su fórmula más citada —«El Estado es una relación entre seres humanos, una manera en que los hombres se comportan unos hacia otros; se le destruye contrayendo otras relaciones, comportándose de otra manera»— implica una estrategia de transformación gradual en lugar de insurreccional: construir, desde ahora y al margen del capitalismo, cooperativas, comunidades voluntarias y redes de ayuda mutua que vuelvan progresivamente al Estado superfluo en lugar de buscar derrocarlo frontalmente.",
+            "ca": "La seva contribució teòrica més duradora, desenvolupada especialment a «Aufruf zum Sozialismus» (Crida al socialisme, 1911), es basa en una redefinició radical de la naturalesa de l'Estat: en comptes d'una institució exterior i fixa que caldria destruir mitjançant un acte revolucionari únic, Landauer el concep com un conjunt de relacions socials que els individus reprodueixen quotidianament mitjançant els seus comportaments i hàbits de submissió. La seva fórmula més citada —«L'Estat és una relació entre éssers humans, una manera en què els homes es comporten els uns envers els altres; es destrueix contraient altres relacions, comportant-se d'una altra manera»— implica una estratègia de transformació gradual en comptes d'insurreccional: construir, des d'ara i al marge del capitalisme, cooperatives, comunitats voluntàries i xarxes d'ajuda mútua que tornin progressivament l'Estat superflu en comptes de buscar enderrocar-lo frontalment."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Landauer.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Gustav_Landauer.jpg",
+              "credit": {
+                "es": "Gustav Landauer (1870-1919) — Wikimedia Commons.",
+                "ca": "Gustav Landauer (1870-1919) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La révolution bavaroise",
+              "es": "La revolución bávara",
+              "ca": "La revolució bavaresa"
+            }
+          },
+          {
+            "fr": "Pacifiste convaincu, Landauer s'oppose activement à la Première Guerre mondiale, une position minoritaire et risquée dans l'Allemagne de l'époque. Lorsque la défaite militaire allemande provoque l'effondrement de l'Empire en novembre 1918, une révolution éclate à Munich, où le journaliste socialiste indépendant Kurt Eisner proclame la République populaire de Bavière — une révolution largement pacifique par rapport au reste de l'Allemagne. Après l'assassinat d'Eisner par un nationaliste d'extrême droite en février 1919, la situation politique bavaroise se radicalise brusquement : dans la nuit du 6 au 7 avril, un groupe d'anarchistes, de socialistes indépendants et d'intellectuels bohèmes — dont l'écrivain Ernst Toller, le dramaturge Erich Mühsam et Landauer lui-même — proclame une « République des conseils » directement inspirée des soviets russes, mais dans une version nettement plus libertaire et culturelle que politique et militaire.",
+            "es": "Pacifista convencido, Landauer se opone activamente a la Primera Guerra Mundial, una postura minoritaria y arriesgada en la Alemania de la época. Cuando la derrota militar alemana provoca el colapso del Imperio en noviembre de 1918, estalla una revolución en Múnich, donde el periodista socialista independiente Kurt Eisner proclama la República Popular de Baviera —una revolución ampliamente pacífica comparada con el resto de Alemania. Tras el asesinato de Eisner a manos de un nacionalista de extrema derecha en febrero de 1919, la situación política bávara se radicaliza bruscamente: en la noche del 6 al 7 de abril, un grupo de anarquistas, socialistas independientes e intelectuales bohemios —entre ellos el escritor Ernst Toller, el dramaturgo Erich Mühsam y el propio Landauer— proclama una «República de los Consejos» directamente inspirada en los sóviets rusos, pero en una versión claramente más libertaria y cultural que política y militar.",
+            "ca": "Pacifista convençut, Landauer s'oposa activament a la Primera Guerra Mundial, una postura minoritària i arriscada a l'Alemanya de l'època. Quan la derrota militar alemanya provoca el col·lapse de l'Imperi el novembre del 1918, esclata una revolució a Munic, on el periodista socialista independent Kurt Eisner proclama la República Popular de Baviera —una revolució àmpliament pacífica comparada amb la resta d'Alemanya. Després de l'assassinat d'Eisner a mans d'un nacionalista d'extrema dreta el febrer del 1919, la situació política bavaresa es radicalitza bruscament: la nit del 6 al 7 d'abril, un grup d'anarquistes, socialistes independents i intel·lectuals bohemis —entre ells l'escriptor Ernst Toller, el dramaturg Erich Mühsam i el mateix Landauer— proclama una «República dels Consells» directament inspirada en els soviets russos, però en una versió clarament més llibertària i cultural que política i militar."
+          },
+          {
+            "fr": "Nommé commissaire à l'Enseignement et à l'Instruction publique, Landauer conçoit d'ambitieux projets de réforme éducative fondés sur la créativité et l'autonomie plutôt que sur la mémorisation autoritaire, mais dispose de trop peu de temps pour les mettre en œuvre : dès le 13 avril, un putsch de droite raté (le « putsch du dimanche des Rameaux ») provoque la chute des anarchistes au profit d'un gouvernement communiste plus centralisé, dirigé par Eugen Leviné, qui exclut Landauer de toute responsabilité officielle.",
+            "es": "Nombrado comisario de Enseñanza e Instrucción Pública, Landauer concibe ambiciosos proyectos de reforma educativa basados en la creatividad y la autonomía en lugar de la memorización autoritaria, pero dispone de muy poco tiempo para ponerlos en marcha: ya el 13 de abril, un golpe fallido de derecha (el «putsch del Domingo de Ramos») provoca la caída de los anarquistas en favor de un gobierno comunista más centralizado, dirigido por Eugen Leviné, que excluye a Landauer de toda responsabilidad oficial.",
+            "ca": "Nomenat comissari d'Ensenyament i Instrucció Pública, Landauer concep ambiciosos projectes de reforma educativa basats en la creativitat i l'autonomia en comptes de la memorització autoritària, però disposa de molt poc temps per posar-los en marxa: ja el 13 d'abril, un cop d'estat fallit de dreta (el «putsch del Diumenge de Rams») provoca la caiguda dels anarquistes en favor d'un govern comunista més centralitzat, dirigit per Eugen Leviné, que exclou Landauer de tota responsabilitat oficial."
+          },
+          {
+            "h": {
+              "fr": "Une mort brutale",
+              "es": "Una muerte brutal",
+              "ca": "Una mort brutal"
+            }
+          },
+          {
+            "fr": "L'ensemble de l'expérience révolutionnaire bavaroise, anarchiste puis communiste, ne dure qu'un mois avant d'être écrasée début mai 1919 par l'armée régulière allemande, appuyée par des unités paramilitaires d'extrême droite, les Corps francs (Freikorps), dans une répression d'une violence extrême qui fait plus d'un millier de morts à Munich. Landauer, arrêté le 1er mai alors qu'il tentait de fuir, est reconnu, battu à coups de crosse et de matraque puis abattu par des soldats des Corps francs le lendemain — une exécution sommaire d'une brutalité telle qu'elle choque jusque dans les rangs conservateurs de l'époque.",
+            "es": "Toda la experiencia revolucionaria bávara, anarquista y luego comunista, dura solo un mes antes de ser aplastada a principios de mayo de 1919 por el ejército regular alemán, apoyado por unidades paramilitares de extrema derecha, los Cuerpos Francos (Freikorps), en una represión de extrema violencia que causa más de mil muertos en Múnich. Landauer, arrestado el 1 de mayo mientras intentaba huir, es reconocido, golpeado con culatas y porras y luego abatido por soldados de los Cuerpos Francos al día siguiente —una ejecución sumaria de tal brutalidad que escandaliza incluso en las filas conservadoras de la época.",
+            "ca": "Tota l'experiència revolucionària bavaresa, anarquista i després comunista, dura només un mes abans de ser aixafada a principis de maig del 1919 per l'exèrcit regular alemany, recolzat per unitats paramilitars d'extrema dreta, els Cossos Francs (Freikorps), en una repressió d'extrema violència que causa més de mil morts a Munic. Landauer, arrestat l'1 de maig mentre intentava fugir, és reconegut, colpejat amb culates i porres i després abatut per soldats dels Cossos Francs l'endemà —una execució sumària d'una brutalitat tal que escandalitza fins i tot en les files conservadores de l'època."
+          },
+          {
+            "fr": "Sa mort fait de lui l'un des martyrs les plus emblématiques de l'anarchisme européen du 20e siècle, et son œuvre théorique, longtemps éclipsée par les figures plus « classiques » de Bakounine ou Kropotkine, connaît une redécouverte progressive à partir des années 1970-1980, notamment pour sa réflexion précoce sur la transformation sociale par la construction communautaire graduelle plutôt que par la seule rupture insurrectionnelle — une idée qui trouvera un écho tardif dans le municipalisme libertaire de Murray Bookchin.",
+            "es": "Su muerte lo convierte en uno de los mártires más emblemáticos del anarquismo europeo del siglo XX, y su obra teórica, largo tiempo eclipsada por las figuras más «clásicas» de Bakunin o Kropotkin, conoce un redescubrimiento progresivo a partir de los años 1970-1980, especialmente por su reflexión precoz sobre la transformación social mediante la construcción comunitaria gradual en lugar de la sola ruptura insurreccional —una idea que encontrará un eco tardío en el municipalismo libertario de Murray Bookchin.",
+            "ca": "La seva mort el converteix en un dels màrtirs més emblemàtics de l'anarquisme europeu del segle XX, i la seva obra teòrica, molt de temps eclipsada per les figures més «clàssiques» de Bakunin o Kropotkin, coneix un redescobriment progressiu a partir dels anys 1970-1980, especialment per la seva reflexió precoç sobre la transformació social mitjançant la construcció comunitària gradual en comptes de la sola ruptura insurreccional —una idea que trobarà un ressò tardà en el municipalisme llibertari de Murray Bookchin."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un rapport (social)",
+          "es": "una relación (social)",
+          "ca": "una relació (social)"
+        },
+        {
+          "mot": "superflu(e)",
+          "es": "superfluo/a",
+          "ca": "superflu/a"
+        },
+        {
+          "mot": "un putsch",
+          "es": "un golpe (de Estado)",
+          "ca": "un cop (d'Estat)"
+        },
+        {
+          "mot": "une milice paramilitaire",
+          "es": "una milicia paramilitar",
+          "ca": "una milícia paramilitar"
+        },
+        {
+          "mot": "une exécution sommaire",
+          "es": "una ejecución sumaria",
+          "ca": "una execució sumària"
+        },
+        {
+          "mot": "un(e) martyr(e)",
+          "es": "un/a mártir",
+          "ca": "un/a màrtir"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuál es la tesis central de Landauer sobre el Estado?",
+            "ca": "Quina és la tesi central de Landauer sobre l'Estat?"
+          },
+          "piste": {
+            "es": "que es una relación social reproducida cotidianamente, no una institución fija a destruir de golpe",
+            "ca": "que és una relació social reproduïda quotidianament, no una institució fixa a destruir de cop"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué proclama un grupo de anarquistas y socialistas en Múnich en abril de 1919?",
+            "ca": "Què proclama un grup d'anarquistes i socialistes a Munic l'abril de 1919?"
+          },
+          "piste": {
+            "es": "una «República de los Consejos»",
+            "ca": "una «República dels Consells»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué cargo ocupa Landauer en ese gobierno?",
+            "ca": "Quin càrrec ocupa Landauer en aquell govern?"
+          },
+          "piste": {
+            "es": "comisario de Enseñanza e Instrucción Pública",
+            "ca": "comissari d'Ensenyament i Instrucció Pública"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo muere Landauer en mayo de 1919?",
+            "ca": "Com mor Landauer el maig de 1919?"
+          },
+          "piste": {
+            "es": "es capturado y ejecutado sumariamente por los Cuerpos Francos",
+            "ca": "és capturat i executat sumàriament pels Cossos Francs"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Gustav Landauer",
+          "url": "https://en.wikipedia.org/wiki/Gustav_Landauer"
+        },
+        {
+          "titre": "Wikipedia — Bavarian Soviet Republic",
+          "url": "https://en.wikipedia.org/wiki/Bavarian_Soviet_Republic"
+        }
+      ]
+    }
+  ]
+}

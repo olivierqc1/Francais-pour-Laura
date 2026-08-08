@@ -1,0 +1,285 @@
+{
+  "textes": [
+    {
+      "id": "stirner_individualisme",
+      "emoji": "🪞",
+      "theme": "Politique",
+      "periode": "1806 à 1856",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Stirner-k.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg",
+        "credit": {
+          "es": "Max Stirner, dibujado por Friedrich Engels de memoria hacia 1892 — el único retrato conocido — Wikimedia Commons.",
+          "ca": "Max Stirner, dibuixat per Friedrich Engels de memòria cap al 1892 —l'únic retrat conegut— Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Max Stirner y el individualismo: solo el Único cuenta",
+        "ca": "Max Stirner i l'individualisme: només l'Únic compta"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Max Stirner naît en 1806 en Allemagne. Son vrai nom est Johann Kaspar Schmidt.",
+            "es": "Max Stirner nace en 1806 en Alemania. Su verdadero nombre es Johann Kaspar Schmidt.",
+            "ca": "Max Stirner neix el 1806 a Alemanya. El seu nom real és Johann Kaspar Schmidt."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Stirner-k.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg",
+              "credit": {
+                "es": "Max Stirner, dibujado por Friedrich Engels de memoria hacia 1892 — el único retrato conocido — Wikimedia Commons.",
+                "ca": "Max Stirner, dibuixat per Friedrich Engels de memòria cap al 1892 —l'únic retrat conegut— Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il devient professeur pour jeunes filles. Le soir, il discute de philosophie avec un groupe d'amis à Berlin.",
+            "es": "Se hace profesor para chicas jóvenes. Por la noche, discute de filosofía con un grupo de amigos en Berlín.",
+            "ca": "Es fa professor per a noies joves. Al vespre, discuteix de filosofia amb un grup d'amics a Berlín."
+          },
+          {
+            "fr": "En 1844, il écrit un livre très différent des autres anarchistes : « L'Unique et sa propriété ».",
+            "es": "En 1844, escribe un libro muy diferente de los demás anarquistas: «El único y su propiedad».",
+            "ca": "El 1844, escriu un llibre molt diferent dels altres anarquistes: «L'únic i la seva propietat»."
+          },
+          {
+            "fr": "Pour Stirner, il n'y a pas de « peuple », pas de « société », pas d'« humanité » — juste des individus uniques, chacun pour soi.",
+            "es": "Para Stirner, no hay «pueblo», no hay «sociedad», no hay «humanidad» —solo individuos únicos, cada uno para sí mismo.",
+            "ca": "Per a Stirner, no hi ha «poble», no hi ha «societat», no hi ha «humanitat» —només individus únics, cadascú per a si mateix."
+          },
+          {
+            "fr": "Il critique même les autres anarchistes ! Il pense que des idées comme « la révolution » ou « l'humanité » sont aussi des chaînes.",
+            "es": "¡Incluso critica a los otros anarquistas! Piensa que ideas como «la revolución» o «la humanidad» son también cadenas.",
+            "ca": "Fins i tot critica els altres anarquistes! Pensa que idees com «la revolució» o «la humanitat» també són cadenes."
+          },
+          {
+            "fr": "Sa vie personnelle est difficile : il perd tout son argent et meurt pauvre en 1856, presque oublié.",
+            "es": "Su vida personal es difícil: pierde todo su dinero y muere pobre en 1856, casi olvidado.",
+            "ca": "La seva vida personal és difícil: perd tots els seus diners i mor pobre el 1856, gairebé oblidat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né Johann Kaspar Schmidt en 1806 à Bayreuth, en Bavière, celui qui prendra le pseudonyme de « Max Stirner » (un surnom d'école lié à son grand front, « Stirn » signifiant front en allemand) devient enseignant dans une école pour jeunes filles bourgeoises à Berlin.",
+            "es": "Nacido como Johann Kaspar Schmidt en 1806 en Bayreuth, Baviera, el que adoptará el seudónimo de «Max Stirner» (un apodo escolar relacionado con su gran frente, «Stirn» significa frente en alemán) se convierte en profesor en una escuela para señoritas burguesas en Berlín.",
+            "ca": "Nascut com a Johann Kaspar Schmidt el 1806 a Bayreuth, Baviera, el que adoptarà el pseudònim de «Max Stirner» (un malnom escolar relacionat amb el seu gran front, «Stirn» significa front en alemany) esdevé professor en una escola per a senyoretes burgeses a Berlín."
+          },
+          {
+            "h": {
+              "fr": "Le cercle des « Libres »",
+              "es": "El círculo de los «Libres»",
+              "ca": "El cercle dels «Lliures»"
+            }
+          },
+          {
+            "fr": "Le soir, il fréquente un cercle de jeunes intellectuels berlinois surnommé « Die Freien » (les Libres), où se retrouvent notamment les jeunes Friedrich Engels et Karl Marx, alors influencés par la philosophie de Hegel. C'est dans ce contexte de débats intenses que Stirner développe une pensée radicalement individualiste, en réaction contre les grandes abstractions collectives — Dieu, l'État, mais aussi l'Humanité ou même « le peuple » — qu'il juge toutes également aliénantes.",
+            "es": "Por la noche, frecuenta un círculo de jóvenes intelectuales berlineses apodado «Die Freien» (los Libres), donde se encuentran especialmente los jóvenes Friedrich Engels y Karl Marx, entonces influidos por la filosofía de Hegel. Es en este contexto de debates intensos que Stirner desarrolla un pensamiento radicalmente individualista, en reacción contra las grandes abstracciones colectivas —Dios, el Estado, pero también la Humanidad o incluso «el pueblo»— que juzga todas igualmente alienantes.",
+            "ca": "Al vespre, freqüenta un cercle de joves intel·lectuals berlinesos anomenat «Die Freien» (els Lliures), on es troben especialment els joves Friedrich Engels i Karl Marx, aleshores influïts per la filosofia de Hegel. És en aquest context de debats intensos que Stirner desenvolupa un pensament radicalment individualista, en reacció contra les grans abstraccions col·lectives —Déu, l'Estat, però també la Humanitat o fins i tot «el poble»— que jutja totes igualment alienants."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Stirner-k.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg",
+              "credit": {
+                "es": "Max Stirner, dibujado por Friedrich Engels de memoria hacia 1892 — el único retrato conocido — Wikimedia Commons.",
+                "ca": "Max Stirner, dibuixat per Friedrich Engels de memòria cap al 1892 —l'únic retrat conegut— Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "« L'Unique et sa propriété »",
+              "es": "«El único y su propiedad»",
+              "ca": "«L'únic i la seva propietat»"
+            }
+          },
+          {
+            "fr": "Dans son unique grand ouvrage, publié en 1844, Stirner soutient que tout idéal auquel un individu se soumet — la nation, Dieu, la morale, mais aussi bien « l'humanité » chère aux socialistes ou même « la révolution » — n'est qu'un nouveau maître invisible, un « fantôme » qui exige l'obéissance tout comme le faisaient le roi ou l'Église.",
+            "es": "En su única gran obra, publicada en 1844, Stirner sostiene que todo ideal al que un individuo se somete —la nación, Dios, la moral, pero también «la humanidad» tan querida por los socialistas o incluso «la revolución»— no es más que un nuevo amo invisible, un «fantasma» que exige obediencia tal como lo hacían el rey o la Iglesia.",
+            "ca": "En la seva única gran obra, publicada el 1844, Stirner sosté que tot ideal al qual un individu se sotmet —la nació, Déu, la moral, però també «la humanitat» tan estimada pels socialistes o fins i tot «la revolució»— no és més que un nou amo invisible, un «fantasma» que exigeix obediència tal com ho feien el rei o l'Església."
+          },
+          {
+            "fr": "Sa seule proposition positive n'est pas un programme politique, mais une attitude : que chaque individu (« l'Unique ») se réapproprie sa propre existence sans se sacrifier à aucune cause supérieure, ni même à celle des autres travailleurs. Il préfère la notion d'« association d'égoïstes » — un rassemblement volontaire et révocable d'individus qui coopèrent tant que ça les sert, sans jamais s'y perdre.",
+            "es": "Su única propuesta positiva no es un programa político, sino una actitud: que cada individuo («el Único») se reapropie de su propia existencia sin sacrificarse a ninguna causa superior, ni siquiera a la de los demás trabajadores. Prefiere la noción de «unión de egoístas» —una agrupación voluntaria y revocable de individuos que cooperan mientras les sirve, sin perderse jamás en ella.",
+            "ca": "La seva única proposta positiva no és un programa polític, sinó una actitud: que cada individu («l'Únic») es reapropiï de la seva pròpia existència sense sacrificar-se a cap causa superior, ni tan sols a la dels altres treballadors. Prefereix la noció d'«associació d'egoistes» —un aplec voluntari i revocable d'individus que cooperen mentre els serveix, sense perdre-s'hi mai."
+          },
+          {
+            "h": {
+              "fr": "Une fin de vie misérable",
+              "es": "Un final de vida miserable",
+              "ca": "Un final de vida miserable"
+            }
+          },
+          {
+            "fr": "Sa vie personnelle contraste durement avec ses ambitions philosophiques : ruiné par des placements financiers désastreux et l'échec d'un commerce de lait, il connaît la prison pour dettes et sombre dans l'oubli. Il meurt en 1856, presque anonyme, et son œuvre ne sera véritablement redécouverte que plusieurs décennies plus tard, notamment par le militant écossais John Henry Mackay.",
+            "es": "Su vida personal contrasta duramente con sus ambiciones filosóficas: arruinado por inversiones financieras desastrosas y el fracaso de un comercio de leche, conoce la prisión por deudas y cae en el olvido. Muere en 1856, casi anónimo, y su obra no será verdaderamente redescubierta hasta varias décadas después, especialmente por el militante escocés John Henry Mackay.",
+            "ca": "La seva vida personal contrasta durament amb les seves ambicions filosòfiques: arruïnat per inversions financeres desastroses i el fracàs d'un comerç de llet, coneix la presó per deutes i cau en l'oblit. Mor el 1856, gairebé anònim, i la seva obra no serà veritablement redescoberta fins diverses dècades després, especialment pel militant escocès John Henry Mackay."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né Johann Kaspar Schmidt en 1806 à Bayreuth, en Bavière, celui qui adoptera le pseudonyme « Max Stirner » — un surnom d'écolier lié à son front proéminent (Stirn signifie « front » en allemand) — mène d'abord des études de philosophie et de philologie à Berlin, Erlangen et Königsberg, avant de devenir enseignant dans une école privée pour jeunes filles bourgeoises, un métier modeste qu'il exercera pendant l'essentiel de sa vie active.",
+            "es": "Nacido como Johann Kaspar Schmidt en 1806 en Bayreuth, Baviera, quien adoptará el seudónimo «Max Stirner» —un apodo escolar ligado a su frente prominente (Stirn significa «frente» en alemán)— cursa primero estudios de filosofía y filología en Berlín, Erlangen y Königsberg, antes de convertirse en profesor en una escuela privada para señoritas burguesas, un oficio modesto que ejercerá durante la mayor parte de su vida activa.",
+            "ca": "Nascut com a Johann Kaspar Schmidt el 1806 a Bayreuth, Baviera, qui adoptarà el pseudònim «Max Stirner» —un malnom escolar lligat al seu front prominent (Stirn significa «front» en alemany)— cursa primer estudis de filosofia i filologia a Berlín, Erlangen i Königsberg, abans de convertir-se en professor en una escola privada per a senyoretes burgeses, un ofici modest que exercirà durant la major part de la seva vida activa."
+          },
+          {
+            "h": {
+              "fr": "Le cercle des « Libres » de Berlin",
+              "es": "El círculo de los «Libres» de Berlín",
+              "ca": "El cercle dels «Lliures» de Berlín"
+            }
+          },
+          {
+            "fr": "À partir de 1841, il fréquente assidûment le cercle intellectuel berlinois surnommé « Die Freien » (les Libres), un groupe de jeunes hégéliens de gauche qui se retrouvent régulièrement dans un café pour débattre de philosophie, de religion et de politique — parmi eux, les jeunes Friedrich Engels et, plus brièvement, Karl Marx. C'est dans ce bouillonnement intellectuel que Stirner élabore sa critique radicale de toute forme d'abstraction collective imposée à l'individu : non seulement Dieu et l'État, cibles classiques des jeunes hégéliens, mais aussi des notions que ses propres camarades tiennent pour sacrées, comme « l'Humanité » de Feuerbach ou « le prolétariat » des premiers socialistes.",
+
+
+            "es": "A partir de 1841, frecuenta asiduamente el círculo intelectual berlinés apodado «Die Freien» (los Libres), un grupo de jóvenes hegelianos de izquierda que se reúnen regularmente en un café para debatir sobre filosofía, religión y política —entre ellos, los jóvenes Friedrich Engels y, más brevemente, Karl Marx. Es en esta efervescencia intelectual donde Stirner elabora su crítica radical de toda forma de abstracción colectiva impuesta al individuo: no solo Dios y el Estado, blancos clásicos de los jóvenes hegelianos, sino también nociones que sus propios camaradas consideran sagradas, como «la Humanidad» de Feuerbach o «el proletariado» de los primeros socialistas.",
+            "ca": "A partir de 1841, freqüenta assíduament el cercle intel·lectual berlinès anomenat «Die Freien» (els Lliures), un grup de joves hegelians d'esquerra que es troben regularment en un cafè per debatre sobre filosofia, religió i política —entre ells, els joves Friedrich Engels i, més breument, Karl Marx. És en aquesta efervescència intel·lectual on Stirner elabora la seva crítica radical de tota forma d'abstracció col·lectiva imposada a l'individu: no només Déu i l'Estat, blancs clàssics dels joves hegelians, sinó també nocions que els seus propis companys consideren sagrades, com «la Humanitat» de Feuerbach o «el proletariat» dels primers socialistes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Stirner-k.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg",
+              "credit": {
+                "es": "Max Stirner, dibujado por Friedrich Engels de memoria hacia 1892 — el único retrato conocido — Wikimedia Commons.",
+                "ca": "Max Stirner, dibuixat per Friedrich Engels de memòria cap al 1892 —l'únic retrat conegut— Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "« L'Unique et sa propriété » : une critique totale",
+              "es": "«El único y su propiedad»: una crítica total",
+              "ca": "«L'únic i la seva propietat»: una crítica total"
+            }
+          },
+          {
+            "fr": "Publié en 1844, son unique ouvrage majeur, « Der Einzige und sein Eigentum » (« L'Unique et sa propriété »), déploie une thèse radicale : toute idée à laquelle un individu se sacrifie — qu'il s'agisse de Dieu, de la patrie, de la morale, ou même de concepts progressistes comme « l'Humanité » ou « la Révolution » — fonctionne comme un « fantôme » (Spuk), une fiction abstraite qui exerce sur l'esprit une domination aussi réelle que celle d'un tyran, précisément parce qu'elle se fait passer pour une vérité supérieure et incontestable plutôt que pour ce qu'elle est : une simple création humaine.",
+            "es": "Publicada en 1844, su única obra mayor, «Der Einzige und sein Eigentum» («El único y su propiedad»), despliega una tesis radical: toda idea a la que un individuo se sacrifica —ya sea Dios, la patria, la moral, o incluso conceptos progresistas como «la Humanidad» o «la Revolución»— funciona como un «fantasma» (Spuk), una ficción abstracta que ejerce sobre la mente una dominación tan real como la de un tirano, precisamente porque se hace pasar por una verdad superior e incuestionable en lugar de lo que es: una simple creación humana.",
+            "ca": "Publicada el 1844, la seva única obra major, «Der Einzige und sein Eigentum» («L'únic i la seva propietat»), desplega una tesi radical: tota idea a la qual un individu es sacrifica —ja sigui Déu, la pàtria, la moral, o fins i tot conceptes progressistes com «la Humanitat» o «la Revolució»— funciona com un «fantasma» (Spuk), una ficció abstracta que exerceix sobre la ment una dominació tan real com la d'un tirà, precisament perquè es fa passar per una veritat superior i incontestable en comptes del que és: una simple creació humana."
+          },
+          {
+            "fr": "Sa cible ne se limite donc pas à la religion et à l'État : Stirner s'en prend explicitement aux socialistes et communistes de son temps, dont Feuerbach et le jeune Marx, leur reprochant de simplement remplacer un maître (Dieu, le roi) par un autre maître tout aussi abstrait (l'Humanité, la Société, la classe ouvrière), sans jamais interroger le principe même du sacrifice de l'individu à une cause collective. Cette critique lui vaudra d'ailleurs une réponse cinglante de Marx et Engels, qui lui consacrent près de la moitié de leur manuscrit inédit « L'Idéologie allemande » (1846) pour le ridiculiser.",
+            "es": "Su objetivo no se limita entonces a la religión y el Estado: Stirner ataca explícitamente a los socialistas y comunistas de su época, entre ellos Feuerbach y el joven Marx, reprochándoles simplemente reemplazar un amo (Dios, el rey) por otro amo igualmente abstracto (la Humanidad, la Sociedad, la clase obrera), sin nunca cuestionar el propio principio del sacrificio del individuo a una causa colectiva. Esta crítica le valdrá además una respuesta mordaz de Marx y Engels, que le dedican casi la mitad de su manuscrito inédito «La ideología alemana» (1846) para ridiculizarlo.",
+            "ca": "El seu objectiu no es limita doncs a la religió i l'Estat: Stirner ataca explícitament els socialistes i comunistes de la seva època, entre ells Feuerbach i el jove Marx, retraient-los simplement reemplaçar un amo (Déu, el rei) per un altre amo igualment abstracte (la Humanitat, la Societat, la classe obrera), sense mai qüestionar el mateix principi del sacrifici de l'individu a una causa col·lectiva. Aquesta crítica li valdrà a més una resposta mordaç de Marx i Engels, que li dediquen gairebé la meitat del seu manuscrit inèdit «La ideologia alemanya» (1846) per ridiculitzar-lo."
+          },
+          {
+            "h": {
+              "fr": "L'association d'égoïstes",
+              "es": "La unión de egoístas",
+              "ca": "L'associació d'egoistes"
+            }
+          },
+          {
+            "fr": "Contrairement à ce que son titre pourrait laisser croire, Stirner ne prône pas un repli asocial : il propose le concept de « Verein von Egoisten » (association d'égoïstes), une coopération librement choisie entre individus qui s'associent tant que cela sert leurs intérêts propres, sans qu'aucun ne se sacrifie pour l'autre ni pour un idéal collectif supérieur — une association révocable à tout instant, à l'opposé d'un contrat social permanent ou d'une communauté fusionnelle.",
+            "es": "A diferencia de lo que su título podría hacer creer, Stirner no aboga por un repliegue asocial: propone el concepto de «Verein von Egoisten» (unión de egoístas), una cooperación libremente elegida entre individuos que se asocian mientras eso sirve a sus propios intereses, sin que ninguno se sacrifique por el otro ni por un ideal colectivo superior —una asociación revocable en cualquier momento, en las antípodas de un contrato social permanente o una comunidad fusional.",
+            "ca": "A diferència del que el seu títol podria fer creure, Stirner no defensa un replegament asocial: proposa el concepte de «Verein von Egoisten» (associació d'egoistes), una cooperació lliurement triada entre individus que s'associen mentre això serveix als seus propis interessos, sense que cap se sacrifiqui per l'altre ni per un ideal col·lectiu superior —una associació revocable en qualsevol moment, als antípodes d'un contracte social permanent o una comunitat fusional."
+          },
+          {
+            "h": {
+              "fr": "Une fin de vie misérable, une redécouverte tardive",
+              "es": "Un final de vida miserable, un redescubrimiento tardío",
+              "ca": "Un final de vida miserable, un redescobriment tardà"
+            }
+          },
+          {
+            "fr": "Sa vie personnelle contraste cruellement avec l'audace de sa pensée : son second mariage avec Marie Dähnhardt, elle-même figure du cercle des Libres, échoue après qu'il eut dilapidé sa fortune dans une tentative ratée de monter une entreprise de vente de lait en coopérative avec d'autres berlinois. Ruiné, il connaît plusieurs séjours en prison pour dettes et meurt en 1856, à seulement 49 ans, dans un quasi-anonymat — seuls quelques anciens compagnons du cercle des Libres assistent à son enterrement.",
+            "es": "Su vida personal contrasta cruelmente con la audacia de su pensamiento: su segundo matrimonio con Marie Dähnhardt, ella misma figura del círculo de los Libres, fracasa después de que él dilapidara su fortuna en un intento fallido de montar una empresa de venta de leche en cooperativa con otros berlineses. Arruinado, conoce varias estancias en prisión por deudas y muere en 1856, a solo 49 años, en un cuasi anonimato —solo unos pocos antiguos compañeros del círculo de los Libres asisten a su entierro.",
+            "ca": "La seva vida personal contrasta cruelment amb l'audàcia del seu pensament: el seu segon matrimoni amb Marie Dähnhardt, ella mateixa figura del cercle dels Lliures, fracassa després que ell dilapidés la seva fortuna en un intent fallit de muntar una empresa de venda de llet en cooperativa amb altres berlinesos. Arruïnat, coneix diverses estades a la presó per deutes i mor el 1856, amb només 49 anys, en un quasi anonimat —només uns quants antics companys del cercle dels Lliures assisteixen al seu enterrament."
+          },
+          {
+            "fr": "Son œuvre tombe presque entièrement dans l'oubli jusqu'à sa redécouverte, près de cinquante ans plus tard, par le militant individualiste écossais John Henry Mackay, qui lui consacre une biographie en 1898 et contribue à en faire une référence durable de l'anarchisme individualiste — un courant qui influencera ensuite des penseurs aussi différents que l'Américain Benjamin Tucker ou certains milieux artistiques et libertaires du début du 20e siècle, tout en restant l'objet de débats sur sa compatibilité réelle avec les courants anarchistes plus collectifs.",
+            "es": "Su obra cae casi completamente en el olvido hasta su redescubrimiento, casi cincuenta años después, por el militante individualista escocés John Henry Mackay, que le dedica una biografía en 1898 y contribuye a convertirla en una referencia duradera del anarquismo individualista —una corriente que influirá luego en pensadores tan distintos como el estadounidense Benjamin Tucker o ciertos círculos artísticos y libertarios de principios del siglo XX, siendo objeto de debates sobre su compatibilidad real con las corrientes anarquistas más colectivas.",
+            "ca": "La seva obra cau gairebé completament en l'oblit fins al seu redescobriment, gairebé cinquanta anys després, pel militant individualista escocès John Henry Mackay, que li dedica una biografia el 1898 i contribueix a convertir-la en una referència duradora de l'anarquisme individualista —un corrent que influirà després en pensadors tan diferents com l'estatunidenc Benjamin Tucker o certs cercles artístics i llibertaris de principis del segle XX, sent objecte de debats sobre la seva compatibilitat real amb els corrents anarquistes més col·lectius."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un fantôme (idée abstraite)",
+          "es": "un fantasma (idea abstracta)",
+          "ca": "un fantasma (idea abstracta)"
+        },
+        {
+          "mot": "se sacrifier (à une cause)",
+          "es": "sacrificarse (por una causa)",
+          "ca": "sacrificar-se (per una causa)"
+        },
+        {
+          "mot": "l'égoïsme",
+          "es": "el egoísmo",
+          "ca": "l'egoisme"
+        },
+        {
+          "mot": "révocable",
+          "es": "revocable",
+          "ca": "revocable"
+        },
+        {
+          "mot": "dilapider (sa fortune)",
+          "es": "dilapidar (su fortuna)",
+          "ca": "dilapidar (la seva fortuna)"
+        },
+        {
+          "mot": "un anonymat",
+          "es": "un anonimato",
+          "ca": "un anonimat"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Con qué círculo intelectual se relaciona Stirner en Berlín, y quiénes lo frecuentan también?",
+            "ca": "Amb quin cercle intel·lectual es relaciona Stirner a Berlín, i qui el freqüenta també?"
+          },
+          "piste": {
+            "es": "«Die Freien» (los Libres); Engels y, brevemente, Marx",
+            "ca": "«Die Freien» (els Lliures); Engels i, breument, Marx"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es un «fantasma» (Spuk) según Stirner?",
+            "ca": "Què és un «fantasma» (Spuk) segons Stirner?"
+          },
+          "piste": {
+            "es": "una idea abstracta (Dios, la Humanidad, la Revolución) que domina al individuo como un amo",
+            "ca": "una idea abstracta (Déu, la Humanitat, la Revolució) que domina l'individu com un amo"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «unión de egoístas» que propone Stirner?",
+            "ca": "Què és la «unió d'egoistes» que proposa Stirner?"
+          },
+          "piste": {
+            "es": "una cooperación libre y revocable entre individuos, sin sacrificio para una causa colectiva",
+            "ca": "una cooperació lliure i revocable entre individus, sense sacrifici per a una causa col·lectiva"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién redescubre la obra de Stirner casi 50 años después, y qué hace?",
+            "ca": "Qui redescobreix l'obra de Stirner gairebé 50 anys després, i què fa?"
+          },
+          "piste": {
+            "es": "John Henry Mackay; le dedica una biografía en 1898",
+            "ca": "John Henry Mackay; li dedica una biografia el 1898"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Max Stirner",
+          "url": "https://en.wikipedia.org/wiki/Max_Stirner"
+        },
+        {
+          "titre": "Wikipedia — The Ego and Its Own",
+          "url": "https://en.wikipedia.org/wiki/The_Ego_and_Its_Own"
+        }
+      ]
+    }
+  ]
+}

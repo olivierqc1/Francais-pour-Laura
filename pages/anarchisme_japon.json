@@ -1,0 +1,279 @@
+{
+  "textes": [
+    {
+      "id": "anarchisme_japon_kotoku",
+      "emoji": "🇯🇵",
+      "theme": "Politique",
+      "periode": "1871 à 1911",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shusui.JPG?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Sh%C5%ABsui_K%C5%8Dtoku",
+        "credit": {
+          "es": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons.",
+          "ca": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarquismo en Japón: Kōtoku Shūsui y el Incidente de Alta Traición",
+        "ca": "L'anarquisme al Japó: Kōtoku Shūsui i l'Incident d'Alta Traïció"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Kōtoku Shūsui naît en 1871 au Japon. Il devient journaliste et penseur socialiste, puis anarchiste.",
+            "es": "Kōtoku Shūsui nace en 1871 en Japón. Se hace periodista y pensador socialista, luego anarquista.",
+            "ca": "Kōtoku Shūsui neix el 1871 al Japó. Es fa periodista i pensador socialista, després anarquista."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shusui.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sh%C5%ABsui_K%C5%8Dtoku",
+              "credit": {
+                "es": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons.",
+                "ca": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1904, il s'oppose publiquement à la guerre entre le Japon et la Russie. C'est très dangereux pour lui.",
+            "es": "En 1904, se opone públicamente a la guerra entre Japón y Rusia. Es muy peligroso para él.",
+            "ca": "El 1904, s'oposa públicament a la guerra entre el Japó i Rússia. És molt perillós per a ell."
+          },
+          {
+            "fr": "Il voyage aux États-Unis, où il rencontre d'autres anarchistes. Il revient au Japon convaincu par l'action directe.",
+            "es": "Viaja a Estados Unidos, donde conoce a otros anarquistas. Regresa a Japón convencido de la acción directa.",
+            "ca": "Viatja als Estats Units, on coneix altres anarquistes. Torna al Japó convençut de l'acció directa."
+          },
+          {
+            "fr": "En 1910, la police l'arrête. Elle l'accuse d'avoir participé à un complot pour tuer l'empereur.",
+            "es": "En 1910, la policía lo arresta. Lo acusa de haber participado en un complot para matar al emperador.",
+            "ca": "El 1910, la policia l'arresta. L'acusa d'haver participat en un complot per matar l'emperador."
+          },
+          {
+            "fr": "Le procès est très injuste. En 1911, Kōtoku Shūsui est exécuté, avec 11 autres personnes.",
+            "es": "El juicio es muy injusto. En 1911, Kōtoku Shūsui es ejecutado, junto con otras 11 personas.",
+            "ca": "El judici és molt injust. El 1911, Kōtoku Shūsui és executat, juntament amb 11 altres persones."
+          },
+          {
+            "fr": "Après ça, le mouvement anarchiste japonais est très réprimé pendant presque dix ans.",
+            "es": "Después de eso, el movimiento anarquista japonés es muy reprimido durante casi diez años.",
+            "ca": "Després d'això, el moviment anarquista japonès és molt reprimit durant gairebé deu anys."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1871 dans le contexte de la restauration Meiji, qui modernise rapidement le Japon, Kōtoku Shūsui devient journaliste et se rapproche du socialisme, puis progressivement de l'anarchisme, dans un pays où ces idées restent extrêmement marginales et surveillées.",
+            "es": "Nacido en 1871 en el contexto de la restauración Meiji, que moderniza rápidamente Japón, Kōtoku Shūsui se convierte en periodista y se acerca al socialismo, y luego progresivamente al anarquismo, en un país donde estas ideas siguen siendo extremadamente marginales y vigiladas.",
+            "ca": "Nascut el 1871 en el context de la restauració Meiji, que moderniza ràpidament el Japó, Kōtoku Shūsui es converteix en periodista i s'apropa al socialisme, i després progressivament a l'anarquisme, en un país on aquestes idees continuen sent extremadament marginals i vigilades."
+          },
+          {
+            "h": {
+              "fr": "L'opposition à la guerre russo-japonaise",
+              "es": "La oposición a la guerra ruso-japonesa",
+              "ca": "L'oposició a la guerra russojaponesa"
+            }
+          },
+          {
+            "fr": "En 1904, alors que le nationalisme japonais atteint son sommet avec la guerre contre la Russie, Kōtoku Shūsui fonde avec des camarades le journal « Heimin Shinbun » et s'oppose publiquement au conflit, une position extrêmement risquée qui lui vaut plusieurs mois de prison.",
+            "es": "En 1904, cuando el nacionalismo japonés alcanza su cima con la guerra contra Rusia, Kōtoku Shūsui funda con compañeros el periódico «Heimin Shinbun» y se opone públicamente al conflicto, una posición extremadamente arriesgada que le vale varios meses de prisión.",
+            "ca": "El 1904, quan el nacionalisme japonès arriba al seu cim amb la guerra contra Rússia, Kōtoku Shūsui funda amb companys el diari «Heimin Shinbun» i s'oposa públicament al conflicte, una posició extremadament arriscada que li val diversos mesos de presó."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shusui.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sh%C5%ABsui_K%C5%8Dtoku",
+              "credit": {
+                "es": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons.",
+                "ca": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le tournant vers l'action directe",
+              "es": "El giro hacia la acción directa",
+              "ca": "El gir cap a l'acció directa"
+            }
+          },
+          {
+            "fr": "Après un séjour aux États-Unis en 1905-1906, où il rencontre des militants anarchistes influencés par Kropotkine, il revient au Japon convaincu que le socialisme parlementaire est une impasse, et se rapproche d'une position plus radicale prônant l'action directe contre le pouvoir impérial.",
+            "es": "Tras una estancia en Estados Unidos en 1905-1906, donde conoce a militantes anarquistas influidos por Kropotkin, regresa a Japón convencido de que el socialismo parlamentario es un callejón sin salida, y se acerca a una posición más radical que defiende la acción directa contra el poder imperial.",
+            "ca": "Després d'una estada als Estats Units el 1905-1906, on coneix militants anarquistes influïts per Kropotkin, torna al Japó convençut que el socialisme parlamentari és un carreró sense sortida, i s'apropa a una posició més radical que defensa l'acció directa contra el poder imperial."
+          },
+          {
+            "h": {
+              "fr": "L'Incident de haute trahison",
+              "es": "El Incidente de Alta Traición",
+              "ca": "L'Incident d'Alta Traïció"
+            }
+          },
+          {
+            "fr": "En 1910, la police découvre du matériel pouvant servir à fabriquer des bombes chez un militant isolé, et utilise cette découverte pour lancer une vague d'arrestations massive contre l'ensemble de la gauche japonaise, bien au-delà des personnes réellement impliquées dans un quelconque projet. Kōtoku Shūsui, dont l'implication directe reste aujourd'hui très contestée par les historiens, est arrêté, jugé lors d'un procès secret et expéditif, puis exécuté par pendaison en janvier 1911 avec onze autres personnes. Cette répression, connue sous le nom d'« Incident de haute trahison », plonge le mouvement anarchiste et socialiste japonais dans une période de silence forcé qui dure près d'une décennie.",
+            "es": "En 1910, la policía descubre material que podría servir para fabricar bombas en casa de un militante aislado, y usa este descubrimiento para lanzar una ola de arrestos masiva contra el conjunto de la izquierda japonesa, mucho más allá de las personas realmente implicadas en algún proyecto. Kōtoku Shūsui, cuya implicación directa sigue siendo hoy muy cuestionada por los historiadores, es arrestado, juzgado en un proceso secreto y expeditivo, y luego ejecutado por ahorcamiento en enero de 1911 junto con otras once personas. Esta represión, conocida como el «Incidente de Alta Traición», sumerge al movimiento anarquista y socialista japonés en un período de silencio forzado que dura casi una década.",
+            "ca": "El 1910, la policia descobreix material que podria servir per fabricar bombes a casa d'un militant aïllat, i usa aquest descobriment per llançar una onada d'arrestos massiva contra el conjunt de l'esquerra japonesa, molt més enllà de les persones realment implicades en algun projecte. Kōtoku Shūsui, la implicació directa del qual continua sent avui molt qüestionada pels historiadors, és arrestat, jutjat en un procés secret i expeditiu, i després executat per penjament el gener del 1911 juntament amb onze altres persones. Aquesta repressió, coneguda com l'«Incident d'Alta Traïció», submergeix el moviment anarquista i socialista japonès en un període de silenci forçat que dura gairebé una dècada."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1871 dans la province de Tosa, dans le contexte de la restauration Meiji qui modernise à marche forcée le Japon tout en concentrant le pouvoir autour de la figure sacralisée de l'empereur, Kōtoku Shūsui devient journaliste précoce et se forme d'abord au libéralisme, avant de se rapprocher progressivement du socialisme puis de l'anarchisme — une trajectoire intellectuelle qui reflète, à l'échelle individuelle, l'importation rapide et souvent conflictuelle des idées politiques occidentales dans le Japon de l'ère Meiji.",
+            "es": "Nacido en 1871 en la provincia de Tosa, en el contexto de la restauración Meiji que moderniza a marchas forzadas Japón mientras concentra el poder en torno a la figura sacralizada del emperador, Kōtoku Shūsui se convierte en periodista precoz y se forma primero en el liberalismo, antes de acercarse progresivamente al socialismo y luego al anarquismo —una trayectoria intelectual que refleja, a escala individual, la importación rápida y a menudo conflictiva de las ideas políticas occidentales en el Japón de la era Meiji.",
+            "ca": "Nascut el 1871 a la província de Tosa, en el context de la restauració Meiji que moderniza a marxes forçades el Japó mentre concentra el poder al voltant de la figura sacralitzada de l'emperador, Kōtoku Shūsui es converteix en periodista precoç i es forma primer en el liberalisme, abans d'apropar-se progressivament al socialisme i després a l'anarquisme —una trajectòria intel·lectual que reflecteix, a escala individual, la importació ràpida i sovint conflictiva de les idees polítiques occidentals al Japó de l'era Meiji."
+          },
+          {
+            "h": {
+              "fr": "L'opposition à la guerre russo-japonaise",
+              "es": "La oposición a la guerra ruso-japonesa",
+              "ca": "L'oposició a la guerra russojaponesa"
+            }
+          },
+          {
+            "fr": "En 1903, alors que le Japon impérial s'apprête à entrer en guerre contre la Russie, Kōtoku Shūsui démissionne avec fracas d'un journal qui soutient le conflit et fonde, avec Sakai Toshihiko, le journal « Heimin Shinbun » (« Le Journal du peuple »), l'une des toutes premières publications socialistes et explicitement pacifistes du Japon moderne. Il y traduit notamment le « Manifeste du parti communiste » de Marx et Engels, ce qui lui vaut, avec la fermeture du journal en 1905, plusieurs mois de prison pour infraction aux lois sur la presse.",
+            "es": "En 1903, cuando el Japón imperial se prepara para entrar en guerra contra Rusia, Kōtoku Shūsui dimite ruidosamente de un periódico que apoya el conflicto y funda, con Sakai Toshihiko, el periódico «Heimin Shinbun» («El periódico del pueblo»), una de las primerísimas publicaciones socialistas y explícitamente pacifistas del Japón moderno. Allí traduce especialmente el «Manifiesto del partido comunista» de Marx y Engels, lo que le vale, con el cierre del periódico en 1905, varios meses de prisión por infracción de las leyes de prensa.",
+
+
+            "ca": "El 1903, quan el Japó imperial es prepara per entrar en guerra contra Rússia, Kōtoku Shūsui dimiteix sorollosament d'un diari que recolza el conflicte i funda, amb Sakai Toshihiko, el diari «Heimin Shinbun» («El diari del poble»), una de les primeríssimes publicacions socialistes i explícitament pacifistes del Japó modern. Hi tradueix especialment el «Manifest del partit comunista» de Marx i Engels, cosa que li val, amb el tancament del diari el 1905, diversos mesos de presó per infracció de les lleis de premsa."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shusui.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Sh%C5%ABsui_K%C5%8Dtoku",
+              "credit": {
+                "es": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons.",
+                "ca": "Kōtoku Shūsui (1871-1911) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le tournant vers l'action directe",
+              "es": "El giro hacia la acción directa",
+              "ca": "El gir cap a l'acció directa"
+            }
+          },
+          {
+            "fr": "Libéré, il part pour les États-Unis en 1905-1906, séjournant principalement en Californie, où il entre en contact avec des militants anarchistes influencés par les écrits de Kropotkine et découvre également le mouvement révolutionnaire chinois en exil. Ce séjour transforme profondément sa pensée politique : convaincu au retour que la voie parlementaire socialiste, encore balbutiante et durement réprimée au Japon, ne mènera nulle part, il défend désormais ouvertement l'action directe et la grève générale comme seuls leviers réalistes de transformation sociale, provoquant une scission durable au sein du mouvement socialiste japonais entre modérés parlementaristes et radicaux partisans de l'action directe.",
+            "es": "Liberado, parte hacia Estados Unidos en 1905-1906, residiendo principalmente en California, donde entra en contacto con militantes anarquistas influidos por los escritos de Kropotkin y también descubre el movimiento revolucionario chino en el exilio. Esta estancia transforma profundamente su pensamiento político: convencido a su regreso de que la vía parlamentaria socialista, todavía balbuceante y duramente reprimida en Japón, no llevará a ninguna parte, defiende ahora abiertamente la acción directa y la huelga general como únicas palancas realistas de transformación social, provocando una escisión duradera dentro del movimiento socialista japonés entre moderados parlamentaristas y radicales partidarios de la acción directa.",
+            "ca": "Alliberat, marxa cap als Estats Units el 1905-1906, residint principalment a Califòrnia, on entra en contacte amb militants anarquistes influïts pels escrits de Kropotkin i també descobreix el moviment revolucionari xinès a l'exili. Aquesta estada transforma profundament el seu pensament polític: convençut al seu retorn que la via parlamentària socialista, encara balbucejant i durament reprimida al Japó, no portarà enlloc, defensa ara obertament l'acció directa i la vaga general com a únics palanques realistes de transformació social, provocant una escissió duradora dins el moviment socialista japonès entre moderats parlamentaristes i radicals partidaris de l'acció directa."
+          },
+          {
+            "h": {
+              "fr": "L'Incident de haute trahison",
+              "es": "El Incidente de Alta Traición",
+              "ca": "L'Incident d'Alta Traïció"
+            }
+          },
+          {
+            "fr": "En mai 1910, la police découvre chez Miyashita Takichi, ouvrier d'une scierie et militant isolé, du matériel pouvant servir à fabriquer des explosifs. Plutôt que de limiter l'enquête aux quelques individus réellement impliqués dans un vague projet, jamais mis à exécution, d'attentat contre l'empereur Meiji, les autorités saisissent l'occasion pour lancer une répression généralisée contre l'ensemble de la gauche japonaise, arrêtant au total 26 militants à travers tout le pays, dont beaucoup n'ont eu aucun lien avec le complot allégué.",
+            "es": "En mayo de 1910, la policía descubre en casa de Miyashita Takichi, obrero de un aserradero y militante aislado, material que podría servir para fabricar explosivos. En lugar de limitar la investigación a los pocos individuos realmente implicados en un vago proyecto, nunca llevado a cabo, de atentado contra el emperador Meiji, las autoridades aprovechan la ocasión para lanzar una represión generalizada contra el conjunto de la izquierda japonesa, arrestando en total a 26 militantes por todo el país, muchos de los cuales no tuvieron ningún vínculo con el supuesto complot.",
+            "ca": "El maig del 1910, la policia descobreix a casa de Miyashita Takichi, obrer d'una serradora i militant aïllat, material que podria servir per fabricar explosius. En comptes de limitar la investigació als pocs individus realment implicats en un vague projecte, mai dut a terme, d'atemptat contra l'emperador Meiji, les autoritats aprofiten l'ocasió per llançar una repressió generalitzada contra el conjunt de l'esquerra japonesa, arrestant en total 26 militants per tot el país, molts dels quals no van tenir cap vincle amb el suposat complot."
+          },
+          {
+            "fr": "Kōtoku Shūsui, dont l'implication réelle dans le projet reste aujourd'hui hautement contestée par la plupart des historiens — il semble avoir surtout été visé pour son influence idéologique plutôt que pour une participation concrète — est jugé lors d'un procès à huis clos devant la Cour suprême, sans possibilité d'appel, en décembre 1910. Le verdict, rendu en quelques jours seulement, condamne 24 des 26 accusés à mort ; bien que la moitié des peines soient commuées à la dernière minute en réclusion à perpétuité, Kōtoku Shūsui et onze autres condamnés, dont la militante féministe Kanno Suga, sont exécutés par pendaison les 24 et 25 janvier 1911.",
+            "es": "Kōtoku Shūsui, cuya implicación real en el proyecto sigue siendo hoy altamente cuestionada por la mayoría de los historiadores —parece haber sido señalado sobre todo por su influencia ideológica más que por una participación concreta—, es juzgado en un proceso a puerta cerrada ante el Tribunal Supremo, sin posibilidad de apelación, en diciembre de 1910. El veredicto, dictado en apenas unos días, condena a 24 de los 26 acusados a muerte; aunque la mitad de las penas se conmutan en el último momento a cadena perpetua, Kōtoku Shūsui y otros once condenados, entre ellos la militante feminista Kanno Suga, son ejecutados por ahorcamiento los días 24 y 25 de enero de 1911.",
+            "ca": "Kōtoku Shūsui, la implicació real del qual en el projecte continua sent avui altament qüestionada per la majoria dels historiadors —sembla haver estat assenyalat sobretot per la seva influència ideològica més que per una participació concreta—, és jutjat en un procés a porta tancada davant el Tribunal Suprem, sense possibilitat d'apel·lació, el desembre del 1910. El veredicte, dictat en tot just uns dies, condemna 24 dels 26 acusats a mort; encara que la meitat de les penes es commuten a l'últim moment a cadena perpètua, Kōtoku Shūsui i onze altres condemnats, entre ells la militant feminista Kanno Suga, són executats per penjament els dies 24 i 25 de gener del 1911."
+          },
+          {
+            "h": {
+              "fr": "Un « hiver » de dix ans",
+              "es": "Un «invierno» de diez años",
+              "ca": "Un «hivern» de deu anys"
+            }
+          },
+          {
+            "fr": "Cette répression, connue sous le nom d'« Incident de haute trahison » (Taigyaku Jiken), traumatise durablement la gauche japonaise, qui entre dans une période communément appelée le « Fuyu no jidai » (l'ère de l'hiver), marquée par une surveillance policière omniprésente et un silence politique forcé qui dure près d'une décennie, jusqu'à ce qu'Ōsugi Sakae relance un mouvement anarcho-syndicaliste dans les années 1920 — avant d'être lui-même assassiné par la police militaire en 1923, un cycle de répression qui souligne la difficulté persistante de l'anarchisme à s'implanter durablement dans un Japon impérial centré sur la figure quasi-divine de l'empereur.",
+            "es": "Esta represión, conocida como el «Incidente de Alta Traición» (Taigyaku Jiken), traumatiza duraderamente a la izquierda japonesa, que entra en un período comúnmente llamado el «Fuyu no jidai» (la era del invierno), marcado por una vigilancia policial omnipresente y un silencio político forzado que dura casi una década, hasta que Ōsugi Sakae relanza un movimiento anarcosindicalista en los años 1920 —antes de ser él mismo asesinado por la policía militar en 1923, un ciclo de represión que subraya la persistente dificultad del anarquismo para arraigarse duraderamente en un Japón imperial centrado en la figura casi divina del emperador.",
+            "ca": "Aquesta repressió, coneguda com l'«Incident d'Alta Traïció» (Taigyaku Jiken), traumatitza duradorament l'esquerra japonesa, que entra en un període comunament anomenat el «Fuyu no jidai» (l'era de l'hivern), marcat per una vigilància policial omnipresent i un silenci polític forçat que dura gairebé una dècada, fins que Ōsugi Sakae relança un moviment anarcosindicalista als anys 1920 —abans de ser ell mateix assassinat per la policia militar el 1923, un cicle de repressió que subratlla la persistent dificultat de l'anarquisme per arrelar-se duradorament en un Japó imperial centrat en la figura gairebé divina de l'emperador."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema sensible: la implicación real de Kōtoku Shūsui en el complot sigue siendo debatida por los historiadores; muchos consideran el juicio una injusticia política.",
+        "ca": "Tema sensible: la implicació real de Kōtoku Shūsui en el complot continua sent debatuda pels historiadors; molts consideren el judici una injustícia política."
+      },
+      "mots_cles": [
+        {
+          "mot": "un(e) journaliste",
+          "es": "un/a periodista",
+          "ca": "un/a periodista"
+        },
+        {
+          "mot": "un procès (secret)",
+          "es": "un juicio (secreto)",
+          "ca": "un judici (secret)"
+        },
+        {
+          "mot": "exécuter (par pendaison)",
+          "es": "ejecutar (por ahorcamiento)",
+          "ca": "executar (per penjament)"
+        },
+        {
+          "mot": "commuer (une peine)",
+          "es": "conmutar (una pena)",
+          "ca": "commutar (una pena)"
+        },
+        {
+          "mot": "une répression généralisée",
+          "es": "una represión generalizada",
+          "ca": "una repressió generalitzada"
+        },
+        {
+          "mot": "un(e) accusé(e)",
+          "es": "un/a acusado/a",
+          "ca": "un/a acusat/ada"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué hace Kōtoku Shūsui en 1904, y qué riesgo corre?",
+            "ca": "Què fa Kōtoku Shūsui el 1904, i quin risc corre?"
+          },
+          "piste": {
+            "es": "se opone a la guerra ruso-japonesa; arriesga la prisión",
+            "ca": "s'oposa a la guerra russojaponesa; arrisca la presó"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué descubre la policía en 1910, y qué hace con ese descubrimiento?",
+            "ca": "Què descobreix la policia el 1910, i què fa amb aquest descobriment?"
+          },
+          "piste": {
+            "es": "material para explosivos en casa de un militante aislado; lo usa para reprimir a toda la izquierda",
+            "ca": "material per a explosius a casa d'un militant aïllat; l'usa per reprimir tota l'esquerra"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasa con Kōtoku Shūsui en enero de 1911?",
+            "ca": "Què passa amb Kōtoku Shūsui el gener del 1911?"
+          },
+          "piste": {
+            "es": "es ejecutado por ahorcamiento con otros once condenados",
+            "ca": "és executat per penjament amb onze altres condemnats"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo se llama el período de represión que sigue en Japón?",
+            "ca": "Com es diu el període de repressió que segueix al Japó?"
+          },
+          "piste": {
+            "es": "el «Fuyu no jidai» (la era del invierno)",
+            "ca": "el «Fuyu no jidai» (l'era de l'hivern)"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Kōtoku Shūsui",
+          "url": "https://en.wikipedia.org/wiki/K%C5%8Dtoku_Sh%C5%ABsui"
+        },
+        {
+          "titre": "Wikipedia — High Treason Incident",
+          "url": "https://en.wikipedia.org/wiki/High_Treason_Incident"
+        }
+      ]
+    }
+  ]
+}

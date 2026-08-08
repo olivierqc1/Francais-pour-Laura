@@ -1,0 +1,283 @@
+{
+  "textes": [
+    {
+      "id": "kropotkine_communisme_anarchiste",
+      "emoji": "🌾",
+      "theme": "Politique",
+      "periode": "1842 à 1921",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Kropotkin%20circa%201900.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_circa_1900.jpg",
+        "credit": {
+          "es": "Piotr Kropotkin, hacia 1900 — Wikimedia Commons.",
+          "ca": "Piotr Kropotkin, cap al 1900 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Kropotkin y el comunismo anarquista: el apoyo mutuo",
+        "ca": "Kropotkin i el comunisme anarquista: l'ajuda mútua"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Piotr Kropotkine naît en 1842 en Russie, dans une famille de princes — encore plus noble que celle de Bakounine !",
+            "es": "Piotr Kropotkin nace en 1842 en Rusia, en una familia de príncipes —¡todavía más noble que la de Bakunin!",
+            "ca": "Piotr Kropotkin neix el 1842 a Rússia, en una família de prínceps —encara més noble que la de Bakunin!"
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Kropotkin%20circa%201900.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_circa_1900.jpg",
+              "credit": {
+                "es": "Piotr Kropotkin, hacia 1900 — Wikimedia Commons.",
+                "ca": "Piotr Kropotkin, cap al 1900 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Jeune officier, il part explorer la Sibérie. Il devient un scientifique très respecté, spécialiste de géographie.",
+            "es": "Joven oficial, se va a explorar Siberia. Se convierte en un científico muy respetado, especialista en geografía.",
+            "ca": "Jove oficial, marxa a explorar Sibèria. Es converteix en un científic molt respectat, especialista en geografia."
+          },
+          {
+            "fr": "En observant les animaux en Sibérie, il remarque quelque chose d'important : ils s'entraident souvent, pas seulement se battent entre eux.",
+            "es": "Observando a los animales en Siberia, nota algo importante: a menudo se ayudan mutuamente, no solo luchan entre ellos.",
+            "ca": "Observant els animals a Sibèria, nota una cosa important: sovint s'ajuden mútuament, no només lluiten entre ells."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutual%20Aid%20by%20Peter%20Kropotkin%20cover.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg",
+              "credit": {
+                "es": "Portada de «El apoyo mutuo», de Kropotkin — Wikimedia Commons.",
+                "ca": "Portada de «L'ajuda mútua», de Kropotkin — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il écrit un livre célèbre, « L'Entraide », en 1902. Il pense que la coopération est aussi importante que la compétition dans la nature.",
+            "es": "Escribe un libro célebre, «El apoyo mutuo», en 1902. Piensa que la cooperación es tan importante como la competencia en la naturaleza.",
+            "ca": "Escriu un llibre cèlebre, «L'ajuda mútua», el 1902. Pensa que la cooperació és tan important com la competència a la natura."
+          },
+          {
+            "fr": "Politiquement, il va plus loin que Bakounine : il faut aussi abolir le salaire, et prendre selon ses besoins.",
+            "es": "Políticamente, va más lejos que Bakunin: hay que abolir también el salario, y tomar según las necesidades.",
+            "ca": "Políticament, va més lluny que Bakunin: cal abolir també el salari, i prendre segons les necessitats."
+          },
+          {
+            "fr": "Après la révolution russe de 1917, il rentre en Russie, mais il est déçu par les bolcheviks. Il meurt en 1921.",
+            "es": "Tras la revolución rusa de 1917, regresa a Rusia, pero se decepciona con los bolcheviques. Muere en 1921.",
+            "ca": "Després de la revolució russa de 1917, torna a Rússia, però es decep amb els bolxevics. Mor el 1921."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1842 dans une famille de la haute noblesse russe (son titre de prince est même plus élevé que celui de Bakounine), Piotr Kropotkine reçoit une éducation d'élite au Corps des pages, réservé aux futurs proches du tsar. Il choisit pourtant de servir en Sibérie plutôt qu'à la cour, où il mène plusieurs expéditions scientifiques qui font de lui un géographe reconnu.",
+            "es": "Nacido en 1842 en una familia de la alta nobleza rusa (su título de príncipe es incluso más elevado que el de Bakunin), Piotr Kropotkin recibe una educación de élite en el Cuerpo de Pajes, reservado a los futuros allegados del zar. Sin embargo, elige servir en Siberia en lugar de en la corte, donde dirige varias expediciones científicas que lo convierten en un geógrafo reconocido.",
+            "ca": "Nascut el 1842 en una família de l'alta noblesa russa (el seu títol de príncep és fins i tot més elevat que el de Bakunin), Piotr Kropotkin rep una educació d'elit al Cos de Patges, reservat als futurs propers del tsar. Tanmateix, tria servir a Sibèria en comptes de a la cort, on dirigeix diverses expedicions científiques que el converteixen en un geògraf reconegut."
+          },
+          {
+            "h": {
+              "fr": "L'entraide dans la nature",
+              "es": "El apoyo mutuo en la naturaleza",
+              "ca": "L'ajuda mútua a la natura"
+            }
+          },
+          {
+            "fr": "C'est en observant la faune sibérienne que Kropotkine développe une intuition scientifique majeure : contrairement à une lecture trop simpliste de Darwin qui réduit l'évolution à la « lutte pour la survie » entre individus, il observe que la coopération entre membres d'une même espèce — pour se réchauffer, chasser, élever les petits — est tout aussi déterminante pour la survie.",
+            "es": "Es observando la fauna siberiana que Kropotkin desarrolla una intuición científica mayor: a diferencia de una lectura demasiado simplista de Darwin que reduce la evolución a la «lucha por la supervivencia» entre individuos, observa que la cooperación entre miembros de una misma especie —para calentarse, cazar, criar a las crías— es igual de determinante para la supervivencia.",
+            "ca": "És observant la fauna siberiana que Kropotkin desenvolupa una intuïció científica major: a diferència d'una lectura massa simplista de Darwin que redueix l'evolució a la «lluita per la supervivència» entre individus, observa que la cooperació entre membres d'una mateixa espècie —per escalfar-se, caçar, criar les cries— és igual de determinant per a la supervivència."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutual%20Aid%20by%20Peter%20Kropotkin%20cover.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg",
+              "credit": {
+                "es": "Portada de «El apoyo mutuo», de Kropotkin — Wikimedia Commons.",
+                "ca": "Portada de «L'ajuda mútua», de Kropotkin — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il développe cette thèse dans « L'Entraide, un facteur de l'évolution » (1902), où il étend l'observation aux sociétés humaines : de nombreuses institutions traditionnelles — la guilde médiévale, le village, la coopérative — reposent sur l'entraide mutuelle plutôt que sur la compétition pure.",
+            "es": "Desarrolla esta tesis en «El apoyo mutuo: un factor en la evolución» (1902), donde extiende la observación a las sociedades humanas: numerosas instituciones tradicionales —el gremio medieval, la aldea, la cooperativa— se basan en la ayuda mutua más que en la competencia pura.",
+            "ca": "Desenvolupa aquesta tesi a «L'ajuda mútua: un factor en l'evolució» (1902), on estén l'observació a les societats humanes: nombroses institucions tradicionals —el gremi medieval, el poble, la cooperativa— es basen en l'ajuda mútua més que en la competència pura."
+          },
+          {
+            "h": {
+              "fr": "Au-delà de Bakounine : le communisme anarchiste",
+              "es": "Más allá de Bakunin: el comunismo anarquista",
+              "ca": "Més enllà de Bakunin: el comunisme anarquista"
+            }
+          },
+          {
+            "fr": "Politiquement, Kropotkine va plus loin que le collectivisme de Bakounine : il ne suffit pas de socialiser les moyens de production en rémunérant chacun selon son travail, il faut aussi abolir le salaire lui-même. Dans « La Conquête du pain » (1892), il défend une répartition selon les besoins de chacun : chacun contribue selon ses capacités, et prend librement dans la production commune selon ses besoins.",
+            "es": "Políticamente, Kropotkin va más lejos que el colectivismo de Bakunin: no basta con socializar los medios de producción remunerando a cada uno según su trabajo, hay que abolir también el propio salario. En «La conquista del pan» (1892), defiende un reparto según las necesidades de cada uno: cada uno contribuye según sus capacidades, y toma libremente de la producción común según sus necesidades.",
+            "ca": "Políticament, Kropotkin va més lluny que el col·lectivisme de Bakunin: no n'hi ha prou de socialitzar els mitjans de producció remunerant cadascú segons el seu treball, cal abolir també el mateix salari. A «La conquesta del pa» (1892), defensa un repartiment segons les necessitats de cadascú: cadascú contribueix segons les seves capacitats, i pren lliurement de la producció comuna segons les seves necessitats."
+          },
+          {
+            "h": {
+              "fr": "Prison, exil et désillusion",
+              "es": "Prisión, exilio y desilusión",
+              "ca": "Presó, exili i desil·lusió"
+            }
+          },
+          {
+            "fr": "Arrêté en Russie en 1874 pour propagande révolutionnaire, il s'évade spectaculairement deux ans plus tard et passe quarante et un ans en exil en Europe. De retour en Russie après la révolution de 1917, il est profondément déçu par l'autoritarisme croissant des bolcheviks — il écrit même une lettre de protestation à Lénine — et meurt en 1921, quasi ignoré par le nouveau pouvoir.",
+            "es": "Arrestado en Rusia en 1874 por propaganda revolucionaria, se fuga espectacularmente dos años después y pasa cuarenta y un años en el exilio en Europa. De vuelta en Rusia tras la revolución de 1917, se decepciona profundamente por el autoritarismo creciente de los bolcheviques —incluso escribe una carta de protesta a Lenin— y muere en 1921, casi ignorado por el nuevo poder.",
+            "ca": "Arrestat a Rússia el 1874 per propaganda revolucionària, s'escapa espectacularment dos anys després i passa quaranta-un anys a l'exili a Europa. De tornada a Rússia després de la revolució de 1917, es decep profundament per l'autoritarisme creixent dels bolxevics —fins i tot escriu una carta de protesta a Lenin— i mor el 1921, gairebé ignorat pel nou poder."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1842 dans une famille de la très haute noblesse russe — son titre de prince Rurikide le place même au-dessus de nombreux membres de la famille impériale par ancienneté de lignage —, Piotr Kropotkine reçoit une éducation d'élite au Corps des pages, l'école la plus prestigieuse de l'empire, réservée aux futurs proches collaborateurs du tsar. Il choisit pourtant, contre toute attente, de servir comme officier en Sibérie orientale plutôt qu'à la cour, où il conduit plusieurs expéditions géographiques qui établissent durablement sa réputation scientifique, notamment sur l'orographie de l'Asie du Nord-Est.",
+            "es": "Nacido en 1842 en una familia de la muy alta nobleza rusa —su título de príncipe rurikida lo sitúa incluso por encima de numerosos miembros de la familia imperial por antigüedad de linaje—, Piotr Kropotkin recibe una educación de élite en el Cuerpo de Pajes, la escuela más prestigiosa del imperio, reservada a los futuros colaboradores cercanos del zar. Sin embargo, elige, contra todo pronóstico, servir como oficial en Siberia oriental en lugar de en la corte, donde dirige varias expediciones geográficas que establecen duraderamente su reputación científica, especialmente sobre la orografía del noreste de Asia.",
+            "ca": "Nascut el 1842 en una família de la molt alta noblesa russa —el seu títol de príncep rurúrida el situa fins i tot per sobre de nombrosos membres de la família imperial per antiguitat de llinatge—, Piotr Kropotkin rep una educació d'elit al Cos de Patges, l'escola més prestigiosa de l'imperi, reservada als futurs col·laboradors propers del tsar. Tanmateix, tria, contra tot pronòstic, servir com a oficial a Sibèria oriental en comptes de a la cort, on dirigeix diverses expedicions geogràfiques que estableixen duradorament la seva reputació científica, especialment sobre l'orografia del nord-est d'Àsia."
+          },
+          {
+            "h": {
+              "fr": "L'entraide, un facteur de l'évolution",
+
+
+              "es": "El apoyo mutuo, un factor de la evolución",
+              "ca": "L'ajuda mútua, un factor de l'evolució"
+            }
+          },
+          {
+            "fr": "C'est durant ces années sibériennes que Kropotkine forge l'intuition scientifique qui structurera toute sa pensée : observant la faune dans des conditions climatiques extrêmes, il constate que la coopération intraspécifique — entraide pour se réchauffer, chasser collectivement, élever les petits — joue un rôle au moins aussi déterminant que la compétition dans la survie des espèces, nuançant ainsi une lecture réductrice du darwinisme social alors en vogue, qui réduisait abusivement « la survie du plus apte » à une loi de jungle individualiste.",
+            "es": "Es durante estos años siberianos que Kropotkin forja la intuición científica que estructurará todo su pensamiento: observando la fauna en condiciones climáticas extremas, constata que la cooperación intraespecífica —apoyo mutuo para calentarse, cazar colectivamente, criar a las crías— juega un papel al menos tan determinante como la competencia en la supervivencia de las especies, matizando así una lectura reduccionista del darwinismo social entonces en boga, que reducía abusivamente «la supervivencia del más apto» a una ley de la jungla individualista.",
+            "ca": "És durant aquests anys siberians que Kropotkin forja la intuïció científica que estructurarà tot el seu pensament: observant la fauna en condicions climàtiques extremes, constata que la cooperació intraespecífica —ajuda mútua per escalfar-se, caçar col·lectivament, criar les cries— juga un paper almenys tan determinant com la competència en la supervivència de les espècies, matisant així una lectura reduccionista del darwinisme social llavors en voga, que reduïa abusivament «la supervivència del més apte» a una llei de la jungla individualista."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mutual%20Aid%20by%20Peter%20Kropotkin%20cover.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg",
+              "credit": {
+                "es": "Portada de «El apoyo mutuo», de Kropotkin — Wikimedia Commons.",
+                "ca": "Portada de «L'ajuda mútua», de Kropotkin — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il développe et documente cette thèse dans son ouvrage majeur « L'Entraide, un facteur de l'évolution » (1902), en l'étendant aux sociétés humaines à travers l'histoire : la guilde artisanale médiévale, la commune villageoise russe (le mir), les sociétés de secours mutuel ouvrières du XIXe siècle témoignent selon lui d'un instinct coopératif profondément ancré, que la civilisation moderne, industrielle et étatique, tend à réprimer plutôt qu'à cultiver.",
+            "es": "Desarrolla y documenta esta tesis en su obra principal «El apoyo mutuo: un factor de la evolución» (1902), extendiéndola a las sociedades humanas a lo largo de la historia: el gremio artesanal medieval, la comuna aldeana rusa (el mir), las sociedades de socorro mutuo obreras del siglo XIX atestiguan según él un instinto cooperativo profundamente arraigado, que la civilización moderna, industrial y estatal, tiende a reprimir en lugar de cultivar.",
+            "ca": "Desenvolupa i documenta aquesta tesi a la seva obra principal «L'ajuda mútua: un factor de l'evolució» (1902), estenent-la a les societats humanes al llarg de la història: el gremi artesanal medieval, la comuna pagesa russa (el mir), les societats de socors mutu obreres del segle XIX testimonien segons ell un instint cooperatiu profundament arrelat, que la civilització moderna, industrial i estatal, tendeix a reprimir en comptes de cultivar."
+          },
+          {
+            "h": {
+              "fr": "Au-delà de Bakounine : le communisme anarchiste",
+              "es": "Más allá de Bakunin: el comunismo anarquista",
+              "ca": "Més enllà de Bakunin: el comunisme anarquista"
+            }
+          },
+          {
+            "fr": "Sur le plan politique, Kropotkine franchit une étape supplémentaire par rapport au collectivisme de Bakounine : socialiser les moyens de production tout en rémunérant chacun selon son travail fourni reproduit encore, selon lui, une logique comptable et potentiellement inégalitaire (comment évaluer équitablement des travaux différents ?). Dans « La Conquête du pain » (1892), son ouvrage le plus influent, il défend l'abolition complète du salariat au profit d'une répartition fondée sur les besoins : chacun contribue à la production commune selon ses capacités, et y puise librement selon ses besoins, une organisation qu'il juge non seulement juste mais matériellement possible grâce aux progrès techniques de son époque.",
+            "es": "En el plano político, Kropotkin da un paso más respecto al colectivismo de Bakunin: socializar los medios de producción remunerando a cada uno según su trabajo aportado reproduce todavía, según él, una lógica contable y potencialmente desigualitaria (¿cómo evaluar equitativamente trabajos diferentes?). En «La conquista del pan» (1892), su obra más influyente, defiende la abolición completa del asalariado en favor de un reparto basado en las necesidades: cada uno contribuye a la producción común según sus capacidades, y toma libremente según sus necesidades, una organización que juzga no solo justa sino materialmente posible gracias a los progresos técnicos de su época.",
+            "ca": "En el pla polític, Kropotkin fa un pas més respecte al col·lectivisme de Bakunin: socialitzar els mitjans de producció remunerant cadascú segons el seu treball aportat reprodueix encara, segons ell, una lògica comptable i potencialment desigualitària (com avaluar equitativament treballs diferents?). A «La conquesta del pa» (1892), la seva obra més influent, defensa l'abolició completa del salariat en favor d'un repartiment basat en les necessitats: cadascú contribueix a la producció comuna segons les seves capacitats, i n'agafa lliurement segons les seves necessitats, una organització que jutja no només justa sinó materialment possible gràcies als progressos tècnics de la seva època."
+          },
+          {
+            "h": {
+              "fr": "Prison, exil et désillusion bolchevique",
+              "es": "Prisión, exilio y desilusión bolchevique",
+              "ca": "Presó, exili i desil·lusió bolxevic"
+            }
+          },
+          {
+            "fr": "Arrêté en 1874 pour propagande révolutionnaire au sein d'un cercle populiste, Kropotkine s'évade de l'hôpital militaire de Saint-Pétersbourg en 1876 dans des circonstances rocambolesques, profitant d'un moment d'inattention de ses gardiens pendant sa promenade quotidienne. Il passe ensuite quarante et un ans en exil — en Suisse, où il rejoint l'Internationale, puis en France, où il est emprisonné près de quatre ans pour ses activités anarchistes, enfin en Angleterre, où il devient une figure intellectuelle respectée, publiant abondamment sur l'anarchisme comme sur la géographie.",
+            "es": "Arrestado en 1874 por propaganda revolucionaria dentro de un círculo populista, Kropotkin se fuga del hospital militar de San Petersburgo en 1876 en circunstancias rocambolescas, aprovechando un momento de distracción de sus guardias durante su paseo diario. Pasa luego cuarenta y un años en el exilio —en Suiza, donde se une a la Internacional, luego en Francia, donde es encarcelado casi cuatro años por sus actividades anarquistas, finalmente en Inglaterra, donde se convierte en una figura intelectual respetada, publicando abundantemente sobre anarquismo y geografía.",
+            "ca": "Arrestat el 1874 per propaganda revolucionària dins d'un cercle populista, Kropotkin s'escapa de l'hospital militar de Sant Petersburg el 1876 en circumstàncies rocambolesques, aprofitant un moment de distracció dels seus guardians durant el seu passeig diari. Passa després quaranta-un anys a l'exili —a Suïssa, on s'uneix a la Internacional, després a França, on és empresonat gairebé quatre anys per les seves activitats anarquistes, finalment a Anglaterra, on esdevé una figura intel·lectual respectada, publicant abundantment sobre anarquisme i geografia."
+          },
+          {
+            "fr": "De retour en Russie en 1917 après la révolution de Février, il refuse un poste ministériel qui lui est proposé, restant fidèle à ses principes anti-autoritaires. Mais il assiste, impuissant et affligé, à la centralisation croissante du pouvoir bolchevique après octobre 1917 ; il adresse même une lettre ouverte à Lénine en 1920, dénonçant la bureaucratisation de la révolution et la répression des coopératives et des libertés locales. Il meurt en 1921 à Dmitrov, près de Moscou, quasiment ignoré par le pouvoir soviétique — ses funérailles rassemblent néanmoins des dizaines de milliers de personnes, l'un des derniers grands rassemblements anarchistes autorisés en URSS avant que le mouvement n'y soit totalement réprimé.",
+            "es": "De vuelta en Rusia en 1917 tras la revolución de Febrero, rechaza un puesto ministerial que se le ofrece, permaneciendo fiel a sus principios antiautoritarios. Pero asiste, impotente y afligido, a la creciente centralización del poder bolchevique tras octubre de 1917; incluso dirige una carta abierta a Lenin en 1920, denunciando la burocratización de la revolución y la represión de las cooperativas y las libertades locales. Muere en 1921 en Dmítrov, cerca de Moscú, prácticamente ignorado por el poder soviético —sus funerales reúnen sin embargo a decenas de miles de personas, una de las últimas grandes concentraciones anarquistas autorizadas en la URSS antes de que el movimiento fuera totalmente reprimido allí.",
+            "ca": "De tornada a Rússia el 1917 després de la revolució de Febrer, rebutja un càrrec ministerial que se li ofereix, restant fidel als seus principis antiautoritaris. Però assisteix, impotent i afligit, a la creixent centralització del poder bolxevic després de l'octubre de 1917; fins i tot adreça una carta oberta a Lenin el 1920, denunciant la burocratització de la revolució i la repressió de les cooperatives i les llibertats locals. Mor el 1921 a Dmítrov, prop de Moscou, pràcticament ignorat pel poder soviètic —els seus funerals reuneixen tanmateix desenes de milers de persones, una de les últimes grans concentracions anarquistes autoritzades a l'URSS abans que el moviment hi fos totalment reprimit."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'entraide",
+          "es": "el apoyo mutuo",
+          "ca": "l'ajuda mútua"
+        },
+        {
+          "mot": "une espèce (biologie)",
+          "es": "una especie (biología)",
+          "ca": "una espècie (biologia)"
+        },
+        {
+          "mot": "le salariat",
+          "es": "el asalariado (sistema salarial)",
+          "ca": "el salariat"
+        },
+        {
+          "mot": "selon ses besoins",
+          "es": "según sus necesidades",
+          "ca": "segons les seves necessitats"
+        },
+        {
+          "mot": "une désillusion",
+          "es": "una desilusión",
+          "ca": "una desil·lusió"
+        },
+        {
+          "mot": "des funérailles",
+          "es": "un funeral",
+          "ca": "un funeral"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué observa Kropotkin en la fauna siberiana que lo lleva a matizar a Darwin?",
+            "ca": "Què observa Kropotkin en la fauna siberiana que el porta a matisar Darwin?"
+          },
+          "piste": {
+            "es": "que la cooperación entre animales es tan importante como la competencia",
+            "ca": "que la cooperació entre animals és tan important com la competència"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué va más lejos Kropotkin que Bakunin?",
+            "ca": "En què va més lluny Kropotkin que Bakunin?"
+          },
+          "piste": {
+            "es": "en abolir también el propio salario, repartiendo según las necesidades de cada uno",
+            "ca": "en abolir també el mateix salari, repartint segons les necessitats de cadascú"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué hace Kropotkin en 1920 respecto a Lenin?",
+            "ca": "Què fa Kropotkin el 1920 respecte a Lenin?"
+          },
+          "piste": {
+            "es": "le escribe una carta abierta denunciando la burocratización de la revolución",
+            "ca": "li escriu una carta oberta denunciant la burocratització de la revolució"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasa en el funeral de Kropotkin en 1921?",
+            "ca": "Què passa al funeral de Kropotkin el 1921?"
+          },
+          "piste": {
+            "es": "reúne a decenas de miles de personas, una de las últimas grandes concentraciones anarquistas en la URSS",
+            "ca": "reuneix desenes de milers de persones, una de les últimes grans concentracions anarquistes a l'URSS"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Peter Kropotkin",
+          "url": "https://en.wikipedia.org/wiki/Peter_Kropotkin"
+        },
+        {
+          "titre": "Wikipedia — Mutual Aid: A Factor of Evolution",
+          "url": "https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution"
+        }
+      ]
+    }
+  ]
+}

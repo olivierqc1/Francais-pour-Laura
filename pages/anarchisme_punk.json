@@ -1,0 +1,121 @@
+{
+  "textes": [
+    {
+      "id": "anarchopunk_diy_culture",
+      "emoji": "🎸",
+      "theme": "Politique",
+      "periode": "1977 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crass%20Anarcho%20Punk%20Band.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Crass_Anarcho_Punk_Band.jpg",
+        "credit": {
+          "es": "Crass, grupo pionero del anarcopunk británico — Wikimedia Commons.",
+          "ca": "Crass, grup pioner de l'anarcopunk britànic — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El anarcopunk: hazlo tú mismo como política",
+        "ca": "L'anarcopunk: fes-t'ho tu mateix com a política"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1977, en Angleterre, un groupe de musique nommé Crass mélange le punk rock et les idées anarchistes.",
+            "es": "En 1977, en Inglaterra, un grupo de música llamado Crass mezcla el punk rock y las ideas anarquistas.",
+            "ca": "El 1977, a Anglaterra, un grup de música anomenat Crass barreja el punk rock i les idees anarquistes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crass%20Anarcho%20Punk%20Band.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Crass_Anarcho_Punk_Band.jpg",
+              "credit": {
+                "es": "Crass, grupo pionero del anarcopunk británico — Wikimedia Commons.",
+                "ca": "Crass, grup pioner de l'anarcopunk britànic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Ils vivent ensemble dans une maison à la campagne, Dial House, où ils créent leur musique et leur art.",
+            "es": "Viven juntos en una casa en el campo, Dial House, donde crean su música y su arte.",
+            "ca": "Viuen junts en una casa al camp, Dial House, on creen la seva música i el seu art."
+          },
+          {
+            "fr": "Leur idée principale s'appelle le DIY — « Do It Yourself », fais-le toi-même. Pas besoin des grandes compagnies de disques !",
+            "es": "Su idea principal se llama DIY —«Do It Yourself», hazlo tú mismo. ¡No hace falta las grandes discográficas!",
+            "ca": "La seva idea principal es diu DIY —«Do It Yourself», fes-t'ho tu mateix. No cal les grans discogràfiques!"
+          },
+          {
+            "fr": "Ils créent leur propre label de disques, et impriment eux-mêmes des fanzines — des petits magazines faits à la main.",
+            "es": "Crean su propio sello discográfico, e imprimen ellos mismos fanzines —pequeñas revistas hechas a mano.",
+            "ca": "Creen el seu propi segell discogràfic, i imprimeixen ells mateixos fanzines —petites revistes fetes a mà."
+          },
+          {
+            "fr": "Beaucoup d'autres groupes punk suivent leur exemple partout dans le monde. Ça s'appelle l'« anarcho-punk ».",
+            "es": "Muchos otros grupos punk siguen su ejemplo por todo el mundo. Eso se llama «anarcopunk».",
+            "ca": "Molts altres grups punk segueixen el seu exemple per tot el món. Allò es diu «anarcopunk»."
+          },
+          {
+            "fr": "Aujourd'hui encore, cette culture DIY continue : des concerts organisés sans intermédiaire, des squats, des zines faits main.",
+            "es": "Todavía hoy, esta cultura DIY continúa: conciertos organizados sin intermediario, okupas, fanzines hechos a mano.",
+            "ca": "Encara avui, aquesta cultura DIY continua: concerts organitzats sense intermediari, okupes, fanzines fets a mà."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1977, à Epping, en Angleterre, un collectif d'art et de musique nommé Crass fusionne le punk rock naissant avec une politique anarchiste explicite, incluant l'action directe, l'antimilitarisme et le féminisme. Le groupe vit et travaille collectivement à Dial House, une maison de campagne devenue centre créatif communautaire depuis les années 1960.",
+            "es": "En 1977, en Epping, Inglaterra, un colectivo de arte y música llamado Crass fusiona el punk rock naciente con una política anarquista explícita, incluyendo la acción directa, el antimilitarismo y el feminismo. El grupo vive y trabaja colectivamente en Dial House, una casa de campo convertida en centro creativo comunitario desde los años 1960.",
+            "ca": "El 1977, a Epping, Anglaterra, un col·lectiu d'art i música anomenat Crass fusiona el punk rock naixent amb una política anarquista explícita, incloent-hi l'acció directa, l'antimilitarisme i el feminisme. El grup viu i treballa col·lectivament a Dial House, una casa de camp convertida en centre creatiu comunitari des dels anys 1960."
+          },
+          {
+            "h": {
+              "fr": "Le DIY comme principe politique",
+              "es": "El DIY como principio político",
+              "ca": "El DIY com a principi polític"
+            }
+          },
+          {
+            "fr": "Le principe central de Crass, le « Do It Yourself » (fais-le toi-même), n'est pas qu'une astuce économique pour éviter les grandes maisons de disques : c'est une application directe de l'action directe anarcho-syndicaliste au domaine culturel. Le groupe crée son propre label, Crass Records, produit ses propres disques à bas prix, imprime ses propres pochettes et affiches, et peint des graffitis pochoirs anti-guerre dans le métro londonien.",
+            "es": "El principio central de Crass, el «Do It Yourself» (hazlo tú mismo), no es solo un truco económico para evitar a las grandes discográficas: es una aplicación directa de la acción directa anarcosindicalista al ámbito cultural. El grupo crea su propio sello, Crass Records, produce sus propios discos a bajo precio, imprime sus propias portadas y carteles, y pinta grafitis con plantilla antiguerra en el metro de Londres.",
+            "ca": "El principi central de Crass, el «Do It Yourself» (fes-t'ho tu mateix), no és només un truc econòmic per evitar les grans discogràfiques: és una aplicació directa de l'acció directa anarcosindicalista a l'àmbit cultural. El grup crea el seu propi segell, Crass Records, produeix els seus propis discos a baix preu, imprimeix les seves pròpies portades i cartells, i pinta grafits amb plantilla antiguerra al metro de Londres."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crass%20Anarcho%20Punk%20Band.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Crass_Anarcho_Punk_Band.jpg",
+              "credit": {
+                "es": "Crass, grupo pionero del anarcopunk británico — Wikimedia Commons.",
+                "ca": "Crass, grup pioner de l'anarcopunk britànic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Fanzines et espaces autogérés",
+              "es": "Fanzines y espacios autogestionados",
+              "ca": "Fanzines i espais autogestionats"
+            }
+          },
+          {
+            "fr": "Cette éthique DIY se diffuse rapidement à travers la scène punk mondiale des années 1980, prenant le nom d'« anarcho-punk ». Les fanzines — petits magazines photocopiés et distribués de main en main — deviennent un vecteur essentiel de diffusion des idées, jouant un rôle proche de celui du lector cubain un siècle plus tôt : une culture politique qui se transmet en dehors de tout canal commercial ou institutionnel.",
+            "es": "Esta ética DIY se difunde rápidamente por la escena punk mundial de los años 1980, tomando el nombre de «anarcopunk». Los fanzines —pequeñas revistas fotocopiadas y distribuidas de mano en mano— se convierten en un vector esencial de difusión de ideas, jugando un papel cercano al del lector cubano un siglo antes: una cultura política que se transmite fuera de todo canal comercial o institucional.",
+            "ca": "Aquesta ètica DIY es difon ràpidament per l'escena punk mundial dels anys 1980, prenent el nom d'«anarcopunk». Els fanzines —petites revistes fotocopiades i distribuïdes de mà en mà— esdevenen un vector essencial de difusió d'idees, jugant un paper proper al del lector cubà un segle abans: una cultura política que es transmet fora de tot canal comercial o institucional."
+          },
+          {
+            "fr": "Le mouvement s'accompagne d'espaces autogérés — squats, centres sociaux, salles de concert associatives — organisés selon des principes horizontaux directement inspirés de l'anarchisme classique, formant un réseau culturel international qui reste actif aujourd'hui, bien après la séparation de Crass en 1984.",
+            "es": "El movimiento se acompaña de espacios autogestionados —okupas, centros sociales, salas de conciertos asociativas— organizados según principios horizontales directamente inspirados en el anarquismo clásico, formando una red cultural internacional que sigue activa hoy, mucho después de la separación de Crass en 1984.",
+            "ca": "El moviment s'acompanya d'espais autogestionats —okupes, centres socials, sales de concerts associatives— organitzats segons principis horitzontals directament inspirats en l'anarquisme clàssic, formant una xarxa cultural internacional que continua activa avui, molt després de la separació de Crass el 1984."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "En 1977, dans le contexte de l'explosion punk britannique, un collectif d'art et de musique formé à Epping, dans l'Essex, autour du batteur et poète Penny Rimbaud et de l'artiste Gee Vaucher, adopte le nom de Crass et entreprend de fusionner l'énergie brute du punk rock naissant avec une politique anarchiste pleinement assumée — action directe, antimilitarisme radical, féminisme, droits des animaux — refusant catégoriquement toute récupération commerciale ou institutionnelle de leur message.",
+            "es": "En 1977, en el contexto de la explosión punk británica, un colectivo de arte y música formado en Epping, Essex, en torno al baterista y poeta Penny Rimbaud y la artista Gee Vaucher, adopta el nombre de Crass y emprende la fusión de la energía cruda del punk rock naciente con una política anarquista plenamente asumida —acción directa, antimilitarismo radical, feminismo, derechos de los animales— rechazando categóricamente toda recuperación comercial o institucional de su mensaje.",
+            "ca": "El 1977, en el context de l'explosió punk britànica, un col·lectiu d'art i música format a Epping, Essex, al voltant del bateria i poeta Penny Rimbaud i l'artista Gee Vaucher, adopta el nom de Crass i emprèn la fusió de l'energia crua del punk rock naixent amb una política anarquista plenament assumida —acció directa, antimilitarisme radical, feminisme, drets dels animals— rebutjant categòricament tota recuperació comercial o institucional del seu missatge."
+          },
+          {
+            "h": {
+              "fr": "Le DIY comme principe politique",
+              "es": "El DIY como principio político",
+              "ca": "El DIY com a principi polític"
+            }
+          },

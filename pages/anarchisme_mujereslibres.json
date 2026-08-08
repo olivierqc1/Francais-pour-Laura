@@ -1,0 +1,262 @@
+{
+  "textes": [
+    {
+      "id": "mujeres_libres_espagne",
+      "emoji": "✊🏻",
+      "theme": "Politique",
+      "periode": "1936 à 1939",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ARTECHE%2C%20Crist%C3%B3bal.%20Les%20Milicies%20us%20necessiten!%2C%201936.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:ARTECHE,_Crist%C3%B3bal._Les_Milicies_us_necessiten!,_1936.jpg",
+        "credit": {
+          "es": "Cartel de reclutamiento anarquista, Cataluña, 1936 — Wikimedia Commons.",
+          "ca": "Cartell de reclutament anarquista, Catalunya, 1936 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Mujeres Libres: el doble combate de las anarquistas españolas",
+        "ca": "Mujeres Libres: el doble combat de les anarquistes espanyoles"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Tu te souviens de la révolution anarchiste de Barcelone en 1936 ? Beaucoup de femmes y participent activement.",
+            "es": "¿Te acuerdas de la revolución anarquista de Barcelona en 1936? Muchas mujeres participan activamente en ella.",
+            "ca": "Et recordes de la revolució anarquista de Barcelona el 1936? Moltes dones hi participen activament."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ARTECHE%2C%20Crist%C3%B3bal.%20Les%20Milicies%20us%20necessiten!%2C%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:ARTECHE,_Crist%C3%B3bal._Les_Milicies_us_necessiten!,_1936.jpg",
+              "credit": {
+                "es": "Cartel de reclutamiento anarquista, Cataluña, 1936 — Wikimedia Commons.",
+                "ca": "Cartell de reclutament anarquista, Catalunya, 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Mais elles remarquent un problème : même dans les groupes anarchistes, les hommes gardent souvent les meilleures places.",
+            "es": "Pero se dan cuenta de un problema: incluso en los grupos anarquistas, los hombres a menudo se quedan con los mejores puestos.",
+            "ca": "Però s'adonen d'un problema: fins i tot en els grups anarquistes, els homes sovint es queden amb els millors llocs."
+          },
+          {
+            "fr": "En 1936, trois femmes créent une organisation seulement pour les femmes : Mujeres Libres (Femmes libres).",
+            "es": "En 1936, tres mujeres crean una organización solo para mujeres: Mujeres Libres.",
+            "ca": "El 1936, tres dones creen una organització només per a dones: Mujeres Libres."
+          },
+          {
+            "fr": "Elles pensent qu'il faut deux combats en même temps : contre le capitalisme, et contre le sexisme des hommes eux-mêmes.",
+            "es": "Piensan que hay que librar dos luchas al mismo tiempo: contra el capitalismo, y contra el sexismo de los propios hombres.",
+            "ca": "Pensen que cal lliurar dues lluites alhora: contra el capitalisme, i contra el sexisme dels mateixos homes."
+          },
+          {
+            "fr": "L'organisation grandit très vite : environ 30 000 femmes la rejoignent avant 1939.",
+            "es": "La organización crece muy rápido: unas 30 000 mujeres se unen a ella antes de 1939.",
+            "ca": "L'organització creix molt ràpid: unes 30.000 dones s'hi uneixen abans del 1939."
+          },
+          {
+            "fr": "Après la victoire de Franco en 1939, Mujeres Libres disparaît. Beaucoup de ses membres partent en exil.",
+            "es": "Tras la victoria de Franco en 1939, Mujeres Libres desaparece. Muchas de sus miembros se van al exilio.",
+            "ca": "Després de la victòria de Franco el 1939, Mujeres Libres desapareix. Moltes de les seves membres marxen a l'exili."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Dans le contexte de la révolution anarchiste de 1936 à Barcelone, de nombreuses femmes participent activement à la lutte antifasciste et aux collectivisations. Mais certaines militantes constatent que, malgré le discours égalitaire officiel de la CNT-FAI, les hommes conservent souvent les postes de direction et un comportement sexiste persistant au sein même du mouvement.",
+            "es": "En el contexto de la revolución anarquista de 1936 en Barcelona, numerosas mujeres participan activamente en la lucha antifascista y en las colectivizaciones. Pero algunas militantes constatan que, pese al discurso igualitario oficial de la CNT-FAI, los hombres conservan a menudo los puestos de dirección y un comportamiento sexista persistente dentro del propio movimiento.",
+            "ca": "En el context de la revolució anarquista de 1936 a Barcelona, nombroses dones participen activament en la lluita antifeixista i en les col·lectivitzacions. Però algunes militants constaten que, malgrat el discurs igualitari oficial de la CNT-FAI, els homes conserven sovint els llocs de direcció i un comportament sexista persistent dins el mateix moviment."
+          },
+          {
+            "h": {
+              "fr": "Une double lutte",
+              "es": "Una doble lucha",
+              "ca": "Una doble lluita"
+            }
+          },
+          {
+            "fr": "En avril 1936, trois femmes — Lucía Sánchez Saornil, poétesse et employée des télégraphes, Mercedes Comaposada, avocate, et Amparo Poch y Gascón, médecin — fondent la revue « Mujeres Libres », puis l'organisation du même nom. Leur idée centrale, celle de la « double lutte », affirme que la libération des femmes et la révolution sociale sont deux combats aussi importants l'un que l'autre, qui doivent être menés en parallèle plutôt que l'un après l'autre.",
+            "es": "En abril de 1936, tres mujeres —Lucía Sánchez Saornil, poeta y empleada de telégrafos, Mercedes Comaposada, abogada, y Amparo Poch y Gascón, médica— fundan la revista «Mujeres Libres», y luego la organización del mismo nombre. Su idea central, la de la «doble lucha», afirma que la liberación de las mujeres y la revolución social son dos combates igual de importantes, que deben librarse en paralelo en lugar de uno después del otro.",
+            "ca": "L'abril de 1936, tres dones —Lucía Sánchez Saornil, poeta i empleada de telègrafs, Mercedes Comaposada, advocada, i Amparo Poch y Gascón, metgessa— funden la revista «Mujeres Libres», i després l'organització del mateix nom. La seva idea central, la de la «doble lluita», afirma que l'alliberament de les dones i la revolució social són dos combats igual d'importants, que s'han de lliurar en paral·lel en comptes d'un després de l'altre."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ARTECHE%2C%20Crist%C3%B3bal.%20Les%20Milicies%20us%20necessiten!%2C%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:ARTECHE,_Crist%C3%B3bal._Les_Milicies_us_necessiten!,_1936.jpg",
+              "credit": {
+                "es": "Cartel de reclutamiento anarquista, Cataluña, 1936 — Wikimedia Commons.",
+                "ca": "Cartell de reclutament anarquista, Catalunya, 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Éducation et formation",
+              "es": "Educación y formación",
+              "ca": "Educació i formació"
+            }
+          },
+          {
+            "fr": "Face à un taux d'analphabétisme féminin qui atteint 60% dans certaines régions d'Espagne avant la guerre, Mujeres Libres se concentre fortement sur l'éducation populaire : elle ouvre des écoles, des ateliers de formation professionnelle et médicale, avec l'objectif explicite de rendre les femmes économiquement et intellectuellement autonomes, condition jugée indispensable pour qu'elles participent pleinement à la révolution plutôt que d'en rester spectatrices.",
+            "es": "Ante una tasa de analfabetismo femenino que alcanza el 60% en algunas regiones de España antes de la guerra, Mujeres Libres se centra fuertemente en la educación popular: abre escuelas, talleres de formación profesional y médica, con el objetivo explícito de hacer a las mujeres económica e intelectualmente autónomas, condición considerada indispensable para que participen plenamente en la revolución en lugar de seguir siendo espectadoras.",
+            "ca": "Davant una taxa d'analfabetisme femení que arriba al 60% en algunes regions d'Espanya abans de la guerra, Mujeres Libres se centra fortament en l'educació popular: obre escoles, tallers de formació professional i mèdica, amb l'objectiu explícit de fer les dones econòmicament i intel·lectualment autònomes, condició considerada indispensable perquè participin plenament en la revolució en comptes de continuar sent espectadores."
+          },
+          {
+            "h": {
+              "fr": "Une croissance rapide, une fin brutale",
+              "es": "Un crecimiento rápido, un final brutal",
+              "ca": "Un creixement ràpid, un final brutal"
+            }
+          },
+          {
+            "fr": "L'organisation connaît une croissance rapide, atteignant environ 30 000 membres à travers l'Espagne républicaine à son apogée, en 1938. Mais la victoire franquiste de 1939 met un terme brutal à cette expérience : Mujeres Libres est interdite, ses membres pourchassées, emprisonnées ou contraintes à l'exil, comme l'ensemble du mouvement anarchiste espagnol.",
+            "es": "La organización conoce un crecimiento rápido, alcanzando unos 30 000 miembros en toda la España republicana en su apogeo, en 1938. Pero la victoria franquista de 1939 pone un fin brutal a esta experiencia: Mujeres Libres es prohibida, sus miembros perseguidas, encarceladas u obligadas al exilio, como todo el movimiento anarquista español.",
+            "ca": "L'organització coneix un creixement ràpid, arribant a uns 30.000 membres a tota l'Espanya republicana en el seu apogeu, el 1938. Però la victòria franquista de 1939 posa fi brutal a aquesta experiència: Mujeres Libres és prohibida, les seves membres perseguides, empresonades o obligades a l'exili, com tot el moviment anarquista espanyol."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Dans le contexte de la révolution anarchiste catalane de 1936, marquée par une collectivisation massive de l'économie et une mobilisation populaire sans précédent, de nombreuses femmes participent activement à la lutte antifasciste, sur les fronts comme dans les collectivités. Pourtant, plusieurs militantes constatent rapidement un décalage frappant entre le discours officiel de la CNT-FAI, qui prône en théorie l'égalité de tous les êtres humains sans distinction de sexe, et la réalité concrète d'un mouvement où les hommes continuent d'occuper l'essentiel des postes de responsabilité et de reproduire des comportements sexistes hérités de la société patriarcale environnante.",
+            "es": "En el contexto de la revolución anarquista catalana de 1936, marcada por una colectivización masiva de la economía y una movilización popular sin precedentes, numerosas mujeres participan activamente en la lucha antifascista, en los frentes como en las colectividades. Sin embargo, varias militantes constatan rápidamente un desfase llamativo entre el discurso oficial de la CNT-FAI, que predica en teoría la igualdad de todos los seres humanos sin distinción de sexo, y la realidad concreta de un movimiento donde los hombres continúan ocupando la mayoría de los puestos de responsabilidad y reproduciendo comportamientos sexistas heredados de la sociedad patriarcal circundante.",
+            "ca": "En el context de la revolució anarquista catalana de 1936, marcada per una col·lectivització massiva de l'economia i una mobilització popular sense precedents, nombroses dones participen activament en la lluita antifeixista, als fronts com a les col·lectivitats. Tanmateix, diverses militants constaten ràpidament un desfasament cridaner entre el discurs oficial de la CNT-FAI, que predica en teoria la igualtat de tots els éssers humans sense distinció de sexe, i la realitat concreta d'un moviment on els homes continuen ocupant la majoria dels llocs de responsabilitat i reproduint comportaments sexistes heretats de la societat patriarcal circumdant."
+          },
+          {
+            "h": {
+              "fr": "Une double lutte",
+              "es": "Una doble lucha",
+              "ca": "Una doble lluita"
+            }
+          },
+
+          {
+            "fr": "En avril 1936 — quelques mois seulement avant le soulèvement militaire de juillet — trois femmes aux parcours distincts mais complémentaires fondent d'abord la revue puis l'organisation « Mujeres Libres » : Lucía Sánchez Saornil, poétesse d'avant-garde et employée des télégraphes ouvertement lesbienne dans une Espagne où cela reste extrêmement risqué, Mercedes Comaposada, avocate formée aux idées libertaires, et Amparo Poch y Gascón, l'une des premières femmes médecins d'Espagne, spécialiste des questions de santé reproductive. Leur apport théorique central, connu sous le nom de « double lutte » (doble lucha), rompt avec la position dominante du mouvement anarchiste de l'époque, qui considérait généralement que l'émancipation des femmes serait une conséquence automatique de la révolution sociale : pour les fondatrices de Mujeres Libres, au contraire, le patriarcat constitue un système de domination spécifique, distinct du capitalisme, qui doit être combattu pour lui-même, en parallèle et non après la lutte des classes.",
+            "es": "En abril de 1936 —solo unos meses antes del levantamiento militar de julio— tres mujeres de trayectorias distintas pero complementarias fundan primero la revista y luego la organización «Mujeres Libres»: Lucía Sánchez Saornil, poeta de vanguardia y empleada de telégrafos abiertamente lesbiana en una España donde eso seguía siendo extremadamente arriesgado, Mercedes Comaposada, abogada formada en ideas libertarias, y Amparo Poch y Gascón, una de las primeras mujeres médicas de España, especialista en cuestiones de salud reproductiva. Su aporte teórico central, conocido como «doble lucha» (doble lucha), rompe con la posición dominante del movimiento anarquista de la época, que consideraba generalmente que la emancipación de las mujeres sería una consecuencia automática de la revolución social: para las fundadoras de Mujeres Libres, por el contrario, el patriarcado constituye un sistema de dominación específico, distinto del capitalismo, que debe combatirse por sí mismo, en paralelo y no después de la lucha de clases.",
+            "ca": "L'abril de 1936 —només uns mesos abans de l'aixecament militar de juliol— tres dones de trajectòries diferents però complementàries funden primer la revista i després l'organització «Mujeres Libres»: Lucía Sánchez Saornil, poeta d'avantguarda i empleada de telègrafs obertament lesbiana en una Espanya on això continuava sent extremadament arriscat, Mercedes Comaposada, advocada formada en idees llibertàries, i Amparo Poch y Gascón, una de les primeres dones metgesses d'Espanya, especialista en qüestions de salut reproductiva. La seva aportació teòrica central, coneguda com «doble lluita» (doble lucha), trenca amb la posició dominant del moviment anarquista de l'època, que considerava generalment que l'emancipació de les dones seria una conseqüència automàtica de la revolució social: per a les fundadores de Mujeres Libres, al contrari, el patriarcat constitueix un sistema de dominació específic, diferent del capitalisme, que s'ha de combatre per si mateix, en paral·lel i no després de la lluita de classes."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ARTECHE%2C%20Crist%C3%B3bal.%20Les%20Milicies%20us%20necessiten!%2C%201936.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:ARTECHE,_Crist%C3%B3bal._Les_Milicies_us_necessiten!,_1936.jpg",
+              "credit": {
+                "es": "Cartel de reclutamiento anarquista, Cataluña, 1936 — Wikimedia Commons.",
+                "ca": "Cartell de reclutament anarquista, Catalunya, 1936 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Éducation, formation et autonomie",
+              "es": "Educación, formación y autonomía",
+              "ca": "Educació, formació i autonomia"
+            }
+          },
+          {
+            "fr": "Face à un taux d'analphabétisme féminin qui atteint jusqu'à 60% dans certaines régions du sud de l'Espagne avant la guerre, Mujeres Libres investit massivement dans l'éducation populaire : écoles d'alphabétisation, ateliers de formation professionnelle destinés à ouvrir aux femmes des métiers traditionnellement masculins, formations médicales et infirmières pour le front, et même une réflexion précoce sur la sexualité et la contraception, portée notamment par Amparo Poch y Gascón. L'objectif stratégique est explicite : sans autonomie économique et intellectuelle réelle, les femmes ne pourront jamais participer pleinement à la révolution ni s'affranchir durablement de la tutelle masculine, y compris au sein du mouvement anarchiste lui-même.",
+            "es": "Ante una tasa de analfabetismo femenino que alcanza hasta el 60% en algunas regiones del sur de España antes de la guerra, Mujeres Libres invierte masivamente en educación popular: escuelas de alfabetización, talleres de formación profesional destinados a abrir a las mujeres oficios tradicionalmente masculinos, formaciones médicas y de enfermería para el frente, e incluso una reflexión precoz sobre la sexualidad y la anticoncepción, impulsada especialmente por Amparo Poch y Gascón. El objetivo estratégico es explícito: sin autonomía económica e intelectual real, las mujeres nunca podrán participar plenamente en la revolución ni liberarse duraderamente de la tutela masculina, incluso dentro del propio movimiento anarquista.",
+            "ca": "Davant una taxa d'analfabetisme femení que arriba fins al 60% en algunes regions del sud d'Espanya abans de la guerra, Mujeres Libres inverteix massivament en educació popular: escoles d'alfabetització, tallers de formació professional destinats a obrir a les dones oficis tradicionalment masculins, formacions mèdiques i d'infermeria per al front, i fins i tot una reflexió precoç sobre la sexualitat i l'anticoncepció, impulsada especialment per Amparo Poch y Gascón. L'objectiu estratègic és explícit: sense autonomia econòmica i intel·lectual real, les dones mai podran participar plenament en la revolució ni alliberar-se duradorament de la tutela masculina, fins i tot dins el mateix moviment anarquista."
+          },
+          {
+            "h": {
+              "fr": "Une croissance rapide, une fin brutale",
+              "es": "Un crecimiento rápido, un final brutal",
+              "ca": "Un creixement ràpid, un final brutal"
+            }
+          },
+          {
+            "fr": "Malgré des tensions persistantes avec la direction majoritairement masculine de la CNT-FAI, qui refuse d'ailleurs formellement d'intégrer Mujeres Libres comme quatrième branche officielle du mouvement libertaire aux côtés de la CNT, de la FAI et des Jeunesses libertaires, l'organisation connaît une croissance rapide, revendiquant environ 30 000 membres répartis en plus de 170 groupes locaux à travers l'Espagne républicaine à son apogée durant l'été 1938.",
+            "es": "Pese a las tensiones persistentes con la dirección mayoritariamente masculina de la CNT-FAI, que además rechaza formalmente integrar a Mujeres Libres como cuarta rama oficial del movimiento libertario junto a la CNT, la FAI y las Juventudes Libertarias, la organización conoce un crecimiento rápido, reivindicando unos 30 000 miembros repartidos en más de 170 grupos locales por toda la España republicana en su apogeo durante el verano de 1938.",
+            "ca": "Malgrat les tensions persistents amb la direcció majoritàriament masculina de la CNT-FAI, que a més rebutja formalment integrar Mujeres Libres com a quarta branca oficial del moviment llibertari al costat de la CNT, la FAI i les Joventuts Llibertàries, l'organització coneix un creixement ràpid, reivindicant uns 30.000 membres repartits en més de 170 grups locals per tota l'Espanya republicana en el seu apogeu durant l'estiu de 1938."
+          },
+          {
+            "fr": "La victoire franquiste de 1939 met un terme brutal et définitif à cette expérience : Mujeres Libres est immédiatement interdite, ses militantes pourchassées, emprisonnées, exécutées pour certaines, ou contraintes à un exil souvent définitif — Lucía Sánchez Saornil termine ainsi sa vie en France en 1970, sans jamais avoir pu revenir en Espagne. Longtemps restée dans l'ombre de la mémoire historique dominée par les figures masculines de la révolution espagnole, l'expérience de Mujeres Libres est redécouverte et valorisée à partir des années 1970 par l'historiographie féministe, qui y voit l'une des premières tentatives cohérentes, dans l'histoire du mouvement ouvrier, d'articuler explicitement lutte de classe et lutte contre le patriarcat — une question qui reste, aujourd'hui encore, au cœur des débats du féminisme et de l'anarchisme contemporains.",
+            "es": "La victoria franquista de 1939 pone un fin brutal y definitivo a esta experiencia: Mujeres Libres es inmediatamente prohibida, sus militantes perseguidas, encarceladas, ejecutadas algunas, u obligadas a un exilio a menudo definitivo —Lucía Sánchez Saornil termina así su vida en Francia en 1970, sin haber podido nunca regresar a España. Largo tiempo relegada a la sombra de la memoria histórica dominada por las figuras masculinas de la revolución española, la experiencia de Mujeres Libres es redescubierta y valorizada a partir de los años 1970 por la historiografía feminista, que ve en ella uno de los primeros intentos coherentes, en la historia del movimiento obrero, de articular explícitamente lucha de clases y lucha contra el patriarcado —una cuestión que sigue, todavía hoy, en el corazón de los debates del feminismo y el anarquismo contemporáneos.",
+            "ca": "La victòria franquista de 1939 posa fi brutal i definitiu a aquesta experiència: Mujeres Libres és immediatament prohibida, les seves militants perseguides, empresonades, algunes executades, o obligades a un exili sovint definitiu —Lucía Sánchez Saornil acaba així la seva vida a França el 1970, sense haver pogut tornar mai a Espanya. Molt de temps relegada a l'ombra de la memòria històrica dominada per les figures masculines de la revolució espanyola, l'experiència de Mujeres Libres és redescoberta i valoritzada a partir dels anys 1970 per la historiografia feminista, que hi veu un dels primers intents coherents, en la història del moviment obrer, d'articular explícitament lluita de classes i lluita contra el patriarcat —una qüestió que continua, encara avui, al cor dels debats del feminisme i l'anarquisme contemporanis."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une double lutte",
+          "es": "una doble lucha",
+          "ca": "una doble lluita"
+        },
+        {
+          "mot": "l'analphabétisme",
+          "es": "el analfabetismo",
+          "ca": "l'analfabetisme"
+        },
+        {
+          "mot": "une autonomie (économique)",
+          "es": "una autonomía (económica)",
+          "ca": "una autonomia (econòmica)"
+        },
+        {
+          "mot": "le patriarcat",
+          "es": "el patriarcado",
+          "ca": "el patriarcat"
+        },
+        {
+          "mot": "pourchassé(e)",
+          "es": "perseguido/a",
+          "ca": "perseguit/da"
+        },
+        {
+          "mot": "l'historiographie",
+          "es": "la historiografía",
+          "ca": "la historiografia"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quiénes fundan Mujeres Libres en 1936?",
+            "ca": "Qui funda Mujeres Libres el 1936?"
+          },
+          "piste": {
+            "es": "Lucía Sánchez Saornil, Mercedes Comaposada y Amparo Poch y Gascón",
+            "ca": "Lucía Sánchez Saornil, Mercedes Comaposada i Amparo Poch y Gascón"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «doble lucha»?",
+            "ca": "Què és la «doble lluita»?"
+          },
+          "piste": {
+            "es": "la idea de que la liberación de las mujeres y la revolución social deben combatirse en paralelo",
+            "ca": "la idea que l'alliberament de les dones i la revolució social s'han de combatre en paral·lel"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué Mujeres Libres invierte tanto en educación?",
+            "ca": "Per què Mujeres Libres inverteix tant en educació?"
+          },
+          "piste": {
+            "es": "porque sin autonomía económica e intelectual las mujeres no pueden participar plenamente en la revolución",
+            "ca": "perquè sense autonomia econòmica i intel·lectual les dones no poden participar plenament en la revolució"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le pasa a la organización en 1939?",
+            "ca": "Què li passa a l'organització el 1939?"
+          },
+          "piste": {
+            "es": "es prohibida tras la victoria franquista, sus militantes perseguidas o exiliadas",
+            "ca": "és prohibida després de la victòria franquista, les seves militants perseguides o exiliades"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Mujeres Libres",
+          "url": "https://en.wikipedia.org/wiki/Mujeres_Libres"
+        },
+        {
+          "titre": "Museo Reina Sofía — Free Women and AMA",
+          "url": "https://www.museoreinasofia.es/en/collection/research-projects/women-civil-war/free-women-ama/"
+        }
+      ]
+    }
+  ]
+}

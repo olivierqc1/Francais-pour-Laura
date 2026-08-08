@@ -1,0 +1,273 @@
+{
+  "textes": [
+    {
+      "id": "tolstoi_anarchopacifisme",
+      "emoji": "🕊️",
+      "theme": "Politique",
+      "periode": "1828 à 1910",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Tolstoy%2C%20portrait.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Leo_Tolstoy,_portrait.jpg",
+        "credit": {
+          "es": "León Tolstói, 1886 — Wikimedia Commons.",
+          "ca": "Lev Tolstoi, 1886 — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Tolstói y el anarcopacifismo: la no-violencia comme révolution",
+        "ca": "Tolstoi i l'anarcopacifisme: la no-violència com a revolució"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Léon Tolstoï est un célèbre écrivain russe, connu pour « Guerre et Paix ». Mais il devient aussi un penseur politique important.",
+            "es": "León Tolstói es un célebre escritor ruso, conocido por «Guerra y Paz». Pero también se convierte en un pensador político importante.",
+            "ca": "Lev Tolstoi és un cèlebre escriptor rus, conegut per «Guerra i Pau». Però també esdevé un pensador polític important."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Tolstoy%2C%20portrait.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Leo_Tolstoy,_portrait.jpg",
+              "credit": {
+                "es": "León Tolstói, 1886 — Wikimedia Commons.",
+                "ca": "Lev Tolstoi, 1886 — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Vers 50 ans, il traverse une grande crise spirituelle. Il rejette sa vie de riche noble et devient très critique envers l'État et l'Église.",
+            "es": "Hacia los 50 años, atraviesa una gran crisis espiritual. Rechaza su vida de rico noble y se vuelve muy crítico con el Estado y la Iglesia.",
+            "ca": "Cap als 50 anys, travessa una gran crisi espiritual. Rebutja la seva vida de ric noble i esdevé molt crític amb l'Estat i l'Església."
+          },
+          {
+            "fr": "Pour Tolstoï, la violence ne doit jamais être utilisée, même pour de bonnes raisons. C'est le principe de « non-résistance au mal par la violence ».",
+            "es": "Para Tolstói, la violencia nunca debe usarse, ni siquiera por buenas razones. Es el principio de la «no resistencia al mal mediante la violencia».",
+            "ca": "Per a Tolstoi, la violència no s'ha d'usar mai, ni tan sols per bones raons. És el principi de la «no resistència al mal mitjançant la violència»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L.N.Tolstoy%20Prokudin-Gorsky.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:L.N.Tolstoy_Prokudin-Gorsky.jpg",
+              "credit": {
+                "es": "Tolstói en Yásnaia Poliana, 1908, primera fotografía en color de Rusia — Wikimedia Commons.",
+                "ca": "Tolstoi a Iàsnaia Poliana, 1908, primera fotografia en color de Rússia — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il pense que l'État repose toujours sur la violence (l'armée, la police, les impôts forcés) — donc il est aussi contre l'État.",
+            "es": "Piensa que el Estado siempre se basa en la violencia (el ejército, la policía, los impuestos forzados) —por eso también está en contra del Estado.",
+            "ca": "Pensa que l'Estat sempre es basa en la violència (l'exèrcit, la policia, els impostos forçats) —per això també és en contra de l'Estat."
+          },
+          {
+            "fr": "Ses idées influencent énormément Gandhi en Inde, qui les utilise contre la domination britannique.",
+            "es": "Sus ideas influyen enormemente en Gandhi en la India, que las usa contra la dominación británica.",
+            "ca": "Les seves idees influeixen enormement en Gandhi a l'Índia, que les usa contra la dominació britànica."
+          },
+          {
+            "fr": "Tolstoï meurt en 1910, presque en fuite de sa propre maison, cherchant une vie plus simple.",
+            "es": "Tolstói muere en 1910, casi huyendo de su propia casa, buscando una vida más simple.",
+            "ca": "Tolstoi mor el 1910, gairebé fugint de casa seva, buscant una vida més senzilla."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Léon Tolstoï, déjà célèbre dans le monde entier pour « Guerre et Paix » et « Anna Karénine », traverse vers 50 ans une profonde crise existentielle qui le pousse à rejeter sa vie de noble propriétaire terrien pour développer une pensée religieuse et politique radicalement nouvelle.",
+            "es": "León Tolstói, ya célebre en todo el mundo por «Guerra y Paz» y «Anna Karénina», atraviesa hacia los 50 años una profunda crisis existencial que lo lleva a rechazar su vida de noble terrateniente para desarrollar un pensamiento religioso y político radicalmente nuevo.",
+            "ca": "Lev Tolstoi, ja cèlebre a tot el món per «Guerra i Pau» i «Anna Karénina», travessa cap als 50 anys una profunda crisi existencial que el porta a rebutjar la seva vida de noble terratinent per desenvolupar un pensament religiós i polític radicalment nou."
+          },
+          {
+            "h": {
+              "fr": "La non-résistance au mal",
+              "es": "La no resistencia al mal",
+              "ca": "La no resistència al mal"
+            }
+          },
+          {
+            "fr": "Au cœur de sa pensée se trouve le principe de « non-résistance au mal par la violence », inspiré d'une lecture littérale du Sermon sur la montagne : répondre à la violence par la violence ne fait que la perpétuer, alors que l'amour et le refus actif de coopérer avec l'injustice peuvent réellement la faire reculer.",
+            "es": "En el corazón de su pensamiento se encuentra el principio de «no resistencia al mal mediante la violencia», inspirado en una lectura literal del Sermón de la Montaña: responder a la violencia con violencia solo la perpetúa, mientras que el amor y la negativa activa a cooperar con la injusticia pueden realmente hacerla retroceder.",
+            "ca": "Al cor del seu pensament es troba el principi de «no resistència al mal mitjançant la violència», inspirat en una lectura literal del Sermó de la Muntanya: respondre a la violència amb violència només la perpetua, mentre que l'amor i la negativa activa a cooperar amb la injustícia poden realment fer-la retrocedir."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L.N.Tolstoy%20Prokudin-Gorsky.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:L.N.Tolstoy_Prokudin-Gorsky.jpg",
+              "credit": {
+                "es": "Tolstói en Yásnaia Poliana, 1908, primera fotografía en color de Rusia — Wikimedia Commons.",
+                "ca": "Tolstoi a Iàsnaia Poliana, 1908, primera fotografia en color de Rússia — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une critique radicale de l'État et de l'Église",
+              "es": "Una crítica radical del Estado y la Iglesia",
+              "ca": "Una crítica radical de l'Estat i l'Església"
+            }
+          },
+          {
+            "fr": "Tolstoï en tire une conclusion politique proche de l'anarchisme : l'État repose fondamentalement sur la menace de violence — l'armée, la police, la prison, l'impôt collecté par la force — et ne peut donc jamais être un instrument légitime de justice, même quand il prétend agir au nom du bien commun. Il rejette également l'Église orthodoxe officielle, ce qui lui vaut d'être excommunié en 1901, ainsi que la propriété privée de la terre, qu'il juge injuste envers les paysans.",
+            "es": "Tolstói extrae de ello una conclusión política cercana al anarquismo: el Estado se basa fundamentalmente en la amenaza de violencia —el ejército, la policía, la prisión, el impuesto recaudado por la fuerza— y por lo tanto nunca puede ser un instrumento legítimo de justicia, incluso cuando pretende actuar en nombre del bien común. También rechaza a la Iglesia ortodoxa oficial, lo que le vale ser excomulgado en 1901, así como la propiedad privada de la tierra, que considera injusta para los campesinos.",
+            "ca": "Tolstoi n'extreu una conclusió política propera a l'anarquisme: l'Estat es basa fonamentalment en l'amenaça de violència —l'exèrcit, la policia, la presó, l'impost recaptat per la força— i per tant mai no pot ser un instrument legítim de justícia, fins i tot quan pretén actuar en nom del bé comú. També rebutja l'Església ortodoxa oficial, cosa que li val ser excomunicat el 1901, així com la propietat privada de la terra, que considera injusta envers els pagesos."
+          },
+          {
+            "h": {
+              "fr": "Une influence mondiale",
+              "es": "Una influencia mundial",
+              "ca": "Una influència mundial"
+            }
+          },
+          {
+            "fr": "Bien qu'il refuse l'étiquette « anarchiste », son influence sur ce courant est immense, notamment via sa correspondance directe avec un jeune avocat indien nommé Mohandas Gandhi, qui s'inspire de ses idées pour développer le concept de résistance non-violente qu'il utilisera plus tard contre la domination britannique en Inde. Tolstoï meurt en 1910, à 82 ans, après avoir fui sa propre propriété en pleine nuit pour tenter de vivre enfin selon ses principes, loin des tensions familiales provoquées par ses choix radicaux.",
+            "es": "Aunque rechaza la etiqueta de «anarquista», su influencia sobre esta corriente es inmensa, especialmente a través de su correspondencia directa con un joven abogado indio llamado Mohandas Gandhi, que se inspira en sus ideas para desarrollar el concepto de resistencia no violenta que usará más tarde contra la dominación británica en la India. Tolstói muere en 1910, a los 82 años, tras huir de su propia propiedad en plena noche para intentar vivir por fin según sus principios, lejos de las tensiones familiares provocadas por sus decisiones radicales.",
+            "ca": "Encara que rebutja l'etiqueta d'«anarquista», la seva influència sobre aquest corrent és immensa, especialment a través de la seva correspondència directa amb un jove advocat indi anomenat Mohandas Gandhi, que s'inspira en les seves idees per desenvolupar el concepte de resistència no violenta que farà servir més tard contra la dominació britànica a l'Índia. Tolstoi mor el 1910, als 82 anys, després de fugir de la seva pròpia propietat en plena nit per intentar viure per fi segons els seus principis, lluny de les tensions familiars provocades per les seves decisions radicals."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Léon Tolstoï, déjà considéré de son vivant comme l'un des plus grands romanciers de l'histoire grâce à « Guerre et Paix » (1869) et « Anna Karénine » (1877), traverse à la fin des années 1870 une crise existentielle profonde, documentée dans « Ma Confession » (1882), qui le pousse à rejeter la richesse, le statut social et la vie mondaine pour se consacrer à l'élaboration d'une doctrine religieuse et politique radicalement personnelle, fondée sur une lecture littérale et rigoriste des enseignements moraux du Christ.",
+            "es": "León Tolstói, ya considerado en vida como uno de los más grandes novelistas de la historia gracias a «Guerra y Paz» (1869) y «Anna Karénina» (1877), atraviesa a finales de los años 1870 una crisis existencial profunda, documentada en «Mi confesión» (1882), que lo lleva a rechazar la riqueza, el estatus social y la vida mundana para dedicarse a la elaboración de una doctrina religiosa y política radicalmente personal, fundada en una lectura literal y rigorista de las enseñanzas morales de Cristo.",
+
+
+            "ca": "Lev Tolstoi, ja considerat en vida com un dels més grans novel·listes de la història gràcies a «Guerra i Pau» (1869) i «Anna Karénina» (1877), travessa a finals dels anys 1870 una crisi existencial profunda, documentada a «La meva confessió» (1882), que el porta a rebutjar la riquesa, l'estatus social i la vida mundana per dedicar-se a l'elaboració d'una doctrina religiosa i política radicalment personal, fundada en una lectura literal i rigorista dels ensenyaments morals de Crist."
+          },
+          {
+            "h": {
+              "fr": "La non-résistance au mal par la violence",
+              "es": "La no resistencia al mal mediante la violencia",
+              "ca": "La no resistència al mal mitjançant la violència"
+            }
+          },
+          {
+            "fr": "Le cœur de cette doctrine, exposée notamment dans « Le Royaume de Dieu est en vous » (1894), tient dans le principe de « non-résistance au mal par la violence » : Tolstoï interprète littéralement le commandement christique de tendre l'autre joue, en concluant que répondre à la violence par la violence — même au nom d'une cause juste, y compris révolutionnaire — ne fait que perpétuer indéfiniment le cycle de la souffrance, tandis que le refus actif et courageux de coopérer avec l'injustice, sans jamais recourir à la force, constitue la seule voie authentiquement transformatrice.",
+            "es": "El corazón de esta doctrina, expuesta especialmente en «El reino de Dios está en vosotros» (1894), reside en el principio de «no resistencia al mal mediante la violencia»: Tolstói interpreta literalmente el mandamiento cristiano de poner la otra mejilla, concluyendo que responder a la violencia con violencia —incluso en nombre de una causa justa, incluida la revolucionaria— solo perpetúa indefinidamente el ciclo del sufrimiento, mientras que la negativa activa y valiente a cooperar con la injusticia, sin recurrir jamás a la fuerza, constituye la única vía auténticamente transformadora.",
+            "ca": "El cor d'aquesta doctrina, exposada especialment a «El regne de Déu és dins vostre» (1894), rau en el principi de «no resistència al mal mitjançant la violència»: Tolstoi interpreta literalment el manament cristià de posar l'altra galta, concloent que respondre a la violència amb violència —fins i tot en nom d'una causa justa, inclosa la revolucionària— només perpetua indefinidament el cicle del patiment, mentre que la negativa activa i valenta a cooperar amb la injustícia, sense recórrer mai a la força, constitueix l'única via autènticament transformadora."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L.N.Tolstoy%20Prokudin-Gorsky.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:L.N.Tolstoy_Prokudin-Gorsky.jpg",
+              "credit": {
+                "es": "Tolstói en Yásnaia Poliana, 1908, primera fotografía en color de Rusia — Wikimedia Commons.",
+                "ca": "Tolstoi a Iàsnaia Poliana, 1908, primera fotografia en color de Rússia — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une critique radicale de l'État et de l'Église",
+              "es": "Una crítica radical del Estado y la Iglesia",
+              "ca": "Una crítica radical de l'Estat i l'Església"
+            }
+          },
+          {
+            "fr": "De ce principe, Tolstoï tire une critique politique qui le rapproche objectivement de l'anarchisme, même s'il rejette explicitement ce terme comme trop associé à la violence révolutionnaire : selon lui, l'État repose intrinsèquement sur la menace et l'exercice de la violence — l'armée, la police, la prison, le système fiscal appliqué par la contrainte — ce qui le rend structurellement incapable d'incarner une justice authentique, quels que soient les discours qui le légitiment. Il refuse pour cette raison le service militaire, encourage l'objection de conscience et soutient activement les Doukhobors, une secte religieuse pacifiste russe persécutée pour son refus des armes, allant jusqu'à financer leur émigration au Canada avec les droits d'auteur de son roman « Résurrection » (1899).",
+            "es": "De este principio, Tolstói extrae una crítica política que lo acerca objetivamente al anarquismo, aunque rechaza explícitamente este término por considerarlo demasiado asociado a la violencia revolucionaria: según él, el Estado se basa intrínsecamente en la amenaza y el ejercicio de la violencia —el ejército, la policía, la prisión, el sistema fiscal aplicado por coacción— lo que lo hace estructuralmente incapaz de encarnar una justicia auténtica, cualesquiera que sean los discursos que lo legitiman. Por esta razón rechaza el servicio militar, fomenta la objeción de conciencia y apoya activamente a los dujobores, una secta religiosa pacifista rusa perseguida por su negativa a las armas, llegando a financiar su emigración a Canadá con los derechos de autor de su novela «Resurrección» (1899).",
+            "ca": "D'aquest principi, Tolstoi extreu una crítica política que l'apropa objectivament a l'anarquisme, encara que rebutja explícitament aquest terme per considerar-lo massa associat a la violència revolucionària: segons ell, l'Estat es basa intrínsecament en l'amenaça i l'exercici de la violència —l'exèrcit, la policia, la presó, el sistema fiscal aplicat per coacció— cosa que el fa estructuralment incapaç d'encarnar una justícia autèntica, siguin quins siguin els discursos que el legitimen. Per aquesta raó rebutja el servei militar, fomenta l'objecció de consciència i recolza activament els dukhobors, una secta religiosa pacifista russa perseguida pel seu rebuig de les armes, arribant a finançar la seva emigració al Canadà amb els drets d'autor de la seva novel·la «Resurrecció» (1899)."
+          },
+          {
+            "fr": "Il rejette également, avec la même radicalité, l'Église orthodoxe officielle, dont il dénonce l'alliance avec le pouvoir tsariste, ce qui lui vaut d'être formellement excommunié par le Saint-Synode en 1901 — sans que cela n'entame sa popularité, qui reste immense en Russie et dans le monde entier.",
+            "es": "También rechaza, con la misma radicalidad, a la Iglesia ortodoxa oficial, cuya alianza con el poder zarista denuncia, lo que le vale ser formalmente excomulgado por el Santo Sínodo en 1901 —sin que ello mermara su popularidad, que sigue siendo inmensa en Rusia y en todo el mundo.",
+            "ca": "També rebutja, amb la mateixa radicalitat, l'Església ortodoxa oficial, l'aliança de la qual amb el poder tsarista denuncia, cosa que li val ser formalment excomunicat pel Sant Sínode el 1901 —sense que això minvés la seva popularitat, que continua sent immensa a Rússia i a tot el món."
+          },
+          {
+            "h": {
+              "fr": "Une influence mondiale sur la non-violence politique",
+              "es": "Una influencia mundial sobre la no violencia política",
+              "ca": "Una influència mundial sobre la no-violència política"
+            }
+          },
+          {
+            "fr": "L'influence de Tolstoï sur les mouvements de résistance non-violente à travers le monde est considérable, notamment via sa correspondance directe, à la toute fin de sa vie, avec un jeune avocat indien exerçant en Afrique du Sud, Mohandas Gandhi, qui puise explicitement dans ses écrits pour élaborer le concept de satyagraha (la « force de la vérité »), qu'il déploiera ensuite avec le succès que l'on sait contre la domination coloniale britannique. Tolstoï meurt en novembre 1910, à 82 ans, dans la petite gare d'Astapovo, après avoir fui secrètement sa propriété de Iasnaïa Poliana en pleine nuit — un ultime geste, resté célèbre, pour tenter d'échapper aux tensions familiales et matérielles que ses idéaux radicaux n'avaient jamais réussi à totalement résoudre de son vivant.",
+            "es": "La influencia de Tolstói sobre los movimientos de resistencia no violenta en todo el mundo es considerable, especialmente a través de su correspondencia directa, al final mismo de su vida, con un joven abogado indio que ejercía en Sudáfrica, Mohandas Gandhi, que se nutre explícitamente de sus escritos para elaborar el concepto de satyagraha (la «fuerza de la verdad»), que desplegará después con el éxito ya conocido contra la dominación colonial británica. Tolstói muere en noviembre de 1910, a los 82 años, en la pequeña estación de Astapovo, tras haber huido secretamente de su propiedad de Yásnaia Poliana en plena noche —un gesto final, que ha quedado célebre, para intentar escapar de las tensiones familiares y materiales que sus ideales radicales nunca habían logrado resolver del todo en vida.",
+            "ca": "La influència de Tolstoi sobre els moviments de resistència no violenta arreu del món és considerable, especialment a través de la seva correspondència directa, al mateix final de la seva vida, amb un jove advocat indi que exercia a Sud-àfrica, Mohandas Gandhi, que es nodreix explícitament dels seus escrits per elaborar el concepte de satyagraha (la «força de la veritat»), que desplegarà després amb l'èxit ja conegut contra la dominació colonial britànica. Tolstoi mor el novembre del 1910, als 82 anys, a la petita estació d'Astapovo, després d'haver fugit secretament de la seva propietat de Iàsnaia Poliana en plena nit —un gest final, que ha quedat cèlebre, per intentar escapar de les tensions familiars i materials que els seus ideals radicals mai no havien aconseguit resoldre del tot en vida."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une excommunication",
+          "es": "una excomunión",
+          "ca": "una excomunió"
+        },
+        {
+          "mot": "l'objection de conscience",
+          "es": "la objeción de conciencia",
+          "ca": "l'objecció de consciència"
+        },
+        {
+          "mot": "un impôt (forcé)",
+          "es": "un impuesto (forzado)",
+          "ca": "un impost (forçat)"
+        },
+        {
+          "mot": "une secte (religieuse)",
+          "es": "una secta (religiosa)",
+          "ca": "una secta (religiosa)"
+        },
+        {
+          "mot": "fuir (en secret)",
+          "es": "huir (en secreto)",
+          "ca": "fugir (en secret)"
+        },
+        {
+          "mot": "une résistance non-violente",
+          "es": "una resistencia no violenta",
+          "ca": "una resistència no violenta"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué es el principio de «no resistencia al mal mediante la violencia»?",
+            "ca": "Què és el principi de «no resistència al mal mitjançant la violència»?"
+          },
+          "piste": {
+            "es": "responder a la violencia con violencia solo la perpetúa; hay que negarse a cooperar sin usar la fuerza",
+            "ca": "respondre a la violència amb violència només la perpetua; cal negar-se a cooperar sense usar la força"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué Tolstói critica el Estado, aunque rechace la etiqueta de anarquista?",
+            "ca": "Per què Tolstoi critica l'Estat, encara que rebutgi l'etiqueta d'anarquista?"
+          },
+          "piste": {
+            "es": "porque el Estado se basa fundamentalmente en la amenaza de violencia",
+            "ca": "perquè l'Estat es basa fonamentalment en l'amenaça de violència"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué joven abogado indio se inspira en las cartas de Tolstói?",
+            "ca": "Quin jove advocat indi s'inspira en les cartes de Tolstoi?"
+          },
+          "piste": {
+            "es": "Mohandas Gandhi",
+            "ca": "Mohandas Gandhi"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo muere Tolstói en 1910?",
+            "ca": "Com mor Tolstoi el 1910?"
+          },
+          "piste": {
+            "es": "tras huir en secreto de su propiedad, en una pequeña estación de tren",
+            "ca": "després de fugir en secret de la seva propietat, en una petita estació de tren"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Leo Tolstoy",
+          "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+        },
+        {
+          "titre": "Wikipedia — Christian anarchism",
+          "url": "https://en.wikipedia.org/wiki/Christian_anarchism"
+        }
+      ]
+    }
+  ]
+}

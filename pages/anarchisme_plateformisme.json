@@ -1,0 +1,258 @@
+{
+  "textes": [
+    {
+      "id": "plateformisme_organisation",
+      "emoji": "📋",
+      "theme": "Politique",
+      "periode": "1926 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%201920.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_1920.jpg",
+        "credit": {
+          "es": "Néstor Majnó, cuyo exilio en París da origen al debate del plataformismo — Wikimedia Commons.",
+          "ca": "Nestor Makhno, l'exili del qual a París dona origen al debat del plataformisme — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "El plataformismo: la lección de la derrota ucraniana",
+        "ca": "El plataformisme: la lliçó de la derrota ucraïnesa"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Tu te souviens de Nestor Makhno et de son exil à Paris ? En exil, il réfléchit à pourquoi la révolution ukrainienne a échoué.",
+            "es": "¿Te acuerdas de Néstor Majnó y su exilio en París? En el exilio, reflexiona sobre por qué la revolución ucraniana fracasó.",
+            "ca": "Et recordes de Nestor Makhno i el seu exili a París? A l'exili, reflexiona sobre per què la revolució ucraïnesa va fracassar."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nestor%20Makhno%201920.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nestor_Makhno_1920.jpg",
+              "credit": {
+                "es": "Néstor Majnó, cuyo exilio en París da origen al debate del plataformismo — Wikimedia Commons.",
+                "ca": "Nestor Makhno, l'exili del qual a París dona origen al debat del plataformisme — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1926, avec d'autres anarchistes russes exilés, il écrit un texte important : « La Plateforme ».",
+            "es": "En 1926, con otros anarquistas rusos exiliados, escribe un texto importante: «La Plataforma».",
+            "ca": "El 1926, amb altres anarquistes russos exiliats, escriu un text important: «La Plataforma»."
+          },
+          {
+            "fr": "L'idée principale : les anarchistes doivent s'organiser de façon sérieuse et disciplinée, sinon ils perdent toujours face aux communistes autoritaires.",
+            "es": "La idea principal: los anarquistas deben organizarse de forma seria y disciplinada, si no, siempre pierden frente a los comunistas autoritarios.",
+            "ca": "La idea principal: els anarquistes s'han d'organitzar de manera seriosa i disciplinada, si no, sempre perden davant els comunistes autoritaris."
+          },
+          {
+            "fr": "Beaucoup d'anarchistes détestent cette idée. Ils pensent que ça ressemble trop à un parti, contre l'esprit anarchiste.",
+            "es": "Muchos anarquistas odian esta idea. Piensan que se parece demasiado a un partido, contra el espíritu anarquista.",
+            "ca": "Molts anarquistes odien aquesta idea. Pensen que s'assembla massa a un partit, contra l'esperit anarquista."
+          },
+          {
+            "fr": "Ce débat continue encore aujourd'hui entre anarchistes du monde entier.",
+            "es": "Este debate continúa todavía hoy entre anarquistas de todo el mundo.",
+            "ca": "Aquest debat continua encara avui entre anarquistes de tot el món."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Après la défaite de la Makhnovtchina en 1921, Nestor Makhno s'installe en exil à Paris, où il rejoint Piotr Arshinov et d'autres anarchistes russes et ukrainiens exilés pour fonder la revue « Dielo Trouda » (La Cause ouvrière) en 1925.",
+            "es": "Tras la derrota de la Majnóvschina en 1921, Néstor Majnó se instala en el exilio en París, donde se une a Piotr Arshinov y otros anarquistas rusos y ucranianos exiliados para fundar la revista «Dielo Trouda» (La Causa Obrera) en 1925.",
+            "ca": "Després de la derrota de la Makhnóvxina el 1921, Nestor Makhno s'instal·la a l'exili a París, on s'uneix a Piotr Arshinov i altres anarquistes russos i ucraïnesos exiliats per fundar la revista «Dielo Trouda» (La Causa Obrera) el 1925."
+          },
+          {
+            "h": {
+              "fr": "La leçon d'une défaite",
+              "es": "La lección de una derrota",
+              "ca": "La lliçó d'una derrota"
+            }
+          },
+          {
+            "fr": "Pour ce groupe, l'échec de la révolution ukrainienne face aux bolcheviks s'explique en partie par le manque d'organisation du mouvement anarchiste : trop de petits groupes dispersés, sans stratégie commune, incapables de rivaliser avec la discipline du parti bolchevique.",
+            "es": "Para este grupo, el fracaso de la revolución ucraniana ante los bolcheviques se explica en parte por la falta de organización del movimiento anarquista: demasiados pequeños grupos dispersos, sin estrategia común, incapaces de rivalizar con la disciplina del partido bolchevique.",
+            "ca": "Per a aquest grup, el fracàs de la revolució ucraïnesa davant els bolxevics s'explica en part per la manca d'organització del moviment anarquista: massa petits grups dispersos, sense estratègia comuna, incapaços de rivalitzar amb la disciplina del partit bolxevic."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+              "credit": {
+                "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+                "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La Plateforme de 1926",
+              "es": "La Plataforma de 1926",
+              "ca": "La Plataforma de 1926"
+            }
+          },
+          {
+            "fr": "En juin 1926, le groupe publie l' « Organizational Platform of the General Union of Anarchists », rédigée principalement par Arshinov avec la contribution de Makhno. Le texte propose quatre principes : une unité théorique claire, une tactique collective commune, une responsabilité collective des actions de chacun, et une structure fédéraliste.",
+            "es": "En junio de 1926, el grupo publica la «Organizational Platform of the General Union of Anarchists», redactada principalmente por Arshinov con la contribución de Majnó. El texto propone cuatro principios: una unidad teórica clara, una táctica colectiva común, una responsabilidad colectiva de las acciones de cada uno, y una estructura federalista.",
+            "ca": "El juny del 1926, el grup publica l'«Organizational Platform of the General Union of Anarchists», redactada principalment per Arshinov amb la contribució de Makhno. El text proposa quatre principis: una unitat teòrica clara, una tàctica col·lectiva comuna, una responsabilitat col·lectiva de les accions de cadascú, i una estructura federalista."
+          },
+          {
+            "h": {
+              "fr": "Une controverse toujours vive",
+              "es": "Una controversia siempre viva",
+              "ca": "Una controvèrsia sempre viva"
+            }
+          },
+          {
+            "fr": "La publication provoque un schisme immédiat dans le mouvement anarchiste international : des figures comme Voline ou Alexander Berkman accusent le texte de « bolcheviser » l'anarchisme, en imposant une discipline qu'ils jugent contraire à la liberté individuelle. Ce débat entre « plateformistes », qui veulent une organisation cohérente et disciplinée, et « synthésistes », qui préfèrent une coexistence souple de courants variés, structure encore aujourd'hui de nombreuses discussions au sein du mouvement anarchiste mondial.",
+            "es": "La publicación provoca un cisma inmediato en el movimiento anarquista internacional: figuras como Voline o Alexander Berkman acusan al texto de «bolchevizar» el anarquismo, al imponer una disciplina que consideran contraria a la libertad individual. Este debate entre «plataformistas», que quieren una organización coherente y disciplinada, y «sintetistas», que prefieren una coexistencia flexible de corrientes variadas, estructura todavía hoy numerosas discusiones dentro del movimiento anarquista mundial.",
+            "ca": "La publicació provoca un cisma immediat en el moviment anarquista internacional: figures com Voline o Alexander Berkman acusen el text de «bolxevitzar» l'anarquisme, en imposar una disciplina que consideren contrària a la llibertat individual. Aquest debat entre «plataformistes», que volen una organització coherent i disciplinada, i «sintetistes», que prefereixen una coexistència flexible de corrents variats, estructura encara avui nombroses discussions dins el moviment anarquista mundial."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Après la défaite définitive de la Makhnovtchina face à l'Armée rouge en 1921, Nestor Makhno s'exile finalement à Paris, où il retrouve Piotr Arshinov, un compagnon rencontré des années plus tôt dans la prison de Boutyrki à Moscou. Ensemble, avec d'autres anarchistes russes et ukrainiens exilés dont Ida Mett, ils fondent en 1925 la revue bimestrielle « Dielo Trouda » (La Cause ouvrière), qui devient rapidement une publication théorique de référence pour la diaspora anarchiste russophone.",
+            "es": "Tras la derrota definitiva de la Majnóvschina ante el Ejército Rojo en 1921, Néstor Majnó se exilia finalmente a París, donde reencuentra a Piotr Arshinov, un compañero conocido años antes en la prisión de Butyrka en Moscú. Juntos, con otros anarquistas rusos y ucranianos exiliados entre los que se encuentra Ida Mett, fundan en 1925 la revista bimensual «Dielo Trouda» (La Causa Obrera), que se convierte rápidamente en una publicación teórica de referencia para la diáspora anarquista rusófona.",
+            "ca": "Després de la derrota definitiva de la Makhnóvxina davant l'Exèrcit Roig el 1921, Nestor Makhno s'exilia finalment a París, on retroba Piotr Arshinov, un company conegut anys abans a la presó de Butirka a Moscou. Junts, amb altres anarquistes russos i ucraïnesos exiliats entre els quals hi ha Ida Mett, funden el 1925 la revista bimensual «Dielo Trouda» (La Causa Obrera), que esdevé ràpidament una publicació teòrica de referència per a la diàspora anarquista russòfona."
+          },
+          {
+            "h": {
+              "fr": "La leçon d'une défaite",
+              "es": "La lección de una derrota",
+              "ca": "La lliçó d'una derrota"
+            }
+          },
+          {
+            "fr": "Pour ce groupe, marqué à vif par l'expérience ukrainienne, l'échec de la révolution face aux bolcheviks ne s'explique pas seulement par le rapport de force militaire, mais aussi et surtout par la faiblesse organisationnelle structurelle du mouvement anarchiste dans son ensemble : une multitude de petits groupes locaux, dispersés, sans coordination stratégique ni ligne théorique commune, incapables de rivaliser avec la discipline centralisée du parti bolchevique — une analyse qui rejoint, sur ce point précis, certaines des critiques que Bakounine adressait déjà à Marx un demi-siècle plus tôt, tout en s'y opposant frontalement sur la question de la centralisation.",
+
+
+            "es": "Para este grupo, marcado profundamente por la experiencia ucraniana, el fracaso de la revolución ante los bolcheviques no se explica solo por la correlación de fuerzas militares, sino también y sobre todo por la debilidad organizativa estructural del movimiento anarquista en su conjunto: una multitud de pequeños grupos locales, dispersos, sin coordinación estratégica ni línea teórica común, incapaces de rivalizar con la disciplina centralizada del partido bolchevique —un análisis que coincide, en este punto preciso, con algunas de las críticas que Bakunin ya dirigía a Marx medio siglo antes, aunque se le opone frontalmente en la cuestión de la centralización.",
+            "ca": "Per a aquest grup, marcat profundament per l'experiència ucraïnesa, el fracàs de la revolució davant els bolxevics no s'explica només per la correlació de forces militars, sinó també i sobretot per la debilitat organitzativa estructural del moviment anarquista en el seu conjunt: una multitud de petits grups locals, dispersos, sense coordinació estratègica ni línia teòrica comuna, incapaços de rivalitzar amb la disciplina centralitzada del partit bolxevic —una anàlisi que coincideix, en aquest punt precís, amb algunes de les crítiques que Bakunin ja dirigia a Marx mig segle abans, encara que s'hi oposa frontalment en la qüestió de la centralització."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarach%20and%20Zerzan.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Jarach_and_Zerzan.JPG",
+              "credit": {
+                "es": "John Zerzan (derecha), teórico del anarcoprimitivismo, en una feria del libro anarquista — Wikimedia Commons.",
+                "ca": "John Zerzan (dreta), teòric de l'anarcoprimitivisme, en una fira del llibre anarquista — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "La Plateforme de 1926",
+              "es": "La Plataforma de 1926",
+              "ca": "La Plataforma de 1926"
+            }
+          },
+          {
+            "fr": "En juin 1926, le groupe Dielo Trouda publie le document fondateur du courant, l'« Organizational Platform of the General Union of Anarchists (Draft) », rédigé principalement par Arshinov avec les contributions de Makhno et d'autres membres. Le texte structure sa proposition autour de quatre principes fondamentaux : l'unité théorique (un programme politique cohérent partagé par tous les membres, plutôt qu'une coexistence de tendances contradictoires), l'unité tactique (des méthodes d'action communes et coordonnées plutôt qu'une addition d'initiatives isolées), la responsabilité collective (chaque membre répond de ses actes devant l'organisation dans son ensemble, et non seulement devant sa conscience individuelle), et le fédéralisme (une coordination entre groupes locaux via des congrès et un comité exécutif, sans pour autant recréer une hiérarchie de type étatique).",
+            "es": "En junio de 1926, el grupo Dielo Trouda publica el documento fundador de la corriente, la «Organizational Platform of the General Union of Anarchists (Draft)», redactado principalmente por Arshinov con las contribuciones de Majnó y otros miembros. El texto estructura su propuesta en torno a cuatro principios fundamentales: la unidad teórica (un programa político coherente compartido por todos los miembros, en lugar de una coexistencia de tendencias contradictorias), la unidad táctica (métodos de acción comunes y coordinados en lugar de una suma de iniciativas aisladas), la responsabilidad colectiva (cada miembro responde de sus actos ante la organización en su conjunto, y no solo ante su conciencia individual), y el federalismo (una coordinación entre grupos locales mediante congresos y un comité ejecutivo, sin por ello recrear una jerarquía de tipo estatal).",
+            "ca": "El juny del 1926, el grup Dielo Trouda publica el document fundador del corrent, l'«Organizational Platform of the General Union of Anarchists (Draft)», redactat principalment per Arshinov amb les contribucions de Makhno i altres membres. El text estructura la seva proposta al voltant de quatre principis fonamentals: la unitat teòrica (un programa polític coherent compartit per tots els membres, en comptes d'una coexistència de tendències contradictòries), la unitat tàctica (mètodes d'acció comuns i coordinats en comptes d'una suma d'iniciatives aïllades), la responsabilitat col·lectiva (cada membre respon dels seus actes davant l'organització en el seu conjunt, i no només davant la seva consciència individual), i el federalisme (una coordinació entre grups locals mitjançant congressos i un comitè executiu, sense per això recrear una jerarquia de tipus estatal)."
+          },
+          {
+            "h": {
+              "fr": "Une controverse toujours vive",
+              "es": "Una controversia siempre viva",
+              "ca": "Una controvèrsia sempre viva"
+            }
+          },
+          {
+            "fr": "La publication de la Plateforme provoque un schisme quasi immédiat au sein du mouvement anarchiste international : des figures majeures comme Voline (fondateur, avec Sébastien Faure, du courant rival dit « synthésiste ») ou l'Américaine Molly Steimer accusent le texte de reproduire, sous une forme à peine édulcorée, les logiques centralisatrices et disciplinaires du bolchevisme lui-même — une critique d'autant plus douloureuse pour Arshinov qu'il finira, quelques années plus tard, par effectivement retourner en URSS et se rallier au stalinisme, ce qui jettera une ombre rétrospective sur l'ensemble du projet plateformiste aux yeux de ses détracteurs.",
+            "es": "La publicación de la Plataforma provoca un cisma casi inmediato dentro del movimiento anarquista internacional: figuras importantes como Voline (fundador, junto con Sébastien Faure, de la corriente rival llamada «sintetista») o la estadounidense Molly Steimer acusan al texto de reproducir, bajo una forma apenas edulcorada, las lógicas centralizadoras y disciplinarias del propio bolchevismo —una crítica tanto más dolorosa para Arshinov cuanto que, unos años después, terminará efectivamente regresando a la URSS y adhiriéndose al estalinismo, lo que arrojará una sombra retrospectiva sobre todo el proyecto plataformista a ojos de sus detractores.",
+            "ca": "La publicació de la Plataforma provoca un cisma gairebé immediat dins el moviment anarquista internacional: figures importants com Voline (fundador, juntament amb Sébastien Faure, del corrent rival dit «sintetista») o l'estatunidenca Molly Steimer acusen el text de reproduir, sota una forma amb prou feines edulcorada, les lògiques centralitzadores i disciplinàries del mateix bolxevisme —una crítica tant més dolorosa per a Arshinov com que, uns anys després, acabarà efectivament tornant a l'URSS i adherint-se a l'estalinisme, cosa que llançarà una ombra retrospectiva sobre tot el projecte plataformista als ulls dels seus detractors."
+          },
+          {
+            "fr": "Malgré cette controverse durable, le plateformisme survit et continue d'influencer aujourd'hui de nombreuses organisations anarchistes à travers le monde, qui reprennent tout ou partie de ses quatre principes pour bâtir des fédérations structurées capables de mener des campagnes durables — un débat qui rejoue, sous une forme actualisée, la tension originelle entre Bakounine et Marx sur les mérites et les dangers de l'organisation centralisée, cette fois entièrement interne au camp anarchiste lui-même.",
+            "es": "A pesar de esta controversia duradera, el plataformismo sobrevive y sigue influyendo hoy en numerosas organizaciones anarquistas por todo el mundo, que retoman total o parcialmente sus cuatro principios para construir federaciones estructuradas capaces de llevar a cabo campañas duraderas —un debate que reproduce, bajo una forma actualizada, la tensión original entre Bakunin y Marx sobre los méritos y peligros de la organización centralizada, esta vez enteramente interna al propio campo anarquista.",
+            "ca": "Malgrat aquesta controvèrsia duradora, el plataformisme sobreviu i continua influint avui en nombroses organitzacions anarquistes arreu del món, que reprenen totalment o parcialment els seus quatre principis per construir federacions estructurades capaces de dur a terme campanyes duradores —un debat que reprodueix, sota una forma actualitzada, la tensió original entre Bakunin i Marx sobre els mèrits i els perills de l'organització centralitzada, aquesta vegada enterament interna al mateix camp anarquista."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un schisme",
+          "es": "un cisma",
+          "ca": "un cisma"
+        },
+        {
+          "mot": "une unité tactique",
+          "es": "una unidad táctica",
+          "ca": "una unitat tàctica"
+        },
+        {
+          "mot": "une responsabilité collective",
+          "es": "una responsabilidad colectiva",
+          "ca": "una responsabilitat col·lectiva"
+        },
+        {
+          "mot": "édulcoré(e)",
+          "es": "edulcorado/a",
+          "ca": "edulcorat/ada"
+        },
+        {
+          "mot": "se rallier (à une cause)",
+          "es": "adherirse (a una causa)",
+          "ca": "adherir-se (a una causa)"
+        },
+        {
+          "mot": "une fédération (structurée)",
+          "es": "una federación (estructurada)",
+          "ca": "una federació (estructurada)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué explicación dan Makhno y Arshinov a la derrota de la revolución ucraniana?",
+            "ca": "Quina explicació donen Makhno i Arshinov a la derrota de la revolució ucraïnesa?"
+          },
+          "piste": {
+            "es": "la falta de organización del movimiento anarquista",
+            "ca": "la manca d'organització del moviment anarquista"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuáles son los cuatro principios de la Plataforma de 1926?",
+            "ca": "Quins són els quatre principis de la Plataforma de 1926?"
+          },
+          "piste": {
+            "es": "unidad teórica, unidad táctica, responsabilidad colectiva, federalismo",
+            "ca": "unitat teòrica, unitat tàctica, responsabilitat col·lectiva, federalisme"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué le reprochan a la Plataforma sus detractores como Voline?",
+            "ca": "Què retreuen a la Plataforma els seus detractors com Voline?"
+          },
+          "piste": {
+            "es": "que reproduce las lógicas centralizadoras del bolchevismo",
+            "ca": "que reprodueix les lògiques centralitzadores del bolxevisme"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué pasa con Arshinov unos años después, y qué efecto tiene sobre la imagen del plataformismo?",
+            "ca": "Què passa amb Arshinov uns anys després, i quin efecte té sobre la imatge del plataformisme?"
+          },
+          "piste": {
+            "es": "regresa a la URSS y se adhiere al estalinismo, lo que perjudica la imagen del plataformismo",
+            "ca": "torna a l'URSS i s'adhereix a l'estalinisme, cosa que perjudica la imatge del plataformisme"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Platformism",
+          "url": "https://en.wikipedia.org/wiki/Platformism"
+        },
+        {
+          "titre": "The Anarchist Library — Organisational Platform of the Libertarian Communists",
+          "url": "https://theanarchistlibrary.org/library/dielo-truda-workers-cause-organisational-platform-of-the-libertarian-communists"
+        }
+      ]
+    }
+  ]
+}

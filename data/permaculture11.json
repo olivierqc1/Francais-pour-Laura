@@ -1,0 +1,262 @@
+{
+  "textes": [
+    {
+      "id": "souverainete_semenciere_vavilov",
+      "emoji": "🌱🔒",
+      "theme": "Écologie",
+      "periode": "1920 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Vavilov%20NYWTS.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Nikolai_Vavilov_NYWTS.jpg",
+        "credit": {
+          "es": "Nikolai Vavílov (1887-1943), botánico y genetista ruso — Wikimedia Commons.",
+          "ca": "Nikolai Vavílov (1887-1943), botànic i genetista rus — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Soberanía de semillas: de Vavílov a las semillas patentadas",
+        "ca": "Sobirania de llavors: de Vavílov a les llavors patentades"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Nikolaï Vavilov est un botaniste russe qui, dans les années 1920-1930, voyage dans le monde entier pour collecter des graines.",
+            "es": "Nikolái Vavílov es un botánico ruso que, en los años 1920-1930, viaja por todo el mundo para recolectar semillas.",
+            "ca": "Nikolai Vavílov és un botànic rus que, als anys 1920-1930, viatja per tot el món per recol·lectar llavors."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Vavilov%20NYWTS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nikolai_Vavilov_NYWTS.jpg",
+              "credit": {
+                "es": "Nikolai Vavílov (1887-1943), botánico y genetista ruso — Wikimedia Commons.",
+                "ca": "Nikolai Vavílov (1887-1943), botànic i genetista rus — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il crée la première grande banque de graines du monde, à Léningrad, avec des dizaines de milliers de variétés différentes.",
+            "es": "Crea el primer gran banco de semillas del mundo, en Leningrado, con decenas de miles de variedades diferentes.",
+            "ca": "Crea el primer gran banc de llavors del món, a Leningrad, amb desenes de milers de varietats diferents."
+          },
+          {
+            "fr": "Pendant le siège de Léningrad, en 1941-1944, des scientifiques restent enfermés avec les graines pour les protéger.",
+            "es": "Durante el asedio de Leningrado, en 1941-1944, unos científicos permanecen encerrados con las semillas para protegerlas.",
+            "ca": "Durant el setge de Leningrad, el 1941-1944, uns científics romanen tancats amb les llavors per protegir-les."
+          },
+          {
+            "fr": "Certains meurent de faim, entourés de graines comestibles qu'ils refusent de manger, pour sauver les variétés pour l'avenir.",
+            "es": "Algunos mueren de hambre, rodeados de semillas comestibles que se niegan a comer, para salvar las variedades para el futuro.",
+            "ca": "Alguns moren de fam, envoltats de llavors comestibles que es neguen a menjar, per salvar les varietats per al futur."
+          },
+          {
+            "fr": "Aujourd'hui, des entreprises comme Monsanto vendent des semences avec des brevets. Les paysans n'ont plus le droit de les replanter librement.",
+            "es": "Hoy, empresas como Monsanto venden semillas con patentes. Los campesinos ya no tienen derecho a replantarlas libremente.",
+            "ca": "Avui, empreses com Monsanto venen llavors amb patents. Els pagesos ja no tenen dret a replantar-les lliurement."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Nikolaï Vavilov, botaniste et généticien russe né en 1887, développe dans les années 1920 une théorie révolutionnaire : la diversité génétique des plantes cultivées est la clé pour nourrir l'humanité face aux futures crises climatiques ou aux maladies. Il entreprend des dizaines d'expéditions à travers le monde pour collecter des graines de variétés locales, souvent menacées de disparition.",
+            "es": "Nikolái Vavílov, botánico y genetista ruso nacido en 1887, desarrolla en los años 1920 una teoría revolucionaria: la diversidad genética de las plantas cultivadas es la clave para alimentar a la humanidad frente a futuras crisis climáticas o enfermedades. Emprende decenas de expediciones por todo el mundo para recolectar semillas de variedades locales, a menudo amenazadas de desaparición.",
+            "ca": "Nikolai Vavílov, botànic i genetista rus nascut el 1887, desenvolupa als anys 1920 una teoria revolucionària: la diversitat genètica de les plantes conreades és la clau per alimentar la humanitat davant futures crisis climàtiques o malalties. Emprèn desenes d'expedicions per tot el món per recol·lectar llavors de varietats locals, sovint amenaçades de desaparició."
+          },
+          {
+            "h": {
+              "fr": "Le siège de Léningrad",
+              "es": "El asedio de Leningrado",
+              "ca": "El setge de Leningrad"
+            }
+          },
+          {
+            "fr": "Il fonde à Léningrad ce qui devient la première banque de semences moderne au monde, rassemblant des dizaines de milliers d'échantillons. Pendant le siège de la ville par l'armée allemande (1941-1944), l'une des périodes les plus meurtrières de la Seconde Guerre mondiale, une équipe de scientifiques se barricade dans l'institut pour protéger la collection des pillages et des rats, refusant catégoriquement de manger les graines comestibles qui les entourent malgré la famine. Neuf d'entre eux meurent de faim, entourés de leur propre trésor scientifique intact.",
+            "es": "Funda en Leningrado lo que se convierte en el primer banco de semillas moderno del mundo, reuniendo decenas de miles de muestras. Durante el asedio de la ciudad por el ejército alemán (1941-1944), uno de los períodos más mortíferos de la Segunda Guerra Mundial, un equipo de científicos se atrinchera en el instituto para proteger la colección de saqueos y ratas, negándose categóricamente a comer las semillas comestibles que los rodean pese al hambre. Nueve de ellos mueren de hambre, rodeados de su propio tesoro científico intacto.",
+            "ca": "Funda a Leningrad el que esdevé el primer banc de llavors modern del món, reunint desenes de milers de mostres. Durant el setge de la ciutat per l'exèrcit alemany (1941-1944), un dels períodes més mortífers de la Segona Guerra Mundial, un equip de científics es fa fort a l'institut per protegir la col·lecció de saquejos i rates, negant-se categòricament a menjar les llavors comestibles que els envolten malgrat la fam. Nou d'ells moren de fam, envoltats del seu propi tresor científic intacte."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Vavilov%20NYWTS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nikolai_Vavilov_NYWTS.jpg",
+              "credit": {
+                "es": "Nikolai Vavílov (1887-1943), botánico y genetista ruso — Wikimedia Commons.",
+                "ca": "Nikolai Vavílov (1887-1943), botànic i genetista rus — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Ironie tragique : Vavilov lui-même meurt de faim",
+              "es": "Ironía trágica: el propio Vavílov muere de hambre",
+              "ca": "Ironia tràgica: el mateix Vavílov mor de fam"
+            }
+          },
+          {
+            "fr": "Dans une ironie amère, Vavilov lui-même est arrêté en 1940 sur ordre de son rival scientifique Trofim Lyssenko, qui bénéficie du soutien de Staline pour ses théories agronomiques pseudo-scientifiques, et meurt de faim en prison en 1943 — un homme dont toute la vie avait été consacrée à combattre la famine, mort précisément de faim.",
+            "es": "En una amarga ironía, el propio Vavílov es arrestado en 1940 por orden de su rival científico Trofim Lysenko, que cuenta con el apoyo de Stalin para sus teorías agronómicas pseudocientíficas, y muere de hambre en prisión en 1943 —un hombre que había dedicado toda su vida a combatir el hambre, muerto precisamente de hambre.",
+            "ca": "En una amarga ironia, el mateix Vavílov és arrestat el 1940 per ordre del seu rival científic Trofim Lysenko, que compta amb el suport d'Stalin per a les seves teories agronòmiques pseudocientífiques, i mor de fam a la presó el 1943 —un home que havia dedicat tota la seva vida a combatre la fam, mort precisament de fam."
+          },
+          {
+            "h": {
+              "fr": "La bataille contemporaine pour les semences",
+              "es": "La batalla contemporánea por las semillas",
+              "ca": "La batalla contemporània per les llavors"
+            }
+          },
+          {
+            "fr": "Aujourd'hui, la question de la souveraineté semencière reste au cœur des luttes agricoles : de grandes entreprises agrochimiques développent des semences brevetées, souvent stériles d'une génération à l'autre, obligeant les agriculteurs à racheter chaque année. Des organisations comme Navdanya en Inde, fondée par Vandana Shiva, ou de nombreux réseaux paysans locaux, travaillent à préserver et à faire circuler librement des semences traditionnelles, en résistance directe à cette privatisation du vivant.",
+            "es": "Hoy, la cuestión de la soberanía de semillas sigue en el corazón de las luchas agrícolas: grandes empresas agroquímicas desarrollan semillas patentadas, a menudo estériles de una generación a otra, obligando a los agricultores a recomprarlas cada año. Organizaciones como Navdanya en la India, fundada por Vandana Shiva, o numerosas redes campesinas locales, trabajan para preservar y hacer circular libremente semillas tradicionales, en resistencia directa a esta privatización de lo vivo.",
+            "ca": "Avui, la qüestió de la sobirania de llavors continua al cor de les lluites agrícoles: grans empreses agroquímiques desenvolupen llavors patentades, sovint estèrils d'una generació a l'altra, obligant els agricultors a recomprar-les cada any. Organitzacions com Navdanya a l'Índia, fundada per Vandana Shiva, o nombroses xarxes pageses locals, treballen per preservar i fer circular lliurement llavors tradicionals, en resistència directa a aquesta privatització del viu."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Nikolaï Ivanovitch Vavilov, botaniste et généticien russe né en 1887, développe dès les années 1920 une théorie scientifique fondatrice : les centres d'origine géographique des plantes cultivées (identifiés notamment dans les Andes, en Éthiopie, en Asie centrale et au Proche-Orient) recèlent une diversité génétique irremplaçable, essentielle pour développer des variétés résistantes aux maladies, aux sécheresses ou aux futurs changements climatiques. Convaincu de l'urgence de préserver cette diversité menacée par l'expansion des monocultures modernes, il entreprend entre les années 1920 et 1930 des dizaines d'expéditions à travers le monde — parfois dans des conditions extrêmement périlleuses, notamment en Afghanistan ou en Éthiopie — pour collecter systématiquement des semences de variétés locales.",
+            "es": "Nikolái Ivánovich Vavílov, botánico y genetista ruso nacido en 1887, desarrolla desde los años 1920 una teoría científica fundadora: los centros de origen geográfico de las plantas cultivadas (identificados especialmente en los Andes, Etiopía, Asia Central y Oriente Próximo) albergan una diversidad genética irremplazable, esencial para desarrollar variedades resistentes a enfermedades, sequías o futuros cambios climáticos. Convencido de la urgencia de preservar esta diversidad amenazada por la expansión de los monocultivos modernos, emprende entre los años 1920 y 1930 decenas de expediciones por todo el mundo —a veces en condiciones extremadamente peligrosas, especialmente en Afganistán o Etiopía— para recolectar sistemáticamente semillas de variedades locales.",
+            "ca": "Nikolai Ivànovitx Vavílov, botànic i genetista rus nascut el 1887, desenvolupa des dels anys 1920 una teoria científica fundadora: els centres d'origen geogràfic de les plantes conreades (identificats especialment als Andes, Etiòpia, Àsia Central i el Pròxim Orient) contenen una diversitat genètica irremplaçable, essencial per desenvolupar varietats resistents a malalties, sequeres o futurs canvis climàtics. Convençut de la urgència de preservar aquesta diversitat amenaçada per l'expansió dels monocultius moderns, emprèn entre els anys 1920 i 1930 desenes d'expedicions per tot el món —de vegades en condicions extremadament perilloses, especialment a l'Afganistan o Etiòpia— per recol·lectar sistemàticament llavors de varietats locals."
+          },
+          {
+            "h": {
+              "fr": "Le siège de Léningrad",
+              "es": "El asedio de Leningrado",
+              "ca": "El setge de Leningrad"
+            }
+          },
+          {
+            "fr": "Il fonde et dirige à Léningrad l'Institut panrusse de l'industrie végétale (aujourd'hui institut Vavilov), qui devient la première banque de semences moderne au monde, rassemblant à son apogée environ 250 000 échantillons de graines, tubercules et autres organes de multiplication, couvrant des milliers d'espèces cultivées et sauvages apparentées. Durant le siège de Léningrad par les forces allemandes, du 8 septembre 1941 au 27 janvier 1944 — l'un des sièges les plus meurtriers de l'histoire militaire, causant la mort d'environ un million de civils par la faim et les bombardements — une équipe de chercheurs de l'institut se barricade volontairement dans les locaux pour protéger la collection contre les pillages, les rats et le froid extrême, refusant catégoriquement de consommer les graines et tubercules comestibles qui les entourent, y compris des sacs entiers de riz et de pommes de terre, alors même que la famine décime la population de la ville.",
+
+"es": "Funda y dirige en Leningrado el Instituto Panruso de la Industria Vegetal (hoy instituto Vavílov), que se convierte en el primer banco de semillas moderno del mundo, reuniendo en su apogeo unas 250 000 muestras de semillas, tubérculos y otros órganos de multiplicación, cubriendo miles de especies cultivadas y silvestres emparentadas. Durante el asedio de Leningrado por las fuerzas alemanas, del 8 de septiembre de 1941 al 27 de enero de 1944 —uno de los asedios más mortíferos de la historia militar, causando la muerte de cerca de un millón de civiles por el hambre y los bombardeos—, un equipo de investigadores del instituto se atrincheró voluntariamente en las instalaciones para proteger la colección de saqueos, ratas y el frío extremo, negándose categóricamente a consumir las semillas y tubérculos comestibles que los rodeaban, incluidos sacos enteros de arroz y patatas, incluso cuando el hambre diezmaba a la población de la ciudad.",
+            "ca": "Funda i dirigeix a Leningrad l'Institut Panrus de la Indústria Vegetal (avui institut Vavílov), que esdevé el primer banc de llavors modern del món, reunint en el seu apogeu unes 250.000 mostres de llavors, tubercles i altres òrgans de multiplicació, cobrint milers d'espècies conreades i silvestres emparentades. Durant el setge de Leningrad per les forces alemanyes, del 8 de setembre de 1941 al 27 de gener de 1944 —un dels setges més mortífers de la història militar, causant la mort d'un milió de civils per la fam i els bombardejos—, un equip d'investigadors de l'institut es va fer fort voluntàriament a les instal·lacions per protegir la col·lecció de saquejos, rates i el fred extrem, negant-se categòricament a consumir les llavors i tubercles comestibles que els envoltaven, inclosos sacs sencers d'arròs i patates, fins i tot quan la fam delmava la població de la ciutat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Vavilov%20NYWTS.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Nikolai_Vavilov_NYWTS.jpg",
+              "credit": {
+                "es": "Nikolai Vavílov (1887-1943), botánico y genetista ruso — Wikimedia Commons.",
+                "ca": "Nikolai Vavílov (1887-1943), botànic i genetista rus — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Neuf membres de l'équipe meurent de faim durant le siège, entourés jusqu'au bout de la collection qu'ils avaient juré de protéger — un acte de dévouement scientifique et collectif resté comme l'un des épisodes les plus poignants de l'histoire de la conservation de la biodiversité, la collection ayant effectivement survécu intacte jusqu'à la levée du siège.",
+            "es": "Nueve miembros del equipo mueren de hambre durante el asedio, rodeados hasta el final de la colección que habían jurado proteger —un acto de devoción científica y colectiva que ha quedado como uno de los episodios más conmovedores de la historia de la conservación de la biodiversidad, habiendo sobrevivido efectivamente la colección intacta hasta el levantamiento del asedio.",
+            "ca": "Nou membres de l'equip moren de fam durant el setge, envoltats fins al final de la col·lecció que havien jurat protegir —un acte de devoció científica i col·lectiva que ha quedat com un dels episodis més commovedors de la història de la conservació de la biodiversitat, havent sobreviscut efectivament la col·lecció intacta fins a l'aixecament del setge."
+          },
+          {
+            "h": {
+              "fr": "Ironie tragique : Vavilov lui-même meurt de faim",
+              "es": "Ironía trágica: el propio Vavílov muere de hambre",
+              "ca": "Ironia tràgica: el mateix Vavílov mor de fam"
+            }
+          },
+          {
+            "fr": "Dans une ironie tragique et amère, Vavilov n'assiste pas lui-même à cet acte de dévouement de son équipe : arrêté en août 1940 sur dénonciation orchestrée par son ancien élève devenu rival scientifique Trofim Lyssenko, dont les théories agronomiques anti-génétiques, pseudo-scientifiques mais idéologiquement conformes au marxisme stalinien, bénéficient d'un soutien politique croissant, Vavilov est condamné à mort sur des accusations fabriquées d'espionnage, peine ensuite commuée en détention, et meurt de malnutrition dans la prison de Saratov le 26 janvier 1943 — un homme qui avait consacré toute sa carrière scientifique à combattre la famine mondiale, mort précisément de faim dans les geôles du régime qu'il avait servi.",
+            "es": "En una ironía trágica y amarga, el propio Vavílov no asiste a este acto de devoción de su equipo: arrestado en agosto de 1940 tras una denuncia orquestada por su antiguo alumno convertido en rival científico Trofim Lysenko, cuyas teorías agronómicas antigenéticas, pseudocientíficas pero ideológicamente conformes al marxismo estalinista, cuentan con un apoyo político creciente, Vavílov es condenado a muerte por acusaciones fabricadas de espionaje, pena luego conmutada a detención, y muere de desnutrición en la prisión de Sarátov el 26 de enero de 1943 —un hombre que había dedicado toda su carrera científica a combatir el hambre mundial, muerto precisamente de hambre en las cárceles del régimen al que había servido.",
+            "ca": "En una ironia tràgica i amarga, el mateix Vavílov no assisteix a aquest acte de devoció del seu equip: arrestat l'agost de 1940 arran d'una denúncia orquestrada pel seu antic alumne convertit en rival científic Trofim Lysenko, les teories agronòmiques antigenètiques del qual, pseudocientífiques però ideològicament conformes al marxisme estalinista, compten amb un suport polític creixent, Vavílov és condemnat a mort per acusacions fabricades d'espionatge, pena després commutada a detenció, i mor de malnutrició a la presó de Sàratov el 26 de gener de 1943 —un home que havia dedicat tota la seva carrera científica a combatre la fam mundial, mort precisament de fam a les presons del règim al qual havia servit."
+          },
+          {
+            "h": {
+              "fr": "La bataille contemporaine pour les semences",
+              "es": "La batalla contemporánea por las semillas",
+              "ca": "La batalla contemporània per les llavors"
+            }
+          },
+          {
+            "fr": "La question de la souveraineté semencière — le droit des paysans à conserver, ressemer et échanger librement leurs propres semences — reste au cœur des luttes agricoles contemporaines, prolongeant directement le combat de Vavilov. Depuis les années 1990, de grandes entreprises agrochimiques, à commencer par Monsanto (rachetée par Bayer en 2018), développent et brevètent des semences génétiquement modifiées, dont certaines variétés hybrides produisent des graines de deuxième génération stériles ou peu performantes, obligeant structurellement les agriculteurs à racheter des semences chaque année plutôt que d'utiliser leur propre récolte — une pratique qui a donné lieu à de nombreux procès retentissants contre des agriculteurs accusés de replanter illégalement des semences brevetées, y compris dans des cas de contamination involontaire par pollinisation croisée.",
+            "es": "La cuestión de la soberanía de semillas —el derecho de los campesinos a conservar, resembrar e intercambiar libremente sus propias semillas— sigue en el corazón de las luchas agrícolas contemporáneas, prolongando directamente el combate de Vavílov. Desde los años 1990, grandes empresas agroquímicas, empezando por Monsanto (adquirida por Bayer en 2018), desarrollan y patentan semillas genéticamente modificadas, algunas de cuyas variedades híbridas producen semillas de segunda generación estériles o de bajo rendimiento, obligando estructuralmente a los agricultores a recomprar semillas cada año en lugar de usar su propia cosecha —una práctica que ha dado lugar a numerosos juicios sonados contra agricultores acusados de resembrar ilegalmente semillas patentadas, incluso en casos de contaminación involuntaria por polinización cruzada.",
+            "ca": "La qüestió de la sobirania de llavors —el dret dels pagesos a conservar, ressembrar i intercanviar lliurement les seves pròpies llavors— continua al cor de les lluites agrícoles contemporànies, prolongant directament el combat de Vavílov. Des dels anys 1990, grans empreses agroquímiques, començant per Monsanto (adquirida per Bayer el 2018), desenvolupen i patenten llavors genèticament modificades, algunes de les varietats híbrides de les quals produeixen llavors de segona generació estèrils o de baix rendiment, obligant estructuralment els agricultors a recomprar llavors cada any en comptes d'usar la seva pròpia collita —una pràctica que ha donat lloc a nombrosos judicis sonats contra agricultors acusats de ressembrar il·legalment llavors patentades, fins i tot en casos de contaminació involuntària per pol·linització creuada."
+          },
+          {
+            "fr": "Face à cette privatisation croissante du vivant, un mouvement international de résistance s'organise : l'organisation indienne Navdanya, fondée par la physicienne et militante Vandana Shiva, a créé plus de 150 banques de semences communautaires à travers l'Inde depuis les années 1990, conservant plus de 4 000 variétés de riz traditionnel ; le réseau international Seed Savers Exchange et de nombreuses initiatives locales similaires œuvrent dans le même sens ailleurs dans le monde. L'héritage de Vavilov perdure également institutionnellement : la banque mondiale de semences de Svalbard, en Norvège, ouverte en 2008 dans le pergélisol de l'Arctique comme ultime filet de sécurité pour la biodiversité agricole mondiale, a reçu des dépôts directement issus de la collection originelle de l'institut Vavilov de Saint-Pétersbourg, bouclant symboliquement la boucle entre le sacrifice des scientifiques de Léningrad et la conservation planétaire contemporaine.",
+            "es": "Ante esta privatización creciente de lo vivo, se organiza un movimiento internacional de resistencia: la organización india Navdanya, fundada por la física y militante Vandana Shiva, ha creado más de 150 bancos de semillas comunitarios por toda la India desde los años 1990, conservando más de 4000 variedades de arroz tradicional; la red internacional Seed Savers Exchange y numerosas iniciativas locales similares trabajan en el mismo sentido en otras partes del mundo. El legado de Vavílov perdura también institucionalmente: el banco mundial de semillas de Svalbard, en Noruega, abierto en 2008 en el permafrost del Ártico como última red de seguridad para la biodiversidad agrícola mundial, ha recibido depósitos directamente procedentes de la colección original del instituto Vavílov de San Petersburgo, cerrando simbólicamente el círculo entre el sacrificio de los científicos de Leningrado y la conservación planetaria contemporánea.",
+            "ca": "Davant aquesta privatització creixent del viu, s'organitza un moviment internacional de resistència: l'organització índia Navdanya, fundada per la física i militant Vandana Shiva, ha creat més de 150 bancs de llavors comunitaris per tota l'Índia des dels anys 1990, conservant més de 4.000 varietats d'arròs tradicional; la xarxa internacional Seed Savers Exchange i nombroses iniciatives locals similars treballen en el mateix sentit en altres llocs del món. El llegat de Vavílov perdura també institucionalment: el banc mundial de llavors de Svalbard, a Noruega, obert el 2008 al permagel de l'Àrtic com a última xarxa de seguretat per a la biodiversitat agrícola mundial, ha rebut dipòsits directament procedents de la col·lecció original de l'institut Vavílov de Sant Petersburg, tancant simbòlicament el cercle entre el sacrifici dels científics de Leningrad i la conservació planetària contemporània."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un centre d'origine (génétique)",
+          "es": "un centro de origen (genético)",
+          "ca": "un centre d'origen (genètic)"
+        },
+        {
+          "mot": "un siège (militaire)",
+          "es": "un asedio (militar)",
+          "ca": "un setge (militar)"
+        },
+        {
+          "mot": "un brevet",
+          "es": "una patente",
+          "ca": "una patent"
+        },
+        {
+          "mot": "stérile",
+          "es": "estéril",
+          "ca": "estèril"
+        },
+        {
+          "mot": "une contamination (croisée)",
+          "es": "una contaminación (cruzada)",
+          "ca": "una contaminació (creuada)"
+        },
+        {
+          "mot": "un pergélisol",
+          "es": "un permafrost",
+          "ca": "un permagel"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué hace Nikolái Vavílov en las décadas de 1920-1930?",
+            "ca": "Què fa Nikolai Vavílov a les dècades de 1920-1930?"
+          },
+          "piste": {
+            "es": "recolecta semillas de todo el mundo para crear un banco de semillas",
+            "ca": "recol·lecta llavors de tot el món per crear un banc de llavors"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué hacen los científicos del instituto durante el asedio de Leningrado?",
+            "ca": "Què fan els científics de l'institut durant el setge de Leningrad?"
+          },
+          "piste": {
+            "es": "se niegan a comer las semillas para protegerlas; nueve mueren de hambre",
+            "ca": "es neguen a menjar les llavors per protegir-les; nou moren de fam"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo muere el propio Vavílov, y por qué es irónico?",
+            "ca": "Com mor el mateix Vavílov, i per què és irònic?"
+          },
+          "piste": {
+            "es": "de hambre en prisión, tras haber dedicado su vida a combatir el hambre",
+            "ca": "de fam a la presó, després d'haver dedicat la seva vida a combatre la fam"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué organización india crea bancos de semillas comunitarios hoy?",
+            "ca": "Quina organització índia crea bancs de llavors comunitaris avui?"
+          },
+          "piste": {
+            "es": "Navdanya, fundada por Vandana Shiva",
+            "ca": "Navdanya, fundada per Vandana Shiva"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Nikolai Vavilov",
+          "url": "https://en.wikipedia.org/wiki/Nikolai_Vavilov"
+        },
+        {
+          "titre": "Wikipedia — Navdanya",
+          "url": "https://en.wikipedia.org/wiki/Navdanya_(NGO)"
+        }
+      ]
+    }
+  ]
+}

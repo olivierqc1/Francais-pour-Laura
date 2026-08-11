@@ -1,0 +1,245 @@
+{
+  "textes": [
+    {
+      "id": "gotsch_agriculture_syntropique",
+      "emoji": "🌿",
+      "theme": "Écologie",
+      "periode": "1982 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20G%C3%B6tsch.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Ernst_G%C3%B6tsch.jpg",
+        "credit": {
+          "es": "Ernst Götsch, agrónomo suizo, creador de la agricultura sintrópica — Wikimedia Commons.",
+          "ca": "Ernst Götsch, agrònom suís, creador de l'agricultura sintròpica — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Ernst Götsch y la agricultura sintrópica: regenerar en vez de degradar",
+        "ca": "Ernst Götsch i l'agricultura sintròpica: regenerar en comptes de degradar"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Ernst Götsch naît en 1948 en Suisse. Il travaille d'abord dans la recherche sur les plantes, puis quitte son poste.",
+            "es": "Ernst Götsch nace en 1948 en Suiza. Trabaja primero en la investigación sobre plantas, luego deja su puesto.",
+            "ca": "Ernst Götsch neix el 1948 a Suïssa. Treballa primer en la recerca sobre plantes, després deixa el seu càrrec."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20G%C3%B6tsch.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Ernst_G%C3%B6tsch.jpg",
+              "credit": {
+                "es": "Ernst Götsch, agrónomo suizo, creador de la agricultura sintrópica — Wikimedia Commons.",
+                "ca": "Ernst Götsch, agrònom suís, creador de l'agricultura sintròpica — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "En 1982, il déménage au Brésil et achète une terre complètement détruite par l'élevage, sans arbres, sans vie.",
+            "es": "En 1982, se muda a Brasil y compra una tierra completamente destruida por la ganadería, sin árboles, sin vida.",
+            "ca": "El 1982, es trasllada al Brasil i compra una terra completament destruïda per la ramaderia, sense arbres, sense vida."
+          },
+          {
+            "fr": "Il invente une méthode : l'agriculture syntropique. Elle imite la façon dont une forêt repousse naturellement après une catastrophe.",
+            "es": "Inventa un método: la agricultura sintrópica. Imita la manera en que un bosque vuelve a crecer naturalmente tras una catástrofe.",
+            "ca": "Inventa un mètode: l'agricultura sintròpica. Imita la manera com un bosc torna a créixer naturalment després d'una catàstrofe."
+          },
+          {
+            "fr": "Aujourd'hui, sa ferme est redevenue une forêt riche, avec du cacao, des fruits, et beaucoup d'animaux sauvages revenus.",
+            "es": "Hoy, su granja ha vuelto a ser un bosque rico, con cacao, frutas, y muchos animales salvajes que han regresado.",
+            "ca": "Avui, la seva granja ha tornat a ser un bosc ric, amb cacau, fruites, i molts animals salvatges que han tornat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1948 en Suisse, Ernst Götsch travaille d'abord comme chercheur en agronomie, notamment sur l'amélioration génétique des plantes, avant de quitter ce poste par désaccord avec les méthodes de l'agriculture industrielle. En 1982, il s'installe au Brésil et achète une terre dans l'État de Bahia, entièrement dégradée par des décennies d'élevage extensif : sol nu, érodé, sans arbres.",
+            "es": "Nacido en 1948 en Suiza, Ernst Götsch trabaja primero como investigador en agronomía, especialmente en el mejoramiento genético de las plantas, antes de dejar ese puesto por desacuerdo con los métodos de la agricultura industrial. En 1982, se instala en Brasil y compra una tierra en el estado de Bahía, completamente degradada por décadas de ganadería extensiva: suelo desnudo, erosionado, sin árboles.",
+            "ca": "Nascut el 1948 a Suïssa, Ernst Götsch treballa primer com a investigador en agronomia, especialment en la millora genètica de les plantes, abans de deixar aquest càrrec per desacord amb els mètodes de l'agricultura industrial. El 1982, s'instal·la al Brasil i compra una terra a l'estat de Bahia, completament degradada per dècades de ramaderia extensiva: sòl nu, erosionat, sense arbres."
+          },
+          {
+            "h": {
+              "fr": "Imiter la succession naturelle",
+              "es": "Imitar la sucesión natural",
+              "ca": "Imitar la successió natural"
+            }
+          },
+          {
+            "fr": "Sa méthode, appelée « agriculture syntropique » (du grec syn-, ensemble, et -tropos, tendance — l'inverse de l'entropie, la tendance naturelle au désordre), s'appuie sur l'observation d'un phénomène écologique appelé la succession végétale : après une perturbation, une forêt ne repousse jamais d'un coup, mais par étapes, avec d'abord des plantes pionnières à croissance rapide, puis des espèces intermédiaires, puis enfin les grands arbres qui composeront la forêt mature.",
+            "es": "Su método, llamado «agricultura sintrópica» (del griego syn-, junto, y -tropos, tendencia —lo inverso de la entropía, la tendencia natural al desorden), se apoya en la observación de un fenómeno ecológico llamado sucesión vegetal: tras una perturbación, un bosque nunca vuelve a crecer de golpe, sino por etapas, primero con plantas pioneras de crecimiento rápido, luego especies intermedias, y finalmente los grandes árboles que compondrán el bosque maduro.",
+            "ca": "El seu mètode, anomenat «agricultura sintròpica» (del grec syn-, junt, i -tropos, tendència —l'invers de l'entropia, la tendència natural al desordre), es basa en l'observació d'un fenomen ecològic anomenat successió vegetal: després d'una pertorbació, un bosc mai no torna a créixer de cop, sinó per etapes, primer amb plantes pioneres de creixement ràpid, després espècies intermèdies, i finalment els grans arbres que composaran el bosc madur."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+              "credit": {
+                "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+                "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une technique qui accélère la nature",
+              "es": "Una técnica que acelera la naturaleza",
+              "ca": "Una tècnica que accelera la natura"
+            }
+          },
+          {
+            "fr": "Götsch reproduit et accélère volontairement cette succession en plantant simultanément, sur une même parcelle, des dizaines d'espèces à cycle de vie différent — cultures annuelles à récolte rapide, arbustes à croissance moyenne, arbres à bois de très long terme — puis en taillant systématiquement les plantes à croissance rapide pour libérer de la lumière et déposer leur biomasse coupée directement au sol comme paillis fertilisant.",
+            "es": "Götsch reproduce y acelera voluntariamente esta sucesión plantando simultáneamente, en una misma parcela, decenas de especies con ciclo de vida diferente —cultivos anuales de cosecha rápida, arbustos de crecimiento medio, árboles de madera a muy largo plazo— y luego podando sistemáticamente las plantas de crecimiento rápido para liberar luz y depositar su biomasa cortada directamente en el suelo como mantillo fertilizante.",
+            "ca": "Götsch reprodueix i accelera voluntàriament aquesta successió plantant simultàniament, en una mateixa parcel·la, desenes d'espècies amb cicle de vida diferent —conreus anuals de collita ràpida, arbustos de creixement mitjà, arbres de fusta a molt llarg termini— i després podant sistemàticament les plantes de creixement ràpid per alliberar llum i dipositar la seva biomassa tallada directament al sòl com a encoixinat fertilitzant."
+          },
+          {
+            "fr": "Sur sa ferme d'Olhos d'Água, transformée depuis les années 1980, cette méthode a permis de régénérer plus de 500 hectares de forêt tropicale tout en produisant du cacao, des fruits et du bois, avec le retour documenté d'espèces animales sauvages disparues de la région.",
+            "es": "En su granja de Olhos d'Água, transformada desde los años 1980, este método ha permitido regenerar más de 500 hectáreas de bosque tropical produciendo a la vez cacao, frutas y madera, con el regreso documentado de especies animales salvajes desaparecidas de la región.",
+            "ca": "A la seva granja d'Olhos d'Água, transformada des dels anys 1980, aquest mètode ha permès regenerar més de 500 hectàrees de bosc tropical produint alhora cacau, fruites i fusta, amb el retorn documentat d'espècies animals salvatges desaparegudes de la regió."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1948 à Raperswilen, en Suisse, Ernst Götsch entame une carrière prometteuse de chercheur en agronomie, travaillant notamment sur l'amélioration génétique des plantes à la station fédérale de recherche de Zurich-Reckenholz. Profondément déçu par les méthodes de l'agriculture industrielle et de la sélection génétique qu'il juge déconnectées d'une compréhension véritable des écosystèmes, il quitte ce poste et émigre au Brésil au début des années 1980, s'installant en 1982 sur une terre dégradée de l'État de Bahia, dans le sud-est du pays, ancienne zone de forêt atlantique réduite à un sol nu et érodé par des décennies d'élevage extensif.",
+            "es": "Nacido en 1948 en Raperswilen, Suiza, Ernst Götsch inicia una prometedora carrera como investigador en agronomía, trabajando especialmente en el mejoramiento genético de las plantas en la estación federal de investigación de Zúrich-Reckenholz. Profundamente decepcionado por los métodos de la agricultura industrial y la selección genética que considera desconectados de una comprensión verdadera de los ecosistemas, deja este puesto y emigra a Brasil a principios de los años 1980, instalándose en 1982 en una tierra degradada del estado de Bahía, en el sureste del país, antigua zona de bosque atlántico reducida a un suelo desnudo y erosionado por décadas de ganadería extensiva.",
+            "ca": "Nascut el 1948 a Raperswilen, Suïssa, Ernst Götsch inicia una prometedora carrera com a investigador en agronomia, treballant especialment en la millora genètica de les plantes a l'estació federal de recerca de Zuric-Reckenholz. Profundament decebut pels mètodes de l'agricultura industrial i la selecció genètica que considera desconnectats d'una comprensió veritable dels ecosistemes, deixa aquest càrrec i emigra al Brasil a principis dels anys 1980, instal·lant-se el 1982 en una terra degradada de l'estat de Bahia, al sud-est del país, antiga zona de bosc atlàntic reduïda a un sòl nu i erosionat per dècades de ramaderia extensiva."
+          },
+          {
+            "h": {
+              "fr": "Imiter la succession naturelle",
+              "es": "Imitar la sucesión natural",
+              "ca": "Imitar la successió natural"
+            }
+          },
+
+{
+            "fr": "Sa méthode, qu'il baptise « agriculture syntropique » — en opposition délibérée à l'entropie, tendance physique naturelle vers le désordre et la dégradation, la syntropie désignant à l'inverse une tendance vers l'ordre, la complexité et la vie croissante — repose sur l'observation approfondie d'un phénomène écologique bien documenté par ailleurs : la succession végétale. Après une perturbation majeure d'un écosystème forestier, la reconquête végétale ne se fait jamais en un seul geste, mais par vagues successives : d'abord des plantes pionnières héliophiles à cycle de vie très court, qui stabilisent le sol et créent de l'ombre, suivies d'espèces intermédiaires à cycle moyen, puis enfin les grands arbres à bois dur qui composeront, sur plusieurs décennies, la canopée de la forêt mature.",
+            "es": "Su método, que él bautiza «agricultura sintrópica» —en oposición deliberada a la entropía, tendencia física natural hacia el desorden y la degradación, designando la sintropía a la inversa una tendencia hacia el orden, la complejidad y la vida creciente— se basa en la observación profunda de un fenómeno ecológico bien documentado por lo demás: la sucesión vegetal. Tras una perturbación mayor de un ecosistema forestal, la reconquista vegetal nunca se hace de un solo golpe, sino por oleadas sucesivas: primero plantas pioneras heliófilas de ciclo de vida muy corto, que estabilizan el suelo y crean sombra, seguidas de especies intermedias de ciclo medio, y finalmente los grandes árboles de madera dura que compondrán, a lo largo de varias décadas, el dosel del bosque maduro.",
+            "ca": "El seu mètode, que ell batega «agricultura sintròpica» —en oposició deliberada a l'entropia, tendència física natural cap al desordre i la degradació, designant la sintropia a l'inrevés una tendència cap a l'ordre, la complexitat i la vida creixent— es basa en l'observació profunda d'un fenomen ecològic ben documentat per la resta: la successió vegetal. Després d'una pertorbació major d'un ecosistema forestal, la reconquesta vegetal mai no es fa d'un sol cop, sinó per onades successives: primer plantes pioneres heliòfiles de cicle de vida molt curt, que estabilitzen el sòl i creen ombra, seguides d'espècies intermèdies de cicle mitjà, i finalment els grans arbres de fusta dura que composaran, al llarg de diverses dècades, el dosser del bosc madur."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+              "credit": {
+                "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+                "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une technique qui accélère la nature",
+              "es": "Una técnica que acelera la naturaleza",
+              "ca": "Una tècnica que accelera la natura"
+            }
+          },
+          {
+            "fr": "Götsch reproduit et accélère volontairement cette dynamique en plantant simultanément, sur une même parcelle et à haute densité, des dizaines d'espèces appartenant aux différents stades successionnels — cultures annuelles à récolte rapide (maïs, manioc), arbustes fruitiers à cycle moyen, arbres d'ombrage à croissance rapide, et enfin essences de bois noble à très long terme — puis en pratiquant une taille systématique et fréquente des plantes à croissance rapide, avant même qu'elles n'entrent en compétition excessive pour la lumière avec leurs voisines à croissance plus lente. La biomasse coupée est laissée directement sur place comme paillis, ce qui restitue en continu de la matière organique au sol, stimule l'activité microbienne et fongique, et maintient une couverture végétale permanente qui protège contre l'érosion et l'évaporation.",
+            "es": "Götsch reproduce y acelera voluntariamente esta dinámica plantando simultáneamente, en una misma parcela y a alta densidad, decenas de especies pertenecientes a los diferentes estadios sucesionales —cultivos anuales de cosecha rápida (maíz, mandioca), arbustos frutales de ciclo medio, árboles de sombra de crecimiento rápido, y finalmente esencias de madera noble a muy largo plazo— y luego practicando una poda sistemática y frecuente de las plantas de crecimiento rápido, incluso antes de que entren en competencia excesiva por la luz con sus vecinas de crecimiento más lento. La biomasa cortada se deja directamente en el sitio como mantillo, lo que restituye continuamente materia orgánica al suelo, estimula la actividad microbiana y fúngica, y mantiene una cobertura vegetal permanente que protege contra la erosión y la evaporación.",
+            "ca": "Götsch reprodueix i accelera voluntàriament aquesta dinàmica plantant simultàniament, en una mateixa parcel·la i a alta densitat, desenes d'espècies pertanyents als diferents estadis successionals —conreus anuals de collita ràpida (blat de moro, mandioca), arbustos fruiters de cicle mitjà, arbres d'ombra de creixement ràpid, i finalment essències de fusta noble a molt llarg termini— i després practicant una poda sistemàtica i freqüent de les plantes de creixement ràpid, fins i tot abans que entrin en competència excessiva per la llum amb les seves veïnes de creixement més lent. La biomassa tallada es deixa directament al lloc com a encoixinat, cosa que restitueix contínuament matèria orgànica al sòl, estimula l'activitat microbiana i fúngica, i manté una cobertura vegetal permanent que protegeix contra l'erosió i l'evaporació."
+          },
+          {
+            "fr": "Sur sa ferme pionnière d'Olhos d'Água, dans le municipe de Piraí do Norte, transformée depuis le début des années 1980 sur environ 500 hectares de pâturage originellement dégradé, cette méthode a permis une régénération documentée de la forêt atlantique tout en maintenant une production commerciale de cacao, de fruits et de bois, avec le retour attesté d'espèces animales sauvages localement disparues et la restauration de dizaines de sources d'eau asséchées par l'ancienne déforestation.",
+            "es": "En su granja pionera de Olhos d'Água, en el municipio de Piraí do Norte, transformada desde principios de los años 1980 en unas 500 hectáreas de pastizal originalmente degradado, este método ha permitido una regeneración documentada del bosque atlántico manteniendo a la vez una producción comercial de cacao, frutas y madera, con el regreso comprobado de especies animales salvajes localmente desaparecidas y la restauración de decenas de fuentes de agua secadas por la antigua deforestación.",
+            "ca": "A la seva granja pionera d'Olhos d'Água, al municipi de Piraí do Norte, transformada des de principis dels anys 1980 en unes 500 hectàrees de pastura originalment degradada, aquest mètode ha permès una regeneració documentada del bosc atlàntic mantenint alhora una producció comercial de cacau, fruites i fusta, amb el retorn comprovat d'espècies animals salvatges localment desaparegudes i la restauració de desenes de fonts d'aigua assecades per l'antiga desforestació."
+          },
+          {
+            "h": {
+              "fr": "Une diffusion internationale récente",
+              "es": "Una difusión internacional reciente",
+              "ca": "Una difusió internacional recent"
+            }
+          },
+          {
+            "fr": "Longtemps resté relativement confidentiel en dehors du Brésil, où il forme depuis les années 1990 plusieurs générations d'agronomes et de paysans, Götsch et sa méthode connaissent une diffusion internationale croissante depuis le milieu des années 2010, portée notamment par des projets de reboisement à grande échelle au Portugal, en Italie et ailleurs en Europe, dans un contexte de multiplication des méga-feux et de recherche de méthodes de restauration écologique alliant régénération et production alimentaire plutôt qu'opposant strictement conservation et agriculture.",
+            "es": "Durante mucho tiempo relativamente confidencial fuera de Brasil, donde forma desde los años 1990 a varias generaciones de agrónomos y campesinos, Götsch y su método conocen una difusión internacional creciente desde mediados de los años 2010, impulsada especialmente por proyectos de reforestación a gran escala en Portugal, Italia y otros lugares de Europa, en un contexto de multiplicación de megaincendios y búsqueda de métodos de restauración ecológica que alíen regeneración y producción alimentaria en lugar de oponer estrictamente conservación y agricultura.",
+            "ca": "Durant molt de temps relativament confidencial fora del Brasil, on forma des dels anys 1990 diverses generacions d'agrònoms i pagesos, Götsch i el seu mètode coneixen una difusió internacional creixent des de mitjan anys 2010, impulsada especialment per projectes de reforestació a gran escala a Portugal, Itàlia i altres llocs d'Europa, en un context de multiplicació de megaincendis i cerca de mètodes de restauració ecològica que aliïn regeneració i producció alimentària en comptes d'oposar estrictament conservació i agricultura."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'entropie",
+          "es": "la entropía",
+          "ca": "l'entropia"
+        },
+        {
+          "mot": "une succession (végétale)",
+          "es": "una sucesión (vegetal)",
+          "ca": "una successió (vegetal)"
+        },
+        {
+          "mot": "héliophile",
+          "es": "heliófilo/a",
+          "ca": "heliòfil/a"
+        },
+        {
+          "mot": "un pâturage dégradé",
+          "es": "un pastizal degradado",
+          "ca": "una pastura degradada"
+        },
+        {
+          "mot": "restituer (au sol)",
+          "es": "restituir (al suelo)",
+          "ca": "restituir (al sòl)"
+        },
+        {
+          "mot": "un reboisement",
+          "es": "una reforestación",
+          "ca": "una reforestació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué significa «sintrópico», en oposición a qué palabra?",
+            "ca": "Què significa «sintròpic», en oposició a quina paraula?"
+          },
+          "piste": {
+            "es": "en oposición a la entropía; significa una tendencia hacia el orden y la vida creciente",
+            "ca": "en oposició a l'entropia; significa una tendència cap a l'ordre i la vida creixent"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué fenómeno ecológico se basa el método de Götsch?",
+            "ca": "En quin fenomen ecològic es basa el mètode de Götsch?"
+          },
+          "piste": {
+            "es": "en la sucesión vegetal natural tras una perturbación",
+            "ca": "en la successió vegetal natural després d'una pertorbació"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué hace Götsch con la biomasa cortada de las plantas de crecimiento rápido?",
+            "ca": "Què fa Götsch amb la biomassa tallada de les plantes de creixement ràpid?"
+          },
+          "piste": {
+            "es": "la deja en el suelo como mantillo fertilizante",
+            "ca": "la deixa al sòl com a encoixinat fertilitzant"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué resultado documentado se observa en la granja Olhos d'Água?",
+            "ca": "Quin resultat documentat s'observa a la granja Olhos d'Água?"
+          },
+          "piste": {
+            "es": "la regeneración de bosque atlántico y el regreso de especies animales desaparecidas",
+            "ca": "la regeneració de bosc atlàntic i el retorn d'espècies animals desaparegudes"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Ernst Götsch",
+          "url": "https://en.wikipedia.org/wiki/Ernst_G%C3%B6tsch"
+        },
+        {
+          "titre": "Wikipedia — Syntropic agriculture",
+          "url": "https://en.wikipedia.org/wiki/Syntropic_agriculture"
+        }
+      ]
+    }
+  ]
+}

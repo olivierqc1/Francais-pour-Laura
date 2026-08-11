@@ -1,0 +1,238 @@
+{
+  "textes": [
+    {
+      "id": "gestion_eau_subak_swales",
+      "emoji": "💧",
+      "theme": "Écologie",
+      "periode": "9e siècle – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+        "credit": {
+          "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+          "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Gestionar el agua: el subak balinés y las técnicas de la permacultura",
+        "ca": "Gestionar l'aigua: el subak balinès i les tècniques de la permacultura"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "À Bali, en Indonésie, les agriculteurs cultivent le riz sur des terrasses depuis le 9e siècle grâce à un système appelé le « subak ».",
+            "es": "En Bali, Indonesia, los agricultores cultivan arroz en terrazas desde el siglo IX gracias a un sistema llamado «subak».",
+            "ca": "A Bali, Indonèsia, els agricultors conreen arròs en terrasses des del segle IX gràcies a un sistema anomenat «subak»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Le subak, c'est un réseau de canaux qui partagent l'eau entre tous les agriculteurs d'une même vallée.",
+            "es": "El subak es una red de canales que reparte el agua entre todos los agricultores de un mismo valle.",
+            "ca": "El subak és una xarxa de canals que reparteix l'aigua entre tots els agricultors d'una mateixa vall."
+          },
+          {
+            "fr": "Il n'y a pas de patron unique. Les fermiers décident ensemble, en réunion, quand irriguer et dans quel ordre.",
+            "es": "No hay un jefe único. Los agricultores deciden juntos, en reunión, cuándo regar y en qué orden.",
+            "ca": "No hi ha un cap únic. Els pagesos decideixen junts, en reunió, quan regar i en quin ordre."
+          },
+          {
+            "fr": "En permaculture, on utilise une technique similaire : les « swales », des petits fossés qui suivent le relief du terrain pour ralentir l'eau de pluie.",
+            "es": "En permacultura, se usa una técnica similar: los «swales», pequeñas zanjas que siguen el relieve del terreno para frenar el agua de lluvia.",
+            "ca": "En permacultura, s'utilitza una tècnica similar: els «swales», petites rases que segueixen el relleu del terreny per frenar l'aigua de pluja."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "À Bali, en Indonésie, un système d'irrigation appelé « subak » organise la riziculture en terrasses depuis environ le 9e siècle. Chaque subak est une association de fermiers qui partagent une source d'eau commune — une rivière ou un lac de cratère volcanique — et qui gèrent collectivement sa répartition.",
+            "es": "En Bali, Indonesia, un sistema de irrigación llamado «subak» organiza el cultivo de arroz en terrazas desde alrededor del siglo IX. Cada subak es una asociación de agricultores que comparten una fuente de agua común —un río o un lago de cráter volcánico— y que gestionan colectivamente su reparto.",
+            "ca": "A Bali, Indonèsia, un sistema d'irrigació anomenat «subak» organitza el conreu d'arròs en terrasses des de cap al segle IX. Cada subak és una associació d'agricultors que comparteixen una font d'aigua comuna —un riu o un llac de cràter volcànic— i que gestionen col·lectivament el seu repartiment."
+          },
+          {
+            "h": {
+              "fr": "Une gestion sans chef unique",
+              "es": "Una gestión sin jefe único",
+              "ca": "Una gestió sense cap únic"
+            }
+          },
+          {
+            "fr": "Les décisions — quand planter, quand irriguer, dans quel ordre distribuer l'eau entre les parcelles situées en amont et en aval — se prennent lors de réunions régulières où chaque agriculteur a voix au chapitre, sans autorité centrale imposée depuis l'extérieur. Ce système, inscrit au patrimoine mondial de l'UNESCO en 2012, repose sur la philosophie balinaise du « Tri Hita Karana », l'équilibre entre les humains, la nature et le sacré.",
+            "es": "Las decisiones —cuándo plantar, cuándo regar, en qué orden distribuir el agua entre las parcelas situadas río arriba y río abajo— se toman en reuniones regulares donde cada agricultor tiene voz, sin autoridad central impuesta desde el exterior. Este sistema, inscrito en el patrimonio mundial de la UNESCO en 2012, se basa en la filosofía balinesa del «Tri Hita Karana», el equilibrio entre los humanos, la naturaleza y lo sagrado.",
+            "ca": "Les decisions —quan plantar, quan regar, en quin ordre distribuir l'aigua entre les parcel·les situades riu amunt i riu avall— es prenen en reunions regulars on cada agricultor té veu, sense autoritat central imposada des de l'exterior. Aquest sistema, inscrit al patrimoni mundial de la UNESCO el 2012, es basa en la filosofia balinesa del «Tri Hita Karana», l'equilibri entre els humans, la natura i el sagrat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Les swales, une technique proche en permaculture",
+              "es": "Los swales, una técnica cercana en permacultura",
+              "ca": "Els swales, una tècnica propera en permacultura"
+            }
+          },
+          {
+            "fr": "En permaculture, une technique poursuit un objectif comparable à plus petite échelle : le « swale », un fossé peu profond creusé exactement le long d'une ligne de niveau du terrain (le « contour »), qui capte l'eau de pluie qui ruisselle plutôt que de la laisser filer, et la laisse s'infiltrer lentement dans le sol au lieu de provoquer de l'érosion.",
+            "es": "En permacultura, una técnica persigue un objetivo comparable a menor escala: el «swale», una zanja poco profunda excavada exactamente a lo largo de una línea de nivel del terreno (el «contorno»), que capta el agua de lluvia que escurre en lugar de dejarla marchar, y la deja infiltrarse lentamente en el suelo en lugar de provocar erosión.",
+            "ca": "En permacultura, una tècnica persegueix un objectiu comparable a menor escala: el «swale», una rasa poc profunda excavada exactament al llarg d'una línia de nivell del terreny (el «contorn»), que capta l'aigua de pluja que regalima en comptes de deixar-la marxar, i la deixa infiltrar-se lentament al sòl en comptes de provocar erosió."
+          },
+          {
+            "fr": "Une variante, le « keyline design » développé par l'Australien Percy Yeomans, va plus loin en analysant le relief complet d'un terrain pour orienter légèrement les fossés hors du niveau parfait, afin de rediriger l'eau vers les zones les plus sèches d'un paysage plutôt que vers les points bas naturels — une façon de redistribuer l'eau plus équitablement sur l'ensemble d'une parcelle.",
+            "es": "Una variante, el «keyline design» desarrollado por el australiano Percy Yeomans, va más allá analizando el relieve completo de un terreno para orientar ligeramente las zanjas fuera del nivel perfecto, con el fin de redirigir el agua hacia las zonas más secas de un paisaje en lugar de hacia los puntos bajos naturales —una manera de redistribuir el agua más equitativamente en toda una parcela.",
+            "ca": "Una variant, el «keyline design» desenvolupat per l'australià Percy Yeomans, va més enllà analitzant el relleu complet d'un terreny per orientar lleugerament les rases fora del nivell perfecte, per tal de redirigir l'aigua cap a les zones més seques d'un paisatge en comptes de cap als punts baixos naturals —una manera de redistribuir l'aigua més equitativament en tota una parcel·la."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "À Bali, en Indonésie, le système d'irrigation appelé « subak » organise la riziculture en terrasses depuis environ le 9e siècle, une réponse ingénieuse au défi de cultiver du riz inondé sur un relief volcanique accidenté. Chaque subak constitue une association démocratique de fermiers partageant une source d'eau commune — rivière ou lac de cratère — et gérant collectivement sa distribution à travers un réseau élaboré de canaux, de tunnels et de barrages en bois ou en pierre, sans jamais recourir aux pompes ou aux infrastructures modernes.",
+            "es": "En Bali, Indonesia, el sistema de irrigación llamado «subak» organiza el cultivo de arroz en terrazas desde aproximadamente el siglo IX, una respuesta ingeniosa al desafío de cultivar arroz inundado en un relieve volcánico accidentado. Cada subak constituye una asociación democrática de agricultores que comparten una fuente de agua común —río o lago de cráter— y gestionan colectivamente su distribución a través de una red elaborada de canales, túneles y presas de madera o piedra, sin recurrir nunca a bombas o infraestructuras modernas.",
+            "ca": "A Bali, Indonèsia, el sistema d'irrigació anomenat «subak» organitza el conreu d'arròs en terrasses des d'aproximadament el segle IX, una resposta enginyosa al repte de conrear arròs inundat en un relleu volcànic accidentat. Cada subak constitueix una associació democràtica de pagesos que comparteixen una font d'aigua comuna —riu o llac de cràter— i gestionen col·lectivament la seva distribució a través d'una xarxa elaborada de canals, túnels i preses de fusta o pedra, sense recórrer mai a bombes o infraestructures modernes."
+          },
+          {
+            "h": {
+              "fr": "Une gestion sans chef unique",
+              "es": "Una gestión sin jefe único",
+              "ca": "Una gestió sense cap únic"
+            }
+          },
+          {
+            "fr": "Les décisions cruciales — calendrier de plantation synchronisé entre tous les membres pour limiter la propagation des nuisibles, ordre de priorité d'irrigation entre parcelles amont et aval, résolution des conflits d'accès à l'eau — se prennent lors d'assemblées régulières où chaque fermier dispose d'une voix, sans autorité hiérarchique centrale imposée depuis l'extérieur du groupe. Ce système, reconnu patrimoine mondial de l'UNESCO en 2012 sous le nom de « Paysage culturel de la province de Bali », s'articule autour de la philosophie balinaise du Tri Hita Karana, qui postule un équilibre indissociable entre les relations humaines, la relation à la nature et la relation au sacré — chaque subak dispose d'ailleurs de son propre temple de l'eau, où se règlent rituellement les questions pratiques de répartition.",
+
+"es": "Las decisiones cruciales —calendario de plantación sincronizado entre todos los miembros para limitar la propagación de plagas, orden de prioridad de riego entre parcelas río arriba y río abajo, resolución de conflictos de acceso al agua— se toman en asambleas regulares donde cada agricultor tiene un voto, sin autoridad jerárquica central impuesta desde fuera del grupo. Este sistema, reconocido patrimonio mundial de la UNESCO en 2012 bajo el nombre de «Paisaje cultural de la provincia de Bali», se articula en torno a la filosofía balinesa del Tri Hita Karana, que postula un equilibrio indisociable entre las relaciones humanas, la relación con la naturaleza y la relación con lo sagrado —cada subak dispone además de su propio templo del agua, donde se resuelven ritualmente las cuestiones prácticas de reparto.",
+            "ca": "A Bali, les decisions crucials —calendari de plantació sincronitzat entre tots els membres per limitar la propagació de plagues, ordre de prioritat de reg entre parcel·les riu amunt i riu avall, resolució de conflictes d'accés a l'aigua— es prenen en assemblees regulars on cada pagès disposa d'un vot, sense autoritat jeràrquica central imposada des de fora del grup. Aquest sistema, reconegut patrimoni mundial de la UNESCO el 2012 sota el nom de «Paisatge cultural de la província de Bali», s'articula al voltant de la filosofia balinesa del Tri Hita Karana, que postula un equilibri indissociable entre les relacions humanes, la relació amb la natura i la relació amb el sagrat —cada subak disposa a més del seu propi temple de l'aigua, on es resolen ritualment les qüestions pràctiques de repartiment."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Des recherches menées par l'anthropologue Stephen Lansing dans les années 1980 ont montré, par des modélisations informatiques, que ce système décentralisé de coordination entre subaks voisins produisait de meilleurs rendements collectifs, en synchronisant naturellement les cycles de plantation pour limiter les ravageurs, qu'une gestion centralisée imposée par le gouvernement indonésien lors de la Révolution verte des années 1970, qui avait justement tenté de remplacer cette coordination traditionnelle par des calendriers technocratiques uniformes — avec des résultats significativement moins bons.",
+            "es": "Investigaciones llevadas a cabo por el antropólogo Stephen Lansing en los años 1980 mostraron, mediante modelizaciones informáticas, que este sistema descentralizado de coordinación entre subaks vecinos producía mejores rendimientos colectivos, al sincronizar naturalmente los ciclos de plantación para limitar las plagas, que una gestión centralizada impuesta por el gobierno indonesio durante la Revolución Verde de los años 1970, que precisamente había intentado reemplazar esta coordinación tradicional por calendarios tecnocráticos uniformes —con resultados significativamente peores.",
+            "ca": "Investigacions dutes a terme per l'antropòleg Stephen Lansing als anys 1980 van mostrar, mitjançant modelitzacions informàtiques, que aquest sistema descentralitzat de coordinació entre subaks veïns produïa millors rendiments col·lectius, en sincronitzar naturalment els cicles de plantació per limitar les plagues, que una gestió centralitzada imposada pel govern indonesi durant la Revolució Verda dels anys 1970, que precisament havia intentat reemplaçar aquesta coordinació tradicional per calendaris tecnocràtics uniformes —amb resultats significativament pitjors."
+          },
+          {
+            "h": {
+              "fr": "Les swales et le keyline design, une logique comparable",
+              "es": "Los swales y el keyline design, una lógica comparable",
+              "ca": "Els swales i el keyline design, una lògica comparable"
+            }
+          },
+          {
+            "fr": "En permaculture, une technique poursuit un objectif comparable à une échelle généralement plus modeste : le « swale », un fossé peu profond creusé avec précision le long d'une ligne de niveau du terrain (le « contour »), repéré à l'aide d'un simple niveau à eau ou d'un cadre en A, qui intercepte l'eau de pluie ruisselant sur une pente et la laisse s'infiltrer lentement dans le sol plutôt que de provoquer érosion et perte en aval — la terre extraite lors du creusement formant souvent un talus (« berm ») planté en aval du fossé pour maximiser l'usage de l'humidité accumulée.",
+            "es": "En permacultura, una técnica persigue un objetivo comparable a una escala generalmente más modesta: el «swale», una zanja poco profunda excavada con precisión a lo largo de una línea de nivel del terreno (el «contorno»), localizada con un simple nivel de agua o un marco en A, que intercepta el agua de lluvia que escurre por una pendiente y la deja infiltrarse lentamente en el suelo en lugar de provocar erosión y pérdida río abajo —la tierra extraída durante la excavación formando a menudo un talud («berm») plantado río abajo de la zanja para maximizar el uso de la humedad acumulada.",
+            "ca": "En permacultura, una tècnica persegueix un objectiu comparable a una escala generalment més modesta: el «swale», una rasa poc profunda excavada amb precisió al llarg d'una línia de nivell del terreny (el «contorn»), localitzada amb un simple nivell d'aigua o un marc en A, que intercepta l'aigua de pluja que regalima per un pendent i la deixa infiltrar-se lentament al sòl en comptes de provocar erosió i pèrdua riu avall —la terra extreta durant l'excavació formant sovint un talús («berm») plantat riu avall de la rasa per maximitzar l'ús de la humitat acumulada."
+          },
+          {
+            "fr": "Une variante plus ambitieuse, le « keyline design », développée par l'ingénieur australien Percy Yeomans dans les années 1950, analyse le relief complet d'un domaine agricole pour identifier son « point clé » (keyline) — le point de changement de pente le long d'une vallée — et orienter légèrement les fossés hors du niveau parfait, afin de rediriger activement l'eau depuis les zones humides des vallées vers les crêtes plus sèches, plutôt que de la laisser suivre passivement la pente naturelle vers les points bas. Cette technique permet, sur de grandes surfaces, de redistribuer l'humidité de façon beaucoup plus équitable à travers un paysage entier — un principe qui rejoint, à des siècles et des échelles de distance, la même intuition fondamentale que le subak balinais : l'eau se gère mieux collectivement et intelligemment qu'elle ne s'impose par la force brute de l'infrastructure centralisée.",
+            "es": "Una variante más ambiciosa, el «keyline design», desarrollada por el ingeniero australiano Percy Yeomans en los años 1950, analiza el relieve completo de una finca agrícola para identificar su «punto clave» (keyline) —el punto de cambio de pendiente a lo largo de un valle— y orientar ligeramente las zanjas fuera del nivel perfecto, con el fin de redirigir activamente el agua desde las zonas húmedas de los valles hacia las crestas más secas, en lugar de dejarla seguir pasivamente la pendiente natural hacia los puntos bajos. Esta técnica permite, en grandes superficies, redistribuir la humedad de forma mucho más equitativa a través de todo un paisaje —un principio que se une, a siglos y escalas de distancia, a la misma intuición fundamental que el subak balinés: el agua se gestiona mejor colectiva e inteligentemente que impuesta por la fuerza bruta de la infraestructura centralizada.",
+            "ca": "Una variant més ambiciosa, el «keyline design», desenvolupada per l'enginyer australià Percy Yeomans als anys 1950, analitza el relleu complet d'una finca agrícola per identificar el seu «punt clau» (keyline) —el punt de canvi de pendent al llarg d'una vall— i orientar lleugerament les rases fora del nivell perfecte, per tal de redirigir activament l'aigua des de les zones humides de les valls cap a les carenes més seques, en comptes de deixar-la seguir passivament el pendent natural cap als punts baixos. Aquesta tècnica permet, en grans superfícies, redistribuir la humitat de manera molt més equitativa a través de tot un paisatge —un principi que s'uneix, a segles i escales de distància, a la mateixa intuïció fonamental que el subak balinès: l'aigua es gestiona millor col·lectivament i intel·ligentment que imposada per la força bruta de la infraestructura centralitzada."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une terrasse (rizicole)",
+          "es": "una terraza (arrocera)",
+          "ca": "una terrassa (arrossera)"
+        },
+        {
+          "mot": "en amont / en aval",
+          "es": "río arriba / río abajo",
+          "ca": "riu amunt / riu avall"
+        },
+        {
+          "mot": "une ligne de niveau",
+          "es": "una línea de nivel",
+          "ca": "una línia de nivell"
+        },
+        {
+          "mot": "un talus",
+          "es": "un talud",
+          "ca": "un talús"
+        },
+        {
+          "mot": "s'infiltrer",
+          "es": "infiltrarse",
+          "ca": "infiltrar-se"
+        },
+        {
+          "mot": "décentralisé(e)",
+          "es": "descentralizado/a",
+          "ca": "descentralitzat/ada"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué es el subak balinés?",
+            "ca": "Què és el subak balinès?"
+          },
+          "piste": {
+            "es": "un sistema de irrigación gestionado democráticamente por asociaciones de agricultores",
+            "ca": "un sistema d'irrigació gestionat democràticament per associacions d'agricultors"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué mostró la investigación de Stephen Lansing sobre el subak?",
+            "ca": "Què va mostrar la investigació de Stephen Lansing sobre el subak?"
+          },
+          "piste": {
+            "es": "que la gestión descentralizada tradicional daba mejores resultados que la gestión centralizada moderna",
+            "ca": "que la gestió descentralitzada tradicional donava millors resultats que la gestió centralitzada moderna"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es un swale en permacultura?",
+            "ca": "Què és un swale en permacultura?"
+          },
+          "piste": {
+            "es": "una zanja excavada siguiendo una línea de nivel para captar el agua de lluvia",
+            "ca": "una rasa excavada seguint una línia de nivell per captar l'aigua de pluja"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué se diferencia el keyline design de un swale simple?",
+            "ca": "En què es diferencia el keyline design d'un swale simple?"
+          },
+          "piste": {
+            "es": "redirige el agua de zonas húmedas hacia zonas secas en vez de solo seguir el nivel",
+            "ca": "redirigeix l'aigua de zones humides cap a zones seques en comptes de només seguir el nivell"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Subak",
+          "url": "https://en.wikipedia.org/wiki/Subak"
+        },
+        {
+          "titre": "Wikipedia — Keyline design",
+          "url": "https://en.wikipedia.org/wiki/Keyline_design"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "textes": [
+    {
+      "id": "hugelkultur_buttes_bois",
+      "emoji": "🪵",
+      "theme": "Écologie",
+      "periode": "Ancien – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch%20of%20Hugelkulture%20bed%20in%20cross%20section.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_Hugelkulture_bed_in_cross_section.jpg",
+        "credit": {
+          "es": "Esquema de un bancal hugelkultur en corte transversal — Wikimedia Commons.",
+          "ca": "Esquema d'un bancal hugelkultur en tall transversal — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Hügelkultur: jardinar sobre montículos de madera",
+        "ca": "Hügelkultur: jardinar sobre monticles de fusta"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Le hugelkultur (mot allemand pour « culture sur butte ») est une technique ancienne d'Europe de l'Est et d'Allemagne.",
+            "es": "El hügelkultur (palabra alemana para «cultivo en montículo») es una técnica antigua de Europa del Este y Alemania.",
+            "ca": "El hugelkultur (paraula alemanya per a «cultiu en monticle») és una tècnica antiga d'Europa de l'Est i Alemanya."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch%20of%20Hugelkulture%20bed%20in%20cross%20section.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_Hugelkulture_bed_in_cross_section.jpg",
+              "credit": {
+                "es": "Esquema de un bancal hugelkultur en corte transversal — Wikimedia Commons.",
+                "ca": "Esquema d'un bancal hugelkultur en tall transversal — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "L'idée : on empile du bois mort, des branches, dans un trou ou en tas, puis on recouvre le tout de terre pour faire une butte.",
+            "es": "La idea: se apila madera muerta, ramas, en un agujero o en un montón, y luego se cubre todo con tierra para hacer un montículo.",
+            "ca": "La idea: s'apila fusta morta, branques, en un forat o en un munt, i després es cobreix tot amb terra per fer un monticle."
+          },
+          {
+            "fr": "Le bois qui pourrit sous la terre agit comme une éponge : il garde l'eau de pluie et la relâche lentement pour les plantes.",
+            "es": "La madera que se pudre bajo la tierra actúa como una esponja: retiene el agua de lluvia y la libera lentamente para las plantas.",
+            "ca": "La fusta que es podreix sota la terra actua com una esponja: reté l'aigua de pluja i l'allibera lentament per a les plantes."
+          },
+          {
+            "fr": "On plante des légumes directement sur la butte. Ça peut donner de bonnes récoltes pendant 20 ans, sans arroser beaucoup.",
+            "es": "Se plantan verduras directamente en el montículo. Puede dar buenas cosechas durante 20 años, sin regar mucho.",
+            "ca": "Es planten verdures directament al monticle. Pot donar bones collites durant 20 anys, sense regar gaire."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Le hügelkultur (littéralement « culture de butte » en allemand) est une technique traditionnelle de jardinage, pratiquée depuis des siècles en Allemagne et en Europe de l'Est, qui consiste à construire des buttes surélevées à partir de bois en décomposition recouvert de terre.",
+            "es": "El hügelkultur (literalmente «cultivo de montículo» en alemán) es una técnica tradicional de jardinería, practicada desde hace siglos en Alemania y Europa del Este, que consiste en construir montículos elevados a partir de madera en descomposición cubierta de tierra.",
+            "ca": "El hügelkultur (literalment «cultiu de monticle» en alemany) és una tècnica tradicional de jardineria, practicada des de fa segles a Alemanya i Europa de l'Est, que consisteix a construir monticles elevats a partir de fusta en descomposició coberta de terra."
+          },
+          {
+            "h": {
+              "fr": "Une construction en couches",
+              "es": "Una construcción en capas",
+              "ca": "Una construcció en capes"
+            }
+          },
+          {
+            "fr": "La construction se fait par couches successives : de gros rondins et branches au fond (parfois dans une tranchée creusée pour cet effet), puis des branches plus fines, des feuilles mortes et de l'herbe coupée, un peu de compost, et enfin une couche de terre végétale au sommet, où l'on plante directement les cultures.",
+            "es": "La construcción se hace por capas sucesivas: troncos gruesos y ramas en el fondo (a veces en una zanja excavada para este efecto), luego ramas más finas, hojas muertas y hierba cortada, un poco de compost, y finalmente una capa de tierra vegetal en la cima, donde se plantan directamente los cultivos.",
+            "ca": "La construcció es fa per capes successives: troncs gruixuts i branques al fons (de vegades en una rasa excavada per a aquest efecte), després branques més fines, fulles mortes i herba tallada, una mica de compost, i finalment una capa de terra vegetal al cim, on es planten directament els conreus."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch%20of%20Hugelkulture%20bed%20in%20cross%20section.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_Hugelkulture_bed_in_cross_section.jpg",
+              "credit": {
+                "es": "Esquema de un bancal hugelkultur en corte transversal — Wikimedia Commons.",
+                "ca": "Esquema d'un bancal hugelkultur en tall transversal — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le bois comme éponge et garde-manger",
+              "es": "La madera como esponja y despensa",
+              "ca": "La fusta com a esponja i rebost"
+            }
+          },
+          {
+            "fr": "Le principe repose sur les propriétés du bois en décomposition : il agit comme une éponge géante, absorbant l'eau de pluie et l'humidité ambiante, puis la relâchant lentement vers les racines des plantes pendant les périodes sèches — ce qui réduit fortement, voire supprime, le besoin d'arrosage une fois la butte bien installée. En se décomposant, le bois libère également progressivement des nutriments dans le sol pendant plusieurs années, nourrissant les cultures sans apport d'engrais.",
+            "es": "El principio se basa en las propiedades de la madera en descomposición: actúa como una esponja gigante, absorbiendo el agua de lluvia y la humedad ambiente, y luego liberándola lentamente hacia las raíces de las plantas durante los períodos secos —lo que reduce fuertemente, incluso suprime, la necesidad de riego una vez que el montículo está bien establecido. Al descomponerse, la madera también libera progresivamente nutrientes al suelo durante varios años, alimentando los cultivos sin aporte de fertilizante.",
+            "ca": "El principi es basa en les propietats de la fusta en descomposició: actua com una esponja gegant, absorbint l'aigua de pluja i la humitat ambient, i després alliberant-la lentament cap a les arrels de les plantes durant els períodes secs —cosa que redueix fortament, fins i tot suprimeix, la necessitat de reg un cop el monticle està ben establert. En descompondre's, la fusta també allibera progressivament nutrients al sòl durant diversos anys, alimentant els conreus sense aportació de fertilitzant."
+          },
+          {
+            "h": {
+              "fr": "Une durabilité de plusieurs décennies",
+              "es": "Una durabilidad de varias décadas",
+              "ca": "Una durabilitat de diverses dècades"
+            }
+          },
+          {
+            "fr": "La forme surélevée de la butte augmente également la surface cultivable disponible et améliore le drainage, tout en créant un microclimat favorable. Selon la taille du bois utilisé, une butte de hugelkultur peut rester productive pendant 20 ans ou plus, le bois se décomposant très lentement en profondeur tandis que la surface reste fertile en continu.",
+            "es": "La forma elevada del montículo también aumenta la superficie cultivable disponible y mejora el drenaje, mientras crea un microclima favorable. Según el tamaño de la madera usada, un montículo de hügelkultur puede permanecer productivo durante 20 años o más, descomponiéndose la madera muy lentamente en profundidad mientras la superficie sigue siendo fértil de manera continua.",
+            "ca": "La forma elevada del monticle també augmenta la superfície conreable disponible i millora el drenatge, mentre crea un microclima favorable. Segons la mida de la fusta usada, un monticle de hügelkultur pot romandre productiu durant 20 anys o més, descomponent-se la fusta molt lentament en profunditat mentre la superfície continua sent fèrtil de manera contínua."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Le hügelkultur (littéralement « culture de butte » ou « culture de colline » en allemand) est une technique traditionnelle de jardinage sur monticule, pratiquée depuis des générations en Allemagne et en Europe de l'Est, notamment en Europe centrale rurale, et popularisée plus récemment dans le monde anglophone par l'agriculteur autrichien Sepp Holzer, pionnier de la permaculture en climat de montagne, qui la décrit et la systématise dans ses ouvrages sur sa ferme du Krameterhof.",
+            "es": "El hügelkultur (literalmente «cultivo de montículo» o «cultivo de colina» en alemán) es una técnica tradicional de jardinería en montículo, practicada desde hace generaciones en Alemania y Europa del Este, especialmente en la Europa central rural, y popularizada más recientemente en el mundo anglófono por el agricultor austríaco Sepp Holzer, pionero de la permacultura en clima de montaña, que la describe y sistematiza en sus obras sobre su granja del Krameterhof.",
+            "ca": "El hügelkultur (literalment «cultiu de monticle» o «cultiu de turó» en alemany) és una tècnica tradicional de jardineria en monticle, practicada des de fa generacions a Alemanya i Europa de l'Est, especialment a l'Europa central rural, i popularitzada més recentment al món anglòfon per l'agricultor austríac Sepp Holzer, pioner de la permacultura en clima de muntanya, que la descriu i sistematitza a les seves obres sobre la seva granja del Krameterhof."
+          },
+          {
+            "h": {
+              "fr": "Une construction en couches précises",
+              "es": "Una construcción en capas precisas",
+              "ca": "Una construcció en capes precises"
+            }
+          },
+          {
+            "fr": "La construction suit une logique de stratification précise, pensée pour optimiser à la fois la rétention d'eau et la libération progressive de nutriments : à la base, souvent dans une tranchée creusée à cet effet pour une meilleure stabilité et un contact direct avec le sol, on dispose de gros rondins et troncs entiers, de préférence de bois dur à décomposition lente ; par-dessus viennent des branches de calibre décroissant, puis une couche de matière azotée fraîche (herbe coupée, fumier, épluchures) qui accélère le démarrage de la décomposition en équilibrant le rapport carbone-azote du bois ; enfin, une couche de compost et de terre végétale recouvre l'ensemble, dans laquelle les cultures sont directement plantées, parfois dès la construction si la butte n'est pas trop chaude, ou après quelques semaines de stabilisation.",
+
+"es": "La construcción sigue una lógica de estratificación precisa, pensada para optimizar a la vez la retención de agua y la liberación progresiva de nutrientes: en la base, a menudo en una zanja excavada para este efecto para una mejor estabilidad y un contacto directo con el suelo, se disponen troncos gruesos y enteros, preferiblemente de madera dura de descomposición lenta; encima vienen ramas de calibre decreciente, luego una capa de materia nitrogenada fresca (hierba cortada, estiércol, mondas) que acelera el arranque de la descomposición equilibrando la relación carbono-nitrógeno de la madera; finalmente, una capa de compost y tierra vegetal cubre el conjunto, en la que los cultivos se plantan directamente, a veces desde la construcción si el montículo no está demasiado caliente, o tras algunas semanas de estabilización.",
+            "ca": "La construcció segueix una lògica d'estratificació precisa, pensada per optimitzar alhora la retenció d'aigua i l'alliberament progressiu de nutrients: a la base, sovint en una rasa excavada per a aquest efecte per a una millor estabilitat i un contacte directe amb el sòl, es disposen troncs gruixuts i sencers, preferiblement de fusta dura de descomposició lenta; a sobre vénen branques de calibre decreixent, després una capa de matèria nitrogenada fresca (herba tallada, fem, pelatges) que accelera l'arrencada de la descomposició equilibrant la relació carboni-nitrogen de la fusta; finalment, una capa de compost i terra vegetal cobreix el conjunt, en la qual els conreus es planten directament, de vegades des de la construcció si el monticle no és massa calent, o després d'algunes setmanes d'estabilització."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sketch%20of%20Hugelkulture%20bed%20in%20cross%20section.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_Hugelkulture_bed_in_cross_section.jpg",
+              "credit": {
+                "es": "Esquema de un bancal hugelkultur en corte transversal — Wikimedia Commons.",
+                "ca": "Esquema d'un bancal hugelkultur en tall transversal — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le bois comme éponge, garde-manger et incubateur fongique",
+              "es": "La madera como esponja, despensa e incubadora fúngica",
+              "ca": "La fusta com a esponja, rebost i incubadora fúngica"
+            }
+          },
+          {
+            "fr": "Le principe fonctionnel du système repose sur trois propriétés combinées du bois en décomposition. D'abord, une fonction hydrique : le bois en décomposition agit comme une éponge géante, capable d'absorber plusieurs fois son propre poids en eau, qu'il restitue ensuite très lentement aux racines des plantes pendant les périodes sèches — une caractéristique qui rend le hügelkultur particulièrement adapté aux climats à précipitations irrégulières ou aux jardiniers souhaitant réduire drastiquement l'arrosage. Ensuite, une fonction nutritive : la décomposition fongique et bactérienne du bois libère progressivement, sur plusieurs années, de l'azote, du potassium et d'autres nutriments essentiels directement disponibles pour les racines des cultures plantées au sommet de la butte.",
+            "es": "El principio funcional del sistema se basa en tres propiedades combinadas de la madera en descomposición. Primero, una función hídrica: la madera en descomposición actúa como una esponja gigante, capaz de absorber varias veces su propio peso en agua, que restituye luego muy lentamente a las raíces de las plantas durante los períodos secos —una característica que hace al hügelkultur particularmente adaptado a climas de precipitaciones irregulares o a jardineros que desean reducir drásticamente el riego. Luego, una función nutritiva: la descomposición fúngica y bacteriana de la madera libera progresivamente, durante varios años, nitrógeno, potasio y otros nutrientes esenciales directamente disponibles para las raíces de los cultivos plantados en la cima del montículo.",
+            "ca": "El principi funcional del sistema es basa en tres propietats combinades de la fusta en descomposició. Primer, una funció hídrica: la fusta en descomposició actua com una esponja gegant, capaç d'absorbir diverses vegades el seu propi pes en aigua, que restitueix després molt lentament a les arrels de les plantes durant els períodes secs —una característica que fa el hügelkultur particularment adaptat a climes de precipitacions irregulars o a jardiners que desitgen reduir dràsticament el reg. Després, una funció nutritiva: la descomposició fúngica i bacteriana de la fusta allibera progressivament, durant diversos anys, nitrogen, potassi i altres nutrients essencials directament disponibles per a les arrels dels conreus plantats al cim del monticle."
+          },
+          {
+            "fr": "Enfin, une fonction d'incubation biologique : le bois en décomposition héberge un réseau fongique et microbien dense qui favorise l'établissement de relations mycorhiziennes avec les plantes cultivées — établissant un lien direct avec les mécanismes de réseau mycorhizien décrits précédemment — tout en générant une légère chaleur de décomposition qui peut prolonger la saison de culture, notamment au printemps.",
+            "es": "Finalmente, una función de incubación biológica: la madera en descomposición alberga una red fúngica y microbiana densa que favorece el establecimiento de relaciones micorrízicas con las plantas cultivadas —estableciendo un vínculo directo con los mecanismos de red micorrízica descritos anteriormente— mientras genera un leve calor de descomposición que puede prolongar la temporada de cultivo, especialmente en primavera.",
+            "ca": "Finalment, una funció d'incubació biològica: la fusta en descomposició alberga una xarxa fúngica i microbiana densa que afavoreix l'establiment de relacions micorízqiques amb les plantes conreades —establint un vincle directe amb els mecanismes de xarxa micorízqica descrits anteriorment— mentre genera una lleu calor de descomposició que pot prolongar la temporada de conreu, especialment a la primavera."
+          },
+          {
+            "h": {
+              "fr": "Une durabilité de plusieurs décennies, mais des compromis initiaux",
+              "es": "Una durabilidad de varias décadas, pero compensaciones iniciales",
+              "ca": "Una durabilitat de diverses dècades, però compensacions inicials"
+            }
+          },
+          {
+            "fr": "Selon la taille et la nature du bois employé, une butte de hügelkultur bien construite peut rester productive pendant 20 ans ou davantage sans nécessiter d'apport supplémentaire de fertilisant, le bois se décomposant très lentement en profondeur tandis que la surface reste continuellement enrichie. La technique présente néanmoins des compromis à anticiper : durant les premiers mois, la décomposition intense peut temporairement immobiliser une partie de l'azote disponible dans le sol (un phénomène appelé « faim d'azote »), ce qui peut nuire aux jeunes plants gourmands en azote si l'on ne compense pas avec un apport de matière azotée en surface ; certaines essences de bois résineux ou allélopathiques (comme le noyer) sont également déconseillées pour leur effet potentiellement inhibiteur sur la croissance d'autres plantes.",
+            "es": "Según el tamaño y la naturaleza de la madera empleada, un montículo de hügelkultur bien construido puede permanecer productivo durante 20 años o más sin necesitar aporte suplementario de fertilizante, descomponiéndose la madera muy lentamente en profundidad mientras la superficie sigue enriqueciéndose continuamente. La técnica presenta sin embargo compensaciones a anticipar: durante los primeros meses, la descomposición intensa puede inmovilizar temporalmente parte del nitrógeno disponible en el suelo (un fenómeno llamado «hambre de nitrógeno»), lo que puede perjudicar a las plántulas jóvenes ávidas de nitrógeno si no se compensa con un aporte de materia nitrogenada en superficie; ciertas especies de madera resinosa o alelopática (como el nogal) también se desaconsejan por su efecto potencialmente inhibidor sobre el crecimiento de otras plantas.",
+            "ca": "Segons la mida i la naturalesa de la fusta emprada, un monticle de hügelkultur ben construït pot romandre productiu durant 20 anys o més sense necessitar aportació suplementària de fertilitzant, descomponent-se la fusta molt lentament en profunditat mentre la superfície continua enriquint-se contínuament. La tècnica presenta tanmateix compensacions a anticipar: durant els primers mesos, la descomposició intensa pot immobilitzar temporalment part del nitrogen disponible al sòl (un fenomen anomenat «fam de nitrogen»), cosa que pot perjudicar les plantetes joves àvides de nitrogen si no es compensa amb una aportació de matèria nitrogenada en superfície; certes espècies de fusta resinosa o al·lelopàtica (com el noguer) també es desaconsellen pel seu efecte potencialment inhibidor sobre el creixement d'altres plantes."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une butte (surélevée)",
+          "es": "un montículo (elevado)",
+          "ca": "un monticle (elevat)"
+        },
+        {
+          "mot": "un rondin",
+          "es": "un tronco",
+          "ca": "un tronc"
+        },
+        {
+          "mot": "le rapport carbone-azote",
+          "es": "la relación carbono-nitrógeno",
+          "ca": "la relació carboni-nitrogen"
+        },
+        {
+          "mot": "la faim d'azote",
+          "es": "el hambre de nitrógeno",
+          "ca": "la fam de nitrogen"
+        },
+        {
+          "mot": "allélopathique",
+          "es": "alelopático/a",
+          "ca": "al·lelopàtic/a"
+        },
+        {
+          "mot": "un drainage",
+          "es": "un drenaje",
+          "ca": "un drenatge"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué significa «hügelkultur» en alemán?",
+            "ca": "Què significa «hügelkultur» en alemany?"
+          },
+          "piste": {
+            "es": "cultivo de montículo / cultivo de colina",
+            "ca": "cultiu de monticle / cultiu de turó"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuáles son las tres funciones principales de la madera en descomposición?",
+            "ca": "Quines són les tres funcions principals de la fusta en descomposició?"
+          },
+          "piste": {
+            "es": "hídrica (esponja), nutritiva, y de incubación biológica (hongos)",
+            "ca": "hídrica (esponja), nutritiva, i d'incubació biològica (fongs)"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuánto tiempo puede permanecer productivo un montículo bien construido?",
+            "ca": "Quant de temps pot romandre productiu un monticle ben construït?"
+          },
+          "piste": {
+            "es": "20 años o más",
+            "ca": "20 anys o més"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué es la «hambre de nitrógeno», y cuándo ocurre?",
+            "ca": "Què és la «fam de nitrogen», i quan passa?"
+          },
+          "piste": {
+            "es": "una inmovilización temporal del nitrógeno durante los primeros meses de descomposición",
+            "ca": "una immobilització temporal del nitrogen durant els primers mesos de descomposició"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Hügelkultur",
+          "url": "https://en.wikipedia.org/wiki/H%C3%BCgelkultur"
+        },
+        {
+          "titre": "Wikipedia — Sepp Holzer",
+          "url": "https://en.wikipedia.org/wiki/Sepp_Holzer"
+        }
+      ]
+    }
+  ]
+}

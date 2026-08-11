@@ -1,0 +1,271 @@
+{
+  "textes": [
+    {
+      "id": "permaculture_agriculture_durable",
+      "emoji": "🌱",
+      "theme": "Écologie",
+      "periode": "1970 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Mollison%2001.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Bill_Mollison_01.jpg",
+        "credit": {
+          "es": "Bill Mollison, cofundador de la permacultura — Wikimedia Commons.",
+          "ca": "Bill Mollison, cofundador de la permacultura — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Permacultura y sistemas agrícolas duraderos",
+        "ca": "Permacultura i sistemes agrícoles duradors"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Dans les années 1970, en Australie, Bill Mollison et David Holmgren créent une nouvelle façon de cultiver : la permaculture.",
+            "es": "En los años 1970, en Australia, Bill Mollison y David Holmgren crean una nueva manera de cultivar: la permacultura.",
+            "ca": "Als anys 1970, a Austràlia, Bill Mollison i David Holmgren creen una nova manera de conrear: la permacultura."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Mollison%2001.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Bill_Mollison_01.jpg",
+              "credit": {
+                "es": "Bill Mollison, cofundador de la permacultura — Wikimedia Commons.",
+                "ca": "Bill Mollison, cofundador de la permacultura — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "L'idée principale : copier la nature plutôt que la combattre. Une forêt n'a pas besoin d'engrais chimiques pour pousser.",
+            "es": "La idea principal: copiar la naturaleza en lugar de combatirla. Un bosque no necesita fertilizantes químicos para crecer.",
+            "ca": "La idea principal: copiar la natura en comptes de combatre-la. Un bosc no necessita fertilitzants químics per créixer."
+          },
+          {
+            "fr": "Dans un jardin en permaculture, chaque plante aide les autres. Un arbre fait de l'ombre, ses feuilles nourrissent le sol.",
+            "es": "En un huerto de permacultura, cada planta ayuda a las demás. Un árbol da sombra, sus hojas alimentan el suelo.",
+            "ca": "En un hort de permacultura, cada planta ajuda les altres. Un arbre fa ombra, les seves fulles alimenten el sòl."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Sisters%20companion%20planting%20technique.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Three_Sisters_companion_planting_technique.jpg",
+              "credit": {
+                "es": "Las Tres Hermanas: maíz, frijol y calabaza cultivados juntos — Wikimedia Commons.",
+                "ca": "Les Tres Germanes: blat de moro, mongeta i carbassa conreats junts — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Un bon exemple ancien : les « Trois Sœurs » des peuples autochtones d'Amérique — maïs, haricot et courge plantés ensemble.",
+            "es": "Un buen ejemplo antiguo: las «Tres Hermanas» de los pueblos indígenas de América —maíz, frijol y calabaza plantados juntos.",
+            "ca": "Un bon exemple antic: les «Tres Germanes» dels pobles indígenes d'Amèrica —blat de moro, mongeta i carbassa plantats junts."
+          },
+          {
+            "fr": "Le maïs sert d'échelle au haricot. Le haricot nourrit le sol en azote. La courge protège le sol avec ses grandes feuilles.",
+            "es": "El maíz sirve de escalera al frijol. El frijol alimenta el suelo con nitrógeno. La calabaza protege el suelo con sus grandes hojas.",
+            "ca": "El blat de moro serveix d'escala a la mongeta. La mongeta alimenta el sòl amb nitrogen. La carbassa protegeix el sòl amb les seves grans fulles."
+          },
+          {
+            "fr": "Au contraire, un champ avec une seule plante (monoculture) épuise vite la terre et a besoin de plus en plus de produits chimiques.",
+            "es": "Al contrario, un campo con una sola planta (monocultivo) agota rápido la tierra y necesita cada vez más productos químicos.",
+            "ca": "Al contrari, un camp amb una sola planta (monocultiu) esgota ràpid la terra i necessita cada cop més productes químics."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "La permaculture (« agriculture permanente ») naît en 1978 avec la publication de « Permaculture One » par les Australiens Bill Mollison et David Holmgren. Leur intuition centrale : plutôt que d'imposer un système agricole simplifié à la nature, il faut observer et imiter les écosystèmes naturels, qui sont stables et productifs sans intervention humaine constante.",
+            "es": "La permacultura («agricultura permanente») nace en 1978 con la publicación de «Permaculture One» por los australianos Bill Mollison y David Holmgren. Su intuición central: en lugar de imponer un sistema agrícola simplificado a la naturaleza, hay que observar e imitar los ecosistemas naturales, que son estables y productivos sin intervención humana constante.",
+            "ca": "La permacultura («agricultura permanent») neix el 1978 amb la publicació de «Permaculture One» pels australians Bill Mollison i David Holmgren. La seva intuïció central: en comptes d'imposar un sistema agrícola simplificat a la natura, cal observar i imitar els ecosistemes naturals, que són estables i productius sense intervenció humana constant."
+          },
+          {
+            "h": {
+              "fr": "Trois principes concrets",
+              "es": "Tres principios concretos",
+              "ca": "Tres principis concrets"
+            }
+          },
+          {
+            "fr": "La permaculture repose sur des techniques précises : l'« empilement de fonctions », où chaque élément du jardin remplit plusieurs rôles à la fois (une haie freine le vent, nourrit les insectes pollinisateurs et produit des fruits) ; les « guildes », des groupes de plantes qui s'entraident ; et la « forêt-jardin », qui reproduit les différentes couches d'une forêt (grands arbres, arbustes, plantes basses, racines) pour maximiser la production sur une même surface.",
+            "es": "La permacultura se basa en técnicas precisas: el «apilamiento de funciones», donde cada elemento del huerto cumple varios papeles a la vez (un seto frena el viento, alimenta a los insectos polinizadores y produce frutos); las «gremios», grupos de plantas que se ayudan mutuamente; y el «bosque-jardín», que reproduce las distintas capas de un bosque (grandes árboles, arbustos, plantas bajas, raíces) para maximizar la producción en una misma superficie.",
+            "ca": "La permacultura es basa en tècniques precises: l'«apilament de funcions», on cada element de l'hort compleix diversos papers alhora (una tanca frena el vent, alimenta els insectes pol·linitzadors i produeix fruits); els «gremis», grups de plantes que s'ajuden mútuament; i el «bosc-jardí», que reprodueix les diferents capes d'un bosc (grans arbres, arbustos, plantes baixes, arrels) per maximitzar la producció en una mateixa superfície."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Sisters%20companion%20planting%20technique.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Three_Sisters_companion_planting_technique.jpg",
+              "credit": {
+                "es": "Las Tres Hermanas: maíz, frijol y calabaza cultivados juntos — Wikimedia Commons.",
+                "ca": "Les Tres Germanes: blat de moro, mongeta i carbassa conreats junts — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Les Trois Sœurs, une guilde ancienne",
+              "es": "Las Tres Hermanas, un gremio antiguo",
+              "ca": "Les Tres Germanes, un gremi antic"
+            }
+          },
+          {
+            "fr": "L'exemple le plus connu de « guilde » précède la permaculture de plusieurs millénaires : les « Trois Sœurs » cultivées par de nombreux peuples autochtones d'Amérique du Nord. Le maïs sert de tuteur vivant au haricot grimpant, le haricot fixe l'azote atmosphérique dans le sol pour nourrir les deux autres plantes, et les larges feuilles de la courge couvrent le sol, empêchant les mauvaises herbes de pousser et gardant l'humidité.",
+            "es": "El ejemplo más conocido de «gremio» precede a la permacultura por varios milenios: las «Tres Hermanas» cultivadas por numerosos pueblos indígenas de América del Norte. El maíz sirve de tutor vivo al frijol trepador, el frijol fija el nitrógeno atmosférico en el suelo para alimentar a las otras dos plantas, y las anchas hojas de la calabaza cubren el suelo, impidiendo que crezcan las malas hierbas y conservando la humedad.",
+            "ca": "L'exemple més conegut de «gremi» precedeix la permacultura per diversos mil·lennis: les «Tres Germanes» conreades per nombrosos pobles indígenes d'Amèrica del Nord. El blat de moro serveix de tutor viu a la mongeta enfiladissa, la mongeta fixa el nitrogen atmosfèric al sòl per alimentar les altres dues plantes, i les amples fulles de la carbassa cobreixen el sòl, impedint que creixin les males herbes i conservant la humitat."
+          },
+          {
+            "h": {
+              "fr": "Le problème de la monoculture",
+              "es": "El problema del monocultivo",
+              "ca": "El problema del monocultiu"
+            }
+          },
+          {
+            "fr": "À l'opposé, l'agriculture industrielle en monoculture — un seul type de plante sur des hectares entiers — épuise rapidement les sols et les rend dépendants d'engrais et de pesticides de synthèse, eux-mêmes issus du pétrole. Sans diversité, une seule maladie ou un seul insecte peut détruire toute une récolte, rendant ce système fragile face aux chocs climatiques, même s'il produit beaucoup à court terme.",
+            "es": "En cambio, la agricultura industrial en monocultivo —un solo tipo de planta en hectáreas enteras— agota rápidamente los suelos y los vuelve dependientes de fertilizantes y pesticidas sintéticos, ellos mismos derivados del petróleo. Sin diversidad, una sola enfermedad o un solo insecto puede destruir toda una cosecha, haciendo este sistema frágil frente a los choques climáticos, aunque produzca mucho a corto plazo.",
+            "ca": "En canvi, l'agricultura industrial en monocultiu —un sol tipus de planta en hectàrees senceres— esgota ràpidament els sòls i els fa dependents de fertilitzants i pesticides sintètics, ells mateixos derivats del petroli. Sense diversitat, una sola malaltia o un sol insecte pot destruir tota una collita, fent aquest sistema fràgil davant els xocs climàtics, encara que produeixi molt a curt termini."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "La permaculture (contraction de « permanent agriculture ») naît formellement en 1978 avec la publication de « Permaculture One » par les Australiens Bill Mollison, biologiste formé sur le terrain plutôt qu'à l'université, et David Holmgren, alors étudiant. Leur intuition fondatrice part d'une observation simple : les écosystèmes naturels — une forêt, une prairie — sont productifs, stables et résilients sans aucun intrant extérieur ni intervention humaine constante, contrairement aux champs agricoles industriels qui nécessitent un apport permanent d'énergie, d'eau et de produits chimiques pour fonctionner.",
+            "es": "La permacultura (contracción de «agricultura permanente») nace formalmente en 1978 con la publicación de «Permaculture One» por los australianos Bill Mollison, biólogo formado en el terreno más que en la universidad, y David Holmgren, entonces estudiante. Su intuición fundadora parte de una observación simple: los ecosistemas naturales —un bosque, una pradera— son productivos, estables y resilientes sin ningún insumo exterior ni intervención humana constante, a diferencia de los campos agrícolas industriales que necesitan un aporte permanente de energía, agua y productos químicos para funcionar.",
+            "ca": "La permacultura (contracció de «agricultura permanent») neix formalment el 1978 amb la publicació de «Permaculture One» pels australians Bill Mollison, biòleg format sobre el terreny més que a la universitat, i David Holmgren, aleshores estudiant. La seva intuïció fundadora parteix d'una observació simple: els ecosistemes naturals —un bosc, una prada— són productius, estables i resilients sense cap input exterior ni intervenció humana constant, a diferència dels camps agrícoles industrials que necessiten un aport permanent d'energia, aigua i productes químics per funcionar."
+          },
+          {
+            "h": {
+              "fr": "Trois piliers, plusieurs techniques concrètes",
+              "es": "Tres pilares, varias técnicas concretas",
+              "ca": "Tres pilars, diverses tècniques concretes"
+            }
+          },
+{
+            "fr": "La permaculture repose sur trois éthiques fondatrices — prendre soin de la terre, prendre soin des gens, redistribuer équitablement les surplus — traduites en principes de conception concrets : l'« empilement de fonctions » (chaque élément remplit plusieurs rôles simultanément : une haie brise-vent nourrit aussi les pollinisateurs et produit des fruits) ; les « guildes », groupes de plantes en relation d'entraide ; la « forêt-jardin » (food forest), qui reproduit les strates verticales d'un écosystème forestier — canopée, sous-étage arbustif, herbacées, couvre-sol, racines, grimpantes — pour maximiser la production sur une surface donnée tout en minimisant l'entretien ; et une gestion attentive de l'eau par des techniques comme les swales (fossés de contour qui ralentissent et infiltrent le ruissellement) ou le keyline design.",
+            "es": "La permacultura se basa en tres éticas fundadoras —cuidar la tierra, cuidar a las personas, redistribuir equitativamente los excedentes— traducidas en principios de diseño concretos: el «apilamiento de funciones» (cada elemento cumple varios papeles simultáneamente: un seto cortavientos también alimenta a los polinizadores y produce frutos); los «gremios», grupos de plantas en relación de ayuda mutua; el «bosque-jardín» (food forest), que reproduce los estratos verticales de un ecosistema forestal —dosel, sotobosque arbustivo, herbáceas, cubresuelo, raíces, trepadoras— para maximizar la producción en una superficie dada minimizando el mantenimiento; y una gestión atenta del agua mediante técnicas como los swales (zanjas de contorno que frenan e infiltran la escorrentía) o el keyline design.",
+            "ca": "La permacultura es basa en tres ètiques fundadores —tenir cura de la terra, tenir cura de les persones, redistribuir equitativament els excedents— traduïdes en principis de disseny concrets: l'«apilament de funcions» (cada element compleix diversos papers simultàniament: una tanca tallavent també alimenta els pol·linitzadors i produeix fruits); els «gremis», grups de plantes en relació d'ajuda mútua; el «bosc-jardí» (food forest), que reprodueix els estrats verticals d'un ecosistema forestal —dosser, sotabosc arbustiu, herbàcies, cobresòl, arrels, enfiladisses— per maximitzar la producció en una superfície donada minimitzant el manteniment; i una gestió atenta de l'aigua mitjançant tècniques com els swales (rases de contorn que frenen i infiltren l'escolament) o el keyline design."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Sisters%20companion%20planting%20technique.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Three_Sisters_companion_planting_technique.jpg",
+              "credit": {
+                "es": "Las Tres Hermanas: maíz, frijol y calabaza cultivados juntos — Wikimedia Commons.",
+                "ca": "Les Tres Germanes: blat de moro, mongeta i carbassa conreats junts — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Les Trois Sœurs, une guilde millénaire",
+              "es": "Las Tres Hermanas, un gremio milenario",
+              "ca": "Les Tres Germanes, un gremi mil·lenari"
+            }
+          },
+          {
+            "fr": "L'exemple de « guilde » le plus documenté précède de loin la permaculture moderne : les « Trois Sœurs », système de culture associée développé et perfectionné pendant des millénaires par de nombreux peuples autochtones d'Amérique du Nord, dont les Haudenosaunee — que tu connais déjà. Le maïs sert de tuteur vivant au haricot grimpant ; le haricot, grâce à des bactéries symbiotiques fixatrices d'azote logées dans ses racines, enrichit le sol en azote assimilable, bénéficiant à ses deux voisines ; les larges feuilles de la courge couvrent le sol au ras du sol, supprimant la concurrence des mauvaises herbes, conservant l'humidité et décourageant certains prédateurs grâce à leurs poils irritants. Sur le plan nutritionnel, l'association fournit également un repas complet en acides aminés, le maïs et le haricot se complétant mutuellement.",
+            "es": "El ejemplo de «gremio» más documentado precede con mucho a la permacultura moderna: las «Tres Hermanas», sistema de cultivo asociado desarrollado y perfeccionado durante milenios por numerosos pueblos indígenas de América del Norte, entre ellos los haudenosaunee —que ya conoces. El maíz sirve de tutor vivo al frijol trepador; el frijol, gracias a bacterias simbióticas fijadoras de nitrógeno alojadas en sus raíces, enriquece el suelo con nitrógeno asimilable, beneficiando a sus dos vecinas; las anchas hojas de la calabaza cubren el suelo a ras, suprimiendo la competencia de las malas hierbas, conservando la humedad y desalentando a ciertos depredadores gracias a sus pelos irritantes. En el plano nutricional, la asociación también proporciona una comida completa en aminoácidos, complementándose mutuamente el maíz y el frijol.",
+            "ca": "L'exemple de «gremi» més documentat precedeix de molt la permacultura moderna: les «Tres Germanes», sistema de conreu associat desenvolupat i perfeccionat durant mil·lennis per nombrosos pobles indígenes d'Amèrica del Nord, entre ells els haudenosaunee —que ja coneixes. El blat de moro serveix de tutor viu a la mongeta enfiladissa; la mongeta, gràcies a bacteris simbiòtics fixadors de nitrogen allotjats a les seves arrels, enriqueix el sòl amb nitrogen assimilable, beneficiant les seves dues veïnes; les amples fulles de la carbassa cobreixen el sòl arran, suprimint la competència de les males herbes, conservant la humitat i desanimant certs depredadors gràcies als seus pèls irritants. En el pla nutricional, l'associació també proporciona un àpat complet en aminoàcids, complementant-se mútuament el blat de moro i la mongeta."
+          },
+          {
+            "h": {
+              "fr": "D'autres systèmes durables, et le problème de la monoculture",
+              "es": "Otros sistemas duraderos, y el problema del monocultivo",
+              "ca": "Altres sistemes duradors, i el problema del monocultiu"
+            }
+          },
+          {
+            "fr": "D'autres approches poursuivent des logiques proches sans se confondre avec la permaculture : l'agroécologie, plus scientifique et souvent portée par des mouvements paysans politisés comme La Via Campesina ; l'agroforesterie, qui associe arbres et cultures ou élevage sur une même parcelle ; l'agriculture syntropique développée par le Suisse Ernst Götsch au Brésil, qui régénère des sols dégradés à grande échelle en accélérant la succession naturelle des espèces végétales ; ou encore les chinampas aztèques, îles artificielles cultivées sur les lacs de la vallée de Mexico, comptant parmi les systèmes agricoles les plus productifs jamais documentés.",
+            "es": "Otros enfoques persiguen lógicas cercanas sin confundirse con la permacultura: la agroecología, más científica y a menudo impulsada por movimientos campesinos politizados como La Vía Campesina; la agroforestería, que asocia árboles y cultivos o ganadería en una misma parcela; la agricultura sintrópica desarrollada por el suizo Ernst Götsch en Brasil, que regenera suelos degradados a gran escala acelerando la sucesión natural de las especies vegetales; o también las chinampas aztecas, islas artificiales cultivadas en los lagos del valle de México, entre los sistemas agrícolas más productivos jamás documentados.",
+            "ca": "Altres enfocaments persegueixen lògiques properes sense confondre's amb la permacultura: l'agroecologia, més científica i sovint impulsada per moviments pagesos politizats com La Via Campesina; l'agroforesteria, que associa arbres i conreus o ramaderia en una mateixa parcel·la; l'agricultura sintròpica desenvolupada pel suís Ernst Götsch al Brasil, que regenera sòls degradats a gran escala accelerant la successió natural de les espècies vegetals; o també les chinampes asteques, illes artificials conreades als llacs de la vall de Mèxic, entre els sistemes agrícoles més productius mai documentats."
+          },
+          {
+            "fr": "À l'opposé de ces logiques, l'agriculture industrielle en monoculture — un seul type de plante cultivé sur des surfaces immenses — épuise progressivement la fertilité des sols et crée une dépendance structurelle aux engrais et pesticides de synthèse, eux-mêmes dérivés du pétrole. L'absence de diversité génétique et biologique rend ce système particulièrement vulnérable aux ravageurs, aux maladies et aux chocs climatiques ; malgré des rendements élevés à court terme, il érode progressivement la base matérielle — sols vivants, nappes phréatiques, biodiversité — dont dépend sa propre pérennité. Bill Mollison résumait cette tension d'une formule restée célèbre, jugeant futiles « les révolutionnaires qui n'ont pas de jardin, qui dépendent du système même qu'ils attaquent, et qui produisent des mots et des balles, pas de la nourriture et un abri ».",
+            "es": "En contraste con estas lógicas, la agricultura industrial en monocultivo —un solo tipo de planta cultivado en superficies inmensas— agota progresivamente la fertilidad de los suelos y crea una dependencia estructural de fertilizantes y pesticidas sintéticos, ellos mismos derivados del petróleo. La ausencia de diversidad genética y biológica hace este sistema particularmente vulnerable a las plagas, las enfermedades y los choques climáticos; pese a rendimientos elevados a corto plazo, erosiona progresivamente la base material —suelos vivos, acuíferos, biodiversidad— de la que depende su propia perennidad. Bill Mollison resumía esta tensión con una fórmula que ha quedado célebre, considerando fútiles «a los revolucionarios que no tienen huerto, que dependen del mismo sistema que atacan, y que producen palabras y balas, no comida ni refugio».",
+            "ca": "En contrast amb aquestes lògiques, l'agricultura industrial en monocultiu —un sol tipus de planta conreat en superfícies immenses— esgota progressivament la fertilitat dels sòls i crea una dependència estructural de fertilitzants i pesticides sintètics, ells mateixos derivats del petroli. L'absència de diversitat genètica i biològica fa aquest sistema particularment vulnerable a les plagues, les malalties i els xocs climàtics; malgrat rendiments elevats a curt termini, erosiona progressivament la base material —sòls vius, aqüífers, biodiversitat— de la qual depèn la seva pròpia perennitat. Bill Mollison resumia aquesta tensió amb una fórmula que ha quedat cèlebre, considerant fútils «els revolucionaris que no tenen hort, que depenen del mateix sistema que ataquen, i que produeixen paraules i bales, no menjar ni recer»."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "l'empilement de fonctions",
+          "es": "el apilamiento de funciones",
+          "ca": "l'apilament de funcions"
+        },
+        {
+          "mot": "une guilde (de plantes)",
+          "es": "un gremio (de plantas)",
+          "ca": "un gremi (de plantes)"
+        },
+        {
+          "mot": "fixer l'azote",
+          "es": "fijar el nitrógeno",
+          "ca": "fixar el nitrogen"
+        },
+        {
+          "mot": "une monoculture",
+          "es": "un monocultivo",
+          "ca": "un monocultiu"
+        },
+        {
+          "mot": "un intrant (chimique)",
+          "es": "un insumo (químico)",
+          "ca": "un input (químic)"
+        },
+        {
+          "mot": "résilient(e)",
+          "es": "resiliente",
+          "ca": "resilient"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Quiénes crean la permacultura, y en qué año?",
+            "ca": "Qui crea la permacultura, i en quin any?"
+          },
+          "piste": {
+            "es": "Bill Mollison y David Holmgren, en 1978",
+            "ca": "Bill Mollison i David Holmgren, el 1978"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué papel cumple cada planta de las «Tres Hermanas»?",
+            "ca": "Quin paper compleix cada planta de les «Tres Germanes»?"
+          },
+          "piste": {
+            "es": "el maíz es tutor, el frijol fija nitrógeno, la calabaza cubre el suelo",
+            "ca": "el blat de moro és tutor, la mongeta fixa nitrogen, la carbassa cobreix el sòl"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué el monocultivo es frágil a largo plazo?",
+            "ca": "Per què el monocultiu és fràgil a llarg termini?"
+          },
+          "piste": {
+            "es": "porque sin diversidad, una sola plaga o enfermedad puede destruir toda la cosecha",
+            "ca": "perquè sense diversitat, una sola plaga o malaltia pot destruir tota la collita"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué otros sistemas agrícolas duraderos existen aparte de la permacultura?",
+            "ca": "Quins altres sistemes agrícoles duradors existeixen a part de la permacultura?"
+          },
+          "piste": {
+            "es": "la agroecología, la agroforestería, la agricultura sintrópica, las chinampas",
+            "ca": "l'agroecologia, l'agroforesteria, l'agricultura sintròpica, les chinampes"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Permaculture",
+          "url": "https://en.wikipedia.org/wiki/Permaculture"
+        },
+        {
+          "titre": "Wikipedia — Three Sisters (agriculture)",
+          "url": "https://en.wikipedia.org/wiki/Three_Sisters_(agriculture)"
+        }
+      ]
+    }
+  ]
+}

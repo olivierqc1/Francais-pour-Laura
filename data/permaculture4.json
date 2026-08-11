@@ -1,0 +1,257 @@
+{
+  "textes": [
+    {
+      "id": "fukuoka_agriculture_naturelle",
+      "emoji": "🌾",
+      "theme": "Écologie",
+      "periode": "1913 à 2008",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Masanobu-Fukuoka.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Masanobu-Fukuoka.jpg",
+        "credit": {
+          "es": "Masanobu Fukuoka (1913-2008) — Wikimedia Commons.",
+          "ca": "Masanobu Fukuoka (1913-2008) — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Fukuoka y la agricultura natural: el «no hacer nada»",
+        "ca": "Fukuoka i l'agricultura natural: el «no fer res»"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Masanobu Fukuoka naît en 1913 au Japon. Il étudie d'abord la science, puis devient agriculteur.",
+            "es": "Masanobu Fukuoka nace en 1913 en Japón. Primero estudia ciencia, luego se hace agricultor.",
+            "ca": "Masanobu Fukuoka neix el 1913 al Japó. Primer estudia ciència, després es fa agricultor."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Masanobu-Fukuoka.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Masanobu-Fukuoka.jpg",
+              "credit": {
+                "es": "Masanobu Fukuoka (1913-2008) — Wikimedia Commons.",
+                "ca": "Masanobu Fukuoka (1913-2008) — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Un jour, il a une idée : et si l'agriculture moderne faisait trop de choses inutiles ? Il décide de faire le contraire.",
+            "es": "Un día, tiene una idea: ¿y si la agricultura moderna hace demasiadas cosas inútiles? Decide hacer lo contrario.",
+            "ca": "Un dia, té una idea: i si l'agricultura moderna fa massa coses inútils? Decideix fer el contrari."
+          },
+          {
+            "fr": "Sa méthode s'appelle « l'agriculture naturelle », ou le « non-agir ». Cinq règles : pas de labour, pas d'engrais, pas de pesticides, pas de désherbage, pas de taille.",
+            "es": "Su método se llama «agricultura natural», o el «no hacer». Cinco reglas: sin arado, sin fertilizantes, sin pesticidas, sin desherbar, sin poda.",
+            "ca": "El seu mètode es diu «agricultura natural», o el «no fer». Cinc regles: sense llaurar, sense fertilitzants, sense pesticides, sense desherbar, sense poda."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1913 au Japon, Masanobu Fukuoka étudie la microbiologie et travaille comme inspecteur des douanes avant une crise personnelle qui le pousse, vers 25 ans, à quitter la ville pour retourner à la ferme familiale et repenser radicalement sa relation à l'agriculture.",
+            "es": "Nacido en 1913 en Japón, Masanobu Fukuoka estudia microbiología y trabaja como inspector de aduanas antes de una crisis personal que lo empuja, hacia los 25 años, a dejar la ciudad para volver a la granja familiar y repensar radicalmente su relación con la agricultura.",
+            "ca": "Nascut el 1913 al Japó, Masanobu Fukuoka estudia microbiologia i treballa com a inspector de duanes abans d'una crisi personal que l'empeny, cap als 25 anys, a deixar la ciutat per tornar a la granja familiar i repensar radicalment la seva relació amb l'agricultura."
+          },
+          {
+            "h": {
+              "fr": "Le « non-agir »",
+              "es": "El «no hacer»",
+              "ca": "El «no fer»"
+            }
+          },
+          {
+            "fr": "Sa méthode, exposée dans « La Révolution d'un seul brin de paille » (1975), part d'un constat provocateur : la plupart des techniques agricoles, même bien intentionnées, compliquent inutilement un système que la nature sait déjà équilibrer seule. Il formule cinq principes : pas de labour, pas d'engrais chimique ni de compost préparé, pas de désherbage, pas de pesticide, pas de taille.",
+            "es": "Su método, expuesto en «La revolución de una brizna de paja» (1975), parte de una constatación provocadora: la mayoría de las técnicas agrícolas, incluso bien intencionadas, complican inútilmente un sistema que la naturaleza ya sabe equilibrar sola. Formula cinco principios: sin arado, sin fertilizante químico ni compost preparado, sin desherbado, sin pesticida, sin poda.",
+            "ca": "El seu mètode, exposat a «La revolució d'una brizna de palla» (1975), parteix d'una constatació provocadora: la majoria de les tècniques agrícoles, fins i tot ben intencionades, compliquen inútilment un sistema que la natura ja sap equilibrar sola. Formula cinc principis: sense llaurar, sense fertilitzant químic ni compost preparat, sense desherbar, sense pesticida, sense poda."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une technique précise malgré le nom",
+              "es": "Una técnica precisa pese al nombre",
+              "ca": "Una tècnica precisa malgrat el nom"
+            }
+          },
+          {
+            "fr": "Le « non-agir » ne signifie pas ne rien faire du tout : Fukuoka développe des techniques précises, comme les « boulettes d'argile » (nendo dango) contenant les graines de plusieurs cultures, semées directement sur un sol jamais labouré et couvert en permanence de paille pour retenir l'humidité et étouffer les mauvaises herbes. Sur ses parcelles de riz et d'orge, il obtient des rendements comparables à l'agriculture chimique intensive, avec beaucoup moins de travail.",
+            "es": "El «no hacer» no significa no hacer nada en absoluto: Fukuoka desarrolla técnicas precisas, como las «bolas de arcilla» (nendo dango) que contienen las semillas de varios cultivos, sembradas directamente en un suelo nunca arado y cubierto permanentemente de paja para retener la humedad y ahogar las malas hierbas. En sus parcelas de arroz y cebada, obtiene rendimientos comparables a la agricultura química intensiva, con mucho menos trabajo.",
+            "ca": "El «no fer» no significa no fer res en absolut: Fukuoka desenvolupa tècniques precises, com les «boles d'argila» (nendo dango) que contenen les llavors de diversos conreus, sembrades directament en un sòl mai llaurat i cobert permanentment de palla per retenir la humitat i ofegar les males herbes. A les seves parcel·les d'arròs i ordi, obté rendiments comparables a l'agricultura química intensiva, amb molt menys treball."
+          },
+          {
+            "h": {
+              "fr": "Une philosophie autant qu'une technique",
+              "es": "Una filosofía tanto como una técnica",
+              "ca": "Una filosofia tant com una tècnica"
+            }
+          },
+          {
+            "fr": "Fukuoka insiste sur le fait que sa méthode n'est pas qu'une technique agricole, mais une philosophie de l'humilité face à la nature : il critique la science agronomique moderne pour son ambition de tout contrôler, un excès de confiance qu'il juge être la vraie cause des problèmes qu'elle prétend résoudre.",
+            "es": "Fukuoka insiste en que su método no es solo una técnica agrícola, sino una filosofía de la humildad frente a la naturaleza: critica la ciencia agronómica moderna por su ambición de controlarlo todo, un exceso de confianza que considera la verdadera causa de los problemas que pretende resolver.",
+            "ca": "Fukuoka insisteix en el fet que el seu mètode no és només una tècnica agrícola, sinó una filosofia de la humilitat davant la natura: critica la ciència agronòmica moderna per la seva ambició de controlar-ho tot, un excés de confiança que considera la veritable causa dels problemes que pretén resoldre."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1913 dans la préfecture d'Ehime, sur l'île de Shikoku, Masanobu Fukuoka suit d'abord une formation scientifique en microbiologie et travaille comme inspecteur des douanes spécialisé dans les maladies des plantes, une carrière prometteuse dans l'agronomie conventionnelle de son époque. Vers 25 ans, une grave maladie pulmonaire et une crise existentielle profonde le conduisent à une remise en question radicale : convaincu que « rien n'a de sens » dans le savoir humain accumulé, il quitte son poste et retourne travailler la terre familiale, où il passe les décennies suivantes à développer et affiner sa méthode.",
+            "es": "Nacido en 1913 en la prefectura de Ehime, en la isla de Shikoku, Masanobu Fukuoka sigue primero una formación científica en microbiología y trabaja como inspector de aduanas especializado en enfermedades de las plantas, una carrera prometedora en la agronomía convencional de su época. Hacia los 25 años, una grave enfermedad pulmonar y una profunda crisis existencial lo llevan a un cuestionamiento radical: convencido de que «nada tiene sentido» en el saber humano acumulado, deja su puesto y regresa a trabajar la tierra familiar, donde pasa las décadas siguientes desarrollando y refinando su método.",
+            "ca": "Nascut el 1913 a la prefectura d'Ehime, a l'illa de Shikoku, Masanobu Fukuoka segueix primer una formació científica en microbiologia i treballa com a inspector de duanes especialitzat en malalties de les plantes, una carrera prometedora en l'agronomia convencional de la seva època. Cap als 25 anys, una greu malaltia pulmonar i una profunda crisi existencial el porten a un qüestionament radical: convençut que «res no té sentit» en el saber humà acumulat, deixa el seu càrrec i torna a treballar la terra familiar, on passa les dècades següents desenvolupant i refinant el seu mètode."
+          },
+          {
+            "h": {
+              "fr": "Le « non-agir »",
+              "es": "El «no hacer»",
+              "ca": "El «no fer»"
+            }
+          },
+          {
+            "fr": "Sa méthode, formalisée dans son ouvrage le plus connu, « La Révolution d'un seul brin de paille » (Shizen Nōhō, 1975), part d'une critique radicale de l'agriculture moderne, y compris de ses formes biologiques bien intentionnées : selon Fukuoka, la plupart des interventions humaines sur un champ — labour, fertilisation, désherbage, traitement phytosanitaire, taille — répondent en réalité à des déséquilibres que ces mêmes interventions ont elles-mêmes créés au fil des générations, dans une spirale d'intervention croissante. Il résume sa méthode en cinq principes négatifs devenus célèbres : pas de labour ni de retournement du sol, pas de fertilisant chimique ni même de compost préparé, pas de désherbage par sarclage ou herbicide, pas de dépendance aux pesticides, pas de taille des arbres fruitiers.",
+
+"es": "Su método, formalizado en su obra más conocida, «La revolución de una brizna de paja» (Shizen Nōhō, 1975), parte de una crítica radical de la agricultura moderna, incluidas sus formas orgánicas bien intencionadas: según Fukuoka, la mayoría de las intervenciones humanas en un campo —arado, fertilización, desherbado, tratamiento fitosanitario, poda— responden en realidad a desequilibrios que esas mismas intervenciones han creado a lo largo de generaciones, en una espiral de intervención creciente. Resume su método en cinco principios negativos que se han vuelto célebres: sin arado ni volteo del suelo, sin fertilizante químico ni siquiera compost preparado, sin desherbado por escarda o herbicida, sin dependencia de pesticidas, sin poda de árboles frutales.",
+            "ca": "El seu mètode, formalitzat a la seva obra més coneguda, «La revolució d'una brizna de palla» (Shizen Nōhō, 1975), parteix d'una crítica radical de l'agricultura moderna, incloses les seves formes orgàniques ben intencionades: segons Fukuoka, la majoria de les intervencions humanes en un camp —llaurada, fertilització, desherbatge, tractament fitosanitari, poda— responen en realitat a desequilibris que aquestes mateixes intervencions han creat al llarg de generacions, en una espiral d'intervenció creixent. Resumeix el seu mètode en cinc principis negatius que s'han fet cèlebres: sense llaurar ni voltejar el sòl, sense fertilitzant químic ni tan sols compost preparat, sense desherbatge per sacsejada o herbicida, sense dependència de pesticides, sense poda d'arbres fruiters."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice%20terraces%20in%20Jatiluwih%2C%20Tabanan%20Regency%2C%20Bali%2C%20Indonesia.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Balinese_subaks",
+              "credit": {
+                "es": "Terrazas de arroz del sistema subak, Jatiluwih, Bali — Wikimedia Commons.",
+                "ca": "Terrasses d'arròs del sistema subak, Jatiluwih, Bali — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une technique précise malgré le nom",
+              "es": "Una técnica precisa pese al nombre",
+              "ca": "Una tècnica precisa malgrat el nom"
+            }
+          },
+          {
+            "fr": "Contrairement à ce que le nom « agriculture du non-agir » pourrait suggérer, la méthode de Fukuoka repose sur une observation méticuleuse et des techniques précises plutôt que sur un simple abandon du terrain à lui-même. Sa technique la plus connue, les « boulettes d'argile » (tsuchi dango ou nendo dango), consiste à enrober des graines de plusieurs cultures différentes dans de l'argile mêlée de compost, puis à les disperser directement sur un sol jamais labouré, protégé en permanence par un paillis de paille qui retient l'humidité, étouffe les graines de mauvaises herbes déjà présentes dans le sol et se décompose lentement pour nourrir la terre. Sur ses propres parcelles de riz et d'orge cultivées en alternance sans jamais assécher complètement le sol, Fukuoka documente sur plusieurs décennies des rendements comparables, voire supérieurs, à ceux de l'agriculture chimique intensive environnante, avec une charge de travail considérablement réduite.",
+            "es": "A diferencia de lo que el nombre «agricultura del no hacer» podría sugerir, el método de Fukuoka se basa en una observación meticulosa y técnicas precisas más que en un simple abandono del terreno a sí mismo. Su técnica más conocida, las «bolas de arcilla» (tsuchi dango o nendo dango), consiste en envolver semillas de varios cultivos diferentes en arcilla mezclada con compost, y luego dispersarlas directamente sobre un suelo nunca arado, protegido permanentemente por un mantillo de paja que retiene la humedad, ahoga las semillas de malas hierbas ya presentes en el suelo y se descompone lentamente para alimentar la tierra. En sus propias parcelas de arroz y cebada cultivadas en alternancia sin nunca secar completamente el suelo, Fukuoka documenta a lo largo de varias décadas rendimientos comparables, incluso superiores, a los de la agricultura química intensiva circundante, con una carga de trabajo considerablemente reducida.",
+            "ca": "A diferència del que el nom «agricultura del no fer» podria suggerir, el mètode de Fukuoka es basa en una observació meticulosa i tècniques precises més que en un simple abandonament del terreny a si mateix. La seva tècnica més coneguda, les «boles d'argila» (tsuchi dango o nendo dango), consisteix a embolicar llavors de diversos conreus diferents en argila barrejada amb compost, i després dispersar-les directament sobre un sòl mai llaurat, protegit permanentment per un encoixinat de palla que reté la humitat, ofega les llavors de males herbes ja presents al sòl i es descompon lentament per alimentar la terra. A les seves pròpies parcel·les d'arròs i ordi conreades en alternança sense mai assecar completament el sòl, Fukuoka documenta al llarg de diverses dècades rendiments comparables, fins i tot superiors, als de l'agricultura química intensiva circumdant, amb una càrrega de treball considerablement reduïda."
+          },
+          {
+            "h": {
+              "fr": "Une philosophie autant qu'une technique",
+              "es": "Una filosofía tanto como una técnica",
+              "ca": "Una filosofia tant com una tècnica"
+            }
+          },
+          {
+            "fr": "Fukuoka insiste constamment sur le fait que sa méthode dépasse le cadre d'une simple technique agricole pour constituer une véritable philosophie de l'humilité face à la nature, teintée de bouddhisme zen et de taoïsme : il reproche à la science agronomique moderne son ambition de fragmenter et de contrôler chaque variable d'un système en réalité indivisible, un excès de confiance qu'il considère comme la cause profonde des problèmes mêmes que cette science prétend résoudre par toujours plus d'intervention. Sa citation la plus connue résume cette posture : « on ne sait pas grand-chose de la nature en essayant de la comprendre ; seul le fou pense pouvoir la comprendre ».",
+            "es": "Fukuoka insiste constantemente en que su método supera el marco de una simple técnica agrícola para constituir una verdadera filosofía de la humildad frente a la naturaleza, teñida de budismo zen y taoísmo: reprocha a la ciencia agronómica moderna su ambición de fragmentar y controlar cada variable de un sistema en realidad indivisible, un exceso de confianza que considera la causa profunda de los mismos problemas que esa ciencia pretende resolver con siempre más intervención. Su cita más conocida resume esta postura: «solo el necio piensa que puede entender la naturaleza».",
+            "ca": "Fukuoka insisteix constantment en el fet que el seu mètode supera el marc d'una simple tècnica agrícola per constituir una veritable filosofia de la humilitat davant la natura, tenyida de budisme zen i taoisme: retreu a la ciència agronòmica moderna la seva ambició de fragmentar i controlar cada variable d'un sistema en realitat indivisible, un excés de confiança que considera la causa profunda dels mateixos problemes que aquesta ciència pretén resoldre amb sempre més intervenció. La seva citació més coneguda resumeix aquesta postura: «només el neci pensa que pot entendre la natura»."
+          },
+          {
+            "fr": "Reconnu internationalement — il reçoit le prix Ramon Magsaysay en 1988, souvent considéré comme le « Nobel asiatique » — Fukuoka consacre ses dernières décennies à des projets de reboisement et de lutte contre la désertification en Inde, en Afrique et aux États-Unis, convaincu que sa méthode pouvait aussi bien régénérer des terres arides que produire de la nourriture. Il meurt en 2008 à 95 ans, laissant une influence considérable sur les mouvements ultérieurs de permaculture et d'agriculture régénérative, bien que sa méthode reste débattue quant à sa reproductibilité hors du climat et du sol très spécifiques de sa ferme au Japon.",
+            "es": "Reconocido internacionalmente —recibe el premio Ramon Magsaysay en 1988, a menudo considerado el «Nobel asiático»—, Fukuoka dedica sus últimas décadas a proyectos de reforestación y lucha contra la desertificación en la India, África y Estados Unidos, convencido de que su método podía tanto regenerar tierras áridas como producir alimentos. Muere en 2008 a los 95 años, dejando una influencia considerable en los movimientos posteriores de permacultura y agricultura regenerativa, aunque su método sigue siendo debatido en cuanto a su reproducibilidad fuera del clima y el suelo muy específicos de su granja en Japón.",
+            "ca": "Reconegut internacionalment —rep el premi Ramon Magsaysay el 1988, sovint considerat el «Nobel asiàtic»—, Fukuoka dedica les seves últimes dècades a projectes de reforestació i lluita contra la desertificació a l'Índia, l'Àfrica i els Estats Units, convençut que el seu mètode podia tant regenerar terres àrides com produir aliments. Mor el 2008 als 95 anys, deixant una influència considerable en els moviments posteriors de permacultura i agricultura regenerativa, encara que el seu mètode continua sent debatut quant a la seva reproductibilitat fora del clima i el sòl molt específics de la seva granja al Japó."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "labourer",
+          "es": "arar",
+          "ca": "llaurar"
+        },
+        {
+          "mot": "un paillis (de paille)",
+          "es": "un mantillo (de paja)",
+          "ca": "un encoixinat (de palla)"
+        },
+        {
+          "mot": "une boulette (d'argile)",
+          "es": "una bola (de arcilla)",
+          "ca": "una bola (d'argila)"
+        },
+        {
+          "mot": "l'humilité",
+          "es": "la humildad",
+          "ca": "la humilitat"
+        },
+        {
+          "mot": "un rendement",
+          "es": "un rendimiento",
+          "ca": "un rendiment"
+        },
+        {
+          "mot": "la désertification",
+          "es": "la desertificación",
+          "ca": "la desertificació"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuáles son los cinco principios de la agricultura natural de Fukuoka?",
+            "ca": "Quins són els cinc principis de l'agricultura natural de Fukuoka?"
+          },
+          "piste": {
+            "es": "sin arado, sin fertilizante, sin desherbado, sin pesticidas, sin poda",
+            "ca": "sense llaurar, sense fertilitzant, sense desherbatge, sense pesticides, sense poda"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué son las «bolas de arcilla»?",
+            "ca": "Què són les «boles d'argila»?"
+          },
+          "piste": {
+            "es": "semillas de varias plantas envueltas en arcilla, dispersadas sobre suelo no arado",
+            "ca": "llavors de diverses plantes embolicades en argila, dispersades sobre sòl no llaurat"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué premio internacional recibe Fukuoka en 1988?",
+            "ca": "Quin premi internacional rep Fukuoka el 1988?"
+          },
+          "piste": {
+            "es": "el premio Ramon Magsaysay",
+            "ca": "el premi Ramon Magsaysay"
+          }
+        },
+        {
+          "q": {
+            "es": "¿A qué proyectos dedica Fukuoka sus últimas décadas?",
+            "ca": "A quins projectes dedica Fukuoka les seves últimes dècades?"
+          },
+          "piste": {
+            "es": "reforestación y lucha contra la desertificación en India, África y EE. UU.",
+            "ca": "reforestació i lluita contra la desertificació a l'Índia, l'Àfrica i els EUA"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Masanobu Fukuoka",
+          "url": "https://en.wikipedia.org/wiki/Masanobu_Fukuoka"
+        },
+        {
+          "titre": "Wikipedia — Natural farming",
+          "url": "https://en.wikipedia.org/wiki/Natural_farming"
+        }
+      ]
+    }
+  ]
+}

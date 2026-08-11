@@ -1,0 +1,272 @@
+{
+  "textes": [
+    {
+      "id": "reseau_mycorhizien_entraide",
+      "emoji": "🍄",
+      "theme": "Écologie",
+      "periode": "1997 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mycorrhizal%20network.svg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg",
+        "credit": {
+          "es": "Esquema de una red micorrízica entre árboles — Wikimedia Commons.",
+          "ca": "Esquema d'una xarxa micorízica entre arbres — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "La red micorrízica: el «internet» de los bosques",
+        "ca": "La xarxa micorízica: l'«internet» dels boscos"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Sous la terre, dans une forêt, il existe un réseau caché de champignons qui relie les racines de presque tous les arbres entre eux.",
+            "es": "Bajo la tierra, en un bosque, existe una red oculta de hongos que conecta las raíces de casi todos los árboles entre sí.",
+            "ca": "Sota la terra, en un bosc, existeix una xarxa amagada de fongs que connecta les arrels de gairebé tots els arbres entre ells."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mycorrhizal%20network.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg",
+              "credit": {
+                "es": "Esquema de una red micorrízica entre árboles — Wikimedia Commons.",
+                "ca": "Esquema d'una xarxa micorízica entre arbres — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "On appelle ça la mycorhize : le champignon s'associe à la racine d'un arbre. Les deux s'aident mutuellement.",
+            "es": "Se llama micorriza: el hongo se asocia a la raíz de un árbol. Los dos se ayudan mutuamente.",
+            "ca": "Es diu micorriza: el fong s'associa a l'arrel d'un arbre. Els dos s'ajuden mútuament."
+          },
+          {
+            "fr": "L'arbre donne du sucre au champignon. Le champignon donne à l'arbre de l'eau et des minéraux qu'il trouve dans le sol.",
+            "es": "El árbol da azúcar al hongo. El hongo le da al árbol agua y minerales que encuentra en el suelo.",
+            "ca": "L'arbre dona sucre al fong. El fong dona a l'arbre aigua i minerals que troba al sòl."
+          },
+          {
+            "fr": "Une scientifique, Suzanne Simard, découvre que les arbres utilisent ce réseau pour s'envoyer de la nourriture entre eux.",
+            "es": "Una científica, Suzanne Simard, descubre que los árboles usan esta red para enviarse comida entre ellos.",
+            "ca": "Una científica, Suzanne Simard, descobreix que els arbres usen aquesta xarxa per enviar-se menjar entre ells."
+          },
+          {
+            "fr": "Un grand vieil arbre peut même envoyer du sucre à un jeune arbre à l'ombre, qui ne reçoit pas assez de soleil.",
+            "es": "Un gran árbol viejo puede incluso enviar azúcar a un árbol joven en la sombra, que no recibe suficiente sol.",
+            "ca": "Un gran arbre vell pot fins i tot enviar sucre a un arbre jove a l'ombra, que no rep prou sol."
+          },
+          {
+            "fr": "On appelle ça le « Wood Wide Web » — un jeu de mots avec Internet, parce que ça ressemble à un réseau social souterrain.",
+            "es": "Se llama «Wood Wide Web» —un juego de palabras con Internet, porque se parece a una red social subterránea.",
+            "ca": "Es diu «Wood Wide Web» —un joc de paraules amb Internet, perquè s'assembla a una xarxa social subterrània."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Sous la surface d'une forêt s'étend un réseau invisible formé par les mycorhizes : l'association symbiotique entre les filaments d'un champignon (le mycélium) et les racines des plantes. Ce partenariat, vieux d'environ 400 millions d'années, concerne la grande majorité des espèces végétales terrestres.",
+            "es": "Bajo la superficie de un bosque se extiende una red invisible formada por las micorrizas: la asociación simbiótica entre los filamentos de un hongo (el micelio) y las raíces de las plantas. Esta asociación, de unos 400 millones de años de antigüedad, concierne a la gran mayoría de las especies vegetales terrestres.",
+            "ca": "Sota la superfície d'un bosc s'estén una xarxa invisible formada per les micorizes: l'associació simbiòtica entre els filaments d'un fong (el miceli) i les arrels de les plantes. Aquesta associació, d'uns 400 milions d'anys d'antiguitat, concerneix la gran majoria de les espècies vegetals terrestres."
+          },
+          {
+            "h": {
+              "fr": "Un échange mutuellement bénéfique",
+              "es": "Un intercambio mutuamente beneficioso",
+              "ca": "Un intercanvi mútuament beneficiós"
+            }
+          },
+          {
+            "fr": "L'échange de base est simple : la plante, capable de photosynthèse, fournit au champignon des sucres qu'il ne peut pas produire lui-même ; en retour, le réseau de filaments fongiques, bien plus fin et étendu que les racines, capte l'eau et des minéraux (phosphore, azote) dans des zones du sol inaccessibles aux racines seules, et les transmet à la plante.",
+            "es": "El intercambio básico es simple: la planta, capaz de fotosíntesis, suministra al hongo azúcares que él no puede producir por sí mismo; a cambio, la red de filamentos fúngicos, mucho más fina y extendida que las raíces, capta agua y minerales (fósforo, nitrógeno) en zonas del suelo inaccesibles a las raíces solas, y los transmite a la planta.",
+            "ca": "L'intercanvi bàsic és simple: la planta, capaç de fotosíntesi, subministra al fong sucres que ell no pot produir per si mateix; a canvi, la xarxa de filaments fúngics, molt més fina i estesa que les arrels, capta aigua i minerals (fòsfor, nitrogen) en zones del sòl inaccessibles a les arrels soles, i els transmet a la planta."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mycorrhizal%20network.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg",
+              "credit": {
+                "es": "Esquema de una red micorrízica entre árboles — Wikimedia Commons.",
+                "ca": "Esquema d'una xarxa micorízica entre arbres — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Suzanne Simard et le « Wood Wide Web »",
+              "es": "Suzanne Simard y el «Wood Wide Web»",
+              "ca": "Suzanne Simard i el «Wood Wide Web»"
+            }
+          },
+          {
+            "fr": "Dans les années 1990, l'écologiste forestière canadienne Suzanne Simard démontre par des expériences de terrain que ce réseau relie non seulement un arbre à un seul champignon, mais des dizaines d'arbres différents, y compris d'espèces différentes, entre eux. Elle observe que des bouleaux en pleine lumière transfèrent du carbone à des sapins voisins poussant à l'ombre — un partage de ressources entre individus, voire entre espèces distinctes.",
+            "es": "En los años 1990, la ecóloga forestal canadiense Suzanne Simard demuestra mediante experimentos de campo que esta red no conecta solo un árbol con un único hongo, sino decenas de árboles diferentes, incluso de especies distintas, entre sí. Observa que abedules a pleno sol transfieren carbono a abetos vecinos que crecen a la sombra —un reparto de recursos entre individuos, incluso entre especies distintas.",
+            "ca": "Als anys 1990, l'ecòloga forestal canadenca Suzanne Simard demostra mitjançant experiments de camp que aquesta xarxa no connecta només un arbre amb un únic fong, sinó desenes d'arbres diferents, fins i tot d'espècies diferents, entre ells. Observa que bedolls a ple sol transfereixen carboni a avets veïns que creixen a l'ombra —un repartiment de recursos entre individus, fins i tot entre espècies diferents."
+          },
+          {
+            "fr": "Ce réseau est popularisé sous le nom de « Wood Wide Web », un jeu de mots avec Internet : les gros arbres les plus anciens, surnommés « arbres-mères » ou arbres-hubs, apparaissent particulièrement connectés, un peu comme les nœuds centraux d'un réseau informatique.",
+            "es": "Esta red se populariza bajo el nombre de «Wood Wide Web», un juego de palabras con Internet: los árboles más grandes y antiguos, apodados «árboles madre» o árboles-hub, aparecen particularmente conectados, un poco como los nodos centrales de una red informática.",
+            "ca": "Aquesta xarxa es popularitza sota el nom de «Wood Wide Web», un joc de paraules amb Internet: els arbres més grans i antics, anomenats «arbres mare» o arbres-hub, apareixen particularment connectats, una mica com els nodes centrals d'una xarxa informàtica."
+          },
+          {
+            "h": {
+              "fr": "Prudence scientifique",
+              "es": "Prudencia científica",
+              "ca": "Prudència científica"
+            }
+          },
+          {
+            "fr": "Ces découvertes ont profondément marqué l'imaginaire public, mais certains chercheurs appellent à la prudence : l'ampleur réelle du transfert de ressources et son bénéfice net pour l'arbre « donneur » restent débattus, et le champignon n'agit pas nécessairement par « altruisme » mais souvent par intérêt propre.",
+            "es": "Estos descubrimientos han marcado profundamente el imaginario público, pero algunos investigadores piden prudencia: la magnitud real de la transferencia de recursos y su beneficio neto para el árbol «donante» siguen siendo objeto de debate, y el hongo no actúa necesariamente por «altruismo» sino a menudo por interés propio.",
+            "ca": "Aquests descobriments han marcat profundament l'imaginari públic, però alguns investigadors demanen prudència: la magnitud real de la transferència de recursos i el seu benefici net per a l'arbre «donant» continuen sent objecte de debat, i el fong no actua necessàriament per «altruisme» sinó sovint per interès propi."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Sous la surface visible d'une forêt s'étend un réseau invisible mais omniprésent formé par les mycorhizes — de myco (champignon) et rhiza (racine) — l'association symbiotique entre les hyphes (filaments) d'un champignon et les racines des plantes vasculaires. Cette relation, dont les traces fossiles remontent à environ 400 millions d'années et qui aurait joué un rôle déterminant dans la colonisation des terres émergées par les plantes, concerne aujourd'hui plus de 90% des espèces végétales terrestres.",
+            "es": "Bajo la superficie visible de un bosque se extiende una red invisible pero omnipresente formada por las micorrizas —de myco (hongo) y rhiza (raíz)— la asociación simbiótica entre las hifas (filamentos) de un hongo y las raíces de las plantas vasculares. Esta relación, cuyos rastros fósiles se remontan a unos 400 millones de años y que habría jugado un papel determinante en la colonización de las tierras emergidas por las plantas, concierne hoy a más del 90% de las especies vegetales terrestres.",
+            "ca": "Sota la superfície visible d'un bosc s'estén una xarxa invisible però omnipresent formada per les micorizes —de myco (fong) i rhiza (arrel)— l'associació simbiòtica entre les hifes (filaments) d'un fong i les arrels de les plantes vasculars. Aquesta relació, els rastres fòssils de la qual remunten a uns 400 milions d'anys i que hauria jugat un paper determinant en la colonització de les terres emergides per les plantes, concerneix avui més del 90% de les espècies vegetals terrestres."
+          },
+          {
+            "h": {
+              "fr": "Un échange mutuellement bénéfique",
+              "es": "Un intercambio mutuamente beneficioso",
+              "ca": "Un intercanvi mútuament beneficiós"
+            }
+          },
+          {
+            "fr": "L'échange fondamental repose sur une complémentarité métabolique : la plante, seule capable de photosynthèse, cède au champignon une part significative — parfois jusqu'à 30% — des sucres qu'elle produit, une ressource carbonée que le champignon, dépourvu de chlorophylle, ne peut synthétiser lui-même. En retour, le réseau extraordinairement fin et ramifié des hyphes fongiques, dont la surface d'absorption dépasse largement celle des seules racines, explore un volume de sol bien plus vaste et capte l'eau ainsi que des minéraux peu mobiles comme le phosphore, qu'il transfère activement à la plante hôte — un mutualisme si profond que de nombreuses espèces végétales, en forêt notamment, sont incapables de survivre durablement sans leurs partenaires fongiques.",
+
+"es": "El intercambio fundamental se basa en una complementariedad metabólica: la planta, única capaz de fotosíntesis, cede al hongo una parte significativa —a veces hasta el 30%— de los azúcares que produce, un recurso carbonado que el hongo, desprovisto de clorofila, no puede sintetizar por sí mismo. A cambio, la red extraordinariamente fina y ramificada de las hifas fúngicas, cuya superficie de absorción supera ampliamente la de las solas raíces, explora un volumen de suelo mucho más amplio y capta agua así como minerales poco móviles como el fósforo, que transfiere activamente a la planta huésped —un mutualismo tan profundo que numerosas especies vegetales, especialmente en bosque, son incapaces de sobrevivir duraderamente sin sus socios fúngicos.",
+            "ca": "L'intercanvi fonamental es basa en una complementarietat metabòlica: la planta, única capaç de fotosíntesi, cedeix al fong una part significativa —de vegades fins al 30%— dels sucres que produeix, un recurs carbonat que el fong, desproveït de clorofil·la, no pot sintetitzar per si mateix. A canvi, la xarxa extraordinàriament fina i ramificada de les hifes fúngiques, la superfície d'absorció de la qual supera àmpliament la de les soles arrels, explora un volum de sòl molt més ampli i capta aigua així com minerals poc mòbils com el fòsfor, que transfereix activament a la planta hoste —un mutualisme tan profund que nombroses espècies vegetals, especialment en bosc, són incapaces de sobreviure duradorament sense els seus socis fúngics."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mycorrhizal%20network.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Mycorrhizal_network.svg",
+              "credit": {
+                "es": "Esquema de una red micorrízica entre árboles — Wikimedia Commons.",
+                "ca": "Esquema d'una xarxa micorízica entre arbres — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Suzanne Simard et le « Wood Wide Web »",
+              "es": "Suzanne Simard y el «Wood Wide Web»",
+              "ca": "Suzanne Simard i el «Wood Wide Web»"
+            }
+          },
+          {
+            "fr": "Dans les années 1990, l'écologiste forestière canadienne Suzanne Simard, alors doctorante à l'Université de l'Oregon, mène des expériences pionnières utilisant des isotopes radioactifs de carbone pour tracer les flux de sucres entre arbres reliés par un même réseau mycorhizien. Ses travaux, publiés notamment dans la revue Nature en 1997, démontrent que le réseau ne relie pas simplement un arbre isolé à un champignon, mais interconnecte des dizaines d'arbres, y compris d'espèces botaniquement distinctes — bouleaux et sapins de Douglas dans ses forêts d'étude en Colombie-Britannique — en un système où le carbone circule des individus en surplus (typiquement les arbres en pleine lumière) vers les individus en déficit (les jeunes plants à l'ombre du sous-bois).",
+            "es": "En los años 1990, la ecóloga forestal canadiense Suzanne Simard, entonces doctoranda en la Universidad de Oregón, dirige experimentos pioneros usando isótopos radiactivos de carbono para rastrear los flujos de azúcares entre árboles conectados por una misma red micorrízica. Sus trabajos, publicados especialmente en la revista Nature en 1997, demuestran que la red no conecta simplemente un árbol aislado con un hongo, sino que interconecta a decenas de árboles, incluso de especies botánicamente distintas —abedules y abetos de Douglas en sus bosques de estudio en Columbia Británica— en un sistema donde el carbono circula desde los individuos con superávit (típicamente los árboles a pleno sol) hacia los individuos con déficit (los brotes jóvenes a la sombra del sotobosque).",
+            "ca": "Als anys 1990, l'ecòloga forestal canadenca Suzanne Simard, aleshores doctoranda a la Universitat d'Oregon, dirigeix experiments pioners usant isòtops radioactius de carboni per rastrejar els fluxos de sucres entre arbres connectats per una mateixa xarxa micorízica. Els seus treballs, publicats especialment a la revista Nature el 1997, demostren que la xarxa no connecta simplement un arbre aïllat amb un fong, sinó que interconnecta desenes d'arbres, fins i tot d'espècies botànicament diferents —bedolls i avets de Douglas als seus boscos d'estudi a la Colúmbia Britànica— en un sistema on el carboni circula des dels individus amb superàvit (típicament els arbres a ple sol) cap als individus amb dèficit (els brots joves a l'ombra del sotabosc)."
+          },
+          {
+            "fr": "Ce réseau, popularisé sous le nom médiatique de « Wood Wide Web » forgé par le magazine Nature lui-même en 1997, révèle une structure où certains arbres particulièrement âgés et bien connectés — surnommés par Simard « arbres-mères » (mother trees) — occupent une position de hub central, reliés à des dizaines de jeunes arbres environnants et jouant potentiellement un rôle dans la transmission de signaux d'alerte chimiques face à des attaques d'insectes ou à un stress hydrique.",
+            "es": "Esta red, popularizada bajo el nombre mediático de «Wood Wide Web» acuñado por la propia revista Nature en 1997, revela una estructura donde ciertos árboles particularmente viejos y bien conectados —apodados por Simard «árboles madre» (mother trees)— ocupan una posición de nodo central, conectados a decenas de árboles jóvenes circundantes y jugando potencialmente un papel en la transmisión de señales de alerta químicas ante ataques de insectos o estrés hídrico.",
+            "ca": "Aquesta xarxa, popularitzada sota el nom mediàtic de «Wood Wide Web» encunyat per la mateixa revista Nature el 1997, revela una estructura on certs arbres particularment vells i ben connectats —anomenats per Simard «arbres mare» (mother trees)— ocupen una posició de node central, connectats a desenes d'arbres joves circumdants i jugant potencialment un paper en la transmissió de senyals d'alerta químiques davant atacs d'insectes o estrès hídric."
+          },
+          {
+            "h": {
+              "fr": "Prudence scientifique et débats en cours",
+              "es": "Prudencia científica y debates en curso",
+              "ca": "Prudència científica i debats en curs"
+            }
+          },
+          {
+            "fr": "Ces découvertes, largement relayées dans la culture populaire — notamment via le livre de vulgarisation du forestier allemand Peter Wohlleben, « La Vie secrète des arbres » (2015), et les propres mémoires de Simard, « Finding the Mother Tree » (2021) — ont profondément marqué l'imaginaire collectif autour d'une nature perçue comme intrinsèquement coopérative. Une partie de la communauté scientifique appelle néanmoins à une lecture plus prudente : plusieurs études de suivi peinent à reproduire l'ampleur du phénomène de transfert observé initialement, l'existence d'un « intérêt » ou d'une « intention » de la part de l'arbre-mère reste une interprétation anthropomorphique contestée, et le champignon lui-même n'agit pas nécessairement par altruisme envers les plantes mais souvent selon sa propre logique évolutive de maximisation de ses ressources.",
+            "es": "Estos descubrimientos, ampliamente difundidos en la cultura popular —especialmente a través del libro de divulgación del forestal alemán Peter Wohlleben, «La vida secreta de los árboles» (2015), y las propias memorias de Simard, «Finding the Mother Tree» (2021)— han marcado profundamente el imaginario colectivo en torno a una naturaleza percibida como intrínsecamente cooperativa. Sin embargo, parte de la comunidad científica pide una lectura más prudente: varios estudios de seguimiento tienen dificultades para reproducir la magnitud del fenómeno de transferencia observado inicialmente, la existencia de un «interés» o una «intención» por parte del árbol madre sigue siendo una interpretación antropomórfica disputada, y el propio hongo no actúa necesariamente por altruismo hacia las plantas sino a menudo según su propia lógica evolutiva de maximización de sus recursos.",
+            "ca": "Aquests descobriments, àmpliament difosos en la cultura popular —especialment a través del llibre de divulgació del forestal alemany Peter Wohlleben, «La vida secreta dels arbres» (2015), i les pròpies memòries de Simard, «Finding the Mother Tree» (2021)— han marcat profundament l'imaginari col·lectiu al voltant d'una natura percebuda com a intrínsecament cooperativa. Tanmateix, part de la comunitat científica demana una lectura més prudent: diversos estudis de seguiment tenen dificultats per reproduir la magnitud del fenomen de transferència observat inicialment, l'existència d'un «interès» o una «intenció» per part de l'arbre mare continua sent una interpretació antropomòrfica disputada, i el mateix fong no actua necessàriament per altruisme envers les plantes sinó sovint segons la seva pròpia lògica evolutiva de maximització dels seus recursos."
+          },
+          {
+            "fr": "Ces réserves n'invalident pas l'essentiel des découvertes de Simard, largement corroborées, mais rappellent qu'un système biologique complexe résiste souvent à des lectures trop simplement morales — une prudence qui vaut aussi, par analogie, pour l'usage politique ou philosophique qu'on pourrait être tenté de faire de ce type de découverte scientifique.",
+            "es": "Estas reservas no invalidan lo esencial de los descubrimientos de Simard, ampliamente corroborados, pero recuerdan que un sistema biológico complejo a menudo resiste lecturas demasiado simplemente morales —una prudencia que también vale, por analogía, para el uso político o filosófico que se podría estar tentado de hacer de este tipo de descubrimiento científico.",
+            "ca": "Aquestes reserves no invaliden l'essencial dels descobriments de Simard, àmpliament corroborats, però recorden que un sistema biològic complex sovint resisteix lectures massa simplement morals —una prudència que també val, per analogia, per a l'ús polític o filosòfic que es podria estar temptat de fer d'aquest tipus de descobriment científic."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une symbiose",
+          "es": "una simbiosis",
+          "ca": "una simbiosi"
+        },
+        {
+          "mot": "un hyphe (filament fongique)",
+          "es": "una hifa (filamento fúngico)",
+          "ca": "una hifa (filament fúngic)"
+        },
+        {
+          "mot": "un(e) hub (nœud central)",
+          "es": "un nodo central",
+          "ca": "un node central"
+        },
+        {
+          "mot": "un(e) arbre-mère",
+          "es": "un árbol madre",
+          "ca": "un arbre mare"
+        },
+        {
+          "mot": "anthropomorphique",
+          "es": "antropomórfico/a",
+          "ca": "antropomòrfic/a"
+        },
+        {
+          "mot": "corroboré(e)",
+          "es": "corroborado/a",
+          "ca": "corroborat/ada"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué intercambia la planta con el hongo micorrízico, y qué recibe a cambio?",
+            "ca": "Què intercanvia la planta amb el fong micorízic, i què rep a canvi?"
+          },
+          "piste": {
+            "es": "da azúcares, recibe agua y minerales como el fósforo",
+            "ca": "dona sucres, rep aigua i minerals com el fòsfor"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué demuestra Suzanne Simard en sus experimentos de los años 1990?",
+            "ca": "Què demostra Suzanne Simard en els seus experiments dels anys 1990?"
+          },
+          "piste": {
+            "es": "que el carbono circula entre árboles distintos, incluso de especies diferentes, vía la red fúngica",
+            "ca": "que el carboni circula entre arbres diferents, fins i tot d'espècies diferents, via la xarxa fúngica"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué son los «árboles madre»?",
+            "ca": "Què són els «arbres mare»?"
+          },
+          "piste": {
+            "es": "árboles viejos muy conectados que actúan como nodos centrales de la red",
+            "ca": "arbres vells molt connectats que actuen com a nodes centrals de la xarxa"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué prudencia piden algunos científicos frente a estos descubrimientos?",
+            "ca": "Quina prudència demanen alguns científics davant aquests descobriments?"
+          },
+          "piste": {
+            "es": "no atribuir intención o altruismo al árbol o al hongo de forma antropomórfica",
+            "ca": "no atribuir intenció o altruisme a l'arbre o al fong de manera antropomòrfica"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Mycorrhizal network",
+          "url": "https://en.wikipedia.org/wiki/Mycorrhizal_network"
+        },
+        {
+          "titre": "Wikipedia — Suzanne Simard",
+          "url": "https://en.wikipedia.org/wiki/Suzanne_Simard"
+        }
+      ]
+    }
+  ]
+}

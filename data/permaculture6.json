@@ -1,0 +1,267 @@
+{
+  "textes": [
+    {
+      "id": "forets_comestibles_food_forest",
+      "emoji": "🌳",
+      "theme": "Écologie",
+      "periode": "1960 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forest%20garden%207%20layers.gif?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Forest_garden_7_layers.gif",
+        "credit": {
+          "es": "Los siete estratos de un bosque comestible, diagrama de Graham Burnett — Wikimedia Commons.",
+          "ca": "Els set estrats d'un bosc comestible, diagrama de Graham Burnett — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Los bosques comestibles: siete pisos de comida",
+        "ca": "Els boscos comestibles: set pisos de menjar"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Une forêt comestible (food forest) est un jardin qui copie la structure d'une vraie forêt, mais avec des plantes qu'on peut manger.",
+            "es": "Un bosque comestible (food forest) es un huerto que copia la estructura de un verdadero bosque, pero con plantas que se pueden comer.",
+            "ca": "Un bosc comestible (food forest) és un hort que copia l'estructura d'un vertader bosc, però amb plantes que es poden menjar."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forest%20garden%207%20layers.gif?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Forest_garden_7_layers.gif",
+              "credit": {
+                "es": "Los siete estratos de un bosque comestible, diagrama de Graham Burnett — Wikimedia Commons.",
+                "ca": "Els set estrats d'un bosc comestible, diagrama de Graham Burnett — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Une vraie forêt a plusieurs étages : les grands arbres en haut, puis des arbres plus petits, des buissons, et des plantes au sol.",
+            "es": "Un verdadero bosque tiene varios pisos: los grandes árboles arriba, luego árboles más pequeños, arbustos, y plantas en el suelo.",
+            "ca": "Un vertader bosc té diversos pisos: els grans arbres a dalt, després arbres més petits, arbustos, i plantes al sòl."
+          },
+          {
+            "fr": "Dans une forêt comestible, chaque étage donne à manger : des noix en haut, des fruits au milieu, des légumes et des herbes en bas.",
+            "es": "En un bosque comestible, cada piso da de comer: nueces arriba, frutas en medio, verduras y hierbas abajo.",
+            "ca": "En un bosc comestible, cada pis dona de menjar: nous a dalt, fruites al mig, verdures i herbes a baix."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Hart%20(horticulturist).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Robert_Hart_(horticulturist).jpg",
+              "credit": {
+                "es": "Robert Hart, pionero del bosque comestible en clima templado — Wikimedia Commons.",
+                "ca": "Robert Hart, pioner del bosc comestible en clima temperat — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Un Anglais, Robert Hart, crée l'une des premières forêts comestibles modernes dans son jardin, dans les années 1960-1970.",
+            "es": "Un inglés, Robert Hart, crea uno de los primeros bosques comestibles modernos en su jardín, en los años 1960-1970.",
+            "ca": "Un anglès, Robert Hart, crea un dels primers boscos comestibles moderns al seu jardí, als anys 1960-1970."
+          },
+          {
+            "fr": "Une fois installée, une forêt comestible demande très peu de travail : elle s'entretient presque toute seule, comme une vraie forêt.",
+            "es": "Una vez instalado, un bosque comestible requiere muy poco trabajo: se mantiene casi solo, como un verdadero bosque.",
+            "ca": "Un cop instal·lat, un bosc comestible requereix molt poc treball: es manté gairebé sol, com un vertader bosc."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Une forêt comestible (food forest, ou forêt-jardin) est un système de culture qui reproduit délibérément la structure verticale d'un écosystème forestier naturel, mais en choisissant à chaque étage des espèces comestibles ou utiles pour l'humain, plutôt que de laisser la nature composer au hasard.",
+            "es": "Un bosque comestible (food forest, o bosque-jardín) es un sistema de cultivo que reproduce deliberadamente la estructura vertical de un ecosistema forestal natural, pero eligiendo en cada piso especies comestibles o útiles para el humano, en lugar de dejar que la naturaleza componga al azar.",
+            "ca": "Un bosc comestible (food forest, o bosc-jardí) és un sistema de conreu que reprodueix deliberadament l'estructura vertical d'un ecosistema forestal natural, però triant a cada pis espècies comestibles o útils per a l'humà, en comptes de deixar que la natura composi a l'atzar."
+          },
+          {
+            "h": {
+              "fr": "Sept étages superposés",
+              "es": "Siete pisos superpuestos",
+              "ca": "Set pisos superposats"
+            }
+          },
+          {
+            "fr": "Le modèle classique compte sept strates : la canopée (grands arbres fruitiers ou à noix), les arbres bas (variétés naines ou petits arbres), les arbustes (baies), la strate herbacée (légumes vivaces, herbes aromatiques), la strate couvre-sol (qui protège la terre et empêche les mauvaises herbes), la strate racinaire (légumes-racines) et les grimpantes (vignes, kiwis) qui utilisent la verticalité des arbres comme support.",
+            "es": "El modelo clásico cuenta con siete estratos: el dosel (grandes árboles frutales o de nueces), los árboles bajos (variedades enanas o árboles pequeños), los arbustos (bayas), el estrato herbáceo (verduras perennes, hierbas aromáticas), el estrato cubresuelo (que protege la tierra e impide las malas hierbas), el estrato radicular (verduras de raíz) y las trepadoras (vides, kiwis) que usan la verticalidad de los árboles como soporte.",
+            "ca": "El model clàssic compta amb set estrats: el dosser (grans arbres fruiters o de nous), els arbres baixos (varietats nanes o arbres petits), els arbustos (baies), l'estrat herbaci (verdures perennes, herbes aromàtiques), l'estrat cobresòl (que protegeix la terra i impedeix les males herbes), l'estrat radicular (verdures d'arrel) i les enfiladisses (vinyes, kiwis) que usen la verticalitat dels arbres com a suport."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Hart%20(horticulturist).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Robert_Hart_(horticulturist).jpg",
+              "credit": {
+                "es": "Robert Hart, pionero del bosque comestible en clima templado — Wikimedia Commons.",
+                "ca": "Robert Hart, pioner del bosc comestible en clima temperat — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Robert Hart, le pionnier britannique",
+              "es": "Robert Hart, el pionero británico",
+              "ca": "Robert Hart, el pioner britànic"
+            }
+          },
+          {
+            "fr": "Bien que le concept soit pratiqué depuis des millénaires dans les régions tropicales (jardins-forêts d'Asie du Sud-Est, d'Afrique de l'Ouest), c'est l'Anglais Robert Hart qui, dans les années 1960-1970, adapte cette logique aux climats tempérés dans son petit jardin du Shropshire, prouvant qu'un système comparable pouvait fonctionner même en dehors des tropiques.",
+            "es": "Aunque el concepto se practica desde hace milenios en las regiones tropicales (jardines-bosque del sudeste asiático, de África Occidental), es el inglés Robert Hart quien, en los años 1960-1970, adapta esta lógica a los climas templados en su pequeño jardín de Shropshire, demostrando que un sistema comparable podía funcionar incluso fuera de los trópicos.",
+            "ca": "Encara que el concepte es practica des de fa mil·lennis a les regions tropicals (jardins-bosc del sud-est asiàtic, de l'Àfrica Occidental), és l'anglès Robert Hart qui, als anys 1960-1970, adapta aquesta lògica als climes temperats al seu petit jardí de Shropshire, demostrant que un sistema comparable podia funcionar fins i tot fora dels tròpics."
+          },
+          {
+            "h": {
+              "fr": "Un système à faible entretien",
+              "es": "Un sistema de bajo mantenimiento",
+              "ca": "Un sistema de baix manteniment"
+            }
+          },
+          {
+            "fr": "Une fois établie, généralement après quelques années de croissance, une forêt comestible demande beaucoup moins d'entretien qu'un potager classique : les arbres et vivaces n'ont pas besoin d'être replantés chaque année, le couvre-sol limite le désherbage, et la diversité d'espèces limite naturellement la propagation des maladies et des ravageurs.",
+            "es": "Una vez establecido, generalmente tras algunos años de crecimiento, un bosque comestible requiere mucho menos mantenimiento que un huerto clásico: los árboles y perennes no necesitan replantarse cada año, el cubresuelo limita el desherbado, y la diversidad de especies limita naturalmente la propagación de enfermedades y plagas.",
+            "ca": "Un cop establert, generalment després d'alguns anys de creixement, un bosc comestible requereix molt menys manteniment que un hort clàssic: els arbres i perennes no necessiten replantar-se cada any, el cobresòl limita el desherbatge, i la diversitat d'espècies limita naturalment la propagació de malalties i plagues."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Une forêt comestible (food forest, ou forêt-jardin) est un système de culture qui reproduit délibérément l'architecture verticale à plusieurs strates d'un écosystème forestier naturel, en substituant à chaque niveau des espèces comestibles, médicinales ou utiles à l'humain, plutôt que de laisser la composition se faire au hasard de la succession écologique spontanée. Contrairement à un verger ou un potager classique, l'objectif est de créer un système suffisamment complexe et interconnecté pour devenir largement autonome une fois établi.",
+            "es": "Un bosque comestible (food forest, o bosque-jardín) es un sistema de cultivo que reproduce deliberadamente la arquitectura vertical de varios estratos de un ecosistema forestal natural, sustituyendo en cada nivel especies comestibles, medicinales o útiles para el humano, en lugar de dejar que la composición se haga al azar de la sucesión ecológica espontánea. A diferencia de un huerto frutal o un huerto clásico, el objetivo es crear un sistema suficientemente complejo e interconectado para volverse ampliamente autónomo una vez establecido.",
+            "ca": "Un bosc comestible (food forest, o bosc-jardí) és un sistema de conreu que reprodueix deliberadament l'arquitectura vertical de diversos estrats d'un ecosistema forestal natural, substituint a cada nivell espècies comestibles, medicinals o útils per a l'humà, en comptes de deixar que la composició es faci a l'atzar de la successió ecològica espontània. A diferència d'un hort fruiter o un hort clàssic, l'objectiu és crear un sistema prou complex i interconnectat per esdevenir àmpliament autònom un cop establert."
+          },
+          {
+            "h": {
+              "fr": "Sept (ou neuf) étages superposés",
+              "es": "Siete (o nueve) pisos superpuestos",
+              "ca": "Set (o nou) pisos superposats"
+            }
+          },
+
+{
+            "fr": "Le modèle classique, formalisé notamment par le pionnier Robert Hart, décrit sept strates fonctionnelles : la canopée (grands arbres fruitiers ou à coque, souvent des espèces fixatrices d'azote pour enrichir le sol de l'ensemble du système), la strate des petits arbres (variétés naines ou espèces naturellement basses), les arbustes fruitiers (groseilliers, framboisiers), la strate herbacée (légumes vivaces, plantes aromatiques et médicinales), la strate couvre-sol (rampante, qui protège la terre de l'érosion et de l'évaporation tout en supprimant la concurrence des adventices), la strate racinaire ou rhizosphère (légumes-racines, tubercules) et enfin les plantes grimpantes (vignes, kiwis, houblon) qui exploitent la verticalité offerte par les arbres. Certains praticiens contemporains, comme Dave Jacke et Eric Toensmeier, y ajoutent une huitième strate aquatique pour les zones humides et une neuvième strate mycélienne, reconnaissant le rôle fonctionnel des champignons dans le système global.",
+            "es": "El modelo clásico, formalizado especialmente por el pionero Robert Hart, describe siete estratos funcionales: el dosel (grandes árboles frutales o de fruto seco, a menudo especies fijadoras de nitrógeno para enriquecer el suelo de todo el sistema), el estrato de árboles pequeños (variedades enanas o especies naturalmente bajas), los arbustos frutales (grosellas, frambuesas), el estrato herbáceo (verduras perennes, plantas aromáticas y medicinales), el estrato cubresuelo (rastrero, que protege la tierra de la erosión y la evaporación mientras suprime la competencia de las adventicias), el estrato radicular o rizosfera (verduras de raíz, tubérculos) y finalmente las plantas trepadoras (vides, kiwis, lúpulo) que explotan la verticalidad ofrecida por los árboles. Algunos practicantes contemporáneos, como Dave Jacke y Eric Toensmeier, añaden un octavo estrato acuático para las zonas húmedas y un noveno estrato micelial, reconociendo el papel funcional de los hongos en el sistema global.",
+            "ca": "El model clàssic, formalitzat especialment pel pioner Robert Hart, descriu set estrats funcionals: el dosser (grans arbres fruiters o de fruita seca, sovint espècies fixadores de nitrogen per enriquir el sòl de tot el sistema), l'estrat d'arbres petits (varietats nanes o espècies naturalment baixes), els arbustos fruiters (groselles, gerds), l'estrat herbaci (verdures perennes, plantes aromàtiques i medicinals), l'estrat cobresòl (rastrer, que protegeix la terra de l'erosió i l'evaporació mentre suprimeix la competència de les adventícies), l'estrat radicular o rizosfera (verdures d'arrel, tubercles) i finalment les plantes enfiladisses (vinyes, kiwis, llúpol) que exploten la verticalitat oferta pels arbres. Alguns practicants contemporanis, com Dave Jacke i Eric Toensmeier, hi afegeixen un vuitè estrat aquàtic per a les zones humides i un novè estrat micelial, reconeixent el paper funcional dels fongs en el sistema global."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Hart%20(horticulturist).jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Robert_Hart_(horticulturist).jpg",
+              "credit": {
+                "es": "Robert Hart, pionero del bosque comestible en clima templado — Wikimedia Commons.",
+                "ca": "Robert Hart, pioner del bosc comestible en clima temperat — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Robert Hart, le pionnier britannique",
+              "es": "Robert Hart, el pionero británico",
+              "ca": "Robert Hart, el pioner britànic"
+            }
+          },
+          {
+            "fr": "Bien que le principe soit pratiqué depuis des millénaires dans de nombreuses régions tropicales — les jardins-forêts multiétagés d'Asie du Sud-Est, d'Afrique de l'Ouest ou d'Amazonie, souvent gérés par des communautés autochtones sur des générations sans être toujours reconnus comme des systèmes agricoles délibérés par les colonisateurs européens — c'est l'Anglais Robert Hart, agriculteur et écrivain, qui popularise le concept en climat tempéré à partir des années 1960 sur sa petite propriété de moins d'un demi-hectare dans le Shropshire. Diagnostiqué avec une santé fragile qui limitait sa capacité de travail physique intensif, Hart cherche délibérément un système productif nécessitant un minimum d'entretien manuel, documentant son expérience dans « Forest Gardening » (1991), qui devient une référence fondatrice du mouvement.",
+            "es": "Aunque el principio se practica desde hace milenios en numerosas regiones tropicales —los jardines-bosque de varios pisos del sudeste asiático, de África Occidental o de la Amazonía, a menudo gestionados por comunidades indígenas durante generaciones sin ser siempre reconocidos como sistemas agrícolas deliberados por los colonizadores europeos—, es el inglés Robert Hart, agricultor y escritor, quien populariza el concepto en clima templado a partir de los años 1960 en su pequeña propiedad de menos de media hectárea en Shropshire. Diagnosticado con una salud frágil que limitaba su capacidad de trabajo físico intensivo, Hart busca deliberadamente un sistema productivo que requiera un mínimo de mantenimiento manual, documentando su experiencia en «Forest Gardening» (1991), que se convierte en una referencia fundacional del movimiento.",
+            "ca": "Encara que el principi es practica des de fa mil·lennis en nombroses regions tropicals —els jardins-bosc de diversos pisos del sud-est asiàtic, de l'Àfrica Occidental o de l'Amazònia, sovint gestionats per comunitats indígenes durant generacions sense ser sempre reconeguts com a sistemes agrícoles deliberats pels colonitzadors europeus—, és l'anglès Robert Hart, agricultor i escriptor, qui popularitza el concepte en clima temperat a partir dels anys 1960 a la seva petita propietat de menys de mitja hectàrea a Shropshire. Diagnosticat amb una salut fràgil que limitava la seva capacitat de treball físic intensiu, Hart busca deliberadament un sistema productiu que requereixi un mínim de manteniment manual, documentant la seva experiència a «Forest Gardening» (1991), que esdevé una referència fundacional del moviment."
+          },
+          {
+            "h": {
+              "fr": "Un système à faible entretien, mais une conception exigeante",
+              "es": "Un sistema de bajo mantenimiento, pero un diseño exigente",
+              "ca": "Un sistema de baix manteniment, però un disseny exigent"
+            }
+          },
+          {
+            "fr": "Une fois établie — un processus qui prend généralement plusieurs années, le temps que les arbres atteignent une taille productive — une forêt comestible demande significativement moins d'entretien qu'un potager annuel classique : l'essentiel des espèces étant vivaces, il n'y a pas de replantation annuelle ; le couvre-sol limite fortement le désherbage ; et la diversité fonctionnelle du système — plantes fixatrices d'azote, insectes pollinisateurs attirés par la variété florale, prédateurs naturels des ravageurs trouvant refuge dans la structure complexe — limite naturellement la propagation des maladies et des nuisibles sans intervention chimique.",
+            "es": "Una vez establecido —un proceso que generalmente toma varios años, el tiempo para que los árboles alcancen un tamaño productivo—, un bosque comestible requiere significativamente menos mantenimiento que un huerto anual clásico: siendo la mayoría de las especies perennes, no hay replantación anual; el cubresuelo limita fuertemente el desherbado; y la diversidad funcional del sistema —plantas fijadoras de nitrógeno, insectos polinizadores atraídos por la variedad floral, depredadores naturales de las plagas que encuentran refugio en la estructura compleja— limita naturalmente la propagación de enfermedades y plagas sin intervención química.",
+            "ca": "Un cop establert —un procés que generalment triga diversos anys, el temps perquè els arbres arribin a una mida productiva—, un bosc comestible requereix significativament menys manteniment que un hort anual clàssic: sent la majoria de les espècies perennes, no hi ha replantació anual; el cobresòl limita fortament el desherbatge; i la diversitat funcional del sistema —plantes fixadores de nitrogen, insectes pol·linitzadors atrets per la varietat floral, depredadors naturals de les plagues que troben refugi en l'estructura complexa— limita naturalment la propagació de malalties i plagues sense intervenció química."
+          },
+          {
+            "fr": "La difficulté réelle se situe en amont, dans la phase de conception : choisir des espèces compatibles entre elles en termes de besoins en lumière, en eau et en nutriments, anticiper la croissance sur plusieurs décennies, et accepter une phase d'établissement plus lente et moins productive qu'un potager annuel — des contraintes qui expliquent que la forêt comestible reste, malgré son potentiel, une pratique encore relativement marginale par rapport aux méthodes maraîchères conventionnelles, y compris biologiques.",
+            "es": "La dificultad real se sitúa río arriba, en la fase de diseño: elegir especies compatibles entre sí en cuanto a necesidades de luz, agua y nutrientes, anticipar el crecimiento a lo largo de varias décadas, y aceptar una fase de establecimiento más lenta y menos productiva que un huerto anual —limitaciones que explican que el bosque comestible siga siendo, pese a su potencial, una práctica todavía relativamente marginal en comparación con los métodos hortícolas convencionales, incluidos los orgánicos.",
+            "ca": "La dificultat real es situa riu amunt, a la fase de disseny: triar espècies compatibles entre elles quant a necessitats de llum, aigua i nutrients, anticipar el creixement al llarg de diverses dècades, i acceptar una fase d'establiment més lenta i menys productiva que un hort anual —limitacions que expliquen que el bosc comestible continuï sent, malgrat el seu potencial, una pràctica encara relativament marginal en comparació amb els mètodes hortícoles convencionals, inclosos els orgànics."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "une strate (végétale)",
+          "es": "un estrato (vegetal)",
+          "ca": "un estrat (vegetal)"
+        },
+        {
+          "mot": "une canopée",
+          "es": "un dosel",
+          "ca": "un dosser"
+        },
+        {
+          "mot": "une vivace",
+          "es": "una perenne",
+          "ca": "una perenne"
+        },
+        {
+          "mot": "un couvre-sol",
+          "es": "un cubresuelo",
+          "ca": "un cobresòl"
+        },
+        {
+          "mot": "un ravageur",
+          "es": "una plaga",
+          "ca": "una plaga"
+        },
+        {
+          "mot": "un(e) adventice (mauvaise herbe)",
+          "es": "una adventicia (mala hierba)",
+          "ca": "una adventícia (mala herba)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Cuáles son los siete estratos clásicos de un bosque comestible?",
+            "ca": "Quins són els set estrats clàssics d'un bosc comestible?"
+          },
+          "piste": {
+            "es": "dosel, árboles bajos, arbustos, herbáceo, cubresuelo, radicular, trepadoras",
+            "ca": "dosser, arbres baixos, arbustos, herbaci, cobresòl, radicular, enfiladisses"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Quién populariza el bosque comestible en clima templado, y por qué?",
+            "ca": "Qui popularitza el bosc comestible en clima temperat, i per què?"
+          },
+          "piste": {
+            "es": "Robert Hart, porque su salud frágil requería un sistema de bajo mantenimiento físico",
+            "ca": "Robert Hart, perquè la seva salut fràgil requeria un sistema de baix manteniment físic"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Por qué un bosque comestible establecido necesita poco mantenimiento?",
+            "ca": "Per què un bosc comestible establert necessita poc manteniment?"
+          },
+          "piste": {
+            "es": "las especies son perennes, el cubresuelo limita el desherbado, la diversidad limita las plagas",
+            "ca": "les espècies són perennes, el cobresòl limita el desherbatge, la diversitat limita les plagues"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuál es la principal dificultad de un bosque comestible?",
+            "ca": "Quina és la principal dificultat d'un bosc comestible?"
+          },
+          "piste": {
+            "es": "la fase de diseño y la lenta fase de establecimiento inicial",
+            "ca": "la fase de disseny i la lenta fase d'establiment inicial"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Forest gardening",
+          "url": "https://en.wikipedia.org/wiki/Forest_gardening"
+        },
+        {
+          "titre": "Wikipedia — Robert Hart (horticulturist)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Hart_(horticulturist)"
+        }
+      ]
+    }
+  ]
+}

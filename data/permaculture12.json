@@ -1,0 +1,266 @@
+{
+  "textes": [
+    {
+      "id": "gestion_holistique_paturages_savory",
+      "emoji": "🐄",
+      "theme": "Écologie",
+      "periode": "1960 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Conservation%20Grazing%20Highland%20Cattle%20on%20the%20Wetland%20Centre%20Grazing%20Marsh.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/Category:Grazing_cattle",
+        "credit": {
+          "es": "Ganado en pastoreo de conservación — Wikimedia Commons.",
+          "ca": "Bestiar en pasturatge de conservació — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Allan Savory y el pastoreo holístico: una promesa muy debatida",
+        "ca": "Allan Savory i el pasturatge holístic: una promesa molt debatuda"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Allan Savory naît en 1935 en Rhodésie du Sud (aujourd'hui le Zimbabwe). Il devient biologiste de la faune sauvage.",
+            "es": "Allan Savory nace en 1935 en Rodesia del Sur (hoy Zimbabue). Se hace biólogo de fauna salvaje.",
+            "ca": "Allan Savory neix el 1935 a Rhodèsia del Sud (avui Zimbàbue). Es fa biòleg de fauna salvatge."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Conservation%20Grazing%20Highland%20Cattle%20on%20the%20Wetland%20Centre%20Grazing%20Marsh.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/Category:Grazing_cattle",
+              "credit": {
+                "es": "Ganado en pastoreo de conservación — Wikimedia Commons.",
+                "ca": "Bestiar en pasturatge de conservació — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Il observe que les grands troupeaux sauvages d'Afrique, comme les gnous, se déplacent tout le temps, sans jamais rester longtemps au même endroit.",
+            "es": "Observa que los grandes rebaños salvajes de África, como los ñus, se desplazan todo el tiempo, sin quedarse nunca mucho tiempo en el mismo lugar.",
+            "ca": "Observa que els grans ramats salvatges d'Àfrica, com els nyus, es desplacen tot el temps, sense quedar-se mai gaire temps al mateix lloc."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grazing,%20rotational.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Grazing,_rotational.svg",
+              "credit": {
+                "es": "Esquema del pastoreo rotativo — Wikimedia Commons.",
+                "ca": "Esquema del pasturatge rotatiu — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Son idée : si on fait bouger le bétail domestique de la même façon, en petits groupes serrés qui changent souvent de terrain, ça peut réparer des terres abîmées.",
+            "es": "Su idea: si se hace mover al ganado doméstico de la misma manera, en pequeños grupos apretados que cambian a menudo de terreno, eso puede reparar tierras dañadas.",
+            "ca": "La seva idea: si es fa moure el bestiar domèstic de la mateixa manera, en petits grups atapeïts que canvien sovint de terreny, això pot reparar terres malmeses."
+          },
+          {
+            "fr": "Mais attention : beaucoup de scientifiques ne sont pas du tout d'accord avec lui. C'est une méthode très débattue.",
+            "es": "Pero cuidado: muchos científicos no están de acuerdo con él en absoluto. Es un método muy debatido.",
+            "ca": "Però compte: molts científics no hi estan gens d'acord. És un mètode molt debatut."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Né en 1935 en Rhodésie du Sud (aujourd'hui le Zimbabwe), Allan Savory travaille d'abord comme biologiste de la faune sauvage, puis comme soldat et homme politique, avant de développer à partir des années 1960 sa théorie de la « gestion holistique ».",
+            "es": "Nacido en 1935 en Rodesia del Sur (hoy Zimbabue), Allan Savory trabaja primero como biólogo de fauna salvaje, y luego como soldado y político, antes de desarrollar a partir de los años 1960 su teoría de la «gestión holística».",
+            "ca": "Nascut el 1935 a Rhodèsia del Sud (avui Zimbàbue), Allan Savory treballa primer com a biòleg de fauna salvatge, i després com a soldat i polític, abans de desenvolupar a partir dels anys 1960 la seva teoria de la «gestió holística»."
+          },
+          {
+            "h": {
+              "fr": "Imiter les grands troupeaux sauvages",
+              "es": "Imitar las grandes manadas salvajes",
+              "ca": "Imitar els grans ramats salvatges"
+            }
+          },
+          {
+            "fr": "Son point de départ est une observation : dans les écosystèmes africains, les grands herbivores sauvages (gnous, zèbres, buffles) se déplacent en troupeaux denses et compacts, poussés par la pression des prédateurs, piétinant et fertilisant intensément un endroit avant de partir, laissant le temps à la végétation de repousser longuement avant leur retour. Savory en déduit que ce n'est pas la présence d'herbivores qui dégrade les prairies, mais l'absence de ce mouvement naturel — un bétail statique, laissé trop longtemps au même endroit, surexploite sélectivement certaines plantes pendant que d'autres zones restent sous-exploitées.",
+            "es": "Su punto de partida es una observación: en los ecosistemas africanos, los grandes herbívoros salvajes (ñus, cebras, búfalos) se desplazan en manadas densas y compactas, empujados por la presión de los depredadores, pisoteando y fertilizando intensamente un lugar antes de partir, dejando tiempo a la vegetación para rebrotar largamente antes de su regreso. Savory deduce de ello que no es la presencia de herbívoros lo que degrada las praderas, sino la ausencia de ese movimiento natural —un ganado estático, dejado demasiado tiempo en el mismo lugar, sobreexplota selectivamente ciertas plantas mientras otras zonas quedan subexplotadas.",
+            "ca": "El seu punt de partida és una observació: en els ecosistemes africans, els grans herbívors salvatges (nyus, zebres, búfals) es desplacen en ramats densos i compactes, empesos per la pressió dels depredadors, trepitjant i fertilitzant intensament un lloc abans de marxar, deixant temps a la vegetació per rebrotar llargament abans del seu retorn. Savory en dedueix que no és la presència d'herbívors el que degrada les prades, sinó l'absència d'aquest moviment natural —un bestiar estàtic, deixat massa temps al mateix lloc, sobreexplota selectivament certes plantes mentre altres zones queden subexplotades."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grazing,%20rotational.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Grazing,_rotational.svg",
+              "credit": {
+                "es": "Esquema del pastoreo rotativo — Wikimedia Commons.",
+                "ca": "Esquema del pasturatge rotatiu — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le pâturage tournant intensif",
+              "es": "El pastoreo rotativo intensivo",
+              "ca": "El pasturatge rotatiu intensiu"
+            }
+          },
+          {
+            "fr": "Sa méthode consiste à regrouper le bétail en troupeaux denses, qui pâturent intensément une petite parcelle pendant une courte période avant d'être déplacés vers une nouvelle parcelle, laissant à la précédente un long temps de repos pour récupérer. Savory affirme que cette technique peut inverser la désertification et augmenter la capacité des sols à stocker du carbone, à une échelle qui pourrait avoir un impact significatif sur le changement climatique.",
+            "es": "Su método consiste en agrupar el ganado en manadas densas, que pastan intensamente una pequeña parcela durante un corto período antes de ser trasladadas a una nueva parcela, dejando a la anterior un largo tiempo de descanso para recuperarse. Savory afirma que esta técnica puede revertir la desertificación y aumentar la capacidad de los suelos para almacenar carbono, a una escala que podría tener un impacto significativo sobre el cambio climático.",
+            "ca": "El seu mètode consisteix a agrupar el bestiar en ramats densos, que pasturen intensament una petita parcel·la durant un curt període abans de ser traslladades a una nova parcel·la, deixant a l'anterior un llarg temps de descans per recuperar-se. Savory afirma que aquesta tècnica pot invertir la desertificació i augmentar la capacitat dels sòls per emmagatzemar carboni, a una escala que podria tenir un impacte significatiu sobre el canvi climàtic."
+          },
+          {
+            "h": {
+              "fr": "Une méthode scientifiquement très contestée",
+              "es": "Un método científicamente muy cuestionado",
+              "ca": "Un mètode científicament molt qüestionat"
+            }
+          },
+          {
+            "fr": "Cette méthode reste toutefois l'objet d'un débat scientifique vif : plusieurs études de synthèse n'ont pas réussi à confirmer l'ampleur des bénéfices avancés par Savory, notamment en matière de séquestration de carbone, et des critiques comme le journaliste George Monbiot estiment que ses affirmations ne sont pas suffisamment étayées par des preuves expérimentales rigoureuses. D'autres chercheurs et éleveurs défendent au contraire des résultats positifs documentés sur le terrain, notamment en matière de rétention d'eau dans le sol.",
+            "es": "Este método sigue siendo sin embargo objeto de un vivo debate científico: varios estudios de síntesis no han logrado confirmar la magnitud de los beneficios que Savory afirma, especialmente en materia de secuestro de carbono, y críticos como el periodista George Monbiot consideran que sus afirmaciones no están suficientemente respaldadas por pruebas experimentales rigurosas. Otros investigadores y ganaderos defienden en cambio resultados positivos documentados sobre el terreno, especialmente en materia de retención de agua en el suelo.",
+            "ca": "Aquest mètode continua sent tanmateix objecte d'un viu debat científic: diversos estudis de síntesi no han aconseguit confirmar la magnitud dels beneficis que Savory afirma, especialment en matèria de segrest de carboni, i crítics com el periodista George Monbiot consideren que les seves afirmacions no estan prou avalades per proves experimentals rigoroses. Altres investigadors i ramaders defensen en canvi resultats positius documentats sobre el terreny, especialment en matèria de retenció d'aigua al sòl."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Né en 1935 à Bulawayo, en Rhodésie du Sud (aujourd'hui le Zimbabwe), Clifford Allan Redin Savory suit une trajectoire personnelle atypique — biologiste de la faune sauvage, soldat, fonctionnaire, député puis chef de parti politique rhodésien, avant de devenir fermier et consultant en gestion des terres. C'est au fil de ces expériences successives, et notamment de son travail initial sur la gestion des populations d'éléphants dans les années 1950-1960, qu'il développe progressivement la théorie qui deviendra la « gestion holistique » (Holistic Management).",
+            "es": "Nacido en 1935 en Bulawayo, Rodesia del Sur (hoy Zimbabue), Clifford Allan Redin Savory sigue una trayectoria personal atípica —biólogo de fauna salvaje, soldado, funcionario, diputado y luego líder de partido político rodesiano, antes de convertirse en granjero y consultor en gestión de tierras. Es a lo largo de estas experiencias sucesivas, y especialmente de su trabajo inicial sobre la gestión de las poblaciones de elefantes en los años 1950-1960, que desarrolla progresivamente la teoría que se convertirá en la «gestión holística» (Holistic Management).",
+            "ca": "Nascut el 1935 a Bulawayo, Rhodèsia del Sud (avui Zimbàbue), Clifford Allan Redin Savory segueix una trajectòria personal atípica —biòleg de fauna salvatge, soldat, funcionari, diputat i després líder de partit polític rhodesià, abans de convertir-se en granger i consultor en gestió de terres. És al llarg d'aquestes experiències successives, i especialment del seu treball inicial sobre la gestió de les poblacions d'elefants als anys 1950-1960, que desenvolupa progressivament la teoria que esdevindrà la «gestió holística» (Holistic Management)."
+          },
+          {
+            "h": {
+              "fr": "Imiter les grands troupeaux sauvages",
+              "es": "Imitar las grandes manadas salvajes",
+              "ca": "Imitar els grans ramats salvatges"
+            }
+          },
+          {
+            "fr": "Le point de départ théorique de Savory, influencé notamment par les travaux antérieurs de l'agronome français André Voisin sur la physiologie du pâturage, repose sur une observation des écosystèmes de prairies africaines : les grands herbivores sauvages en troupeaux (gnous, zèbres, buffles) s'y déplacent historiquement en groupes denses et compacts, un comportement co-évolué avec la pression de prédation, piétinant intensément le sol et le fertilisant de leurs déjections avant de migrer, laissant ensuite la végétation se régénérer pendant de longues périodes sans pâturage. Savory soutient que le véritable facteur de dégradation des prairies arides et semi-arides n'est donc pas le surpâturage lié au nombre d'animaux en tant que tel, mais la durée pendant laquelle les plantes restent exposées à la dent des herbivores — reprenant directement la thèse centrale de Voisin selon laquelle le surpâturage résulte du temps d'exposition des plantes aux animaux, non de la taille du troupeau.",
+
+"es": "El punto de partida teórico de Savory, influido especialmente por los trabajos anteriores del agrónomo francés André Voisin sobre la fisiología del pastoreo, se basa en una observación de los ecosistemas de praderas africanas: los grandes herbívoros salvajes en manada (ñus, cebras, búfalos) se desplazan allí históricamente en grupos densos y compactos, un comportamiento coevolucionado con la presión de depredación, pisoteando intensamente el suelo y fertilizándolo con sus excrementos antes de migrar, dejando luego que la vegetación se regenere durante largos períodos sin pastoreo. Savory sostiene que el verdadero factor de degradación de las praderas áridas y semiáridas no es entonces el sobrepastoreo ligado al número de animales en sí, sino la duración durante la cual las plantas permanecen expuestas al diente de los herbívoros —retomando directamente la tesis central de Voisin según la cual el sobrepastoreo resulta del tiempo de exposición de las plantas a los animales, no del tamaño de la manada.",
+            "ca": "El punt de partida teòric de Savory, influït especialment pels treballs anteriors de l'agrònom francès André Voisin sobre la fisiologia del pasturatge, es basa en una observació dels ecosistemes de prades africanes: els grans herbívors salvatges en ramat (nyus, zebres, búfals) s'hi desplacen històricament en grups densos i compactes, un comportament coevolucionat amb la pressió de depredació, trepitjant intensament el sòl i fertilitzant-lo amb els seus excrements abans de migrar, deixant després que la vegetació es regeneri durant llargs períodes sense pasturatge. Savory sosté que el veritable factor de degradació de les prades àrides i semiàrides no és doncs el sobrepasturatge lligat al nombre d'animals en si, sinó la durada durant la qual les plantes romanen exposades a la dent dels herbívors —reprenent directament la tesi central de Voisin segons la qual el sobrepasturatge resulta del temps d'exposició de les plantes als animals, no de la mida del ramat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grazing,%20rotational.svg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Grazing,_rotational.svg",
+              "credit": {
+                "es": "Esquema del pastoreo rotativo — Wikimedia Commons.",
+                "ca": "Esquema del pasturatge rotatiu — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Le pâturage holistique planifié",
+              "es": "El pastoreo holístico planificado",
+              "ca": "El pasturatge holístic planificat"
+            }
+          },
+          {
+            "fr": "La technique qui découle de cette théorie, le « pâturage holistique planifié » (Holistic Planned Grazing), consiste à regrouper artificiellement le bétail domestique — imitant l'effet de la prédation naturelle — en troupeaux denses, qui pâturent intensément une parcelle délimitée (un « paddock ») pendant une durée courte et soigneusement planifiée, avant d'être déplacés systématiquement vers une nouvelle parcelle, laissant à celle qu'ils quittent une période de repos suffisamment longue pour permettre une récupération complète de la végétation avant tout nouveau passage. Selon Savory et l'institut qui porte son nom, cette méthode, appliquée sur plus de 16 millions d'hectares à travers le monde selon leurs propres estimations, pourrait potentiellement inverser la désertification sur des milliards d'hectares de prairies dégradées et séquestrer des quantités très importantes de carbone atmosphérique dans la matière organique du sol — une affirmation qui a valu à Savory une reconnaissance internationale considérable, notamment à travers une conférence TED largement diffusée en 2013 et le prix Buckminster Fuller Challenge en 2010.",
+            "es": "La técnica que se deriva de esta teoría, el «pastoreo holístico planificado» (Holistic Planned Grazing), consiste en agrupar artificialmente el ganado doméstico —imitando el efecto de la depredación natural— en manadas densas, que pastan intensamente una parcela delimitada (un «paddock») durante una duración corta y cuidadosamente planificada, antes de ser trasladadas sistemáticamente a una nueva parcela, dejando a la que abandonan un período de descanso suficientemente largo para permitir una recuperación completa de la vegetación antes de cualquier nuevo paso. Según Savory y el instituto que lleva su nombre, este método, aplicado en más de 16 millones de hectáreas por todo el mundo según sus propias estimaciones, podría potencialmente revertir la desertificación en miles de millones de hectáreas de praderas degradadas y secuestrar cantidades muy importantes de carbono atmosférico en la materia orgánica del suelo —una afirmación que le valió a Savory un reconocimiento internacional considerable, especialmente a través de una conferencia TED ampliamente difundida en 2013 y el premio Buckminster Fuller Challenge en 2010.",
+            "ca": "La tècnica que es deriva d'aquesta teoria, el «pasturatge holístic planificat» (Holistic Planned Grazing), consisteix a agrupar artificialment el bestiar domèstic —imitant l'efecte de la depredació natural— en ramats densos, que pasturen intensament una parcel·la delimitada (un «paddock») durant una durada curta i acuradament planificada, abans de ser traslladades sistemàticament a una nova parcel·la, deixant a la que abandonen un període de descans prou llarg per permetre una recuperació completa de la vegetació abans de qualsevol nou pas. Segons Savory i l'institut que porta el seu nom, aquest mètode, aplicat en més de 16 milions d'hectàrees arreu del món segons les seves pròpies estimacions, podria potencialment invertir la desertificació en milers de milions d'hectàrees de prades degradades i segrestar quantitats molt importants de carboni atmosfèric en la matèria orgànica del sòl —una afirmació que va valer a Savory un reconeixement internacional considerable, especialment a través d'una conferència TED àmpliament difosa el 2013 i el premi Buckminster Fuller Challenge el 2010."
+          },
+          {
+            "h": {
+              "fr": "Une méthode scientifiquement très contestée",
+              "es": "Un método científicamente muy cuestionado",
+              "ca": "Un mètode científicament molt qüestionat"
+            }
+          },
+          {
+            "fr": "Les affirmations de Savory font toutefois l'objet d'une controverse scientifique importante et non résolue. Plusieurs revues systématiques de la littérature scientifique, notamment une synthèse influente de Briske et ses collègues en 2008 portant sur plus de quarante études, n'ont pas trouvé de preuves solides que le pâturage en rotation intensive produise des résultats écologiques significativement supérieurs au pâturage continu classique dans la majorité des contextes étudiés. Le journaliste environnemental George Monbiot a publiquement déclaré que les affirmations de Savory ne sont pas soutenues par des preuves empiriques et expérimentales rigoureuses, et qu'à certains égards ses techniques pourraient causer plus de dégâts que de bénéfices — une critique à laquelle plusieurs défenseurs de Savory, dont l'environnementaliste Hunter Lovins, ont vivement répondu dans la presse.",
+            "es": "Las afirmaciones de Savory son sin embargo objeto de una controversia científica importante y no resuelta. Varias revisiones sistemáticas de la literatura científica, especialmente una síntesis influyente de Briske y sus colegas en 2008 sobre más de cuarenta estudios, no encontraron pruebas sólidas de que el pastoreo en rotación intensiva produzca resultados ecológicos significativamente superiores al pastoreo continuo clásico en la mayoría de los contextos estudiados. El periodista ambiental George Monbiot ha declarado públicamente que las afirmaciones de Savory no están respaldadas por pruebas empíricas y experimentales rigurosas, y que en ciertos aspectos sus técnicas podrían causar más daño que beneficio —una crítica a la que varios defensores de Savory, entre ellos la ambientalista Hunter Lovins, han respondido enérgicamente en la prensa.",
+            "ca": "Les afirmacions de Savory són tanmateix objecte d'una controvèrsia científica important i no resolta. Diverses revisions sistemàtiques de la literatura científica, especialment una síntesi influent de Briske i els seus col·legues el 2008 sobre més de quaranta estudis, no van trobar proves sòlides que el pasturatge en rotació intensiva produeixi resultats ecològics significativament superiors al pasturatge continu clàssic en la majoria dels contextos estudiats. El periodista ambiental George Monbiot ha declarat públicament que les afirmacions de Savory no estan avalades per proves empíriques i experimentals rigoroses, i que en certs aspectes les seves tècniques podrien causar més dany que benefici —una crítica a la qual diversos defensors de Savory, entre ells l'ambientalista Hunter Lovins, han respost enèrgicament a la premsa."
+          },
+          {
+            "fr": "Le débat porte notamment sur l'ampleur réelle de la séquestration de carbone que la méthode permettrait : plusieurs études de terrain suggèrent des taux de stockage nettement inférieurs à ceux avancés par l'Institut Savory, tandis que des critiques comme l'historien environnemental James E. McWilliams reprochent à Savory de s'accrocher à des conclusions scientifiquement contestables malgré les preuves contraires accumulées. Cette controverse illustre une tension méthodologique plus large : contrairement aux résultats de recherche de Suzanne Simard sur les réseaux mycorhiziens, largement corroborés par des études indépendantes, les affirmations les plus ambitieuses de Savory concernant l'échelle planétaire de sa méthode restent, à ce jour, insuffisamment étayées par un consensus scientifique clair.",
+            "es": "El debate se centra especialmente en la magnitud real del secuestro de carbono que el método permitiría: varios estudios de campo sugieren tasas de almacenamiento claramente inferiores a las que afirma el Instituto Savory, mientras que críticos como el historiador ambiental James E. McWilliams le reprochan a Savory aferrarse a conclusiones científicamente cuestionables pese a las pruebas contrarias acumuladas. Esta controversia ilustra una tensión metodológica más amplia: a diferencia de los resultados de investigación de Suzanne Simard sobre las redes micorrízicas, ampliamente corroborados por estudios independientes, las afirmaciones más ambiciosas de Savory respecto a la escala planetaria de su método siguen, a día de hoy, insuficientemente respaldadas por un consenso científico claro.",
+            "ca": "El debat se centra especialment en la magnitud real del segrest de carboni que el mètode permetria: diversos estudis de camp suggereixen taxes d'emmagatzematge clarament inferiors a les que afirma l'Institut Savory, mentre que crítics com l'historiador ambiental James E. McWilliams retreuen a Savory aferrar-se a conclusions científicament qüestionables malgrat les proves contràries acumulades. Aquesta controvèrsia il·lustra una tensió metodològica més àmplia: a diferència dels resultats de recerca de Suzanne Simard sobre les xarxes micorízqiques, àmpliament corroborats per estudis independents, les afirmacions més ambicioses de Savory respecte a l'escala planetària del seu mètode continuen, a dia d'avui, insuficientment avalades per un consens científic clar."
+          }
+        ]
+      },
+      "note": {
+        "es": "Tema científicamente debatido: las afirmaciones de Allan Savory sobre el pastoreo holístico son objeto de controversia real en la comunidad científica; este texto presenta tanto la teoría como sus críticas.",
+        "ca": "Tema científicament debatut: les afirmacions d'Allan Savory sobre el pasturatge holístic són objecte de controvèrsia real en la comunitat científica; aquest text presenta tant la teoria com les seves crítiques."
+      },
+      "mots_cles": [
+        {
+          "mot": "un herbivore",
+          "es": "un herbívoro",
+          "ca": "un herbívor"
+        },
+        {
+          "mot": "piétiner",
+          "es": "pisotear",
+          "ca": "trepitjar"
+        },
+        {
+          "mot": "un paddock (enclos)",
+          "es": "un paddock (cercado)",
+          "ca": "un paddock (tancat)"
+        },
+        {
+          "mot": "séquestrer (le carbone)",
+          "es": "secuestrar (el carbono)",
+          "ca": "segrestar (el carboni)"
+        },
+        {
+          "mot": "une controverse",
+          "es": "una controversia",
+          "ca": "una controvèrsia"
+        },
+        {
+          "mot": "un consensus (scientifique)",
+          "es": "un consenso (científico)",
+          "ca": "un consens (científic)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué observa Savory sobre los grandes rebaños salvajes africanos?",
+            "ca": "Què observa Savory sobre els grans ramats salvatges africans?"
+          },
+          "piste": {
+            "es": "se desplazan en grupos densos, pisotean y fertilizan antes de migrar",
+            "ca": "es desplacen en grups densos, trepitgen i fertilitzen abans de migrar"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Según Savory, cuál es el verdadero factor de degradación de las praderas?",
+            "ca": "Segons Savory, quin és el veritable factor de degradació de les prades?"
+          },
+          "piste": {
+            "es": "el tiempo de exposición de las plantas a los animales, no el número de animales",
+            "ca": "el temps d'exposició de les plantes als animals, no el nombre d'animals"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué critica George Monbiot a las afirmaciones de Savory?",
+            "ca": "Què critica George Monbiot a les afirmacions de Savory?"
+          },
+          "piste": {
+            "es": "que no están respaldadas por pruebas empíricas rigurosas",
+            "ca": "que no estan avalades per proves empíriques riguroses"
+          }
+        },
+        {
+          "q": {
+            "es": "¿En qué se diferencia el caso de Savory del de Suzanne Simard sobre las redes micorrízicas?",
+            "ca": "En què es diferencia el cas de Savory del de Suzanne Simard sobre les xarxes micorízqiques?"
+          },
+          "piste": {
+            "es": "los resultados de Simard están más corroborados científicamente que las afirmaciones más ambiciosas de Savory",
+            "ca": "els resultats de Simard estan més corroborats científicament que les afirmacions més ambicioses de Savory"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Allan Savory",
+          "url": "https://en.wikipedia.org/wiki/Allan_Savory"
+        },
+        {
+          "titre": "Wikipedia — Holistic management (agriculture)",
+          "url": "https://en.wikipedia.org/wiki/Holistic_management_(agriculture)"
+        }
+      ]
+    }
+  ]
+}

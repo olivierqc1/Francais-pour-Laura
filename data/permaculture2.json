@@ -1,0 +1,138 @@
+{
+  "textes": [
+    {
+      "id": "aquaponie_aquaculture_durable",
+      "emoji": "🐟",
+      "theme": "Écologie",
+      "periode": "Antiquité – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquaponics%20with%20catfish.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Aquaponics_with_catfish.jpg",
+        "credit": {
+          "es": "Sistema de acuaponía con siluros — Wikimedia Commons.",
+          "ca": "Sistema d'aquaponia amb silurs — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Acuaponía: cuando los peces alimentan las plantas",
+        "ca": "Aquaponia: quan els peixos alimenten les plantes"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "L'aquaponie combine deux choses : élever des poissons dans un bassin, et cultiver des plantes sans terre, dans l'eau.",
+            "es": "La acuaponía combina dos cosas: criar peces en un estanque, y cultivar plantas sin tierra, en el agua.",
+            "ca": "L'aquaponia combina dues coses: criar peixos en un estany, i conrear plantes sense terra, a l'aigua."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aquaponics%20with%20catfish.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Aquaponics_with_catfish.jpg",
+              "credit": {
+                "es": "Sistema de acuaponía con siluros — Wikimedia Commons.",
+                "ca": "Sistema d'aquaponia amb silurs — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Les poissons produisent des déjections. Ces déjections contiennent de l'azote, une nourriture parfaite pour les plantes.",
+            "es": "Los peces producen desechos. Esos desechos contienen nitrógeno, un alimento perfecto para las plantas.",
+            "ca": "Els peixos produeixen deixalles. Aquestes deixalles contenen nitrogen, un aliment perfecte per a les plantes."
+          },
+          {
+            "fr": "L'eau du bassin passe dans les racines des plantes. Les plantes nettoient l'eau en absorbant les déjections.",
+            "es": "El agua del estanque pasa por las raíces de las plantas. Las plantas limpian el agua absorbiendo los desechos.",
+            "ca": "L'aigua de l'estany passa per les arrels de les plantes. Les plantes netegen l'aigua absorbint les deixalles."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portable%20fish%20farm%20at%20growing%20power.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Portable_fish_farm_at_growing_power.jpg",
+              "credit": {
+                "es": "Granja de peces portátil en Growing Power, Milwaukee — Wikimedia Commons.",
+                "ca": "Granja de peixos portàtil a Growing Power, Milwaukee — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "L'eau propre retourne ensuite au bassin des poissons. C'est un cercle qui ne s'arrête jamais.",
+            "es": "El agua limpia vuelve luego al estanque de los peces. Es un círculo que nunca se detiene.",
+            "ca": "L'aigua neta torna després a l'estany dels peixos. És un cercle que mai no s'atura."
+          },
+          {
+            "fr": "Ce système existe depuis très longtemps : les anciens Aztèques cultivaient déjà comme ça sur leurs chinampas.",
+            "es": "Este sistema existe desde hace mucho tiempo: los antiguos aztecas ya cultivaban así en sus chinampas.",
+            "ca": "Aquest sistema existeix des de fa molt de temps: els antics asteques ja conreaven així a les seves chinampes."
+          },
+          {
+            "fr": "Aujourd'hui, l'aquaponie permet de produire du poisson et des légumes sur une petite surface, même en ville.",
+            "es": "Hoy, la acuaponía permite producir pescado y verduras en una pequeña superficie, incluso en la ciudad.",
+            "ca": "Avui, l'aquaponia permet produir peix i verdures en una petita superfície, fins i tot a la ciutat."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "L'aquaponie fusionne deux techniques : l'aquaculture (l'élevage de poissons ou d'autres animaux aquatiques) et l'hydroponie (la culture de plantes hors-sol, racines plongées directement dans l'eau). Le principe repose sur un cycle fermé où chaque élément nourrit l'autre.",
+            "es": "La acuaponía fusiona dos técnicas: la acuicultura (la cría de peces u otros animales acuáticos) y la hidroponía (el cultivo de plantas sin suelo, con las raíces sumergidas directamente en el agua). El principio se basa en un ciclo cerrado donde cada elemento alimenta al otro.",
+            "ca": "L'aquaponia fusiona dues tècniques: l'aqüicultura (la cria de peixos o altres animals aquàtics) i la hidroponia (el conreu de plantes sense sòl, amb les arrels submergides directament a l'aigua). El principi es basa en un cicle tancat on cada element alimenta l'altre."
+          },
+          {
+            "h": {
+              "fr": "Un cercle qui se referme",
+              "es": "Un círculo que se cierra",
+              "ca": "Un cercle que es tanca"
+            }
+          },
+          {
+            "fr": "Les poissons, souvent du tilapia (très résistant) ou de la carpe, produisent des déjections riches en ammoniaque. Des bactéries présentes dans le système transforment naturellement cette ammoniaque en nitrates, une forme d'azote directement assimilable par les racines des plantes. Les plantes absorbent ces nutriments et purifient l'eau en même temps, qui retourne alors propre vers le bassin des poissons.",
+            "es": "Los peces, a menudo tilapia (muy resistente) o carpa, producen desechos ricos en amoníaco. Bacterias presentes en el sistema transforman naturalmente ese amoníaco en nitratos, una forma de nitrógeno directamente asimilable por las raíces de las plantas. Las plantas absorben estos nutrientes y purifican el agua al mismo tiempo, que vuelve entonces limpia hacia el estanque de los peces.",
+            "ca": "Els peixos, sovint tilàpia (molt resistent) o carpa, produeixen deixalles riques en amoníac. Bacteris presents al sistema transformen naturalment aquest amoníac en nitrats, una forma de nitrogen directament assimilable per les arrels de les plantes. Les plantes absorbeixen aquests nutrients i purifiquen l'aigua alhora, que torna llavors neta cap a l'estany dels peixos."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portable%20fish%20farm%20at%20growing%20power.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Portable_fish_farm_at_growing_power.jpg",
+              "credit": {
+                "es": "Granja de peces portátil en Growing Power, Milwaukee — Wikimedia Commons.",
+                "ca": "Granja de peixos portàtil a Growing Power, Milwaukee — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un système ancien redécouvert",
+              "es": "Un sistema antiguo redescubierto",
+              "ca": "Un sistema antic redescobert"
+            }
+          },
+          {
+            "fr": "Ce principe n'est pas nouveau : les chinampas aztèques, ces îles cultivées flottantes sur les lacs de la vallée de Mexico, fonctionnaient sur une logique proche, tout comme certaines rizières asiatiques où poissons et riz sont cultivés ensemble depuis des siècles, le poisson mangeant les insectes nuisibles et fertilisant l'eau.",
+            "es": "Este principio no es nuevo: las chinampas aztecas, esas islas cultivadas flotantes en los lagos del valle de México, funcionaban con una lógica cercana, al igual que ciertos arrozales asiáticos donde peces y arroz se cultivan juntos desde hace siglos, comiendo el pez los insectos dañinos y fertilizando el agua.",
+            "ca": "Aquest principi no és nou: les chinampes asteques, aquelles illes conreades flotants als llacs de la vall de Mèxic, funcionaven amb una lògica propera, igual que certs arrossars asiàtics on peixos i arròs es conreen junts des de fa segles, menjant el peix els insectes nocius i fertilitzant l'aigua."
+          },
+          {
+            "h": {
+              "fr": "Des avantages concrets",
+              "es": "Ventajas concretas",
+              "ca": "Avantatges concrets"
+            }
+          },
+          {
+            "fr": "L'aquaponie consomme environ 90% d'eau en moins que l'agriculture en pleine terre, puisque l'eau circule en circuit fermé plutôt que de s'infiltrer dans le sol. Elle ne nécessite aucun désherbage (pas de terre, pas de mauvaises herbes) et permet de produire à la fois des protéines animales et des légumes sur un espace réduit, ce qui la rend particulièrement adaptée aux villes ou aux régions arides.",
+            "es": "La acuaponía consume alrededor de un 90% menos de agua que la agricultura en tierra, ya que el agua circula en circuito cerrado en lugar de infiltrarse en el suelo. No necesita ningún desherbado (sin tierra, sin malas hierbas) y permite producir a la vez proteínas animales y verduras en un espacio reducido, lo que la hace particularmente adaptada a las ciudades o a las regiones áridas.",
+            "ca": "L'aquaponia consumeix al voltant d'un 90% menys d'aigua que l'agricultura en terra, ja que l'aigua circula en circuit tancat en comptes d'infiltrar-se al sòl. No necessita cap desherbatge (sense terra, sense males herbes) i permet produir alhora proteïnes animals i verdures en un espai reduït, cosa que la fa particularment adaptada a les ciutats o a les regions àrides."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'aquaponie fusionne deux techniques de production alimentaire jusque-là distinctes : l'aquaculture, l'élevage contrôlé de poissons ou d'autres organismes aquatiques, et l'hydroponie, la culture de végétaux hors-sol dont les racines baignent directement dans une solution nutritive liquide. Le principe repose sur un cycle métabolique fermé où les déchets produits par l'un des systèmes deviennent la ressource principale de l'autre, réduisant considérablement le besoin en intrants extérieurs.",
+            "es": "La acuaponía fusiona dos técnicas de producción alimentaria hasta entonces distintas: la acuicultura, la cría controlada de peces u otros organismos acuáticos, y la hidroponía, el cultivo de vegetales sin suelo cuyas raíces bañan directamente en una solución nutritiva líquida. El principio se basa en un ciclo metabólico cerrado donde los desechos producidos por uno de los sistemas se convierten en el recurso principal del otro, reduciendo considerablemente la necesidad de insumos externos.",
+            "ca": "L'aquaponia fusiona dues tècniques de producció alimentària fins aleshores distintes: l'aqüicultura, la cria controlada de peixos o altres organismes aquàtics, i la hidroponia, el conreu de vegetals sense sòl les arrels dels quals banyen directament en una solució nutritiva líquida. El principi es basa en un cicle metabòlic tancat on els residus produïts per un dels sistemes esdevenen el recurs principal de l'altre, reduint considerablement la necessitat d'inputs externs."
+          },
+          {
+            "h": {
+              "fr": "Un cercle qui se referme",
+              "es": "Un círculo que se cierra",
+              "ca": "Un cercle que es tanca"
+            }
+          },

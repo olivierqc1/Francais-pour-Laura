@@ -100,7 +100,7 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const FILES = ['../data/permaculture1.json','../data/permaculture2.json','../data/permaculture3.json','../data/permaculture4.json','../data/permaculture5.json'];
+  const FILES = ['../data/permaculture1.json','../data/permaculture2.json','../data/permaculture3.json','../data/permaculture4.json','../data/permaculture5.json','../data/permaculture6.json','../data/permaculture7.json'];
   const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
   textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
   if (!textes.length){

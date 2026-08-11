@@ -1,0 +1,276 @@
+{
+  "textes": [
+    {
+      "id": "agriculture_urbaine_organoponicos",
+      "emoji": "🏙️",
+      "theme": "Écologie",
+      "periode": "1991 – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SB081%20Urban%20agriculture%20Havana.JPG?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:SB081_Urban_agriculture_Havana.JPG",
+        "credit": {
+          "es": "Un organopónico en La Habana, Cuba — Wikimedia Commons.",
+          "ca": "Un organopónico a l'Havana, Cuba — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Agricultura urbana: cuando La Habana se convirtió en una granja",
+        "ca": "Agricultura urbana: quan l'Havana es va convertir en una granja"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "En 1991, l'Union soviétique s'effondre. Cuba perd d'un coup son principal partenaire commercial et son pétrole bon marché.",
+            "es": "En 1991, la Unión Soviética se derrumba. Cuba pierde de golpe a su principal socio comercial y su petróleo barato.",
+            "ca": "El 1991, la Unió Soviètica s'esfondra. Cuba perd de cop el seu principal soci comercial i el seu petroli barat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SB081%20Urban%20agriculture%20Havana.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:SB081_Urban_agriculture_Havana.JPG",
+              "credit": {
+                "es": "Un organopónico en La Habana, Cuba — Wikimedia Commons.",
+                "ca": "Un organopónico a l'Havana, Cuba — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "C'est le début de la « Période spéciale ». Il n'y a presque plus d'essence pour les tracteurs, ni d'engrais chimiques.",
+            "es": "Es el inicio del «Período Especial». Casi no hay gasolina para los tractores, ni fertilizantes químicos.",
+            "ca": "És l'inici del «Període Especial». Gairebé no hi ha gasolina per als tractors, ni fertilitzants químics."
+          },
+          {
+            "fr": "Les gens de La Havane commencent à cultiver des légumes partout : parkings vides, terrains abandonnés, toits.",
+            "es": "La gente de La Habana empieza a cultivar verduras por todas partes: aparcamientos vacíos, terrenos abandonados, tejados.",
+            "ca": "La gent de l'Havana comença a conrear verdures per tot arreu: aparcaments buits, terrenys abandonats, terrats."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SB081%20Urban%20agriculture%20Havana.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:SB081_Urban_agriculture_Havana.JPG",
+              "credit": {
+                "es": "Un organopónico en La Habana, Cuba — Wikimedia Commons.",
+                "ca": "Un organopónico a l'Havana, Cuba — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Ces jardins urbains s'appellent des « organopónicos ». Ils utilisent seulement des méthodes biologiques, sans produits chimiques.",
+            "es": "Estos huertos urbanos se llaman «organopónicos». Usan solo métodos biológicos, sin productos químicos.",
+            "ca": "Aquests horts urbans es diuen «organopónicos». Usen només mètodes biològics, sense productes químics."
+          },
+          {
+            "fr": "En 2002, ces jardins fournissent environ 90% des fruits et légumes frais consommés à La Havane.",
+            "es": "En 2002, estos huertos suministran cerca del 90% de las frutas y verduras frescas consumidas en La Habana.",
+            "ca": "El 2002, aquests horts subministren prop del 90% de les fruites i verdures fresques consumides a l'Havana."
+          },
+          {
+            "fr": "C'est devenu un modèle étudié partout dans le monde pour montrer comment nourrir une grande ville sans pétrole.",
+            "es": "Se ha convertido en un modelo estudiado en todo el mundo para mostrar cómo alimentar a una gran ciudad sin petróleo.",
+            "ca": "S'ha convertit en un model estudiat arreu del món per mostrar com alimentar una gran ciutat sense petroli."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "En 1991, l'effondrement soudain de l'Union soviétique prive Cuba, du jour au lendemain, de son principal partenaire commercial : le pétrole bon marché, les engrais chimiques et les pièces détachées pour tracteurs disparaissent presque totalement. Cette crise, appelée « Période spéciale en temps de paix », provoque une pénurie alimentaire sévère.",
+            "es": "En 1991, el derrumbe repentino de la Unión Soviética priva a Cuba, de la noche a la mañana, de su principal socio comercial: el petróleo barato, los fertilizantes químicos y las piezas de repuesto para tractores desaparecen casi totalmente. Esta crisis, llamada «Período Especial en tiempo de paz», provoca una escasez alimentaria severa.",
+            "ca": "El 1991, l'esfondrament sobtat de la Unió Soviètica priva Cuba, d'un dia per l'altre, del seu principal soci comercial: el petroli barat, els fertilitzants químics i les peces de recanvi per a tractors desapareixen gairebé totalment. Aquesta crisi, anomenada «Període Especial en temps de pau», provoca una escassetat alimentària severa."
+          },
+          {
+            "h": {
+              "fr": "Une réponse spontanée qui devient politique d'État",
+              "es": "Una respuesta espontánea que se vuelve política de Estado",
+              "ca": "Una resposta espontània que esdevé política d'Estat"
+            }
+          },
+          {
+            "fr": "Face à cette urgence, les habitants de La Havane commencent, dès 1991, à cultiver spontanément des légumes sur tous les espaces disponibles — parkings, terrains vagues, cours intérieures — une forme de « jardinage de guérilla » né de la nécessité. Le gouvernement cubain, constatant le succès de ces initiatives, les intègre en 1996 dans un programme officiel appelé « organopónicos », caractérisé par des bacs de culture surélevés remplis de compost et de matière organique, sans aucun produit chimique de synthèse.",
+            "es": "Ante esta urgencia, los habitantes de La Habana empiezan, ya en 1991, a cultivar espontáneamente verduras en todos los espacios disponibles —aparcamientos, terrenos baldíos, patios interiores— una forma de «jardinería de guerrilla» nacida de la necesidad. El gobierno cubano, constatando el éxito de estas iniciativas, las integra en 1996 en un programa oficial llamado «organopónicos», caracterizado por bancales elevados llenos de compost y materia orgánica, sin ningún producto químico sintético.",
+            "ca": "Davant aquesta urgència, els habitants de l'Havana comencen, ja el 1991, a conrear espontàniament verdures en tots els espais disponibles —aparcaments, terrenys erms, patis interiors— una forma de «jardineria de guerrilla» nascuda de la necessitat. El govern cubà, constatant l'èxit d'aquestes iniciatives, les integra el 1996 en un programa oficial anomenat «organopónicos», caracteritzat per bancals elevats plens de compost i matèria orgànica, sense cap producte químic sintètic."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SB081%20Urban%20agriculture%20Havana.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:SB081_Urban_agriculture_Havana.JPG",
+              "credit": {
+                "es": "Un organopónico en La Habana, Cuba — Wikimedia Commons.",
+                "ca": "Un organopónico a l'Havana, Cuba — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un succès à l'échelle d'une capitale",
+              "es": "Un éxito a escala de una capital",
+              "ca": "Un èxit a escala d'una capital"
+            }
+          },
+          {
+            "fr": "L'État fournit gratuitement des terrains, subventionne l'accès aux outils et aux semences, et crée un réseau de magasins spécialisés pour conseiller les cultivateurs. La main-d'œuvre agricole urbaine à La Havane passe de 9 000 personnes en 1999 à plus de 44 000 en 2006, et dès 2002, ces jardins urbains fournissent environ 90% des fruits et légumes frais consommés dans la capitale.",
+            "es": "El Estado proporciona terrenos gratuitos, subvenciona el acceso a herramientas y semillas, y crea una red de tiendas especializadas para asesorar a los cultivadores. La mano de obra agrícola urbana en La Habana pasa de 9000 personas en 1999 a más de 44 000 en 2006, y desde 2002, estos huertos urbanos suministran cerca del 90% de las frutas y verduras frescas consumidas en la capital.",
+            "ca": "L'Estat proporciona terrenys gratuïts, subvenciona l'accés a eines i llavors, i crea una xarxa de botigues especialitzades per assessorar els cultivadors. La mà d'obra agrícola urbana a l'Havana passa de 9.000 persones el 1999 a més de 44.000 el 2006, i des del 2002, aquests horts urbans subministren prop del 90% de les fruites i verdures fresques consumides a la capital."
+          },
+          {
+            "h": {
+              "fr": "Un modèle étudié dans le monde entier",
+              "es": "Un modelo estudiado en todo el mundo",
+              "ca": "Un model estudiat arreu del món"
+            }
+          },
+          {
+            "fr": "Le cas cubain devient une référence mondiale pour l'agriculture urbaine, étudié notamment par des villes nord-américaines comme Détroit confrontées à leurs propres friches industrielles. Il illustre, à grande échelle, la même logique déjà présente dans la permaculture : produire localement, sans intrants chimiques coûteux, en réutilisant des espaces urbains délaissés.",
+            "es": "El caso cubano se convierte en una referencia mundial para la agricultura urbana, estudiado especialmente por ciudades norteamericanas como Detroit enfrentadas a sus propios terrenos industriales abandonados. Ilustra, a gran escala, la misma lógica ya presente en la permacultura: producir localmente, sin insumos químicos costosos, reutilizando espacios urbanos abandonados.",
+            "ca": "El cas cubà esdevé una referència mundial per a l'agricultura urbana, estudiat especialment per ciutats nord-americanes com Detroit enfrontades als seus propis terrenys industrials abandonats. Il·lustra, a gran escala, la mateixa lògica ja present a la permacultura: produir localment, sense inputs químics costosos, reutilitzant espais urbans abandonats."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "L'effondrement de l'Union soviétique en 1991 prive brutalement Cuba de son principal partenaire commercial, dont dépendait l'essentiel de son modèle agricole industriel : pétrole bon marché pour les tracteurs et le transport, engrais et pesticides de synthèse importés, pièces détachées pour une flotte mécanisée entièrement soviétique. Cette rupture soudaine plonge le pays dans ce que le gouvernement nomme officiellement le « Período especial en tiempos de paz », une période de pénurie sévère marquée par une chute de près de 30% des apports caloriques quotidiens moyens de la population entre 1989 et 1993.",
+            "es": "El derrumbe de la Unión Soviética en 1991 priva brutalmente a Cuba de su principal socio comercial, del que dependía la mayor parte de su modelo agrícola industrial: petróleo barato para los tractores y el transporte, fertilizantes y pesticidas sintéticos importados, piezas de repuesto para una flota mecanizada enteramente soviética. Esta ruptura repentina sumerge al país en lo que el gobierno llama oficialmente el «Período Especial en Tiempos de Paz», un período de escasez severa marcado por una caída de cerca del 30% en el aporte calórico diario medio de la población entre 1989 y 1993.",
+            "ca": "L'esfondrament de la Unió Soviètica el 1991 priva brutalment Cuba del seu principal soci comercial, del qual depenia la major part del seu model agrícola industrial: petroli barat per als tractors i el transport, fertilitzants i pesticides sintètics importats, peces de recanvi per a una flota mecanitzada enterament soviètica. Aquesta ruptura sobtada submergeix el país en el que el govern anomena oficialment el «Período Especial en Tiempos de Paz», un període d'escassetat severa marcat per una caiguda de prop del 30% en l'aport calòric diari mitjà de la població entre el 1989 i el 1993."
+          },
+          {
+            "h": {
+              "fr": "Une réponse spontanée qui devient politique d'État",
+              "es": "Una respuesta espontánea que se vuelve política de Estado",
+              "ca": "Una resposta espontània que esdevé política d'Estat"
+            }
+          },
+
+{
+            "fr": "Dès 1991, avant toute intervention gouvernementale structurée, des habitants de La Havane commencent à occuper et cultiver spontanément tout espace disponible — parkings désaffectés, terrains vagues, cours intérieures, bandes le long des routes — une pratique relevant du « jardinage de guérilla » né de la nécessité pure plutôt que d'un choix idéologique. Constatant le succès et l'ampleur de ce mouvement populaire spontané, le gouvernement cubain l'institutionnalise progressivement, en particulier à partir de 1996 sous le nom d'« organopónicos » : des parcelles de culture organisées en bacs surélevés bordés de murets de parpaings ou de matériaux de récupération, remplis de compost et de matière organique, où toute utilisation de produits chimiques de synthèse est officiellement proscrite dans le périmètre urbain — non par choix écologique initial, mais faute de disponibilité.",
+            "es": "Ya en 1991, antes de cualquier intervención gubernamental estructurada, habitantes de La Habana empiezan a ocupar y cultivar espontáneamente todo espacio disponible —aparcamientos en desuso, terrenos baldíos, patios interiores, franjas junto a las carreteras— una práctica propia de la «jardinería de guerrilla» nacida de la pura necesidad más que de una elección ideológica. Constatando el éxito y la magnitud de este movimiento popular espontáneo, el gobierno cubano lo institucionaliza progresivamente, especialmente a partir de 1996 bajo el nombre de «organopónicos»: parcelas de cultivo organizadas en bancales elevados bordeados de muretes de bloques de hormigón o de materiales de recuperación, llenos de compost y materia orgánica, donde todo uso de productos químicos sintéticos queda oficialmente proscrito en el perímetro urbano —no por elección ecológica inicial, sino por falta de disponibilidad.",
+            "ca": "Ja el 1991, abans de qualsevol intervenció governamental estructurada, habitants de l'Havana comencen a ocupar i conrear espontàniament tot espai disponible —aparcaments en desús, terrenys erms, patis interiors, franges al costat de les carreteres— una pràctica pròpia de la «jardineria de guerrilla» nascuda de la pura necessitat més que d'una elecció ideològica. Constatant l'èxit i la magnitud d'aquest moviment popular espontani, el govern cubà l'institucionalitza progressivament, especialment a partir del 1996 sota el nom d'«organopónicos»: parcel·les de cultiu organitzades en bancals elevats vorejats de muretes de blocs de formigó o de materials de recuperació, plens de compost i matèria orgànica, on tot ús de productes químics sintètics queda oficialment proscrit al perímetre urbà —no per elecció ecològica inicial, sinó per manca de disponibilitat."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SB081%20Urban%20agriculture%20Havana.JPG?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:SB081_Urban_agriculture_Havana.JPG",
+              "credit": {
+                "es": "Un organopónico en La Habana, Cuba — Wikimedia Commons.",
+                "ca": "Un organopónico a l'Havana, Cuba — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Un succès à l'échelle d'une capitale",
+              "es": "Un éxito a escala de una capital",
+              "ca": "Un èxit a escala d'una capital"
+            }
+          },
+          {
+            "fr": "L'État cubain accompagne ensuite ce mouvement par un soutien structurel significatif : attribution gratuite de terrains publics, création de plus de 50 magasins agricoles spécialisés (« tiendas agropecuarias ») à La Havane seule pour fournir conseils et matériel, ouverture de cliniques vétérinaires urbaines pour le petit élevage domestique, et intégration explicite de l'agriculture urbaine dans le plan directeur officiel de la ville. La main-d'œuvre agricole urbaine à La Havane croît de manière spectaculaire, passant d'environ 9 000 travailleurs en 1999 à plus de 44 000 en 2006, tandis que la superficie cultivée dans l'agglomération dépasse 35 000 hectares dès 2009.",
+            "es": "El Estado cubano acompaña luego este movimiento con un apoyo estructural significativo: asignación gratuita de terrenos públicos, creación de más de 50 tiendas agrícolas especializadas («tiendas agropecuarias») solo en La Habana para brindar asesoramiento y material, apertura de clínicas veterinarias urbanas para la pequeña ganadería doméstica, e integración explícita de la agricultura urbana en el plan director oficial de la ciudad. La mano de obra agrícola urbana en La Habana crece de manera espectacular, pasando de unos 9000 trabajadores en 1999 a más de 44 000 en 2006, mientras que la superficie cultivada en la aglomeración supera las 35 000 hectáreas ya en 2009.",
+            "ca": "L'Estat cubà acompanya després aquest moviment amb un suport estructural significatiu: assignació gratuïta de terrenys públics, creació de més de 50 botigues agrícoles especialitzades («tiendas agropecuarias») només a l'Havana per oferir assessorament i material, obertura de clíniques veterinàries urbanes per a la petita ramaderia domèstica, i integració explícita de l'agricultura urbana en el pla director oficial de la ciutat. La mà d'obra agrícola urbana a l'Havana creix de manera espectacular, passant d'uns 9.000 treballadors el 1999 a més de 44.000 el 2006, mentre que la superfície conreada a l'aglomeració supera les 35.000 hectàrees ja el 2009."
+          },
+          {
+            "fr": "Dès 2002, ces organopónicos et autres formes d'agriculture urbaine fournissent environ 90% des fruits et légumes frais consommés à La Havane, un chiffre considérable pour une capitale de plus de deux millions d'habitants, même si le pays reste par ailleurs dépendant des importations pour de nombreux produits de base rationnés comme le riz ou l'huile.",
+            "es": "Desde 2002, estos organopónicos y otras formas de agricultura urbana suministran cerca del 90% de las frutas y verduras frescas consumidas en La Habana, una cifra considerable para una capital de más de dos millones de habitantes, aunque el país sigue dependiendo por lo demás de las importaciones para numerosos productos básicos racionados como el arroz o el aceite.",
+            "ca": "Des del 2002, aquests organopónicos i altres formes d'agricultura urbana subministren prop del 90% de les fruites i verdures fresques consumides a l'Havana, una xifra considerable per a una capital de més de dos milions d'habitants, encara que el país continua depenent per la resta de les importacions per a nombrosos productes bàsics racionats com l'arròs o l'oli."
+          },
+          {
+            "h": {
+              "fr": "Un modèle étudié dans le monde entier",
+              "es": "Un modelo estudiado en todo el mundo",
+              "ca": "Un model estudiat arreu del món"
+            }
+          },
+          {
+            "fr": "Le cas cubain devient une référence internationale majeure pour l'agriculture urbaine et l'agroécologie, étudié notamment par des chercheurs et urbanistes de villes nord-américaines confrontées à leurs propres friches industrielles, comme Détroit, où d'anciens quartiers désindustrialisés connaissent des dynamiques de reconversion agricole urbaine comparables. Le modèle cubain illustre à grande échelle une logique déjà présente dans la permaculture et l'agroécologie que tu connais déjà : produire localement et biologiquement, en réduisant la dépendance aux intrants chimiques et pétroliers importés, tout en réutilisant des espaces urbains délaissés — une démonstration involontaire mais concrète qu'une organisation décentralisée, ancrée dans le voisinage immédiat, peut répondre efficacement à une crise systémique là où un modèle centralisé s'était révélé structurellement fragile.",
+            "es": "El caso cubano se convierte en una referencia internacional mayor para la agricultura urbana y la agroecología, estudiado especialmente por investigadores y urbanistas de ciudades norteamericanas enfrentadas a sus propios terrenos industriales abandonados, como Detroit, donde antiguos barrios desindustrializados conocen dinámicas de reconversión agrícola urbana comparables. El modelo cubano ilustra a gran escala una lógica ya presente en la permacultura y la agroecología que ya conoces: producir localmente y biológicamente, reduciendo la dependencia de los insumos químicos y petroleros importados, reutilizando a la vez espacios urbanos abandonados —una demostración involuntaria pero concreta de que una organización descentralizada, anclada en la vecindad inmediata, puede responder eficazmente a una crisis sistémica allí donde un modelo centralizado se había revelado estructuralmente frágil.",
+            "ca": "El cas cubà esdevé una referència internacional major per a l'agricultura urbana i l'agroecologia, estudiat especialment per investigadors i urbanistes de ciutats nord-americanes enfrontades als seus propis terrenys industrials abandonats, com Detroit, on antics barris desindustrialitzats coneixen dinàmiques de reconversió agrícola urbana comparables. El model cubà il·lustra a gran escala una lògica ja present a la permacultura i l'agroecologia que ja coneixes: produir localment i biològicament, reduint la dependència dels inputs químics i petrolers importats, reutilitzant alhora espais urbans abandonats —una demostració involuntària però concreta que una organització descentralitzada, ancorada en el veïnatge immediat, pot respondre eficaçment a una crisi sistèmica allà on un model centralitzat s'havia revelat estructuralment fràgil."
+          }
+        ]
+      },
+      "note": {
+        "es": "Nota histórica: el Período Especial fue una crisis alimentaria real y severa para la población cubana; se aborda aquí centrándose en la respuesta agrícola, con la seriedad que merece el sufrimiento que implicó.",
+        "ca": "Nota històrica: el Período Especial va ser una crisi alimentària real i severa per a la població cubana; s'aborda aquí centrant-se en la resposta agrícola, amb la serietat que mereix el patiment que va implicar."
+      },
+      "mots_cles": [
+        {
+          "mot": "une pénurie",
+          "es": "una escasez",
+          "ca": "una escassetat"
+        },
+        {
+          "mot": "un bac (surélevé)",
+          "es": "un bancal (elevado)",
+          "ca": "un bancal (elevat)"
+        },
+        {
+          "mot": "subventionner",
+          "es": "subvencionar",
+          "ca": "subvencionar"
+        },
+        {
+          "mot": "une friche (industrielle)",
+          "es": "un terreno baldío (industrial)",
+          "ca": "un terreny erm (industrial)"
+        },
+        {
+          "mot": "rationné(e)",
+          "es": "racionado/a",
+          "ca": "racionat/ada"
+        },
+        {
+          "mot": "décentralisé(e)",
+          "es": "descentralizado/a",
+          "ca": "descentralitzat/ada"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿Qué provoca la escasez alimentaria cubana de 1991?",
+            "ca": "Què provoca l'escassetat alimentària cubana de 1991?"
+          },
+          "piste": {
+            "es": "el derrumbe de la Unión Soviética, que privó a Cuba de petróleo y fertilizantes",
+            "ca": "l'esfondrament de la Unió Soviètica, que va privar Cuba de petroli i fertilitzants"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cómo empiezan los organopónicos, antes de ser un programa oficial?",
+            "ca": "Com comencen els organopónicos, abans de ser un programa oficial?"
+          },
+          "piste": {
+            "es": "como jardinería de guerrilla espontánea de los propios habitantes",
+            "ca": "com a jardineria de guerrilla espontània dels propis habitants"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué porcentaje de frutas y verduras frescas de La Habana producen los organopónicos hacia 2002?",
+            "ca": "Quin percentatge de fruites i verdures fresques de l'Havana produeixen els organopónicos cap al 2002?"
+          },
+          "piste": {
+            "es": "unos 90%",
+            "ca": "un 90%"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué ciudad norteamericana estudia el modelo cubano para sus propios terrenos abandonados?",
+            "ca": "Quina ciutat nord-americana estudia el model cubà per als seus propis terrenys abandonats?"
+          },
+          "piste": {
+            "es": "Detroit",
+            "ca": "Detroit"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Organopónicos",
+          "url": "https://en.wikipedia.org/wiki/Organop%C3%B3nicos"
+        },
+        {
+          "titre": "Wikipedia — Special Period",
+          "url": "https://en.wikipedia.org/wiki/Special_Period"
+        }
+      ]
+    }
+  ]
+}

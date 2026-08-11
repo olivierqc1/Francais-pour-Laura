@@ -1,0 +1,252 @@
+{
+  "textes": [
+    {
+      "id": "chinampas_xochimilco",
+      "emoji": "🛶",
+      "theme": "Écologie",
+      "periode": "9e siècle – aujourd'hui",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+        "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+        "credit": {
+          "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+          "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+        }
+      },
+      "titre": {
+        "es": "Las chinampas: los jardines flotantes de Tenochtitlan",
+        "ca": "Les chinampes: els jardins flotants de Tenochtitlan"
+      },
+      "niveaux": {
+        "a1": [
+          {
+            "fr": "Les chinampas sont des îles artificielles construites sur les lacs peu profonds de la vallée de Mexico, dès le 9e siècle.",
+            "es": "Las chinampas son islas artificiales construidas sobre los lagos poco profundos del valle de México, ya en el siglo IX.",
+            "ca": "Les chinampes són illes artificials construïdes sobre els llacs poc profunds de la vall de Mèxic, ja al segle IX."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+              "credit": {
+                "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+                "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "fr": "Pour les construire, on plante des piquets dans le lac, on fait une clôture avec des roseaux, et on remplit avec de la boue fertile du fond du lac.",
+            "es": "Para construirlas, se clavan estacas en el lago, se hace una valla con cañas, y se rellena con lodo fértil del fondo del lago.",
+            "ca": "Per construir-les, es claven estaques al llac, es fa una tanca amb canyes, i s'omple amb fang fèrtil del fons del llac."
+          },
+          {
+            "fr": "À l'époque des Aztèques, ces jardins nourrissaient la grande ville de Tenochtitlan, qui comptait environ 200 000 à 400 000 habitants.",
+            "es": "En la época de los aztecas, estos huertos alimentaban a la gran ciudad de Tenochtitlan, que contaba con unos 200 000 a 400 000 habitantes.",
+            "ca": "A l'època dels asteques, aquests horts alimentaven la gran ciutat de Tenochtitlan, que comptava amb uns 200.000 a 400.000 habitants."
+          },
+          {
+            "fr": "Aujourd'hui, on peut encore voir des chinampas dans le quartier de Xochimilco, à Mexico. C'est un site classé par l'UNESCO.",
+            "es": "Hoy, todavía se pueden ver chinampas en el barrio de Xochimilco, en Ciudad de México. Es un sitio catalogado por la UNESCO.",
+            "ca": "Avui, encara es poden veure chinampes al barri de Xochimilco, a Ciutat de Mèxic. És un lloc catalogat per la UNESCO."
+          }
+        ],
+        "a2": [
+          {
+            "fr": "Les chinampas sont des parcelles agricoles artificielles construites sur les lacs peu profonds de la vallée de Mexico, un système développé et perfectionné par les peuples nahuas dès le 9e siècle, bien avant l'apogée de l'empire aztèque. Le nom vient du nahuatl et signifie approximativement « enclos de roseaux ».",
+            "es": "Las chinampas son parcelas agrícolas artificiales construidas sobre los lagos poco profundos del valle de México, un sistema desarrollado y perfeccionado por los pueblos nahuas ya en el siglo IX, mucho antes del apogeo del imperio azteca. El nombre viene del náhuatl y significa aproximadamente «cercado de cañas».",
+            "ca": "Les chinampes són parcel·les agrícoles artificials construïdes sobre els llacs poc profunds de la vall de Mèxic, un sistema desenvolupat i perfeccionat pels pobles nahues ja al segle IX, molt abans de l'apogeu de l'imperi asteca. El nom ve del nàhuatl i significa aproximadament «tancat de canyes»."
+          },
+          {
+            "h": {
+              "fr": "Une technique de construction ingénieuse",
+              "es": "Una técnica de construcción ingeniosa",
+              "ca": "Una tècnica de construcció enginyosa"
+            }
+          },
+          {
+            "fr": "Pour construire une chinampa, les fermiers plantent des pieux en bois de saule dans le lit peu profond du lac, tissent une clôture de roseaux entre ces pieux pour délimiter un rectangle, puis remplissent cet espace de boue fertile et de matière végétale en décomposition, extraites directement du fond du lac. Les racines des saules plantés sur les bords finissent par ancrer solidement la parcelle au fond, la rendant permanente malgré son nom de « jardin flottant ».",
+            "es": "Para construir una chinampa, los agricultores clavan estacas de madera de sauce en el lecho poco profundo del lago, tejen una valla de cañas entre esas estacas para delimitar un rectángulo, y luego rellenan ese espacio con lodo fértil y materia vegetal en descomposición, extraídos directamente del fondo del lago. Las raíces de los sauces plantados en los bordes acaban anclando sólidamente la parcela al fondo, haciéndola permanente pese a su nombre de «jardín flotante».",
+            "ca": "Per construir una chinampa, els pagesos claven estaques de fusta de salze al llit poc profund del llac, teixeixen una tanca de canyes entre aquestes estaques per delimitar un rectangle, i després omplen aquest espai amb fang fèrtil i matèria vegetal en descomposició, extrets directament del fons del llac. Les arrels dels salzes plantats a les vores acaben ancorant sòlidament la parcel·la al fons, fent-la permanent malgrat el seu nom de «jardí flotant»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+              "credit": {
+                "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+                "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une productivité exceptionnelle",
+              "es": "Una productividad excepcional",
+              "ca": "Una productivitat excepcional"
+            }
+          },
+          {
+            "fr": "Ce système offre plusieurs avantages combinés : l'eau des canaux environnants irrigue la parcelle par capillarité en permanence, sans effort humain, tandis que la boue extraite régulièrement des canaux pour les entretenir sert d'engrais naturel constamment renouvelé. Résultat : les chinampas produisaient, selon certaines estimations, jusqu'à 13 fois plus de récoltes que l'agriculture sur terre sèche environnante, permettant de nourrir la capitale aztèque Tenochtitlan, dont la population atteignait 200 000 à 400 000 habitants à son apogée.",
+            "es": "Este sistema ofrece varias ventajas combinadas: el agua de los canales circundantes riega la parcela por capilaridad permanentemente, sin esfuerzo humano, mientras que el lodo extraído regularmente de los canales para mantenerlos sirve de fertilizante natural constantemente renovado. Resultado: las chinampas producían, según algunas estimaciones, hasta 13 veces más cosechas que la agricultura en tierra seca circundante, permitiendo alimentar a la capital azteca Tenochtitlan, cuya población alcanzaba 200 000 a 400 000 habitantes en su apogeo.",
+            "ca": "Aquest sistema ofereix diversos avantatges combinats: l'aigua dels canals circumdants rega la parcel·la per capil·laritat permanentment, sense esforç humà, mentre que el fang extret regularment dels canals per mantenir-los serveix de fertilitzant natural constantment renovat. Resultat: les chinampes produïen, segons algunes estimacions, fins a 13 vegades més collites que l'agricultura en terra seca circumdant, permetent alimentar la capital asteca Tenochtitlan, la població de la qual arribava a 200.000-400.000 habitants en el seu apogeu."
+          },
+          {
+            "h": {
+              "fr": "Un héritage vivant à Xochimilco",
+              "es": "Un legado vivo en Xochimilco",
+              "ca": "Un llegat viu a Xochimilco"
+            }
+          },
+          {
+            "fr": "Après la conquête espagnole, les lacs de la vallée de Mexico sont progressivement asséchés pour l'urbanisation, mais le quartier de Xochimilco, au sud de Mexico, conserve un réseau de chinampas encore cultivées aujourd'hui, classé au patrimoine mondial de l'UNESCO depuis 1987. C'est aussi le dernier refuge naturel de l'axolotl, une salamandre aquatique emblématique et menacée du Mexique.",
+            "es": "Tras la conquista española, los lagos del valle de México se secan progresivamente para la urbanización, pero el barrio de Xochimilco, al sur de la Ciudad de México, conserva una red de chinampas todavía cultivadas hoy, catalogada patrimonio mundial de la UNESCO desde 1987. Es también el último refugio natural del ajolote, una salamandra acuática emblemática y amenazada de México.",
+            "ca": "Després de la conquesta espanyola, els llacs de la vall de Mèxic s'assequen progressivament per a la urbanització, però el barri de Xochimilco, al sud de Ciutat de Mèxic, conserva una xarxa de chinampes encara conreades avui, catalogada patrimoni mundial de la UNESCO des del 1987. És també l'últim refugi natural de l'axolot, una salamandra aquàtica emblemàtica i amenaçada de Mèxic."
+          }
+        ],
+        "b1": [
+          {
+            "fr": "Les chinampas sont des parcelles agricoles artificielles construites sur les lacs peu profonds de la vallée de Mexico, un système d'agriculture aquatique développé et perfectionné par les peuples nahuas dès le 9e siècle, potentiellement dès l'époque toltèque, bien avant que les Aztèques ne l'adoptent et ne le portent à son apogée technique et productive au 15e siècle. Le nom provient du nahuatl chinamitl, signifiant approximativement « enclos de roseaux » ou « clôture faite de cannes », une référence directe à leur méthode de construction.",
+            "es": "Las chinampas son parcelas agrícolas artificiales construidas sobre los lagos poco profundos del valle de México, un sistema de agricultura acuática desarrollado y perfeccionado por los pueblos nahuas ya en el siglo IX, potencialmente desde la época tolteca, mucho antes de que los aztecas lo adoptaran y lo llevaran a su apogeo técnico y productivo en el siglo XV. El nombre proviene del náhuatl chinamitl, que significa aproximadamente «cercado de cañas» o «valla hecha de cañas», una referencia directa a su método de construcción.",
+            "ca": "Les chinampes són parcel·les agrícoles artificials construïdes sobre els llacs poc profunds de la vall de Mèxic, un sistema d'agricultura aquàtica desenvolupat i perfeccionat pels pobles nahues ja al segle IX, potencialment des de l'època tolteca, molt abans que els asteques l'adoptessin i el portessin al seu apogeu tècnic i productiu al segle XV. El nom prové del nàhuatl chinamitl, que significa aproximadament «tancat de canyes» o «tanca feta de canyes», una referència directa al seu mètode de construcció."
+          },
+          {
+            "h": {
+              "fr": "Une technique de construction ingénieuse",
+              "es": "Una técnica de construcción ingeniosa",
+              "ca": "Una tècnica de construcció enginyosa"
+            }
+          },
+
+{
+            "fr": "La construction d'une chinampa suit un processus méthodique : des pieux de bois de saule (ahuejote), une espèce à croissance rapide et particulièrement adaptée aux sols détrempés, sont enfoncés dans le lit peu profond du lac pour délimiter un rectangle typiquement large de 6 à 10 mètres ; une clôture tressée de roseaux (tule) relie ensuite ces pieux pour contenir le futur remplissage ; l'espace ainsi délimité est comblé de couches successives de boue lacustre riche en matière organique, de végétation aquatique en décomposition et parfois de terre rapportée. Les saules plantés en bordure développent progressivement un système racinaire dense qui ancre solidement la parcelle au fond du lac — contrairement à une idée reçue répandue, une chinampa mature ne flotte donc pas réellement, mais reste fermement fixée au substrat, malgré la traduction anglaise courante de « floating gardens ».",
+            "es": "La construcción de una chinampa sigue un proceso metódico: estacas de madera de sauce (ahuejote), una especie de crecimiento rápido particularmente adaptada a suelos empapados, se clavan en el lecho poco profundo del lago para delimitar un rectángulo típicamente de 6 a 10 metros de ancho; una valla tejida de cañas (tule) une luego esas estacas para contener el futuro relleno; el espacio así delimitado se colma con capas sucesivas de lodo lacustre rico en materia orgánica, vegetación acuática en descomposición y a veces tierra aportada. Los sauces plantados en el borde desarrollan progresivamente un sistema radicular denso que ancla sólidamente la parcela al fondo del lago —contrariamente a una idea extendida, una chinampa madura no flota realmente, sino que permanece firmemente fijada al sustrato, pese a la traducción inglesa habitual de «floating gardens».",
+            "ca": "La construcció d'una chinampa segueix un procés metòdic: estaques de fusta de salze (ahuejote), una espècie de creixement ràpid particularment adaptada a sòls xops, es claven al llit poc profund del llac per delimitar un rectangle típicament de 6 a 10 metres d'amplada; una tanca teixida de canyes (tule) uneix després aquestes estaques per contenir el futur farciment; l'espai així delimitat s'omple amb capes successives de fang lacustre ric en matèria orgànica, vegetació aquàtica en descomposició i de vegades terra aportada. Els salzes plantats a la vora desenvolupen progressivament un sistema radicular dens que ancora sòlidament la parcel·la al fons del llac —contràriament a una idea estesa, una chinampa madura no flota realment, sinó que roman fermament fixada al substrat, malgrat la traducció anglesa habitual de «floating gardens»."
+          },
+          {
+            "img": {
+              "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinampas%20Xochimilco.jpg?width=900",
+              "source": "https://commons.wikimedia.org/wiki/File:Chinampas_Xochimilco.jpg",
+              "credit": {
+                "es": "Chinampas de Xochimilco, cerca de la Ciudad de México — Wikimedia Commons.",
+                "ca": "Chinampes de Xochimilco, a prop de la Ciutat de Mèxic — Wikimedia Commons."
+              }
+            }
+          },
+          {
+            "h": {
+              "fr": "Une productivité exceptionnelle",
+              "es": "Una productividad excepcional",
+              "ca": "Una productivitat excepcional"
+            }
+          },
+          {
+            "fr": "Le système combine plusieurs mécanismes agronomiques particulièrement efficaces : l'irrigation par capillarité, l'eau des canaux environnants remontant en permanence à travers le substrat sans nécessiter d'effort humain ni de système d'arrosage ; la fertilisation continue par le curage régulier des canaux, dont la boue riche en nutriments est redéposée sur les parcelles ; et un microclimat favorable créé par la présence constante d'eau, qui tamponne les variations de température. Ce système intensif produisait, selon certaines estimations archéologiques, jusqu'à 13 fois le rendement de l'agriculture pluviale environnante, souvent avec plusieurs récoltes par an sur une même parcelle, un facteur déterminant pour expliquer comment Tenochtitlan a pu nourrir une population estimée entre 200 000 et 400 000 habitants à son apogée — l'une des plus grandes villes du monde à cette époque, comparable ou supérieure à la plupart des capitales européennes contemporaines.",
+            "es": "El sistema combina varios mecanismos agronómicos particularmente eficaces: la irrigación por capilaridad, el agua de los canales circundantes subiendo permanentemente a través del sustrato sin necesitar esfuerzo humano ni sistema de riego; la fertilización continua mediante el dragado regular de los canales, cuyo lodo rico en nutrientes se redeposita en las parcelas; y un microclima favorable creado por la presencia constante de agua, que amortigua las variaciones de temperatura. Este sistema intensivo producía, según algunas estimaciones arqueológicas, hasta 13 veces el rendimiento de la agricultura pluvial circundante, a menudo con varias cosechas al año en una misma parcela, un factor determinante para explicar cómo Tenochtitlan pudo alimentar a una población estimada entre 200 000 y 400 000 habitantes en su apogeo —una de las mayores ciudades del mundo en esa época, comparable o superior a la mayoría de las capitales europeas contemporáneas.",
+            "ca": "El sistema combina diversos mecanismes agronòmics particularment eficaços: la irrigació per capil·laritat, l'aigua dels canals circumdants pujant permanentment a través del substrat sense necessitar esforç humà ni sistema de reg; la fertilització contínua mitjançant el dragatge regular dels canals, el fang ric en nutrients dels quals es redeposita a les parcel·les; i un microclima favorable creat per la presència constant d'aigua, que esmorteeix les variacions de temperatura. Aquest sistema intensiu produïa, segons algunes estimacions arqueològiques, fins a 13 vegades el rendiment de l'agricultura pluvial circumdant, sovint amb diverses collites l'any en una mateixa parcel·la, un factor determinant per explicar com Tenochtitlan va poder alimentar una població estimada entre 200.000 i 400.000 habitants en el seu apogeu —una de les més grans ciutats del món en aquella època, comparable o superior a la majoria de les capitals europees contemporànies."
+          },
+          {
+            "h": {
+              "fr": "Un héritage vivant à Xochimilco, mais menacé",
+              "es": "Un legado vivo en Xochimilco, pero amenazado",
+              "ca": "Un llegat viu a Xochimilco, però amenaçat"
+            }
+          },
+          {
+            "fr": "Après la conquête espagnole en 1521, les autorités coloniales entreprennent un assèchement progressif des lacs de la vallée de Mexico, à la fois pour lutter contre les inondations récurrentes de la nouvelle capitale et pour libérer des terres urbanisables, un processus qui s'accélère considérablement au 20e siècle avec la croissance démographique de Mexico. Le quartier de Xochimilco, au sud de la capitale, conserve néanmoins un réseau de canaux et de chinampas encore actives, reconnu patrimoine mondial de l'UNESCO depuis 1987 au titre du Centre historique de Mexico et Xochimilco, et identifié en 2018 comme Système ingénieux du patrimoine agricole mondial par la FAO.",
+            "es": "Tras la conquista española en 1521, las autoridades coloniales emprenden un desecamiento progresivo de los lagos del valle de México, tanto para luchar contra las inundaciones recurrentes de la nueva capital como para liberar tierras urbanizables, un proceso que se acelera considerablemente en el siglo XX con el crecimiento demográfico de la Ciudad de México. El barrio de Xochimilco, al sur de la capital, conserva sin embargo una red de canales y chinampas todavía activas, reconocida patrimonio mundial de la UNESCO desde 1987 bajo el título del Centro histórico de la Ciudad de México y Xochimilco, e identificada en 2018 como Sistema Importante del Patrimonio Agrícola Mundial por la FAO.",
+            "ca": "Després de la conquesta espanyola el 1521, les autoritats colonials emprenen un assecament progressiu dels llacs de la vall de Mèxic, tant per lluitar contra les inundacions recurrents de la nova capital com per alliberar terres urbanitzables, un procés que s'accelera considerablement al segle XX amb el creixement demogràfic de Ciutat de Mèxic. El barri de Xochimilco, al sud de la capital, conserva tanmateix una xarxa de canals i chinampes encara actives, reconeguda patrimoni mundial de la UNESCO des del 1987 sota el títol del Centre històric de Ciutat de Mèxic i Xochimilco, i identificada el 2018 com a Sistema Important del Patrimoni Agrícola Mundial per la FAO."
+          },
+          {
+            "fr": "Ce site constitue également le dernier refuge naturel de l'axolotl (Ambystoma mexicanum), une salamandre aquatique néoténique emblématique du Mexique, aujourd'hui gravement menacée par la pollution de l'eau, l'urbanisation croissante et l'introduction d'espèces de poissons invasives dans les canaux. Malgré ce statut patrimonial, la majorité des chinampas historiques de Xochimilco sont aujourd'hui à l'abandon, victimes d'une pression foncière urbaine continue et d'un désintérêt économique croissant pour l'agriculture traditionnelle, même si des initiatives récentes de tourisme écologique et d'agriculture biologique tentent de revitaliser certaines parcelles selon les méthodes ancestrales.",
+            "es": "Este sitio constituye también el último refugio natural del ajolote (Ambystoma mexicanum), una salamandra acuática neoténica emblemática de México, hoy gravemente amenazada por la contaminación del agua, la urbanización creciente y la introducción de especies de peces invasoras en los canales. Pese a este estatus patrimonial, la mayoría de las chinampas históricas de Xochimilco están hoy abandonadas, víctimas de una presión inmobiliaria urbana continua y un desinterés económico creciente por la agricultura tradicional, aunque iniciativas recientes de turismo ecológico y agricultura orgánica intentan revitalizar algunas parcelas según los métodos ancestrales.",
+            "ca": "Aquest lloc constitueix també l'últim refugi natural de l'axolot (Ambystoma mexicanum), una salamandra aquàtica neotènica emblemàtica de Mèxic, avui greument amenaçada per la contaminació de l'aigua, la urbanització creixent i la introducció d'espècies de peixos invasores als canals. Malgrat aquest estatus patrimonial, la majoria de les chinampes històriques de Xochimilco estan avui abandonades, víctimes d'una pressió immobiliària urbana contínua i un desinterès econòmic creixent per l'agricultura tradicional, encara que iniciatives recents de turisme ecològic i agricultura orgànica intenten revitalitzar algunes parcel·les segons els mètodes ancestrals."
+          }
+        ]
+      },
+      "mots_cles": [
+        {
+          "mot": "un pieu (de bois)",
+          "es": "una estaca (de madera)",
+          "ca": "una estaca (de fusta)"
+        },
+        {
+          "mot": "une clôture (de roseaux)",
+          "es": "una valla (de cañas)",
+          "ca": "una tanca (de canyes)"
+        },
+        {
+          "mot": "l'irrigation par capillarité",
+          "es": "el riego por capilaridad",
+          "ca": "el reg per capil·laritat"
+        },
+        {
+          "mot": "curer (un canal)",
+          "es": "dragar (un canal)",
+          "ca": "dragar (un canal)"
+        },
+        {
+          "mot": "néoténique",
+          "es": "neoténico/a",
+          "ca": "neotènic/a"
+        },
+        {
+          "mot": "un abandon (agricole)",
+          "es": "un abandono (agrícola)",
+          "ca": "un abandonament (agrícola)"
+        }
+      ],
+      "questions": [
+        {
+          "q": {
+            "es": "¿De qué palabra náhuatl viene «chinampa», y qué significa?",
+            "ca": "De quina paraula nàhuatl ve «chinampa», i què significa?"
+          },
+          "piste": {
+            "es": "de chinamitl, «cercado de cañas»",
+            "ca": "de chinamitl, «tancat de canyes»"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Las chinampas realmente flotan?",
+            "ca": "Les chinampes realment floten?"
+          },
+          "piste": {
+            "es": "no, están firmemente ancladas al fondo del lago por las raíces de los sauces",
+            "ca": "no, estan fermament ancorades al fons del llac per les arrels dels salzes"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Cuántas veces más producían las chinampas que la agricultura de secano, según algunas estimaciones?",
+            "ca": "Quantes vegades més produïen les chinampes que l'agricultura de secà, segons algunes estimacions?"
+          },
+          "piste": {
+            "es": "hasta 13 veces más",
+            "ca": "fins a 13 vegades més"
+          }
+        },
+        {
+          "q": {
+            "es": "¿Qué especie animal amenazada sobrevive solo en Xochimilco?",
+            "ca": "Quina espècie animal amenaçada sobreviu només a Xochimilco?"
+          },
+          "piste": {
+            "es": "el ajolote",
+            "ca": "l'axolot"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "titre": "Wikipedia — Chinampa",
+          "url": "https://en.wikipedia.org/wiki/Chinampa"
+        },
+        {
+          "titre": "UNESCO — Historic Centre of Mexico City and Xochimilco",
+          "url": "https://whc.unesco.org/en/list/412/"
+        }
+      ]
+    }
+  ]
+}

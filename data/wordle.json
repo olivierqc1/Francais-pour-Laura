@@ -1,0 +1,424 @@
+{
+  "mots": [
+    {
+      "mot": "ÉRABLE",
+      "indice": {
+        "es": "árbol símbolo de Canadá, da un jarabe dulce",
+        "ca": "arbre símbol del Canadà, dona un xarop dolç"
+      },
+      "exemple": {
+        "fr": "L'érable pousse partout au Québec.",
+        "es": "El arce crece por todo Quebec.",
+        "ca": "L'auró creix per tot el Quebec."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🍁"
+    },
+    {
+      "mot": "NEIGE",
+      "indice": {
+        "es": "tombe du ciel en hiver, blanche et froide",
+        "ca": "cau del cel a l'hivern, blanca i freda"
+      },
+      "exemple": {
+        "fr": "La neige couvre la ville en janvier.",
+        "es": "La nieve cubre la ciudad en enero.",
+        "ca": "La neu cobreix la ciutat al gener."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "❄️"
+    },
+    {
+      "mot": "FLEUVE",
+      "indice": {
+        "es": "grande rivière qui va jusqu'à la mer",
+        "ca": "riu gran que arriba fins al mar"
+      },
+      "exemple": {
+        "fr": "Le Saint-Laurent est un grand fleuve.",
+        "es": "El San Lorenzo es un gran río.",
+        "ca": "El Sant Llorenç és un riu gran."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🌊"
+    },
+    {
+      "mot": "FORÊT",
+      "indice": {
+        "es": "endroit avec beaucoup d'arbres",
+        "ca": "lloc amb molts arbres"
+      },
+      "exemple": {
+        "fr": "La forêt boréale couvre le Québec.",
+        "es": "El bosque boreal cubre Quebec.",
+        "ca": "El bosc boreal cobreix el Quebec."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🌲"
+    },
+    {
+      "mot": "MONTAGNE",
+      "indice": {
+        "es": "relief très haut, avec un sommet",
+        "ca": "relleu molt alt, amb un cim"
+      },
+      "exemple": {
+        "fr": "On skie sur cette montagne l'hiver.",
+        "es": "Se esquía en esta montaña en invierno.",
+        "ca": "S'esquia en aquesta muntanya a l'hivern."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "⛰️"
+    },
+    {
+      "mot": "HISTOIRE",
+      "indice": {
+        "es": "récit du passé, ce qui s'est déjà passé",
+        "ca": "relat del passat, el que ja ha passat"
+      },
+      "exemple": {
+        "fr": "On apprend l'histoire du Québec à l'école.",
+        "es": "Se aprende la historia de Quebec en la escuela.",
+        "ca": "S'aprèn la història del Quebec a l'escola."
+      },
+      "niveau": "A2",
+      "theme": "Histoire",
+      "emoji": "📖"
+    },
+    {
+      "mot": "LIBERTÉ",
+      "indice": {
+        "es": "pouvoir faire ses propres choix, sans chaîne",
+        "ca": "poder fer les seves pròpies eleccions, sense cadena"
+      },
+      "exemple": {
+        "fr": "La liberté est une valeur importante.",
+        "es": "La libertad es un valor importante.",
+        "ca": "La llibertat és un valor important."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🕊️"
+    },
+    {
+      "mot": "ÉGALITÉ",
+      "indice": {
+        "es": "quand tout le monde a les mêmes droits",
+        "ca": "quan tothom té els mateixos drets"
+      },
+      "exemple": {
+        "fr": "L'égalité entre les gens est un idéal.",
+        "es": "La igualdad entre las personas es un ideal.",
+        "ca": "La igualtat entre les persones és un ideal."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "⚖️"
+    },
+    {
+      "mot": "RÉCOLTE",
+      "indice": {
+        "es": "ce qu'on ramasse dans un champ ou un jardin",
+        "ca": "el que es recull en un camp o un hort"
+      },
+      "exemple": {
+        "fr": "La récolte de maïs est bonne cette année.",
+        "es": "La cosecha de maíz es buena este año.",
+        "ca": "La collita de blat de moro és bona aquest any."
+      },
+      "niveau": "A2",
+      "theme": "Agriculture",
+      "emoji": "🌽"
+    },
+    {
+      "mot": "JARDIN",
+      "indice": {
+        "es": "petit terrain où on cultive des plantes",
+        "ca": "petit terreny on es conreen plantes"
+      },
+      "exemple": {
+        "fr": "Elle cultive des légumes dans son jardin.",
+        "es": "Ella cultiva verduras en su jardín.",
+        "ca": "Ella conrea verdures al seu jardí."
+      },
+      "niveau": "A1",
+      "theme": "Agriculture",
+      "emoji": "🌱"
+    },
+    {
+      "mot": "RACINE",
+      "indice": {
+        "es": "partie de la plante qui est sous la terre",
+        "ca": "part de la planta que és sota la terra"
+      },
+      "exemple": {
+        "fr": "Les racines de l'arbre boivent l'eau.",
+        "es": "Las raíces del árbol beben el agua.",
+        "ca": "Les arrels de l'arbre beuen l'aigua."
+      },
+      "niveau": "A2",
+      "theme": "Agriculture",
+      "emoji": "🌿"
+    },
+    {
+      "mot": "COMPOST",
+      "indice": {
+        "es": "mélange de déchets qui devient de la bonne terre",
+        "ca": "barreja de deixalles que esdevé bona terra"
+      },
+      "exemple": {
+        "fr": "On met les épluchures dans le compost.",
+        "es": "Se ponen las cáscaras en el compost.",
+        "ca": "Es posen les pells al compost."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🪱"
+    },
+    {
+      "mot": "CHAMPIGNON",
+      "indice": {
+        "es": "petit être qui pousse sous les arbres, ni plante ni animal",
+        "ca": "petit ésser que creix sota els arbres, ni planta ni animal"
+      },
+      "exemple": {
+        "fr": "Ce champignon connecte les racines des arbres.",
+        "es": "Este hongo conecta las raíces de los árboles.",
+        "ca": "Aquest fong connecta les arrels dels arbres."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🍄"
+    },
+    {
+      "mot": "SYNDICAT",
+      "indice": {
+        "es": "groupe de travailleurs qui défend leurs droits ensemble",
+        "ca": "grup de treballadors que defensa els seus drets junts"
+      },
+      "exemple": {
+        "fr": "Le syndicat organise une grève demain.",
+        "es": "El sindicato organiza una huelga mañana.",
+        "ca": "El sindicat organitza una vaga demà."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "✊"
+    },
+    {
+      "mot": "EXIL",
+      "indice": {
+        "es": "vivre loin de son pays, souvent forcé",
+        "ca": "viure lluny del seu país, sovint forçat"
+      },
+      "exemple": {
+        "fr": "Il vit en exil depuis dix ans.",
+        "es": "Vive en el exilio desde hace diez años.",
+        "ca": "Viu a l'exili des de fa deu anys."
+      },
+      "niveau": "B1",
+      "theme": "Histoire",
+      "emoji": "🧳"
+    },
+    {
+      "mot": "VOYAGEUR",
+      "indice": {
+        "es": "homme qui transportait les fourrures en canot",
+        "ca": "home que transportava les pells en canoa"
+      },
+      "exemple": {
+        "fr": "Le voyageur pagaie toute la journée.",
+        "es": "El voyageur rema todo el día.",
+        "ca": "El voyageur rema tot el dia."
+      },
+      "niveau": "A2",
+      "theme": "Histoire",
+      "emoji": "🛶"
+    },
+    {
+      "mot": "ALLIANCE",
+      "indice": {
+        "es": "accord entre deux groupes qui s'aident",
+        "ca": "acord entre dos grups que s'ajuden"
+      },
+      "exemple": {
+        "fr": "Les Français forment une alliance avec les Wendats.",
+        "es": "Los franceses forman una alianza con los wendat.",
+        "ca": "Els francesos formen una aliança amb els wendat."
+      },
+      "niveau": "B1",
+      "theme": "Histoire",
+      "emoji": "🤝"
+    },
+    {
+      "mot": "SEMENCE",
+      "indice": {
+        "es": "petite graine qu'on plante pour faire pousser une plante",
+        "ca": "petita llavor que es planta per fer créixer una planta"
+      },
+      "exemple": {
+        "fr": "Cette semence donnera de belles tomates.",
+        "es": "Esta semilla dará bonitos tomates.",
+        "ca": "Aquesta llavor donarà bonics tomàquets."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🌾"
+    },
+    {
+      "mot": "ENTRAIDE",
+      "indice": {
+        "es": "s'aider les uns les autres",
+        "ca": "ajudar-se els uns als altres"
+      },
+      "exemple": {
+        "fr": "L'entraide existe aussi chez les animaux.",
+        "es": "La ayuda mutua también existe entre los animales.",
+        "ca": "L'ajuda mútua també existeix entre els animals."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🤲"
+    },
+    {
+      "mot": "CABANE",
+      "indice": {
+        "es": "petite maison simple, souvent en bois",
+        "ca": "casa petita i senzilla, sovint de fusta"
+      },
+      "exemple": {
+        "fr": "Les militants construisent une cabane.",
+        "es": "Los militantes construyen una cabaña.",
+        "ca": "Els militants construeixen una cabana."
+      },
+      "niveau": "A1",
+      "theme": "Histoire",
+      "emoji": "🛖"
+    },
+    {
+      "mot": "RÉVOLTE",
+      "indice": {
+        "es": "quand des gens se lèvent contre le pouvoir",
+        "ca": "quan la gent s'aixeca contra el poder"
+      },
+      "exemple": {
+        "fr": "La révolte commence dans la capitale.",
+        "es": "La revuelta empieza en la capital.",
+        "ca": "La revolta comença a la capital."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🔥"
+    },
+    {
+      "mot": "PRISON",
+      "indice": {
+        "es": "endroit fermé où on enferme les gens punis",
+        "ca": "lloc tancat on es tanca la gent castigada"
+      },
+      "exemple": {
+        "fr": "Il passe dix ans en prison.",
+        "es": "Pasa diez años en prisión.",
+        "ca": "Passa deu anys a la presó."
+      },
+      "niveau": "A1",
+      "theme": "Histoire",
+      "emoji": "🔒"
+    },
+    {
+      "mot": "PAIX",
+      "indice": {
+        "es": "quand il n'y a plus de guerre",
+        "ca": "quan ja no hi ha guerra"
+      },
+      "exemple": {
+        "fr": "Les deux nations signent la paix.",
+        "es": "Las dos naciones firman la paz.",
+        "ca": "Les dues nacions signen la pau."
+      },
+      "niveau": "A1",
+      "theme": "Histoire",
+      "emoji": "🕊️"
+    },
+    {
+      "mot": "TERRE",
+      "indice": {
+        "es": "sol où on marche, où on cultive",
+        "ca": "sòl on es camina, on es conrea"
+      },
+      "exemple": {
+        "fr": "Cette terre appartenait à sa famille.",
+        "es": "Esta tierra pertenecía a su familia.",
+        "ca": "Aquesta terra pertanyia a la seva família."
+      },
+      "niveau": "A1",
+      "theme": "Agriculture",
+      "emoji": "🌍"
+    },
+    {
+      "mot": "EMPIRE",
+      "indice": {
+        "es": "grand territoire gouverné par un seul pouvoir",
+        "ca": "gran territori governat per un sol poder"
+      },
+      "exemple": {
+        "fr": "L'empire s'étend sur plusieurs continents.",
+        "es": "El imperio se extiende por varios continentes.",
+        "ca": "L'imperi s'estén per diversos continents."
+      },
+      "niveau": "B1",
+      "theme": "Histoire",
+      "emoji": "👑"
+    },
+    {
+      "mot": "BOTANISTE",
+      "indice": {
+        "es": "scientifique qui étudie les plantes",
+        "ca": "científic que estudia les plantes"
+      },
+      "exemple": {
+        "fr": "Le botaniste collecte des graines rares.",
+        "es": "El botánico recolecta semillas raras.",
+        "ca": "El botànic recol·lecta llavors rares."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🔬"
+    },
+    {
+      "mot": "MUTUALISME",
+      "indice": {
+        "es": "s'associer librement pour s'entraider économiquement",
+        "ca": "associar-se lliurement per ajudar-se econòmicament"
+      },
+      "exemple": {
+        "fr": "Proudhon défend le mutualisme.",
+        "es": "Proudhon defiende el mutualismo.",
+        "ca": "Proudhon defensa el mutualisme."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "⚖️"
+    },
+    {
+      "mot": "BIOGAZ",
+      "indice": {
+        "es": "gaz produit par la décomposition des déchets",
+        "ca": "gas produït per la descomposició de les deixalles"
+      },
+      "exemple": {
+        "fr": "Le fumier produit du biogaz.",
+        "es": "El estiércol produce biogás.",
+        "ca": "El fem produeix biogàs."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "♻️"
+    }
+  ]
+}

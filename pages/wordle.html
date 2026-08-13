@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wordle — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<script src="../js/srs.js"></script>
+<style>
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+.subnav-tabs { display:flex; gap:0.5rem; margin-bottom:1.2rem; flex-wrap:wrap; }
+.subnav-tabs a { padding:0.45rem 0.9rem; border-radius:999px; background:#1c1c1c; color:#ccc; text-decoration:none; font-size:0.92rem; border:1px solid #333; }
+.subnav-tabs a.active { background:#c1440e; color:#fff; border-color:#c1440e; }
+
+.wdl-clue { background:var(--bg3); border:1px solid var(--border); border-radius:14px; padding:1rem 1.1rem; margin-bottom:1.1rem; }
+.wdl-clue-top { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem; }
+.wdl-emoji { font-size:1.4rem; }
+.wdl-badge { background:var(--gold); color:#1a1410; font-size:0.72rem; font-weight:700; padding:0.15rem 0.55rem; border-radius:20px; font-family:'Outfit',sans-serif; }
+.wdl-theme { color:var(--text-dim); font-size:0.78rem; font-family:'Outfit',sans-serif; }
+.wdl-clue-text { font-family:'Cormorant Garamond',serif; font-size:1.25rem; color:var(--cream); line-height:1.4; }
+.wdl-len { color:var(--text-dim); font-size:0.8rem; margin-top:0.35rem; }
+
+.wdl-grid { display:flex; flex-direction:column; gap:6px; margin:0 auto 1.1rem; width:100%; }
+.wdl-row { display:flex; gap:5px; justify-content:center; }
+.wdl-tile { flex-shrink:0; border:2px solid var(--border); border-radius:8px; display:flex; align-items:center; justify-content:center; font-family:'Outfit',sans-serif; font-weight:700; color:var(--cream); background:var(--bg2); text-transform:uppercase; }
+.wdl-tile.filled { border-color:#666; }
+.wdl-tile.correct { background:#3a7d44; border-color:#3a7d44; color:#fff; }
+.wdl-tile.present { background:#b8860b; border-color:#b8860b; color:#fff; }
+.wdl-tile.absent { background:#3a3a3a; border-color:#3a3a3a; color:#999; }
+.wdl-tile.shake { animation:wdlshake 0.3s; }
+@keyframes wdlshake { 0%,100%{transform:translateX(0);} 25%{transform:translateX(-5px);} 75%{transform:translateX(5px);} }
+
+.wdl-msg { text-align:center; font-family:'Outfit',sans-serif; font-size:0.95rem; min-height:1.4rem; margin-bottom:0.8rem; color:var(--gold-light); }
+
+.wdl-kb { display:flex; flex-direction:column; gap:6px; max-width:520px; margin:0 auto; }
+.wdl-kb-row { display:flex; gap:4px; justify-content:center; }
+.wdl-key { flex:1; max-width:34px; height:44px; border:none; border-radius:6px; background:var(--bg3); color:var(--cream); font-family:'Outfit',sans-serif; font-weight:600; font-size:0.85rem; display:flex; align-items:center; justify-content:center; cursor:pointer; text-transform:uppercase; }
+.wdl-key.wide { max-width:64px; font-size:0.72rem; }
+.wdl-key.correct { background:#3a7d44; color:#fff; }
+.wdl-key.present { background:#b8860b; color:#fff; }
+.wdl-key.absent { background:#2a2a2a; color:#777; }
+.wdl-key:active { opacity:0.7; }
+
+.wdl-result { background:var(--bg3); border:1px solid var(--gold); border-radius:14px; padding:1.1rem; margin-top:1rem; text-align:center; display:none; }
+.wdl-result.show { display:block; }
+.wdl-result-word { font-family:'Cormorant Garamond',serif; font-size:1.8rem; color:var(--gold-light); margin-bottom:0.4rem; }
+.wdl-result-tr { color:var(--text-dim); font-size:0.9rem; margin-bottom:0.6rem; }
+.wdl-result-ex { font-style:italic; color:var(--cream); font-size:0.92rem; margin-bottom:0.3rem; }
+.wdl-result-ex-tr { color:var(--text-dim); font-size:0.82rem; }
+.wdl-newgame { margin-top:0.9rem; background:var(--maple); border:none; border-radius:20px; color:#fff; padding:0.6rem 1.3rem; font-family:'Outfit',sans-serif; font-weight:600; cursor:pointer; }
+
+.wdl-toprow { display:flex; align-items:center; gap:0.6rem; margin-bottom:0.9rem; flex-wrap:wrap; }
+.wdl-mode-btn { background:var(--bg3); border:1px solid var(--border); border-radius:20px; color:var(--text-dim); cursor:pointer; padding:0.4rem 0.9rem; font-family:'Outfit',sans-serif; font-size:0.85rem; font-weight:600; }
+.wdl-mode-btn.active { background:var(--gold); border-color:var(--gold); color:#1a1410; }
+.wdl-score { color:var(--text-dim); font-size:0.8rem; font-family:'Outfit',sans-serif; margin-left:auto; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">🟩 <span data-es="Wordle francés" data-ca="Wordle francès">Wordle francés</span></div>
+    <h1 data-es="Adivina la palabra" data-ca="Endevina la paraula">Adivina la palabra</h1>
+    <p data-es="Lee la pista, escribe la palabra en francés. Verde = letra correcta en su sitio. Amarillo = está en la palabra pero en otro sitio. Gris = no está." data-ca="Llegeix la pista, escriu la paraula en francès. Verd = lletra correcta al seu lloc. Groc = hi és a la paraula però en un altre lloc. Gris = no hi és.">Lee la pista, escribe la palabra en francés.</p>
+  </div>
+
+  <div class="subnav-tabs fade-up">
+    <a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a>
+    <a href="feminisme.html">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a>
+    <a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a>
+    <a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a>
+    <a href="wordle.html" class="active">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a>
+    <a href="srs.html">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a>
+  </div>
+
+  <div class="wdl-toprow">
+    <button class="wdl-mode-btn active" id="mode-daily" data-es="Palabra del día" data-ca="Paraula del dia">Palabra del día</button>
+    <button class="wdl-mode-btn" id="mode-random" data-es="Modo infinito" data-ca="Mode infinit">Modo infinito</button>
+    <span class="wdl-score" id="wdl-score"></span>
+  </div>
+
+  <div class="wdl-clue" id="wdl-clue">
+    <div class="wdl-clue-top">
+      <span class="wdl-emoji" id="wdl-emoji">🟩</span>
+      <span class="wdl-badge" id="wdl-niveau">A1</span>
+      <span class="wdl-theme" id="wdl-theme"></span>
+    </div>
+    <div class="wdl-clue-text" id="wdl-clue-text">Cargando…</div>
+    <div class="wdl-len" id="wdl-len"></div>
+  </div>
+
+  <div class="wdl-msg" id="wdl-msg"></div>
+  <div class="wdl-grid" id="wdl-grid"></div>
+
+  <div class="wdl-kb" id="wdl-kb"></div>
+
+  <div class="wdl-result" id="wdl-result">
+    <div class="wdl-result-word" id="wdl-result-word"></div>
+    <div class="wdl-result-tr" id="wdl-result-tr"></div>
+    <div class="wdl-result-ex" id="wdl-result-ex"></div>
+    <div class="wdl-result-ex-tr" id="wdl-result-ex-tr"></div>
+    <button class="wdl-newgame" id="wdl-newgame" data-es="Jugar otra vez" data-ca="Jugar un altre cop">Jugar otra vez</button>
+  </div>
+
+</div>
+</div>
+
+<script>
+function getLang(){ return localStorage.getItem('lang') || 'es'; }
+function applyLangStatic(){
+  const l = getLang();
+  document.querySelectorAll('[data-es]').forEach(el=>{
+    const v = el.getAttribute('data-'+l) || el.getAttribute('data-es');
+    if (el.children.length===0) el.textContent = v;
+  });
+}
+document.querySelectorAll('.lang-toggle button').forEach(b=>{
+  b.addEventListener('click', ()=>{ localStorage.setItem('lang', b.dataset.lang); location.reload(); });
+});
+applyLangStatic();
+
+const AZERTY = [
+  ['A','Z','E','R','T','Y','U','I','O','P'],
+  ['Q','S','D','F','G','H','J','K','L','M'],
+  ['ENTER','W','X','C','V','B','N','⌫']
+];
+
+let WORDS = [];
+let current = null;
+let guesses = [];
+let currentGuess = '';
+let gameOver = false;
+let mode = 'daily';
+let infiniteQueue = [];
+let infiniteScore = 0;
+
+function normalize(s){
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
+}
+
+function dayIndex(len){
+  const now = new Date();
+  const start = new Date(now.getFullYear(), 0, 0);
+  const diff = now - start;
+  const dayOfYear = Math.floor(diff / 86400000);
+  return dayOfYear % len;
+}
+
+function shuffle(arr){
+  const a = arr.slice();
+  for (let i=a.length-1; i>0; i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [a[i],a[j]] = [a[j],a[i]];
+  }
+  return a;
+}
+
+function loadInfiniteScore(){
+  try { infiniteScore = parseInt(localStorage.getItem('wdl_infinite_score')||'0',10) || 0; } catch(e){ infiniteScore = 0; }
+}
+function saveInfiniteScore(){
+  try { localStorage.setItem('wdl_infinite_score', String(infiniteScore)); } catch(e){}
+}
+function renderScore(){
+  const el = document.getElementById('wdl-score');
+  if (mode === 'random'){
+    const l = getLang();
+    el.textContent = (l==='ca' ? 'Encertades: ' : 'Aciertos: ') + infiniteScore;
+  } else {
+    el.textContent = '';
+  }
+}
+
+function pickWord(){
+  if (mode === 'daily'){
+    return WORDS[dayIndex(WORDS.length)];
+  } else {
+    if (infiniteQueue.length === 0){
+      infiniteQueue = shuffle(WORDS);
+      if (current && infiniteQueue[0].mot === current.mot && infiniteQueue.length > 1){
+        [infiniteQueue[0], infiniteQueue[1]] = [infiniteQueue[1], infiniteQueue[0]];
+      }
+    }
+    return infiniteQueue.shift();
+  }
+}
+
+function tileSizePx(len){
+  const containerW = Math.min(document.querySelector('.container').clientWidth - 16, 520);
+  const gaps = (len - 1) * 5;
+  const raw = Math.floor((containerW - gaps) / len);
+  return Math.max(28, Math.min(46, raw));
+}
+
+function storageKey(){
+  const now = new Date();
+  const dateStr = now.getFullYear()+'-'+now.getMonth()+'-'+now.getDate();
+  return 'wdl_'+mode+'_'+dateStr+(mode==='random' && current ? '_'+current.mot : '');
+}
+
+function saveState(){
+  if (mode !== 'daily') return;
+  try {
+    localStorage.setItem(storageKey(), JSON.stringify({mot: current.mot, guesses, gameOver}));
+  } catch(e){}
+}
+
+function loadState(){
+  if (mode !== 'daily') return null;
+  try {
+    const raw = localStorage.getItem(storageKey());
+    if (!raw) return null;
+    const st = JSON.parse(raw);
+    if (st.mot === current.mot) return st;
+  } catch(e){}
+  return null;
+}
+
+function startGame(){
+  current = pickWord();
+  guesses = [];
+  currentGuess = '';
+  gameOver = false;
+  const saved = loadState();
+  if (saved){
+    guesses = saved.guesses;
+    gameOver = saved.gameOver;
+  }
+  renderClue();
+  renderGrid();
+  renderKeyboard();
+  renderScore();
+  document.getElementById('wdl-result').classList.remove('show');
+  document.getElementById('wdl-msg').textContent = '';
+  if (gameOver) showResult(guesses[guesses.length-1] === normalize(current.mot));
+}
+
+window.addEventListener('resize', ()=>{ if (current) renderGrid(); });
+
+function renderClue(){
+  const l = getLang();
+  document.getElementById('wdl-emoji').textContent = current.emoji;
+  document.getElementById('wdl-niveau').textContent = current.niveau;
+  document.getElementById('wdl-theme').textContent = current.theme;
+  document.getElementById('wdl-clue-text').textContent = current.indice[l] || current.indice.es;
+  const lenLabel = l==='ca' ? 'lletres' : 'letras';
+  document.getElementById('wdl-len').textContent = current.mot.length + ' ' + lenLabel;
+}
+
+function renderGrid(){
+  const grid = document.getElementById('wdl-grid');
+  grid.innerHTML = '';
+  const len = current.mot.length;
+  const px = tileSizePx(len);
+  const fontPx = Math.max(14, Math.round(px * 0.42));
+  for (let r=0; r<6; r++){
+    const row = document.createElement('div');
+    row.className = 'wdl-row';
+    for (let c=0; c<len; c++){
+      const tile = document.createElement('div');
+      tile.className = 'wdl-tile';
+      tile.style.width = px + 'px';
+      tile.style.height = px + 'px';
+      tile.style.fontSize = fontPx + 'px';
+      if (r < guesses.length){
+        const g = guesses[r];
+        tile.textContent = g[c];
+        tile.classList.add('filled');
+        const status = tileStatus(g, c);
+        tile.classList.add(status);
+      } else if (r === guesses.length && c < currentGuess.length){
+        tile.textContent = currentGuess[c];
+        tile.classList.add('filled');
+      }
+      row.appendChild(tile);
+    }
+    grid.appendChild(row);
+  }
+}
+
+function tileStatus(guess, idx){
+  const target = normalize(current.mot);
+  if (guess[idx] === target[idx]) return 'correct';
+  if (target.includes(guess[idx])) return 'present';
+  return 'absent';
+}
+
+function letterStatuses(){
+  const map = {};
+  const target = normalize(current.mot);
+  guesses.forEach(g=>{
+    for (let i=0;i<g.length;i++){
+      const st = tileStatus(g, i);
+      const prev = map[g[i]];
+      const rank = {correct:3, present:2, absent:1};
+      if (!prev || rank[st] > rank[prev]) map[g[i]] = st;
+    }
+  });
+  return map;
+}
+
+function renderKeyboard(){
+  const kb = document.getElementById('wdl-kb');
+  kb.innerHTML = '';
+  const statuses = letterStatuses();
+  AZERTY.forEach(row=>{
+    const rowEl = document.createElement('div');
+    rowEl.className = 'wdl-kb-row';
+    row.forEach(k=>{
+      const btn = document.createElement('button');
+      btn.className = 'wdl-key';
+      if (k==='ENTER' || k==='⌫') btn.classList.add('wide');
+      btn.textContent = k==='ENTER' ? (getLang()==='ca'?'OK':'OK') : k;
+      if (statuses[k]) btn.classList.add(statuses[k]);
+      btn.addEventListener('click', ()=> handleKey(k));
+      rowEl.appendChild(btn);
+    });
+    kb.appendChild(rowEl);
+  });
+}
+
+function handleKey(k){
+  if (gameOver) return;
+  if (k === 'ENTER'){ submitGuess(); return; }
+  if (k === '⌫'){ currentGuess = currentGuess.slice(0,-1); renderGrid(); return; }
+  if (currentGuess.length < current.mot.length){
+    currentGuess += k;
+    renderGrid();
+  }
+}
+
+document.addEventListener('keydown', (e)=>{
+  if (gameOver) return;
+  const key = e.key.toUpperCase();
+  if (key === 'ENTER') { submitGuess(); return; }
+  if (key === 'BACKSPACE') { currentGuess = currentGuess.slice(0,-1); renderGrid(); return; }
+  if (/^[A-ZÀ-Ÿ]$/.test(key) && currentGuess.length < current.mot.length){
+    currentGuess += normalize(key);
+    renderGrid();
+  }
+});
+
+function submitGuess(){
+  const len = current.mot.length;
+  const msg = document.getElementById('wdl-msg');
+  if (currentGuess.length !== len){
+    msg.textContent = getLang()==='ca' ? 'Falten lletres' : 'Faltan letras';
+    shakeRow();
+    return;
+  }
+  msg.textContent = '';
+  guesses.push(currentGuess);
+  const won = currentGuess === normalize(current.mot);
+  currentGuess = '';
+  renderGrid();
+  renderKeyboard();
+  saveState();
+  if (won){
+    gameOver = true;
+    saveState();
+    showResult(true);
+  } else if (guesses.length >= 6){
+    gameOver = true;
+    saveState();
+    showResult(false);
+  }
+}
+
+function shakeRow(){
+  const grid = document.getElementById('wdl-grid');
+  const row = grid.children[guesses.length];
+  if (row){ row.classList.add('shake'); setTimeout(()=>row.classList.remove('shake'), 300); }
+}
+
+function showResult(won){
+  const l = getLang();
+  const msg = document.getElementById('wdl-msg');
+  msg.textContent = won ? (l==='ca' ? 'Molt bé!' : '¡Muy bien!') : (l==='ca' ? 'Ja hi tornarem' : 'Ya lo intentaremos de nuevo');
+  if (window.SRS){
+    SRS.record('wordle:'+current.mot, won ? 'good' : 'again');
+  }
+  if (mode === 'random' && won){
+    infiniteScore += 1;
+    saveInfiniteScore();
+    renderScore();
+  }
+  const res = document.getElementById('wdl-result');
+  document.getElementById('wdl-result-word').textContent = current.mot;
+  document.getElementById('wdl-result-tr').textContent = current.indice[l] || current.indice.es;
+  document.getElementById('wdl-result-ex').textContent = current.exemple.fr;
+  document.getElementById('wdl-result-ex-tr').textContent = current.exemple[l] || current.exemple.es;
+  res.classList.add('show');
+}
+
+document.getElementById('wdl-newgame').addEventListener('click', ()=>{
+  mode = 'random';
+  document.getElementById('mode-daily').classList.remove('active');
+  document.getElementById('mode-random').classList.add('active');
+  startGame();
+});
+
+document.getElementById('mode-daily').addEventListener('click', ()=>{
+  mode = 'daily';
+  document.getElementById('mode-daily').classList.add('active');
+  document.getElementById('mode-random').classList.remove('active');
+  startGame();
+});
+document.getElementById('mode-random').addEventListener('click', ()=>{
+  mode = 'random';
+  document.getElementById('mode-random').classList.add('active');
+  document.getElementById('mode-daily').classList.remove('active');
+  startGame();
+});
+
+loadInfiniteScore();
+fetch('../data/wordle.json').then(r=>r.json()).then(data=>{
+  WORDS = data.mots;
+  startGame();
+}).catch(()=>{
+  document.getElementById('wdl-clue-text').textContent =
+    (getLang()==='ca' ? 'No s\'ha pogut carregar el contingut. Assegura\'t de pujar el fitxer ' : 'No se pudo cargar el contenido. Asegúrate de subir el archivo ') + 'wordle.json a la carpeta data.';
+});
+</script>
+</body>
+</html>

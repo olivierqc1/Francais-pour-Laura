@@ -419,6 +419,1013 @@
       "niveau": "B1",
       "theme": "Agriculture",
       "emoji": "♻️"
+    },
+    {
+      "mot": "MAISON",
+      "indice": {
+        "es": "la casa donde se vive",
+        "ca": "la casa on es viu"
+      },
+      "exemple": {
+        "fr": "Cette maison est très ancienne.",
+        "es": "Esta casa es muy antigua.",
+        "ca": "Aquesta casa és molt antiga."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🏠"
+    },
+    {
+      "mot": "FAMILLE",
+      "indice": {
+        "es": "groupe de parents et d'enfants",
+        "ca": "grup de pares i fills"
+      },
+      "exemple": {
+        "fr": "Toute la famille se réunit à Noël.",
+        "es": "Toda la familia se reúne en Navidad.",
+        "ca": "Tota la família es reuneix per Nadal."
+      },
+      "niveau": "A1",
+
+"theme": "Quotidien",
+      "emoji": "👨‍👩‍👧"
+    },
+    {
+      "mot": "AMOUR",
+      "indice": {
+        "es": "sentiment fort d'affection",
+        "ca": "sentiment fort d'estimació"
+      },
+      "exemple": {
+        "fr": "Leur amour dure depuis dix ans.",
+        "es": "Su amor dura desde hace diez años.",
+        "ca": "El seu amor dura des de fa deu anys."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "❤️"
+    },
+    {
+      "mot": "TRAVAIL",
+      "indice": {
+        "es": "ce qu'on fait pour gagner de l'argent",
+        "ca": "el que es fa per guanyar diners"
+      },
+      "exemple": {
+        "fr": "Son travail commence à huit heures.",
+        "es": "Su trabajo empieza a las ocho.",
+        "ca": "La seva feina comença a les vuit."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "💼"
+    },
+    {
+      "mot": "ÉCOLE",
+      "indice": {
+        "es": "endroit où on apprend",
+        "ca": "lloc on s'aprèn"
+      },
+      "exemple": {
+        "fr": "Les enfants vont à l'école le matin.",
+        "es": "Los niños van a la escuela por la mañana.",
+        "ca": "Els nens van a l'escola al matí."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🏫"
+    },
+    {
+      "mot": "LIVRE",
+      "indice": {
+        "es": "objet avec des pages, pour lire",
+        "ca": "objecte amb pàgines, per llegir"
+      },
+      "exemple": {
+        "fr": "Elle lit un livre avant de dormir.",
+        "es": "Ella lee un libro antes de dormir.",
+        "ca": "Ella llegeix un llibre abans de dormir."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "📖"
+    },
+    {
+      "mot": "MUSIQUE",
+      "indice": {
+        "es": "art des sons organisés",
+        "ca": "art dels sons organitzats"
+      },
+      "exemple": {
+        "fr": "Il écoute de la musique en travaillant.",
+        "es": "Escucha música mientras trabaja.",
+        "ca": "Escolta música mentre treballa."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🎵"
+    },
+    {
+      "mot": "CUISINE",
+      "indice": {
+        "es": "endroit où on cuisine, ou l'art de cuisiner",
+        "ca": "lloc on es cuina, o l'art de cuinar"
+      },
+      "exemple": {
+        "fr": "La cuisine sent bon ce soir.",
+        "es": "La cocina huele bien esta noche.",
+        "ca": "La cuina fa bona olor aquesta nit."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🍳"
+    },
+    {
+      "mot": "VOITURE",
+      "indice": {
+        "es": "véhicule à quatre roues",
+        "ca": "vehicle amb quatre rodes"
+      },
+      "exemple": {
+        "fr": "Sa voiture est garée devant la maison.",
+        "es": "Su coche está aparcado delante de la casa.",
+        "ca": "El seu cotxe està aparcat davant la casa."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🚗"
+    },
+    {
+      "mot": "SOLEIL",
+      "indice": {
+        "es": "astre qui donne la lumière du jour",
+        "ca": "astre que dona la llum del dia"
+      },
+      "exemple": {
+        "fr": "Le soleil se lève tôt en été.",
+        "es": "El sol sale temprano en verano.",
+        "ca": "El sol surt d'hora a l'estiu."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "☀️"
+    },
+    {
+      "mot": "NUAGE",
+      "indice": {
+        "es": "masse blanche ou grise dans le ciel",
+        "ca": "massa blanca o grisa al cel"
+      },
+      "exemple": {
+        "fr": "Un gros nuage cache le soleil.",
+        "es": "Una gran nube tapa el sol.",
+        "ca": "Un gran núvol tapa el sol."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "☁️"
+    },
+    {
+      "mot": "PLUIE",
+      "indice": {
+        "es": "eau qui tombe du ciel",
+        "ca": "aigua que cau del cel"
+      },
+      "exemple": {
+        "fr": "La pluie tombe depuis ce matin.",
+        "es": "La lluvia cae desde esta mañana.",
+        "ca": "La pluja cau des d'aquest matí."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🌧️"
+    },
+    {
+      "mot": "RIVIÈRE",
+      "indice": {
+        "es": "cours d'eau plus petit qu'un fleuve",
+        "ca": "curs d'aigua més petit que un riu gran"
+      },
+      "exemple": {
+        "fr": "Ils se baignent dans la rivière.",
+        "es": "Se bañan en el río.",
+        "ca": "Es banyen al riu."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🏞️"
+    },
+    {
+      "mot": "OISEAU",
+      "indice": {
+        "es": "animal qui vole et a des plumes",
+        "ca": "animal que vola i té plomes"
+      },
+      "exemple": {
+        "fr": "Un oiseau chante dans l'arbre.",
+        "es": "Un pájaro canta en el árbol.",
+        "ca": "Un ocell canta a l'arbre."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🐦"
+    },
+    {
+      "mot": "POISSON",
+      "indice": {
+        "es": "animal qui vit dans l'eau",
+        "ca": "animal que viu a l'aigua"
+      },
+      "exemple": {
+        "fr": "Il pêche un poisson dans le lac.",
+        "es": "Pesca un pez en el lago.",
+        "ca": "Pesca un peix al llac."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🐟"
+    },
+    {
+      "mot": "FROMAGE",
+      "indice": {
+        "es": "produit laitier, très français",
+        "ca": "producte lacti, molt francès"
+      },
+      "exemple": {
+        "fr": "Le fromage québécois est excellent.",
+        "es": "El queso quebequense es excelente.",
+        "ca": "El formatge quebequès és excel·lent."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🧀"
+    },
+    {
+      "mot": "HIVER",
+      "indice": {
+        "es": "saison froide de l'année",
+        "ca": "estació freda de l'any"
+      },
+      "exemple": {
+        "fr": "L'hiver est long au Québec.",
+        "es": "El invierno es largo en Quebec.",
+        "ca": "L'hivern és llarg al Quebec."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "⛄"
+    },
+    {
+      "mot": "PRINTEMPS",
+      "indice": {
+        "es": "saison après l'hiver",
+        "ca": "estació després de l'hivern"
+      },
+      "exemple": {
+        "fr": "Les fleurs poussent au printemps.",
+        "es": "Las flores crecen en primavera.",
+        "ca": "Les flors creixen a la primavera."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🌸"
+    },
+    {
+      "mot": "AUTOMNE",
+      "indice": {
+        "es": "saison après l'été",
+        "ca": "estació després de l'estiu"
+      },
+      "exemple": {
+        "fr": "Les feuilles tombent en automne.",
+        "es": "Las hojas caen en otoño.",
+        "ca": "Les fulles cauen a la tardor."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🍂"
+    },
+    {
+      "mot": "SEMAINE",
+      "indice": {
+        "es": "période de sept jours",
+        "ca": "període de set dies"
+      },
+      "exemple": {
+        "fr": "On se voit la semaine prochaine.",
+        "es": "Nos vemos la semana que viene.",
+        "ca": "Ens veiem la setmana que ve."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "📅"
+    },
+    {
+      "mot": "DEMAIN",
+      "indice": {
+        "es": "le jour après aujourd'hui",
+        "ca": "el dia després d'avui"
+      },
+      "exemple": {
+        "fr": "On part demain matin.",
+        "es": "Nos vamos mañana por la mañana.",
+        "ca": "Marxem demà al matí."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🌅"
+    },
+    {
+      "mot": "TOUJOURS",
+      "indice": {
+        "es": "à chaque moment, sans exception",
+        "ca": "en tot moment, sense excepció"
+      },
+      "exemple": {
+        "fr": "Il arrive toujours en retard.",
+        "es": "Siempre llega tarde.",
+        "ca": "Sempre arriba tard."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "⏰"
+    },
+    {
+      "mot": "SOUVENT",
+      "indice": {
+        "es": "plusieurs fois, fréquemment",
+        "ca": "moltes vegades, freqüentment"
+      },
+      "exemple": {
+        "fr": "Elle vient souvent nous voir.",
+        "es": "Viene a menudo a vernos.",
+        "ca": "Ve sovint a veure'ns."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🔁"
+    },
+    {
+      "mot": "RAPIDE",
+      "indice": {
+        "es": "qui va vite",
+        "ca": "que va de pressa"
+      },
+      "exemple": {
+        "fr": "Ce train est très rapide.",
+        "es": "Este tren es muy rápido.",
+        "ca": "Aquest tren és molt ràpid."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "⚡"
+    },
+    {
+      "mot": "HEUREUX",
+      "indice": {
+        "es": "qui ressent de la joie",
+        "ca": "que sent alegria"
+      },
+      "exemple": {
+        "fr": "Il est heureux de te revoir.",
+        "es": "Está feliz de volver a verte.",
+        "ca": "Està feliç de tornar-te a veure."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "😊"
+    },
+    {
+      "mot": "TRISTE",
+      "indice": {
+        "es": "qui ressent de la peine",
+        "ca": "que sent pena"
+      },
+      "exemple": {
+        "fr": "Elle est triste après ce film.",
+        "es": "Está triste después de esta película.",
+        "ca": "Està trista després d'aquesta pel·lícula."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "😢"
+    },
+    {
+      "mot": "FATIGUÉ",
+      "indice": {
+        "es": "qui a besoin de se reposer",
+        "ca": "que necessita descansar"
+      },
+      "exemple": {
+        "fr": "Je suis fatigué après le travail.",
+        "es": "Estoy cansado después del trabajo.",
+        "ca": "Estic cansat després de la feina."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "😴"
+    },
+    {
+      "mot": "SIROP",
+      "indice": {
+        "es": "liquide sucré, célèbre au Québec (d'érable)",
+        "ca": "líquid dolç, famós al Quebec (d'auró)"
+      },
+      "exemple": {
+        "fr": "On verse le sirop sur les crêpes.",
+        "es": "Se echa el jarabe sobre las crepes.",
+        "ca": "S'aboca el xarop sobre les crepes."
+      },
+      "niveau": "A1",
+      "theme": "Nature",
+      "emoji": "🍁"
+    },
+    {
+      "mot": "ORIGNAL",
+      "indice": {
+        "es": "grand animal avec des bois, typique du Québec",
+        "ca": "animal gran amb banyes, típic del Quebec"
+      },
+      "exemple": {
+        "fr": "Un orignal traverse la route.",
+        "es": "Un alce cruza la carretera.",
+        "ca": "Un ant creua la carretera."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🦌"
+    },
+    {
+      "mot": "CASTOR",
+      "indice": {
+        "es": "animal qui construit des barrages avec du bois",
+        "ca": "animal que construeix preses amb fusta"
+      },
+      "exemple": {
+        "fr": "Le castor est le symbole du Canada.",
+        "es": "El castor es el símbolo de Canadá.",
+        "ca": "El castor és el símbol del Canadà."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🦫"
+    },
+    {
+      "mot": "ÉCUREUIL",
+      "indice": {
+        "es": "petit animal à grande queue qui grimpe aux arbres",
+        "ca": "animal petit amb cua gran que puja als arbres"
+      },
+      "exemple": {
+        "fr": "Un écureuil grimpe dans l'érable.",
+        "es": "Una ardilla trepa por el arce.",
+        "ca": "Un esquirol puja per l'auró."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🐿️"
+    },
+    {
+      "mot": "BLEUET",
+      "indice": {
+        "es": "petit fruit bleu, très québécois",
+        "ca": "fruita petita i blava, molt del Quebec"
+      },
+      "exemple": {
+        "fr": "La tarte aux bleuets est délicieuse.",
+        "es": "La tarta de arándanos está deliciosa.",
+        "ca": "El pastís de nabius és deliciós."
+      },
+      "niveau": "A2",
+      "theme": "Nature",
+      "emoji": "🫐"
+    },
+    {
+      "mot": "POUTINE",
+      "indice": {
+        "es": "plat de frites avec fromage et sauce",
+        "ca": "plat de patates fregides amb formatge i salsa"
+      },
+      "exemple": {
+        "fr": "La poutine est un plat typique du Québec.",
+        "es": "La poutine es un plato típico de Quebec.",
+        "ca": "La poutine és un plat típic del Quebec."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🍟"
+    },
+    {
+      "mot": "MANGER",
+      "indice": {
+        "es": "mettre de la nourriture dans sa bouche",
+        "ca": "posar menjar a la boca"
+      },
+      "exemple": {
+        "fr": "Il faut manger avant de partir.",
+        "es": "Hay que comer antes de irse.",
+        "ca": "Cal menjar abans de marxar."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "🍽️"
+    },
+    {
+      "mot": "PARLER",
+      "indice": {
+        "es": "utiliser sa voix pour communiquer",
+        "ca": "usar la veu per comunicar"
+      },
+      "exemple": {
+        "fr": "Ils parlent français à la maison.",
+        "es": "Hablan francés en casa.",
+
+"ca": "Parlen francès a casa."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "🗣️"
+    },
+    {
+      "mot": "MARCHER",
+      "indice": {
+        "es": "se déplacer à pied",
+        "ca": "moure's a peu"
+      },
+      "exemple": {
+        "fr": "On marche jusqu'au parc.",
+        "es": "Caminamos hasta el parque.",
+        "ca": "Caminem fins al parc."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "🚶"
+    },
+    {
+      "mot": "DANSER",
+      "indice": {
+        "es": "bouger au rythme de la musique",
+        "ca": "moure's al ritme de la música"
+      },
+      "exemple": {
+        "fr": "Ils dansent toute la nuit.",
+        "es": "Bailan toda la noche.",
+        "ca": "Ballen tota la nit."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "💃"
+    },
+    {
+      "mot": "CHANTER",
+      "indice": {
+        "es": "utiliser sa voix pour faire de la musique",
+        "ca": "usar la veu per fer música"
+      },
+      "exemple": {
+        "fr": "Elle chante sous la douche.",
+        "es": "Canta en la ducha.",
+        "ca": "Canta a la dutxa."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "🎤"
+    },
+    {
+      "mot": "ÉCRIRE",
+      "indice": {
+        "es": "mettre des mots sur papier",
+        "ca": "posar paraules en paper"
+      },
+      "exemple": {
+        "fr": "Il écrit une lettre à sa mère.",
+        "es": "Escribe una carta a su madre.",
+        "ca": "Escriu una carta a la seva mare."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "✍️"
+    },
+    {
+      "mot": "DORMIR",
+      "indice": {
+        "es": "fermer les yeux et se reposer la nuit",
+        "ca": "tancar els ulls i descansar de nit"
+      },
+      "exemple": {
+        "fr": "Le bébé dort déjà.",
+        "es": "El bebé ya duerme.",
+        "ca": "El nadó ja dorm."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "😴"
+    },
+    {
+      "mot": "VOYAGER",
+      "indice": {
+        "es": "aller dans un endroit lointain",
+        "ca": "anar a un lloc llunyà"
+      },
+      "exemple": {
+        "fr": "Elle aime voyager en été.",
+        "es": "Le gusta viajar en verano.",
+        "ca": "Li agrada viatjar a l'estiu."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "✈️"
+    },
+    {
+      "mot": "APPRENDRE",
+      "indice": {
+        "es": "acquérir une connaissance nouvelle",
+        "ca": "adquirir un coneixement nou"
+      },
+      "exemple": {
+        "fr": "Elle apprend le catalan.",
+        "es": "Aprende catalán.",
+        "ca": "Aprèn català."
+      },
+      "niveau": "A1",
+      "theme": "Verbe",
+      "emoji": "🧠"
+    },
+    {
+      "mot": "COMPRENDRE",
+      "indice": {
+        "es": "saisir le sens de quelque chose",
+        "ca": "entendre el sentit d'alguna cosa"
+      },
+      "exemple": {
+        "fr": "Je ne comprends pas cette phrase.",
+        "es": "No entiendo esta frase.",
+        "ca": "No entenc aquesta frase."
+      },
+      "niveau": "A2",
+      "theme": "Verbe",
+      "emoji": "💡"
+    },
+    {
+      "mot": "RÉFLÉCHIR",
+      "indice": {
+        "es": "penser profondément",
+        "ca": "pensar profundament"
+      },
+      "exemple": {
+        "fr": "Il réfléchit avant de répondre.",
+        "es": "Piensa antes de responder.",
+        "ca": "Pensa abans de respondre."
+      },
+      "niveau": "A2",
+      "theme": "Verbe",
+      "emoji": "🤔"
+    },
+    {
+      "mot": "ROUGE",
+      "indice": {
+        "es": "couleur du sang",
+        "ca": "color de la sang"
+      },
+      "exemple": {
+        "fr": "Elle porte une robe rouge.",
+        "es": "Lleva un vestido rojo.",
+        "ca": "Porta un vestit vermell."
+      },
+      "niveau": "A1",
+      "theme": "Couleur",
+      "emoji": "🔴"
+    },
+    {
+      "mot": "JAUNE",
+      "indice": {
+        "es": "couleur du soleil",
+        "ca": "color del sol"
+      },
+      "exemple": {
+        "fr": "Le taxi est jaune.",
+        "es": "El taxi es amarillo.",
+        "ca": "El taxi és groc."
+      },
+      "niveau": "A1",
+      "theme": "Couleur",
+      "emoji": "🟡"
+    },
+    {
+      "mot": "VIOLET",
+      "indice": {
+        "es": "couleur entre le rouge et le bleu",
+        "ca": "color entre el vermell i el blau"
+      },
+      "exemple": {
+        "fr": "Le ciel devient violet au coucher du soleil.",
+        "es": "El cielo se vuelve violeta al atardecer.",
+        "ca": "El cel esdevé violeta a la posta de sol."
+      },
+      "niveau": "A1",
+      "theme": "Couleur",
+      "emoji": "🟣"
+    },
+    {
+      "mot": "FRÈRE",
+      "indice": {
+        "es": "fils des mêmes parents, garçon",
+        "ca": "fill dels mateixos pares, noi"
+      },
+      "exemple": {
+        "fr": "Mon frère habite à Montréal.",
+        "es": "Mi hermano vive en Montreal.",
+        "ca": "El meu germà viu a Mont-real."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "👦"
+    },
+    {
+      "mot": "COUSIN",
+      "indice": {
+        "es": "fils d'un oncle ou d'une tante",
+        "ca": "fill d'un oncle o tia"
+      },
+      "exemple": {
+        "fr": "Mon cousin arrive demain.",
+        "es": "Mi primo llega mañana.",
+        "ca": "El meu cosí arriba demà."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "👨"
+    },
+    {
+      "mot": "VOISIN",
+      "indice": {
+        "es": "personne qui habite juste à côté",
+        "ca": "persona que viu just al costat"
+      },
+      "exemple": {
+        "fr": "Notre voisin est très gentil.",
+        "es": "Nuestro vecino es muy amable.",
+        "ca": "El nostre veí és molt amable."
+      },
+      "niveau": "A1",
+      "theme": "Quotidien",
+      "emoji": "🏘️"
+    },
+    {
+      "mot": "GRÈVE",
+      "indice": {
+        "es": "quand les travailleurs arrêtent de travailler pour protester",
+        "ca": "quan els treballadors deixen de treballar per protestar"
+      },
+      "exemple": {
+        "fr": "Les employés font grève aujourd'hui.",
+        "es": "Los empleados hacen huelga hoy.",
+        "ca": "Els empleats fan vaga avui."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "✊"
+    },
+    {
+      "mot": "GUILDE",
+      "indice": {
+        "es": "groupe de plantes qui s'entraident",
+        "ca": "grup de plantes que s'ajuden entre elles"
+      },
+      "exemple": {
+        "fr": "Le maïs et le haricot forment une guilde.",
+        "es": "El maíz y el frijol forman un gremio.",
+        "ca": "El blat de moro i la mongeta formen un gremi."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🌽"
+    },
+    {
+      "mot": "PAILLIS",
+      "indice": {
+        "es": "couche de matière végétale qui couvre le sol",
+        "ca": "capa de matèria vegetal que cobreix el sòl"
+      },
+      "exemple": {
+        "fr": "Le paillis garde l'humidité du sol.",
+        "es": "El mantillo conserva la humedad del suelo.",
+        "ca": "L'encoixinat conserva la humitat del sòl."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🍂"
+    },
+    {
+      "mot": "FERTILE",
+      "indice": {
+        "es": "qui produit beaucoup, riche en nutriments",
+        "ca": "que produeix molt, ric en nutrients"
+      },
+      "exemple": {
+        "fr": "Cette terre est très fertile.",
+        "es": "Esta tierra es muy fértil.",
+        "ca": "Aquesta terra és molt fèrtil."
+      },
+      "niveau": "A2",
+      "theme": "Agriculture",
+      "emoji": "🌾"
+    },
+    {
+      "mot": "DIVERSITÉ",
+      "indice": {
+        "es": "grande variété d'espèces différentes",
+        "ca": "gran varietat d'espècies diferents"
+      },
+      "exemple": {
+        "fr": "La diversité protège les cultures des maladies.",
+        "es": "La diversidad protege los cultivos de las enfermedades.",
+        "ca": "La diversitat protegeix els conreus de les malalties."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🌻"
+    },
+    {
+      "mot": "IRRIGATION",
+      "indice": {
+        "es": "façon d'amener de l'eau aux plantes",
+        "ca": "manera de portar aigua a les plantes"
+      },
+      "exemple": {
+        "fr": "L'irrigation du subak vient de la montagne.",
+        "es": "La irrigación del subak viene de la montaña.",
+        "ca": "La irrigació del subak ve de la muntanya."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "💧"
+    },
+    {
+      "mot": "TERREAU",
+      "indice": {
+        "es": "terre riche et bonne pour les plantes",
+        "ca": "terra rica i bona per a les plantes"
+      },
+      "exemple": {
+        "fr": "On mélange du terreau avec du sable.",
+        "es": "Se mezcla tierra abonada con arena.",
+        "ca": "Es barreja terra adobada amb sorra."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🪴"
+    },
+    {
+      "mot": "ENGRAIS",
+      "indice": {
+        "es": "produit qui nourrit les plantes",
+        "ca": "producte que alimenta les plantes"
+      },
+      "exemple": {
+        "fr": "Le fumier est un engrais naturel.",
+        "es": "El estiércol es un fertilizante natural.",
+        "ca": "El fem és un fertilitzant natural."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🌱"
+    },
+    {
+      "mot": "PESTICIDE",
+      "indice": {
+        "es": "produit chimique contre les insectes",
+        "ca": "producte químic contra els insectes"
+      },
+      "exemple": {
+        "fr": "La permaculture évite les pesticides.",
+        "es": "La permacultura evita los pesticidas.",
+        "ca": "La permacultura evita els pesticides."
+      },
+      "niveau": "B1",
+      "theme": "Agriculture",
+      "emoji": "🚫"
+    },
+    {
+      "mot": "ANARCHIE",
+      "indice": {
+        "es": "société sans gouvernement imposé",
+        "ca": "societat sense govern imposat"
+      },
+      "exemple": {
+        "fr": "Pour Proudhon, l'anarchie n'est pas le désordre.",
+        "es": "Para Proudhon, la anarquía no es el desorden.",
+        "ca": "Per a Proudhon, l'anarquia no és el desordre."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🏴"
+    },
+    {
+      "mot": "FÉDÉRATION",
+      "indice": {
+        "es": "union de groupes autonomes",
+        "ca": "unió de grups autònoms"
+      },
+      "exemple": {
+        "fr": "La fédération réunit plusieurs syndicats.",
+        "es": "La federación reúne varios sindicatos.",
+        "ca": "La federació reuneix diversos sindicats."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🤝"
+    },
+    {
+      "mot": "COOPÉRER",
+      "indice": {
+        "es": "travailler ensemble vers un même but",
+        "ca": "treballar junts cap a un mateix objectiu"
+      },
+      "exemple": {
+        "fr": "Les fermiers coopèrent pour l'irrigation.",
+        "es": "Los agricultores cooperan para el riego.",
+        "ca": "Els pagesos cooperen per al reg."
+      },
+      "niveau": "B1",
+      "theme": "Politique",
+      "emoji": "🤲"
+    },
+    {
+      "mot": "MILICE",
+      "indice": {
+        "es": "groupe armé non officiel",
+        "ca": "grup armat no oficial"
+      },
+      "exemple": {
+        "fr": "La milice défend le village.",
+        "es": "La milicia defiende el pueblo.",
+        "ca": "La milícia defensa el poble."
+      },
+      "niveau": "B1",
+      "theme": "Histoire",
+      "emoji": "⚔️"
+    },
+    {
+      "mot": "COLONIE",
+      "indice": {
+        "es": "territoire contrôlé par un pays lointain",
+        "ca": "territori controlat per un país llunyà"
+      },
+      "exemple": {
+        "fr": "La colonie dépend de la métropole.",
+        "es": "La colonia depende de la metrópoli.",
+        "ca": "La colònia depèn de la metròpoli."
+      },
+      "niveau": "A2",
+      "theme": "Histoire",
+      "emoji": "🏴"
+    },
+    {
+      "mot": "REBELLION",
+      "indice": {
+        "es": "soulèvement armé contre le pouvoir",
+        "ca": "aixecament armat contra el poder"
+      },
+      "exemple": {
+        "fr": "La rébellion éclate en 1837.",
+        "es": "La rebelión estalla en 1837.",
+        "ca": "La rebel·lió esclata el 1837."
+      },
+      "niveau": "B1",
+      "theme": "Histoire",
+      "emoji": "🔥"
+    },
+    {
+      "mot": "TRAITÉ",
+      "indice": {
+        "es": "accord officiel entre pays ou groupes",
+        "ca": "acord oficial entre països o grups"
+      },
+      "exemple": {
+        "fr": "Le traité met fin à la guerre.",
+        "es": "El tratado pone fin a la guerra.",
+        "ca": "El tractat posa fi a la guerra."
+      },
+      "niveau": "A2",
+      "theme": "Histoire",
+      "emoji": "📜"
+    },
+    {
+      "mot": "FRONTIÈRE",
+      "indice": {
+        "es": "ligne qui sépare deux territoires",
+        "ca": "línia que separa dos territoris"
+      },
+      "exemple": {
+        "fr": "La frontière suit la rivière.",
+        "es": "La frontera sigue el río.",
+        "ca": "La frontera segueix el riu."
+      },
+      "niveau": "A2",
+      "theme": "Histoire",
+      "emoji": "🗺️"
     }
   ]
 }

@@ -8,9 +8,9 @@
 <script src="../js/srs.js"></script>
 <style>
 .topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
-.subnav-tabs { display:flex; gap:0.5rem; margin-bottom:1.2rem; flex-wrap:wrap; }
-.subnav-tabs a { padding:0.45rem 0.9rem; border-radius:999px; background:#1c1c1c; color:#ccc; text-decoration:none; font-size:0.92rem; border:1px solid #333; }
-.subnav-tabs a.active { background:#c1440e; color:#fff; border-color:#c1440e; }
+.subnav-group { margin-bottom:0.9rem; }
+.subnav-label { font-family:'Outfit',sans-serif; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-dim); margin-bottom:0.4rem; padding-left:0.2rem; }
+.subnav-tabs { display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:0; }
 
 .wdl-clue { background:var(--bg3); border:1px solid var(--border); border-radius:14px; padding:1rem 1.1rem; margin-bottom:1.1rem; }
 .wdl-clue-top { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem; }
@@ -49,10 +49,15 @@
 .wdl-result-ex-tr { color:var(--text-dim); font-size:0.82rem; }
 .wdl-newgame { margin-top:0.9rem; background:var(--maple); border:none; border-radius:20px; color:#fff; padding:0.6rem 1.3rem; font-family:'Outfit',sans-serif; font-weight:600; cursor:pointer; }
 
-.wdl-toprow { display:flex; align-items:center; gap:0.6rem; margin-bottom:0.9rem; flex-wrap:wrap; }
+.wdl-toprow { display:flex; align-items:center; gap:0.6rem; margin-bottom:0.7rem; flex-wrap:wrap; }
 .wdl-mode-btn { background:var(--bg3); border:1px solid var(--border); border-radius:20px; color:var(--text-dim); cursor:pointer; padding:0.4rem 0.9rem; font-family:'Outfit',sans-serif; font-size:0.85rem; font-weight:600; }
 .wdl-mode-btn.active { background:var(--gold); border-color:var(--gold); color:#1a1410; }
 .wdl-score { color:var(--text-dim); font-size:0.8rem; font-family:'Outfit',sans-serif; margin-left:auto; }
+
+.wdl-levelrow { display:flex; align-items:center; gap:0.4rem; margin-bottom:1rem; flex-wrap:wrap; }
+.wdl-level-label { color:var(--text-dim); font-size:0.78rem; font-family:'Outfit',sans-serif; margin-right:0.2rem; }
+.wdl-level-btn { background:var(--bg3); border:1px solid var(--border); border-radius:14px; color:var(--cream-dim); cursor:pointer; padding:0.3rem 0.7rem; font-family:'Outfit',sans-serif; font-size:0.78rem; font-weight:600; }
+.wdl-level-btn.active { background:var(--maple); border-color:var(--maple); color:#fff; }
 </style>
 </head>
 <body>
@@ -88,19 +93,19 @@
     <p data-es="Lee la pista, escribe la palabra en francés. Verde = letra correcta en su sitio. Amarillo = está en la palabra pero en otro sitio. Gris = no está." data-ca="Llegeix la pista, escriu la paraula en francès. Verd = lletra correcta al seu lloc. Groc = hi és a la paraula però en un altre lloc. Gris = no hi és.">Lee la pista, escribe la palabra en francés.</p>
   </div>
 
-  <div class="subnav-tabs fade-up">
-    <a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a>
-    <a href="feminisme.html">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a>
-    <a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a>
-    <a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a>
-    <a href="wordle.html" class="active">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a>
-    <a href="srs.html">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a>
-  </div>
-
-  <div class="wdl-toprow">
+  <div class="subnav-group fade-up"><div class="subnav-label" data-es="Lecturas" data-ca="Lectures">Lecturas</div><div class="subnav-tabs"><a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a></div></div><div class="subnav-group fade-up"><div class="subnav-label" data-es="Práctica" data-ca="Pràctica">Práctica</div><div class="subnav-tabs"><a href="wordle.html" class="active">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a><a href="srs.html">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a><a href="production.html">🎙️ <span data-es="Producción" data-ca="Producció">Producción</span></a></div></div><div class="wdl-toprow">
     <button class="wdl-mode-btn active" id="mode-daily" data-es="Palabra del día" data-ca="Paraula del dia">Palabra del día</button>
     <button class="wdl-mode-btn" id="mode-random" data-es="Modo infinito" data-ca="Mode infinit">Modo infinito</button>
+    <button class="wdl-mode-btn" id="mode-dificiles" data-es="Difíciles" data-ca="Difícils">Difíciles</button>
     <span class="wdl-score" id="wdl-score"></span>
+  </div>
+
+  <div class="wdl-levelrow">
+    <span class="wdl-level-label" data-es="Nivel:" data-ca="Nivell:">Nivel:</span>
+    <button class="wdl-level-btn active" data-level="TODOS" data-es="Todos" data-ca="Tots">Todos</button>
+    <button class="wdl-level-btn" data-level="A1">A1</button>
+    <button class="wdl-level-btn" data-level="A2">A2</button>
+    <button class="wdl-level-btn" data-level="B1">B1</button>
   </div>
 
   <div class="wdl-clue" id="wdl-clue">
@@ -143,6 +148,10 @@ document.querySelectorAll('.lang-toggle button').forEach(b=>{
 });
 applyLangStatic();
 
+if ('serviceWorker' in navigator){
+  navigator.serviceWorker.register('/service-worker.js').catch(()=>{});
+}
+
 const AZERTY = [
   ['A','Z','E','R','T','Y','U','I','O','P'],
   ['Q','S','D','F','G','H','J','K','L','M'],
@@ -150,6 +159,8 @@ const AZERTY = [
 ];
 
 let WORDS = [];
+let FILTERED_WORDS = [];
+let levelFilter = 'TODOS';
 let current = null;
 let guesses = [];
 let currentGuess = '';
@@ -157,6 +168,22 @@ let gameOver = false;
 let mode = 'daily';
 let infiniteQueue = [];
 let infiniteScore = 0;
+
+function applyLevelFilter(){
+  if (levelFilter === 'TODOS') FILTERED_WORDS = WORDS;
+  else {
+    const f = WORDS.filter(w => w.niveau === levelFilter);
+    FILTERED_WORDS = f.length ? f : WORDS;
+  }
+}
+
+function loadLevelFilter(){
+  try { levelFilter = localStorage.getItem('wdl_level') || 'TODOS'; } catch(e){ levelFilter = 'TODOS'; }
+}
+function saveLevelFilter(){
+
+try { localStorage.setItem('wdl_level', levelFilter); } catch(e){}
+}
 
 function normalize(s){
   return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
@@ -190,6 +217,9 @@ function renderScore(){
   if (mode === 'random'){
     const l = getLang();
     el.textContent = (l==='ca' ? 'Encertades: ' : 'Aciertos: ') + infiniteScore;
+  } else if (mode === 'dificiles'){
+    const l = getLang();
+    el.textContent = (l==='ca' ? 'Queden: ' : 'Quedan: ') + infiniteQueue.length;
   } else {
     el.textContent = '';
   }
@@ -197,16 +227,35 @@ function renderScore(){
 
 function pickWord(){
   if (mode === 'daily'){
-    return WORDS[dayIndex(WORDS.length)];
+    return FILTERED_WORDS[dayIndex(FILTERED_WORDS.length)];
+  } else if (mode === 'dificiles'){
+    if (infiniteQueue.length === 0){
+      infiniteQueue = buildDifficilesQueue();
+    }
+    return infiniteQueue.shift();
   } else {
     if (infiniteQueue.length === 0){
-      infiniteQueue = shuffle(WORDS);
+      infiniteQueue = shuffle(FILTERED_WORDS);
       if (current && infiniteQueue[0].mot === current.mot && infiniteQueue.length > 1){
         [infiniteQueue[0], infiniteQueue[1]] = [infiniteQueue[1], infiniteQueue[0]];
       }
     }
     return infiniteQueue.shift();
   }
+}
+
+// Construit une file à partir des mots que le système de répétition espacée
+// considère fragiles : ratés au moins une fois (lapses > 0), ou jamais montés
+// au-delà de la boîte 1 (encore en apprentissage). Les plus ratés passent en premier.
+function buildDifficilesQueue(){
+  if (!window.SRS) return shuffle(FILTERED_WORDS);
+  const scored = FILTERED_WORDS.map(w=>{
+    const st = SRS.getState('wordle:'+w.mot);
+    const struggling = st.seen && (st.lapses > 0 || st.box <= 1);
+    return { w, lapses: st.lapses||0, struggling, seen: st.seen };
+  }).filter(x => x.struggling);
+  scored.sort((a,b)=> b.lapses - a.lapses);
+  return scored.map(x=>x.w);
 }
 
 function tileSizePx(len){
@@ -219,7 +268,7 @@ function tileSizePx(len){
 function storageKey(){
   const now = new Date();
   const dateStr = now.getFullYear()+'-'+now.getMonth()+'-'+now.getDate();
-  return 'wdl_'+mode+'_'+dateStr+(mode==='random' && current ? '_'+current.mot : '');
+  return 'wdl_'+mode+'_'+levelFilter+'_'+dateStr+(mode!=='daily' && current ? '_'+current.mot : '');
 }
 
 function saveState(){
@@ -242,6 +291,10 @@ function loadState(){
 
 function startGame(){
   current = pickWord();
+  if (!current && mode === 'dificiles'){
+    showNoDifficiles();
+    return;
+  }
   guesses = [];
   currentGuess = '';
   gameOver = false;
@@ -257,6 +310,21 @@ function startGame(){
   document.getElementById('wdl-result').classList.remove('show');
   document.getElementById('wdl-msg').textContent = '';
   if (gameOver) showResult(guesses[guesses.length-1] === normalize(current.mot));
+}
+
+function showNoDifficiles(){
+  const l = getLang();
+  document.getElementById('wdl-clue-text').textContent = l==='ca'
+    ? 'Encara no hi ha paraules marcades com a difícils. Juga una mica al mode diari o infinit primer!'
+    : '¡Todavía no hay palabras marcadas como difíciles. Juega un poco en modo diario o infinito primero!';
+  document.getElementById('wdl-len').textContent = '';
+  document.getElementById('wdl-grid').innerHTML = '';
+  document.getElementById('wdl-kb').innerHTML = '';
+  document.getElementById('wdl-msg').textContent = '';
+  document.getElementById('wdl-result').classList.remove('show');
+  document.getElementById('wdl-emoji').textContent = '🔍';
+  document.getElementById('wdl-niveau').textContent = '';
+  document.getElementById('wdl-theme').textContent = '';
 }
 
 window.addEventListener('resize', ()=>{ if (current) renderGrid(); });
@@ -417,28 +485,40 @@ function showResult(won){
 }
 
 document.getElementById('wdl-newgame').addEventListener('click', ()=>{
-  mode = 'random';
-  document.getElementById('mode-daily').classList.remove('active');
-  document.getElementById('mode-random').classList.add('active');
-  startGame();
+  setMode(mode === 'dificiles' ? 'dificiles' : 'random');
 });
 
-document.getElementById('mode-daily').addEventListener('click', ()=>{
-  mode = 'daily';
-  document.getElementById('mode-daily').classList.add('active');
-  document.getElementById('mode-random').classList.remove('active');
+function setMode(m){
+  mode = m;
+  infiniteQueue = [];
+  document.querySelectorAll('.wdl-mode-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('mode-'+m).classList.add('active');
   startGame();
-});
-document.getElementById('mode-random').addEventListener('click', ()=>{
-  mode = 'random';
-  document.getElementById('mode-random').classList.add('active');
-  document.getElementById('mode-daily').classList.remove('active');
-  startGame();
+}
+document.getElementById('mode-daily').addEventListener('click', ()=> setMode('daily'));
+document.getElementById('mode-random').addEventListener('click', ()=> setMode('random'));
+document.getElementById('mode-dificiles').addEventListener('click', ()=> setMode('dificiles'));
+
+document.querySelectorAll('.wdl-level-btn').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    levelFilter = btn.dataset.level;
+    saveLevelFilter();
+    document.querySelectorAll('.wdl-level-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    applyLevelFilter();
+    infiniteQueue = [];
+    startGame();
+  });
 });
 
+loadLevelFilter();
 loadInfiniteScore();
 fetch('../data/wordle.json').then(r=>r.json()).then(data=>{
   WORDS = data.mots;
+  applyLevelFilter();
+  document.querySelectorAll('.wdl-level-btn').forEach(b=>{
+    b.classList.toggle('active', b.dataset.level === levelFilter);
+  });
   startGame();
 }).catch(()=>{
   document.getElementById('wdl-clue-text').textContent =

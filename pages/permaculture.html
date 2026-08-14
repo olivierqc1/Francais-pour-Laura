@@ -72,7 +72,7 @@
     <p data-es="Lee a tu ritmo. Cada frase tiene su traducción y su audio. Empieza en A1 y sube de nivel cuando quieras." data-ca="Llegeix al teu ritme. Cada frase té la seva traducció i el seu àudio. Comença a A1 i puja de nivell quan vulguis.">Lee a tu ritmo. Cada frase tiene traducción y audio. Empieza en A1 y sube de nivel.</p>
   </div>
 
-  <div class="subnav-tabs fade-up"><a href="histoire.html" class="">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html" class="">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html" class="">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html" class="active">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a></div>
+  <div class="subnav-tabs fade-up"><a href="histoire.html" class="">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html" class="">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html" class="">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html" class="active">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a><a href="wordle.html" class="">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a><a href="srs.html" class="">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a></div>
   <div class="hist-grid" id="hist-grid"></div>
   <div id="hist-content"></div>
 </div>
@@ -100,7 +100,7 @@ function say(text){
 function esc(s){ return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
 
 async function load(){
-  const FILES = ['../data/permaculture1.json','../data/permaculture2.json','../data/permaculture3.json','../data/permaculture4.json','../data/permaculture5.json','../data/permaculture6.json','../data/permaculture7.json'];
+  const FILES = ['../data/permaculture1.json','../data/permaculture2.json','../data/permaculture3.json','../data/permaculture4.json','../data/permaculture5.json','../data/permaculture6.json','../data/permaculture7.json','../data/permaculture8.json','../data/permaculture9.json','../data/permaculture10.json','../data/permaculture11.json','../data/permaculture12.json','../data/permaculture13.json','../data/permaculture14.json'];
   const parts = await Promise.all(FILES.map(f => fetch(f).then(r => r.json()).catch(() => ({textes:[]}))));
   textes = parts.reduce((acc,p) => acc.concat(p.textes || []), []);
   if (!textes.length){
@@ -196,4 +196,3 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 </body>
 </html>
- 

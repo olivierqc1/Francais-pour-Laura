@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Repaso — Français pour Laura</title>
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
+.subnav-tabs { display:flex; gap:0.5rem; margin-bottom:1.2rem; flex-wrap:wrap; }
+.subnav-tabs a { padding:0.45rem 0.9rem; border-radius:999px; background:#1c1c1c; color:#ccc; text-decoration:none; font-size:0.92rem; border:1px solid #333; }
+.subnav-tabs a.active { background:#c1440e; color:#fff; border-color:#c1440e; }
+
+.srs-stats { display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:1.1rem; }
+.srs-stat { background:var(--bg3); border:1px solid var(--border); border-radius:12px; padding:0.5rem 0.8rem; text-align:center; flex:1; min-width:70px; }
+.srs-stat-num { font-family:'Outfit',sans-serif; font-weight:700; font-size:1.2rem; color:var(--gold-light); }
+.srs-stat-label { font-size:0.68rem; color:var(--text-dim); font-family:'Outfit',sans-serif; }
+
+.srs-card { background:var(--bg3); border:1px solid var(--border); border-radius:16px; padding:1.6rem 1.3rem; text-align:center; min-height:220px; display:flex; flex-direction:column; align-items:center; justify-content:center; margin-bottom:1rem; cursor:pointer; }
+.srs-emoji { font-size:1.8rem; margin-bottom:0.6rem; }
+.srs-clue { font-family:'Cormorant Garamond',serif; font-size:1.35rem; color:var(--cream); line-height:1.45; margin-bottom:0.5rem; }
+.srs-tap-hint { color:var(--text-dim); font-size:0.78rem; font-family:'Outfit',sans-serif; margin-top:0.8rem; }
+.srs-answer { display:none; width:100%; }
+.srs-answer.show { display:block; }
+.srs-word { font-family:'Cormorant Garamond',serif; font-size:2.1rem; color:var(--gold-light); margin-bottom:0.5rem; }
+.srs-trad { color:var(--text-dim); font-size:0.95rem; margin-bottom:0.7rem; }
+.srs-example { font-style:italic; color:var(--cream); font-size:0.95rem; border-top:1px solid var(--border); padding-top:0.6rem; margin-top:0.3rem; }
+.srs-example-tr { color:var(--text-dim); font-size:0.82rem; margin-top:0.2rem; }
+
+.srs-grades { display:none; gap:0.5rem; }
+.srs-grades.show { display:grid; grid-template-columns:repeat(4,1fr); }
+.srs-grade-btn { border:none; border-radius:10px; padding:0.65rem 0.3rem; font-family:'Outfit',sans-serif; font-weight:600; font-size:0.8rem; color:#fff; cursor:pointer; }
+.srs-grade-again { background:#8a3030; }
+.srs-grade-hard { background:#b8860b; }
+.srs-grade-good { background:#3a7d44; }
+.srs-grade-easy { background:#2f6fa8; }
+
+.srs-empty { text-align:center; padding:2rem 1rem; color:var(--text-dim); font-family:'Outfit',sans-serif; }
+.srs-empty-emoji { font-size:2.5rem; margin-bottom:0.6rem; }
+.srs-progress { text-align:center; color:var(--text-dim); font-size:0.82rem; font-family:'Outfit',sans-serif; margin-bottom:0.6rem; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <a href="../index.html" class="topbar-logo">Français <span>pour Laura</span></a>
+  <div style="display:flex;align-items:center;">
+    <div class="topbar-nav">
+      <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
+      <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
+      <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
+      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
+      <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
+    </div>
+    <div class="lang-toggle"><button data-lang="es">ES</button><button data-lang="ca">CA</button></div>
+    <a href="compte.html" class="topbar-account" title="Mi cuenta" aria-label="Mi cuenta">⭐</a>
+  </div>
+</nav>
+<div class="nav-mobile">
+  <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
+  <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
+  <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
+  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
+  <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
+</div>
+
+<div class="page-wrap">
+<div class="container">
+  <div class="page-header fade-up">
+    <div class="page-header-label">🧠 <span data-es="Repaso espaciado" data-ca="Repàs espaiat">Repaso espaciado</span></div>
+    <h1 data-es="Las palabras vuelven en el momento justo" data-ca="Les paraules tornen en el moment just">Las palabras vuelven en el momento justo</h1>
+    <p data-es="Toca la tarjeta para ver la respuesta, luego dinos qué tan bien la sabías." data-ca="Toca la targeta per veure la resposta, després digues'ns com de bé la sabies.">Toca la tarjeta para ver la respuesta.</p>
+  </div>
+
+  <div class="subnav-tabs fade-up">
+    <a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a>
+    <a href="feminisme.html">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a>
+    <a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a>
+    <a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a>
+    <a href="wordle.html">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a>
+    <a href="srs.html" class="active">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a>
+  </div>
+
+  <div class="srs-stats" id="srs-stats"></div>
+  <div class="srs-progress" id="srs-progress"></div>
+
+  <div id="srs-body">
+    <div class="srs-card" id="srs-card">
+      <div class="srs-emoji" id="srs-emoji">🧠</div>
+      <div class="srs-clue" id="srs-clue">Cargando…</div>
+      <div class="srs-tap-hint" id="srs-tap-hint" data-es="Toca para ver la respuesta" data-ca="Toca per veure la resposta">Toca para ver la respuesta</div>
+
+      <div class="srs-answer" id="srs-answer">
+        <div class="srs-word" id="srs-word"></div>
+        <div class="srs-trad" id="srs-trad"></div>
+        <div class="srs-example" id="srs-example"></div>
+        <div class="srs-example-tr" id="srs-example-tr"></div>
+      </div>
+    </div>
+
+    <div class="srs-grades" id="srs-grades">
+      <button class="srs-grade-btn srs-grade-again" data-grade="again" data-es="Otra vez" data-ca="Un altre cop">Otra vez</button>
+      <button class="srs-grade-btn srs-grade-hard" data-grade="hard" data-es="Difícil" data-ca="Difícil">Difícil</button>
+      <button class="srs-grade-btn srs-grade-good" data-grade="good" data-es="Bien" data-ca="Bé">Bien</button>
+      <button class="srs-grade-btn srs-grade-easy" data-grade="easy" data-es="Fácil" data-ca="Fàcil">Fácil</button>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<script src="../js/srs.js"></script>
+<script>
+function getLang(){ return localStorage.getItem('lang') || 'es'; }
+document.querySelectorAll('[data-es]').forEach(el=>{
+  const v = el.getAttribute('data-'+getLang()) || el.getAttribute('data-es');
+  if (el.children.length===0) el.textContent = v;
+});
+document.querySelectorAll('.lang-toggle button').forEach(b=>{
+  b.addEventListener('click', ()=>{ localStorage.setItem('lang', b.dataset.lang); location.reload(); });
+});
+
+let POOL = [];       // tous les mots normalisés {id, emoji, fr, es, ca, exFr, exEs, exCa}
+let QUEUE = [];       // ids à réviser aujourd'hui
+let cursor = 0;
+let answered = false;
+let totalToday = 0;
+
+function normalizeWordle(data){
+  return (data.mots||[]).map(m=>({
+    id: 'wordle:'+m.mot,
+    emoji: m.emoji || '🟩',
+    fr: m.mot,
+    es: (m.indice && m.indice.es) || '',
+    ca: (m.indice && m.indice.ca) || '',
+    exFr: (m.exemple && m.exemple.fr) || '',
+    exEs: (m.exemple && m.exemple.es) || '',
+    exCa: (m.exemple && m.exemple.ca) || ''
+  }));
+}
+
+function normalizeVocab(data){
+  const out = [];
+  (data.categories||[]).forEach(cat=>{
+    (cat.mots||[]).forEach(m=>{
+      out.push({
+        id: 'vocab:'+m.fr,
+        emoji: m.emoji || '📚',
+        fr: m.fr,
+        es: m.es || '',
+        ca: m.ca || '',
+        exFr: m.exemple || '',
+        exEs: m.exemple_es || '',
+        exCa: m.exemple_ca || ''
+      });
+    });
+  });
+  return out;
+}
+
+function renderStats(){
+  const ids = POOL.map(w=>w.id);
+  const s = SRS.stats(ids);
+  const l = getLang();
+  const labels = {
+    due: l==='ca' ? 'Per avui' : 'Para hoy',
+    new: l==='ca' ? 'Noves' : 'Nuevas',
+    learning: l==='ca' ? 'Aprenent' : 'Aprendiendo',
+    mature: l==='ca' ? 'Consolidades' : 'Consolidadas'
+  };
+  const el = document.getElementById('srs-stats');
+  el.innerHTML = `
+    <div class="srs-stat"><div class="srs-stat-num">${s.due}</div><div class="srs-stat-label">${labels.due}</div></div>
+    <div class="srs-stat"><div class="srs-stat-num">${s.new}</div><div class="srs-stat-label">${labels.new}</div></div>
+    <div class="srs-stat"><div class="srs-stat-num">${s.learning+s.young}</div><div class="srs-stat-label">${labels.learning}</div></div>
+    <div class="srs-stat"><div class="srs-stat-num">${s.mature}</div><div class="srs-stat-label">${labels.mature}</div></div>
+  `;
+}
+
+function renderProgress(){
+  const l = getLang();
+  const remaining = QUEUE.length - cursor;
+  const el = document.getElementById('srs-progress');
+  if (QUEUE.length === 0) { el.textContent = ''; return; }
+  el.textContent = (l==='ca' ? 'Queden ' : 'Quedan ') + Math.max(0,remaining) + (l==='ca' ? ' targetes' : ' tarjetas');
+}
+
+function currentWord(){
+  const id = QUEUE[cursor];
+  return POOL.find(w=>w.id===id);
+}
+
+function showCard(){
+  answered = false;
+  document.getElementById('srs-answer').classList.remove('show');
+  document.getElementById('srs-grades').classList.remove('show');
+  document.getElementById('srs-tap-hint').style.display = 'block';
+  renderProgress();
+
+  if (cursor >= QUEUE.length){
+    showEmpty();
+    return;
+  }
+  const w = currentWord();
+  const l = getLang();
+  document.getElementById('srs-emoji').textContent = w.emoji;
+  document.getElementById('srs-clue').textContent = (l==='ca' ? w.ca : w.es) || w.fr;
+  document.getElementById('srs-word').textContent = w.fr;
+  document.getElementById('srs-trad').textContent = (l==='ca' ? w.ca : w.es);
+  document.getElementById('srs-example').textContent = w.exFr || '';
+  document.getElementById('srs-example-tr').textContent = (l==='ca' ? w.exCa : w.exEs) || '';
+  document.getElementById('srs-card').style.display = 'flex';
+}
+
+function revealAnswer(){
+  if (answered || cursor >= QUEUE.length) return;
+  answered = true;
+  document.getElementById('srs-answer').classList.add('show');
+  document.getElementById('srs-grades').classList.add('show');
+  document.getElementById('srs-tap-hint').style.display = 'none';
+}
+
+function grade(g){
+  const w = currentWord();
+  if (!w) return;
+  SRS.record(w.id, g);
+  cursor++;
+  renderStats();
+  showCard();
+}
+
+function showEmpty(){
+  const l = getLang();
+  document.getElementById('srs-card').style.display = 'none';
+  document.getElementById('srs-grades').classList.remove('show');
+  let body = document.getElementById('srs-body');
+  if (!document.getElementById('srs-empty-msg')){
+    const div = document.createElement('div');
+    div.id = 'srs-empty-msg';
+    div.className = 'srs-empty';
+    div.innerHTML = '<div class="srs-empty-emoji">✅</div><div>' +
+      (l==='ca' ? 'Ja has acabat el repàs d\'avui. Torna demà!' : 'Ya terminaste el repaso de hoy. ¡Vuelve mañana!') +
+      '</div>';
+    body.appendChild(div);
+  }
+}
+
+document.getElementById('srs-card').addEventListener('click', revealAnswer);
+document.querySelectorAll('.srs-grade-btn').forEach(btn=>{
+  btn.addEventListener('click', (e)=>{ e.stopPropagation(); grade(btn.dataset.grade); });
+});
+
+Promise.all([
+  fetch('../data/wordle.json').then(r=>r.json()).catch(()=>({mots:[]})),
+  fetch('../data/vocabulaire.json').then(r=>r.json()).catch(()=>({categories:[]}))
+]).then(([wordleData, vocabData])=>{
+  POOL = normalizeWordle(wordleData).concat(normalizeVocab(vocabData));
+  QUEUE = SRS.buildQueue(POOL.map(w=>w.id));
+  totalToday = QUEUE.length;
+  renderStats();
+  showCard();
+}).catch(()=>{
+  document.getElementById('srs-clue').textContent =
+    (getLang()==='ca' ? 'No s\'han pogut carregar les paraules.' : 'No se pudieron cargar las palabras.');
+});
+</script>
+</body>
+</html>

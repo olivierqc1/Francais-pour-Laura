@@ -108,8 +108,7 @@ const CATS = [
     ]},
   { icon:"🌍", titre:{es:"La Francophonie en el mundo",ca:"La Francophonie al món"}, desc:{es:"El francés no es solo Francia — Acadia, África y más",ca:"El francès no és només França — Acàdia, Àfrica i més"},
 
-
-    videos:[
+videos:[
       { link:true, emoji:"🦞", q:"Destination Francophonie Acadie TV5MONDE", titre:"Destination Acadie (TV5MONDE)", niveau:"n-b1", badge:{es:"B1+",ca:"B1+"}, tag:"🦞 Acadie", desc:{es:"Los acadianos: los primeros francófonos de América, en las Provincias Marítimas de Canadá. Acento único.",ca:"Els acadians: els primers francòfons d'Amèrica, a les Províncies Marítimes del Canadà. Accent únic."} },
       { link:true, emoji:"🌍", q:"Destination Francophonie Afrique TV5MONDE", titre:"Le français en Afrique", niveau:"n-b1", badge:{es:"Descubrir",ca:"Descobrir"}, tag:"🌍 Afrique", desc:{es:"La mayoría de los francófonos del mundo viven en África. Serie 'Destination Francophonie' de TV5MONDE.",ca:"La majoria dels francòfons del món viuen a l'Àfrica. Sèrie 'Destination Francophonie' de TV5MONDE."} },
       { link:true, emoji:"📻", q:"RFI Journal en français facile", titre:"Journal en français facile (RFI)", niveau:"n-a2", badge:{es:"A2–B1",ca:"A2–B1"}, tag:"🌍 Monde", desc:{es:"Noticias del mundo en francés lento y claro, con muchas voces de toda la francofonía. Perfecto para el oído.",ca:"Notícies del món en francès lent i clar, amb moltes veus de tota la francofonia. Perfecte per a l'oïda."} }
@@ -201,5 +200,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 </script>
+<script>if("serviceWorker" in navigator){navigator.serviceWorker.register("/service-worker.js").catch(()=>{});}</script>
 </body>
 </html>

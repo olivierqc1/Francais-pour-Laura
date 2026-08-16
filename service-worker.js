@@ -8,19 +8,32 @@
 const CACHE_NAME = 'fpl-cache-v1';
 
 // Fichiers indispensables, mis en cache dès l'installation.
+// Les fichiers de contenu (histoireN.json, anarchisme*.json, permaculture*.json,
+// etc.) ne sont pas listés ici un par un : ils se mettent en cache automatiquement
+// dès qu'on visite la page qui les charge (voir le gestionnaire "fetch" plus bas).
 const PRECACHE_URLS = [
   '/',
   '/index.html',
   '/css/style.css',
   '/js/srs.js',
-  '/pages/wordle.html',
-  '/pages/srs.html',
-  '/pages/production.html',
+  '/pages/vocabulaire.html',
+  '/pages/conjugaison.html',
+  '/pages/grammaire.html',
+  '/pages/prononciation.html',
+  '/pages/prononciation-oreille.html',
+  '/pages/poemes.html',
+  '/pages/videos.html',
+  '/pages/revision.html',
+  '/pages/dialogues.html',
+  '/pages/lectures.html',
+  '/pages/compte.html',
   '/pages/histoire.html',
   '/pages/feminisme.html',
   '/pages/anarchisme.html',
   '/pages/permaculture.html',
-  '/pages/vocabulaire.html',
+  '/pages/wordle.html',
+  '/pages/srs.html',
+  '/pages/production.html',
   '/data/wordle.json',
   '/data/vocabulaire.json'
 ];

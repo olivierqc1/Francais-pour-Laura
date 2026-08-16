@@ -34,9 +34,9 @@
 .q-piste { font-size:0.8rem; color:var(--text-dim); font-style:italic; margin-top:0.3rem; display:none; }
 .q-piste.show { display:block; }
 .q-reveal { background:none; border:none; color:var(--gold-light); cursor:pointer; font-size:0.78rem; padding:0; margin-top:0.2rem; }
-.subnav-tabs { display:flex; gap:0.5rem; margin-bottom:1.2rem; flex-wrap:wrap; }
-.subnav-tabs a { padding:0.45rem 0.9rem; border-radius:999px; background:#1c1c1c; color:#ccc; text-decoration:none; font-size:0.92rem; border:1px solid #333; }
-.subnav-tabs a.active { background:#c1440e; color:#fff; border-color:#c1440e; }
+.subnav-group { margin-bottom:0.9rem; }
+.subnav-label { font-family:'Outfit',sans-serif; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-dim); margin-bottom:0.4rem; padding-left:0.2rem; }
+.subnav-tabs { display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:0; }
 </style>
 </head>
 <body>
@@ -72,8 +72,7 @@
     <p data-es="Lee a tu ritmo. Cada frase tiene su traducción y su audio. Empieza en A1 y sube de nivel cuando quieras." data-ca="Llegeix al teu ritme. Cada frase té la seva traducció i el seu àudio. Comença a A1 i puja de nivell quan vulguis.">Lee a tu ritmo. Cada frase tiene traducción y audio. Empieza en A1 y sube de nivel.</p>
   </div>
 
-  <div class="subnav-tabs fade-up"><a href="histoire.html" class="">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html" class="active">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html" class="">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html" class="">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a><a href="wordle.html" class="">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a><a href="srs.html" class="">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a></div>
-  <div class="hist-grid" id="hist-grid"></div>
+  <div class="subnav-group fade-up"><div class="subnav-label" data-es="Lecturas" data-ca="Lectures">Lecturas</div><div class="subnav-tabs"><a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html" class="active">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a></div></div><div class="subnav-group fade-up"><div class="subnav-label" data-es="Práctica" data-ca="Pràctica">Práctica</div><div class="subnav-tabs"><a href="wordle.html">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a><a href="srs.html">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a><a href="production.html">🎙️ <span data-es="Producción" data-ca="Producció">Producción</span></a></div></div><div class="hist-grid" id="hist-grid"></div>
   <div id="hist-content"></div>
 </div>
 </div>
@@ -194,6 +193,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 </script>
+<script>if("serviceWorker" in navigator){navigator.serviceWorker.register("/service-worker.js").catch(()=>{});}</script>
 </body>
 </html>
- 

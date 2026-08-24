@@ -3,52 +3,41 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Producción — Français pour Laura</title>
+<title>Pronunciación — Français pour Laura</title>
 <link rel="stylesheet" href="../css/style.css">
 <style>
+.select-nav { width:100%; padding:0.8rem 1rem; background:var(--bg3); border:1px solid var(--border); border-radius:10px; color:var(--cream); font-family:'Outfit',sans-serif; font-size:1rem; font-weight:500; margin-bottom:1rem; }
+.select-nav:focus { outline:none; border-color:var(--gold); }
+.select-label { font-size:0.75rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--gold); font-weight:600; margin-bottom:0.4rem; display:block; }
+.son-grid { margin-bottom:1rem; }
+.grid-group-label { font-size:0.7rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--gold); font-weight:600; margin:0.9rem 0 0.5rem; }
+.son-grid-row { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:0.5rem; }
+.son-chip { background:var(--bg3); border:1px solid var(--border); border-radius:12px; cursor:pointer; transition:all 0.15s; text-align:left; padding:0.7rem 0.85rem; display:flex; flex-direction:column; gap:0.2rem; min-height:62px; justify-content:center; }
+.son-chip-sym { font-family:'Cormorant Garamond',serif; font-size:1.3rem; font-weight:700; color:var(--cream); line-height:1.1; }
+.son-chip-desc { font-size:0.72rem; color:var(--text-dim); line-height:1.2; }
+.son-chip.active .son-chip-sym { color:#fff; }
+.son-chip.active .son-chip-desc { color:rgba(255,255,255,0.9); }
+.son-chip.active { background:var(--maple); border-color:var(--maple); color:#fff; box-shadow:0 2px 10px rgba(0,0,0,0.25); }
+.son-chip:hover { border-color:var(--gold); }
+.prevnext { display:flex; gap:0.5rem; margin-bottom:1.5rem; }
+.prevnext .btn { flex:1; justify-content:center; }
+.pron-row { display:grid; grid-template-columns:2.5rem 1fr; gap:0.75rem; align-items:start; padding:0.65rem 0; border-bottom:1px solid var(--border); }
+.pron-row:last-child { border-bottom:none; }
+.son-btn { width:2.2rem; height:2.2rem; border-radius:50%; border:1px solid var(--border); background:var(--bg3); color:var(--gold-light); cursor:pointer; font-size:1rem; display:flex; align-items:center; justify-content:center; transition:all 0.18s; flex-shrink:0; }
+.son-btn:hover { background:var(--maple); color:white; border-color:var(--maple); transform:scale(1.05); }
+.pron-mot { font-family:'Cormorant Garamond',serif; font-size:1.15rem; font-weight:600; color:var(--cream); }
+.pron-ipa { font-family:'Outfit',sans-serif; font-size:0.82rem; color:var(--sky); margin-left:0.4rem; font-weight:400; }
+.pron-trad { font-size:0.82rem; color:var(--text-dim); margin-top:0.1rem; line-height:1.4; }
+.son-label { font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; font-weight:600; margin:1.1rem 0 0.4rem; }
+.son-label.nasal { color:var(--sage); }
+.son-label.pas-nasal { color:var(--maple-light); }
+.son-label.neutre { color:var(--gold); }
+.son-label.exception { color:#e8a33d; }
+.exception-note { font-size:0.82rem; color:var(--text-dim); line-height:1.4; padding:0.5rem 0; }
+.ec-actions { display:flex; gap:0.5rem; flex-wrap:wrap; align-items:center; margin-top:0.4rem; }
+.mode-toggle { display:flex; gap:0.5rem; margin-bottom:1.5rem; }
+.mode-toggle .btn { flex:1; justify-content:center; }
 .topbar-account { font-size:1.35rem; text-decoration:none; margin-left:0.6rem; line-height:1; }
-.subnav-tabs { display:flex; gap:0.5rem; margin-bottom:1.2rem; flex-wrap:wrap; }
-.subnav-tabs a, .subnav-tabs button { padding:0.45rem 0.9rem; border-radius:999px; background:#1c1c1c; color:#ccc; text-decoration:none; font-size:0.92rem; border:1px solid #333; cursor:pointer; font-family:'Outfit',sans-serif; }
-.subnav-tabs a.active, .subnav-tabs button.active { background:#c1440e; color:#fff; border-color:#c1440e; }
-
-.prod-panel { display:none; }
-.prod-panel.show { display:block; }
-
-.prod-explain { background:var(--bg3); border:1px solid var(--border); border-radius:14px; padding:1.1rem; margin-bottom:1.1rem; }
-.prod-explain h3 { font-family:'Cormorant Garamond',serif; color:var(--gold-light); font-size:1.3rem; margin:0 0 0.5rem; }
-.prod-explain p { color:var(--cream); font-size:0.95rem; line-height:1.55; margin:0 0 0.6rem; }
-.prod-explain ol { margin:0 0 0.4rem 1.1rem; padding:0; color:var(--cream); font-size:0.92rem; line-height:1.6; }
-.prod-explain li { margin-bottom:0.35rem; }
-.prod-tip { color:var(--text-dim); font-size:0.85rem; font-style:italic; margin-top:0.5rem; }
-
-.prod-progress { text-align:center; color:var(--text-dim); font-size:0.8rem; font-family:'Outfit',sans-serif; margin-bottom:0.6rem; }
-
-.prod-card { background:var(--bg3); border:1px solid var(--border); border-radius:16px; padding:1.5rem 1.2rem; text-align:center; margin-bottom:1rem; }
-.prod-word { font-family:'Cormorant Garamond',serif; font-size:2.2rem; color:var(--gold-light); margin-bottom:0.3rem; }
-.prod-trad { color:var(--text-dim); font-size:0.9rem; margin-bottom:1.1rem; }
-
-.prod-btnrow { display:flex; gap:0.6rem; justify-content:center; flex-wrap:wrap; margin-bottom:0.6rem; }
-.prod-btn { border:none; border-radius:24px; padding:0.7rem 1.3rem; font-family:'Outfit',sans-serif; font-weight:600; font-size:0.9rem; cursor:pointer; display:flex; align-items:center; gap:0.4rem; }
-.prod-btn-listen { background:var(--maple); color:#fff; }
-.prod-btn-record { background:var(--bg2); color:var(--cream); border:2px solid var(--gold); }
-.prod-btn-record.recording { background:#8a3030; border-color:#8a3030; color:#fff; animation:pulse 1s infinite; }
-.prod-btn-play { background:var(--sage,#5a7d5a); color:#fff; display:none; }
-.prod-btn-play.show { display:flex; }
-.prod-btn:disabled { opacity:0.5; }
-@keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.6;} }
-
-.prod-mic-status { font-size:0.82rem; color:var(--text-dim); font-family:'Outfit',sans-serif; min-height:1.2rem; margin-top:0.5rem; }
-.prod-mic-status.err { color:#e07050; }
-
-.prod-nav { display:flex; justify-content:space-between; margin-top:1rem; }
-.prod-nav-btn { background:var(--bg3); border:1px solid var(--border); border-radius:20px; color:var(--cream); padding:0.55rem 1.1rem; font-family:'Outfit',sans-serif; font-weight:600; cursor:pointer; font-size:0.85rem; }
-
-.prod-sonlist { display:flex; gap:0.4rem; flex-wrap:wrap; margin-bottom:1rem; }
-.prod-son-btn { background:var(--bg3); border:1px solid var(--border); border-radius:10px; padding:0.4rem 0.7rem; color:var(--cream-dim); font-family:'Outfit',sans-serif; font-size:0.82rem; cursor:pointer; }
-.prod-son-btn.active { background:var(--gold); color:#1a1410; border-color:var(--gold); }
-.subnav-group { margin-bottom:0.9rem; }
-.subnav-label { font-family:'Outfit',sans-serif; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-dim); margin-bottom:0.4rem; padding-left:0.2rem; }
-.subnav-tabs { display:flex; gap:0.5rem; flex-wrap:wrap; margin-bottom:0; }
 </style>
 </head>
 <body>
@@ -59,7 +48,7 @@
       <a href="vocabulaire.html" data-es="Vocabulario" data-ca="Vocabulari">Vocabulario</a>
       <a href="conjugaison.html" data-es="Conjugación" data-ca="Conjugació">Conjugación</a>
       <a href="grammaire.html" data-es="Gramática" data-ca="Gramàtica">Gramática</a>
-      <a href="prononciation.html" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
+      <a href="prononciation.html" class="active" data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</a>
       <a href="poemes.html" data-es="Poemas" data-ca="Poemes">Poemas</a>
       <a href="videos.html" data-es="Vídeos" data-ca="Vídeos">Vídeos</a>
     </div>
@@ -71,7 +60,7 @@
   <a href="vocabulaire.html"><span class="icon">📚</span><span data-es="Vocab" data-ca="Vocab">Vocab</span></a>
   <a href="conjugaison.html"><span class="icon">✏️</span><span data-es="Verbos" data-ca="Verbs">Verbos</span></a>
   <a href="grammaire.html"><span class="icon">📐</span><span data-es="Gram." data-ca="Gram.">Gram.</span></a>
-  <a href="prononciation.html"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
+  <a href="prononciation.html" class="active"><span class="icon">🔊</span><span data-es="Pron." data-ca="Pron.">Pron.</span></a>
   <a href="poemes.html"><span class="icon">📜</span><span data-es="Poemas" data-ca="Poemes">Poemas</span></a>
   <a href="videos.html"><span class="icon">🎬</span><span data-es="Vídeos" data-ca="Vídeos">Vídeos</span></a>
 </div>
@@ -79,303 +68,159 @@
 <div class="page-wrap">
 <div class="container">
   <div class="page-header fade-up">
-    <div class="page-header-label">🎙️ <span data-es="Producción" data-ca="Producció">Producción</span></div>
-    <h1 data-es="Ahora te toca hablar a ti" data-ca="Ara et toca parlar a tu">Ahora te toca hablar a ti</h1>
-    <p data-es="Escucha, grábate, compárate. Los oídos ya distinguen los sonidos — ahora hay que hacer que la boca los produzca." data-ca="Escolta, grava't, compara't. Les orelles ja distingeixen els sons — ara cal fer que la boca els produeixi.">Escucha, grábate, compárate.</p>
+    <div class="page-header-label">🔊 <span data-es="Módulo" data-ca="Mòdul">Módulo</span></div>
+    <h1 data-es="Pronunciación" data-ca="Pronunciació">Pronunciación</h1>
+    <p data-es="Aprende los sonidos, y luego entrena tu oído para distinguirlos." data-ca="Aprèn els sons, i després entrena la teva oïda per distingir-los.">Aprende los sonidos, y luego entrena tu oído.</p>
   </div>
 
-  <div class="subnav-group fade-up"><div class="subnav-label" data-es="Lecturas" data-ca="Lectures">Lecturas</div><div class="subnav-tabs"><a href="histoire.html">🪶 <span data-es="Historia" data-ca="Història">Historia</span></a><a href="feminisme.html">✊ <span data-es="Feminismo" data-ca="Feminisme">Feminismo</span></a><a href="anarchisme.html">🏴 <span data-es="Anarquismo" data-ca="Anarquisme">Anarquismo</span></a><a href="permaculture.html">🌱 <span data-es="Permacultura" data-ca="Permacultura">Permacultura</span></a></div></div><div class="subnav-group fade-up"><div class="subnav-label" data-es="Práctica" data-ca="Pràctica">Práctica</div><div class="subnav-tabs"><a href="wordle.html">🟩 <span data-es="Wordle" data-ca="Wordle">Wordle</span></a><a href="srs.html">🧠 <span data-es="Repaso" data-ca="Repàs">Repaso</span></a><a href="production.html" class="active">🎙️ <span data-es="Producción" data-ca="Producció">Producción</span></a></div></div>
-  <div class="subnav-tabs" style="margin-bottom:1.1rem;"><button id="tab-r" class="active" data-es="La R francesa" data-ca="La R francesa">La R francesa</button><button id="tab-general" data-es="Sonidos difíciles" data-ca="Sons difícils">Sonidos difíciles</button></div>
-  <!-- ===== PANEL R ===== -->
-  <div class="prod-panel show" id="panel-r">
-    <div class="prod-explain">
-      <h3 data-es="Cómo se hace" data-ca="Com es fa">Cómo se hace</h3>
-      <p data-es="La R francesa no se toca con la punta de la lengua (como en español o catalán). Se hace con la parte de atrás de la lengua, cerca de la garganta — casi como hacer gárgaras suaves." data-ca="La R francesa no es toca amb la punta de la llengua (com en castellà o català). Es fa amb la part del darrere de la llengua, a prop de la gola — gairebé com fer gàrgares suaus.">La R francesa se hace en la garganta.</p>
-      <ol id="r-steps"></ol>
-      <p class="prod-tip" data-es="Truco: intenta pronunciar una 'j' española suave (como en 'trabajo') sin exagerar. Esa posición está muy cerca de la R francesa." data-ca="Truc: intenta pronunciar una 'j' castellana suau (com a 'trabajo') sense exagerar. Aquesta posició està molt a prop de la R francesa.">Truco: la 'j' española suave se acerca mucho.</p>
-    </div>
-
-    <div class="prod-sonlist" id="r-groups"></div>
-    <div class="prod-progress" id="r-progress"></div>
-
-    <div class="prod-card">
-      <div class="prod-word" id="r-word">…</div>
-      <div class="prod-trad" id="r-trad"></div>
-      <div class="prod-btnrow">
-        <button class="prod-btn prod-btn-listen" id="r-listen">🔊 <span data-es="Escuchar" data-ca="Escoltar">Escuchar</span></button>
-        <button class="prod-btn prod-btn-record" id="r-record">🎙️ <span data-es="Grabarme" data-ca="Gravar-me">Grabarme</span></button>
-        <button class="prod-btn prod-btn-play" id="r-play">▶️ <span data-es="Escucharme" data-ca="Escoltar-me">Escucharme</span></button>
-      </div>
-      <div class="prod-mic-status" id="r-status"></div>
-    </div>
-
-    <div class="prod-nav">
-      <button class="prod-nav-btn" id="r-prev">← <span data-es="Anterior" data-ca="Anterior">Anterior</span></button>
-      <button class="prod-nav-btn" id="r-next"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
-    </div>
+  <div class="mode-toggle">
+    <a class="btn btn-gold" href="prononciation.html">📖 <span data-es="Aprender" data-ca="Aprendre">Aprender</span></a>
+    <a class="btn btn-ghost" href="prononciation-oreille.html">👂 <span data-es="Entrenar el oído" data-ca="Entrenar l'oïda">Entrenar el oído</span></a>
   </div>
 
-  <!-- ===== PANEL GENERAL ===== -->
-  <div class="prod-panel" id="panel-general">
-    <div class="prod-explain">
-      <h3 data-es="Otros sonidos que no existen en español ni catalán" data-ca="Altres sons que no existeixen en castellà ni català">Otros sonidos difíciles</h3>
-      <p data-es="Estos sonidos se hacen con los labios redondeados hacia adelante, como para dar un beso, mientras la lengua se queda en una posición que no es la habitual." data-ca="Aquests sons es fan amb els llavis arrodonits cap endavant, com per fer un petó, mentre la llengua es queda en una posició que no és l'habitual.">Labios redondeados + posición de lengua distinta.</p>
-      <p class="prod-tip" data-es="Truco: di 'i' (como en 'sí') y, sin mover la lengua, redondea los labios como si fueras a silbar. Eso da el sonido 'u' francés (como en 'tu')." data-ca="Truc: digues 'i' (com a 'sí') i, sense moure la llengua, arrodoneix els llavis com si anessis a xiular. Això dona el so 'u' francès (com a 'tu').">Truco del beso para el sonido 'u'.</p>
+  <!-- MODE APPRENDRE -->
+  <div id="learn-zone">
+    <label class="select-label" id="select-label" data-es="ELIGE UN SONIDO" data-ca="TRIA UN SO">ELIGE UN SONIDO</label>
+    <div class="son-grid" id="son-grid"></div>
+    <div class="prevnext">
+      <button class="btn btn-ghost" onclick="step(-1)">← <span data-es="Anterior" data-ca="Anterior">Anterior</span></button>
+      <button class="btn btn-ghost" onclick="step(1)"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
     </div>
-
-    <div class="prod-sonlist" id="g-groups"></div>
-
-<div class="prod-progress" id="g-progress"></div>
-
-    <div class="prod-card">
-      <div class="prod-word" id="g-word">…</div>
-      <div class="prod-trad" id="g-trad"></div>
-      <div class="prod-btnrow">
-        <button class="prod-btn prod-btn-listen" id="g-listen">🔊 <span data-es="Escuchar" data-ca="Escoltar">Escuchar</span></button>
-        <button class="prod-btn prod-btn-record" id="g-record">🎙️ <span data-es="Grabarme" data-ca="Gravar-me">Grabarme</span></button>
-        <button class="prod-btn prod-btn-play" id="g-play">▶️ <span data-es="Escucharme" data-ca="Escoltar-me">Escucharme</span></button>
-      </div>
-      <div class="prod-mic-status" id="g-status"></div>
-    </div>
-
-    <div class="prod-nav">
-      <button class="prod-nav-btn" id="g-prev">← <span data-es="Anterior" data-ca="Anterior">Anterior</span></button>
-      <button class="prod-nav-btn" id="g-next"><span data-es="Siguiente" data-ca="Següent">Siguiente</span> →</button>
-    </div>
+    <div id="content"></div>
   </div>
 
 </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../js/supabase-config.js"></script>
+<script src="../js/progress.js"></script>
+<script src="../js/lang.js"></script>
 <script>
-function getLang(){ return localStorage.getItem('lang') || localStorage.getItem('laura_lang') || 'es'; }
-function applyLang(){
-  document.querySelectorAll('[data-es]').forEach(el=>{
-    const v = el.getAttribute('data-'+getLang()) || el.getAttribute('data-es');
-    if (el.children.length===0) el.textContent = v;
-  });
-}
-document.querySelectorAll('.lang-toggle button').forEach(b=>{
-  b.addEventListener('click', ()=>{ localStorage.setItem('lang', b.dataset.lang); location.reload(); });
-});
+let modules = [], modData = {}, flat = [], cur = 0, voicesCache = [];
+const lang = () => localStorage.getItem('laura_lang') || 'es';
 
-/* ---------- TTS ---------- */
-let voicesCache = [];
-function loadVoices(){ voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
-if ('speechSynthesis' in window){ loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
-function say(text){
-  if (!('speechSynthesis' in window)) { alert(getLang()==='ca' ? 'El teu navegador no suporta àudio.' : 'Tu navegador no soporta audio.'); return; }
+function loadVoices() { voicesCache = window.speechSynthesis ? speechSynthesis.getVoices() : []; }
+if ('speechSynthesis' in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+function say(text) {
+  if (!('speechSynthesis' in window)) { alert(lang() === 'es' ? 'Tu navegador no soporta audio.' : 'El teu navegador no suporta àudio.'); return; }
   speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'fr-CA';
-  const v = voicesCache.find(x=>x.lang==='fr-CA') || voicesCache.find(x=>x.lang && x.lang.startsWith('fr'));
+  const v = voicesCache.find(x => x.lang === 'fr-CA') || voicesCache.find(x => x.lang && x.lang.startsWith('fr'));
   if (v) u.voice = v;
-  u.rate = 0.82;
+  u.rate = 0.85;
   speechSynthesis.speak(u);
 }
+function esc(s) { return (s || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'"); }
 
-/* ---------- Étapes de prononciation du R (bilingue) ---------- */
-const R_STEPS = {
-  es: [
-    "Abre la boca como para decir 'a'.",
-    "Sube la parte de atrás de la lengua hacia el paladar blando, sin tocarlo del todo.",
-    "Deja pasar el aire por ese espacio estrecho — debería vibrar un poco, como un ronroneo suave.",
-    "No uses la punta de la lengua en ningún momento."
-  ],
-  ca: [
-    "Obre la boca com per dir 'a'.",
-    "Puja la part del darrere de la llengua cap al paladar tou, sense tocar-lo del tot.",
-    "Deixa passar l'aire per aquest espai estret — hauria de vibrar una mica, com un roneig suau.",
-    "No facis servir la punta de la llengua en cap moment."
-  ]
-};
-
-/* ---------- Banques de mots ---------- */
-const R_WORDS = [
-  { mot:"rouge", es:"rojo", ca:"vermell", groupe:"initial" },
-  { mot:"rue", es:"calle", ca:"carrer", groupe:"initial" },
-  { mot:"riz", es:"arroz", ca:"arròs", groupe:"initial" },
-  { mot:"robe", es:"vestido", ca:"vestit", groupe:"initial" },
-  { mot:"rare", es:"raro", ca:"rar", groupe:"initial" },
-  { mot:"Paris", es:"París", ca:"París", groupe:"milieu" },
-  { mot:"orange", es:"naranja", ca:"taronja", groupe:"milieu" },
-  { mot:"direct", es:"directo", ca:"directe", groupe:"milieu" },
-  { mot:"trois", es:"tres", ca:"tres", groupe:"groupe" },
-  { mot:"grand", es:"grande", ca:"gran", groupe:"groupe" },
-  { mot:"France", es:"Francia", ca:"França", groupe:"groupe" },
-  { mot:"crème", es:"crema", ca:"crema", groupe:"groupe" },
-  { mot:"printemps", es:"primavera", ca:"primavera", groupe:"groupe" },
-  { mot:"mer", es:"mar", ca:"mar", groupe:"final" },
-  { mot:"sœur", es:"hermana", ca:"germana", groupe:"final" },
-  { mot:"pour", es:"para", ca:"per", groupe:"final" },
-  { mot:"cher", es:"caro / querido", ca:"car / estimat", groupe:"final" },
-  { mot:"jour", es:"día", ca:"dia", groupe:"final" },
-  { mot:"cœur", es:"corazón", ca:"cor", groupe:"final" }
-];
-const R_GROUPS = [
-  {id:"initial", es:"R al inicio", ca:"R a l'inici"},
-  {id:"milieu", es:"R en medio", ca:"R al mig"},
-  {id:"groupe", es:"R con otra consonante", ca:"R amb una altra consonant"},
-  {id:"final", es:"R al final (se pronuncia)", ca:"R al final (es pronuncia)"}
-];
-
-const G_WORDS = [
-  { mot:"tu", es:"tú", ca:"tu", groupe:"u" },
-  { mot:"rue", es:"calle", ca:"carrer", groupe:"u" },
-  { mot:"lune", es:"luna", ca:"lluna", groupe:"u" },
-  { mot:"musique", es:"música", ca:"música", groupe:"u" },
-  { mot:"deux", es:"dos", ca:"dos", groupe:"eu" },
-  { mot:"peu", es:"poco", ca:"poc", groupe:"eu" },
-  { mot:"bleu", es:"azul", ca:"blau", groupe:"eu" },
-  { mot:"jeudi", es:"jueves", ca:"dijous", groupe:"eu" },
-  { mot:"sœur", es:"hermana", ca:"germana", groupe:"eu-ouvert" },
-  { mot:"peur", es:"miedo", ca:"por", groupe:"eu-ouvert" },
-  { mot:"neuf", es:"nueve / nuevo", ca:"nou", groupe:"eu-ouvert" },
-  { mot:"bon", es:"bueno", ca:"bo", groupe:"nasal" },
-  { mot:"pain", es:"pan", ca:"pa", groupe:"nasal" },
-  { mot:"vent", es:"viento", ca:"vent", groupe:"nasal" },
-  { mot:"un", es:"uno", ca:"un", groupe:"nasal" }
-];
-const G_GROUPS = [
-  {id:"u", es:"El sonido U (tu)", ca:"El so U (tu)"},
-  {id:"eu", es:"El sonido EU cerrado (deux)", ca:"El so EU tancat (deux)"},
-  {id:"eu-ouvert", es:"El sonido EU abierto (sœur)", ca:"El so EU obert (sœur)"},
-  {id:"nasal", es:"Vocales nasales", ca:"Vocals nasals"}
-];
-
-/* ---------- Enregistrement micro ---------- */
-function makeRecorder(btnId, playBtnId, statusId){
-  let mediaRecorder = null;
-  let chunks = [];
-  let stream = null;
-  let audioUrl = null;
-  const btn = document.getElementById(btnId);
-  const playBtn = document.getElementById(playBtnId);
-  const status = document.getElementById(statusId);
-  let recording = false;
-
-  btn.addEventListener('click', async ()=>{
-    if (!navigator.mediaDevices || !window.MediaRecorder){
-      status.textContent = getLang()==='ca' ? 'El teu navegador no permet gravar.' : 'Tu navegador no permite grabar.';
-      status.classList.add('err');
-      return;
-    }
-    if (!recording){
-      try {
-        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-        chunks = [];
-        mediaRecorder = new MediaRecorder(stream);
-        mediaRecorder.ondataavailable = e => chunks.push(e.data);
-        mediaRecorder.onstop = ()=>{
-          const blob = new Blob(chunks, { type: mediaRecorder.mimeType || 'audio/webm' });
-          if (audioUrl) URL.revokeObjectURL(audioUrl);
-          audioUrl = URL.createObjectURL(blob);
-          playBtn.classList.add('show');
-          stream.getTracks().forEach(t=>t.stop());
-        };
-        mediaRecorder.start();
-        recording = true;
-        btn.classList.add('recording');
-        status.classList.remove('err');
-        status.textContent = getLang()==='ca' ? 'Gravant… torna a tocar per parar' : 'Grabando… toca de nuevo para parar';
-      } catch(e){
-        status.classList.add('err');
-        status.textContent = getLang()==='ca' ? 'Cal donar permís al micròfon.' : 'Hace falta dar permiso al micrófono.';
-      }
-    } else {
-      mediaRecorder.stop();
-      recording = false;
-      btn.classList.remove('recording');
-      status.textContent = getLang()==='ca' ? 'Fet! Escolta\'t.' : '¡Listo! Escúchate.';
-    }
-  });
-
-  playBtn.addEventListener('click', ()=>{
-    if (audioUrl){ new Audio(audioUrl).play(); }
-  });
-
-  return {
-    reset(){
-      playBtn.classList.remove('show');
-      status.textContent = '';
-      status.classList.remove('err');
-      if (audioUrl){ URL.revokeObjectURL(audioUrl); audioUrl = null; }
-    }
-  };
+/* ---------- MODE APPRENDRE (règles + écoute) ---------- */
+async function load() {
+  const r = await fetch('../data/prononciation/index.json');
+  const idx = await r.json();
+  modules = idx.modules;
+  await Promise.all(modules.map(async m => {
+    const res = await fetch('../' + m.fichier);
+    modData[m.id] = await res.json();
+  }));
+  buildFlat(); buildGrid(); render(0);
 }
-
-/* ---------- Logique générique d'un panneau (R ou général) ---------- */
-function buildPanel(prefix, words, groups){
-  let currentGroup = groups[0].id;
-  let idx = 0;
-  const recorder = makeRecorder(prefix+'-record', prefix+'-play', prefix+'-status');
-
-  function filtered(){ return words.filter(w=>w.groupe===currentGroup); }
-
-  function renderGroups(){
-    const el = document.getElementById(prefix+'-groups');
-    el.innerHTML = '';
-    groups.forEach(g=>{
-      const b = document.createElement('button');
-      b.className = 'prod-son-btn' + (g.id===currentGroup ? ' active' : '');
-      b.textContent = g[getLang()] || g.es;
-      b.addEventListener('click', ()=>{ currentGroup = g.id; idx = 0; renderGroups(); renderCard(); });
-      el.appendChild(b);
-    });
-  }
-
-  function renderCard(){
-    const list = filtered();
-    if (idx < 0) idx = list.length - 1;
-    if (idx >= list.length) idx = 0;
-    const w = list[idx];
-    document.getElementById(prefix+'-word').textContent = w.mot;
-    document.getElementById(prefix+'-trad').textContent = w[getLang()] || w.es;
-    document.getElementById(prefix+'-progress').textContent = (idx+1) + ' / ' + list.length;
-    recorder.reset();
-  }
-
-  document.getElementById(prefix+'-listen').addEventListener('click', ()=>{
-    const w = filtered()[idx];
-    say(w.mot);
-  });
-  document.getElementById(prefix+'-next').addEventListener('click', ()=>{ idx++; renderCard(); });
-  document.getElementById(prefix+'-prev').addEventListener('click', ()=>{ idx--; renderCard(); });
-
-  renderGroups();
-  renderCard();
-}
-
-/* ---------- Étapes R ---------- */
-function renderRSteps(){
-  const ol = document.getElementById('r-steps');
-  ol.innerHTML = '';
-  (R_STEPS[getLang()] || R_STEPS.es).forEach(s=>{
-    const li = document.createElement('li');
-    li.textContent = s;
-    ol.appendChild(li);
+function buildFlat() {
+  flat = [];
+  modules.forEach(m => {
+    const d = modData[m.id];
+    if (d.regles) d.regles.forEach((r, i) => flat.push({ type: 'regle', modId: m.id, idx: i, group: m.titre }));
+    else if (d.exercices) flat.push({ type: 'ecoute', modId: m.id, group: m.titre, ecouteTitle: m.titre });
   });
 }
+function buildGrid() {
+  const l = lang();
+  const grid = document.getElementById('son-grid'); grid.innerHTML = '';
+  let curGroupName = null, row = null;
+  flat.forEach((f, i) => {
+    const gName = f.group[l];
+    if (gName !== curGroupName) {
+      curGroupName = gName;
+      const h = document.createElement('div'); h.className = 'grid-group-label'; h.textContent = gName; grid.appendChild(h);
+      row = document.createElement('div'); row.className = 'son-grid-row'; grid.appendChild(row);
+    }
+    const b = document.createElement('button');
+    b.className = 'son-chip' + (i === cur ? ' active' : '');
+    b.dataset.idx = i;
+    const titreTxt = f.type === 'regle' ? modData[f.modId].regles[f.idx].titre[l] : '👂 ' + f.ecouteTitle[l];
+    const parts = titreTxt.split(/\s[—–-]\s/);
+    const sym = parts[0].trim();
+    const desc = parts.length > 1 ? parts.slice(1).join(' — ').trim() : '';
+    b.innerHTML = '<span class="son-chip-sym">' + sym + '</span>' + (desc ? '<span class="son-chip-desc">' + desc + '</span>' : '');
+    b.onclick = () => render(i);
+    row.appendChild(b);
+  });
+  document.getElementById('select-label').textContent = l === 'es' ? 'ELIGE UN SONIDO' : 'TRIA UN SO';
+}
+function goTo(i) { render(Number(i)); }
+function step(d) { let n = cur + d; if (n < 0) n = flat.length - 1; if (n >= flat.length) n = 0; render(n); }
+function render(i) {
+  cur = i; document.querySelectorAll('.son-chip').forEach(c => c.classList.toggle('active', Number(c.dataset.idx) === i));
+  const f = flat[i], l = lang();
+  if (f.type === 'ecoute') document.getElementById('content').innerHTML = renderEcoute(modData[f.modId], l);
+  else document.getElementById('content').innerHTML = renderRegle(modData[f.modId].regles[f.idx], l);
+  document.getElementById('content').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+function exBlock(label, cls, arr, l) {
+  if (!arr || !arr.length) return '';
+  const rows = arr.map(e =>
+    '<div class="pron-row"><button class="son-btn" onclick="say(\'' + esc(e.tts || e.mot) + '\')">🔊</button>' +
+    '<div><div class="pron-mot">' + e.mot + (e.phonetique ? '<span class="pron-ipa">' + e.phonetique + '</span>' : '') + '</div>' +
+    '<div class="pron-trad">' + e[l] + '</div></div></div>').join('');
+  return '<div class="son-label ' + cls + '">' + label + '</div>' + rows;
+}
+function excBlock(arr, l) {
+  if (!arr || !arr.length) return '';
+  const label = l === 'es' ? '⚠️ EXCEPCIONES' : '⚠️ EXCEPCIONS';
+  const rows = arr.map(e => {
+    if (e.mot === '—') {
+      return '<div class="exception-note">' + e[l] + '</div>';
+    }
+    return '<div class="pron-row"><button class="son-btn" onclick="say(\'' + esc(e.tts || e.mot) + '\')">🔊</button>' +
+      '<div><div class="pron-mot">' + e.mot + (e.phonetique ? '<span class="pron-ipa">' + e.phonetique + '</span>' : '') + '</div>' +
+      '<div class="pron-trad">' + e[l] + '</div></div></div>';
+  }).join('');
+  return '<div class="son-label exception">' + label + '</div>' + rows;
+}
+function renderRegle(r, l) {
+  const nasal = exBlock(l === 'es' ? '✅ CON sonido nasal' : '✅ AMB so nasal', 'nasal', r.exemples_nasal, l);
+  const pas = exBlock(l === 'es' ? '❌ SIN sonido nasal' : '❌ SENSE so nasal', 'pas-nasal', r.exemples_pas_nasal, l);
+  const plain = exBlock(l === 'es' ? '🔊 EJEMPLOS' : '🔊 EXEMPLES', 'neutre', r.exemples, l);
+  const exc = excBlock(r.exceptions, l);
+  return '<div class="card fade-up"><div class="section-title">' + r.titre[l] + '</div>' +
+    '<div class="info-box" style="margin-top:0.6rem">' + r.description[l] + '</div>' + nasal + pas + plain + exc + '</div>';
+}
+function renderEcoute(d, l) {
+  const intro = d.intro ? '<div class="info-box fade-up">' + d.intro[l] + '</div>' : '';
+  window._ecoute = d;
+  const cards = d.exercices.map((e, i) =>
+    '<div class="card fade-up"><div class="poem-meta" style="margin-bottom:0.6rem"><span class="tag tag-gold">' + e.niveau + '</span></div>' +
+    '<div class="ec-actions"><button class="btn btn-primary" onclick="say(\'' + esc(e.tts || e.texte) + '\')">🔊 ' + (l === 'es' ? 'Escuchar' : 'Escoltar') + '</button>' +
+    '<button class="btn btn-ghost" onclick="reveal(' + i + ')">' + (l === 'es' ? '👁 Mostrar respuesta' : '👁 Mostrar resposta') + '</button></div>' +
+    '<label class="reading-q-label">' + (l === 'es' ? 'Escribe lo que oíste:' : 'Escriu el que has sentit:') + '</label>' +
+    '<input class="reading-input" type="text" placeholder="..."><div id="rev-' + i + '" style="margin-top:0.6rem"></div></div>').join('');
+  return intro + cards;
+}
+let revealedEcoute = new Set();
+function reveal(i) {
+  const e = window._ecoute.exercices[i], l = lang();
+  const note = e.note ? '<div class="explication">💡 ' + e.note[l] + '</div>' : '';
+  document.getElementById('rev-' + i).innerHTML = '<div class="feedback-box show correct">🇫🇷 <strong>' + e.texte + '</strong><div class="explication">🇪🇸 ' + e[l] + '</div>' + note + '</div>';
+  const key = (e.id || i);
+  if (!revealedEcoute.has(key)) { revealedEcoute.add(key); if (window.Progress) Progress.recordExercise('prononciation', 'ecoute', true); }
+}
 
-/* ---------- Onglets ---------- */
-document.getElementById('tab-r').addEventListener('click', ()=>{
-  document.getElementById('tab-r').classList.add('active');
-  document.getElementById('tab-general').classList.remove('active');
-  document.getElementById('panel-r').classList.add('show');
-  document.getElementById('panel-general').classList.remove('show');
+document.addEventListener('DOMContentLoaded', () => {
+  load();
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.addEventListener('click', () => setTimeout(() => { buildGrid(); render(cur); }, 0));
+  });
 });
-document.getElementById('tab-general').addEventListener('click', ()=>{
-  document.getElementById('tab-general').classList.add('active');
-  document.getElementById('tab-r').classList.remove('active');
-  document.getElementById('panel-general').classList.add('show');
-  document.getElementById('panel-r').classList.remove('show');
-});
-
-applyLang();
-renderRSteps();
-buildPanel('r', R_WORDS, R_GROUPS);
-buildPanel('g', G_WORDS, G_GROUPS);
 </script>
-<script>if("serviceWorker" in navigator){navigator.serviceWorker.register("/service-worker.js").catch(()=>{});}</script>
 </body>
 </html>

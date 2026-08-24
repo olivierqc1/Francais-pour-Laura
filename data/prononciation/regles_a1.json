@@ -52,6 +52,20 @@
           "es": "como",
           "ca": "com"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "automne",
+          "phonetique": "[otɔn]",
+          "es": "El grupo MN bloquea la nasal: no suena [ɔ̃t], sino [ɔtɔn].",
+          "ca": "El grup MN bloqueja la nasal: no sona [ɔ̃t], sinó [ɔtɔn]."
+        },
+        {
+          "mot": "monsieur",
+          "phonetique": "[məsjø]",
+          "es": "Totalmente irregular: ni la O ni el resto se leen como se escriben.",
+          "ca": "Totalment irregular: ni la O ni la resta es llegeixen tal com s'escriuen."
+        }
       ]
     },
     {
@@ -105,6 +119,20 @@
           "mot": "ennemi",
           "es": "enemigo",
           "ca": "enemic"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "femme",
+          "phonetique": "[fam]",
+          "es": "A pesar de escribirse EM, suena como una «a» normal y NO es nasal.",
+          "ca": "Tot i escriure's EM, sona com una «a» normal i NO és nasal."
+        },
+        {
+          "mot": "examen",
+          "phonetique": "[ɛgzamɛ̃]",
+          "es": "Aquí EN no suena [ɑ̃] sino [ɛ̃] (como IN). Una excepción muy conocida.",
+          "ca": "Aquí EN no sona [ɑ̃] sinó [ɛ̃] (com IN). Una excepció molt coneguda."
         }
       ]
     },
@@ -160,6 +188,20 @@
           "es": "inútil",
           "ca": "inútil"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "immense",
+          "phonetique": "[imɑ̃s]",
+          "es": "La doble M bloquea la nasal: NO es [ɛ̃mɑ̃s], la I suena normal.",
+          "ca": "La doble M bloqueja la nasal: NO és [ɛ̃mɑ̃s], la I sona normal."
+        },
+        {
+          "mot": "image",
+          "phonetique": "[imaʒ]",
+          "es": "IM + vocal = no nasal, igual que «immense».",
+          "ca": "IM + vocal = no nasal, igual que «immense»."
+        }
       ]
     },
     {
@@ -201,6 +243,20 @@
           "mot": "beaucoup",
           "es": "mucho",
           "ca": "molt"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "oui",
+          "phonetique": "[wi]",
+          "es": "Cuando OU va delante de otra vocal, se convierte en el sonido [w], no en [u] completo.",
+          "ca": "Quan OU va davant d'una altra vocal, es converteix en el so [w], no en [u] complet."
+        },
+        {
+          "mot": "ouest",
+          "phonetique": "[wɛst]",
+          "es": "Mismo caso: OU + vocal = [w].",
+          "ca": "Mateix cas: OU + vocal = [w]."
         }
       ]
     },
@@ -244,6 +300,20 @@
           "es": "seguro",
           "ca": "segur"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "qui",
+          "phonetique": "[ki]",
+          "es": "Después de Q, la U casi siempre es muda (ver la regla QU).",
+          "ca": "Després de Q, la U gairebé sempre és muda (mira la regla QU)."
+        },
+        {
+          "mot": "quatre",
+          "phonetique": "[katʁ]",
+          "es": "Misma idea: QU + vocal = [k], la U no se pronuncia como [y].",
+          "ca": "Mateixa idea: QU + vocal = [k], la U no es pronuncia com [y]."
+        }
       ]
     },
     {
@@ -286,6 +356,14 @@
           "es": "quebequés",
           "ca": "quebequès"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "oignon",
+          "phonetique": "[ɔɲɔ̃]",
+          "es": "Excepción famosa: aunque se escribe OI, NO suena [wa]. Es solo [ɔ].",
+          "ca": "Excepció famosa: encara que s'escriu OI, NO sona [wa]. És només [ɔ]."
+        }
       ]
     },
     {
@@ -314,6 +392,7 @@
           "ca": "por"
         },
         {
+
           "mot": "sœur",
           "es": "hermana",
           "ca": "germana"
@@ -327,6 +406,20 @@
           "mot": "heureux",
           "es": "feliz",
           "ca": "feliç"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "neuf",
+          "phonetique": "[nœf]",
+          "es": "Delante de una consonante final pronunciada, EU suena abierto [œ] en vez del [ø] cerrado.",
+          "ca": "Davant d'una consonant final pronunciada, EU sona obert [œ] en lloc del [ø] tancat."
+        },
+        {
+          "mot": "œuf",
+          "phonetique": "[œf]",
+          "es": "Mismo patrón: sonido abierto [œ], no [ø].",
+          "ca": "Mateix patró: so obert [œ], no [ø]."
         }
       ]
     },
@@ -370,6 +463,20 @@
           "es": "nariz",
           "ca": "nas"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "hiver",
+          "phonetique": "[ivɛʁ]",
+          "es": "Aquí la R final SÍ se pronuncia (a diferencia de los infinitivos como «parler»).",
+          "ca": "Aquí la R final SÍ es pronuncia (a diferència dels infinitius com «parler»)."
+        },
+        {
+          "mot": "cher / mer / hier",
+          "phonetique": "[ʃɛʁ] / [mɛʁ] / [jɛʁ]",
+          "es": "Mismo caso: -ER se pronuncia entero, no como el -er mudo de los verbos.",
+          "ca": "Mateix cas: -ER es pronuncia sencer, no com el -er mut dels verbs."
+        }
       ]
     },
     {
@@ -411,6 +518,14 @@
           "mot": "elle",
           "es": "ella",
           "ca": "ella"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "nous faisons",
+          "phonetique": "[fəzɔ̃]",
+          "es": "En las formas de «faire» con -ais-, la AI se pronuncia [ə], no [ɛ].",
+          "ca": "En les formes de «faire» amb -ais-, la AI es pronuncia [ə], no [ɛ]."
         }
       ]
     },
@@ -454,6 +569,20 @@
           "es": "pastel",
           "ca": "pastís"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "note",
+          "phonetique": "[nɔt]",
+          "es": "Delante de una consonante final pronunciada, la O suele ser abierta [ɔ], no cerrada [o].",
+          "ca": "Davant d'una consonant final pronunciada, la O sol ser oberta [ɔ], no tancada [o]."
+        },
+        {
+          "mot": "robe / homme",
+          "phonetique": "[ʁɔb] / [ɔm]",
+          "es": "Mismo patrón de O abierta.",
+          "ca": "Mateix patró de O oberta."
+        }
       ]
     },
     {
@@ -495,6 +624,20 @@
           "mot": "chocolat",
           "es": "chocolate",
           "ca": "xocolata"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "chœur",
+          "phonetique": "[kœʁ]",
+          "es": "En palabras de origen griego, CH suena [k], no [ʃ].",
+          "ca": "En paraules d'origen grec, CH sona [k], no [ʃ]."
+        },
+        {
+          "mot": "orchestre / technique",
+          "phonetique": "[ɔʁkɛstʁ] / [tɛknik]",
+          "es": "Mismo grupo de excepciones «griegas».",
+          "ca": "Mateix grup d'excepcions «gregues»."
         }
       ]
     },
@@ -538,6 +681,20 @@
           "es": "cebolla",
           "ca": "ceba"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "stagnant",
+          "phonetique": "[stagnɑ̃]",
+          "es": "En palabras cultas/científicas, GN se separa en [g]+[n], no suena [ɲ].",
+          "ca": "En paraules cultes/científiques, GN se separa en [g]+[n], no sona [ɲ]."
+        },
+        {
+          "mot": "diagnostic / gnome",
+          "phonetique": "[djagnɔstik] / [gnom]",
+          "es": "Mismo caso.",
+          "ca": "Mateix cas."
+        }
       ]
     },
     {
@@ -575,6 +732,13 @@
           "es": "empecemos",
           "ca": "comencem"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "—",
+          "es": "La ç prácticamente no tiene excepciones: existe precisamente para garantizar siempre el sonido [s].",
+          "ca": "La ç pràcticament no té excepcions: existeix precisament per garantir sempre el so [s]."
+        }
       ]
     },
     {
@@ -611,6 +775,14 @@
           "mot": "Laura",
           "es": "Laura",
           "ca": "Laura"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "le / de / je / ce / que",
+          "phonetique": "[ə]",
+          "es": "En estas palabras gramaticales de una sola letra + E, la E SÍ se pronuncia como una «e» ligera, sobre todo aisladas o delante de consonante.",
+          "ca": "En aquestes paraules gramaticals d'una sola lletra + E, la E SÍ es pronuncia com una «e» lleugera, sobretot aïllades o davant de consonant."
         }
       ]
     }

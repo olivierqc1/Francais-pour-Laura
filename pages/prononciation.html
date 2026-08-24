@@ -32,6 +32,8 @@
 .son-label.nasal { color:var(--sage); }
 .son-label.pas-nasal { color:var(--maple-light); }
 .son-label.neutre { color:var(--gold); }
+.son-label.exception { color:#e8a33d; }
+.exception-note { font-size:0.82rem; color:var(--text-dim); line-height:1.4; padding:0.5rem 0; }
 .ec-actions { display:flex; gap:0.5rem; flex-wrap:wrap; align-items:center; margin-top:0.4rem; }
 .mode-toggle { display:flex; gap:0.5rem; margin-bottom:1.5rem; }
 .mode-toggle .btn { flex:1; justify-content:center; }
@@ -109,6 +111,8 @@ function say(text) {
   if (v) u.voice = v;
   u.rate = 0.85;
   speechSynthesis.speak(u);
+
+
 }
 function esc(s) { return (s || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'"); }
 
@@ -162,7 +166,7 @@ function render(i) {
   const f = flat[i], l = lang();
   if (f.type === 'ecoute') document.getElementById('content').innerHTML = renderEcoute(modData[f.modId], l);
   else document.getElementById('content').innerHTML = renderRegle(modData[f.modId].regles[f.idx], l);
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  document.getElementById('content').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 function exBlock(label, cls, arr, l) {
   if (!arr || !arr.length) return '';
@@ -172,12 +176,26 @@ function exBlock(label, cls, arr, l) {
     '<div class="pron-trad">' + e[l] + '</div></div></div>').join('');
   return '<div class="son-label ' + cls + '">' + label + '</div>' + rows;
 }
+function excBlock(arr, l) {
+  if (!arr || !arr.length) return '';
+  const label = l === 'es' ? '⚠️ EXCEPCIONES' : '⚠️ EXCEPCIONS';
+  const rows = arr.map(e => {
+    if (e.mot === '—') {
+      return '<div class="exception-note">' + e[l] + '</div>';
+    }
+    return '<div class="pron-row"><button class="son-btn" onclick="say(\'' + esc(e.tts || e.mot) + '\')">🔊</button>' +
+      '<div><div class="pron-mot">' + e.mot + (e.phonetique ? '<span class="pron-ipa">' + e.phonetique + '</span>' : '') + '</div>' +
+      '<div class="pron-trad">' + e[l] + '</div></div></div>';
+  }).join('');
+  return '<div class="son-label exception">' + label + '</div>' + rows;
+}
 function renderRegle(r, l) {
   const nasal = exBlock(l === 'es' ? '✅ CON sonido nasal' : '✅ AMB so nasal', 'nasal', r.exemples_nasal, l);
   const pas = exBlock(l === 'es' ? '❌ SIN sonido nasal' : '❌ SENSE so nasal', 'pas-nasal', r.exemples_pas_nasal, l);
   const plain = exBlock(l === 'es' ? '🔊 EJEMPLOS' : '🔊 EXEMPLES', 'neutre', r.exemples, l);
+  const exc = excBlock(r.exceptions, l);
   return '<div class="card fade-up"><div class="section-title">' + r.titre[l] + '</div>' +
-    '<div class="info-box" style="margin-top:0.6rem">' + r.description[l] + '</div>' + nasal + pas + plain + '</div>';
+    '<div class="info-box" style="margin-top:0.6rem">' + r.description[l] + '</div>' + nasal + pas + plain + exc + '</div>';
 }
 function renderEcoute(d, l) {
   const intro = d.intro ? '<div class="info-box fade-up">' + d.intro[l] + '</div>' : '';

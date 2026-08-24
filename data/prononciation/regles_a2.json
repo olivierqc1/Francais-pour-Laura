@@ -40,6 +40,18 @@
           "es": "trabajar",
           "ca": "treballar"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "parler / manger",
+          "es": "En los infinitivos en -er, la R final es muda (ver la regla É/ER).",
+          "ca": "En els infinitius en -er, la R final és muda (mira la regla É/ER)."
+        },
+        {
+          "mot": "québécois",
+          "es": "En el francés de Quebec, la R suele pronunciarse distinto (más adelante en la boca, más suave) que en Francia.",
+          "ca": "En el francès del Quebec, la R sol pronunciar-se diferent (més endavant a la boca, més suau) que a França."
+        }
       ]
     },
     {
@@ -76,6 +88,19 @@
           "mot": "histoire",
           "es": "historia",
           "ca": "història"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "le héros",
+          "phonetique": "[lə eʁo]",
+          "es": "«H aspirée»: NO hay elisión ni liaison, a diferencia de «l'hôtel» o «l'homme».",
+          "ca": "«H aspirée»: NO hi ha elisió ni liaison, a diferència de «l'hôtel» o «l'home»."
+        },
+        {
+          "mot": "la honte / les haricots",
+          "es": "Mismo tipo de H «aspirada»: se comporta como si empezara por consonante.",
+          "ca": "Mateix tipus de H «aspirada»: es comporta com si comencés per consonant."
         }
       ]
     },
@@ -119,6 +144,18 @@
           "es": "nariz",
           "ca": "nas"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "sac / chef / cher / animal",
+          "es": "Truco «CaReFuL»: las consonantes C, R, F y L SÍ suelen pronunciarse al final de palabra.",
+          "ca": "Truc «CaReFuL»: les consonants C, R, F i L SÍ solen pronunciar-se al final de paraula."
+        },
+        {
+          "mot": "six / dix / neuf",
+          "es": "Los números conservan su consonante final cuando se dicen solos.",
+          "ca": "Els números conserven la seva consonant final quan es diuen sols."
+        }
       ]
     },
     {
@@ -155,6 +192,18 @@
           "mot": "très important",
           "es": "muy importante",
           "ca": "molt important"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "un chat et un chien",
+          "es": "Con la palabra «et» (y) nunca hay liaison.",
+          "ca": "Amb la paraula «et» (i) mai hi ha liaison."
+        },
+        {
+          "mot": "les onze enfants",
+          "es": "No hay liaison delante de «onze» ni de «oui» (se dice «lé onze», no «lé-zonze»).",
+          "ca": "No hi ha liaison davant de «onze» ni de «oui» (es diu «lé onze», no «lé-zonze»)."
         }
       ]
     },
@@ -198,6 +247,14 @@
           "es": "por qué",
           "ca": "per què"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "aquarium / équateur",
+          "phonetique": "[akwaʁjɔm] / [ekwatœʁ]",
+          "es": "En algunas palabras cultas, QU se pronuncia [kw] en vez de simplemente [k].",
+          "ca": "En algunes paraules cultes, QU es pronuncia [kw] en lloc de simplement [k]."
+        }
       ]
     },
     {
@@ -234,6 +291,13 @@
           "mot": "éléphant",
           "es": "elefante",
           "ca": "elefant"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "—",
+          "es": "PH prácticamente no tiene excepciones: siempre suena [f] en francés.",
+          "ca": "PH pràcticament no té excepcions: sempre sona [f] en francès."
         }
       ]
     },
@@ -272,8 +336,16 @@
           "es": "biblioteca",
           "ca": "biblioteca"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "—",
+          "es": "TH prácticamente no tiene excepciones: siempre suena [t] en francés.",
+          "ca": "TH pràcticament no té excepcions: sempre sona [t] en francès."
+        }
       ]
     },
+
     {
       "titre": {
         "es": "C dur / C doux — [k] o [s]",
@@ -313,6 +385,14 @@
           "mot": "classe",
           "es": "clase",
           "ca": "classe"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "second",
+          "phonetique": "[zəgɔ̃]",
+          "es": "Caso único: aquí la C suena [g], no [k] ni [s].",
+          "ca": "Cas únic: aquí la C sona [g], no [k] ni [s]."
         }
       ]
     },
@@ -356,6 +436,20 @@
           "es": "genial",
           "ca": "genial"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "guerre / guide / longue",
+          "phonetique": "[gɛʁ] / [gid] / [lɔ̃g]",
+          "es": "GU delante de E/I mantiene el sonido duro [g]; la U solo bloquea el ablandamiento, no se pronuncia.",
+          "ca": "GU davant d'E/I manté el so dur [g]; la U només bloqueja el suavitzat, no es pronuncia."
+        },
+        {
+          "mot": "nous mangeons",
+          "phonetique": "[mɑ̃ʒɔ̃]",
+          "es": "Se añade una E muda antes de A/O para conservar el sonido suave [ʒ].",
+          "ca": "S'afegeix una E muda abans d'A/O per conservar el so suau [ʒ]."
+        }
       ]
     },
     {
@@ -397,6 +491,14 @@
           "mot": "dessert",
           "es": "postre",
           "ca": "postres"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "parasol / tournesol",
+          "phonetique": "[paʁasɔl] / [tuʁnəsɔl]",
+          "es": "En palabras compuestas, la S puede sonar [s] entre vocales porque en realidad empieza la segunda palabra.",
+          "ca": "En paraules compostes, la S pot sonar [s] entre vocals perquè en realitat comença la segona paraula."
         }
       ]
     },
@@ -440,6 +542,14 @@
           "es": "Jacques",
           "ca": "Jacques"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "jean / jazz / job",
+          "phonetique": "[dʒin] / [dʒaz] / [dʒɔb]",
+          "es": "En palabras tomadas del inglés, la J puede conservar el sonido inglés [dʒ] en vez del [ʒ] francés.",
+          "ca": "En paraules preses de l'anglès, la J pot conservar el so anglès [dʒ] en lloc del [ʒ] francès."
+        }
       ]
     },
     {
@@ -482,6 +592,14 @@
           "es": "botella",
           "ca": "ampolla"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "ville / mille / tranquille / village",
+          "phonetique": "[vil] / [mil] / [tʁɑ̃kil] / [vilaʒ]",
+          "es": "Las excepciones clásicas: ILL suena [il], NO [j].",
+          "ca": "Les excepcions clàssiques: ILL sona [il], NO [j]."
+        }
       ]
     },
     {
@@ -519,6 +637,14 @@
           "es": "precio",
           "ca": "preu"
         }
+      ],
+      "exceptions": [
+        {
+          "mot": "dix / six",
+          "phonetique": "[dis] / [sis]",
+          "es": "Solas suenan [s]; mudas delante de consonante (dix personnes); [z] en liaison delante de vocal (dix ans = «dizan»).",
+          "ca": "Soles sonen [s]; mudes davant de consonant (dix personnes); [z] en liaison davant de vocal (dix ans = «dizan»)."
+        }
       ]
     },
     {
@@ -555,6 +681,14 @@
           "mot": "royal",
           "es": "real",
           "ca": "reial"
+        }
+      ],
+      "exceptions": [
+        {
+          "mot": "pays / paysage",
+          "phonetique": "[pei] / [peizaʒ]",
+          "es": "Aquí la Y separa dos sílabas (pa-ys) en vez de formar el diptongo AY, así que suena [pei], no [pɛj].",
+          "ca": "Aquí la Y separa dues síl·labes (pa-ys) en lloc de formar el diftong AY, així que sona [pei], no [pɛj]."
         }
       ]
     }
